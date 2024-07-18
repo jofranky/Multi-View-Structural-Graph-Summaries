@@ -1,0 +1,723 @@
+ <http://example.org/events/ProposalOfTheWeb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/c4dm/event.owl#Event> <CERN-euronews-0> .
+ <http://example.org/people/TimBernersLee> <http://purl.org/dc/terms/description> "British scientist who released the World Wide Web to the public."  <CERN-euronews-0> .
+ <http://example.org/organizations/CERN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/org#Organization> <CERN-euronews-0> .
+ <http://example.org/people/TimBernersLee> <http://xmlns.com/foaf/0.1/homepage> <http://info.cern.ch/> <CERN-euronews-0> .
+ <http://example.org/websites/SixDegrees> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebSite> <CERN-euronews-0> .
+ <http://example.org/events/InternautDay1991> <http://purl.org/dc/terms/date> "1991-08-23"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-euronews-0> .
+ <http://example.org/events/ProposalOfTheWeb> <http://purl.org/dc/terms/date> "1989-03-12"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-euronews-0> .
+ <http://example.org/software/NeXTSTEP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <CERN-euronews-0> .
+ <http://example.org/software/Archie> <http://purl.org/dc/terms/description> "The original search engine for the web, designed by Alan Emtage."  <CERN-euronews-0> .
+ <http://example.org/events/InternautDay1991> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/c4dm/event.owl#Event> <CERN-euronews-0> .
+ <http://example.org/events/InternautDay1991> <http://purl.org/dc/terms/description> "The day the internet went live."  <CERN-euronews-0> .
+ <http://example.org/software/Archie> <http://purl.org/dc/terms/date> "1990"^^<http://www.w3.org/2001/XMLSchema#gYear>  <CERN-euronews-0> .
+ <http://example.org/concepts/WorldWideWeb> <http://purl.org/dc/terms/creator> <http://example.org/people/TimBernersLee> <CERN-euronews-0> .
+ <http://example.org/software/WorldWideWebBrowser> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <CERN-euronews-0> .
+ <http://example.org/people/AlanEmtage> <http://xmlns.com/foaf/0.1/name> "Alan Emtage"  <CERN-euronews-0> .
+ <http://example.org/concepts/Internet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <CERN-euronews-0> .
+ <http://example.org/people/TimBernersLee> <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee"  <CERN-euronews-0> .
+ <http://example.org/software/WorldWideWebBrowser> <http://purl.org/dc/terms/description> "The original browser for the World Wide Web, developed on NeXTSTEP."  <CERN-euronews-0> .
+ <http://example.org/software/WorldWideWebBrowser> <http://schema.org/softwareVersion> "NeXTSTEP"  <CERN-euronews-0> .
+ <http://example.org/organizations/CERN> <http://xmlns.com/foaf/0.1/name> "CERN"  <CERN-euronews-0> .
+ <http://example.org/websites/SixDegrees> <http://purl.org/dc/terms/date> "1997-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-euronews-0> .
+ <http://example.org/people/TimBernersLee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-euronews-0> .
+ <http://example.org/software/Archie> <http://purl.org/dc/terms/creator> <http://example.org/people/AlanEmtage> <CERN-euronews-0> .
+ <http://example.org/concepts/Internet> <http://purl.org/dc/terms/description> "A means of networking computers, existing for a few decades before the World Wide Web."  <CERN-euronews-0> .
+ <http://example.org/software/WorldWideWebBrowser> <http://purl.org/dc/terms/creator> <http://example.org/people/TimBernersLee> <CERN-euronews-0> .
+ <http://example.org/people/TimBernersLee> <http://www.w3.org/ns/org#memberOf> <http://example.org/organizations/CERN> <CERN-euronews-0> .
+ <http://example.org/concepts/WorldWideWeb> <http://purl.org/dc/terms/description> "A means for storing and collaborating on documents across the internet."  <CERN-euronews-0> .
+ <http://example.org/organizations/CERN> <http://www.w3.org/ns/org#location> "Geneva"  <CERN-euronews-0> .
+ <http://example.org/events/ProposalOfTheWeb> <http://purl.org/dc/terms/description> "Tim Berners-Lee first proposed the World Wide Web."  <CERN-euronews-0> .
+ <http://example.org/websites/SixDegrees> <http://purl.org/dc/terms/description> "Arguably the first social media site, run between 1997 and 2000."  <CERN-euronews-0> .
+ <http://example.org/software/NeXTSTEP> <http://purl.org/dc/terms/description> "Operating system used by Tim Berners-Lee to develop the WorldWideWeb browser."  <CERN-euronews-0> .
+ <http://example.org/people/AlanEmtage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-euronews-0> .
+ <http://example.org/concepts/WorldWideWeb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <CERN-euronews-0> .
+ <http://example.org/software/Archie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <CERN-euronews-0> .
+ <http://example.org/Web3_0> <http://www.w3.org/2000/01/rdf-schema#comment> "Tim Berners-Lee's vision for a new Web with a third layer of protocols"  <CERN-euronews-1> .
+ <http://example.org/WorldWideWeb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <CERN-euronews-1> .
+ <http://example.org/WebbyAwards> <http://dbpedia.org/ontology/date> "2009-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-euronews-1> .
+ <http://example.org/Lisbon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <CERN-euronews-1> .
+ <http://example.org/TimBernersLeeLifetimeAchievementAward> <http://schema.org/awardee> <http://example.org/TimBernersLee> <CERN-euronews-1> .
+ <http://example.org/Solid> <http://xmlns.com/foaf/0.1/name> "Solid"  <CERN-euronews-1> .
+ <http://example.org/Pod> <http://www.w3.org/2000/01/rdf-schema#comment> "A private data storage accessible via a browser, not an app"  <CERN-euronews-1> .
+ <http://example.org/NewYork> <http://xmlns.com/foaf/0.1/name> "New York"  <CERN-euronews-1> .
+ <http://example.org/TimBernersLee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-euronews-1> .
+ <http://example.org/TimBernersLeeLifetimeAchievementAward> <http://purl.org/dc/elements/1.1/date> "2009-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-euronews-1> .
+ <http://example.org/TimBernersLee> <http://dbpedia.org/ontology/birthPlace> <http://example.org/London> <CERN-euronews-1> .
+ <http://example.org/Solid> <http://purl.org/dc/elements/1.1/description> "A project aimed at breaking down the Internet and protecting data"  <CERN-euronews-1> .
+ <http://example.org/JohnBruce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-euronews-1> .
+ <http://example.org/CERN> <http://xmlns.com/foaf/0.1/name> "European Organisation for Nuclear Research (CERN)"  <CERN-euronews-1> .
+ <http://example.org/Euronews> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <CERN-euronews-1> .
+ <http://example.org/Web1_0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <CERN-euronews-1> .
+ <http://example.org/London> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <CERN-euronews-1> .
+ <http://example.org/WebSummit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <CERN-euronews-1> .
+ <http://example.org/TimBernersLee> <http://dbpedia.org/ontology/occupation> <http://example.org/Inventor> <CERN-euronews-1> .
+ <http://example.org/TimBernersLeeLifetimeAchievementAward> <http://purl.org/dc/elements/1.1/creator> <http://example.org/WebbyAwards> <CERN-euronews-1> .
+ <http://example.org/Pod> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <CERN-euronews-1> .
+ <http://example.org/Lisbon> <http://xmlns.com/foaf/0.1/name> "Lisbon"  <CERN-euronews-1> .
+ <http://example.org/EnquireWithinUponEverything> <http://purl.org/dc/elements/1.1/description> "A prototype for the WEB developed by Tim Berners-Lee at CERN"  <CERN-euronews-1> .
+ <http://example.org/NewYork> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <CERN-euronews-1> .
+ <http://example.org/SourceCodeForTheWorldWideWebAuction> <http://dbpedia.org/ontology/date> "2021-06-24"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-euronews-1> .
+ <http://example.org/TimBernersLee> <http://www.w3.org/2000/01/rdf-schema#comment> "The inventor of the Web and founder of Web3.0"  <CERN-euronews-1> .
+ <http://example.org/EnquireWithinUponEverything> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <CERN-euronews-1> .
+ <http://example.org/Web1_0> <http://www.w3.org/2000/01/rdf-schema#comment> "The first stage of the Internet, a read-only type of Web"  <CERN-euronews-1> .
+ <http://example.org/UniversityOfOxford> <http://xmlns.com/foaf/0.1/name> "University of Oxford"  <CERN-euronews-1> .
+ <http://example.org/Web3_0> <http://www.w3.org/2000/01/rdf-schema#label> "Web3.0"  <CERN-euronews-1> .
+ <http://example.org/WebSummit> <http://dbpedia.org/ontology/location> <http://example.org/Lisbon> <CERN-euronews-1> .
+ <http://example.org/Flanders> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <CERN-euronews-1> .
+ <http://example.org/Web1_0> <http://www.w3.org/2000/01/rdf-schema#label> "Web1.0"  <CERN-euronews-1> .
+ <http://example.org/JohnBruce> <http://dbpedia.org/ontology/title> "CEO and co-founder of Inrupt"  <CERN-euronews-1> .
+ <http://example.org/Pod> <http://www.w3.org/2000/01/rdf-schema#label> "Pod"  <CERN-euronews-1> .
+ <http://example.org/London> <http://xmlns.com/foaf/0.1/name> "London"  <CERN-euronews-1> .
+ <http://example.org/EnquireWithinUponEverything> <http://xmlns.com/foaf/0.1/name> "Enquire Within Upon Everything"  <CERN-euronews-1> .
+ <http://example.org/Web2_0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <CERN-euronews-1> .
+ <http://example.org/TimBernersLee> <http://dbpedia.org/ontology/birthDate> "1955-06-08"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-euronews-1> .
+ <http://example.org/Inrupt> <http://dbpedia.org/ontology/industry> "Technology"  <CERN-euronews-1> .
+ <http://example.org/WebbyAwards> <http://xmlns.com/foaf/0.1/name> "Webby Awards"  <CERN-euronews-1> .
+ <http://example.org/Solid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Project> <CERN-euronews-1> .
+ <http://example.org/Inrupt> <http://dbpedia.org/ontology/founder> <http://example.org/TimBernersLee> <CERN-euronews-1> .
+ <http://example.org/SourceCodeForTheWorldWideWebAuction> <http://xmlns.com/foaf/0.1/name> "NFT Auction of Sir Tim Berners-Lee 'Source Code for the World Wide Web'"  <CERN-euronews-1> .
+ <http://example.org/Web3_0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <CERN-euronews-1> .
+ <http://example.org/WebbyAwards> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <CERN-euronews-1> .
+ <http://example.org/Flanders> <http://xmlns.com/foaf/0.1/name> "Flanders"  <CERN-euronews-1> .
+ <http://example.org/TimBernersLee> <http://dbpedia.org/ontology/almaMater> <http://example.org/UniversityOfOxford> <CERN-euronews-1> .
+ <http://example.org/Euronews> <http://xmlns.com/foaf/0.1/name> "Euronews"  <CERN-euronews-1> .
+ <http://example.org/JohnBruce> <http://xmlns.com/foaf/0.1/name> "John Bruce"  <CERN-euronews-1> .
+ <http://example.org/Web2_0> <http://www.w3.org/2000/01/rdf-schema#comment> "Allows interaction and content creation on the Web"  <CERN-euronews-1> .
+ <http://example.org/Inrupt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <CERN-euronews-1> .
+ <http://example.org/WebSummit> <http://xmlns.com/foaf/0.1/name> "Web Summit conference"  <CERN-euronews-1> .
+ <http://example.org/CERN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <CERN-euronews-1> .
+ <http://example.org/UniversityOfOxford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <CERN-euronews-1> .
+ <http://example.org/WorldWideWeb> <http://purl.org/dc/elements/1.1/description> "A distributed information system created by Tim Berners-Lee"  <CERN-euronews-1> .
+ <http://example.org/TimBernersLee> <http://dbpedia.org/ontology/knownFor> <http://example.org/WorldWideWeb> <CERN-euronews-1> .
+ <http://example.org/WorldWideWeb> <http://xmlns.com/foaf/0.1/name> "World Wide Web"  <CERN-euronews-1> .
+ <http://example.org/Sothebys> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <CERN-euronews-1> .
+ <http://example.org/TimBernersLee> <http://xmlns.com/foaf/0.1/name> "Sir Timothy Berners-Lee"  <CERN-euronews-1> .
+ <http://example.org/WebSummit> <http://dbpedia.org/ontology/date> "2023-11-01"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-euronews-1> .
+ <http://example.org/TimBernersLeeLifetimeAchievementAward> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Award> <CERN-euronews-1> .
+ <http://example.org/SourceCodeForTheWorldWideWebAuction> <http://dbpedia.org/ontology/location> <http://example.org/NewYork> <CERN-euronews-1> .
+ <http://example.org/TimBernersLeeLifetimeAchievementAward> <http://www.w3.org/2000/01/rdf-schema#label> "Lifetime Achievement Award"  <CERN-euronews-1> .
+ <http://example.org/Sothebys> <http://xmlns.com/foaf/0.1/name> "Sotheby's"  <CERN-euronews-1> .
+ <http://example.org/Web2_0> <http://www.w3.org/2000/01/rdf-schema#label> "Web2.0"  <CERN-euronews-1> .
+ <http://example.org/Inrupt> <http://xmlns.com/foaf/0.1/name> "Inrupt"  <CERN-euronews-1> .
+ <http://example.org/Inrupt> <http://www.w3.org/2000/01/rdf-schema#comment> "A company to help launch Solid"  <CERN-euronews-1> .
+ <http://example.org/Flanders> <http://dbpedia.org/ontology/population> "6500000"^^<http://www.w3.org/2001/XMLSchema#integer>  <CERN-euronews-1> .
+ <http://example.org/SourceCodeForTheWorldWideWebAuction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <CERN-euronews-1> .
+ <http://example.org/EuronewsEditorialStaff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <CERN-euronews-2> .
+ <http://example.org/AffiliateContent> <http://schema.org/isNotPartOf> <http://example.org/EuronewsEditorialStaff> <CERN-euronews-2> .
+ <http://example.org/WealthManagementRole> <http://schema.org/hiringOrganization> <http://dbpedia.org/resource/Deutsche_Bank> <CERN-euronews-2> .
+ <http://example.org/DeepKnowledgeAnalyticsReport> <http://schema.org/author> <http://example.org/DeepKnowledgeAnalytics> <CERN-euronews-2> .
+ <http://example.org/NeoBankingSegment> <http://schema.org/currency> <http://dbpedia.org/resource/United_States_dollar> <CERN-euronews-2> .
+ <http://dbpedia.org/resource/Banking_in_Switzerland> <http://dbpedia.org/ontology/company> <http://dbpedia.org/resource/Credit_Suisse> <CERN-euronews-2> .
+ <http://dbpedia.org/resource/CERN> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Large_Hadron_Collider> <CERN-euronews-2> .
+ <http://example.org/fDiIntelligenceRankings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <CERN-euronews-2> .
+ <http://example.org/LeadDataEngineerRole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> <CERN-euronews-2> .
+ <http://example.org/AffiliateContent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <CERN-euronews-2> .
+ <http://example.org/JavaBackendDeveloperRole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> <CERN-euronews-2> .
+ <http://dbpedia.org/resource/Banking_in_Switzerland> <http://dbpedia.org/ontology/company> <http://dbpedia.org/resource/UBS> <CERN-euronews-2> .
+ <http://example.org/NeoBankingSegment> <http://schema.org/investmentProjection> "44.5 billion"^^<http://www.w3.org/2001/XMLSchema#float>  <CERN-euronews-2> .
+ <http://dbpedia.org/resource/Zurich> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/City> <CERN-euronews-2> .
+ <http://dbpedia.org/resource/CERN> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Geneva> <CERN-euronews-2> .
+ <http://example.org/fDiIntelligenceRankings> <http://schema.org/result> <http://example.org/ZurichTopMidSizedEuropeanTechCity> <CERN-euronews-2> .
+ <http://dbpedia.org/resource/Banking_in_Switzerland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Industry> <CERN-euronews-2> .
+ <http://example.org/GlobalInnovationIndex> <http://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer>  <CERN-euronews-2> .
+ <http://example.org/TechCareerDevelopment> <http://schema.org/author> <http://example.org/KirstieMcDermott> <CERN-euronews-2> .
+ <http://example.org/DeepKnowledgeAnalytics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <CERN-euronews-2> .
+ <http://dbpedia.org/resource/Switzerland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <CERN-euronews-2> .
+ <http://dbpedia.org/resource/Banking_in_Switzerland> <http://dbpedia.org/ontology/product> <http://example.org/PrivateSwissInvestmentBanks> <CERN-euronews-2> .
+ <http://example.org/PrivateSwissInvestmentBanks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/FinancialService> <CERN-euronews-2> .
+ <http://example.org/KirstieMcDermott> <http://xmlns.com/foaf/0.1/name> "Kirstie McDermott"  <CERN-euronews-2> .
+ <http://example.org/FintechSector> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Switzerland> <CERN-euronews-2> .
+ <http://dbpedia.org/resource/Switzerland> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Muesli> <CERN-euronews-2> .
+ <http://dbpedia.org/resource/CERN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <CERN-euronews-2> .
+ <http://dbpedia.org/resource/Large_Hadron_Collider> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Infrastructure> <CERN-euronews-2> .
+ <http://example.org/ZurichTopMidSizedEuropeanTechCity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <CERN-euronews-2> .
+ <http://example.org/Rocken> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <CERN-euronews-2> .
+ <http://example.org/Rocken> <http://schema.org/name> "Rocken"  <CERN-euronews-2> .
+ <http://example.org/EuronewsAffiliates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <CERN-euronews-2> .
+ <http://example.org/TechCareerDevelopment> <http://schema.org/copyrightHolder> <http://example.org/Canva> <CERN-euronews-2> .
+ <http://dbpedia.org/resource/Switzerland> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Banking_in_Switzerland> <CERN-euronews-2> .
+ <http://example.org/NeoBankingSegment> <http://schema.org/investmentValue> "3.3 billion"^^<http://www.w3.org/2001/XMLSchema#float>  <CERN-euronews-2> .
+ <http://example.org/CodeClanReport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Report> <CERN-euronews-2> .
+ <http://dbpedia.org/resource/Zurich> <http://xmlns.com/foaf/0.1/focus> <http://example.org/TechCareerDevelopment> <CERN-euronews-2> .
+ <http://example.org/NeoBankingSegment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/FinancialService> <CERN-euronews-2> .
+ <http://example.org/TechCareerDevelopment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <CERN-euronews-2> .
+ <http://example.org/TechCareerDevelopment> <http://schema.org/about> <http://example.org/AffiliateContent> <CERN-euronews-2> .
+ <http://example.org/EuronewsAffiliates> <http://schema.org/name> "Euronews affiliates"  <CERN-euronews-2> .
+ <http://dbpedia.org/resource/Large_Hadron_Collider> <http://dbpedia.org/ontology/openingYear> "2008"^^<http://www.w3.org/2001/XMLSchema#gYear>  <CERN-euronews-2> .
+ <http://example.org/LeadDataEngineerRole> <http://schema.org/hiringOrganization> <http://example.org/Rocken> <CERN-euronews-2> .
+ <http://dbpedia.org/resource/Banking_in_Switzerland> <http://dbpedia.org/ontology/company> <http://dbpedia.org/resource/Julius_Baer_Group> <CERN-euronews-2> .
+ <http://example.org/JavaBackendDeveloperRole> <http://schema.org/hiringOrganization> <http://example.org/Rocken> <CERN-euronews-2> .
+ <http://example.org/PrivateSwissInvestmentBanks> <http://schema.org/description> "Catering to global investors and handling wealth management."  <CERN-euronews-2> .
+ <http://example.org/NeoBankingSegment> <http://schema.org/projectionCurrency> <http://dbpedia.org/resource/United_States_dollar> <CERN-euronews-2> .
+ <http://dbpedia.org/resource/Zurich> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Switzerland> <CERN-euronews-2> .
+ <http://example.org/ConsumerBanking> <http://schema.org/description> "Deals with day-to-day consumer banking."  <CERN-euronews-2> .
+ <http://example.org/FintechSector> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Industry> <CERN-euronews-2> .
+ <http://example.org/TechGiants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <CERN-euronews-2> .
+ <http://dbpedia.org/resource/Zurich> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Europe> <CERN-euronews-2> .
+ <http://example.org/TechGiants> <http://schema.org/member> <http://dbpedia.org/resource/Amazon.com> <CERN-euronews-2> .
+ <http://dbpedia.org/resource/Deutsche_Bank> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <CERN-euronews-2> .
+ <http://example.org/Euronews_jobs> <http://schema.org/url> <https://euronews.jobs> <CERN-euronews-2> .
+ <http://example.org/AffiliateLinks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <CERN-euronews-2> .
+ <http://example.org/JavaBackendDeveloperRole> <http://schema.org/jobTitle> "Java Backend Developer"  <CERN-euronews-2> .
+ <http://example.org/FintechSector> <http://schema.org/report> <http://example.org/DeepKnowledgeAnalyticsReport> <CERN-euronews-2> .
+ <http://example.org/WealthManagementRole> <http://schema.org/jobTitle> "International Private Bank – Wealth Management"  <CERN-euronews-2> .
+ <http://dbpedia.org/resource/Switzerland> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Swiss_chocolate> <CERN-euronews-2> .
+ <http://example.org/GlobalInnovationIndex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <CERN-euronews-2> .
+ <http://example.org/ConsumerBanking> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/FinancialService> <CERN-euronews-2> .
+ <http://example.org/Rocken> <http://schema.org/offers> <http://example.org/JavaBackendDeveloperRole> <CERN-euronews-2> .
+ <http://dbpedia.org/resource/CERN> <http://dbpedia.org/ontology/foundingYear> "1954"^^<http://www.w3.org/2001/XMLSchema#gYear>  <CERN-euronews-2> .
+ <http://example.org/TechCareerDevelopmentCities> <http://schema.org/includesCities> <http://dbpedia.org/resource/Zurich> <CERN-euronews-2> .
+ <http://example.org/EuronewsEditorialStaff> <http://schema.org/name> "Euronews editorial staff"  <CERN-euronews-2> .
+ <http://example.org/TechCareerDevelopmentCities> <http://schema.org/includesCities> <http://dbpedia.org/resource/Bern> <CERN-euronews-2> .
+ <http://example.org/AffiliateLinks> <http://schema.org/description> "Content that contains affiliate links."  <CERN-euronews-2> .
+ <http://example.org/DeepKnowledgeAnalyticsReport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Report> <CERN-euronews-2> .
+ <http://example.org/DeepKnowledgeAnalytics> <http://schema.org/name> "Deep Knowledge Analytics"  <CERN-euronews-2> .
+ <http://example.org/TechGiants> <http://schema.org/member> <http://dbpedia.org/resource/Microsoft> <CERN-euronews-2> .
+ <http://example.org/Euronews_jobs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebSite> <CERN-euronews-2> .
+ <http://example.org/WealthManagementRole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> <CERN-euronews-2> .
+ <http://example.org/CodeClan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <CERN-euronews-2> .
+ <http://example.org/CodeClan> <http://schema.org/name> "CodeClan"  <CERN-euronews-2> .
+ <http://example.org/GlobalInnovationIndex> <http://dbpedia.org/ontology/year> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <CERN-euronews-2> .
+ <http://example.org/Rocken> <http://schema.org/offers> <http://example.org/LeadDataEngineerRole> <CERN-euronews-2> .
+ <http://example.org/TechCareerDevelopmentCities> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <CERN-euronews-2> .
+ <http://example.org/CodeClanReport> <http://schema.org/author> <http://example.org/CodeClan> <CERN-euronews-2> .
+ <http://example.org/CodeClanReport> <http://schema.org/about> <http://example.org/TechCareerDevelopmentCities> <CERN-euronews-2> .
+ <http://example.org/TechGiants> <http://schema.org/member> <http://dbpedia.org/resource/Google> <CERN-euronews-2> .
+ <http://example.org/NeoBankingSegment> <http://dbpedia.org/ontology/year> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <CERN-euronews-2> .
+ <http://dbpedia.org/resource/Switzerland> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Raclette> <CERN-euronews-2> .
+ <http://example.org/AffiliateContent> <http://schema.org/mentions> <http://example.org/AffiliateLinks> <CERN-euronews-2> .
+ <http://example.org/FintechSector> <http://schema.org/numberOfItems> "355"^^<http://www.w3.org/2001/XMLSchema#integer>  <CERN-euronews-2> .
+ <http://example.org/LeadDataEngineerRole> <http://schema.org/jobTitle> "Lead Data Engineer"  <CERN-euronews-2> .
+ <http://dbpedia.org/resource/Deutsche_Bank> <http://schema.org/offers> <http://example.org/WealthManagementRole> <CERN-euronews-2> .
+ <http://dbpedia.org/resource/Banking_in_Switzerland> <http://dbpedia.org/ontology/product> <http://example.org/ConsumerBanking> <CERN-euronews-2> .
+ <http://example.org/KirstieMcDermott> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <CERN-euronews-2> .
+ <http://example.org/ZurichTopMidSizedEuropeanTechCity> <http://schema.org/name> "Top mid-sized European tech city of the future"  <CERN-euronews-2> .
+ <http://dbpedia.org/resource/Switzerland> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Fondue> <CERN-euronews-2> .
+ <http://example.org/AffiliateContent> <http://schema.org/provider> <http://example.org/EuronewsAffiliates> <CERN-euronews-2> .
+ <http://example.org/UniversityOfBurgundy> <http://www.w3.org/2000/01/rdf-schema#label> "University of Burgundy"  <CERN-euronews-3> .
+ <http://example.org/EuropeanCommission> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> <CERN-euronews-3> .
+ <http://example.org/iCANDID> <http://www.w3.org/2000/01/rdf-schema#comment> "Developing a FAIR data hub for the Social Sciences and Humanities."  <CERN-euronews-3> .
+ <http://example.org/AnnalisaBonatti> <http://www.w3.org/2000/01/rdf-schema#comment> "EVP Enterprise at Sparkle."  <CERN-euronews-3> .
+ <http://example.org/Sparkle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/CommercialDepartment> <CERN-euronews-3> .
+ <http://example.org/GEANT> <http://www.w3.org/2000/01/rdf-schema#comment> "Consortium leader that includes CERN, RHEA, and Trust-IT."  <CERN-euronews-3> .
+ <http://example.org/Sparkle> <http://www.w3.org/2000/01/rdf-schema#comment> "Offers cloud solutions to the research and education community, reducing costs and complexity of digital transition."  <CERN-euronews-3> .
+ <http://example.org/UniversityOfBurgundy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> <CERN-euronews-3> .
+ <http://example.org/OCREProjectDirector> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Resource> <CERN-euronews-3> .
+ <http://example.org/KatholiekeUniversiteitLeuven> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> <CERN-euronews-3> .
+ <http://example.org/OCRE> <http://www.w3.org/2000/01/rdf-schema#comment> "Promotes cloud adoption across the European scientific community."  <CERN-euronews-3> .
+ <http://example.org/ChildhoodCancerResearchPlatform> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Resource> <CERN-euronews-3> .
+ <http://example.org/KatholiekeUniversiteitLeuven> <http://www.w3.org/2000/01/rdf-schema#label> "Katholieke Universiteit Leuven"  <CERN-euronews-3> .
+ <http://example.org/EuropeanCommission> <http://www.w3.org/2000/01/rdf-schema#label> "European Commission"  <CERN-euronews-3> .
+ <http://example.org/PartnerContent> <http://www.w3.org/2000/01/rdf-schema#comment> "Brand content that is paid for and controlled by the advertiser rather than the Euronews editorial team."  <CERN-euronews-3> .
+ <http://example.org/CommercialDepartment> <http://www.w3.org/2000/01/rdf-schema#label> "Commercial Department"  <CERN-euronews-3> .
+ <http://example.org/UniversitaSvizzeraItaliana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> <CERN-euronews-3> .
+ <http://example.org/PrincessMaximaCenter> <http://www.w3.org/2000/01/rdf-schema#comment> "Europe's largest profile centre for childhood cancer research."  <CERN-euronews-3> .
+ <http://example.org/GEANT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> <CERN-euronews-3> .
+ <http://example.org/UniversitaDiPadova> <http://www.w3.org/2000/01/rdf-schema#label> "Università di Padova"  <CERN-euronews-3> .
+ <http://example.org/GEANT> <http://www.w3.org/2000/01/rdf-schema#label> "GÉANT"  <CERN-euronews-3> .
+ <http://example.org/ChildhoodCancerResearchPlatform> <http://purl.org/dc/elements/1.1/creator> <http://example.org/PrincessMaximaCenter> <CERN-euronews-3> .
+ <http://example.org/OCREProjectDirector> <http://www.w3.org/2000/01/rdf-schema#comment> "OCRE Project Director at GÉANT."  <CERN-euronews-3> .
+ <http://example.org/ChildhoodCancerResearchPlatform> <http://www.w3.org/2000/01/rdf-schema#label> "Childhood Cancer Research Platform"  <CERN-euronews-3> .
+ <http://example.org/GoogleCloudIntegrator> <http://www.w3.org/2000/01/rdf-schema#comment> "Sparkle's role in integrating Google Cloud services in 27 European countries."  <CERN-euronews-3> .
+ <http://example.org/OCRE> <http://www.w3.org/2000/01/rdf-schema#label> "Open Clouds for Research Environment (OCRE) Cloud Framework"  <CERN-euronews-3> .
+ <http://example.org/OCRECloudFramework> <http://www.w3.org/2000/01/rdf-schema#comment> "Framework providing ready-to-use service agreements with cloud service providers."  <CERN-euronews-3> .
+ <http://example.org/EuropeanCommission> <http://www.w3.org/2000/01/rdf-schema#comment> "Allocated €9.5 million to incentivise the adoption of cloud services from OCRE framework suppliers."  <CERN-euronews-3> .
+ <http://example.org/SparkleOCREProvider> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Resource> <CERN-euronews-3> .
+ <http://example.org/OCRE> <http://purl.org/dc/elements/1.1/date> "2019"^^<http://www.w3.org/2001/XMLSchema#gYear>  <CERN-euronews-3> .
+ <http://example.org/PatrickKemmeren> <http://www.w3.org/2000/01/rdf-schema#label> "Dr. Patrick Kemmeren"  <CERN-euronews-3> .
+ <http://example.org/PartnerContent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> <CERN-euronews-3> .
+ <http://example.org/AnnalisaBonatti> <http://www.w3.org/2000/01/rdf-schema#label> "Annalisa Bonatti"  <CERN-euronews-3> .
+ <http://example.org/OCRE> <http://purl.org/dc/elements/1.1/creator> <http://example.org/GEANT> <CERN-euronews-3> .
+ <http://example.org/ChildhoodCancerResearchPlatform> <http://www.w3.org/2000/01/rdf-schema#comment> "Research platform for childhood cancer using Google Cloud technology."  <CERN-euronews-3> .
+ <http://example.org/SparkleOCREProvider> <http://www.w3.org/2000/01/rdf-schema#label> "Sparkle OCRE provider status"  <CERN-euronews-3> .
+ <http://example.org/PrincessMaximaCenter> <http://www.w3.org/2000/01/rdf-schema#label> "Princess Máxima Center for pediatric oncology"  <CERN-euronews-3> .
+ <http://example.org/CommercialDepartment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> <CERN-euronews-3> .
+ <http://example.org/ChildhoodCancerResearchPlatform> <http://purl.org/dc/elements/1.1/date> "2020-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <CERN-euronews-3> .
+ <http://example.org/OCRECloudFramework> <http://www.w3.org/2000/01/rdf-schema#label> "OCRE Cloud Framework"  <CERN-euronews-3> .
+ <http://example.org/Sparkle> <http://www.w3.org/2000/01/rdf-schema#label> "Sparkle"  <CERN-euronews-3> .
+ <http://example.org/SparkleCopyright> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Resource> <CERN-euronews-3> .
+ <http://example.org/UniversitaDiPadova> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> <CERN-euronews-3> .
+ <http://example.org/SparkleCopyright> <http://www.w3.org/2000/01/rdf-schema#label> "Copyright"  <CERN-euronews-3> .
+ <http://example.org/PatrickKemmeren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Resource> <CERN-euronews-3> .
+ <http://example.org/OCRECloudFramework> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Resource> <CERN-euronews-3> .
+ <http://example.org/PrincessMaximaCenter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> <CERN-euronews-3> .
+ <http://example.org/UniversitaSvizzeraItaliana> <http://www.w3.org/2000/01/rdf-schema#comment> "University collaborating with Università di Padova on Incremental Learning."  <CERN-euronews-3> .
+ <http://example.org/PatrickKemmeren> <http://www.w3.org/2000/01/rdf-schema#comment> "Leading the research group at Princess Máxima Center."  <CERN-euronews-3> .
+ <http://example.org/OCREProjectDirector> <http://www.w3.org/2000/01/rdf-schema#label> "Dave Heyns"  <CERN-euronews-3> .
+ <http://example.org/UniversityOfBurgundy> <http://www.w3.org/2000/01/rdf-schema#comment> "Working to build a training solution for health professionals and students in the Metaverse."  <CERN-euronews-3> .
+ <http://example.org/UniversitaDiPadova> <http://www.w3.org/2000/01/rdf-schema#comment> "University focusing on Incremental Learning and Lifelong Learning paradigms."  <CERN-euronews-3> .
+ <http://example.org/AnnalisaBonatti> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Resource> <CERN-euronews-3> .
+ <http://example.org/UniversitaSvizzeraItaliana> <http://www.w3.org/2000/01/rdf-schema#label> "Università Svizzera Italiana"  <CERN-euronews-3> .
+ <http://example.org/PartnerContent> <http://www.w3.org/2000/01/rdf-schema#label> "Partner Content"  <CERN-euronews-3> .
+ <http://example.org/SparkleOCREProvider> <http://www.w3.org/2000/01/rdf-schema#comment> "Recognition of Sparkle's commitment to help the education and research industry's digital transformation."  <CERN-euronews-3> .
+ <http://example.org/OCRE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> <CERN-euronews-3> .
+ <http://example.org/CommercialDepartment> <http://www.w3.org/2000/01/rdf-schema#comment> "Produces content without involving Euronews editorial staff or news journalists."  <CERN-euronews-3> .
+ <http://example.org/iCANDID> <http://www.w3.org/2000/01/rdf-schema#label> "iCANDID project"  <CERN-euronews-3> .
+ <http://example.org/iCANDID> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> <CERN-euronews-3> .
+ <http://example.org/KatholiekeUniversiteitLeuven> <http://www.w3.org/2000/01/rdf-schema#comment> "University involved in the iCANDID project."  <CERN-euronews-3> .
+ <http://example.org/GoogleCloudIntegrator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Resource> <CERN-euronews-3> .
+ <http://example.org/Sparkle> <http://purl.org/dc/elements/1.1/date> "2020"^^<http://www.w3.org/2001/XMLSchema#gYear>  <CERN-euronews-3> .
+ <http://example.org/SparkleOCREProvider> <http://purl.org/dc/elements/1.1/date> "2020"^^<http://www.w3.org/2001/XMLSchema#gYear>  <CERN-euronews-3> .
+ <http://example.org/SparkleCopyright> <http://www.w3.org/2000/01/rdf-schema#comment> "© Sparkle"  <CERN-euronews-3> .
+ <http://example.org/GoogleCloudIntegrator> <http://www.w3.org/2000/01/rdf-schema#label> "Google Cloud integrator"  <CERN-euronews-3> .
+ <http://example.org/entities/LHC> <http://dbpedia.org/ontology/operator> <http://example.org/entities/CERN> <CERN-euronews-4> .
+ <http://CERN-euronews-4.com/blank#nf1e2c9e095b041a0be96048ce34a3825b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ResearchProject> <CERN-euronews-4> .
+ <http://example.org/entities/CMS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Project> <CERN-euronews-4> .
+ <http://example.org/entities/LHC> <http://schema.org/name> "Large Hadron Collider"  <CERN-euronews-4> .
+ <http://example.org/entities/ClaudioBortolin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <CERN-euronews-4> .
+ <http://CERN-euronews-4.com/blank#nf1e2c9e095b041a0be96048ce34a3825b1> <http://schema.org/userInteractionCount> "1"^^<http://www.w3.org/2001/XMLSchema#integer>  <CERN-euronews-4> .
+ <http://example.org/entities/ParticlePhysics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> <CERN-euronews-4> .
+ <http://CERN-euronews-4.com/blank#nf1e2c9e095b041a0be96048ce34a3825b2> <http://schema.org/audienceType> "students"  <CERN-euronews-4> .
+ <http://example.org/entities/ClaudioBortolin> <http://schema.org/name> "Claudio Bortolin"  <CERN-euronews-4> .
+ <http://CERN-euronews-4.com/blank#nf1e2c9e095b041a0be96048ce34a3825b2> <http://schema.org/educationalRole> "students"  <CERN-euronews-4> .
+ <http://example.org/entities/ClaudioBortolin> <http://schema.org/affiliation> <http://example.org/entities/CERN> <CERN-euronews-4> .
+ <http://example.org/entities/ATLAS> <http://schema.org/about> "Observing new and unforeseen particles in the Standard Model"  <CERN-euronews-4> .
+ <http://example.org/entities/ClaudioBortolin> <http://schema.org/founder> <http://example.org/entities/PassioneScienza> <CERN-euronews-4> .
+ <http://example.org/entities/LHCb> <http://dbpedia.org/ontology/operator> <http://example.org/entities/CERN> <CERN-euronews-4> .
+ <http://CERN-euronews-4.com/blank#nf1e2c9e095b041a0be96048ce34a3825b3> <http://schema.org/startDate> "2023-04-01"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-euronews-4> .
+ <http://CERN-euronews-4.com/blank#nf1e2c9e095b041a0be96048ce34a3825b4> <http://schema.org/startDate> "2023-04-01"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-euronews-4> .
+ <http://example.org/entities/CMS> <http://schema.org/about> "Observing new and unforeseen particles in the Standard Model"  <CERN-euronews-4> .
+ <http://example.org/entities/ATLAS> <http://dbpedia.org/ontology/operator> <http://example.org/entities/CERN> <CERN-euronews-4> .
+ <http://example.org/entities/PassioneScienza> <http://schema.org/audience> <http://CERN-euronews-4.com/blank#nf1e2c9e095b041a0be96048ce34a3825b2>  <CERN-euronews-4> .
+ <http://example.org/entities/CERN> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Nuclear_physics> <CERN-euronews-4> .
+ <http://example.org/entities/CosmologicalResearch> <http://schema.org/name> "Cosmological Research"  <CERN-euronews-4> .
+ <http://CERN-euronews-4.com/blank#nf1e2c9e095b041a0be96048ce34a3825b1> <http://schema.org/participant> <http://example.org/entities/Euronews> <CERN-euronews-4> .
+ <http://example.org/entities/ParticlePhysics> <http://schema.org/name> "Particle Physics"  <CERN-euronews-4> .
+ <http://example.org/entities/ParticlePhysics> <http://schema.org/description> "Describing the infinitely small and what happens inside the fundamental building blocks that make up atoms such as elementary particles: electrons, photons, quarks, bosons and the forces with which they interact."  <CERN-euronews-4> .
+ <http://example.org/entities/UniverseMysteries> <http://schema.org/description> "Fundamental questions about the Universe, including why there is only matter and antimatter has disappeared."  <CERN-euronews-4> .
+ <http://example.org/entities/ClaudioBortolin> <http://schema.org/jobTitle> "Scientist"  <CERN-euronews-4> .
+ <http://example.org/entities/ALICE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Project> <CERN-euronews-4> .
+ <http://CERN-euronews-4.com/blank#nf1e2c9e095b041a0be96048ce34a3825b3> <http://schema.org/name> "Run3 of LHC"  <CERN-euronews-4> .
+ <http://CERN-euronews-4.com/blank#nf1e2c9e095b041a0be96048ce34a3825b4> <http://schema.org/name> "Run3 of LHC"  <CERN-euronews-4> .
+ <http://example.org/entities/HiggsBoson> <http://dbpedia.org/ontology/discoveredBy> <http://example.org/entities/CERN> <CERN-euronews-4> .
+ <http://example.org/entities/CosmologicalResearch> <http://schema.org/description> "Incredibly prosperous years of discoveries and advances in the field, including gravitational waves."  <CERN-euronews-4> .
+ <http://example.org/entities/CERN> <http://dbpedia.org/ontology/research> <http://CERN-euronews-4.com/blank#nf1e2c9e095b041a0be96048ce34a3825b3>  <CERN-euronews-4> .
+ <http://CERN-euronews-4.com/blank#nf1e2c9e095b041a0be96048ce34a3825b1> <http://schema.org/interactionType> <http://schema.org/Conversation> <CERN-euronews-4> .
+ <http://example.org/entities/CMS> <http://dbpedia.org/ontology/operator> <http://example.org/entities/CERN> <CERN-euronews-4> .
+ <http://example.org/entities/CERN> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Geneva> <CERN-euronews-4> .
+ <http://example.org/entities/ALICE> <http://schema.org/about> "Understanding the behaviour of the quark-gluon plasma"  <CERN-euronews-4> .
+ <http://CERN-euronews-4.com/blank#nf1e2c9e095b041a0be96048ce34a3825b3> <http://schema.org/description> "Data collection in the experiments resumes and the CERN physics program can restart."  <CERN-euronews-4> .
+ <http://example.org/entities/PassioneScienza> <http://schema.org/about> <http://dbpedia.org/resource/Science_communication> <CERN-euronews-4> .
+ <http://example.org/entities/CERN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <CERN-euronews-4> .
+ <http://example.org/entities/UniverseMysteries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> <CERN-euronews-4> .
+ <http://example.org/entities/HiggsBoson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Particle> <CERN-euronews-4> .
+ <http://example.org/entities/StandardModel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> <CERN-euronews-4> .
+ <http://CERN-euronews-4.com/blank#nf1e2c9e095b041a0be96048ce34a3825b2> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Italy> <CERN-euronews-4> .
+ <http://example.org/entities/Euronews> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <CERN-euronews-4> .
+ <http://example.org/entities/HiggsBoson> <http://schema.org/description> "A particle playing a key role in the first moments after the Big Bang"  <CERN-euronews-4> .
+ <http://example.org/entities/Euronews> <http://schema.org/member> <http://example.org/entities/ClaudioBortolin> <CERN-euronews-4> .
+ <http://example.org/entities/LHCb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Project> <CERN-euronews-4> .
+ <http://example.org/entities/CERN> <http://dbpedia.org/ontology/abbreviation> "CERN"  <CERN-euronews-4> .
+ <http://CERN-euronews-4.com/blank#nf1e2c9e095b041a0be96048ce34a3825b4> <http://schema.org/description> "Particle accelerator research at a new higher intensity."  <CERN-euronews-4> .
+ <http://example.org/entities/HiggsBoson> <http://dbpedia.org/ontology/discoveryDate> "2012-07-04"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-euronews-4> .
+ <http://example.org/entities/StandardModel> <http://schema.org/description> "A theory concerning the electromagnetic, weak, and strong nuclear interactions."  <CERN-euronews-4> .
+ <http://example.org/entities/LHC> <http://dbpedia.org/ontology/research> <http://CERN-euronews-4.com/blank#nf1e2c9e095b041a0be96048ce34a3825b4>  <CERN-euronews-4> .
+ <http://example.org/entities/LHCb> <http://schema.org/about> "Research program on matter-antimatter asymmetry"  <CERN-euronews-4> .
+ <http://example.org/entities/LHC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Facility> <CERN-euronews-4> .
+ <http://example.org/entities/CosmologicalResearch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> <CERN-euronews-4> .
+ <http://CERN-euronews-4.com/blank#nf1e2c9e095b041a0be96048ce34a3825b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Audience> <CERN-euronews-4> .
+ <http://example.org/entities/ALICE> <http://dbpedia.org/ontology/operator> <http://example.org/entities/CERN> <CERN-euronews-4> .
+ <http://example.org/entities/ClaudioBortolin> <http://dbpedia.org/ontology/workPeriodYears> "12"^^<http://www.w3.org/2001/XMLSchema#integer>  <CERN-euronews-4> .
+ <http://example.org/entities/StandardModel> <http://schema.org/name> "Standard Model of particle physics"  <CERN-euronews-4> .
+ <http://example.org/entities/UniverseMysteries> <http://schema.org/name> "Big mysteries of our universe"  <CERN-euronews-4> .
+ <http://example.org/entities/ClaudioBortolin> <http://schema.org/interactionStatistic> <http://CERN-euronews-4.com/blank#nf1e2c9e095b041a0be96048ce34a3825b1>  <CERN-euronews-4> .
+ <http://example.org/entities/PassioneScienza> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <CERN-euronews-4> .
+ <http://CERN-euronews-4.com/blank#nf1e2c9e095b041a0be96048ce34a3825b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ResearchProject> <CERN-euronews-4> .
+ <http://example.org/entities/ATLAS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Project> <CERN-euronews-4> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b9> <http://dbpedia.org/ontology/discoveredEntity> <http://dbpedia.org/resource/Higgs_boson> <CERN-euronews-5> .
+ <http://example.org/RussianScienceFoundation> <http://dbpedia.org/ontology/partnership> <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b15>  <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Topic> <CERN-euronews-5> .
+ <http://example.org/UkraineWar> <http://www.w3.org/2000/01/rdf-schema#label> "Ukraine war"  <CERN-euronews-5> .
+ <http://example.org/UkraineWar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Conflict> <CERN-euronews-5> .
+ <http://example.org/GermanRussianScientificProjects> <http://dbpedia.org/ontology/money> "110 million euros"^^<http://www.w3.org/2001/XMLSchema#decimal>  <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b2> <http://www.w3.org/2000/01/rdf-schema#label> "Space research"  <CERN-euronews-5> .
+ <http://example.org/ScientificCooperation> <http://dbpedia.org/ontology/endDate> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <CERN-euronews-5> .
+ <http://example.org/ScientificCooperation> <http://www.w3.org/2000/01/rdf-schema#label> "Scientific cooperation between the West and Russia"  <CERN-euronews-5> .
+ <http://example.org/RussianRectorUnionLetter> <http://purl.org/dc/elements/1.1/subject> "Support of Russia's invasion of Ukraine"  <CERN-euronews-5> .
+ <http://example.org/MaxPlanckSociety> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <CERN-euronews-5> .
+ <http://example.org/LargeHadronCollider> <http://dbpedia.org/ontology/discovery> <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b9>  <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Field> <CERN-euronews-5> .
+ <http://example.org/ISS> <http://dbpedia.org/ontology/operator> <http://dbpedia.org/resource/NASA> <CERN-euronews-5> .
+ <http://example.org/MaxPlanckSociety> <http://xmlns.com/foaf/0.1/homepage> <https://www.mpg.de/> <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Topic> <CERN-euronews-5> .
+ <http://example.org/RussianRectorUnionLetter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Document> <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b12> <http://www.w3.org/2000/01/rdf-schema#label> "India"  <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b22> <http://www.w3.org/2000/01/rdf-schema#label> "Russian scientists fleeing the country post-invasion"  <CERN-euronews-5> .
+ <http://example.org/NortheastScienceStation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ResearchProject> <CERN-euronews-5> .
+ <http://example.org/NortheastScienceStation> <http://dbpedia.org/ontology/funding> <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b6>  <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b20> <http://www.w3.org/2000/01/rdf-schema#label> "Materials science"  <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b4> <http://www.w3.org/2000/01/rdf-schema#label> "Kolyma River in Siberia"  <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <CERN-euronews-5> .
+ <http://example.org/MaxPlanckSociety> <http://xmlns.com/foaf/0.1/name> "Max Planck Society"  <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Field> <CERN-euronews-5> .
+ <http://example.org/CremlinPlus> <http://dbpedia.org/ontology/subject> <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b19>  <CERN-euronews-5> .
+ <http://example.org/PeterHergersberg> <http://xmlns.com/foaf/0.1/title> "Spokesperson"  <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b7> <http://www.w3.org/2000/01/rdf-schema#label> "Instruments measuring Arctic permafrost thawing and methane release"  <CERN-euronews-5> .
+ <http://example.org/ScientificCooperation> <http://dbpedia.org/ontology/startDate> "2000"^^<http://www.w3.org/2001/XMLSchema#gYear>  <CERN-euronews-5> .
+ <http://example.org/CremlinPlus> <http://dbpedia.org/ontology/subject> <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b20>  <CERN-euronews-5> .
+ <http://example.org/RussianPermafrostResearch> <http://dbpedia.org/ontology/subject> <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b21>  <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b6> <http://xmlns.com/foaf/0.1/name> "Max Planck Institute for Biogeochemistry"  <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b5> <http://www.w3.org/2000/01/rdf-schema#label> "Climate change in the Arctic environment"  <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <CERN-euronews-5> .
+ <http://example.org/RussianPermafrostResearch> <http://dbpedia.org/ontology/importance> "critical for global climate change understanding"  <CERN-euronews-5> .
+ <http://example.org/LargeHadronCollider> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/CERN> <CERN-euronews-5> .
+ <http://example.org/CremlinPlus> <http://dbpedia.org/ontology/money> "25 million euros"^^<http://www.w3.org/2001/XMLSchema#decimal>  <CERN-euronews-5> .
+ <http://example.org/GermanRussianScientificProjects> <http://dbpedia.org/ontology/funder> <http://example.org/Germany> <CERN-euronews-5> .
+ <http://example.org/RussianPermafrostResearch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ResearchProject> <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b15> <http://www.w3.org/2000/01/rdf-schema#label> "France"  <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b16> <http://www.w3.org/2000/01/rdf-schema#label> "Austria"  <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b11> <http://www.w3.org/2000/01/rdf-schema#label> "Infectious animal diseases"  <CERN-euronews-5> .
+ <http://example.org/RussianScienceFoundation> <http://dbpedia.org/ontology/partnership> <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b13>  <CERN-euronews-5> .
+ <http://example.org/CremlinPlus> <http://dbpedia.org/ontology/subject> <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b18>  <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Government> <CERN-euronews-5> .
+ <http://example.org/EU_RussianScienceProjects> <http://dbpedia.org/ontology/subject> <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b11>  <CERN-euronews-5> .
+ <http://example.org/ISS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SpaceStation> <CERN-euronews-5> .
+ <http://example.org/RussianScienceFoundation> <http://dbpedia.org/ontology/partnership> <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b14>  <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b3> <http://www.w3.org/2000/01/rdf-schema#label> "Climate research"  <CERN-euronews-5> .
+ <http://example.org/RussianScienceFoundation> <http://dbpedia.org/ontology/partnership> <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b17>  <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <CERN-euronews-5> .
+ <http://example.org/MaxPlanckSociety> <http://dbpedia.org/ontology/funding> <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b8>  <CERN-euronews-5> .
+ <http://example.org/ISS> <http://dbpedia.org/ontology/launchDate> "1998"^^<http://www.w3.org/2001/XMLSchema#gYear>  <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b18> <http://www.w3.org/2000/01/rdf-schema#label> "High-energy physics"  <CERN-euronews-5> .
+ <http://example.org/NortheastScienceStation> <http://dbpedia.org/ontology/subject> <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b5>  <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b17> <http://www.w3.org/2000/01/rdf-schema#label> "Germany"  <CERN-euronews-5> .
+ <http://example.org/EU_RussianScienceProjects> <http://dbpedia.org/ontology/funder> <http://example.org/EuropeanUnion> <CERN-euronews-5> .
+ <http://example.org/ScientificCooperation> <http://dbpedia.org/ontology/field> <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b3>  <CERN-euronews-5> .
+ <http://example.org/ScientificCooperation> <http://dbpedia.org/ontology/field> <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b2>  <CERN-euronews-5> .
+ <http://example.org/NortheastScienceStation> <http://dbpedia.org/ontology/startDate> "2000"^^<http://www.w3.org/2001/XMLSchema#gYear>  <CERN-euronews-5> .
+ <http://example.org/LargeHadronCollider> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ScientificInstrument> <CERN-euronews-5> .
+ <http://example.org/RussianScienceFoundation> <http://dbpedia.org/ontology/partnership> <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b12>  <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <CERN-euronews-5> .
+ <http://example.org/NortheastScienceStation> <http://dbpedia.org/ontology/instrument> <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b7>  <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b10> <http://www.w3.org/2000/01/rdf-schema#label> "Arctic climate monitoring"  <CERN-euronews-5> .
+ <http://example.org/UkraineWar> <http://dbpedia.org/ontology/cause> <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b1>  <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Discovery> <CERN-euronews-5> .
+ <http://example.org/CremlinPlus> <http://dbpedia.org/ontology/funder> <http://example.org/EuropeanUnion> <CERN-euronews-5> .
+ <http://example.org/RussianScientists> <http://dbpedia.org/ontology/impact> <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b22>  <CERN-euronews-5> .
+ <http://example.org/PeterHergersberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-euronews-5> .
+ <http://example.org/ISS> <http://dbpedia.org/ontology/operator> <http://dbpedia.org/resource/Roscosmos> <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b8> <http://www.w3.org/2000/01/rdf-schema#label> "German state"  <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b23> <http://www.w3.org/2000/01/rdf-schema#label> "Russian scientists"  <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Topic> <CERN-euronews-5> .
+ <http://example.org/RussianScienceFoundation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <CERN-euronews-5> .
+ <http://example.org/EU_RussianScienceProjects> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Project> <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b4> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Russia> <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Topic> <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b19> <http://www.w3.org/2000/01/rdf-schema#label> "Biochemistry"  <CERN-euronews-5> .
+ <http://example.org/NortheastScienceStation> <http://dbpedia.org/ontology/location> <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b4>  <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Topic> <CERN-euronews-5> .
+ <http://example.org/EU_RussianScienceProjects> <http://dbpedia.org/ontology/money> "12.6 million euros"^^<http://www.w3.org/2001/XMLSchema#decimal>  <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b21> <http://www.w3.org/2000/01/rdf-schema#label> "Permafrost thawing"  <CERN-euronews-5> .
+ <http://example.org/ISS> <http://www.w3.org/2000/01/rdf-schema#label> "International Space Station (ISS)"  <CERN-euronews-5> .
+ <http://example.org/RussianRectorUnionLetter> <http://dbpedia.org/ontology/signatory> <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b23>  <CERN-euronews-5> .
+ <http://example.org/PeterHergersberg> <http://xmlns.com/foaf/0.1/name> "Peter Hergersberg"  <CERN-euronews-5> .
+ <http://example.org/RussianScienceFoundation> <http://dbpedia.org/ontology/budgetYear> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <CERN-euronews-5> .
+ <http://example.org/RussianScienceFoundation> <http://dbpedia.org/ontology/partnership> <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b16>  <CERN-euronews-5> .
+ <http://example.org/GermanRussianScientificProjects> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Project> <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b1> <http://www.w3.org/2000/01/rdf-schema#label> "Russia's invasion of Ukraine"  <CERN-euronews-5> .
+ <http://example.org/CremlinPlus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Project> <CERN-euronews-5> .
+ <http://example.org/RussianScientists> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Group> <CERN-euronews-5> .
+ <http://example.org/ScientificCooperation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Activity> <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b13> <http://www.w3.org/2000/01/rdf-schema#label> "China"  <CERN-euronews-5> .
+ <http://example.org/RussianScientists> <http://dbpedia.org/ontology/activity> <http://example.org/ScientificResearch> <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Topic> <CERN-euronews-5> .
+ <http://example.org/PeterHergersberg> <http://xmlns.com/foaf/0.1/member> <http://example.org/MaxPlanckSociety> <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b14> <http://www.w3.org/2000/01/rdf-schema#label> "Japan"  <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <CERN-euronews-5> .
+ <http://example.org/ScientificCooperation> <http://dbpedia.org/ontology/status> "halted"  <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Group> <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b9> <http://dbpedia.org/ontology/discoveryYear> "2012"^^<http://www.w3.org/2001/XMLSchema#gYear>  <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Instrument> <CERN-euronews-5> .
+ <http://example.org/RussianScienceFoundation> <http://dbpedia.org/ontology/budget> "22.9 billion rubles"^^<http://www.w3.org/2001/XMLSchema#decimal>  <CERN-euronews-5> .
+ <http://example.org/GermanRussianScientificProjects> <http://dbpedia.org/ontology/timePeriod> "last three years"  <CERN-euronews-5> .
+ <http://example.org/EU_RussianScienceProjects> <http://dbpedia.org/ontology/subject> <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b10>  <CERN-euronews-5> .
+ <http://CERN-euronews-5.com/blank#n6779614ae296446492ffe70a94c8be92b18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Topic> <CERN-euronews-5> .
+ <http://example.org/CouncilMeeting> <http://schema.org/eventStatus> <http://schema.org/EventCancelled> <CERN-euronews-6> .
+ <http://example.org/Russia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <CERN-euronews-6> .
+ <http://example.org/Roscosmos> <http://xmlns.com/foaf/0.1/page> <http://www.roscosmos.ru/> <CERN-euronews-6> .
+ <http://example.org/InvasionOfUkraine> <http://schema.org/organizer> <http://example.org/Russia> <CERN-euronews-6> .
+ <http://example.org/CouncilMeeting> <http://schema.org/startDate> "2023-03-04"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-euronews-6> .
+ <http://example.org/LargeHadronCollider> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <CERN-euronews-6> .
+ <http://example.org/DmitryRogozin> <http://schema.org/jobTitle> "Head of Roscosmos"  <CERN-euronews-6> .
+ <http://example.org/LargeHadronCollider> <http://schema.org/name> "Large Hadron Collider (LHC)"  <CERN-euronews-6> .
+ <http://example.org/Ukraine> <http://xmlns.com/foaf/0.1/page> <https://www.ukraine.ua/> <CERN-euronews-6> .
+ <http://example.org/Geneva> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <CERN-euronews-6> .
+ <http://example.org/OneWebSatellites> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <CERN-euronews-6> .
+ <http://example.org/CERN> <http://schema.org/founder> <http://example.org/FoundingNations> <CERN-euronews-6> .
+ <http://example.org/DmitryRogozin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-euronews-6> .
+ <http://example.org/RussianObserverStatusSuspension> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <CERN-euronews-6> .
+ <http://example.org/FoundingNations> <http://schema.org/name> "Founding nations of CERN"  <CERN-euronews-6> .
+ <http://example.org/ScottKelly> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-euronews-6> .
+ <http://example.org/SoyuzRocket> <http://schema.org/name> "Russian Soyuz rocket"  <CERN-euronews-6> .
+ <http://CERN-euronews-6.com/blank#n855c2d02d4354a3a99f36e0a26266f58b1> <http://schema.org/sourceOrganization> <http://example.org/AFP> <CERN-euronews-6> .
+ <http://CERN-euronews-6.com/blank#n855c2d02d4354a3a99f36e0a26266f58b1> <http://schema.org/about> <http://example.org/Roscosmos> <CERN-euronews-6> .
+ <http://CERN-euronews-6.com/blank#n855c2d02d4354a3a99f36e0a26266f58b1> <http://schema.org/datePublished> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <CERN-euronews-6> .
+ <http://example.org/LargeHadronCollider> <http://purl.org/dc/terms/description> "A particle accelerator with a 27 km ring buried underground on the French-Swiss border."  <CERN-euronews-6> .
+ <http://example.org/CERN> <http://schema.org/location> <http://example.org/Geneva> <CERN-euronews-6> .
+ <http://example.org/FoundingNations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <CERN-euronews-6> .
+ <http://example.org/McDonalds> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <CERN-euronews-6> .
+ <http://example.org/Roscosmos> <http://xmlns.com/foaf/0.1/name> "Roscosmos State Corporation for Space Activities"  <CERN-euronews-6> .
+ <http://example.org/Russia> <http://xmlns.com/foaf/0.1/page> <https://www.russia.com/> <CERN-euronews-6> .
+ <http://example.org/Belarus> <http://schema.org/name> "Belarus"  <CERN-euronews-6> .
+ <http://example.org/ScottKelly> <http://xmlns.com/foaf/0.1/name> "Scott Kelly"  <CERN-euronews-6> .
+ <http://example.org/InternationalSpaceStation> <http://schema.org/name> "International Space Station (ISS)"  <CERN-euronews-6> .
+ <http://example.org/CERN> <http://xmlns.com/foaf/0.1/name> "European Organization for Nuclear Research"  <CERN-euronews-6> .
+ <http://example.org/CouncilMeeting> <http://schema.org/about> <http://example.org/RussianObserverStatusSuspension> <CERN-euronews-6> .
+ <http://example.org/Geneva> <http://schema.org/name> "Geneva"  <CERN-euronews-6> .
+ <http://CERN-euronews-6.com/blank#n855c2d02d4354a3a99f36e0a26266f58b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NewsArticle> <CERN-euronews-6> .
+ <http://example.org/DmitryRogozin> <http://xmlns.com/foaf/0.1/name> "Dmitry Rogozin"  <CERN-euronews-6> .
+ <http://example.org/MemberStates> <http://schema.org/memberCount> "23"^^<http://www.w3.org/2001/XMLSchema#integer>  <CERN-euronews-6> .
+ <http://example.org/ScottKelly> <http://schema.org/jobTitle> "Former American astronaut and senator"  <CERN-euronews-6> .
+ <http://example.org/McDonalds> <http://xmlns.com/foaf/0.1/name> "McDonald's"  <CERN-euronews-6> .
+ <http://example.org/SoyuzRocket> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <CERN-euronews-6> .
+ <http://example.org/CouncilMeeting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <CERN-euronews-6> .
+ <http://CERN-euronews-6.com/blank#n855c2d02d4354a3a99f36e0a26266f58b1> <http://schema.org/about> <http://example.org/InvasionOfUkraine> <CERN-euronews-6> .
+ <http://example.org/Ukraine> <http://schema.org/name> "Ukraine"  <CERN-euronews-6> .
+ <http://example.org/CERN> <http://schema.org/event> <http://example.org/CouncilMeeting> <CERN-euronews-6> .
+ <http://example.org/CERN> <http://schema.org/member> <http://example.org/MemberStates> <CERN-euronews-6> .
+ <http://example.org/CERN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <CERN-euronews-6> .
+ <http://example.org/MemberStates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <CERN-euronews-6> .
+ <http://example.org/Belarus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <CERN-euronews-6> .
+ <http://example.org/Roscosmos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <CERN-euronews-6> .
+ <http://example.org/Ukraine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <CERN-euronews-6> .
+ <http://example.org/CERN> <http://purl.org/dc/terms/subject> <http://example.org/ParticlePhysics> <CERN-euronews-6> .
+ <http://example.org/Belarus> <http://xmlns.com/foaf/0.1/page> <https://www.belarus.by/en/> <CERN-euronews-6> .
+ <http://example.org/InvasionOfUkraine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <CERN-euronews-6> .
+ <http://example.org/Russia> <http://schema.org/name> "Russian Federation"  <CERN-euronews-6> .
+ <http://CERN-euronews-6.com/blank#n855c2d02d4354a3a99f36e0a26266f58b1> <http://schema.org/sourceOrganization> <http://example.org/Euronews> <CERN-euronews-6> .
+ <http://example.org/RussianObserverStatusSuspension> <http://schema.org/name> "Suspension of Russian Federation's observer status at CERN"  <CERN-euronews-6> .
+ <http://example.org/InternationalSpaceStation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <CERN-euronews-6> .
+ <http://example.org/CERN> <http://xmlns.com/foaf/0.1/page> <https://home.cern/> <CERN-euronews-6> .
+ <http://CERN-euronews-6.com/blank#n855c2d02d4354a3a99f36e0a26266f58b1> <http://schema.org/about> <http://example.org/CERN> <CERN-euronews-6> .
+ <http://example.org/InvasionOfUkraine> <http://schema.org/location> <http://example.org/Ukraine> <CERN-euronews-6> .
+ <http://example.org/CERN> <http://schema.org/foundingDate> "1954"^^<http://www.w3.org/2001/XMLSchema#gYear>  <CERN-euronews-6> .
+ <http://example.org/OneWebSatellites> <http://schema.org/name> "OneWeb satellites"  <CERN-euronews-6> .
+ <http://example.org/InvasionOfUkraine> <http://purl.org/dc/terms/date> "end of February 2023"^^<http://www.w3.org/2001/XMLSchema#string>  <CERN-euronews-6> .
+ <http://example.org/WebSummit2021> <http://xmlns.com/foaf/0.1/topic> <http://example.org/TechIndustry> <CERN-euronews-7> .
+ <http://CERN-euronews-7.com/blank#n46138b0be49940af9fd983c0a4ca7c98b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-euronews-7> .
+ <http://dbpedia.org/resource/COP26> <http://dbpedia.org/ontology/startDate> "2021-10-31"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-euronews-7> .
+ <http://example.org/WebSummit2021> <http://dbpedia.org/ontology/theme> <http://example.org/CryptoCurrency> <CERN-euronews-7> .
+ <http://example.org/ClimateCrisis> <http://schema.org/name> "Climate Crisis"  <CERN-euronews-7> .
+ <http://dbpedia.org/resource/COP26> <http://dbpedia.org/ontology/theme> <http://example.org/ClimateCrisis> <CERN-euronews-7> .
+ <http://example.org/WebSummit2021> <http://xmlns.com/foaf/0.1/topic> <http://example.org/Startups> <CERN-euronews-7> .
+ <http://example.org/TechIndustry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <CERN-euronews-7> .
+ <http://example.org/WebSummit> <http://xmlns.com/foaf/0.1/name> "Web Summit"  <CERN-euronews-7> .
+ <http://CERN-euronews-7.com/blank#n46138b0be49940af9fd983c0a4ca7c98b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-euronews-7> .
+ <http://CERN-euronews-7.com/blank#n46138b0be49940af9fd983c0a4ca7c98b1> <http://xmlns.com/foaf/0.1/name> "Paddy Cosgrave"  <CERN-euronews-7> .
+ <http://CERN-euronews-7.com/blank#n46138b0be49940af9fd983c0a4ca7c98b4> <http://xmlns.com/foaf/0.1/name> "Sir Tim Berners-Lee"  <CERN-euronews-7> .
+ <http://example.org/WebSummit2021> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Lisbon> <CERN-euronews-7> .
+ <http://dbpedia.org/resource/COP26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <CERN-euronews-7> .
+ <http://example.org/WebSummit> <http://dbpedia.org/ontology/founder> <http://example.org/PaddyCosgrave> <CERN-euronews-7> .
+ <http://CERN-euronews-7.com/blank#n46138b0be49940af9fd983c0a4ca7c98b2> <http://xmlns.com/foaf/0.1/name> "Frances Haugen"  <CERN-euronews-7> .
+ <http://example.org/WebSummit> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Portugal> <CERN-euronews-7> .
+ <http://example.org/TechIndustry> <http://schema.org/name> "Technology Industry"  <CERN-euronews-7> .
+ <http://example.org/WebSummit2021> <http://dbpedia.org/ontology/organiser> <http://CERN-euronews-7.com/blank#n46138b0be49940af9fd983c0a4ca7c98b1>  <CERN-euronews-7> .
+ <http://dbpedia.org/resource/Glasgow> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_Kingdom> <CERN-euronews-7> .
+ <http://dbpedia.org/resource/Lisbon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/City> <CERN-euronews-7> .
+ <http://example.org/ClimateCrisis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <CERN-euronews-7> .
+ <http://dbpedia.org/resource/Portugal> <http://dbpedia.org/ontology/capital> <http://dbpedia.org/resource/Lisbon> <CERN-euronews-7> .
+ <http://example.org/OpeningNight> <http://schema.org/about> <http://example.org/ClimateCrisis> <CERN-euronews-7> .
+ <http://example.org/WebSummit2021> <http://dbpedia.org/ontology/startDate> "2021-11-01"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-euronews-7> .
+ <http://CERN-euronews-7.com/blank#n46138b0be49940af9fd983c0a4ca7c98b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-euronews-7> .
+ <http://CERN-euronews-7.com/blank#n46138b0be49940af9fd983c0a4ca7c98b3> <http://xmlns.com/foaf/0.1/name> "Nick Clegg"  <CERN-euronews-7> .
+ <http://example.org/PaddyCosgrave> <http://schema.org/worksFor> <http://example.org/WebSummit> <CERN-euronews-7> .
+ <http://example.org/WebSummit2021> <http://schema.org/subEvent> <http://example.org/OpeningNight> <CERN-euronews-7> .
+ <http://example.org/OpeningNight> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <CERN-euronews-7> .
+ <http://example.org/CryptoCurrency> <http://schema.org/name> "Cryptocurrency"  <CERN-euronews-7> .
+ <http://dbpedia.org/resource/Glasgow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/City> <CERN-euronews-7> .
+ <http://CERN-euronews-7.com/blank#n46138b0be49940af9fd983c0a4ca7c98b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-euronews-7> .
+ <http://example.org/Startups> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <CERN-euronews-7> .
+ <http://example.org/PaddyCosgrave> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-euronews-7> .
+ <http://example.org/WebSummit2021> <http://dbpedia.org/ontology/theme> <http://example.org/ClimateCrisis> <CERN-euronews-7> .
+ <http://dbpedia.org/resource/COP26> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Glasgow> <CERN-euronews-7> .
+ <http://dbpedia.org/resource/COP26> <http://dbpedia.org/ontology/endDate> "2021-11-12"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-euronews-7> .
+ <http://example.org/OpeningNight> <http://schema.org/performer> <http://CERN-euronews-7.com/blank#n46138b0be49940af9fd983c0a4ca7c98b2>  <CERN-euronews-7> .
+ <http://CERN-euronews-7.com/blank#n46138b0be49940af9fd983c0a4ca7c98b1> <http://xmlns.com/foaf/0.1/title> "CEO"  <CERN-euronews-7> .
+ <http://example.org/WebSummit2021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <CERN-euronews-7> .
+ <http://example.org/PaddyCosgrave> <http://xmlns.com/foaf/0.1/name> "Paddy Cosgrave"  <CERN-euronews-7> .
+ <http://dbpedia.org/resource/Lisbon> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Portugal> <CERN-euronews-7> .
+ <http://example.org/Startups> <http://schema.org/name> "Start-ups"  <CERN-euronews-7> .
+ <http://example.org/CryptoCurrency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <CERN-euronews-7> .
+ <http://example.org/PaddyCosgrave> <http://schema.org/jobTitle> "CEO and co-founder"  <CERN-euronews-7> .
+ <http://example.org/OpeningNight> <http://schema.org/about> <http://example.org/CryptoCurrency> <CERN-euronews-7> .
+ <http://CERN-euronews-7.com/blank#n46138b0be49940af9fd983c0a4ca7c98b1> <http://schema.org/worksFor> <http://example.org/WebSummit> <CERN-euronews-7> .
+ <http://example.org/OpeningNight> <http://schema.org/location> <http://example.org/WebSummit2021> <CERN-euronews-7> .
+ <http://example.org/OpeningNight> <http://schema.org/performer> <http://CERN-euronews-7.com/blank#n46138b0be49940af9fd983c0a4ca7c98b4>  <CERN-euronews-7> .
+ <http://example.org/OpeningNight> <http://schema.org/performer> <http://CERN-euronews-7.com/blank#n46138b0be49940af9fd983c0a4ca7c98b3>  <CERN-euronews-7> .
+ <http://example.org/WebSummit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <CERN-euronews-7> .
+ <http://example.org/WebSummit> <http://dbpedia.org/ontology/foundingYear> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>  <CERN-euronews-7> .
+ <http://dbpedia.org/resource/Portugal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <CERN-euronews-7> .
+ <http://example.org/WebSummit2021> <http://dbpedia.org/ontology/numberOfParticipants> "40000"^^<http://www.w3.org/2001/XMLSchema#integer>  <CERN-euronews-7> .
+ <http://example.org/Silfra> <http://schema.org/name> "Silfra, Thingvellir National Park"  <CERN-euronews-8> .
+ <http://example.org/ReligiousSubject> <http://schema.org/name> "Religious"  <CERN-euronews-8> .
+ <http://example.org/FamilyAudience> <http://schema.org/requiredMinAge> "12"^^<http://www.w3.org/2001/XMLSchema#integer>  <CERN-euronews-8> .
+ <http://example.org/TeenAudience> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PeopleAudience> <CERN-euronews-8> .
+ <http://example.org/HistorySubject> <http://schema.org/name> "History"  <CERN-euronews-8> .
+ <http://example.org/SaqqaraExcavation> <http://schema.org/ageRange> "16+"^^<http://www.w3.org/2001/XMLSchema#string>  <CERN-euronews-8> .
+ <http://example.org/BlackTomato> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <CERN-euronews-8> .
+ <http://example.org/Havana> <http://schema.org/name> "Havana, Cuba"  <CERN-euronews-8> .
+ <http://example.org/Saqqara> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <CERN-euronews-8> .
+ <http://example.org/SustainabilitySubject> <http://schema.org/name> "Sustainability"  <CERN-euronews-8> .
+ <http://example.org/SilfraSnorkelling> <http://schema.org/ageRange> "12+"^^<http://www.w3.org/2001/XMLSchema#string>  <CERN-euronews-8> .
+ <http://example.org/Saqqara> <http://dbpedia.org/ontology/location> <http://example.org/Cairo> <CERN-euronews-8> .
+ <http://example.org/RakuAtelierKyoto> <http://schema.org/name> "Raku atelier, Kyoto"  <CERN-euronews-8> .
+ <http://example.org/FieldTripCollection> <http://schema.org/isRelatedTo> <http://example.org/SocialSciencesSubject> <CERN-euronews-8> .
+ <http://example.org/CERNVisit> <http://schema.org/ageRange> "12+"^^<http://www.w3.org/2001/XMLSchema#string>  <CERN-euronews-8> .
+ <http://example.org/SaqqaraExcavation> <http://schema.org/location> <http://example.org/Saqqara> <CERN-euronews-8> .
+ <http://example.org/CERNVisit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <CERN-euronews-8> .
+ <http://example.org/BlackTomato> <http://dbpedia.org/ontology/product> <http://example.org/FieldTripCollection> <CERN-euronews-8> .
+ <http://example.org/FieldTripCollection> <http://schema.org/name> "Field Trips"  <CERN-euronews-8> .
+ <http://example.org/RakuAtelierKyoto> <http://dbpedia.org/ontology/location> <http://example.org/Kyoto> <CERN-euronews-8> .
+ <http://example.org/BlackTomato> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Travel> <CERN-euronews-8> .
+ <http://example.org/Cairo> <http://schema.org/name> "Cairo, Egypt"  <CERN-euronews-8> .
+ <http://example.org/TheArtsSubject> <http://schema.org/name> "The Arts"  <CERN-euronews-8> .
+ <http://example.org/FieldTripCollection> <http://schema.org/isRelatedTo> <http://example.org/HistorySubject> <CERN-euronews-8> .
+ <http://example.org/SocialSciencesSubject> <http://schema.org/name> "Social Sciences"  <CERN-euronews-8> .
+ <http://example.org/Reykjavik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <CERN-euronews-8> .
+ <http://example.org/Saqqara> <http://schema.org/name> "Saqqara"  <CERN-euronews-8> .
+ <http://example.org/STEMSubject> <http://schema.org/name> "STEM"  <CERN-euronews-8> .
+ <http://example.org/InternationalFilmTVSchool> <http://schema.org/name> "International Film and TV School"  <CERN-euronews-8> .
+ <http://example.org/SaqqaraExcavation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <CERN-euronews-8> .
+ <http://example.org/FieldTripCollection> <http://schema.org/isRelatedTo> <http://example.org/LanguagesCultureSubject> <CERN-euronews-8> .
+ <http://example.org/CERNVisit> <http://schema.org/location> <http://dbpedia.org/resource/CERN> <CERN-euronews-8> .
+ <http://example.org/SaqqaraExcavation> <http://schema.org/activity> <http://example.org/ArchaeologicalMission> <CERN-euronews-8> .
+ <http://example.org/FamilyAudience> <http://schema.org/suggestedMinAge> "12"^^<http://www.w3.org/2001/XMLSchema#integer>  <CERN-euronews-8> .
+ <http://example.org/FieldTripCollection> <http://schema.org/isRelatedTo> <http://example.org/EarthSciencesSubject> <CERN-euronews-8> .
+ <http://example.org/FamilyAudience> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PeopleAudience> <CERN-euronews-8> .
+ <http://example.org/FieldTripCollection> <http://schema.org/audience> <http://example.org/TeenAudience> <CERN-euronews-8> .
+ <http://example.org/Silfra> <http://dbpedia.org/ontology/location> <http://example.org/Reykjavik> <CERN-euronews-8> .
+ <http://example.org/RakuPotteryWorkshop> <http://schema.org/location> <http://example.org/RakuAtelierKyoto> <CERN-euronews-8> .
+ <http://example.org/SilfraSnorkelling> <http://schema.org/activity> <http://example.org/Snorkelling> <CERN-euronews-8> .
+ <http://example.org/SilfraSnorkelling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <CERN-euronews-8> .
+ <http://example.org/InternationalFilmTVSchool> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EducationalOrganization> <CERN-euronews-8> .
+ <http://example.org/InternationalFilmTVSchool> <http://dbpedia.org/ontology/location> <http://example.org/Havana> <CERN-euronews-8> .
+ <http://example.org/Reykjavik> <http://schema.org/name> "Reykjavik, Iceland"  <CERN-euronews-8> .
+ <http://example.org/FieldTripCollection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <CERN-euronews-8> .
+ <http://example.org/LanguagesCultureSubject> <http://schema.org/name> "Languages & Culture"  <CERN-euronews-8> .
+ <http://example.org/FieldTripCollection> <http://schema.org/isRelatedTo> <http://example.org/ReligiousSubject> <CERN-euronews-8> .
+ <http://example.org/EarthSciencesSubject> <http://schema.org/name> "Earth Sciences"  <CERN-euronews-8> .
+ <http://example.org/Cairo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <CERN-euronews-8> .
+ <http://example.org/FieldTripCollection> <http://schema.org/audience> <http://example.org/FamilyAudience> <CERN-euronews-8> .
+ <http://example.org/HavanaFilmSchool> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <CERN-euronews-8> .
+ <http://example.org/HavanaFilmSchool> <http://schema.org/location> <http://example.org/InternationalFilmTVSchool> <CERN-euronews-8> .
+ <http://example.org/Havana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <CERN-euronews-8> .
+ <http://example.org/CERNVisit> <http://schema.org/activity> <http://example.org/ScientificTour> <CERN-euronews-8> .
+ <http://example.org/Saqqara> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/UNESCO_World_Heritage_Site> <CERN-euronews-8> .
+ <http://example.org/RakuPotteryWorkshop> <http://schema.org/activity> <http://example.org/PotteryMaking> <CERN-euronews-8> .
+ <http://example.org/Silfra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <CERN-euronews-8> .
+ <http://example.org/FieldTripCollection> <http://schema.org/isRelatedTo> <http://example.org/SustainabilitySubject> <CERN-euronews-8> .
+ <http://example.org/TeenAudience> <http://schema.org/suggestedMinAge> "12"^^<http://www.w3.org/2001/XMLSchema#integer>  <CERN-euronews-8> .
+ <http://example.org/SilfraSnorkelling> <http://schema.org/location> <http://example.org/Silfra> <CERN-euronews-8> .
+ <http://example.org/RakuPotteryWorkshop> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <CERN-euronews-8> .
+ <http://example.org/HavanaFilmSchool> <http://schema.org/ageRange> "16+"^^<http://www.w3.org/2001/XMLSchema#string>  <CERN-euronews-8> .
+ <http://example.org/FieldTripCollection> <http://schema.org/isRelatedTo> <http://example.org/TheArtsSubject> <CERN-euronews-8> .
+ <http://example.org/TeenAudience> <http://schema.org/requiredMinAge> "12"^^<http://www.w3.org/2001/XMLSchema#integer>  <CERN-euronews-8> .
+ <http://example.org/BlackTomato> <http://dbpedia.org/ontology/service> "bespoke service"  <CERN-euronews-8> .
+ <http://example.org/RakuPotteryWorkshop> <http://schema.org/ageRange> "14+"^^<http://www.w3.org/2001/XMLSchema#string>  <CERN-euronews-8> .
+ <http://example.org/FieldTripCollection> <http://schema.org/isRelatedTo> <http://example.org/STEMSubject> <CERN-euronews-8> .
+ <http://example.org/HavanaFilmSchool> <http://schema.org/activity> <http://example.org/FilmmakingEducation> <CERN-euronews-8> .
+ <http://example.org/Kyoto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <CERN-euronews-8> .
+ <http://example.org/RakuAtelierKyoto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <CERN-euronews-8> .
+ <http://example.org/Kyoto> <http://schema.org/name> "Kyoto, Japan"  <CERN-euronews-8> .
+ <http://example.org/BlackTomato> <http://xmlns.com/foaf/0.1/name> "Black Tomato"  <CERN-euronews-8> .
+ <http://example.org/BlackTomato> <http://dbpedia.org/ontology/service> "luxury travel"  <CERN-euronews-8> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b1> <http://schema.org/attendee> <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b5>  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b2> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Medium_(website)> <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b1> <http://schema.org/location> <http://dbpedia.org/resource/Lisbon> <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/GovernmentOrganization> <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b18> <http://xmlns.com/foaf/0.1/name> "Portuguese Government"  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b17> <http://dbpedia.org/ontology/party> <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b19>  <CERN-euronews-9> .
+ <http://dbpedia.org/resource/Web_Summit> <http://dbpedia.org/ontology/founder> <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b16>  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b2> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Twitter> <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b2> <http://xmlns.com/foaf/0.1/name> "Evan Williams"  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b1> <http://schema.org/attendee> <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b11>  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b1> <http://schema.org/about> "End to the digital divide; Web to be free and fair for all"  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b20> <http://dbpedia.org/ontology/medium> "broadcast platforms"  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b9> <http://xmlns.com/foaf/0.1/name> "Margrethe Vestager"  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b20> <http://dbpedia.org/ontology/coverage> "Web Summit"  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b4> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Racing_driver> <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agreement> <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b16> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Entrepreneur> <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b13> <http://schema.org/mentions> <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b15>  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b5> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Football_player> <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b16> <http://xmlns.com/foaf/0.1/name> "Paddy Cosgrave"  <CERN-euronews-9> .
+ <http://dbpedia.org/resource/World_Wide_Web_Foundation> <http://www.worldwideweb.foundation/contract> <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b13>  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b9> <http://dbpedia.org/ontology/occupation> "European Commission competition watchdog"  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b15> <http://xmlns.com/foaf/0.1/name> "Government of France"  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b12> <http://xmlns.com/foaf/0.1/name> "Han the Robot"  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b10> <http://xmlns.com/foaf/0.1/name> "Ben Goertzel"  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b17> <http://dbpedia.org/ontology/amount> "11 million euros"^^<http://www.w3.org/2001/XMLSchema#decimal>  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-euronews-9> .
+ <http://dbpedia.org/resource/Tim_Berners-Lee> <http://schema.org/speech> <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b1>  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b1> <http://schema.org/eventType> "Keynote Speech"  <CERN-euronews-9> .
+ <http://dbpedia.org/resource/Web_Summit> <http://dbpedia.org/ontology/numberOfSpeakers> "1200"^^<http://www.w3.org/2001/XMLSchema#integer>  <CERN-euronews-9> .
+ <http://dbpedia.org/resource/Web_Summit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/c4dm/event.owl#Event> <CERN-euronews-9> .
+ <http://dbpedia.org/resource/Tim_Berners-Lee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b1> <http://schema.org/attendee> <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b9>  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b14> <http://xmlns.com/foaf/0.1/name> "Google"  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b10> <http://dbpedia.org/ontology/occupation> "Chief Scientist at Hanson Robotics"  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b2> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Entrepreneur> <CERN-euronews-9> .
+ <http://dbpedia.org/resource/Web_Summit> <http://dbpedia.org/ontology/frequency> "annual"  <CERN-euronews-9> .
+ <http://dbpedia.org/resource/Tim_Berners-Lee> <http://xmlns.com/foaf/0.1/name> "Sir Tim Berners-Lee"  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b1> <http://schema.org/attendee> <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b10>  <CERN-euronews-9> .
+ <http://dbpedia.org/resource/Web_Summit> <http://schema.org/location> <http://dbpedia.org/resource/Lisbon> <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b13> <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/Tim_Berners-Lee> <CERN-euronews-9> .
+ <http://dbpedia.org/resource/Web_Summit> <http://dbpedia.org/ontology/numberOfParticipants> "70000"^^<http://www.w3.org/2001/XMLSchema#integer>  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b1> <http://schema.org/attendee> <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b7>  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b3> <http://xmlns.com/foaf/0.1/name> "Princess Beatrice of York"  <CERN-euronews-9> .
+ <http://dbpedia.org/resource/Tim_Berners-Lee> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/CERN> <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b6> <http://dbpedia.org/ontology/occupation> "Music producer"  <CERN-euronews-9> .
+ <http://dbpedia.org/resource/Web_Summit> <http://dbpedia.org/ontology/partnership> <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b17>  <CERN-euronews-9> .
+ <http://dbpedia.org/resource/Euronews> <http://dbpedia.org/ontology/broadcast> <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b20>  <CERN-euronews-9> .
+ <http://dbpedia.org/resource/Euronews> <http://dbpedia.org/ontology/partner> <http://dbpedia.org/resource/Web_Summit> <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b1> <http://schema.org/attendee> <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b12>  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Document> <CERN-euronews-9> .
+ <http://dbpedia.org/resource/World_Wide_Web_Foundation> <http://xmlns.com/foaf/0.1/name> "World Wide Web Foundation"  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b1> <http://schema.org/attendee> <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b6>  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b4> <http://xmlns.com/foaf/0.1/name> "Nico Rosberg"  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b8> <http://dbpedia.org/ontology/occupation> "UN Secretary General"  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b13> <http://schema.org/mentions> <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b14>  <CERN-euronews-9> .
+ <http://dbpedia.org/resource/Tim_Berners-Lee> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/World_Wide_Web> <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b6> <http://dbpedia.org/ontology/knownFor> "Major Lazer"  <CERN-euronews-9> .
+ <http://dbpedia.org/resource/Euronews> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Broadcaster> <CERN-euronews-9> .
+ <http://dbpedia.org/resource/Tim_Berners-Lee> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Computer_scientist> <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b1> <http://schema.org/attendee> <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b3>  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b6> <http://xmlns.com/foaf/0.1/name> "Christopher Leacock"  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b4> <http://dbpedia.org/ontology/knownFor> "F1 champion"  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b17> <http://dbpedia.org/ontology/party> <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b18>  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b7> <http://dbpedia.org/ontology/occupation> "Former British PM"  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b1> <http://schema.org/attendee> <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b4>  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b19> <http://xmlns.com/foaf/0.1/name> "Web Summit"  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b8> <http://xmlns.com/foaf/0.1/name> "António Guterres"  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b11> <http://xmlns.com/foaf/0.1/name> "Sophia the Robot"  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b1> <http://schema.org/attendee> <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b2>  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b1> <http://purl.org/NET/c4dm/event.owl#time> "Web Summit"  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b5> <http://xmlns.com/foaf/0.1/name> "Ronaldinho"  <CERN-euronews-9> .
+ <http://dbpedia.org/resource/Web_Summit> <http://dbpedia.org/ontology/duration> "3 days"^^<http://www.w3.org/2001/XMLSchema#string>  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b17> <http://dbpedia.org/ontology/duration> "10 years"^^<http://www.w3.org/2001/XMLSchema#string>  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Broadcast> <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b7> <http://xmlns.com/foaf/0.1/name> "Tony Blair"  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b13> <http://www.w3.org/2000/01/rdf-schema#label> "Contract for the Web"  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b1> <http://schema.org/attendee> <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b8>  <CERN-euronews-9> .
+ <http://CERN-euronews-9.com/blank#n5db5331632194016be18bcc510973d99b20> <http://dbpedia.org/ontology/duration> "throughout the week"^^<http://www.w3.org/2001/XMLSchema#string>  <CERN-euronews-9> .
+ <http://dbpedia.org/resource/World_Wide_Web_Foundation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <CERN-euronews-9> .

@@ -1,0 +1,673 @@
+ <http://example.org/Federer> <http://schema.org/name> "Roger Federer"  <NBA-euronews-0> .
+ <http://example.org/KobeBryant> <http://schema.org/name> "Kobe Bryant"  <NBA-euronews-0> .
+ <http://example.org/Nadal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-euronews-0> .
+ <http://example.org/Medvedev> <http://schema.org/name> "Daniil Medvedev"  <NBA-euronews-0> .
+ <http://example.org/Ivanisevic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-euronews-0> .
+ <http://example.org/Medvedev> <http://schema.org/defeated> <http://example.org/Alcaraz> <NBA-euronews-0> .
+ <http://example.org/Alcaraz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-euronews-0> .
+ <http://example.org/Djokovic> <http://schema.org/award> "24 Grand Slam titles"  <NBA-euronews-0> .
+ <http://example.org/Medvedev> <http://schema.org/memberOf> <http://example.org/OpenEra> <NBA-euronews-0> .
+ <http://example.org/Ivanisevic> <http://schema.org/memberOf> <http://example.org/DjokovicTeam> <NBA-euronews-0> .
+ <http://example.org/Medvedev> <http://schema.org/nationality> "Russian"  <NBA-euronews-0> .
+ <http://example.org/OpenEra> <http://schema.org/name> "Open era"  <NBA-euronews-0> .
+ <http://example.org/Alcaraz> <http://schema.org/name> "Carlos Alcaraz"  <NBA-euronews-0> .
+ <http://example.org/USOpen> <http://schema.org/competitor> <http://example.org/Medvedev> <NBA-euronews-0> .
+ <http://example.org/Nadal> <http://schema.org/name> "Rafael Nadal"  <NBA-euronews-0> .
+ <http://example.org/DjokovicTeam> <http://schema.org/coach> <http://example.org/Ivanisevic> <NBA-euronews-0> .
+ <http://example.org/USOpen> <http://schema.org/startDate> "2023-09-10"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-euronews-0> .
+ <http://example.org/USOpen> <http://schema.org/location> "Flushing Meadows"  <NBA-euronews-0> .
+ <http://example.org/Nadal> <http://schema.org/award> "22 Grand Slam titles"  <NBA-euronews-0> .
+ <http://example.org/Djokovic> <http://schema.org/birthDate> "1987-05-22"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-euronews-0> .
+ <http://example.org/Wimbledon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsEvent> <NBA-euronews-0> .
+ <http://example.org/Djokovic> <http://schema.org/athleteStatistics> <http://NBA-euronews-0.com/blank#n1f5ea932c3304bda988d206a17e5ec7eb1>  <NBA-euronews-0> .
+ <http://example.org/Alcaraz> <http://schema.org/rank> "2"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-euronews-0> .
+ <http://example.org/Wimbledon> <http://schema.org/competitor> <http://example.org/Djokovic> <NBA-euronews-0> .
+ <http://example.org/Federer> <http://schema.org/memberOf> <http://example.org/OpenEra> <NBA-euronews-0> .
+ <http://example.org/Alcaraz> <http://schema.org/defeated> <http://example.org/Djokovic> <NBA-euronews-0> .
+ <http://example.org/Djokovic> <http://schema.org/hasOccupation> <http://schema.org/TennisPlayer> <NBA-euronews-0> .
+ <http://NBA-euronews-0.com/blank#n1f5ea932c3304bda988d206a17e5ec7eb1> <http://schema.org/season> "current season"  <NBA-euronews-0> .
+ <http://example.org/Medvedev> <http://schema.org/award> "1 Grand Slam title"  <NBA-euronews-0> .
+ <http://NBA-euronews-0.com/blank#n1f5ea932c3304bda988d206a17e5ec7eb1> <http://schema.org/statisticsType> "Grand Slam performance"  <NBA-euronews-0> .
+ <http://example.org/Wimbledon> <http://schema.org/winner> <http://example.org/Alcaraz> <NBA-euronews-0> .
+ <http://example.org/DjokovicTeam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <NBA-euronews-0> .
+ <http://example.org/Djokovic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-euronews-0> .
+ <http://example.org/Djokovic> <http://schema.org/memberOf> <http://example.org/DjokovicTeam> <NBA-euronews-0> .
+ <http://example.org/SerenaWilliams> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-euronews-0> .
+ <http://example.org/Wimbledon> <http://schema.org/competitor> <http://example.org/Alcaraz> <NBA-euronews-0> .
+ <http://example.org/KobeBryant> <http://schema.org/deathDate> "2020-01-26"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-euronews-0> .
+ <http://example.org/Djokovic> <http://schema.org/nationality> "Serbian"  <NBA-euronews-0> .
+ <http://example.org/Djokovic> <http://schema.org/coach> <http://example.org/Ivanisevic> <NBA-euronews-0> .
+ <http://example.org/Alcaraz> <http://schema.org/hasOccupation> <http://schema.org/TennisPlayer> <NBA-euronews-0> .
+ <http://example.org/Djokovic> <http://schema.org/defeated> <http://example.org/Medvedev> <NBA-euronews-0> .
+ <http://example.org/Medvedev> <http://schema.org/birthDate> "1996-02-11"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-euronews-0> .
+ <http://example.org/Djokovic> <http://schema.org/gender> "male"  <NBA-euronews-0> .
+ <http://example.org/USOpen> <http://schema.org/name> "US Open final"  <NBA-euronews-0> .
+ <http://example.org/OpenEra> <http://schema.org/startDate> "1968-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-euronews-0> .
+ <http://example.org/Wimbledon> <http://schema.org/name> "Wimbledon final"  <NBA-euronews-0> .
+ <http://example.org/Medvedev> <http://schema.org/hasOccupation> <http://schema.org/TennisPlayer> <NBA-euronews-0> .
+ <http://example.org/USOpen> <http://schema.org/winner> <http://example.org/Djokovic> <NBA-euronews-0> .
+ <http://example.org/Ivanisevic> <http://schema.org/name> "Goran Ivanisevic"  <NBA-euronews-0> .
+ <http://example.org/MargaretCourt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-euronews-0> .
+ <http://example.org/Medvedev> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-euronews-0> .
+ <http://NBA-euronews-0.com/blank#n1f5ea932c3304bda988d206a17e5ec7eb1> <http://schema.org/winLossRecord> "27-1"  <NBA-euronews-0> .
+ <http://example.org/USOpen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsEvent> <NBA-euronews-0> .
+ <http://example.org/MargaretCourt> <http://schema.org/name> "Margaret Court"  <NBA-euronews-0> .
+ <http://example.org/KobeBryant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-euronews-0> .
+ <http://example.org/Djokovic> <http://schema.org/memberOf> <http://example.org/OpenEra> <NBA-euronews-0> .
+ <http://example.org/USOpen> <http://schema.org/competitor> <http://example.org/Djokovic> <NBA-euronews-0> .
+ <http://example.org/OpenEra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsOrganization> <NBA-euronews-0> .
+ <http://example.org/SerenaWilliams> <http://schema.org/memberOf> <http://example.org/OpenEra> <NBA-euronews-0> .
+ <http://example.org/Djokovic> <http://schema.org/rank> "1"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-euronews-0> .
+ <http://example.org/Federer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-euronews-0> .
+ <http://example.org/SerenaWilliams> <http://schema.org/award> "23 Grand Slam titles"  <NBA-euronews-0> .
+ <http://example.org/Nadal> <http://schema.org/memberOf> <http://example.org/OpenEra> <NBA-euronews-0> .
+ <http://example.org/SerenaWilliams> <http://schema.org/name> "Serena Williams"  <NBA-euronews-0> .
+ <http://example.org/Djokovic> <http://schema.org/tributeTo> <http://example.org/KobeBryant> <NBA-euronews-0> .
+ <http://example.org/Medvedev> <http://schema.org/gender> "male"  <NBA-euronews-0> .
+ <http://example.org/MargaretCourt> <http://schema.org/award> "24 Grand Slam titles"  <NBA-euronews-0> .
+ <http://example.org/Federer> <http://schema.org/award> "20 Grand Slam titles"  <NBA-euronews-0> .
+ <http://example.org/Alcaraz> <http://schema.org/memberOf> <http://example.org/OpenEra> <NBA-euronews-0> .
+ <http://example.org/Djokovic> <http://schema.org/name> "Novak Djokovic"  <NBA-euronews-0> .
+ <http://example.org/DjokovicTeam> <http://schema.org/sport> "tennis"  <NBA-euronews-0> .
+ <http://example.org/DennisSchroder> <http://dbpedia.org/ontology/team> <http://example.org/GermanyBasketballTeam> <NBA-euronews-1> .
+ <http://example.org/SerbiaBasketballTeam> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Serbia> <NBA-euronews-1> .
+ <http://NBA-euronews-1.com/blank#n05f42ff4339946e8a13db78f1d964e3eb1> <http://dbpedia.org/ontology/surgeryRequired> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NBA-euronews-1> .
+ <http://example.org/WorldCupBasketball2023> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Manila> <NBA-euronews-1> .
+ <http://NBA-euronews-1.com/blank#n05f42ff4339946e8a13db78f1d964e3eb1> <http://dbpedia.org/ontology/resultingCondition> <http://example.org/KidneyRemoval> <NBA-euronews-1> .
+ <http://example.org/DennisSchroder> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballPlayer> <NBA-euronews-1> .
+ <http://example.org/BorisaSimanic> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Serbia_national_basketball_team> <NBA-euronews-1> .
+ <http://example.org/KidneyRemoval> <http://www.w3.org/2000/01/rdf-schema#label> "Kidney removal"  <NBA-euronews-1> .
+ <http://example.org/DirkNowitzki> <http://xmlns.com/foaf/0.1/name> "Dirk Nowitzki"  <NBA-euronews-1> .
+ <http://example.org/GermanyBasketballTeam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballTeam> <NBA-euronews-1> .
+ <http://example.org/NikolaJokic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballPlayer> <NBA-euronews-1> .
+ <http://example.org/AleksaAvramovic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballPlayer> <NBA-euronews-1> .
+ <http://example.org/DennisSchroder> <http://xmlns.com/foaf/0.1/name> "Dennis Schroder"  <NBA-euronews-1> .
+ <http://example.org/KidneyRemoval> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MedicalCondition> <NBA-euronews-1> .
+ <http://example.org/AleksaAvramovic> <http://dbpedia.org/ontology/points> "21"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-euronews-1> .
+ <http://example.org/WorldCupBasketball2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsEvent> <NBA-euronews-1> .
+ <http://example.org/FranzWagner> <http://dbpedia.org/ontology/team> <http://example.org/GermanyBasketballTeam> <NBA-euronews-1> .
+ <http://example.org/MichaelConroy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-euronews-1> .
+ <http://example.org/GermanyBasketballTeam> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Germany> <NBA-euronews-1> .
+ <http://example.org/WorldCupBasketball2023> <http://schema.org/startDate> "2023-09-??T??:??:??"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <NBA-euronews-1> .
+ <http://example.org/NikolaJokic> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Denver_Nuggets> <NBA-euronews-1> .
+ <http://example.org/BasketballHallofFame> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> <NBA-euronews-1> .
+ <http://example.org/BogdanBogdanovic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballPlayer> <NBA-euronews-1> .
+ <http://example.org/WorldCupBasketball2023> <http://dbpedia.org/ontology/bronzeMedalist> <http://dbpedia.org/resource/Indianapolis_2002> <NBA-euronews-1> .
+ <http://example.org/FranzWagner> <http://xmlns.com/foaf/0.1/name> "Franz Wagner"  <NBA-euronews-1> .
+ <http://example.org/BorisaSimanic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballPlayer> <NBA-euronews-1> .
+ <http://example.org/DirkNowitzki> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballPlayer> <NBA-euronews-1> .
+ <http://example.org/DennisSchroder> <http://dbpedia.org/ontology/points> "28"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-euronews-1> .
+ <http://example.org/FranzWagner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballPlayer> <NBA-euronews-1> .
+ <http://example.org/WorldCupBasketball2023> <http://dbpedia.org/ontology/winner> <http://example.org/GermanyBasketballTeam> <NBA-euronews-1> .
+ <http://example.org/BorisaSimanic> <http://dbpedia.org/ontology/injury> <http://NBA-euronews-1.com/blank#n05f42ff4339946e8a13db78f1d964e3eb1>  <NBA-euronews-1> .
+ <http://example.org/SerbiaBasketballTeam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballTeam> <NBA-euronews-1> .
+ <http://example.org/BorisaSimanic> <http://xmlns.com/foaf/0.1/name> "Borisa Simanic"  <NBA-euronews-1> .
+ <http://example.org/WorldCupBasketball2023> <http://schema.org/endDate> "2023-09-??T??:??:??"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <NBA-euronews-1> .
+ <http://example.org/TheAP> <http://schema.org/copyrightYear> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NBA-euronews-1> .
+ <http://example.org/NikolaJokic> <http://xmlns.com/foaf/0.1/name> "Nikola Jokic"  <NBA-euronews-1> .
+ <http://example.org/AleksaAvramovic> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Serbia_national_basketball_team> <NBA-euronews-1> .
+ <http://example.org/BogdanBogdanovic> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Serbia_national_basketball_team> <NBA-euronews-1> .
+ <http://example.org/TheAP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <NBA-euronews-1> .
+ <http://example.org/MichaelConroy> <http://xmlns.com/foaf/0.1/name> "Michael Conroy"  <NBA-euronews-1> .
+ <http://example.org/AleksaAvramovic> <http://xmlns.com/foaf/0.1/name> "Aleksa Avramovic"  <NBA-euronews-1> .
+ <http://example.org/BogdanBogdanovic> <http://xmlns.com/foaf/0.1/name> "Bogdan Bogdanovic"  <NBA-euronews-1> .
+ <http://example.org/TheAP> <http://xmlns.com/foaf/0.1/name> "The AP"  <NBA-euronews-1> .
+ <http://example.org/DirkNowitzki> <http://dbpedia.org/ontology/hallOfFame> <http://example.org/BasketballHallofFame> <NBA-euronews-1> .
+ <http://example.org/FranzWagner> <http://dbpedia.org/ontology/points> "19"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-euronews-1> .
+ <http://example.org/MichaelConroy> <http://schema.org/copyrightHolder> <http://example.org/TheAP> <NBA-euronews-1> .
+ <http://example.org/SerbiaBasketballTeam> <http://dbpedia.org/ontology/runnerUp> <http://example.org/WorldCupBasketball2023> <NBA-euronews-1> .
+ <http://NBA-euronews-1.com/blank#n05f42ff4339946e8a13db78f1d964e3eb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Injury> <NBA-euronews-1> .
+ <http://example.org/GermanyBasketballTeam> <http://dbpedia.org/ontology/championship> <http://example.org/WorldCupBasketball2023> <NBA-euronews-1> .
+ <http://example.org/BogdanBogdanovic> <http://dbpedia.org/ontology/points> "17"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-euronews-1> .
+ <http://example.org/LigiaNobrega> <http://xmlns.com/foaf/0.1/name> "Ligia Nobrega"  <NBA-euronews-2> .
+ <http://example.org/EIGE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <NBA-euronews-2> .
+ <http://example.org/MélissaPlaza> <http://schema.org/jobTitle> "Sports Psychologist"  <NBA-euronews-2> .
+ <http://example.org/WomensWorldCup2023QualifyingConditionsReport> <http://schema.org/author> <http://example.org/AlexCulvin> <NBA-euronews-2> .
+ <http://example.org/IlariaFederico> <http://xmlns.com/foaf/0.1/name> "Ilaria Federico"  <NBA-euronews-2> .
+ <http://example.org/FIFPRO> <http://xmlns.com/foaf/0.1/name> "International Federation of Professional Footballers' Associations"  <NBA-euronews-2> .
+ <http://example.org/StéphaneHamalian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-euronews-2> .
+ <http://example.org/LigiaNobrega> <http://schema.org/worksFor> <http://example.org/EIGE> <NBA-euronews-2> .
+ <http://example.org/JulianJappert> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-euronews-2> .
+ <http://example.org/AlexCulvin> <http://schema.org/jobTitle> "Head of Women's Football Strategy and Research"  <NBA-euronews-2> .
+ <http://example.org/CécileLocatelli> <http://xmlns.com/foaf/0.1/pastOccupation> "Football player"  <NBA-euronews-2> .
+ <http://example.org/StéphaneHamalian> <http://xmlns.com/foaf/0.1/name> "Stéphane Hamalian"  <NBA-euronews-2> .
+ <http://example.org/FukuokaJapan> <http://schema.org/name> "Fukuoka, Japan"  <NBA-euronews-2> .
+ <http://example.org/WomensWorldCup2023QualifyingConditionsReport> <http://schema.org/publisher> <http://example.org/Euronews> <NBA-euronews-2> .
+ <http://example.org/FIFAWomensWorldCup2023> <http://schema.org/startDate> "2023-07-23"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-euronews-2> .
+ <http://example.org/MélissaPlaza> <http://xmlns.com/foaf/0.1/name> "Mélissa Plaza"  <NBA-euronews-2> .
+ <http://example.org/MarioBowden> <http://xmlns.com/foaf/0.1/name> "Mario Bowden"  <NBA-euronews-2> .
+ <http://example.org/LigiaNobrega> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-euronews-2> .
+ <http://example.org/ENGSO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <NBA-euronews-2> .
+ <http://example.org/CécileLocatelli> <http://schema.org/jobTitle> "Coach"  <NBA-euronews-2> .
+ <http://example.org/FIFAWomensWorldCup2023> <http://schema.org/endDate> "2023-07-30"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-euronews-2> .
+ <http://example.org/WomensWorldCup2023QualifyingConditionsReport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <NBA-euronews-2> .
+ <http://example.org/CouncilOfEurope> <http://xmlns.com/foaf/0.1/name> "Council of Europe"  <NBA-euronews-2> .
+ <http://example.org/CécileLocatelli> <http://xmlns.com/foaf/0.1/name> "Cécile Locatelli"  <NBA-euronews-2> .
+ <http://example.org/MarioBowden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-euronews-2> .
+ <http://example.org/CouncilOfEurope> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <NBA-euronews-2> .
+ <http://example.org/MassimilianoMazzucchi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-euronews-2> .
+ <http://example.org/StefanBergh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-euronews-2> .
+ <http://example.org/IlariaFederico> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-euronews-2> .
+ <http://example.org/StefanBergh> <http://schema.org/worksFor> <http://example.org/ENGSO> <NBA-euronews-2> .
+ <http://example.org/Euronews> <http://xmlns.com/foaf/0.1/name> "Euronews"  <NBA-euronews-2> .
+ <http://example.org/RAI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <NBA-euronews-2> .
+ <http://example.org/EIGE> <http://xmlns.com/foaf/0.1/name> "European Institute for Gender Equality"  <NBA-euronews-2> .
+ <http://example.org/FIFAWomensWorldCup2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NBA-euronews-2> .
+ <http://example.org/JulianJappert> <http://schema.org/worksFor> <http://example.org/SportEtCitoyenneté> <NBA-euronews-2> .
+ <http://example.org/AlexCulvin> <http://schema.org/worksFor> <http://example.org/FIFPRO> <NBA-euronews-2> .
+ <http://example.org/StefanBergh> <http://xmlns.com/foaf/0.1/name> "Stefan Bergh"  <NBA-euronews-2> .
+ <http://example.org/CécileLocatelli> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-euronews-2> .
+ <http://example.org/FIFPRO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <NBA-euronews-2> .
+ <http://example.org/FukuokaJapan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <NBA-euronews-2> .
+ <http://example.org/WomensWorldCup2023QualifyingConditionsReport> <http://schema.org/name> "Women's World Cup 2023 Qualifying Conditions Report"  <NBA-euronews-2> .
+ <http://example.org/MélissaPlaza> <http://xmlns.com/foaf/0.1/pastOccupation> "French national team player"  <NBA-euronews-2> .
+ <http://example.org/Euronews> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <NBA-euronews-2> .
+ <http://example.org/LorenzoLeonarduzzi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-euronews-2> .
+ <http://example.org/AlexCulvin> <http://xmlns.com/foaf/0.1/name> "Alex Culvin"  <NBA-euronews-2> .
+ <http://example.org/LigiaNobrega> <http://schema.org/jobTitle> "Senior Analyst"  <NBA-euronews-2> .
+ <http://example.org/SportEtCitoyenneté> <http://xmlns.com/foaf/0.1/name> "Think Tank Sport et Citoyenneté"  <NBA-euronews-2> .
+ <http://example.org/SportEtCitoyenneté> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <NBA-euronews-2> .
+ <http://example.org/JulianJappert> <http://schema.org/jobTitle> "Director"  <NBA-euronews-2> .
+ <http://example.org/AlexCulvin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-euronews-2> .
+ <http://example.org/ENGSO> <http://xmlns.com/foaf/0.1/name> "European Non-Governmental Sports Organisation"  <NBA-euronews-2> .
+ <http://example.org/MélissaPlaza> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-euronews-2> .
+ <http://example.org/MassimilianoMazzucchi> <http://xmlns.com/foaf/0.1/name> "Massimiliano Mazzucchi"  <NBA-euronews-2> .
+ <http://example.org/FIFAWomensWorldCup2023> <http://schema.org/location> <http://example.org/FukuokaJapan> <NBA-euronews-2> .
+ <http://example.org/LorenzoLeonarduzzi> <http://xmlns.com/foaf/0.1/name> "Lorenzo Leonarduzzi"  <NBA-euronews-2> .
+ <http://example.org/JulianJappert> <http://xmlns.com/foaf/0.1/name> "Julian Jappert"  <NBA-euronews-2> .
+ <http://example.org/RAI> <http://xmlns.com/foaf/0.1/name> "RAI – Radiotelevisione Italiana"  <NBA-euronews-2> .
+ <http://example.org/FIFAWomensWorldCup2023> <http://schema.org/name> "FIFA Women's World Cup 2023"  <NBA-euronews-2> .
+ <http://example.org/StefanBergh> <http://schema.org/jobTitle> "President"  <NBA-euronews-2> .
+ <http://example.org/entities/FootballMatch> <http://schema.org/competitor> <http://example.org/entities/FCVentdEtoudi> <NBA-euronews-3> .
+ <http://example.org/entities/MrMbappe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-euronews-3> .
+ <http://example.org/entities/KylianMbappe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-euronews-3> .
+ <http://example.org/entities/ParisSaintGermain> <http://schema.org/name> "Paris Saint-Germain"  <NBA-euronews-3> .
+ <http://example.org/entities/VillageVisit> <http://schema.org/attendee> <http://example.org/entities/KylianMbappe> <NBA-euronews-3> .
+ <http://example.org/entities/KylianMbappe> <http://schema.org/jobTitle> "Footballer"  <NBA-euronews-3> .
+ <http://example.org/entities/YannickNoah> <http://schema.org/name> "Yannick Noah"  <NBA-euronews-3> .
+ <http://example.org/entities/VannelKunde> <http://schema.org/name> "Vannel Kunde"  <NBA-euronews-3> .
+ <http://example.org/entities/KylianMbappe> <http://schema.org/name> "Kylian Mbappe"  <NBA-euronews-3> .
+ <http://example.org/entities/CharityWork> <http://schema.org/about> <http://example.org/entities/DeafChildrenCharity> <NBA-euronews-3> .
+ <http://example.org/entities/BasketballGame> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NBA-euronews-3> .
+ <http://example.org/entities/VannelKunde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-euronews-3> .
+ <http://example.org/entities/JoakimNoah> <http://schema.org/parent> <http://example.org/entities/YannickNoah> <NBA-euronews-3> .
+ <http://example.org/entities/FCVentdEtoudi> <http://schema.org/sport> "Football"  <NBA-euronews-3> .
+ <http://example.org/entities/KylianMbappe> <http://schema.org/parent> <http://example.org/entities/MrMbappe> <NBA-euronews-3> .
+ <http://example.org/entities/France> <http://schema.org/name> "France"  <NBA-euronews-3> .
+ <http://example.org/entities/CameroonVisit> <http://schema.org/subEvent> <http://example.org/entities/VillageVisit> <NBA-euronews-3> .
+ <http://example.org/entities/MrMbappe> <http://schema.org/nationality> <http://example.org/entities/Cameroon> <NBA-euronews-3> .
+ <http://example.org/entities/VillageVisit> <http://schema.org/location> <http://example.org/entities/FathersVillage> <NBA-euronews-3> .
+ <http://example.org/entities/FathersVillage> <http://www.w3.org/2000/01/rdf-schema#label> "Kylian Mbappe's father's village"  <NBA-euronews-3> .
+ <http://example.org/entities/VannelKunde> <http://schema.org/about> <http://example.org/entities/KylianMbappe> <NBA-euronews-3> .
+ <http://example.org/entities/KylianMbappe> <http://schema.org/visit> <http://example.org/entities/CameroonVisit> <NBA-euronews-3> .
+ <http://example.org/entities/VannelKunde> <http://www.w3.org/2000/01/rdf-schema#comment> "We are proud to see our Cameroonian brother. We want to offer him a very warm welcome."  <NBA-euronews-3> .
+ <http://example.org/entities/VannelKunde> <http://schema.org/age> "16"^^<http://www.w3.org/2001/XMLSchema#integer>  <NBA-euronews-3> .
+ <http://example.org/entities/ParisSaintGermain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <NBA-euronews-3> .
+ <http://example.org/entities/VannelKunde> <http://schema.org/jobTitle> "High-School Student"  <NBA-euronews-3> .
+ <http://example.org/entities/CameroonVisit> <http://schema.org/attendee> <http://example.org/entities/KylianMbappe> <NBA-euronews-3> .
+ <http://example.org/entities/CameroonVisit> <http://schema.org/subEvent> <http://example.org/entities/FootballMatch> <NBA-euronews-3> .
+ <http://example.org/entities/YannickNoah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-euronews-3> .
+ <http://example.org/entities/FCVentdEtoudi> <http://schema.org/name> "FC Vent d'Etoudi"  <NBA-euronews-3> .
+ <http://example.org/entities/KylianMbappe> <http://schema.org/nationality> <http://example.org/entities/France> <NBA-euronews-3> .
+ <http://example.org/entities/CameroonVisit> <http://schema.org/location> <http://example.org/entities/Cameroon> <NBA-euronews-3> .
+ <http://example.org/entities/FootballMatch> <http://schema.org/attendee> <http://example.org/entities/KylianMbappe> <NBA-euronews-3> .
+ <http://example.org/entities/FCVentdEtoudi> <http://schema.org/sportDiscipline> "Second-Division"  <NBA-euronews-3> .
+ <http://example.org/entities/FootballMatch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NBA-euronews-3> .
+ <http://example.org/entities/KylianMbappe> <http://schema.org/memberOf> <http://example.org/entities/ParisSaintGermain> <NBA-euronews-3> .
+ <http://example.org/entities/CameroonVisit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NBA-euronews-3> .
+ <http://example.org/entities/JoakimNoah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-euronews-3> .
+ <http://example.org/entities/JoakimNoah> <http://schema.org/jobTitle> "Retired NBA Player"  <NBA-euronews-3> .
+ <http://example.org/entities/FathersVillage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <NBA-euronews-3> .
+ <http://example.org/entities/CameroonVisit> <http://schema.org/startDate> "2023-03-30"^^<http://schema.org/Date>  <NBA-euronews-3> .
+ <http://example.org/entities/ParisSaintGermain> <http://schema.org/sport> "Football"  <NBA-euronews-3> .
+ <http://example.org/entities/CameroonVisit> <http://schema.org/eventStatus> <http://schema.org/EventScheduled> <NBA-euronews-3> .
+ <http://example.org/entities/DeafChildrenCharity> <http://schema.org/name> "Charity for Deaf Children"  <NBA-euronews-3> .
+ <http://example.org/entities/CameroonVisit> <http://schema.org/subEvent> <http://example.org/entities/BasketballGame> <NBA-euronews-3> .
+ <http://example.org/entities/CameroonVisit> <http://schema.org/subEvent> <http://example.org/entities/CharityWork> <NBA-euronews-3> .
+ <http://example.org/entities/Cameroon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <NBA-euronews-3> .
+ <http://example.org/entities/CharityWork> <http://schema.org/attendee> <http://example.org/entities/KylianMbappe> <NBA-euronews-3> .
+ <http://example.org/entities/FCVentdEtoudi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <NBA-euronews-3> .
+ <http://example.org/entities/Cameroon> <http://schema.org/name> "Cameroon"  <NBA-euronews-3> .
+ <http://example.org/entities/France> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <NBA-euronews-3> .
+ <http://example.org/entities/CharityWork> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NBA-euronews-3> .
+ <http://example.org/entities/DeafChildrenCharity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <NBA-euronews-3> .
+ <http://example.org/entities/VillageVisit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NBA-euronews-3> .
+ <http://example.org/entities/JoakimNoah> <http://schema.org/name> "Joakim Noah"  <NBA-euronews-3> .
+ <http://example.org/entities/BasketballGame> <http://schema.org/expectedParticipant> <http://example.org/entities/JoakimNoah> <NBA-euronews-3> .
+ <http://example.org/entities/BasketballGame> <http://schema.org/attendee> <http://example.org/entities/KylianMbappe> <NBA-euronews-3> .
+ <http://example.org/entities/Djebale> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <NBA-euronews-4> .
+ <http://example.org/entities/KylianMbappe> <http://xmlns.com/foaf/0.1/name> "Kylian Mbappé"  <NBA-euronews-4> .
+ <http://example.org/entities/FootballMatchAgainstFCVentdEtoudi> <http://www.w3.org/2000/01/rdf-schema#comment> "Cancelled for security concerns."@en  <NBA-euronews-4> .
+ <http://example.org/entities/VisitToCameroon> <http://dbpedia.org/ontology/participant> <http://example.org/entities/KylianMbappe> <NBA-euronews-4> .
+ <http://example.org/entities/WilfriedMbappe> <http://dbpedia.org/ontology/occupation> <http://example.org/entities/FootballTrainer> <NBA-euronews-4> .
+ <http://example.org/entities/Cameroon> <http://xmlns.com/foaf/0.1/name> "Cameroon"  <NBA-euronews-4> .
+ <http://example.org/entities/JoakimNoah> <http://schema.org/parent> <http://example.org/entities/YannickNoah> <NBA-euronews-4> .
+ <http://example.org/entities/FrenchNationalFootballTeam> <http://xmlns.com/foaf/0.1/name> "French national team"  <NBA-euronews-4> .
+ <http://example.org/entities/KylianMbappe> <http://dbpedia.org/ontology/birthPlace> <http://example.org/entities/France> <NBA-euronews-4> .
+ <http://example.org/entities/KylianMbappe> <http://schema.org/parent> <http://example.org/entities/WilfriedMbappe> <NBA-euronews-4> .
+ <http://example.org/entities/SchoolForDeafAndHardOfHearingChildren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalOrganization> <NBA-euronews-4> .
+ <http://example.org/entities/BasketballMatchWithJoakimNoah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <NBA-euronews-4> .
+ <http://example.org/entities/BasketballMatchWithJoakimNoah> <http://dbpedia.org/ontology/participant> <http://example.org/entities/JoakimNoah> <NBA-euronews-4> .
+ <http://example.org/entities/KylianMbappeFoundation> <http://dbpedia.org/ontology/founder> <http://example.org/entities/KylianMbappe> <NBA-euronews-4> .
+ <http://example.org/entities/YannickNoah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-euronews-4> .
+ <http://example.org/entities/JoakimNoah> <http://xmlns.com/foaf/0.1/name> "Joakim Noah"  <NBA-euronews-4> .
+ <http://example.org/entities/YannickNoah> <http://dbpedia.org/ontology/occupation> <http://example.org/entities/Singer> <NBA-euronews-4> .
+ <http://example.org/entities/Yaounde> <http://dbpedia.org/ontology/country> <http://example.org/entities/Cameroon> <NBA-euronews-4> .
+ <http://example.org/entities/KylianMbappe> <http://schema.org/visit> <http://example.org/entities/Douala> <NBA-euronews-4> .
+ <http://example.org/entities/ParisSaintGermain> <http://xmlns.com/foaf/0.1/name> "Paris Saint-Germain"  <NBA-euronews-4> .
+ <http://example.org/entities/YannickNoah> <http://xmlns.com/foaf/0.1/name> "Yannick Noah"  <NBA-euronews-4> .
+ <http://example.org/entities/KylianMbappe> <http://dbpedia.org/ontology/participant> <http://example.org/entities/BasketballMatchWithJoakimNoah> <NBA-euronews-4> .
+ <http://example.org/entities/ParisSaintGermain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <NBA-euronews-4> .
+ <http://example.org/entities/FootballMatchAgainstFCVentdEtoudi> <http://dbpedia.org/ontology/participant> <http://example.org/entities/KylianMbappe> <NBA-euronews-4> .
+ <http://example.org/entities/KylianMbappeFoundation> <http://xmlns.com/foaf/0.1/name> "Kylian Mbappé Foundation"  <NBA-euronews-4> .
+ <http://example.org/entities/KylianMbappe> <http://dbpedia.org/ontology/team> <http://example.org/entities/ParisSaintGermain> <NBA-euronews-4> .
+ <http://example.org/entities/KylianMbappe> <http://dbpedia.org/ontology/associatedWith> <http://example.org/entities/KylianMbappeFoundation> <NBA-euronews-4> .
+ <http://example.org/entities/FrenchNationalFootballTeam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <NBA-euronews-4> .
+ <http://example.org/entities/Douala> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <NBA-euronews-4> .
+ <http://example.org/entities/JoakimNoah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-euronews-4> .
+ <http://example.org/entities/Douala> <http://xmlns.com/foaf/0.1/name> "Douala"  <NBA-euronews-4> .
+ <http://example.org/entities/Yaounde> <http://xmlns.com/foaf/0.1/name> "Yaoundé"  <NBA-euronews-4> .
+ <http://example.org/entities/KylianMbappe> <http://schema.org/humanitarianActivity> <http://example.org/entities/VisitToCameroon> <NBA-euronews-4> .
+ <http://example.org/entities/Cameroon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <NBA-euronews-4> .
+ <http://example.org/entities/KylianMbappe> <http://schema.org/visit> <http://example.org/entities/Djebale> <NBA-euronews-4> .
+ <http://example.org/entities/BasketballMatchWithJoakimNoah> <http://dbpedia.org/ontology/participant> <http://example.org/entities/KylianMbappe> <NBA-euronews-4> .
+ <http://example.org/entities/VisitToCameroon> <http://dbpedia.org/ontology/date> "2023-04-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-euronews-4> .
+ <http://example.org/entities/YannickNoah> <http://dbpedia.org/ontology/residence> <http://example.org/entities/Yaounde> <NBA-euronews-4> .
+ <http://example.org/entities/Yaounde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <NBA-euronews-4> .
+ <http://example.org/entities/YannickNoah> <http://dbpedia.org/ontology/occupation> <http://example.org/entities/TennisChampion> <NBA-euronews-4> .
+ <http://example.org/entities/VisitToCameroon> <http://www.w3.org/2000/01/rdf-schema#comment> "Humanitarian visit by Kylian Mbappé to Cameroon."@en  <NBA-euronews-4> .
+ <http://example.org/entities/JoakimNoah> <http://dbpedia.org/ontology/occupation> <http://example.org/entities/BasketballPlayer> <NBA-euronews-4> .
+ <http://example.org/entities/WilfriedMbappe> <http://xmlns.com/foaf/0.1/name> "Wilfried Mbappé"  <NBA-euronews-4> .
+ <http://example.org/entities/VisitToCameroon> <http://dbpedia.org/ontology/location> <http://example.org/entities/Cameroon> <NBA-euronews-4> .
+ <http://example.org/entities/WilfriedMbappe> <http://dbpedia.org/ontology/birthPlace> <http://example.org/entities/Djebale> <NBA-euronews-4> .
+ <http://example.org/entities/SchoolForDeafAndHardOfHearingChildren> <http://dbpedia.org/ontology/location> <http://example.org/entities/Yaounde> <NBA-euronews-4> .
+ <http://example.org/entities/FCVentdEtoudi> <http://xmlns.com/foaf/0.1/name> "FC Vent d'Etoudi"  <NBA-euronews-4> .
+ <http://example.org/entities/KylianMbappeFoundation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <NBA-euronews-4> .
+ <http://example.org/entities/FCVentdEtoudi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <NBA-euronews-4> .
+ <http://example.org/entities/KylianMbappe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-euronews-4> .
+ <http://example.org/entities/FootballMatchAgainstFCVentdEtoudi> <http://dbpedia.org/ontology/participant> <http://example.org/entities/FCVentdEtoudi> <NBA-euronews-4> .
+ <http://example.org/entities/KylianMbappe> <http://schema.org/visit> <http://example.org/entities/Yaounde> <NBA-euronews-4> .
+ <http://example.org/entities/Djebale> <http://xmlns.com/foaf/0.1/name> "Djebale"  <NBA-euronews-4> .
+ <http://example.org/entities/KylianMbappe> <http://dbpedia.org/ontology/occupation> <http://example.org/entities/Footballer> <NBA-euronews-4> .
+ <http://example.org/entities/KylianMbappe> <http://dbpedia.org/ontology/position> "Forward"  <NBA-euronews-4> .
+ <http://example.org/entities/VisitToCameroon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <NBA-euronews-4> .
+ <http://example.org/entities/WilfriedMbappe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-euronews-4> .
+ <http://example.org/entities/FootballMatchAgainstFCVentdEtoudi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <NBA-euronews-4> .
+ <http://example.org/entities/KylianMbappe> <http://schema.org/alumniOf> <http://example.org/entities/SchoolForDeafAndHardOfHearingChildren> <NBA-euronews-4> .
+ <http://example.org/entities/KylianMbappe> <http://dbpedia.org/ontology/captainOf> <http://example.org/entities/FrenchNationalFootballTeam> <NBA-euronews-4> .
+ <http://example.org/ontology#VictorWembanyamaInteraction> <http://schema.org/actor> <http://example.org/ontology#BritneySpears> <NBA-euronews-5> .
+ <http://example.org/ontology#SecurityGuard> <http://xmlns.com/foaf/0.1/title> "Security Guard"  <NBA-euronews-5> .
+ <http://example.org/ontology#VictorWembanyama> <http://schema.org/event> <http://example.org/ontology#NBA_SummerLeagueDebut> <NBA-euronews-5> .
+ <http://example.org/ontology#LasVegasCasinoRestaurant> <http://schema.org/name> "Las Vegas casino restaurant"  <NBA-euronews-5> .
+ <http://example.org/ontology#NBA_SummerLeagueDebut> <http://schema.org/competitor> <http://example.org/ontology#SanAntonioSpurs> <NBA-euronews-5> .
+ <http://example.org/ontology#LasVegasCasinoRestaurant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <NBA-euronews-5> .
+ <http://example.org/ontology#AnonymousPerson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-euronews-5> .
+ <http://example.org/ontology#BritneySpears> <http://schema.org/alumniOf> <http://example.org/ontology#TheMickeyMouseClub> <NBA-euronews-5> .
+ <http://example.org/ontology#BritneySpears> <http://schema.org/interactionStatistic> <http://NBA-euronews-5.com/blank#nc9bf2ed7f8294e528c1fcd48119e387bb1>  <NBA-euronews-5> .
+ <http://example.org/ontology#StatementAboutIncident> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <NBA-euronews-5> .
+ <http://example.org/ontology#PoliceReport> <http://schema.org/author> <http://example.org/ontology#BritneySpears> <NBA-euronews-5> .
+ <http://example.org/ontology#VictorWembanyama> <http://schema.org/athlete> <http://example.org/ontology#BasketballPlayer> <NBA-euronews-5> .
+ <http://example.org/ontology#CharlotteHornets> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <NBA-euronews-5> .
+ <http://example.org/ontology#PoliceReport> <http://schema.org/about> <http://example.org/ontology#VictorWembanyamaInteraction> <NBA-euronews-5> .
+ <http://example.org/ontology#SecurityGuard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-euronews-5> .
+ <http://example.org/ontology#SanAntonioSpurs> <http://schema.org/sport> "Basketball"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-euronews-5> .
+ <http://example.org/ontology#SocialMediaPost> <http://schema.org/author> <http://example.org/ontology#BritneySpears> <NBA-euronews-5> .
+ <http://NBA-euronews-5.com/blank#nc9bf2ed7f8294e528c1fcd48119e387bb1> <http://schema.org/interactionType> <http://schema.org/FollowAction> <NBA-euronews-5> .
+ <http://example.org/ontology#CharlotteHornets> <http://schema.org/name> "Charlotte Hornets"  <NBA-euronews-5> .
+ <http://example.org/ontology#SocialMediaPost> <http://schema.org/about> <http://example.org/ontology#VictorWembanyamaInteraction> <NBA-euronews-5> .
+ <http://example.org/ontology#SocialMediaPost> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPosting> <NBA-euronews-5> .
+ <http://example.org/ontology#NBA_SummerLeagueDebut> <http://schema.org/name> "NBA Summer League debut"  <NBA-euronews-5> .
+ <http://example.org/ontology#StatementAboutIncident> <http://schema.org/datePublished> "2023-07-06T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <NBA-euronews-5> .
+ <http://example.org/ontology#NBA_SummerLeagueDebut> <http://schema.org/startDate> "2023-07-07T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <NBA-euronews-5> .
+ <http://example.org/ontology#VictorWembanyama> <http://xmlns.com/foaf/0.1/made> <http://example.org/ontology#StatementAboutIncident> <NBA-euronews-5> .
+ <http://example.org/ontology#AnonymousPerson> <http://schema.org/knows> <http://example.org/ontology#PoliceReport> <NBA-euronews-5> .
+ <http://example.org/ontology#PoliceReport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <NBA-euronews-5> .
+ <http://example.org/ontology#NBA_SummerLeagueDebut> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsEvent> <NBA-euronews-5> .
+ <http://example.org/ontology#BritneySpears> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-euronews-5> .
+ <http://example.org/ontology#StatementAboutIncident> <http://schema.org/author> <http://example.org/ontology#VictorWembanyama> <NBA-euronews-5> .
+ <http://example.org/ontology#NBA_SummerLeagueDebut> <http://schema.org/competitor> <http://example.org/ontology#CharlotteHornets> <NBA-euronews-5> .
+ <http://example.org/ontology#VictorWembanyama> <http://schema.org/memberOf> <http://example.org/ontology#SanAntonioSpurs> <NBA-euronews-5> .
+ <http://example.org/ontology#PoliceReport> <http://schema.org/dateCreated> "2023-07-06T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <NBA-euronews-5> .
+ <http://example.org/ontology#BritneySpears> <http://xmlns.com/foaf/0.1/made> <http://example.org/ontology#SocialMediaPost> <NBA-euronews-5> .
+ <http://example.org/ontology#VictorWembanyamaInteraction> <http://schema.org/location> <http://example.org/ontology#LasVegasCasinoRestaurant> <NBA-euronews-5> .
+ <http://example.org/ontology#AnonymousPerson> <http://xmlns.com/foaf/0.1/name> "Anonymous Person"  <NBA-euronews-5> .
+ <http://example.org/ontology#VictorWembanyamaInteraction> <http://schema.org/actor> <http://example.org/ontology#SecurityGuard> <NBA-euronews-5> .
+ <http://example.org/ontology#VictorWembanyama> <http://xmlns.com/foaf/0.1/name> "Victor Wembanyama"  <NBA-euronews-5> .
+ <http://example.org/ontology#BritneySpears> <http://xmlns.com/foaf/0.1/name> "Britney Spears"  <NBA-euronews-5> .
+ <http://example.org/ontology#VictorWembanyama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-euronews-5> .
+ <http://NBA-euronews-5.com/blank#nc9bf2ed7f8294e528c1fcd48119e387bb1> <http://schema.org/userInteractionCount> "1"^^<http://www.w3.org/2001/XMLSchema#integer>  <NBA-euronews-5> .
+ <http://example.org/ontology#VictorWembanyamaInteraction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NBA-euronews-5> .
+ <http://example.org/ontology#CharlotteHornets> <http://schema.org/sport> "Basketball"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-euronews-5> .
+ <http://NBA-euronews-5.com/blank#nc9bf2ed7f8294e528c1fcd48119e387bb1> <http://schema.org/result> <http://example.org/ontology#VictorWembanyamaInteraction> <NBA-euronews-5> .
+ <http://example.org/ontology#SanAntonioSpurs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <NBA-euronews-5> .
+ <http://example.org/ontology#SanAntonioSpurs> <http://schema.org/name> "San Antonio Spurs"  <NBA-euronews-5> .
+ <http://example.org/ontology#SocialMediaPost> <http://schema.org/datePublished> "2023-07-06T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <NBA-euronews-5> .
+ <http://example.org/ontology#StatementAboutIncident> <http://schema.org/about> <http://example.org/ontology#VictorWembanyamaInteraction> <NBA-euronews-5> .
+ <http://example.org/person/Haaland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/person/SoccerPlayer> <NBA-euronews-6> .
+ <http://example.org/organization/WomenAndChildrensWellnessCenterNairobi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/organization/CharityOrganization> <NBA-euronews-6> .
+ <http://example.org/auction/Auction2023June> <http://example.org/event/hasItem> <http://example.org/item/MbappesJersey> <NBA-euronews-6> .
+ <http://example.org/auction/Auction2023June> <http://example.org/event/occursDuring> "2023-06-23T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <NBA-euronews-6> .
+ <http://example.org/team/USADreamTeam> <http://example.org/team/achieved> "undefeated streak"  <NBA-euronews-6> .
+ <http://example.org/event/SummerOlympics1992> <http://example.org/event/year> "1992"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NBA-euronews-6> .
+ <http://example.org/organization/WomenAndChildrensWellnessCenterNairobi> <http://example.org/organization/locatedIn> "Nairobi, Kenya"  <NBA-euronews-6> .
+ <http://example.org/auction/Auction2023June> <http://example.org/event/hasItem> <http://example.org/item/MaradonasJersey> <NBA-euronews-6> .
+ <http://example.org/item/JordanDreamTeamJersey> <http://example.org/event/predictedValue> "550000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <NBA-euronews-6> .
+ <http://example.org/event/SothebysShoeAuction2023April> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/event/AuctionEvent> <NBA-euronews-6> .
+ <http://example.org/event/SothebysShoeAuction2023April> <http://example.org/event/occursDuring> "2023-04-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <NBA-euronews-6> .
+ <http://example.org/person/LarryBird> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/person/BasketballPlayer> <NBA-euronews-6> .
+ <http://example.org/event/SothebysShoeAuction2023April> <http://example.org/event/salePrice> "2200000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <NBA-euronews-6> .
+ <http://example.org/person/MichaelJordan> <http://example.org/person/memberOf> <http://example.org/team/ChicagoBulls> <NBA-euronews-6> .
+ <http://example.org/organization/JuliensAuctions> <http://example.org/organization/executiveDirector> <http://example.org/person/MartinJNolan> <NBA-euronews-6> .
+ <http://example.org/item/JordanFinalsJersey1998> <http://example.org/event/featuredIn> "The Last Dance"  <NBA-euronews-6> .
+ <http://example.org/team/USADreamTeam> <http://example.org/team/scoredOver100PointsInEveryMatch> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NBA-euronews-6> .
+ <http://example.org/item/MaradonasJersey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/event/Memorabilia> <NBA-euronews-6> .
+ <http://example.org/person/MichaelJordan> <http://example.org/person/playedIn> <http://example.org/event/SummerOlympics1992> <NBA-euronews-6> .
+ <http://example.org/person/MichaelJordan> <http://example.org/person/memberOf> <http://example.org/team/USADreamTeam> <NBA-euronews-6> .
+ <http://example.org/item/JordanDreamTeamJersey> <http://example.org/event/features> "sweat stains"  <NBA-euronews-6> .
+ <http://example.org/organization/JuliensAuctions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/organization/AuctionHouse> <NBA-euronews-6> .
+ <http://example.org/auction/Auction2023June> <http://example.org/event/hasItem> <http://example.org/item/JordanDreamTeamJersey> <NBA-euronews-6> .
+ <http://example.org/team/USADreamTeam> <http://example.org/team/includesMember> <http://example.org/person/CharlesBarkley> <NBA-euronews-6> .
+ <http://example.org/event/SummerOlympics1992> <http://example.org/event/significance> "introduction of NBA players to Team USA"  <NBA-euronews-6> .
+ <http://example.org/item/JordanDreamTeamJersey> <http://example.org/event/signedBy> <http://example.org/person/MichaelJordan> <NBA-euronews-6> .
+ <http://example.org/person/MartinJNolan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/person/ExecutiveDirector> <NBA-euronews-6> .
+ <http://example.org/item/JordanDreamTeamJersey> <http://example.org/event/relatedTo> <http://example.org/team/USADreamTeam> <NBA-euronews-6> .
+ <http://example.org/event/SothebysShoeAuction2023April> <http://example.org/event/currency> "USD"  <NBA-euronews-6> .
+ <http://example.org/auction/Auction2023June> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/event/AuctionEvent> <NBA-euronews-6> .
+ <http://example.org/auction/Auction2023June> <http://example.org/event/location> "Beverly Hills"  <NBA-euronews-6> .
+ <http://example.org/event/SothebysJerseyAuctionLastYear> <http://example.org/event/currency> "USD"  <NBA-euronews-6> .
+ <http://example.org/person/CharlesBarkley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/person/BasketballPlayer> <NBA-euronews-6> .
+ <http://example.org/person/MartinJNolan> <http://example.org/person/worksFor> <http://example.org/organization/JuliensAuctions> <NBA-euronews-6> .
+ <http://example.org/item/JordanDreamTeamJersey> <http://example.org/event/fromYear> "1992"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NBA-euronews-6> .
+ <http://example.org/team/USADreamTeam> <http://example.org/team/includesMember> <http://example.org/person/LarryBird> <NBA-euronews-6> .
+ <http://example.org/team/CroatiaNationalBasketballTeam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/team/BasketballTeam> <NBA-euronews-6> .
+ <http://example.org/team/USADreamTeam> <http://example.org/team/participatedIn> <http://example.org/event/SummerOlympics1992> <NBA-euronews-6> .
+ <http://example.org/item/MbappesJersey> <http://example.org/event/wornBy> <http://example.org/person/Mbappe> <NBA-euronews-6> .
+ <http://example.org/team/USADreamTeam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/team/BasketballTeam> <NBA-euronews-6> .
+ <http://example.org/item/JordanAirJordans1998> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/event/Memorabilia> <NBA-euronews-6> .
+ <http://example.org/person/MagicJohnson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/person/BasketballPlayer> <NBA-euronews-6> .
+ <http://example.org/auction/Auction2023June> <http://example.org/event/totalItems> "900"^^<http://www.w3.org/2001/XMLSchema#integer>  <NBA-euronews-6> .
+ <http://example.org/person/MichaelJordan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/person/BasketballPlayer> <NBA-euronews-6> .
+ <http://example.org/item/JordanAirJordans1998> <http://example.org/event/fromYear> "1998"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NBA-euronews-6> .
+ <http://example.org/team/USADreamTeam> <http://example.org/team/includesMember> <http://example.org/person/ScottiePippen> <NBA-euronews-6> .
+ <http://example.org/person/Mbappe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/person/SoccerPlayer> <NBA-euronews-6> .
+ <http://example.org/item/JordanFinalsJersey1998> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/event/Memorabilia> <NBA-euronews-6> .
+ <http://example.org/item/JordanDreamTeamJersey> <http://example.org/event/beneficiary> <http://example.org/organization/WomenAndChildrensWellnessCenterNairobi> <NBA-euronews-6> .
+ <http://example.org/item/JordanFinalsJersey1998> <http://example.org/event/wornBy> <http://example.org/person/MichaelJordan> <NBA-euronews-6> .
+ <http://example.org/event/SothebysShoeAuction2023April> <http://example.org/event/soldItem> <http://example.org/item/JordanAirJordans1998> <NBA-euronews-6> .
+ <http://example.org/item/JordanFinalsJersey1998> <http://example.org/event/fromYear> "1998"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NBA-euronews-6> .
+ <http://example.org/item/MaradonasJersey> <http://example.org/event/wornBy> <http://example.org/person/Maradona> <NBA-euronews-6> .
+ <http://example.org/item/JordanDreamTeamJersey> <http://example.org/event/currency> "EUR"  <NBA-euronews-6> .
+ <http://example.org/item/JordanAirJordans1998> <http://example.org/event/wornBy> <http://example.org/person/MichaelJordan> <NBA-euronews-6> .
+ <http://example.org/event/SothebysJerseyAuctionLastYear> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/event/AuctionEvent> <NBA-euronews-6> .
+ <http://example.org/team/USADreamTeam> <http://example.org/team/defeated> <http://example.org/team/CroatiaNationalBasketballTeam> <NBA-euronews-6> .
+ <http://example.org/item/HaalandsJersey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/event/Memorabilia> <NBA-euronews-6> .
+ <http://example.org/auction/Auction2023June> <http://example.org/event/occursDuring> "2023-06-25T23:59:59+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <NBA-euronews-6> .
+ <http://example.org/item/PelesJersey> <http://example.org/event/wornBy> <http://example.org/person/Pele> <NBA-euronews-6> .
+ <http://example.org/item/MbappesJersey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/event/Memorabilia> <NBA-euronews-6> .
+ <http://example.org/item/JordanDreamTeamJersey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/event/Memorabilia> <NBA-euronews-6> .
+ <http://example.org/item/JordanDreamTeamJersey> <http://example.org/event/wornBy> <http://example.org/person/MichaelJordan> <NBA-euronews-6> .
+ <http://example.org/team/USADreamTeam> <http://example.org/team/includesMember> <http://example.org/person/MagicJohnson> <NBA-euronews-6> .
+ <http://example.org/auction/Auction2023June> <http://example.org/event/hasItem> <http://example.org/item/PelesJersey> <NBA-euronews-6> .
+ <http://example.org/event/SothebysJerseyAuctionLastYear> <http://example.org/event/soldItem> <http://example.org/item/JordanFinalsJersey1998> <NBA-euronews-6> .
+ <http://example.org/item/PelesJersey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/event/Memorabilia> <NBA-euronews-6> .
+ <http://example.org/event/SummerOlympics1992> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/event/OlympicGames> <NBA-euronews-6> .
+ <http://example.org/person/Pele> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/person/SoccerPlayer> <NBA-euronews-6> .
+ <http://example.org/event/SothebysJerseyAuctionLastYear> <http://example.org/event/salePrice> "10100000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <NBA-euronews-6> .
+ <http://example.org/person/Maradona> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/person/SoccerPlayer> <NBA-euronews-6> .
+ <http://example.org/auction/Auction2023June> <http://example.org/event/hostedBy> <http://example.org/organization/JuliensAuctions> <NBA-euronews-6> .
+ <http://example.org/person/ScottiePippen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/person/BasketballPlayer> <NBA-euronews-6> .
+ <http://example.org/auction/Auction2023June> <http://example.org/event/hasItem> <http://example.org/item/HaalandsJersey> <NBA-euronews-6> .
+ <http://example.org/item/HaalandsJersey> <http://example.org/event/wornBy> <http://example.org/person/Haaland> <NBA-euronews-6> .
+ <http://example.org/CateBlanchettInTár> <http://xmlns.com/foaf/0.1/name> "Cate Blanchett"  <NBA-euronews-7> .
+ <http://example.org/EwaBoguszMoore> <http://dbpedia.org/ontology/position> <http://example.org/NOSPRGeneralAndProgrammeDirector> <NBA-euronews-7> .
+ <http://example.org/PolishNationalRadioSymphonyOrchestraDirector> <http://www.w3.org/2000/01/rdf-schema#label> "Director of the Polish National Radio Symphony Orchestra"  <NBA-euronews-7> .
+ <http://example.org/MarinAlsop> <http://dbpedia.org/ontology/position> <http://example.org/PeabodyInstituteProfessorAndDirector> <NBA-euronews-7> .
+ <http://example.org/MarinAlsop> <http://www.w3.org/2000/01/rdf-schema#comment> "First woman to serve as the head of a major orchestra in the United States, South America, Austria and Britain, and the first woman to win the Koussevitzky Prize for conducting."  <NBA-euronews-7> .
+ <http://example.org/KoniorStudioKatowice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Building> <NBA-euronews-7> .
+ <http://example.org/LargePipeOrgan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalInstrument> <NBA-euronews-7> .
+ <http://dbpedia.org/resource/Polish_National_Radio_Symphony_Orchestra> <http://dbpedia.org/ontology/foundingYear> "1935"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NBA-euronews-7> .
+ <http://example.org/MarinAlsop> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-euronews-7> .
+ <http://example.org/MarinAlsop> <http://schema.org/gender> <http://schema.org/Female> <NBA-euronews-7> .
+ <http://example.org/Tár> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <NBA-euronews-7> .
+ <http://example.org/KoniorStudioKatowice> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Katowice> <NBA-euronews-7> .
+ <http://example.org/MarinAlsop> <http://dbpedia.org/ontology/occupation> <http://example.org/Conductor> <NBA-euronews-7> .
+ <http://example.org/Tár> <http://schema.org/actor> <http://example.org/CateBlanchettInTár> <NBA-euronews-7> .
+ <http://example.org/LargePipeOrgan> <http://www.w3.org/2000/01/rdf-schema#label> "One of the largest pipe organs in Europe"  <NBA-euronews-7> .
+ <http://example.org/TakiAlsopConductingFellowshipFounder> <http://dbpedia.org/ontology/startDate> "2002-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-euronews-7> .
+ <http://example.org/MarinAlsop> <http://dbpedia.org/ontology/occupation> <http://example.org/Composer> <NBA-euronews-7> .
+ <http://dbpedia.org/resource/Polish_National_Radio_Symphony_Orchestra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Orchestra> <NBA-euronews-7> .
+ <http://example.org/MarinAlsop> <http://dbpedia.org/ontology/position> <http://example.org/PolishNationalRadioSymphonyOrchestraDirector> <NBA-euronews-7> .
+ <http://example.org/PolishNationalRadioSymphonyOrchestraDirector> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <NBA-euronews-7> .
+ <http://example.org/CateBlanchettInTár> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-euronews-7> .
+ <http://example.org/EwaBoguszMoore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-euronews-7> .
+ <http://dbpedia.org/resource/Polish_National_Radio_Symphony_Orchestra> <http://dbpedia.org/ontology/associatedMusicalArtist> <http://example.org/LeonardBernstein> <NBA-euronews-7> .
+ <http://example.org/KoniorStudioKatowice> <http://dbpedia.org/ontology/facility> <http://example.org/LargePipeOrgan> <NBA-euronews-7> .
+ <http://example.org/TakiAlsopConductingFellowshipFounder> <http://www.w3.org/2000/01/rdf-schema#label> "Founder of the Taki Alsop Conducting Fellowship"  <NBA-euronews-7> .
+ <http://example.org/MarinAlsop> <http://dbpedia.org/ontology/almaMater> <http://example.org/TakiAlsopConductingFellowshipFounder> <NBA-euronews-7> .
+ <http://example.org/MacArthurFellowship> <http://www.w3.org/2000/01/rdf-schema#comment> "Also known as the “Genius Grant”"  <NBA-euronews-7> .
+ <http://example.org/MarinAlsop> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Austria> <NBA-euronews-7> .
+ <http://example.org/PolishNationalRadioSymphonyOrchestraDirector> <http://dbpedia.org/ontology/organisation> <http://dbpedia.org/resource/Polish_National_Radio_Symphony_Orchestra> <NBA-euronews-7> .
+ <http://example.org/PeabodyInstituteProfessorAndDirector> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <NBA-euronews-7> .
+ <http://dbpedia.org/resource/Polish_National_Radio_Symphony_Orchestra> <http://dbpedia.org/ontology/associatedMusicalArtist> <http://example.org/MarinAlsop> <NBA-euronews-7> .
+ <http://example.org/PeabodyInstituteProfessorAndDirector> <http://dbpedia.org/ontology/startDate> "2015-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-euronews-7> .
+ <http://example.org/KoniorStudioKatowice> <http://dbpedia.org/ontology/capacity> "1800"^^<http://www.w3.org/2001/XMLSchema#integer>  <NBA-euronews-7> .
+ <http://dbpedia.org/resource/Polish_National_Radio_Symphony_Orchestra> <http://dbpedia.org/ontology/location> <http://example.org/KoniorStudioKatowice> <NBA-euronews-7> .
+ <http://dbpedia.org/resource/Polish_National_Radio_Symphony_Orchestra> <http://dbpedia.org/ontology/associatedMusicalArtist> <http://example.org/GrzegorzFitelberg> <NBA-euronews-7> .
+ <http://example.org/MarinAlsop> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/United_States> <NBA-euronews-7> .
+ <http://example.org/TakiAlsopConductingFellowshipFounder> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <NBA-euronews-7> .
+ <http://example.org/PeabodyInstituteProfessorAndDirector> <http://www.w3.org/2000/01/rdf-schema#label> "Professor and Director of the Graduate Conducting Program at the Peabody Institute, Johns Hopkins University"  <NBA-euronews-7> .
+ <http://example.org/NOSPRGeneralAndProgrammeDirector> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <NBA-euronews-7> .
+ <http://example.org/Tár> <http://www.w3.org/2000/01/rdf-schema#comment> "A film with a protagonist having similarities to Marin Alsop's career."  <NBA-euronews-7> .
+ <http://example.org/MarinAlsop> <http://dbpedia.org/ontology/associatedBand> <http://dbpedia.org/resource/Polish_National_Radio_Symphony_Orchestra> <NBA-euronews-7> .
+ <http://example.org/CateBlanchettInTár> <http://schema.org/actorIn> <http://example.org/Tár> <NBA-euronews-7> .
+ <http://example.org/MarinAlsop> <http://xmlns.com/foaf/0.1/name> "Marin Alsop"  <NBA-euronews-7> .
+ <http://example.org/MacArthurFellowship> <http://www.w3.org/2000/01/rdf-schema#label> "MacArthur Fellowship"  <NBA-euronews-7> .
+ <http://example.org/NOSPRGeneralAndProgrammeDirector> <http://www.w3.org/2000/01/rdf-schema#label> "General and Programme Director of the Polish National Radio Symphony Orchestra"  <NBA-euronews-7> .
+ <http://example.org/MarinAlsop> <http://dbpedia.org/ontology/associatedAct> <http://example.org/CateBlanchettInTár> <NBA-euronews-7> .
+ <http://example.org/MarinAlsop> <http://dbpedia.org/ontology/award> <http://example.org/MacArthurFellowship> <NBA-euronews-7> .
+ <http://example.org/Tár> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Todd_Field> <NBA-euronews-7> .
+ <http://example.org/EwaBoguszMoore> <http://xmlns.com/foaf/0.1/name> "Ewa Bogusz-Moore"  <NBA-euronews-7> .
+ <http://example.org/MacArthurFellowship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> <NBA-euronews-7> .
+ <http://example.org/MarinAlsop> <http://dbpedia.org/ontology/associatedMusicalArtist> <http://example.org/EwaBoguszMoore> <NBA-euronews-7> .
+ <http://example.org/PolishNationalRadioSymphonyOrchestraDirector> <http://dbpedia.org/ontology/startDate> "2023-09-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-euronews-7> .
+ <http://example.org/ontology/Slogans> <http://example.org/ontology/examples> "More than a club"  <NBA-euronews-8> .
+ <http://example.org/ontology/DavePowell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-euronews-8> .
+ <http://example.org/ontology/ManchesterCity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/FootballClub> <NBA-euronews-8> .
+ <http://example.org/ontology/AFCWrexham> <http://example.org/ontology/streamingSuccess> <http://NBA-euronews-8.com/blank#n19d96a66b0d24798be4f388888376436b3>  <NBA-euronews-8> .
+ <http://example.org/ontology/SportToIndustry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Transformation> <NBA-euronews-8> .
+ <http://example.org/ontology/BusinessStrategies> <http://example.org/ontology/includes> <http://example.org/ontology/HighProfileSignings> <NBA-euronews-8> .
+ <http://example.org/ontology/AFCWrexham> <http://example.org/ontology/documentary> "Welcome to Wrexham"  <NBA-euronews-8> .
+ <http://example.org/ontology/RyanReynolds> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-euronews-8> .
+ <http://example.org/ontology/Vision2030Initiative> <http://example.org/ontology/goal> "to bring big sporting events"  <NBA-euronews-8> .
+ <http://example.org/ontology/RonaldoImage> <http://schema.org/author> "Amr Nabil"  <NBA-euronews-8> .
+ <http://example.org/ontology/MohammedHamdi> <http://example.org/ontology/formerRole> <http://NBA-euronews-8.com/blank#n19d96a66b0d24798be4f388888376436b5>  <NBA-euronews-8> .
+ <http://example.org/ontology/HighProfileSignings> <http://example.org/ontology/examples> "Galacticos"  <NBA-euronews-8> .
+ <http://example.org/ontology/ManchesterCity> <http://example.org/ontology/signingStrategy> <http://example.org/ontology/RecruitmentStrategy> <NBA-euronews-8> .
+ <http://example.org/ontology/Slogans> <http://example.org/ontology/purpose> <http://example.org/ontology/cultivateCommunity> <NBA-euronews-8> .
+ <http://example.org/ontology/Vision2030Initiative> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Initiative> <NBA-euronews-8> .
+ <http://example.org/ontology/AlNassr> <http://example.org/ontology/signing> <http://example.org/ontology/CristianoRonaldo> <NBA-euronews-8> .
+ <http://example.org/ontology/MohammedHamdi> <http://example.org/ontology/commentary> <http://example.org/ontology/RonaldoSigningImpact> <NBA-euronews-8> .
+ <http://NBA-euronews-8.com/blank#n19d96a66b0d24798be4f388888376436b3> <http://example.org/ontology/ranking> "7th"  <NBA-euronews-8> .
+ <http://example.org/ontology/AirJordanPartnership> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Partnership> <NBA-euronews-8> .
+ <http://example.org/ontology/Slogans> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/MarketingTool> <NBA-euronews-8> .
+ <http://example.org/ontology/FootballIndustryPartnership> <http://example.org/ontology/partner> <http://example.org/ontology/FootballIndustry> <NBA-euronews-8> .
+ <http://example.org/ontology/RonaldoImage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> <NBA-euronews-8> .
+ <http://example.org/ontology/Chelsea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/FootballClub> <NBA-euronews-8> .
+ <http://NBA-euronews-8.com/blank#n19d96a66b0d24798be4f388888376436b3> <http://example.org/ontology/platform> "Disney+"  <NBA-euronews-8> .
+ <http://example.org/ontology/FootballIndustry> <http://example.org/ontology/valuation> "multi-billion euro"  <NBA-euronews-8> .
+ <http://NBA-euronews-8.com/blank#n19d96a66b0d24798be4f388888376436b4> <http://example.org/ontology/against> <http://example.org/ontology/Chelsea> <NBA-euronews-8> .
+ <http://example.org/ontology/RonaldoSigningImpact> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Commentary> <NBA-euronews-8> .
+ <http://example.org/ontology/RonaldoImage> <http://purl.org/dc/terms/rightsHolder> "The AP"  <NBA-euronews-8> .
+ <http://example.org/ontology/AFCWrexham> <http://example.org/ontology/owners> <http://example.org/ontology/RyanReynolds> <NBA-euronews-8> .
+ <http://example.org/ontology/BusinessStrategies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Strategy> <NBA-euronews-8> .
+ <http://example.org/ontology/Slogans> <http://example.org/ontology/examples> "This Means More"  <NBA-euronews-8> .
+ <http://example.org/ontology/CristianoRonaldo> <http://example.org/ontology/club> <http://example.org/ontology/AlNassr> <NBA-euronews-8> .
+ <http://example.org/ontology/TheLiverpoolEcho> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Publication> <NBA-euronews-8> .
+ <http://example.org/ontology/RonaldoImage> <http://purl.org/dc/terms/date> "2023"  <NBA-euronews-8> .
+ <http://example.org/ontology/AdoDenHaag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/FootballClub> <NBA-euronews-8> .
+ <http://example.org/ontology/CristianoRonaldo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-euronews-8> .
+ <http://example.org/ontology/Documentaries> <http://example.org/ontology/examples> "Welcome to Wrexham"  <NBA-euronews-8> .
+ <http://example.org/ontology/SloganImportance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Commentary> <NBA-euronews-8> .
+ <http://example.org/ontology/DavePowell> <http://example.org/ontology/affiliation> <http://example.org/ontology/TheLiverpoolEcho> <NBA-euronews-8> .
+ <http://example.org/ontology/SportToIndustry> <http://example.org/ontology/from> <http://example.org/ontology/Sport> <NBA-euronews-8> .
+ <http://example.org/ontology/RonaldoSigningImpact> <http://example.org/ontology/impact> <http://example.org/ontology/Vision2030Initiative> <NBA-euronews-8> .
+ <http://example.org/ontology/SocialMediaEngagement> <http://example.org/ontology/platforms> "TikTok"  <NBA-euronews-8> .
+ <http://example.org/ontology/RobMcElhenney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-euronews-8> .
+ <http://example.org/ontology/NouCampImage> <http://purl.org/dc/terms/date> "2018"  <NBA-euronews-8> .
+ <http://example.org/ontology/CristianoRonaldo> <http://example.org/ontology/signingImpact> <http://example.org/ontology/BrandEnhancement> <NBA-euronews-8> .
+ <http://example.org/ontology/FashionCollaborations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/MarketingTool> <NBA-euronews-8> .
+ <http://example.org/ontology/Documentaries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/MarketingTool> <NBA-euronews-8> .
+ <http://example.org/ontology/AFCWrexham> <http://example.org/ontology/upcomingMatches> <http://NBA-euronews-8.com/blank#n19d96a66b0d24798be4f388888376436b4>  <NBA-euronews-8> .
+ <http://example.org/ontology/SloganImportance> <http://example.org/ontology/topic> <http://example.org/ontology/Slogans> <NBA-euronews-8> .
+ <http://example.org/ontology/BusinessStrategies> <http://example.org/ontology/includes> <http://example.org/ontology/Documentaries> <NBA-euronews-8> .
+ <http://example.org/ontology/BrandEnhancement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Impact> <NBA-euronews-8> .
+ <http://example.org/ontology/ManchesterUnited> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/FootballClub> <NBA-euronews-8> .
+ <http://example.org/ontology/SloganImportance> <http://example.org/ontology/importance> <http://example.org/ontology/BrandAwareness> <NBA-euronews-8> .
+ <http://example.org/ontology/AirJordanPartnership> <http://example.org/ontology/partner> <http://example.org/ontology/AirJordan> <NBA-euronews-8> .
+ <http://example.org/ontology/FootballIndustryPartnership> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Partnership> <NBA-euronews-8> .
+ <http://example.org/ontology/SocialMediaEngagement> <http://example.org/ontology/platforms> "Twitter"  <NBA-euronews-8> .
+ <http://example.org/ontology/SocialMediaEngagement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/MarketingTool> <NBA-euronews-8> .
+ <http://example.org/ontology/ClubBrand> <http://example.org/ontology/importance> <http://example.org/ontology/Paramount> <NBA-euronews-8> .
+ <http://example.org/ontology/BusinessStrategies> <http://example.org/ontology/includes> <http://example.org/ontology/FashionCollaborations> <NBA-euronews-8> .
+ <http://example.org/ontology/NouCampImage> <http://purl.org/dc/terms/rightsHolder> "The AP"  <NBA-euronews-8> .
+ <http://example.org/ontology/FootballIndustry> <http://example.org/ontology/brandImportance> <http://example.org/ontology/Paramount> <NBA-euronews-8> .
+ <http://NBA-euronews-8.com/blank#n19d96a66b0d24798be4f388888376436b1> <http://example.org/ontology/partnership> <http://NBA-euronews-8.com/blank#n19d96a66b0d24798be4f388888376436b2>  <NBA-euronews-8> .
+ <http://example.org/ontology/BusinessStrategies> <http://example.org/ontology/includes> <http://example.org/ontology/Slogans> <NBA-euronews-8> .
+ <http://NBA-euronews-8.com/blank#n19d96a66b0d24798be4f388888376436b5> <http://example.org/ontology/CEO> <http://example.org/ontology/AdoDenHaag> <NBA-euronews-8> .
+ <http://NBA-euronews-8.com/blank#n19d96a66b0d24798be4f388888376436b2> <http://example.org/ontology/club> <http://example.org/ontology/ParisSaintGermain> <NBA-euronews-8> .
+ <http://example.org/ontology/RobMcElhenney> <http://example.org/ontology/ownership> <http://example.org/ontology/AFCWrexham> <NBA-euronews-8> .
+ <http://example.org/ontology/DavePowell> <http://example.org/ontology/occupation> "Business of Football writer"  <NBA-euronews-8> .
+ <http://example.org/ontology/AlNassr> <http://example.org/ontology/instagramFollowersIncrease> "millions"  <NBA-euronews-8> .
+ <http://example.org/ontology/FootballIndustry> <http://example.org/ontology/transformation> <http://example.org/ontology/SportToIndustry> <NBA-euronews-8> .
+ <http://example.org/ontology/RyanReynolds> <http://example.org/ontology/ownership> <http://example.org/ontology/AFCWrexham> <NBA-euronews-8> .
+ <http://example.org/ontology/MediaCityQatar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Organization> <NBA-euronews-8> .
+ <http://example.org/ontology/TheLiverpoolEcho> <http://xmlns.com/foaf/0.1/name> "The Liverpool Echo"  <NBA-euronews-8> .
+ <http://example.org/ontology/ParisSaintGermain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/FootballClub> <NBA-euronews-8> .
+ <http://NBA-euronews-8.com/blank#n19d96a66b0d24798be4f388888376436b4> <http://example.org/ontology/against> <http://example.org/ontology/ManchesterUnited> <NBA-euronews-8> .
+ <http://example.org/ontology/ParisSaintGermain> <http://example.org/ontology/partnership> <http://example.org/ontology/AirJordanPartnership> <NBA-euronews-8> .
+ <http://example.org/ontology/CristianoRonaldo> <http://example.org/ontology/role> <http://example.org/ontology/footballPlayer> <NBA-euronews-8> .
+ <http://example.org/ontology/BrandEnhancement> <http://example.org/ontology/relatedTo> <http://example.org/ontology/ClubBrand> <NBA-euronews-8> .
+ <http://example.org/ontology/MediaCityQatar> <http://example.org/ontology/partnership> <http://example.org/ontology/FootballIndustryPartnership> <NBA-euronews-8> .
+ <http://example.org/ontology/RealMadrid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/FootballClub> <NBA-euronews-8> .
+ <http://example.org/ontology/Slogans> <http://example.org/ontology/purpose> <http://example.org/ontology/encapsulateBrand> <NBA-euronews-8> .
+ <http://example.org/ontology/NouCampImage> <http://schema.org/author> "Manu Fernandez"  <NBA-euronews-8> .
+ <http://example.org/ontology/BusinessStrategies> <http://example.org/ontology/includes> <http://example.org/ontology/SocialMediaEngagement> <NBA-euronews-8> .
+ <http://example.org/ontology/ClubBrand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Concept> <NBA-euronews-8> .
+ <http://example.org/ontology/CristianoRonaldo> <http://example.org/ontology/role> <http://example.org/ontology/touristAmbassador> <NBA-euronews-8> .
+ <http://example.org/ontology/DavePowell> <http://example.org/ontology/commentary> <http://example.org/ontology/SloganImportance> <NBA-euronews-8> .
+ <http://example.org/ontology/AdoDenHaag> <http://xmlns.com/foaf/0.1/name> "Ado Den Haag"  <NBA-euronews-8> .
+ <http://example.org/ontology/RonaldoSigningImpact> <http://example.org/ontology/topic> <http://example.org/ontology/CristianoRonaldo> <NBA-euronews-8> .
+ <http://example.org/ontology/AFCWrexham> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/FootballClub> <NBA-euronews-8> .
+ <http://example.org/ontology/FashionCollaborations> <http://example.org/ontology/examples> <http://NBA-euronews-8.com/blank#n19d96a66b0d24798be4f388888376436b1>  <NBA-euronews-8> .
+ <http://example.org/ontology/AFCWrexham> <http://example.org/ontology/owners> <http://example.org/ontology/RobMcElhenney> <NBA-euronews-8> .
+ <http://example.org/ontology/AlNassr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/FootballClub> <NBA-euronews-8> .
+ <http://example.org/ontology/Documentaries> <http://example.org/ontology/popularity> <http://example.org/ontology/High> <NBA-euronews-8> .
+ <http://example.org/ontology/AirJordanPartnership> <http://example.org/ontology/product> "kits"  <NBA-euronews-8> .
+ <http://NBA-euronews-8.com/blank#n19d96a66b0d24798be4f388888376436b4> <http://example.org/ontology/location> "California"  <NBA-euronews-8> .
+ <http://example.org/ontology/ClubBrand> <http://example.org/ontology/growthMethod> <http://example.org/ontology/BusinessStrategies> <NBA-euronews-8> .
+ <http://example.org/ontology/SportToIndustry> <http://example.org/ontology/to> <http://example.org/ontology/Industry> <NBA-euronews-8> .
+ <http://example.org/ontology/Vision2030Initiative> <http://example.org/ontology/country> "Saudi Arabia"  <NBA-euronews-8> .
+ <http://example.org/ontology/HighProfileSignings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/MarketingTool> <NBA-euronews-8> .
+ <http://example.org/ontology/HighProfileSignings> <http://example.org/ontology/examples> "Cristiano Ronaldo"  <NBA-euronews-8> .
+ <http://example.org/ontology/FootballIndustry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Industry> <NBA-euronews-8> .
+ <http://example.org/ontology/NouCampImage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> <NBA-euronews-8> .
+ <http://example.org/ontology/RonaldoSigningImpact> <http://example.org/ontology/impact> <http://example.org/ontology/TourismAmbassadorRole> <NBA-euronews-8> .
+ <http://example.org/ontology/MohammedHamdi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-euronews-8> .
+ <http://NBA-euronews-8.com/blank#n19d96a66b0d24798be4f388888376436b2> <http://example.org/ontology/brand> <http://example.org/ontology/AirJordan> <NBA-euronews-8> .
+ <http://example.org/ontology/RealMadrid> <http://example.org/ontology/signingStrategy> <http://example.org/ontology/Galacticos> <NBA-euronews-8> .
+ <http://example.org/ontology#SaadiyatIsland> <http://example.org/ontology#hasLuxuryHotel> <http://example.org/ontology#ParkHyatt> <NBA-euronews-9> .
+ <http://example.org/ontology#UFC> <http://www.w3.org/2000/01/rdf-schema#label> "Ultimate Fighting Championship"  <NBA-euronews-9> .
+ <http://example.org/ontology#AbdullaYousufMohammad> <http://example.org/ontology#role> <http://example.org/ontology#DirectorOfInternationalOperations> <NBA-euronews-9> .
+ <http://example.org/ontology#AbuDhabi> <http://dbpedia.org/ontology/isCapitalOf> <http://dbpedia.org/resource/United_Arab_Emirates> <NBA-euronews-9> .
+ <http://example.org/ontology#BackstreetBoysConcert> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#MusicEvent> <NBA-euronews-9> .
+ <http://example.org/ontology#F1GrandPrix> <http://dbpedia.org/ontology/startDate> "2023-11-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-euronews-9> .
+ <http://example.org/ontology#UFC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#SportingEvent> <NBA-euronews-9> .
+ <http://example.org/ontology#NaturalHistoryMuseumAbuDhabi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Museum> <NBA-euronews-9> .
+ <http://example.org/ontology#DepartmentOfCultureAndTourismAbuDhabi> <http://dbpedia.org/ontology/location> <http://example.org/ontology#AbuDhabi> <NBA-euronews-9> .
+ <http://example.org/ontology#AbdullaYousufMohammad> <http://example.org/ontology#worksFor> <http://example.org/ontology#DepartmentOfCultureAndTourismAbuDhabi> <NBA-euronews-9> .
+ <http://example.org/ontology#LouvreAbuDhabi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Museum> <NBA-euronews-9> .
+ <http://example.org/ontology#JumeirahHotel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Hotel> <NBA-euronews-9> .
+ <http://example.org/ontology#Emirates> <http://example.org/ontology#hasInterlineAgreementWith> <http://example.org/ontology#Etihad> <NBA-euronews-9> .
+ <http://example.org/ontology#GunsNRosesConcert> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#MusicEvent> <NBA-euronews-9> .
+ <http://example.org/ontology#AbuDhabi> <http://example.org/ontology#hasCulturalSite> <http://example.org/ontology#LouvreAbuDhabi> <NBA-euronews-9> .
+ <http://example.org/ontology#AbuDhabi> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_Arab_Emirates> <NBA-euronews-9> .
+ <http://example.org/ontology#StRegisHotel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Hotel> <NBA-euronews-9> .
+ <http://example.org/ontology#BackstreetBoysConcert> <http://www.w3.org/2000/01/rdf-schema#label> "Backstreet Boys Concert"  <NBA-euronews-9> .
+ <http://example.org/ontology#ParkHyatt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Hotel> <NBA-euronews-9> .
+ <http://example.org/ontology#F1GrandPrix> <http://dbpedia.org/ontology/location> <http://example.org/ontology#AbuDhabi> <NBA-euronews-9> .
+ <http://example.org/ontology#SaadiyatIsland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Beach> <NBA-euronews-9> .
+ <http://example.org/ontology#AbuDhabi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/City> <NBA-euronews-9> .
+ <http://example.org/ontology#DepartmentOfCultureAndTourismAbuDhabi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <NBA-euronews-9> .
+ <http://example.org/ontology#AbuDhabi> <http://example.org/ontology#hasEvent> <http://example.org/ontology#UFC> <NBA-euronews-9> .
+ <http://example.org/ontology#F1GrandPrix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#SportingEvent> <NBA-euronews-9> .
+ <http://example.org/ontology#MiddleEastLeadingBeachDestinationAward> <http://www.w3.org/2000/01/rdf-schema#label> "Middle East’s Leading Beach Destination"  <NBA-euronews-9> .
+ <http://example.org/ontology#AbuDhabi> <http://example.org/ontology#hasEvent> <http://example.org/ontology#BackstreetBoysConcert> <NBA-euronews-9> .
+ <http://example.org/ontology#SaadiyatIsland> <http://dbpedia.org/ontology/distance> "500 metres"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-euronews-9> .
+ <http://example.org/ontology#ManaratAlSaadiyat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CulturalInstitution> <NBA-euronews-9> .
+ <http://example.org/ontology#YasIsland> <http://example.org/ontology#hasAttraction> <http://example.org/ontology#WarnerBrosWorldAbuDhabi> <NBA-euronews-9> .
+ <http://example.org/ontology#ParkHyatt> <http://dbpedia.org/ontology/location> <http://example.org/ontology#SaadiyatIsland> <NBA-euronews-9> .
+ <http://example.org/ontology#GunsNRosesConcert> <http://www.w3.org/2000/01/rdf-schema#label> "Guns N' Roses Concert"  <NBA-euronews-9> .
+ <http://example.org/ontology#YasIsland> <http://dbpedia.org/ontology/location> <http://example.org/ontology#AbuDhabi> <NBA-euronews-9> .
+ <http://example.org/ontology#FerrariWorld> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AmusementPark> <NBA-euronews-9> .
+ <http://example.org/ontology#AbuDhabi> <http://example.org/ontology#hasEvent> <http://example.org/ontology#GunsNRosesConcert> <NBA-euronews-9> .
+ <http://example.org/ontology#DirectorOfInternationalOperations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <NBA-euronews-9> .
+ <http://example.org/ontology#YasIsland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Island> <NBA-euronews-9> .
+ <http://example.org/ontology#USMensNationalBasketballTeamPreWorldCupPreparation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#SportingEvent> <NBA-euronews-9> .
+ <http://example.org/ontology#AbuDhabi> <http://example.org/ontology#hasCulturalSite> <http://example.org/ontology#ManaratAlSaadiyat> <NBA-euronews-9> .
+ <http://example.org/ontology#LiwaOasis> <http://example.org/ontology#featuredInFilm> <http://dbpedia.org/resource/Star_Wars_The_Force_Awakens> <NBA-euronews-9> .
+ <http://example.org/ontology#RixosHotel> <http://dbpedia.org/ontology/location> <http://example.org/ontology#SaadiyatIsland> <NBA-euronews-9> .
+ <http://example.org/ontology#MiddleEastLeadingBeachDestinationAward> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/awards/world-travel-awards#Award> <NBA-euronews-9> .
+ <http://example.org/ontology#LouvreAbuDhabi> <http://dbpedia.org/ontology/location> <http://example.org/ontology#SaadiyatIsland> <NBA-euronews-9> .
+ <http://example.org/ontology#USMensNationalBasketballTeamPreWorldCupPreparation> <http://www.w3.org/2000/01/rdf-schema#label> "US Men's National Basketball Team Pre-World Cup Preparation"  <NBA-euronews-9> .
+ <http://example.org/ontology#Etihad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Airline> <NBA-euronews-9> .
+ <http://example.org/ontology#SaadiyatIsland> <http://example.org/ontology#hasSpecies> <http://dbpedia.org/resource/Arabian_gazelle> <NBA-euronews-9> .
+ <http://example.org/ontology#NBA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#SportingEvent> <NBA-euronews-9> .
+ <http://example.org/ontology#LiwaOasis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Oasis> <NBA-euronews-9> .
+ <http://example.org/ontology#Emirates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Airline> <NBA-euronews-9> .
+ <http://example.org/ontology#Etihad> <http://example.org/ontology#hasInterlineAgreementWith> <http://example.org/ontology#Emirates> <NBA-euronews-9> .
+ <http://example.org/ontology#RotanaHotel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Hotel> <NBA-euronews-9> .
+ <http://example.org/ontology#LiwaOasis> <http://example.org/ontology#featuredInFilm> <http://dbpedia.org/resource/Dune_(2021_film)> <NBA-euronews-9> .
+ <http://example.org/ontology#SaadiyatIsland> <http://example.org/ontology#hasLuxuryHotel> <http://example.org/ontology#RixosHotel> <NBA-euronews-9> .
+ <http://example.org/ontology#YasIsland> <http://example.org/ontology#hasAttraction> <http://example.org/ontology#FerrariWorld> <NBA-euronews-9> .
+ <http://example.org/ontology#FerrariWorld> <http://www.w3.org/2000/01/rdf-schema#label> "Ferrari World"  <NBA-euronews-9> .
+ <http://example.org/ontology#AbuDhabi> <http://example.org/ontology#hasEvent> <http://example.org/ontology#F1GrandPrix> <NBA-euronews-9> .
+ <http://example.org/ontology#SaadiyatIsland> <http://example.org/ontology#hasSpecies> <http://dbpedia.org/resource/Hawksbill_turtle> <NBA-euronews-9> .
+ <http://example.org/ontology#GuggenheimAbuDhabi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Museum> <NBA-euronews-9> .
+ <http://example.org/ontology#RotanaHotel> <http://dbpedia.org/ontology/location> <http://example.org/ontology#SaadiyatIsland> <NBA-euronews-9> .
+ <http://example.org/ontology#JumeirahHotel> <http://dbpedia.org/ontology/location> <http://example.org/ontology#SaadiyatIsland> <NBA-euronews-9> .
+ <http://example.org/ontology#StRegisHotel> <http://dbpedia.org/ontology/location> <http://example.org/ontology#SaadiyatIsland> <NBA-euronews-9> .
+ <http://example.org/ontology#WarnerBrosWorldAbuDhabi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AmusementPark> <NBA-euronews-9> .
+ <http://example.org/ontology#AbuDhabi> <http://dbpedia.org/ontology/temperature> "20.0"^^<http://www.w3.org/2001/XMLSchema#float>  <NBA-euronews-9> .
+ <http://example.org/ontology#AbuDhabi> <http://example.org/ontology#hasEvent> <http://example.org/ontology#USMensNationalBasketballTeamPreWorldCupPreparation> <NBA-euronews-9> .
+ <http://example.org/ontology#NBA> <http://www.w3.org/2000/01/rdf-schema#label> "NBA"  <NBA-euronews-9> .
+ <http://example.org/ontology#SaadiyatIsland> <http://example.org/ontology#hasSpecies> <http://dbpedia.org/resource/Bottlenose_dolphin> <NBA-euronews-9> .
+ <http://example.org/ontology#LiwaOasis> <http://dbpedia.org/ontology/location> <http://example.org/ontology#AbuDhabi> <NBA-euronews-9> .
+ <http://example.org/ontology#AbuDhabi> <http://example.org/ontology#hasCulturalSite> <http://example.org/ontology#GuggenheimAbuDhabi> <NBA-euronews-9> .
+ <http://example.org/ontology#SaadiyatIsland> <http://dbpedia.org/ontology/location> <http://example.org/ontology#AbuDhabi> <NBA-euronews-9> .
+ <http://example.org/ontology#MiddleEastLeadingBeachDestinationAward> <http://dbpedia.org/ontology/awardYears> "11"^^<http://www.w3.org/2001/XMLSchema#integer>  <NBA-euronews-9> .
+ <http://example.org/ontology#AbuDhabi> <http://example.org/ontology#hasFamilyEntertainmentSite> <http://example.org/ontology#YasIsland> <NBA-euronews-9> .
+ <http://example.org/ontology#SaadiyatIsland> <http://example.org/ontology#hasProtectedEcosystem> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NBA-euronews-9> .
+ <http://example.org/ontology#YasWaterworld> <http://www.w3.org/2000/01/rdf-schema#label> "Yas Waterworld"  <NBA-euronews-9> .
+ <http://example.org/ontology#WarnerBrosWorldAbuDhabi> <http://www.w3.org/2000/01/rdf-schema#label> "Warner Bros World Abu Dhabi"  <NBA-euronews-9> .
+ <http://example.org/ontology#OneSummerIsntEnoughCampaign> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#TourismCampaign> <NBA-euronews-9> .
+ <http://example.org/ontology#AbuDhabi> <http://example.org/ontology#hasEvent> <http://example.org/ontology#NBA> <NBA-euronews-9> .
+ <http://example.org/ontology#SaadiyatIsland> <http://example.org/awards/world-travel-awards#leadingBeachDestinationAward> <http://example.org/ontology#MiddleEastLeadingBeachDestinationAward> <NBA-euronews-9> .
+ <http://example.org/ontology#AbdullaYousufMohammad> <http://xmlns.com/foaf/0.1/name> "Abdulla Yousuf Mohammad"  <NBA-euronews-9> .
+ <http://example.org/ontology#SaadiyatIsland> <http://example.org/ontology#hasLuxuryHotel> <http://example.org/ontology#RotanaHotel> <NBA-euronews-9> .
+ <http://example.org/ontology#YasIsland> <http://example.org/ontology#hasAttraction> <http://example.org/ontology#YasWaterworld> <NBA-euronews-9> .
+ <http://example.org/ontology#AbuDhabi> <http://example.org/ontology#hasBeach> <http://example.org/ontology#SaadiyatIsland> <NBA-euronews-9> .
+ <http://example.org/ontology#YasWaterworld> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/WaterPark> <NBA-euronews-9> .
+ <http://example.org/ontology#AbuDhabi> <http://example.org/ontology#hasDesertAttraction> <http://example.org/ontology#LiwaOasis> <NBA-euronews-9> .
+ <http://example.org/ontology#USMensNationalBasketballTeamPreWorldCupPreparation> <http://dbpedia.org/ontology/startDate> "2023-06-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-euronews-9> .
+ <http://example.org/ontology#NaturalHistoryMuseumAbuDhabi> <http://dbpedia.org/ontology/location> <http://example.org/ontology#SaadiyatIsland> <NBA-euronews-9> .
+ <http://example.org/ontology#F1GrandPrix> <http://www.w3.org/2000/01/rdf-schema#label> "F1 Grand Prix"  <NBA-euronews-9> .
+ <http://example.org/ontology#RixosHotel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Hotel> <NBA-euronews-9> .
+ <http://example.org/ontology#SaadiyatIsland> <http://example.org/ontology#hasLuxuryHotel> <http://example.org/ontology#StRegisHotel> <NBA-euronews-9> .
+ <http://example.org/ontology#AbdullaYousufMohammad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-euronews-9> .
+ <http://example.org/ontology#AbuDhabi> <http://example.org/ontology#hasTourismCampaign> <http://example.org/ontology#OneSummerIsntEnoughCampaign> <NBA-euronews-9> .
+ <http://example.org/ontology#GuggenheimAbuDhabi> <http://dbpedia.org/ontology/location> <http://example.org/ontology#SaadiyatIsland> <NBA-euronews-9> .
+ <http://example.org/ontology#OneSummerIsntEnoughCampaign> <http://www.w3.org/2000/01/rdf-schema#label> "One Summer Isn't Enough"  <NBA-euronews-9> .
+ <http://example.org/ontology#AbuDhabi> <http://example.org/ontology#hasCulturalSite> <http://example.org/ontology#NaturalHistoryMuseumAbuDhabi> <NBA-euronews-9> .
+ <http://example.org/ontology#SaadiyatIsland> <http://example.org/ontology#hasLuxuryHotel> <http://example.org/ontology#JumeirahHotel> <NBA-euronews-9> .
+ <http://example.org/ontology#ManaratAlSaadiyat> <http://dbpedia.org/ontology/location> <http://example.org/ontology#SaadiyatIsland> <NBA-euronews-9> .
+ <http://example.org/ontology#DirectorOfInternationalOperations> <http://www.w3.org/2000/01/rdf-schema#label> "Director of International Operations"  <NBA-euronews-9> .

@@ -1,0 +1,673 @@
+ <http://example.org/ontology#RisingObesityRatesInLowIncomeCountries> <http://dbpedia.org/ontology/associatedWith> <http://dbpedia.org/resource/Africa> <Obesity-CNN-0> .
+ <http://example.org/ontology#UNPresentation> <http://dbpedia.org/ontology/participant> <http://dbpedia.org/resource/United_Nations> <Obesity-CNN-0> .
+ <http://example.org/ontology#LouiseBaurStatement> <http://dbpedia.org/ontology/content> "clear warning"  <Obesity-CNN-0> .
+ <http://example.org/ontology#EconomicCostOfObesity> <http://dbpedia.org/ontology/percentageOfGDP> "3"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-CNN-0> .
+ <http://example.org/ontology#EconomicCostOfObesity> <http://dbpedia.org/ontology/timeFrame> "2035"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Obesity-CNN-0> .
+ <http://dbpedia.org/resource/Body_mass_index> <http://dbpedia.org/ontology/thresholdObese> "30"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-CNN-0> .
+ <http://example.org/ontology#WorldObesityReport2023> <http://dbpedia.org/ontology/title> "World Obesity Federation's 2023 atlas"  <Obesity-CNN-0> .
+ <http://example.org/ontology#LouiseBaurStatement> <http://dbpedia.org/ontology/content> "Governments and policymakers around the world need to do all they can to avoid passing health, social and economic costs on to the younger generation."  <Obesity-CNN-0> .
+ <http://example.org/ontology#EconomicCostOfObesity> <http://dbpedia.org/ontology/subject> <http://dbpedia.org/resource/Obesity> <Obesity-CNN-0> .
+ <http://example.org/ontology#RisingObesityRatesInLowIncomeCountries> <http://dbpedia.org/ontology/associatedWith> <http://dbpedia.org/resource/Asia> <Obesity-CNN-0> .
+ <http://example.org/ontology#WorldObesityReport2023> <http://dbpedia.org/ontology/topic> <http://dbpedia.org/resource/Obesity> <Obesity-CNN-0> .
+ <http://example.org/ontology#LouiseBaurStatement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Text> <Obesity-CNN-0> .
+ <http://example.org/ontology#LouiseBaur> <http://dbpedia.org/ontology/statement> <http://example.org/ontology#LouiseBaurStatement> <Obesity-CNN-0> .
+ <http://example.org/ontology#ChildhoodObesityIncrease> <http://dbpedia.org/ontology/subject> <http://dbpedia.org/resource/Childhood_obesity> <Obesity-CNN-0> .
+ <http://example.org/ontology#LouiseBaurStatement> <http://dbpedia.org/ontology/content> "obesity rates rising fastest among children and adolescents"  <Obesity-CNN-0> .
+ <http://example.org/ontology#GlobalObesityData2020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statistic> <Obesity-CNN-0> .
+ <http://example.org/ontology#ObesityPrediction2035> <http://dbpedia.org/ontology/subject> <http://dbpedia.org/resource/Obesity> <Obesity-CNN-0> .
+ <http://example.org/ontology#RisingObesityRatesInLowIncomeCountries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statistic> <Obesity-CNN-0> .
+ <http://example.org/ontology#UNPresentation> <http://dbpedia.org/ontology/topic> <http://example.org/ontology#WorldObesityReport2023> <Obesity-CNN-0> .
+ <http://example.org/ontology#ObesityPrediction2035> <http://dbpedia.org/ontology/timeFrame> "2035"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Obesity-CNN-0> .
+ <http://dbpedia.org/resource/Body_mass_index> <http://dbpedia.org/ontology/thresholdOverweight> "25"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-CNN-0> .
+ <http://example.org/ontology#LouiseBaur> <http://xmlns.com/foaf/0.1/name> "Louise Baur"  <Obesity-CNN-0> .
+ <http://example.org/ontology#WorldObesityReport2023> <http://dbpedia.org/ontology/prediction> <http://example.org/ontology#ObesityPrediction2035> <Obesity-CNN-0> .
+ <http://example.org/ontology#RisingObesityRatesInLowIncomeCountries> <http://dbpedia.org/ontology/associatedWith> <http://dbpedia.org/resource/Middle-income_countries> <Obesity-CNN-0> .
+ <http://example.org/ontology#LouiseBaur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Obesity-CNN-0> .
+ <http://example.org/ontology#ObesityPrediction2035> <http://dbpedia.org/ontology/percentage> "51"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-CNN-0> .
+ <http://example.org/ontology#WorldObesityFederation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Obesity-CNN-0> .
+ <http://example.org/ontology#WorldObesityFederation> <http://dbpedia.org/ontology/president> <http://example.org/ontology#LouiseBaur> <Obesity-CNN-0> .
+ <http://dbpedia.org/resource/Body_mass_index> <http://dbpedia.org/ontology/definition> "a number calculated by dividing a person’s weight in kilograms by their height in meters squared"  <Obesity-CNN-0> .
+ <http://example.org/ontology#EconomicCostOfObesity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statistic> <Obesity-CNN-0> .
+ <http://example.org/ontology#WorldObesityReport2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Report> <Obesity-CNN-0> .
+ <http://example.org/ontology#EconomicCostOfObesity> <http://dbpedia.org/ontology/economicImpact> "$4 trillion annually"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-CNN-0> .
+ <http://example.org/ontology#ObesityPrediction2035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statistic> <Obesity-CNN-0> .
+ <http://example.org/ontology#RisingObesityRatesInLowIncomeCountries> <http://dbpedia.org/ontology/trend> "rising"  <Obesity-CNN-0> .
+ <http://example.org/ontology#GlobalObesityData2020> <http://dbpedia.org/ontology/populationAffected> "2.6 billion"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-CNN-0> .
+ <http://example.org/ontology#ChildhoodObesityIncrease> <http://dbpedia.org/ontology/prediction> "more than double from 2020 levels"  <Obesity-CNN-0> .
+ <http://example.org/ontology#ChildhoodObesityIncrease> <http://dbpedia.org/ontology/timeFrame> "2035"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Obesity-CNN-0> .
+ <http://example.org/ontology#WorldObesityFederation> <http://xmlns.com/foaf/0.1/name> "World Obesity Federation"  <Obesity-CNN-0> .
+ <http://example.org/ontology#WorldObesityReport2023> <http://dbpedia.org/ontology/author> <http://example.org/ontology#WorldObesityFederation> <Obesity-CNN-0> .
+ <http://example.org/ontology#RisingObesityRatesInLowIncomeCountries> <http://dbpedia.org/ontology/subject> <http://dbpedia.org/resource/Obesity> <Obesity-CNN-0> .
+ <http://example.org/ontology#ObesityPrediction2035> <http://dbpedia.org/ontology/subject> <http://dbpedia.org/resource/Overweight> <Obesity-CNN-0> .
+ <http://example.org/ontology#ObesityPrediction2035> <http://dbpedia.org/ontology/associatedWith> <http://example.org/ontology#EconomicCostOfObesity> <Obesity-CNN-0> .
+ <http://example.org/ontology#ChildhoodObesityIncrease> <http://dbpedia.org/ontology/populationAffectedGirls> "175 million"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-CNN-0> .
+ <http://example.org/ontology#LouiseBaur> <http://dbpedia.org/ontology/position> "president of the World Obesity Federation"  <Obesity-CNN-0> .
+ <http://example.org/ontology#GlobalObesityData2020> <http://dbpedia.org/ontology/timeFrame> "2020"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Obesity-CNN-0> .
+ <http://example.org/ontology#ObesityPrediction2035> <http://dbpedia.org/ontology/associatedWith> <http://example.org/ontology#ChildhoodObesityIncrease> <Obesity-CNN-0> .
+ <http://example.org/ontology#UNPresentation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Obesity-CNN-0> .
+ <http://example.org/ontology#RisingObesityRatesInLowIncomeCountries> <http://dbpedia.org/ontology/associatedWith> <http://dbpedia.org/resource/Low-income_countries> <Obesity-CNN-0> .
+ <http://example.org/ontology#UNPresentation> <http://dbpedia.org/ontology/time> "next week"  <Obesity-CNN-0> .
+ <http://example.org/ontology#ObesityPrediction2035> <http://dbpedia.org/ontology/populationAffected> "4 billion"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-CNN-0> .
+ <http://example.org/ontology#GlobalObesityData2020> <http://dbpedia.org/ontology/percentage> "38"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-CNN-0> .
+ <http://example.org/ontology#ChildhoodObesityIncrease> <http://dbpedia.org/ontology/populationAffectedBoys> "208 million"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-CNN-0> .
+ <http://example.org/ontology#GlobalObesityData2020> <http://dbpedia.org/ontology/subject> <http://dbpedia.org/resource/Obesity> <Obesity-CNN-0> .
+ <http://example.org/ontology#WorldObesityReport2023> <http://dbpedia.org/ontology/publicationYear> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Obesity-CNN-0> .
+ <http://example.org/ontology#ChildhoodObesityIncrease> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statistic> <Obesity-CNN-0> .
+ <http://example.org/ontology#ObesityPrediction2035> <http://dbpedia.org/ontology/associatedWith> <http://example.org/ontology#RisingObesityRatesInLowIncomeCountries> <Obesity-CNN-0> .
+ <http://dbpedia.org/resource/Body_mass_index> <http://dbpedia.org/ontology/measurementMethod> "BMI"  <Obesity-CNN-0> .
+ <http://example.org/WorldHealthOrganization> <http://xmlns.com/foaf/0.1/name> "World Health Organization"  <Obesity-CNN-1> .
+ <http://example.org/HealthyHungerFreeKidsAct> <http://schema.org/description> "Public health effort to reduce rates of childhood obesity"  <Obesity-CNN-1> .
+ <http://example.org/SNAP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/GovernmentProgram> <Obesity-CNN-1> .
+ <http://example.org/VenkatNarayan> <http://xmlns.com/foaf/0.1/name> "Dr. Venkat Narayan"  <Obesity-CNN-1> .
+ <http://example.org/ChildGroup1998_2004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Obesity-CNN-1> .
+ <http://example.org/MichelleObama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-CNN-1> .
+ <http://example.org/SolveigArgeseanuCunningham> <http://dbpedia.org/ontology/field> <http://example.org/Epidemiology> <Obesity-CNN-1> .
+ <http://example.org/ChildGroup1998_2004> <http://schema.org/startDate> "1998-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Obesity-CNN-1> .
+ <http://example.org/KyungRhee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-CNN-1> .
+ <http://example.org/SolveigArgeseanuCunningham> <http://xmlns.com/foaf/0.1/name> "Solveig Argeseanu Cunningham"  <Obesity-CNN-1> .
+ <http://example.org/JenniferWooBaidal> <http://xmlns.com/foaf/0.1/name> "Dr. Jennifer Woo Baidal"  <Obesity-CNN-1> .
+ <http://example.org/SNAP> <http://schema.org/description> "Program that could be expanded to improve child weight outcomes"  <Obesity-CNN-1> .
+ <http://example.org/StudyOnChildhoodObesity> <http://schema.org/author> <http://example.org/VenkatNarayan> <Obesity-CNN-1> .
+ <http://example.org/ChildGroup1998_2004> <http://schema.org/endDate> "2004-12-31"^^<http://www.w3.org/2001/XMLSchema#date>  <Obesity-CNN-1> .
+ <http://example.org/StudyOnChildhoodObesity> <http://schema.org/isPublishedIn> <http://example.org/JournalPediatrics> <Obesity-CNN-1> .
+ <http://example.org/SolveigArgeseanuCunningham> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-CNN-1> .
+ <http://example.org/CNN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Obesity-CNN-1> .
+ <http://example.org/SolveigArgeseanuCunningham> <http://dbpedia.org/ontology/employer> <http://example.org/EmoryUniversity> <Obesity-CNN-1> .
+ <http://example.org/PediatricObesityInitiativeColumbiaUniversity> <http://xmlns.com/foaf/0.1/name> "Pediatric Obesity Initiative at Columbia University"  <Obesity-CNN-1> .
+ <http://example.org/ChildGroup2010_2016> <http://schema.org/startDate> "2010-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Obesity-CNN-1> .
+ <http://example.org/ChildGroup2010_2016> <http://schema.org/endDate> "2016-12-31"^^<http://www.w3.org/2001/XMLSchema#date>  <Obesity-CNN-1> .
+ <http://example.org/CNN> <http://xmlns.com/foaf/0.1/name> "CNN"  <Obesity-CNN-1> .
+ <http://example.org/Atlanta> <http://xmlns.com/foaf/0.1/name> "Atlanta"  <Obesity-CNN-1> .
+ <http://example.org/HealthyHungerFreeKidsAct> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Legislation> <Obesity-CNN-1> .
+ <http://example.org/VenkatNarayan> <http://dbpedia.org/ontology/occupation> <http://example.org/ExecutiveDirector> <Obesity-CNN-1> .
+ <http://example.org/UCSanDiego> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/University> <Obesity-CNN-1> .
+ <http://example.org/EmoryUniversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/University> <Obesity-CNN-1> .
+ <http://example.org/VenkatNarayan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-CNN-1> .
+ <http://example.org/StudyOnChildhoodObesity> <http://schema.org/name> "Childhood obesity is becoming more common in the United States"  <Obesity-CNN-1> .
+ <http://example.org/MayoClinic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Hospital> <Obesity-CNN-1> .
+ <http://example.org/UCSanDiego> <http://xmlns.com/foaf/0.1/name> "UC San Diego"  <Obesity-CNN-1> .
+ <http://example.org/GlobalDiabetesResearchCenter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Obesity-CNN-1> .
+ <http://example.org/StudyOnChildhoodObesity> <http://schema.org/author> <http://example.org/SolveigArgeseanuCunningham> <Obesity-CNN-1> .
+ <http://example.org/MichelleObama> <http://xmlns.com/foaf/0.1/name> "Michelle Obama"  <Obesity-CNN-1> .
+ <http://example.org/WorldHealthOrganization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Obesity-CNN-1> .
+ <http://example.org/MayoClinic> <http://xmlns.com/foaf/0.1/name> "Mayo Clinic"  <Obesity-CNN-1> .
+ <http://example.org/VenkatNarayan> <http://dbpedia.org/ontology/occupation> <http://example.org/SeniorAuthor> <Obesity-CNN-1> .
+ <http://example.org/StudyOnChildhoodObesity> <http://schema.org/datePublished> "2023-03-28"^^<http://www.w3.org/2001/XMLSchema#date>  <Obesity-CNN-1> .
+ <http://example.org/ChildGroup2010_2016> <http://schema.org/about> <http://example.org/ChildhoodObesity> <Obesity-CNN-1> .
+ <http://example.org/StudyOnChildhoodObesity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ScholarlyArticle> <Obesity-CNN-1> .
+ <http://example.org/JournalPediatrics> <http://xmlns.com/foaf/0.1/name> "Pediatrics"  <Obesity-CNN-1> .
+ <http://example.org/ChildGroup1998_2004> <http://schema.org/about> <http://example.org/ChildhoodObesity> <Obesity-CNN-1> .
+ <http://example.org/EmoryUniversity> <http://dbpedia.org/ontology/location> <http://example.org/Atlanta> <Obesity-CNN-1> .
+ <http://example.org/CentersForDiseaseControlAndPrevention> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Obesity-CNN-1> .
+ <http://example.org/LetsMoveCampaign> <http://schema.org/description> "Public health effort to reduce rates of childhood obesity"  <Obesity-CNN-1> .
+ <http://example.org/NewYorkCity> <http://xmlns.com/foaf/0.1/name> "New York City"  <Obesity-CNN-1> .
+ <http://example.org/SolveigArgeseanuCunningham> <http://dbpedia.org/ontology/occupation> <http://example.org/AssociateProfessor> <Obesity-CNN-1> .
+ <http://example.org/CentersForDiseaseControlAndPrevention> <http://xmlns.com/foaf/0.1/name> "Centers for Disease Control and Prevention"  <Obesity-CNN-1> .
+ <http://example.org/VenkatNarayan> <http://dbpedia.org/ontology/employer> <http://example.org/GlobalDiabetesResearchCenter> <Obesity-CNN-1> .
+ <http://example.org/KyungRhee> <http://dbpedia.org/ontology/employer> <http://example.org/UCSanDiego> <Obesity-CNN-1> .
+ <http://example.org/KyungRhee> <http://xmlns.com/foaf/0.1/name> "Dr. Kyung Rhee"  <Obesity-CNN-1> .
+ <http://example.org/StudyOnChildhoodObesity> <http://schema.org/about> <http://example.org/ChildhoodObesity> <Obesity-CNN-1> .
+ <http://example.org/JenniferWooBaidal> <http://dbpedia.org/ontology/occupation> <http://example.org/Director> <Obesity-CNN-1> .
+ <http://example.org/NewYorkCity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/City> <Obesity-CNN-1> .
+ <http://example.org/PediatricObesityInitiativeColumbiaUniversity> <http://dbpedia.org/ontology/location> <http://example.org/NewYorkCity> <Obesity-CNN-1> .
+ <http://example.org/ChildhoodObesity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Disease> <Obesity-CNN-1> .
+ <http://example.org/SNAP> <http://xmlns.com/foaf/0.1/name> "Supplemental Nutrition Assistance Program"  <Obesity-CNN-1> .
+ <http://example.org/JenniferWooBaidal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-CNN-1> .
+ <http://example.org/GlobalDiabetesResearchCenter> <http://dbpedia.org/ontology/location> <http://example.org/EmoryUniversity> <Obesity-CNN-1> .
+ <http://example.org/EmoryUniversity> <http://xmlns.com/foaf/0.1/name> "Emory University"  <Obesity-CNN-1> .
+ <http://example.org/SolveigArgeseanuCunningham> <http://dbpedia.org/ontology/field> <http://example.org/GlobalHealth> <Obesity-CNN-1> .
+ <http://example.org/JenniferWooBaidal> <http://dbpedia.org/ontology/employer> <http://example.org/PediatricObesityInitiativeColumbiaUniversity> <Obesity-CNN-1> .
+ <http://example.org/JournalPediatrics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AcademicJournal> <Obesity-CNN-1> .
+ <http://example.org/Atlanta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/City> <Obesity-CNN-1> .
+ <http://example.org/LetsMoveCampaign> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Project> <Obesity-CNN-1> .
+ <http://example.org/PediatricObesityInitiativeColumbiaUniversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Obesity-CNN-1> .
+ <http://example.org/ChildhoodObesity> <http://schema.org/description> "Obesity occurs when a person has excessive fat accumulation that presents a health risk"  <Obesity-CNN-1> .
+ <http://example.org/ChildGroup2010_2016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Obesity-CNN-1> .
+ <http://example.org/KyungRhee> <http://dbpedia.org/ontology/occupation> <http://example.org/ProfessorOfPediatrics> <Obesity-CNN-1> .
+ <http://example.org/LetsMoveCampaign> <http://dbpedia.org/ontology/founder> <http://example.org/MichelleObama> <Obesity-CNN-1> .
+ <http://example.org/ControlledClinicalTrial> <http://dbpedia.org/ontology/technique> <http://dbpedia.org/resource/Functional_magnetic_resonance_imaging> <Obesity-CNN-2> .
+ <http://example.org/NormalWeightGroup> <http://dbpedia.org/ontology/numberOfMembers> "30"^^<http://www.w3.org/2001/XMLSchema#integer>  <Obesity-CNN-2> .
+ <http://example.org/FurtherResearch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Obesity-CNN-2> .
+ <http://example.org/DrISadafFarooqi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Obesity-CNN-2> .
+ <http://example.org/ObesityDefinition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Concept> <Obesity-CNN-2> .
+ <http://example.org/DrMireilleSerlie> <http://dbpedia.org/ontology/workInstitution> <http://dbpedia.org/resource/Yale_School_of_Medicine> <Obesity-CNN-2> .
+ <http://example.org/DrMireilleSerlie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Obesity-CNN-2> .
+ <http://example.org/ObesityStudy> <http://dbpedia.org/ontology/publicationDate> "2023-03-27"^^<http://www.w3.org/2001/XMLSchema#date>  <Obesity-CNN-2> .
+ <http://example.org/MedicallyObeseGroup> <http://dbpedia.org/ontology/numberOfMembers> "30"^^<http://www.w3.org/2001/XMLSchema#integer>  <Obesity-CNN-2> .
+ <http://example.org/DrCarolineApovian> <http://dbpedia.org/ontology/title> "Codirector of the Center for Weight Management and Wellness"  <Obesity-CNN-2> .
+ <http://example.org/WeightLossTrial> <http://dbpedia.org/ontology/outcome> "No change in brain's recognition of fullness or satisfaction after weight loss in people with obesity."  <Obesity-CNN-2> .
+ <http://example.org/ControlledClinicalTrial> <http://dbpedia.org/ontology/numberOfParticipants> "60"^^<http://www.w3.org/2001/XMLSchema#integer>  <Obesity-CNN-2> .
+ <http://example.org/MetaAnalysis2018> <http://dbpedia.org/ontology/abstract> "The analysis found that 50% of a person's original weight loss was regained after two years, and by the fifth year, 80% of the weight was regained."  <Obesity-CNN-2> .
+ <http://example.org/ObesityStudy> <http://dbpedia.org/ontology/journal> <http://dbpedia.org/resource/Nature_Metabolism> <Obesity-CNN-2> .
+ <http://example.org/DrISadafFarooqi> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_Kingdom> <Obesity-CNN-2> .
+ <http://example.org/DrCarolineApovian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Obesity-CNN-2> .
+ <http://example.org/ObesityDefinition> <http://dbpedia.org/ontology/wikiPageDisambiguates> <http://dbpedia.org/resource/Body_mass_index> <Obesity-CNN-2> .
+ <http://example.org/ObesityStudy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AcademicJournalArticle> <Obesity-CNN-2> .
+ <http://example.org/WeightStigma> <http://dbpedia.org/ontology/abstract> "The study emphasizes that weight stigma has no place in the fight against obesity and highlights the complexity of weight gain beyond simplistic notions of willpower."  <Obesity-CNN-2> .
+ <http://example.org/DrCarolineApovian> <http://dbpedia.org/ontology/workInstitution> <http://dbpedia.org/resource/Harvard_Medical_School> <Obesity-CNN-2> .
+ <http://example.org/DrISadafFarooqi> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Metabolism_and_Medicine> <Obesity-CNN-2> .
+ <http://example.org/FurtherResearch> <http://dbpedia.org/ontology/abstract> "More research is needed to fully understand the impact of obesity on the brain and the factors contributing to it, including environmental and genetic factors."  <Obesity-CNN-2> .
+ <http://example.org/ObesityStudy> <http://dbpedia.org/ontology/abstract> "The study suggests that obesity may impair the brain's response to dietary fats and sugars, potentially leading to difficulties in recognizing fullness and satisfaction after eating."  <Obesity-CNN-2> .
+ <http://example.org/DrCarolineApovian> <http://dbpedia.org/ontology/affiliation> <http://dbpedia.org/resource/Brigham_and_Women's_Hospital> <Obesity-CNN-2> .
+ <http://example.org/DrCarolineApovian> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Medicine> <Obesity-CNN-2> .
+ <http://example.org/MetaAnalysis2018> <http://dbpedia.org/ontology/title> "Meta-analysis of long-term weight loss clinical trials"  <Obesity-CNN-2> .
+ <http://example.org/WeightLossTrial> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Obesity-CNN-2> .
+ <http://example.org/NormalWeightGroup> <http://dbpedia.org/ontology/condition> "Normal weight"  <Obesity-CNN-2> .
+ <http://example.org/DrISadafFarooqi> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Professor> <Obesity-CNN-2> .
+ <http://example.org/WeightStigma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Concept> <Obesity-CNN-2> .
+ <http://example.org/ObesityDefinition> <http://dbpedia.org/ontology/abstract> "Medically, obesity is defined as having a body mass index (BMI) of over 30, while normal weight is a BMI of between 18 and 25."  <Obesity-CNN-2> .
+ <http://example.org/DrMireilleSerlie> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Professor> <Obesity-CNN-2> .
+ <http://example.org/NormalWeightGroup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Group> <Obesity-CNN-2> .
+ <http://example.org/MedicallyObeseGroup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Group> <Obesity-CNN-2> .
+ <http://example.org/MetaAnalysis2018> <http://dbpedia.org/ontology/publicationYear> "2018"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Obesity-CNN-2> .
+ <http://example.org/DrMireilleSerlie> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Endocrinology> <Obesity-CNN-2> .
+ <http://example.org/ControlledClinicalTrial> <http://dbpedia.org/ontology/technique> <http://dbpedia.org/resource/Single-photon_emission_computed_tomography> <Obesity-CNN-2> .
+ <http://example.org/ControlledClinicalTrial> <http://dbpedia.org/ontology/participant> <http://example.org/MedicallyObeseGroup> <Obesity-CNN-2> .
+ <http://example.org/DrMireilleSerlie> <http://dbpedia.org/ontology/city> <http://dbpedia.org/resource/New_Haven_Connecticut> <Obesity-CNN-2> .
+ <http://example.org/DrCarolineApovian> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Professor> <Obesity-CNN-2> .
+ <http://example.org/MedicallyObeseGroup> <http://dbpedia.org/ontology/condition> "Medically obese"  <Obesity-CNN-2> .
+ <http://example.org/ControlledClinicalTrial> <http://dbpedia.org/ontology/method> "Feeding tube"  <Obesity-CNN-2> .
+ <http://example.org/ControlledClinicalTrial> <http://dbpedia.org/ontology/participant> <http://example.org/NormalWeightGroup> <Obesity-CNN-2> .
+ <http://example.org/StudyFindings> <http://dbpedia.org/ontology/conclusion> "Obesity may cause irreversible changes in the brain's chemical responses to dietary fats and sugars, potentially explaining why many people regain weight after losing it."  <Obesity-CNN-2> .
+ <http://example.org/WeightLossTrial> <http://dbpedia.org/ontology/task> "Lose 10% of body weight within three months"  <Obesity-CNN-2> .
+ <http://example.org/ObesityStudy> <http://dbpedia.org/ontology/title> "Obesity may damage the brain's ability to recognize the sensation of fullness and be satisfied after eating fats and sugars"  <Obesity-CNN-2> .
+ <http://example.org/ObesityStudy> <http://dbpedia.org/ontology/author> <http://example.org/DrMireilleSerlie> <Obesity-CNN-2> .
+ <http://example.org/DrCarolineApovian> <http://dbpedia.org/ontology/city> <http://dbpedia.org/resource/Boston> <Obesity-CNN-2> .
+ <http://example.org/DrISadafFarooqi> <http://dbpedia.org/ontology/workInstitution> <http://dbpedia.org/resource/University_of_Cambridge> <Obesity-CNN-2> .
+ <http://example.org/MetaAnalysis2018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AcademicJournalArticle> <Obesity-CNN-2> .
+ <http://example.org/ControlledClinicalTrial> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Obesity-CNN-2> .
+ <http://example.org/StudyFindings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Obesity-CNN-2> .
+ <http://example.org/US_CDC> <http://dbpedia.org/ontology/recommendation> <http://example.org/MuscleStrengtheningExercises> <Obesity-CNN-3> .
+ <http://example.org/PhysicalInactivityStatistics> <http://dbpedia.org/ontology/percentage> "35"^^<http://www.w3.org/2001/XMLSchema#integer>  <Obesity-CNN-3> .
+ <http://example.org/ActivityRecommendations> <http://dbpedia.org/ontology/recommendation> <http://example.org/ModeratelyIntenseActivity> <Obesity-CNN-3> .
+ <http://example.org/PhysicalInactivityStatistics> <http://dbpedia.org/ontology/percentage> "27"^^<http://www.w3.org/2001/XMLSchema#integer>  <Obesity-CNN-3> .
+ <http://example.org/MuscleStrengtheningExercises> <http://dbpedia.org/ontology/frequency> "At least twice a week"^^<http://www.w3.org/2001/XMLSchema#string>  <Obesity-CNN-3> .
+ <http://example.org/ModeratelyIntenseActivity> <http://dbpedia.org/ontology/example> <http://example.org/BriskWalking> <Obesity-CNN-3> .
+ <http://example.org/NewCategoryOfDrugs> <http://schema.org/indication> <http://example.org/WeightLoss> <Obesity-CNN-3> .
+ <http://example.org/ExtraWeight> <http://schema.org/value> "10 to 15"^^<http://www.w3.org/2001/XMLSchema#integer>  <Obesity-CNN-3> .
+ <http://example.org/ExtraWeight> <http://schema.org/unitCode> "LBR"  <Obesity-CNN-3> .
+ <http://example.org/PhysicalInactivityStatistics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statistic> <Obesity-CNN-3> .
+ <http://example.org/KFF_HealthNews> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Obesity-CNN-3> .
+ <http://example.org/HealthConsequences> <http://dbpedia.org/ontology/associatedDisease> <http://example.org/HeartDisease> <Obesity-CNN-3> .
+ <http://example.org/WeightGainLaterLife> <http://dbpedia.org/ontology/cause> <http://example.org/JointProblems> <Obesity-CNN-3> .
+ <http://example.org/ExtraWeight> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/QuantitativeValue> <Obesity-CNN-3> .
+ <http://example.org/ExpertDebate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Obesity-CNN-3> .
+ <http://example.org/WeightGainLaterLife> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Obesity-CNN-3> .
+ <http://example.org/SourceOfEnergy> <http://dbpedia.org/ontology/benefitFor> <http://example.org/AdvancedKidneyDisease> <Obesity-CNN-3> .
+ <http://example.org/ObesityResearch> <http://dbpedia.org/ontology/topic> <http://example.org/MuscleMassConcerns> <Obesity-CNN-3> .
+ <http://example.org/CNN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Obesity-CNN-3> .
+ <http://example.org/WeightGainLaterLife> <http://dbpedia.org/ontology/cause> <http://example.org/Childbirth> <Obesity-CNN-3> .
+ <http://example.org/GuardAgainstFractures> <http://dbpedia.org/ontology/method> <http://example.org/FatPadding> <Obesity-CNN-3> .
+ <http://example.org/WeightGainLaterLife> <http://dbpedia.org/ontology/cause> <http://example.org/SocialMeals> <Obesity-CNN-3> .
+ <http://example.org/KFF_HealthNews> <http://xmlns.com/foaf/0.1/name> "KFF Health News"  <Obesity-CNN-3> .
+ <http://example.org/AnneNewman> <http://xmlns.com/foaf/0.1/workplace> <http://example.org/UniversityOfPittsburghSchoolOfPublicHealth> <Obesity-CNN-3> .
+ <http://example.org/KFF_HealthNews> <http://dbpedia.org/ontology/formerName> "Kaiser Health News (KHN)"  <Obesity-CNN-3> .
+ <http://example.org/CarlLavie> <http://xmlns.com/foaf/0.1/workplace> <http://example.org/OchsnerHealth> <Obesity-CNN-3> .
+ <http://example.org/WeightGainLaterLife> <http://dbpedia.org/ontology/cause> <http://example.org/ReducedActivity> <Obesity-CNN-3> .
+ <http://example.org/NewCategoryOfDrugs> <http://schema.org/indication> <http://example.org/Diabetes> <Obesity-CNN-3> .
+ <http://example.org/ExpertDebate> <http://dbpedia.org/ontology/opinion> <http://example.org/HealthConsequences> <Obesity-CNN-3> .
+ <http://example.org/US_CDC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Obesity-CNN-3> .
+ <http://example.org/NewCategoryOfDrugs> <http://schema.org/potentialAction> <http://example.org/ShedExcessPounds> <Obesity-CNN-3> .
+ <http://example.org/ProtectiveExtraWeight> <http://dbpedia.org/ontology/benefit> <http://example.org/GuardAgainstFractures> <Obesity-CNN-3> .
+ <http://example.org/KFF> <http://xmlns.com/foaf/0.1/name> "KFF"  <Obesity-CNN-3> .
+ <http://example.org/ObesityResearch> <http://dbpedia.org/ontology/researcher> <http://example.org/AnneNewman> <Obesity-CNN-3> .
+ <http://example.org/HealthConsequences> <http://dbpedia.org/ontology/associatedDisease> <http://example.org/Arthritis> <Obesity-CNN-3> .
+ <http://example.org/MuscleStrengtheningActivities> <http://dbpedia.org/ontology/example> <http://example.org/LiftingWeights> <Obesity-CNN-3> .
+ <http://example.org/ObesityResearch> <http://dbpedia.org/ontology/researcher> <http://example.org/JohnBatsis> <Obesity-CNN-3> .
+ <http://example.org/JohnBatsis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-CNN-3> .
+ <http://example.org/ExpertDebate> <http://dbpedia.org/ontology/opinion> <http://example.org/ProtectiveExtraWeight> <Obesity-CNN-3> .
+ <http://example.org/WeightGainLaterLife> <http://dbpedia.org/ontology/result> <http://example.org/ExtraWeight> <Obesity-CNN-3> .
+ <http://example.org/KFF> <http://dbpedia.org/ontology/description> "The independent source for health policy research, polling, and journalism"  <Obesity-CNN-3> .
+ <http://example.org/HealthConsequences> <http://dbpedia.org/ontology/cause> <http://example.org/FatAccumulation> <Obesity-CNN-3> .
+ <http://example.org/PhysicalInactivityStatistics> <http://dbpedia.org/ontology/ageGroup> "65- to 74-year-olds"  <Obesity-CNN-3> .
+ <http://example.org/ActivityRecommendations> <http://dbpedia.org/ontology/frequency> "At least 150 minutes a week"^^<http://www.w3.org/2001/XMLSchema#string>  <Obesity-CNN-3> .
+ <http://example.org/KFF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Obesity-CNN-3> .
+ <http://example.org/HealthConsequences> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Disease> <Obesity-CNN-3> .
+ <http://example.org/ObesityResearch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Research> <Obesity-CNN-3> .
+ <http://example.org/ObesityResearch> <http://dbpedia.org/ontology/researcher> <http://example.org/CarlLavie> <Obesity-CNN-3> .
+ <http://example.org/KFF_HealthNews> <http://dbpedia.org/ontology/parentOrganization> <http://example.org/KFF> <Obesity-CNN-3> .
+ <http://example.org/AnneNewman> <http://xmlns.com/foaf/0.1/title> "Director of the Center for Aging and Population Health"  <Obesity-CNN-3> .
+ <http://example.org/US_CDC> <http://xmlns.com/foaf/0.1/name> "US Centers for Disease Control and Prevention"  <Obesity-CNN-3> .
+ <http://example.org/AnneNewman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-CNN-3> .
+ <http://example.org/NewCategoryOfDrugs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Drug> <Obesity-CNN-3> .
+ <http://example.org/ProtectiveExtraWeight> <http://dbpedia.org/ontology/benefit> <http://example.org/SourceOfEnergy> <Obesity-CNN-3> .
+ <http://example.org/PhysicalInactivityStatistics> <http://dbpedia.org/ontology/ageGroup> "75 or older"  <Obesity-CNN-3> .
+ <http://example.org/ExpertDebate> <http://dbpedia.org/ontology/subject> <http://example.org/WeightGainLaterLife> <Obesity-CNN-3> .
+ <http://example.org/MuscleStrengtheningActivities> <http://dbpedia.org/ontology/frequency> "At least twice weekly"^^<http://www.w3.org/2001/XMLSchema#string>  <Obesity-CNN-3> .
+ <http://example.org/JohnBatsis> <http://xmlns.com/foaf/0.1/workplace> <http://example.org/UniversityOfNorthCarolinaSchoolOfMedicine> <Obesity-CNN-3> .
+ <http://example.org/CarlLavie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-CNN-3> .
+ <http://example.org/ActivityRecommendations> <http://dbpedia.org/ontology/recommendation> <http://example.org/MuscleStrengtheningActivities> <Obesity-CNN-3> .
+ <http://example.org/HealthConsequences> <http://dbpedia.org/ontology/associatedDisease> <http://example.org/Diabetes> <Obesity-CNN-3> .
+ <http://example.org/ObesityResearch> <http://dbpedia.org/ontology/topic> <http://example.org/ExpertRecommendations> <Obesity-CNN-3> .
+ <http://example.org/SourceOfEnergy> <http://dbpedia.org/ontology/benefitFor> <http://example.org/Cancer> <Obesity-CNN-3> .
+ <http://example.org/CarlLavie> <http://xmlns.com/foaf/0.1/title> "Medical Director of Cardiac Rehabilitation and Prevention"  <Obesity-CNN-3> .
+ <http://example.org/JohnBatsis> <http://xmlns.com/foaf/0.1/title> "Associate Professor of Medicine"  <Obesity-CNN-3> .
+ <http://example.org/ObesityResearch> <http://dbpedia.org/ontology/topic> <http://example.org/IdealBodyWeight> <Obesity-CNN-3> .
+ <http://example.org/aap/ObesityGuidelinesUpdate> <http://purl.org/dc/elements/1.1/creator> <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b1>  <Obesity-CNN-4> .
+ <http://example.org/aap/LifestyleChanges> <http://schema.org/recommendedFor> <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b8>  <Obesity-CNN-4> .
+ <http://example.org/aap/ObesitySurgery> <http://schema.org/recommendedFor> <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b10>  <Obesity-CNN-4> .
+ <http://example.org/aap/BodyMassIndex> <http://schema.org/name> "Body Mass Index (BMI)"  <Obesity-CNN-4> .
+ <http://example.org/aap/PediatricObesity> <http://schema.org/potentialAction> <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b13>  <Obesity-CNN-4> .
+ <http://example.org/aap/BehaviorTherapy> <http://schema.org/recommendedFor> <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b7>  <Obesity-CNN-4> .
+ <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b12> <http://xmlns.com/foaf/0.1/title> "Director"  <Obesity-CNN-4> .
+ <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Pediatric> <Obesity-CNN-4> .
+ <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b1> <http://xmlns.com/foaf/0.1/name> "Dr. Sandra Hassink"  <Obesity-CNN-4> .
+ <http://example.org/aap/GrowthChartsUpdate> <http://schema.org/author> <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b12>  <Obesity-CNN-4> .
+ <http://example.org/aap/ObesityGuidelinesUpdate> <http://purl.org/dc/elements/1.1/description> "The guidelines urge prompt use of behavior therapy and lifestyle changes, and recommend surgery and medications for some young people."  <Obesity-CNN-4> .
+ <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b7> <http://schema.org/ageRange> "2 years and older"  <Obesity-CNN-4> .
+ <http://example.org/aap/WeightLossMedications> <http://schema.org/recommendedFor> <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b9>  <Obesity-CNN-4> .
+ <http://example.org/aap/ObesitySurgery> <http://schema.org/indication> <http://example.org/aap/SevereObesity> <Obesity-CNN-4> .
+ <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b1> <http://xmlns.com/foaf/0.1/title> "Vice Chair"  <Obesity-CNN-4> .
+ <http://example.org/aap/BodyMassIndex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalRiskFactor> <Obesity-CNN-4> .
+ <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b10> <http://schema.org/ageRange> "13 years and older"  <Obesity-CNN-4> .
+ <http://example.org/aap/BehaviorTherapy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalTherapy> <Obesity-CNN-4> .
+ <http://example.org/aap/LifestyleChanges> <http://schema.org/guideline> <http://example.org/aap/ObesityTreatmentGuidelines> <Obesity-CNN-4> .
+ <http://example.org/aap/GrowthChartsUpdate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalGuideline> <Obesity-CNN-4> .
+ <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b13> <http://schema.org/targetPopulation> "Children and teens"  <Obesity-CNN-4> .
+ <http://example.org/aap/BodyMassIndex> <http://schema.org/referenceRange> <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b16>  <Obesity-CNN-4> .
+ <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b3> <http://schema.org/name> "Obesity"  <Obesity-CNN-4> .
+ <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b16> <http://schema.org/measurementType> "Obesity"  <Obesity-CNN-4> .
+ <http://example.org/aap/ObesityGuidelinesUpdate> <http://purl.org/dc/elements/1.1/title> "Updated American Academy of Pediatrics guidelines for treatment of obesity"  <Obesity-CNN-4> .
+ <http://example.org/aap/BehaviorTherapy> <http://schema.org/guideline> <http://example.org/aap/ObesityTreatmentGuidelines> <Obesity-CNN-4> .
+ <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b12> <http://xmlns.com/foaf/0.1/memberOf> <http://www.cdc.gov/> <Obesity-CNN-4> .
+ <http://example.org/aap/WeightLossMedications> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Drug> <Obesity-CNN-4> .
+ <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b4> <http://schema.org/ageRange> "2 years through the teen years"  <Obesity-CNN-4> .
+ <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b15> <http://schema.org/minValue> "85th percentile"^^<http://www.w3.org/2001/XMLSchema#float>  <Obesity-CNN-4> .
+ <http://example.org/aap/BehaviorTherapy> <http://schema.org/indication> <http://example.org/aap/Obesity> <Obesity-CNN-4> .
+ <http://example.org/aap/Type2DiabetesProjection> <http://schema.org/publishedIn> <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b14>  <Obesity-CNN-4> .
+ <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> <Obesity-CNN-4> .
+ <http://example.org/aap/ObesitySurgery> <http://schema.org/guideline> <http://example.org/aap/ObesityTreatmentGuidelines> <Obesity-CNN-4> .
+ <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Pediatric> <Obesity-CNN-4> .
+ <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-CNN-4> .
+ <http://example.org/aap/ObesityTreatmentGuidelines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalGuideline> <Obesity-CNN-4> .
+ <http://example.org/aap/GrowthChartsUpdate> <http://purl.org/dc/elements/1.1/description> "The CDC released updated growth charts for tracking children and teens with severe obesity."  <Obesity-CNN-4> .
+ <http://example.org/aap/BodyMassIndex> <http://schema.org/referenceRange> <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b15>  <Obesity-CNN-4> .
+ <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Pediatric> <Obesity-CNN-4> .
+ <http://example.org/aap/LifestyleChanges> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LifestyleModification> <Obesity-CNN-4> .
+ <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b12> <http://xmlns.com/foaf/0.1/name> "Dr. Karen Hacker"  <Obesity-CNN-4> .
+ <http://example.org/aap/ObesityTreatmentGuidelines> <http://schema.org/author> <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b5>  <Obesity-CNN-4> .
+ <http://example.org/aap/ObesityTreatmentGuidelines> <http://schema.org/datePublished> "2023-03-27"^^<http://www.w3.org/2001/XMLSchema#date>  <Obesity-CNN-4> .
+ <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b1> <http://xmlns.com/foaf/0.1/memberOf> <http://example.org/aap/ClinicalPracticeGuidelineSubcommitteeOnObesity> <Obesity-CNN-4> .
+ <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b8> <http://schema.org/ageRange> "2 years and older"  <Obesity-CNN-4> .
+ <http://example.org/aap/ObesityTreatmentGuidelines> <http://schema.org/isBasedOn> <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b6>  <Obesity-CNN-4> .
+ <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b9> <http://schema.org/ageRange> "12 years and older"  <Obesity-CNN-4> .
+ <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b6> <http://schema.org/studyLocation> "United States"  <Obesity-CNN-4> .
+ <http://example.org/aap/Type2DiabetesProjection> <http://schema.org/studyOutcome> "Number of young people under age 20 with type 2 diabetes may increase nearly 675% by 2060 if current trends continue."  <Obesity-CNN-4> .
+ <http://example.org/aap/PediatricObesity> <http://schema.org/epidemiology> "More than 14.4 million children and teens live with obesity in the United States."  <Obesity-CNN-4> .
+ <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-CNN-4> .
+ <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalStudy> <Obesity-CNN-4> .
+ <http://example.org/aap/LifestyleChanges> <http://schema.org/indication> <http://example.org/aap/Obesity> <Obesity-CNN-4> .
+ <http://example.org/aap/PediatricObesity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalCondition> <Obesity-CNN-4> .
+ <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b14> <http://schema.org/name> "Diabetes Care"  <Obesity-CNN-4> .
+ <http://example.org/aap/WeightLossMedications> <http://schema.org/indication> <http://example.org/aap/Obesity> <Obesity-CNN-4> .
+ <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b5> <http://xmlns.com/foaf/0.1/name> "Dr. Sandra Hassink"  <Obesity-CNN-4> .
+ <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalRiskFactor> <Obesity-CNN-4> .
+ <http://example.org/aap/ObesityGuidelinesUpdate> <http://purl.org/dc/elements/1.1/date> "2023-03-27"^^<http://www.w3.org/2001/XMLSchema#date>  <Obesity-CNN-4> .
+ <http://example.org/aap/WeightLossMedications> <http://schema.org/guideline> <http://example.org/aap/ObesityTreatmentGuidelines> <Obesity-CNN-4> .
+ <http://example.org/aap/Type2DiabetesProjection> <http://schema.org/studyLocation> "United States"  <Obesity-CNN-4> .
+ <http://example.org/aap/ObesityTreatmentGuidelines> <http://schema.org/guidelineFor> <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b4>  <Obesity-CNN-4> .
+ <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b15> <http://schema.org/maxValue> "95th percentile"^^<http://www.w3.org/2001/XMLSchema#float>  <Obesity-CNN-4> .
+ <http://example.org/aap/GrowthChartsUpdate> <http://purl.org/dc/elements/1.1/date> "2023-03-27"^^<http://www.w3.org/2001/XMLSchema#date>  <Obesity-CNN-4> .
+ <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b11> <http://schema.org/name> "Asthma, Sleep Apnea, Bone and Joint Problems, Type 2 Diabetes, Heart Disease"  <Obesity-CNN-4> .
+ <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b16> <http://schema.org/minValue> "95th percentile"^^<http://www.w3.org/2001/XMLSchema#float>  <Obesity-CNN-4> .
+ <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Pediatric> <Obesity-CNN-4> .
+ <http://example.org/aap/SevereObesity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalCondition> <Obesity-CNN-4> .
+ <http://example.org/aap/ObesityGuidelinesUpdate> <http://purl.org/dc/elements/1.1/isPartOf> <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b2>  <Obesity-CNN-4> .
+ <http://example.org/aap/Type2DiabetesProjection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalStudy> <Obesity-CNN-4> .
+ <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-CNN-4> .
+ <http://example.org/aap/ObesityGuidelinesUpdate> <http://purl.org/dc/elements/1.1/subject> "Obesity Treatment"  <Obesity-CNN-4> .
+ <http://example.org/aap/SevereObesity> <http://schema.org/name> "Severe Obesity"  <Obesity-CNN-4> .
+ <http://example.org/aap/ObesityTreatmentGuidelines> <http://schema.org/audience> "Health care providers"  <Obesity-CNN-4> .
+ <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b15> <http://schema.org/measurementType> "Overweight"  <Obesity-CNN-4> .
+ <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> <Obesity-CNN-4> .
+ <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalCondition> <Obesity-CNN-4> .
+ <http://example.org/aap/SevereObesity> <http://schema.org/associatedRiskFactor> <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b11>  <Obesity-CNN-4> .
+ <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Pediatric> <Obesity-CNN-4> .
+ <http://example.org/aap/Type2DiabetesProjection> <http://schema.org/studySubject> "Type 2 Diabetes"  <Obesity-CNN-4> .
+ <http://example.org/aap/ObesityTreatmentGuidelines> <http://schema.org/guidelineSubject> <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b3>  <Obesity-CNN-4> .
+ <http://example.org/aap/ObesitySurgery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalProcedure> <Obesity-CNN-4> .
+ <http://example.org/aap/Type2DiabetesProjection> <http://purl.org/dc/elements/1.1/date> "2023-02-27"^^<http://www.w3.org/2001/XMLSchema#date>  <Obesity-CNN-4> .
+ <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b2> <http://schema.org/name> "Pediatrics"  <Obesity-CNN-4> .
+ <http://Obesity-CNN-4.com/blank#n0545efca37bb41d49cd3edd788f5a2f7b13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PreventiveProcedure> <Obesity-CNN-4> .
+ <http://example.org/ObesityCanada> <http://schema.org/description> "A non-profit organization in Canada."  <Obesity-CNN-5> .
+ <http://example.org/UniversityOfAlberta> <http://schema.org/name> "University of Alberta"  <Obesity-CNN-5> .
+ <http://example.org/StepFive> <http://schema.org/name> "Step Five"  <Obesity-CNN-5> .
+ <http://example.org/NationalInstitutesOfHealth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GovernmentOrganization> <Obesity-CNN-5> .
+ <http://example.org/StepOne> <http://schema.org/description> "Encourages doctors to ask their patients whether they feel comfortable discussing their weight and to reconsider obesity as a chronic illness."  <Obesity-CNN-5> .
+ <http://example.org/StepTwoToFour> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Obesity-CNN-5> .
+ <http://example.org/CMAJ_Tweet> <http://schema.org/url> "https://twitter.com/CMAJ/status/1290672178795663361"  <Obesity-CNN-5> .
+ <http://example.org/ObesityManagementGuidelines> <http://schema.org/isPartOf> <http://example.org/NewGuidelines> <Obesity-CNN-5> .
+ <http://example.org/FatAcceptanceMovement> <http://schema.org/name> "Fat Acceptance Movement"  <Obesity-CNN-5> .
+ <http://example.org/SylviaLey> <http://xmlns.com/foaf/0.1/name> "Sylvia Ley"  <Obesity-CNN-5> .
+ <http://example.org/DrAryaSharma> <http://schema.org/jobTitle> "Professor of Medicine"  <Obesity-CNN-5> .
+ <http://example.org/DrAryaSharma> <http://schema.org/affiliation> <http://example.org/UniversityOfAlberta> <Obesity-CNN-5> .
+ <http://example.org/AliThompson> <http://xmlns.com/foaf/0.1/name> "Ali Thompson"  <Obesity-CNN-5> .
+ <http://example.org/NationalInstitutesOfHealth> <http://schema.org/name> "National Institutes of Health"  <Obesity-CNN-5> .
+ <http://example.org/ObesityCanada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Obesity-CNN-5> .
+ <http://example.org/Obesity> <http://schema.org/name> "Obesity"  <Obesity-CNN-5> .
+ <http://example.org/StepOne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Obesity-CNN-5> .
+ <http://example.org/USCentersForDiseaseControlAndPrevention> <http://schema.org/name> "US Centers for Disease Control and Prevention"  <Obesity-CNN-5> .
+ <http://example.org/ObesityCanada> <http://schema.org/name> "Obesity Canada"  <Obesity-CNN-5> .
+ <http://example.org/SylviaLey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-CNN-5> .
+ <http://example.org/AliThompson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-CNN-5> .
+ <http://example.org/CMAJ_Tweet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPosting> <Obesity-CNN-5> .
+ <http://example.org/StepFive> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Obesity-CNN-5> .
+ <http://example.org/NewGuidelines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Obesity-CNN-5> .
+ <http://example.org/UniversityOfAlberta> <http://schema.org/location> "Edmonton, Canada"  <Obesity-CNN-5> .
+ <http://example.org/StepOne> <http://schema.org/name> "Step One"  <Obesity-CNN-5> .
+ <http://example.org/DrAryaSharma> <http://schema.org/memberOf> <http://example.org/ObesityCanada> <Obesity-CNN-5> .
+ <http://example.org/CanadianMedicalAssociationJournal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> <Obesity-CNN-5> .
+ <http://example.org/StepTwoToFour> <http://schema.org/name> "Steps Two to Four"  <Obesity-CNN-5> .
+ <http://example.org/NewGuidelines> <http://schema.org/datePublished> "2023-08-04"^^<http://www.w3.org/2001/XMLSchema#date>  <Obesity-CNN-5> .
+ <http://example.org/Obesity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalCondition> <Obesity-CNN-5> .
+ <http://example.org/SylviaLey> <http://schema.org/affiliation> <http://example.org/TulaneUniversity> <Obesity-CNN-5> .
+ <http://example.org/StepFive> <http://schema.org/description> "Involves assisting patients with barriers to meeting their goals and being supportive."  <Obesity-CNN-5> .
+ <http://example.org/DrAryaSharma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-CNN-5> .
+ <http://example.org/TulaneUniversity> <http://schema.org/name> "Tulane University"  <Obesity-CNN-5> .
+ <http://example.org/NewGuidelines> <http://schema.org/author> <http://example.org/CanadianAssociationOfBariatricPhysiciansAndSurgeons> <Obesity-CNN-5> .
+ <http://example.org/NewGuidelines> <http://schema.org/isPublishedIn> <http://example.org/CanadianMedicalAssociationJournal> <Obesity-CNN-5> .
+ <http://example.org/CanadianAssociationOfBariatricPhysiciansAndSurgeons> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Obesity-CNN-5> .
+ <http://example.org/ObesityManagementGuidelines> <http://schema.org/author> <http://example.org/DrAryaSharma> <Obesity-CNN-5> .
+ <http://example.org/ObesityManagementGuidelines> <http://schema.org/description> "A five-step road map for doctors to follow when treating patients with obesity."  <Obesity-CNN-5> .
+ <http://example.org/CanadianAssociationOfBariatricPhysiciansAndSurgeons> <http://schema.org/name> "Canadian Association of Bariatric Physicians and Surgeons"  <Obesity-CNN-5> .
+ <http://example.org/FatAcceptanceMovement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Obesity-CNN-5> .
+ <http://example.org/NewGuidelines> <http://schema.org/author> <http://example.org/ObesityCanada> <Obesity-CNN-5> .
+ <http://example.org/NewGuidelines> <http://schema.org/url> "https://t.co/8lwIKqSvDV"  <Obesity-CNN-5> .
+ <http://example.org/UniversityOfAlberta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EducationalOrganization> <Obesity-CNN-5> .
+ <http://example.org/ObesityManagementGuidelines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Obesity-CNN-5> .
+ <http://example.org/CMAJ_Tweet> <http://schema.org/author> <http://example.org/CanadianMedicalAssociationJournal> <Obesity-CNN-5> .
+ <http://example.org/AliThompson> <http://schema.org/description> "Writer, YouTuber, and fat activist."  <Obesity-CNN-5> .
+ <http://example.org/USCentersForDiseaseControlAndPrevention> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GovernmentOrganization> <Obesity-CNN-5> .
+ <http://example.org/DrAryaSharma> <http://xmlns.com/foaf/0.1/name> "Dr. Arya Sharma"  <Obesity-CNN-5> .
+ <http://example.org/CanadianMedicalAssociationJournal> <http://schema.org/name> "Canadian Medical Association Journal"  <Obesity-CNN-5> .
+ <http://example.org/TulaneUniversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EducationalOrganization> <Obesity-CNN-5> .
+ <http://example.org/DrAryaSharma> <http://xmlns.com/foaf/0.1/title> "Scientific Director"  <Obesity-CNN-5> .
+ <http://example.org/StepTwoToFour> <http://schema.org/description> "Involve identifying causal factors, charting a course for tailored treatment, and cooperating with the patient."  <Obesity-CNN-5> .
+ <http://example.org/SylviaLey> <http://schema.org/jobTitle> "Assistant Professor"  <Obesity-CNN-5> .
+ <http://example.org/CMAJ_Tweet> <http://schema.org/datePublished> "2020-08-04"^^<http://www.w3.org/2001/XMLSchema#date>  <Obesity-CNN-5> .
+ <http://example.org/Obesity> <http://schema.org/description> "A chronic illness that should be defined by a person's health, rather than just their weight."  <Obesity-CNN-5> .
+ <http://example.org/ObesityManagementGuidelines> <http://schema.org/about> <http://example.org/Obesity> <Obesity-CNN-5> .
+ <http://example.org/ObesityPrevalence> <http://example.org/quantity> "Nearly 15 million between ages 2 and 19"  <Obesity-CNN-6> .
+ <http://example.org/LifestyleChanges> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/TreatmentOption> <Obesity-CNN-6> .
+ <http://example.org/BehaviorTherapy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/TreatmentOption> <Obesity-CNN-6> .
+ <http://example.org/SarahMessiah> <http://example.org/statement> "Adolescents and their families are interested in surgery as a treatment option if given access and considered good candidates."  <Obesity-CNN-6> .
+ <http://example.org/ObesityPrevalence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Finding> <Obesity-CNN-6> .
+ <http://example.org/SevereObesity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/SeverityLevel> <Obesity-CNN-6> .
+ <http://example.org/ChangesInFoodIntake> <http://example.org/resultsIn> <http://example.org/LessHunger> <Obesity-CNN-6> .
+ <http://aap.org/guidelines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/MedicalGuideline> <Obesity-CNN-6> .
+ <http://aap.org/guidelines> <http://example.org/recommendations> <http://example.org/Medications> <Obesity-CNN-6> .
+ <http://example.org/Intestines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/BodyPart> <Obesity-CNN-6> .
+ <http://example.org/SevereObesityPrevalence> <http://example.org/description> "Especially prevalent"  <Obesity-CNN-6> .
+ <http://example.org/ObesityInYouth> <http://example.org/location> <http://example.org/UnitedStates> <Obesity-CNN-6> .
+ <http://example.org/IncreaseInYouthSurgery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Finding> <Obesity-CNN-6> .
+ <http://cdc.gov/report> <http://example.org/findings> <http://example.org/ObesityPrevalence> <Obesity-CNN-6> .
+ <http://aap.org/guidelines> <http://example.org/title> "Treatment of Obesity"  <Obesity-CNN-6> .
+ <http://example.org/ObesityPrevalence> <http://example.org/description> "Affects about 1 in 5 children and teens"  <Obesity-CNN-6> .
+ <http://example.org/ObesityInYouth> <http://example.org/affects> <http://example.org/ChildrenAndTeens> <Obesity-CNN-6> .
+ <http://example.org/IncreaseAmongHispanicYouth> <http://example.org/timePeriod> <http://example.org/Between2020And2021> <Obesity-CNN-6> .
+ <http://aap.org/guidelines> <http://example.org/recommendations> <http://example.org/BehaviorTherapy> <Obesity-CNN-6> .
+ <http://jamanetwork.com/journals/jamapediatrics/study> <http://example.org/authors> <http://example.org/SarahMessiah> <Obesity-CNN-6> .
+ <http://example.org/IncreaseAmongHispanicYouth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Statistic> <Obesity-CNN-6> .
+ <http://example.org/PopulationDisparities> <http://example.org/statistics> <http://example.org/IncreaseAmongBlackYouth> <Obesity-CNN-6> .
+ <http://example.org/Surgery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/TreatmentOption> <Obesity-CNN-6> .
+ <http://cdc.gov/report> <http://example.org/findings> <http://example.org/SevereObesityPrevalence> <Obesity-CNN-6> .
+ <http://example.org/SevereObesity> <http://example.org/description> "Body mass index at least 20% higher than what is considered obese"  <Obesity-CNN-6> .
+ <http://example.org/MetabolicAndBariatricSurgery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/SurgicalProcedure> <Obesity-CNN-6> .
+ <http://example.org/Between2020And2021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/TimePeriod> <Obesity-CNN-6> .
+ <http://example.org/IncreaseAmongBlackYouth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Statistic> <Obesity-CNN-6> .
+ <http://example.org/IncreaseAmongBlackYouth> <http://example.org/increase> "42%"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-CNN-6> .
+ <http://aap.org/guidelines> <http://example.org/publicationDate> "2023-04-04"^^<http://www.w3.org/2001/XMLSchema#date>  <Obesity-CNN-6> .
+ <http://example.org/MetabolicAndBariatricSurgery> <http://example.org/timePeriod> <http://example.org/Between2020And2021> <Obesity-CNN-6> .
+ <http://example.org/ObesityInYouth> <http://example.org/prevalence> <http://example.org/High> <Obesity-CNN-6> .
+ <http://cdc.gov/report> <http://example.org/findings> <http://example.org/PopulationDisparities> <Obesity-CNN-6> .
+ <http://example.org/ChildrenAndTeens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/DemographicGroup> <Obesity-CNN-6> .
+ <http://aap.org/guidelines> <http://example.org/recommendations> <http://example.org/Surgery> <Obesity-CNN-6> .
+ <http://example.org/MetabolicAndBariatricSurgery> <http://example.org/increaseInUse> "19%"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-CNN-6> .
+ <http://example.org/ChildrenAndTeens> <http://example.org/ageGroup> <http://example.org/Ages10To19> <Obesity-CNN-6> .
+ <http://example.org/ChildrenAndTeens> <http://example.org/condition> <http://example.org/Obesity> <Obesity-CNN-6> .
+ <http://jamanetwork.com/journals/jamapediatrics/study> <http://example.org/title> "Trends in Metabolic and Bariatric Surgery Among Youth"  <Obesity-CNN-6> .
+ <http://cnn.com/article> <http://example.org/topic> <http://example.org/ObesityInYouth> <Obesity-CNN-6> .
+ <http://example.org/SarahMessiah> <http://example.org/role> "Professor and pediatric obesity researcher"  <Obesity-CNN-6> .
+ <http://cnn.com/article> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Article> <Obesity-CNN-6> .
+ <http://example.org/PopulationDisparities> <http://example.org/statistics> <http://example.org/IncreaseAmongHispanicYouth> <Obesity-CNN-6> .
+ <http://example.org/ChangesInFoodIntake> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/PhysiologicalChange> <Obesity-CNN-6> .
+ <http://aap.org/guidelines> <http://example.org/recommendations> <http://example.org/LifestyleChanges> <Obesity-CNN-6> .
+ <http://example.org/Between2020And2021> <http://example.org/endDate> "2021-12-31"^^<http://www.w3.org/2001/XMLSchema#date>  <Obesity-CNN-6> .
+ <http://example.org/LessHunger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Sensation> <Obesity-CNN-6> .
+ <http://example.org/Obesity> <http://example.org/treatmentOptions> <http://example.org/MetabolicAndBariatricSurgery> <Obesity-CNN-6> .
+ <http://example.org/SevereObesityPrevalence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Finding> <Obesity-CNN-6> .
+ <http://example.org/Stomach> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/BodyPart> <Obesity-CNN-6> .
+ <http://jamanetwork.com/journals/jamapediatrics/study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ResearchStudy> <Obesity-CNN-6> .
+ <http://example.org/IncreaseAmongHispanicYouth> <http://example.org/increase> "53%"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-CNN-6> .
+ <http://example.org/Obesity> <http://example.org/severityLevels> <http://example.org/SevereObesity> <Obesity-CNN-6> .
+ <http://example.org/MetabolicAndBariatricSurgery> <http://example.org/effects> <http://example.org/ChangesInFoodIntake> <Obesity-CNN-6> .
+ <http://example.org/PopulationDisparities> <http://example.org/description> "More prevalent among Black and Hispanic youth"  <Obesity-CNN-6> .
+ <http://example.org/SarahMessiah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Researcher> <Obesity-CNN-6> .
+ <http://cdc.gov/report> <http://example.org/topic> <http://example.org/ChildhoodObesity> <Obesity-CNN-6> .
+ <http://example.org/Obesity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/MedicalCondition> <Obesity-CNN-6> .
+ <http://example.org/MetabolicAndBariatricSurgery> <http://example.org/targetAreas> <http://example.org/Intestines> <Obesity-CNN-6> .
+ <http://example.org/MetabolicAndBariatricSurgery> <http://example.org/targetAreas> <http://example.org/Stomach> <Obesity-CNN-6> .
+ <http://example.org/MoreFullness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Sensation> <Obesity-CNN-6> .
+ <http://jamanetwork.com/journals/jamapediatrics/study> <http://example.org/findings> <http://example.org/IncreaseInYouthSurgery> <Obesity-CNN-6> .
+ <http://example.org/IncreaseInYouthSurgery> <http://example.org/specifics> "Jumped 19% between 2020 and 2021"  <Obesity-CNN-6> .
+ <http://example.org/Between2020And2021> <http://example.org/startDate> "2020-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Obesity-CNN-6> .
+ <http://example.org/SarahMessiah> <http://example.org/affiliation> <http://uth.edu/SchoolOfPublicHealth> <Obesity-CNN-6> .
+ <http://example.org/PopulationDisparities> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Finding> <Obesity-CNN-6> .
+ <http://example.org/IncreaseAmongBlackYouth> <http://example.org/timePeriod> <http://example.org/Between2020And2021> <Obesity-CNN-6> .
+ <http://cdc.gov/report> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Report> <Obesity-CNN-6> .
+ <http://cnn.com/article> <http://example.org/title> "Weight-loss surgery becoming more common among youth, study finds"  <Obesity-CNN-6> .
+ <http://aap.org/guidelines> <http://example.org/updates> "First update in 15 years"  <Obesity-CNN-6> .
+ <http://example.org/ObesityInYouth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/HealthCondition> <Obesity-CNN-6> .
+ <http://example.org/Medications> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/TreatmentOption> <Obesity-CNN-6> .
+ <http://example.org/IncreaseInYouthSurgery> <http://example.org/observation> "Rise in surgeries since 2016"  <Obesity-CNN-6> .
+ <http://jamanetwork.com/journals/jamapediatrics/study> <http://example.org/publicationDate> "2023-04-04"^^<http://www.w3.org/2001/XMLSchema#date>  <Obesity-CNN-6> .
+ <http://cnn.com/article> <http://example.org/publicationDate> "2023-04-04"^^<http://www.w3.org/2001/XMLSchema#date>  <Obesity-CNN-6> .
+ <http://example.org/ChangesInFoodIntake> <http://example.org/resultsIn> <http://example.org/MoreFullness> <Obesity-CNN-6> .
+ <http://example.org/DrAayushVisaria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-CNN-7> .
+ <http://example.org/HarvardHealthPublishing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Obesity-CNN-7> .
+ <http://example.org/DrRobertHShmerling> <http://dbpedia.org/ontology/affiliation> <http://example.org/HarvardHealthPublishing> <Obesity-CNN-7> .
+ <http://example.org/TomSanders> <http://xmlns.com/foaf/0.1/name> "Tom Sanders"  <Obesity-CNN-7> .
+ <http://example.org/HealthyWeight> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MedicalCondition> <Obesity-CNN-7> .
+ <http://example.org/AmericanHeartAssociation> <http://dbpedia.org/ontology/location> <http://example.org/UnitedStates> <Obesity-CNN-7> .
+ <http://example.org/DrRobertHShmerling> <http://dbpedia.org/ontology/occupation> <http://example.org/SeniorFacultyEditor> <Obesity-CNN-7> .
+ <http://example.org/Scotland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <Obesity-CNN-7> .
+ <http://example.org/DrAayushVisaria> <http://dbpedia.org/ontology/affiliation> <http://example.org/RutgersRobertWoodJohnsonMedicalSchool> <Obesity-CNN-7> .
+ <http://example.org/NationalHealthInterviewSurvey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Survey> <Obesity-CNN-7> .
+ <http://example.org/Overweight> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MedicalCondition> <Obesity-CNN-7> .
+ <http://example.org/DrAayushVisaria> <http://dbpedia.org/ontology/occupation> <http://example.org/InternalMedicineResidentPhysician> <Obesity-CNN-7> .
+ <http://example.org/DrSokoSetoguchi> <http://dbpedia.org/ontology/occupation> <http://example.org/ProfessorOfMedicineAndEpidemiology> <Obesity-CNN-7> .
+ <http://example.org/Overweight> <http://dbpedia.org/ontology/wikiPageDisambiguates> <http://dbpedia.org/resource/Overweight> <Obesity-CNN-7> .
+ <http://example.org/DrSokoSetoguchi> <http://dbpedia.org/ontology/affiliation> <http://example.org/RutgersSchoolOfPublicHealth> <Obesity-CNN-7> .
+ <http://example.org/DrAayushVisaria> <http://xmlns.com/foaf/0.1/name> "Dr. Aayush Visaria"  <Obesity-CNN-7> .
+ <http://example.org/UniversityCollegeLondon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <Obesity-CNN-7> .
+ <http://example.org/Massachusetts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <Obesity-CNN-7> .
+ <http://example.org/DrSokoSetoguchi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-CNN-7> .
+ <http://example.org/CNN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Obesity-CNN-7> .
+ <http://example.org/HarvardMedicalSchool> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <Obesity-CNN-7> .
+ <http://example.org/PLOS_ONE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AcademicJournal> <Obesity-CNN-7> .
+ <http://example.org/DrSokoSetoguchi> <http://dbpedia.org/ontology/affiliation> <http://example.org/RutgersRobertWoodJohnsonMedicalSchool> <Obesity-CNN-7> .
+ <http://example.org/AmericanHeartAssociation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Obesity-CNN-7> .
+ <http://example.org/HarvardMedicalSchool> <http://dbpedia.org/ontology/location> <http://example.org/Boston> <Obesity-CNN-7> .
+ <http://example.org/ProfessorNaveedSattar> <http://dbpedia.org/ontology/affiliation> <http://example.org/UniversityOfGlasgow> <Obesity-CNN-7> .
+ <http://example.org/DrBaptisteLeurent> <http://dbpedia.org/ontology/occupation> <http://example.org/LecturerInMedicalStatistics> <Obesity-CNN-7> .
+ <http://example.org/UniversityCollegeLondon> <http://dbpedia.org/ontology/location> <http://example.org/London> <Obesity-CNN-7> .
+ <http://example.org/UniversityOfGlasgow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <Obesity-CNN-7> .
+ <http://example.org/Boston> <http://dbpedia.org/ontology/isPartOf> <http://example.org/Massachusetts> <Obesity-CNN-7> .
+ <http://example.org/KingsCollegeLondon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <Obesity-CNN-7> .
+ <http://example.org/US_NationalDeathIndex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Database> <Obesity-CNN-7> .
+ <http://example.org/Scotland> <http://dbpedia.org/ontology/isPartOf> <http://example.org/UnitedKingdom> <Obesity-CNN-7> .
+ <http://example.org/RutgersSchoolOfPublicHealth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <Obesity-CNN-7> .
+ <http://example.org/AmericanMedicalAssociation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Obesity-CNN-7> .
+ <http://example.org/NationalHealthInterviewSurvey> <http://dbpedia.org/ontology/endDate> "2018-12-31"^^<http://www.w3.org/2001/XMLSchema#date>  <Obesity-CNN-7> .
+ <http://example.org/NewJersey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <Obesity-CNN-7> .
+ <http://example.org/BodyMassIndexRatingScale> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Index> <Obesity-CNN-7> .
+ <http://example.org/DrRobertHShmerling> <http://xmlns.com/foaf/0.1/name> "Dr. Robert H. Shmerling"  <Obesity-CNN-7> .
+ <http://example.org/UnitedKingdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <Obesity-CNN-7> .
+ <http://example.org/Obesity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MedicalCondition> <Obesity-CNN-7> .
+ <http://example.org/NationalHealthInterviewSurvey> <http://dbpedia.org/ontology/startDate> "1999-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Obesity-CNN-7> .
+ <http://example.org/ProfessorNaveedSattar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-CNN-7> .
+ <http://example.org/TomSanders> <http://dbpedia.org/ontology/occupation> <http://example.org/ProfessorEmeritusOfNutritionAndDietetics> <Obesity-CNN-7> .
+ <http://example.org/RutgersRobertWoodJohnsonMedicalSchool> <http://dbpedia.org/ontology/location> <http://example.org/NewBrunswick_NewJersey> <Obesity-CNN-7> .
+ <http://example.org/US_Centers_for_Disease_Control_and_Prevention> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Obesity-CNN-7> .
+ <http://example.org/ProfessorNaveedSattar> <http://xmlns.com/foaf/0.1/name> "Professor Naveed Sattar"  <Obesity-CNN-7> .
+ <http://example.org/DrSokoSetoguchi> <http://xmlns.com/foaf/0.1/name> "Dr. Soko Setoguchi"  <Obesity-CNN-7> .
+ <http://example.org/NewBrunswick_NewJersey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <Obesity-CNN-7> .
+ <http://example.org/NewBrunswick_NewJersey> <http://dbpedia.org/ontology/isPartOf> <http://example.org/NewJersey> <Obesity-CNN-7> .
+ <http://example.org/TomSanders> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-CNN-7> .
+ <http://example.org/ProfessorNaveedSattar> <http://dbpedia.org/ontology/occupation> <http://example.org/ProfessorOfCardiovascularAndMetabolicHealth> <Obesity-CNN-7> .
+ <http://example.org/DrBaptisteLeurent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-CNN-7> .
+ <http://example.org/NewJersey> <http://dbpedia.org/ontology/isPartOf> <http://example.org/UnitedStates> <Obesity-CNN-7> .
+ <http://example.org/DrBaptisteLeurent> <http://dbpedia.org/ontology/affiliation> <http://example.org/UniversityCollegeLondon> <Obesity-CNN-7> .
+ <http://example.org/UniversityOfGlasgow> <http://dbpedia.org/ontology/location> <http://example.org/Scotland> <Obesity-CNN-7> .
+ <http://example.org/AmericanMedicalAssociation> <http://dbpedia.org/ontology/location> <http://example.org/UnitedStates> <Obesity-CNN-7> .
+ <http://example.org/RutgersRobertWoodJohnsonMedicalSchool> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <Obesity-CNN-7> .
+ <http://example.org/DrBaptisteLeurent> <http://xmlns.com/foaf/0.1/name> "Dr. Baptiste Leurent"  <Obesity-CNN-7> .
+ <http://example.org/HarvardHealthPublishing> <http://dbpedia.org/ontology/parentOrganization> <http://example.org/HarvardMedicalSchool> <Obesity-CNN-7> .
+ <http://example.org/DrRobertHShmerling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-CNN-7> .
+ <http://example.org/KingsCollegeLondon> <http://dbpedia.org/ontology/location> <http://example.org/London> <Obesity-CNN-7> .
+ <http://example.org/HealthyWeight> <http://dbpedia.org/ontology/wikiPageDisambiguates> <http://dbpedia.org/resource/Normal_weight> <Obesity-CNN-7> .
+ <http://example.org/Obesity> <http://dbpedia.org/ontology/wikiPageDisambiguates> <http://dbpedia.org/resource/Obesity> <Obesity-CNN-7> .
+ <http://example.org/US_Centers_for_Disease_Control_and_Prevention> <http://xmlns.com/foaf/0.1/name> "US Centers for Disease Control and Prevention"  <Obesity-CNN-7> .
+ <http://example.org/Boston> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <Obesity-CNN-7> .
+ <http://example.org/TomSanders> <http://dbpedia.org/ontology/affiliation> <http://example.org/KingsCollegeLondon> <Obesity-CNN-7> .
+ <http://example.org/Massachusetts> <http://dbpedia.org/ontology/isPartOf> <http://example.org/UnitedStates> <Obesity-CNN-7> .
+ <http://example.org/Study1> <http://schema.org/conclusion> "The negative effects of excess body fat on heart health can't be canceled out by maintaining an active lifestyle."  <Obesity-CNN-8> .
+ <http://example.org/MassachusettsGeneralHospital> <http://schema.org/affiliatedWith> <http://example.org/HarvardMedicalSchool> <Obesity-CNN-8> .
+ <http://example.org/AlejandroLucia> <http://xmlns.com/foaf/0.1/name> "Alejandro Lucia"  <Obesity-CNN-8> .
+ <http://example.org/HighCholesterol> <http://schema.org/name> "High Cholesterol"  <Obesity-CNN-8> .
+ <http://example.org/CardiovascularHealth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalCondition> <Obesity-CNN-8> .
+ <http://example.org/AlejandroLucia> <http://xmlns.com/foaf/0.1/title> "Professor"  <Obesity-CNN-8> .
+ <http://example.org/BodyFatAndHeartHealth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalCondition> <Obesity-CNN-8> .
+ <http://example.org/HarvardMedicalSchool> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EducationalOrganization> <Obesity-CNN-8> .
+ <http://example.org/Study1> <http://schema.org/about> <http://example.org/BodyFatAndHeartHealth> <Obesity-CNN-8> .
+ <http://Obesity-CNN-8.com/blank#n981610cb2e124dd193b95c18b2cfeb98b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://Obesity-CNN-8.com/blank#n981610cb2e124dd193b95c18b2cfeb98b3>  <Obesity-CNN-8> .
+ <http://example.org/Study1> <http://schema.org/publishedIn> <http://example.org/EuropeanJournalOfPreventiveCardiology> <Obesity-CNN-8> .
+ <http://example.org/EuropeanUniversityOfMadrid> <http://schema.org/name> "European University of Madrid"  <Obesity-CNN-8> .
+ <http://Obesity-CNN-8.com/blank#n981610cb2e124dd193b95c18b2cfeb98b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://example.org/HighBloodPressure> <Obesity-CNN-8> .
+ <http://example.org/Diabetes> <http://schema.org/name> "Diabetes"  <Obesity-CNN-8> .
+ <http://example.org/DukeUniversitySchoolOfMedicine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EducationalOrganization> <Obesity-CNN-8> .
+ <http://example.org/EuropeanJournalOfPreventiveCardiology> <http://schema.org/isPartOf> <http://example.org/EuropeanSocietyOfCardiology> <Obesity-CNN-8> .
+ <http://example.org/AlejandroLucia> <http://schema.org/affiliation> <http://example.org/EuropeanUniversityOfMadrid> <Obesity-CNN-8> .
+ <http://example.org/HarvardMedicalSchool> <http://schema.org/name> "Harvard Medical School"  <Obesity-CNN-8> .
+ <http://example.org/BodyFatAndHeartHealth> <http://schema.org/name> "Effects of excess body fat on heart health"  <Obesity-CNN-8> .
+ <http://example.org/WorkingAdultsSpain> <http://schema.org/populationType> "Working adults from Spain"  <Obesity-CNN-8> .
+ <http://Obesity-CNN-8.com/blank#n981610cb2e124dd193b95c18b2cfeb98b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://example.org/HighCholesterol> <Obesity-CNN-8> .
+ <http://example.org/MassachusettsGeneralHospital> <http://schema.org/name> "Massachusetts General Hospital"  <Obesity-CNN-8> .
+ <http://example.org/EuropeanSocietyOfCardiology> <http://schema.org/name> "European Society of Cardiology"  <Obesity-CNN-8> .
+ <http://example.org/WorkingAdultsSpain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Population> <Obesity-CNN-8> .
+ <http://Obesity-CNN-8.com/blank#n981610cb2e124dd193b95c18b2cfeb98b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://Obesity-CNN-8.com/blank#n981610cb2e124dd193b95c18b2cfeb98b2>  <Obesity-CNN-8> .
+ <http://example.org/Study1> <http://schema.org/author> <http://example.org/AlejandroLucia> <Obesity-CNN-8> .
+ <http://example.org/EuropeanSocietyOfCardiology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Obesity-CNN-8> .
+ <http://example.org/AlejandroLucia> <http://xmlns.com/foaf/0.1/topic_interest> <http://example.org/ExercisePhysiology> <Obesity-CNN-8> .
+ <http://example.org/EuropeanJournalOfPreventiveCardiology> <http://schema.org/name> "European Journal of Preventive Cardiology"  <Obesity-CNN-8> .
+ <http://example.org/MichaelPencina> <http://xmlns.com/foaf/0.1/name> "Michael Pencina"  <Obesity-CNN-8> .
+ <http://example.org/AnthonyRosenzweig> <http://xmlns.com/foaf/0.1/name> "Anthony Rosenzweig"  <Obesity-CNN-8> .
+ <http://example.org/MichaelPencina> <http://xmlns.com/foaf/0.1/title> "Vice Dean for Data Science and Information Technology"  <Obesity-CNN-8> .
+ <http://example.org/MichaelPencina> <http://schema.org/affiliation> <http://example.org/DukeUniversitySchoolOfMedicine> <Obesity-CNN-8> .
+ <http://example.org/DukeUniversitySchoolOfMedicine> <http://schema.org/name> "Duke University School of Medicine"  <Obesity-CNN-8> .
+ <http://example.org/HighBloodPressure> <http://schema.org/name> "High Blood Pressure"  <Obesity-CNN-8> .
+ <http://example.org/MichaelPencina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-CNN-8> .
+ <http://example.org/EuropeanUniversityOfMadrid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EducationalOrganization> <Obesity-CNN-8> .
+ <http://example.org/EuropeanJournalOfPreventiveCardiology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> <Obesity-CNN-8> .
+ <http://example.org/AnthonyRosenzweig> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-CNN-8> .
+ <http://example.org/Study1> <http://schema.org/datePublished> "2023-03-30"^^<http://www.w3.org/2001/XMLSchema#date>  <Obesity-CNN-8> .
+ <http://example.org/MassachusettsGeneralHospital> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Hospital> <Obesity-CNN-8> .
+ <http://example.org/HighCholesterol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalCondition> <Obesity-CNN-8> .
+ <http://Obesity-CNN-8.com/blank#n981610cb2e124dd193b95c18b2cfeb98b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> <Obesity-CNN-8> .
+ <http://example.org/AnthonyRosenzweig> <http://schema.org/affiliation> <http://example.org/MassachusettsGeneralHospital> <Obesity-CNN-8> .
+ <http://example.org/HighBloodPressure> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalCondition> <Obesity-CNN-8> .
+ <http://example.org/CardiovascularHealth> <http://schema.org/associatedRiskFactors> <http://Obesity-CNN-8.com/blank#n981610cb2e124dd193b95c18b2cfeb98b1>  <Obesity-CNN-8> .
+ <http://example.org/Study1> <http://schema.org/studySubject> <http://example.org/WorkingAdultsSpain> <Obesity-CNN-8> .
+ <http://example.org/AlejandroLucia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-CNN-8> .
+ <http://example.org/Diabetes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalCondition> <Obesity-CNN-8> .
+ <http://example.org/WorkingAdultsSpain> <http://schema.org/healthCondition> <http://example.org/CardiovascularHealth> <Obesity-CNN-8> .
+ <http://Obesity-CNN-8.com/blank#n981610cb2e124dd193b95c18b2cfeb98b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://example.org/Diabetes> <Obesity-CNN-8> .
+ <http://example.org/WorkingAdultsSpain> <http://schema.org/numberOfParticipants> "527662"^^<http://www.w3.org/2001/XMLSchema#integer>  <Obesity-CNN-8> .
+ <http://example.org/AnthonyRosenzweig> <http://xmlns.com/foaf/0.1/title> "Chief of the Cardiology Division"  <Obesity-CNN-8> .
+ <http://example.org/WorkingAdultsSpain> <http://schema.org/averageAge> "42"^^<http://www.w3.org/2001/XMLSchema#integer>  <Obesity-CNN-8> .
+ <http://example.org/Study1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalStudy> <Obesity-CNN-8> .
+ <http://example.org/VisceralFat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BodyOfWater> <Obesity-CNN-9> .
+ <http://example.org/PlantBasedCooking> <http://dbpedia.org/ontology/ingredient> <http://dbpedia.org/resource/Extra-virgin_olive_oil> <Obesity-CNN-9> .
+ <http://example.org/Exercise> <http://dbpedia.org/ontology/includes> <http://example.org/StrengthExercises> <Obesity-CNN-9> .
+ <http://example.org/Study> <http://schema.org/name> "Effects of a Mediterranean Diet and Exercise on Body Composition"  <Obesity-CNN-9> .
+ <http://example.org/ChristopherGardner> <http://xmlns.com/foaf/0.1/name> "Dr. Christopher Gardner"  <Obesity-CNN-9> .
+ <http://example.org/VisceralFat> <http://dbpedia.org/ontology/associatedDisease> <http://dbpedia.org/resource/Heart_disease> <Obesity-CNN-9> .
+ <http://example.org/FlexibilityExercises> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PhysicalExercise> <Obesity-CNN-9> .
+ <http://example.org/SocialInteractions> <http://dbpedia.org/ontology/context> "During meals and exercise"  <Obesity-CNN-9> .
+ <http://example.org/MindfulEating> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/DietaryBehavior> <Obesity-CNN-9> .
+ <http://example.org/RandomizedClinicalTrial> <http://dbpedia.org/ontology/endDate> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Obesity-CNN-9> .
+ <http://example.org/GunterKuhnle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-CNN-9> .
+ <http://example.org/StrengthExercises> <http://dbpedia.org/ontology/objective> "To build muscle"  <Obesity-CNN-9> .
+ <http://example.org/WalterWillett> <http://dbpedia.org/ontology/workplace> <http://dbpedia.org/resource/Harvard_T.H._Chan_School_of_Public_Health> <Obesity-CNN-9> .
+ <http://example.org/GunterKuhnle> <http://dbpedia.org/ontology/workplace> <http://dbpedia.org/resource/University_of_Reading> <Obesity-CNN-9> .
+ <http://example.org/MindfulMovement> <http://dbpedia.org/ontology/includes> <http://example.org/Exercise> <Obesity-CNN-9> .
+ <http://example.org/Participants> <http://dbpedia.org/ontology/numberOfParticipants> "6874"^^<http://www.w3.org/2001/XMLSchema#integer>  <Obesity-CNN-9> .
+ <http://example.org/RandomizedClinicalTrial> <http://dbpedia.org/ontology/participant> <http://example.org/Participants> <Obesity-CNN-9> .
+ <http://example.org/ExercisePlan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PhysicalExercise> <Obesity-CNN-9> .
+ <http://example.org/ControlGroup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Group> <Obesity-CNN-9> .
+ <http://example.org/Walking> <http://dbpedia.org/ontology/duration> "45 or more minutes a day"^^<http://www.w3.org/2001/XMLSchema#string>  <Obesity-CNN-9> .
+ <http://example.org/Participants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Population> <Obesity-CNN-9> .
+ <http://example.org/PlantBasedCooking> <http://dbpedia.org/ontology/ingredient> <http://dbpedia.org/resource/Fruits> <Obesity-CNN-9> .
+ <http://example.org/BalanceExercises> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PhysicalExercise> <Obesity-CNN-9> .
+ <http://example.org/CNN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Obesity-CNN-9> .
+ <http://example.org/MediterraneanDietFeatures> <http://dbpedia.org/ontology/associatedWith> <http://example.org/MindfulEating> <Obesity-CNN-9> .
+ <http://example.org/MediterraneanDiet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Diet> <Obesity-CNN-9> .
+ <http://example.org/StrengthExercises> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PhysicalExercise> <Obesity-CNN-9> .
+ <http://example.org/RandomizedClinicalTrial> <http://dbpedia.org/ontology/startDate> "2015"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Obesity-CNN-9> .
+ <http://example.org/CNN> <http://xmlns.com/foaf/0.1/name> "CNN"  <Obesity-CNN-9> .
+ <http://example.org/MediterraneanDietExerciseGroup> <http://dbpedia.org/ontology/numberOfParticipants> "1521"^^<http://www.w3.org/2001/XMLSchema#integer>  <Obesity-CNN-9> .
+ <http://example.org/VisceralFat> <http://dbpedia.org/ontology/associatedDisease> <http://dbpedia.org/resource/Diabetes> <Obesity-CNN-9> .
+ <http://example.org/GunterKuhnle> <http://dbpedia.org/ontology/occupation> <http://example.org/Professor> <Obesity-CNN-9> .
+ <http://example.org/PlantBasedCooking> <http://dbpedia.org/ontology/ingredient> <http://dbpedia.org/resource/Nuts> <Obesity-CNN-9> .
+ <http://example.org/ChristopherGardner> <http://dbpedia.org/ontology/occupation> <http://example.org/ResearchProfessor> <Obesity-CNN-9> .
+ <http://example.org/MediterraneanDietFeatures> <http://dbpedia.org/ontology/associatedWith> <http://example.org/PlantBasedCooking> <Obesity-CNN-9> .
+ <http://example.org/WalterWillett> <http://dbpedia.org/ontology/occupation> <http://example.org/NutritionResearcher> <Obesity-CNN-9> .
+ <http://example.org/Exercise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PhysicalExercise> <Obesity-CNN-9> .
+ <http://example.org/WalterWillett> <http://xmlns.com/foaf/0.1/name> "Dr. Walter Willett"  <Obesity-CNN-9> .
+ <http://example.org/DavidKatz> <http://xmlns.com/foaf/0.1/member> <http://example.org/TrueHealthInitiative> <Obesity-CNN-9> .
+ <http://example.org/FlexibilityExercises> <http://dbpedia.org/ontology/objective> "Critical to aging well"  <Obesity-CNN-9> .
+ <http://example.org/Study> <http://schema.org/datePublished> "2023-03-29"^^<http://www.w3.org/2001/XMLSchema#date>  <Obesity-CNN-9> .
+ <http://example.org/DavidKatz> <http://xmlns.com/foaf/0.1/name> "Dr. David Katz"  <Obesity-CNN-9> .
+ <http://example.org/TrueHealthInitiative> <http://xmlns.com/foaf/0.1/name> "True Health Initiative"  <Obesity-CNN-9> .
+ <http://example.org/MediterraneanDietFeatures> <http://dbpedia.org/ontology/associatedWith> <http://example.org/SocialInteractions> <Obesity-CNN-9> .
+ <http://example.org/BalanceExercises> <http://dbpedia.org/ontology/objective> "Critical to aging well"  <Obesity-CNN-9> .
+ <http://example.org/MediterraneanDietExerciseGroup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Group> <Obesity-CNN-9> .
+ <http://example.org/Exercise> <http://dbpedia.org/ontology/includes> <http://example.org/FlexibilityExercises> <Obesity-CNN-9> .
+ <http://example.org/MediterraneanDietFeatures> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Diet> <Obesity-CNN-9> .
+ <http://example.org/MediterraneanDiet> <http://dbpedia.org/ontology/caloricContent> "Lower-calorie"  <Obesity-CNN-9> .
+ <http://example.org/MediterraneanDietExerciseGroup> <http://dbpedia.org/ontology/follows> <http://example.org/ExercisePlan> <Obesity-CNN-9> .
+ <http://example.org/TrueHealthInitiative> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Obesity-CNN-9> .
+ <http://example.org/EatingWithFriendsAndFamily> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SocialBehavior> <Obesity-CNN-9> .
+ <http://example.org/ControlGroup> <http://dbpedia.org/ontology/numberOfParticipants> "1521"^^<http://www.w3.org/2001/XMLSchema#integer>  <Obesity-CNN-9> .
+ <http://example.org/EatingWithFriendsAndFamily> <http://dbpedia.org/ontology/context> "Part of Mediterranean diet"  <Obesity-CNN-9> .
+ <http://example.org/PlantBasedCooking> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Food> <Obesity-CNN-9> .
+ <http://example.org/DavidKatz> <http://dbpedia.org/ontology/occupation> <http://example.org/Specialist> <Obesity-CNN-9> .
+ <http://example.org/GunterKuhnle> <http://xmlns.com/foaf/0.1/name> "Gunter Kuhnle"  <Obesity-CNN-9> .
+ <http://example.org/Study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AcademicJournal> <Obesity-CNN-9> .
+ <http://example.org/VisceralFat> <http://dbpedia.org/ontology/associatedDisease> <http://dbpedia.org/resource/Stroke> <Obesity-CNN-9> .
+ <http://example.org/DavidKatz> <http://dbpedia.org/ontology/specialty> <http://dbpedia.org/resource/Preventive_medicine> <Obesity-CNN-9> .
+ <http://example.org/Walking> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PhysicalExercise> <Obesity-CNN-9> .
+ <http://example.org/PlantBasedCooking> <http://dbpedia.org/ontology/ingredient> <http://dbpedia.org/resource/Seeds> <Obesity-CNN-9> .
+ <http://example.org/MediterraneanDietFeatures> <http://dbpedia.org/ontology/associatedWith> <http://example.org/MindfulMovement> <Obesity-CNN-9> .
+ <http://example.org/SocialInteractions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Activity> <Obesity-CNN-9> .
+ <http://example.org/WalterWillett> <http://dbpedia.org/ontology/workplace> <http://dbpedia.org/resource/Harvard_Medical_School> <Obesity-CNN-9> .
+ <http://example.org/SocializingOverMeals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SocialBehavior> <Obesity-CNN-9> .
+ <http://example.org/MindfulMovement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PhysicalExercise> <Obesity-CNN-9> .
+ <http://example.org/ChristopherGardner> <http://dbpedia.org/ontology/workplace> <http://dbpedia.org/resource/Stanford_Prevention_Research_Center> <Obesity-CNN-9> .
+ <http://example.org/ChristopherGardner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-CNN-9> .
+ <http://example.org/VisceralFat> <http://dbpedia.org/ontology/fatType> "Visceral"  <Obesity-CNN-9> .
+ <http://example.org/SocializingOverMeals> <http://dbpedia.org/ontology/context> "Part of Mediterranean diet"  <Obesity-CNN-9> .
+ <http://example.org/DavidKatz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-CNN-9> .
+ <http://example.org/PlantBasedCooking> <http://dbpedia.org/ontology/ingredient> <http://dbpedia.org/resource/Whole_grains> <Obesity-CNN-9> .
+ <http://example.org/MediterraneanDiet> <http://dbpedia.org/ontology/associatedDietaryPlan> <http://example.org/ExercisePlan> <Obesity-CNN-9> .
+ <http://example.org/MindfulEating> <http://dbpedia.org/ontology/includes> <http://example.org/EatingWithFriendsAndFamily> <Obesity-CNN-9> .
+ <http://example.org/RandomizedClinicalTrial> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Obesity-CNN-9> .
+ <http://example.org/PlantBasedCooking> <http://dbpedia.org/ontology/ingredient> <http://dbpedia.org/resource/Beans> <Obesity-CNN-9> .
+ <http://example.org/ExercisePlan> <http://dbpedia.org/ontology/frequency> "Up to six days a week"  <Obesity-CNN-9> .
+ <http://example.org/PlantBasedCooking> <http://dbpedia.org/ontology/ingredient> <http://dbpedia.org/resource/Vegetables> <Obesity-CNN-9> .
+ <http://example.org/MindfulEating> <http://dbpedia.org/ontology/includes> <http://example.org/SocializingOverMeals> <Obesity-CNN-9> .
+ <http://example.org/MediterraneanDietExerciseGroup> <http://dbpedia.org/ontology/follows> <http://example.org/MediterraneanDiet> <Obesity-CNN-9> .
+ <http://example.org/DavidKatz> <http://dbpedia.org/ontology/specialty> <http://dbpedia.org/resource/Lifestyle_medicine> <Obesity-CNN-9> .
+ <http://example.org/Exercise> <http://dbpedia.org/ontology/includes> <http://example.org/Walking> <Obesity-CNN-9> .
+ <http://example.org/Exercise> <http://dbpedia.org/ontology/includes> <http://example.org/BalanceExercises> <Obesity-CNN-9> .
+ <http://example.org/WalterWillett> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-CNN-9> .

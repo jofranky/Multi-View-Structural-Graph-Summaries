@@ -1,0 +1,592 @@
+ <http://example.org/DoerrSpouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <StanfordUniversity-CNN-0> .
+ <http://example.org/StanfordUniversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/University> <StanfordUniversity-CNN-0> .
+ <http://example.org/ArunMajumdar> <http://dbpedia.org/ontology/title> "Inaugural Dean"  <StanfordUniversity-CNN-0> .
+ <http://example.org/FoundingDirectorOfEnergyInnovationsAgency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <StanfordUniversity-CNN-0> .
+ <http://example.org/StanfordEarth> <http://dbpedia.org/ontology/abbreviation> "Stanford Earth"  <StanfordUniversity-CNN-0> .
+ <http://example.org/JohnDoerr> <http://dbpedia.org/ontology/spouse> <http://example.org/DoerrSpouse> <StanfordUniversity-CNN-0> .
+ <http://example.org/StanfordUniversity> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/California> <StanfordUniversity-CNN-0> .
+ <http://example.org/StanfordUniversity> <http://dbpedia.org/ontology/founder> <http://example.org/JohnDoerr> <StanfordUniversity-CNN-0> .
+ <http://example.org/StanfordDoerrSchoolOfSustainability> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <StanfordUniversity-CNN-0> .
+ <http://example.org/StanfordDoerrSchoolOfSustainability> <http://dbpedia.org/ontology/name> "Stanford Doerr School of Sustainability"  <StanfordUniversity-CNN-0> .
+ <http://example.org/ArunMajumdar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <StanfordUniversity-CNN-0> .
+ <http://example.org/DonationForStanfordDoerrSchool> <http://dbpedia.org/ontology/donor> <http://example.org/JohnDoerr> <StanfordUniversity-CNN-0> .
+ <http://example.org/TotalFundingForSustainabilityInitiative> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Donation> <StanfordUniversity-CNN-0> .
+ <http://example.org/FoundingDirectorOfEnergyInnovationsAgency> <http://dbpedia.org/ontology/organization> <http://dbpedia.org/resource/United_States_Department_of_Energy> <StanfordUniversity-CNN-0> .
+ <http://example.org/MarcTessierLavigne> <http://dbpedia.org/ontology/name> "Marc Tessier-Lavigne"  <StanfordUniversity-CNN-0> .
+ <http://example.org/StanfordDoerrSchoolOfSustainability> <http://dbpedia.org/ontology/affiliation> <http://example.org/StanfordUniversity> <StanfordUniversity-CNN-0> .
+ <http://example.org/MichaelBloomberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <StanfordUniversity-CNN-0> .
+ <http://example.org/MichaelBloomberg> <http://dbpedia.org/ontology/name> "Michael Bloomberg"  <StanfordUniversity-CNN-0> .
+ <http://example.org/DoerrSpouse> <http://dbpedia.org/ontology/name> "Mrs. Doerr"  <StanfordUniversity-CNN-0> .
+ <http://example.org/PresidentOfStanfordUniversity> <http://dbpedia.org/ontology/organization> <http://example.org/StanfordUniversity> <StanfordUniversity-CNN-0> .
+ <http://example.org/US_Energy_Secretary_Jennifer_Granholm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <StanfordUniversity-CNN-0> .
+ <http://example.org/JohnDoerr> <http://dbpedia.org/ontology/name> "John Doerr"  <StanfordUniversity-CNN-0> .
+ <http://example.org/TotalFundingForSustainabilityInitiative> <http://dbpedia.org/ontology/amount> "1600000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <StanfordUniversity-CNN-0> .
+ <http://example.org/BloombergDonationToJohnsHopkins> <http://dbpedia.org/ontology/amount> "1800000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <StanfordUniversity-CNN-0> .
+ <http://example.org/DonationForStanfordDoerrSchool> <http://dbpedia.org/ontology/amount> "1100000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <StanfordUniversity-CNN-0> .
+ <http://example.org/StanfordUniversity> <http://dbpedia.org/ontology/name> "Stanford University"  <StanfordUniversity-CNN-0> .
+ <http://example.org/BloombergDonationToJohnsHopkins> <http://dbpedia.org/ontology/recipient> <http://dbpedia.org/resource/Johns_Hopkins_University> <StanfordUniversity-CNN-0> .
+ <http://example.org/ArunMajumdar> <http://dbpedia.org/ontology/position> <http://example.org/FoundingDirectorOfEnergyInnovationsAgency> <StanfordUniversity-CNN-0> .
+ <http://example.org/StanfordEarth> <http://dbpedia.org/ontology/transitionTo> <http://example.org/StanfordDoerrSchoolOfSustainability> <StanfordUniversity-CNN-0> .
+ <http://example.org/StanfordEarth> <http://dbpedia.org/ontology/name> "School of Earth, Energy, and Environmental Sciences"  <StanfordUniversity-CNN-0> .
+ <http://example.org/US_Energy_Secretary_Jennifer_Granholm> <http://dbpedia.org/ontology/name> "Jennifer Granholm"  <StanfordUniversity-CNN-0> .
+ <http://example.org/MarcTessierLavigne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <StanfordUniversity-CNN-0> .
+ <http://example.org/ArunMajumdar> <http://dbpedia.org/ontology/name> "Arun Majumdar"  <StanfordUniversity-CNN-0> .
+ <http://example.org/BloombergDonationToJohnsHopkins> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Donation> <StanfordUniversity-CNN-0> .
+ <http://example.org/StanfordEarth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AcademicDepartment> <StanfordUniversity-CNN-0> .
+ <http://example.org/MarcTessierLavigne> <http://dbpedia.org/ontology/position> <http://example.org/PresidentOfStanfordUniversity> <StanfordUniversity-CNN-0> .
+ <http://example.org/JohnDoerr> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Venture_capitalist> <StanfordUniversity-CNN-0> .
+ <http://example.org/DonationForStanfordDoerrSchool> <http://dbpedia.org/ontology/recipient> <http://example.org/StanfordDoerrSchoolOfSustainability> <StanfordUniversity-CNN-0> .
+ <http://example.org/FoundingDirectorOfEnergyInnovationsAgency> <http://dbpedia.org/ontology/startDate> "2009"^^<http://www.w3.org/2001/XMLSchema#gYear>  <StanfordUniversity-CNN-0> .
+ <http://example.org/ArunMajumdar> <http://dbpedia.org/ontology/advisoryBoardChair> <http://example.org/US_Energy_Secretary_Jennifer_Granholm> <StanfordUniversity-CNN-0> .
+ <http://example.org/JohnDoerr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <StanfordUniversity-CNN-0> .
+ <http://example.org/MichaelBloomberg> <http://dbpedia.org/ontology/donation> <http://example.org/BloombergDonationToJohnsHopkins> <StanfordUniversity-CNN-0> .
+ <http://example.org/PresidentOfStanfordUniversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <StanfordUniversity-CNN-0> .
+ <http://example.org/StanfordUniversity> <http://dbpedia.org/ontology/establishmentDate> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <StanfordUniversity-CNN-0> .
+ <http://example.org/BloombergDonationToJohnsHopkins> <http://dbpedia.org/ontology/donor> <http://example.org/MichaelBloomberg> <StanfordUniversity-CNN-0> .
+ <http://example.org/StanfordDoerrSchoolOfSustainability> <http://dbpedia.org/ontology/foundingDate> "2023-09-01"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-CNN-0> .
+ <http://example.org/StanfordDoerrSchoolOfSustainability> <http://dbpedia.org/ontology/dean> <http://example.org/ArunMajumdar> <StanfordUniversity-CNN-0> .
+ <http://example.org/BloombergDonationToJohnsHopkins> <http://dbpedia.org/ontology/date> "2018"^^<http://www.w3.org/2001/XMLSchema#gYear>  <StanfordUniversity-CNN-0> .
+ <http://example.org/ArunMajumdar> <http://dbpedia.org/ontology/expertise> <http://example.org/SustainableEnergySolutionsAndPolicy> <StanfordUniversity-CNN-0> .
+ <http://example.org/DonationForStanfordDoerrSchool> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Donation> <StanfordUniversity-CNN-0> .
+ <http://example.org/ACCExpansionVote> <http://schema.org/result> <http://StanfordUniversity-CNN-1.com/blank#n19d09f605e3f4213801117e4ac993854b1>  <StanfordUniversity-CNN-1> .
+ <http://example.org/OregonState> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EducationalOrganization> <StanfordUniversity-CNN-1> .
+ <http://example.org/WashingtonState> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EducationalOrganization> <StanfordUniversity-CNN-1> .
+ <http://example.org/Stanford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EducationalOrganization> <StanfordUniversity-CNN-1> .
+ <http://StanfordUniversity-CNN-1.com/blank#n19d09f605e3f4213801117e4ac993854b1> <http://schema.org/agent> <http://example.org/Stanford> <StanfordUniversity-CNN-1> .
+ <http://StanfordUniversity-CNN-1.com/blank#n19d09f605e3f4213801117e4ac993854b1> <http://schema.org/agent> <http://example.org/SMU> <StanfordUniversity-CNN-1> .
+ <http://example.org/Stanford> <http://schema.org/name> "Stanford University"  <StanfordUniversity-CNN-1> .
+ <http://example.org/Cal> <http://schema.org/dateJoined> "2024-08-01"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-CNN-1> .
+ <http://example.org/ACCCompetitionParticipation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <StanfordUniversity-CNN-1> .
+ <http://example.org/ACCExpansion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <StanfordUniversity-CNN-1> .
+ <http://example.org/SMU> <http://schema.org/president> <http://example.org/RGeraldTurner> <StanfordUniversity-CNN-1> .
+ <http://example.org/OregonState> <http://schema.org/name> "Oregon State"  <StanfordUniversity-CNN-1> .
+ <http://example.org/ACCCompetitionParticipation> <http://schema.org/competitor> <http://example.org/Cal> <StanfordUniversity-CNN-1> .
+ <http://example.org/JimPhillips> <http://schema.org/jobTitle> "ACC Commissioner"  <StanfordUniversity-CNN-1> .
+ <http://example.org/ACCCompetitionParticipation> <http://schema.org/startDate> "2024-09-01"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-CNN-1> .
+ <http://example.org/ACCBoardOfDirectors> <http://schema.org/endDate> "2024-07-01"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-CNN-1> .
+ <http://example.org/ACC> <http://schema.org/member> <http://example.org/Stanford> <StanfordUniversity-CNN-1> .
+ <http://example.org/ACC> <http://schema.org/member> <http://example.org/SMU> <StanfordUniversity-CNN-1> .
+ <http://example.org/ACC> <http://schema.org/name> "Atlantic Coast Conference"  <StanfordUniversity-CNN-1> .
+ <http://example.org/ACC> <http://schema.org/numberOfEmployees> "18"^^<http://www.w3.org/2001/XMLSchema#int>  <StanfordUniversity-CNN-1> .
+ <http://example.org/ACCExpansion> <http://schema.org/endDate> "2024-08-01"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-CNN-1> .
+ <http://example.org/Cal> <http://schema.org/memberOf> <http://example.org/ACC> <StanfordUniversity-CNN-1> .
+ <http://example.org/ACCBoardOfDirectors> <http://schema.org/member> <http://example.org/JimPhillips> <StanfordUniversity-CNN-1> .
+ <http://example.org/ACCExpansion> <http://schema.org/participant> <http://example.org/Stanford> <StanfordUniversity-CNN-1> .
+ <http://example.org/ACCExpansion> <http://schema.org/participant> <http://example.org/SMU> <StanfordUniversity-CNN-1> .
+ <http://example.org/CarolChrist> <http://schema.org/name> "Carol Christ"  <StanfordUniversity-CNN-1> .
+ <http://example.org/SMU> <http://schema.org/memberOf> <http://example.org/ACC> <StanfordUniversity-CNN-1> .
+ <http://example.org/ACCExpansion> <http://schema.org/participant> <http://example.org/Cal> <StanfordUniversity-CNN-1> .
+ <http://StanfordUniversity-CNN-1.com/blank#n19d09f605e3f4213801117e4ac993854b1> <http://schema.org/startDate> "2024-07-01"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-CNN-1> .
+ <http://example.org/ACCExpansionVote> <http://schema.org/organizer> <http://example.org/ACCBoardOfDirectors> <StanfordUniversity-CNN-1> .
+ <http://example.org/ACCExpansion> <http://schema.org/location> <http://example.org/ACC> <StanfordUniversity-CNN-1> .
+ <http://example.org/ACCBoardOfDirectors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <StanfordUniversity-CNN-1> .
+ <http://example.org/SMU> <http://schema.org/dateJoined> "2024-07-01"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-CNN-1> .
+ <http://example.org/ACCExpansion> <http://schema.org/startDate> "2024-07-01"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-CNN-1> .
+ <http://example.org/RichardPSaller> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <StanfordUniversity-CNN-1> .
+ <http://example.org/Pac12> <http://schema.org/name> "Pac-12"  <StanfordUniversity-CNN-1> .
+ <http://example.org/ACCCompetitionParticipation> <http://schema.org/eventType> "SportsEvent"  <StanfordUniversity-CNN-1> .
+ <http://example.org/Pac12> <http://schema.org/member> <http://example.org/OregonState> <StanfordUniversity-CNN-1> .
+ <http://example.org/ACCCompetitionParticipation> <http://schema.org/competitor> <http://example.org/Stanford> <StanfordUniversity-CNN-1> .
+ <http://example.org/ACCCompetitionParticipation> <http://schema.org/competitor> <http://example.org/SMU> <StanfordUniversity-CNN-1> .
+ <http://example.org/Stanford> <http://schema.org/memberOf> <http://example.org/ACC> <StanfordUniversity-CNN-1> .
+ <http://example.org/ACCBoardOfDirectors> <http://schema.org/result> <http://example.org/ACCExpansionVote> <StanfordUniversity-CNN-1> .
+ <http://example.org/ACCExpansionVote> <http://schema.org/eventType> "Vote"  <StanfordUniversity-CNN-1> .
+ <http://example.org/ACCBoardOfDirectors> <http://schema.org/startDate> "2023-07-20"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-CNN-1> .
+ <http://StanfordUniversity-CNN-1.com/blank#n19d09f605e3f4213801117e4ac993854b1> <http://schema.org/agent> <http://example.org/Cal> <StanfordUniversity-CNN-1> .
+ <http://example.org/Stanford> <http://schema.org/president> <http://example.org/RichardPSaller> <StanfordUniversity-CNN-1> .
+ <http://example.org/Cal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EducationalOrganization> <StanfordUniversity-CNN-1> .
+ <http://example.org/SMU> <http://schema.org/name> "Southern Methodist University"  <StanfordUniversity-CNN-1> .
+ <http://example.org/Pac12> <http://schema.org/member> <http://example.org/WashingtonState> <StanfordUniversity-CNN-1> .
+ <http://example.org/RGeraldTurner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <StanfordUniversity-CNN-1> .
+ <http://example.org/JimPhillips> <http://schema.org/affiliation> <http://example.org/ACC> <StanfordUniversity-CNN-1> .
+ <http://example.org/ACCExpansionVote> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <StanfordUniversity-CNN-1> .
+ <http://example.org/SMU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EducationalOrganization> <StanfordUniversity-CNN-1> .
+ <http://example.org/Cal> <http://schema.org/name> "University of California-Berkeley"  <StanfordUniversity-CNN-1> .
+ <http://example.org/ACCBoardOfDirectors> <http://schema.org/actionStatus> "CompletedActionStatus"  <StanfordUniversity-CNN-1> .
+ <http://example.org/ACCExpansion> <http://schema.org/eventType> "Expansion"  <StanfordUniversity-CNN-1> .
+ <http://StanfordUniversity-CNN-1.com/blank#n19d09f605e3f4213801117e4ac993854b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JoinAction> <StanfordUniversity-CNN-1> .
+ <http://example.org/Pac12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsOrganization> <StanfordUniversity-CNN-1> .
+ <http://example.org/ACCCompetitionParticipation> <http://schema.org/organizer> <http://example.org/ACC> <StanfordUniversity-CNN-1> .
+ <http://example.org/ACC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsOrganization> <StanfordUniversity-CNN-1> .
+ <http://example.org/Stanford> <http://schema.org/dateJoined> "2024-08-01"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-CNN-1> .
+ <http://example.org/ACC> <http://schema.org/member> <http://example.org/Cal> <StanfordUniversity-CNN-1> .
+ <http://example.org/ACCExpansion> <http://schema.org/organizer> <http://example.org/ACC> <StanfordUniversity-CNN-1> .
+ <http://example.org/RGeraldTurner> <http://schema.org/name> "R. Gerald Turner"  <StanfordUniversity-CNN-1> .
+ <http://example.org/WashingtonState> <http://schema.org/name> "Washington State"  <StanfordUniversity-CNN-1> .
+ <http://example.org/CarolChrist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <StanfordUniversity-CNN-1> .
+ <http://example.org/RichardPSaller> <http://schema.org/name> "Richard P. Saller"  <StanfordUniversity-CNN-1> .
+ <http://example.org/JimPhillips> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <StanfordUniversity-CNN-1> .
+ <http://example.org/Cal> <http://schema.org/chancellor> <http://example.org/CarolChrist> <StanfordUniversity-CNN-1> .
+ <http://example.org/KatieMeyer> <http://xmlns.com/foaf/0.1/name> "Katie Meyer"  <StanfordUniversity-CNN-2> .
+ <http://example.org/BazelonCenterForMentalHealthLaw> <http://xmlns.com/foaf/0.1/name> "Bazelon Center for Mental Health Law"  <StanfordUniversity-CNN-2> .
+ <http://example.org/AmericansWithDisabilitiesAct> <http://dbpedia.org/ontology/title> "Americans with Disabilities Act"  <StanfordUniversity-CNN-2> .
+ <http://example.org/HistoryDepartment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <StanfordUniversity-CNN-2> .
+ <http://example.org/BazelonCenterForMentalHealthLaw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <StanfordUniversity-CNN-2> .
+ <http://example.org/TheBrightAges> <http://dbpedia.org/ontology/author> <http://example.org/davidMPerry> <StanfordUniversity-CNN-2> .
+ <http://example.org/StudentAthlete> <http://www.w3.org/2000/01/rdf-schema#label> "student-athlete"@en  <StanfordUniversity-CNN-2> .
+ <http://example.org/davidMPerry> <http://xmlns.com/foaf/0.1/account> <http://StanfordUniversity-CNN-2.com/blank#n0e5409565c004a0180d5a44c37695d4fb1>  <StanfordUniversity-CNN-2> .
+ <http://example.org/HistoryDepartment> <http://xmlns.com/foaf/0.1/name> "History Department"  <StanfordUniversity-CNN-2> .
+ <http://example.org/StudentAthlete> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <StanfordUniversity-CNN-2> .
+ <http://example.org/davidMPerry> <http://dbpedia.org/ontology/occupation> <http://example.org/Journalist> <StanfordUniversity-CNN-2> .
+ <http://example.org/JayRuderman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-CNN-2> .
+ <http://StanfordUniversity-CNN-2.com/blank#n0e5409565c004a0180d5a44c37695d4fb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPosting> <StanfordUniversity-CNN-2> .
+ <http://example.org/Journalist> <http://www.w3.org/2000/01/rdf-schema#label> "journalist"@en  <StanfordUniversity-CNN-2> .
+ <http://example.org/TheBrightAges> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Book> <StanfordUniversity-CNN-2> .
+ <http://example.org/MonicaPorter> <http://xmlns.com/foaf/0.1/name> "Monica Porter"  <StanfordUniversity-CNN-2> .
+ <http://example.org/President> <http://www.w3.org/2000/01/rdf-schema#label> "President"@en  <StanfordUniversity-CNN-2> .
+ <http://example.org/JayRuderman> <http://dbpedia.org/ontology/occupation> <http://example.org/President> <StanfordUniversity-CNN-2> .
+ <http://example.org/JayRuderman> <http://xmlns.com/foaf/0.1/name> "Jay Ruderman"  <StanfordUniversity-CNN-2> .
+ <http://example.org/ExecutiveDirector> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <StanfordUniversity-CNN-2> .
+ <http://example.org/davidMPerry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-CNN-2> .
+ <http://example.org/HarvardLawSchool> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <StanfordUniversity-CNN-2> .
+ <http://example.org/davidMPerry> <http://xmlns.com/foaf/0.1/title> "Associate Director of Undergraduate Studies"  <StanfordUniversity-CNN-2> .
+ <http://example.org/Historian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Profession> <StanfordUniversity-CNN-2> .
+ <http://example.org/PolicyLegalAdvocacyAttorney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <StanfordUniversity-CNN-2> .
+ <http://example.org/MonicaPorter> <http://dbpedia.org/ontology/occupation> <http://example.org/PolicyLegalAdvocacyAttorney> <StanfordUniversity-CNN-2> .
+ <http://example.org/Historian> <http://www.w3.org/2000/01/rdf-schema#label> "historian"@en  <StanfordUniversity-CNN-2> .
+ <http://example.org/davidMPerry> <http://dbpedia.org/ontology/employer> <http://example.org/UniversityOfMinnesota> <StanfordUniversity-CNN-2> .
+ <http://example.org/UniversityOfMinnesota> <http://xmlns.com/foaf/0.1/name> "University of Minnesota"  <StanfordUniversity-CNN-2> .
+ <http://example.org/UniversityOfMinnesota> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <StanfordUniversity-CNN-2> .
+ <http://example.org/BostonUniversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <StanfordUniversity-CNN-2> .
+ <http://example.org/YaleUniversity> <http://xmlns.com/foaf/0.1/name> "Yale University"  <StanfordUniversity-CNN-2> .
+ <http://example.org/988SuicideAndCrisisLifeline> <http://xmlns.com/foaf/0.1/homepage> <https://988lifeline.org/> <StanfordUniversity-CNN-2> .
+ <http://example.org/AmericansWithDisabilitiesAct> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Legislation> <StanfordUniversity-CNN-2> .
+ <http://example.org/RudermanFamilyFoundation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <StanfordUniversity-CNN-2> .
+ <http://example.org/PolicyLegalAdvocacyAttorney> <http://www.w3.org/2000/01/rdf-schema#label> "Policy & Legal Advocacy Attorney"@en  <StanfordUniversity-CNN-2> .
+ <http://example.org/ConnecticutLegalRightsProjectInc> <http://xmlns.com/foaf/0.1/name> "Connecticut Legal Rights Project, Inc."  <StanfordUniversity-CNN-2> .
+ <http://example.org/davidMPerry> <http://dbpedia.org/ontology/occupation> <http://example.org/Historian> <StanfordUniversity-CNN-2> .
+ <http://example.org/988SuicideAndCrisisLifeline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <StanfordUniversity-CNN-2> .
+ <http://example.org/Journalist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Profession> <StanfordUniversity-CNN-2> .
+ <http://StanfordUniversity-CNN-2.com/blank#n0e5409565c004a0180d5a44c37695d4fb1> <http://schema.org/accountServiceHomepage> <https://twitter.com/> <StanfordUniversity-CNN-2> .
+ <http://example.org/KatieMeyer> <http://dbpedia.org/ontology/athlete> <http://example.org/StudentAthlete> <StanfordUniversity-CNN-2> .
+ <http://example.org/ExecutiveDirector> <http://www.w3.org/2000/01/rdf-schema#label> "Executive Director"@en  <StanfordUniversity-CNN-2> .
+ <http://example.org/TheBrightAges> <http://dbpedia.org/ontology/title> "The Bright Ages: A New History of Medieval Europe"  <StanfordUniversity-CNN-2> .
+ <http://StanfordUniversity-CNN-2.com/blank#n0e5409565c004a0180d5a44c37695d4fb1> <http://xmlns.com/foaf/0.1/accountName> "David M. Perry"  <StanfordUniversity-CNN-2> .
+ <http://example.org/MonicaPorter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-CNN-2> .
+ <http://example.org/KatieMeyer> <http://dbpedia.org/ontology/almaMater> <http://example.org/StanfordUniversity> <StanfordUniversity-CNN-2> .
+ <http://example.org/BostonUniversity> <http://xmlns.com/foaf/0.1/name> "Boston University"  <StanfordUniversity-CNN-2> .
+ <http://example.org/davidMPerry> <http://schema.org/memberOf> <http://example.org/HistoryDepartment> <StanfordUniversity-CNN-2> .
+ <http://example.org/KatieMeyer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-CNN-2> .
+ <http://example.org/davidMPerry> <http://xmlns.com/foaf/0.1/name> "David M. Perry"  <StanfordUniversity-CNN-2> .
+ <http://example.org/President> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <StanfordUniversity-CNN-2> .
+ <http://example.org/KathyFlaherty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-CNN-2> .
+ <http://example.org/KathyFlaherty> <http://dbpedia.org/ontology/almaMater> <http://example.org/HarvardLawSchool> <StanfordUniversity-CNN-2> .
+ <http://example.org/ConnecticutLegalRightsProjectInc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <StanfordUniversity-CNN-2> .
+ <http://example.org/RudermanFamilyFoundation> <http://xmlns.com/foaf/0.1/name> "Ruderman Family Foundation"  <StanfordUniversity-CNN-2> .
+ <http://example.org/StanfordUniversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <StanfordUniversity-CNN-2> .
+ <http://example.org/988SuicideAndCrisisLifeline> <http://xmlns.com/foaf/0.1/name> "988 Suicide and Crisis Lifeline"  <StanfordUniversity-CNN-2> .
+ <http://example.org/YaleUniversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <StanfordUniversity-CNN-2> .
+ <http://example.org/StanfordUniversity> <http://xmlns.com/foaf/0.1/name> "Stanford University"  <StanfordUniversity-CNN-2> .
+ <http://example.org/KathyFlaherty> <http://dbpedia.org/ontology/occupation> <http://example.org/ExecutiveDirector> <StanfordUniversity-CNN-2> .
+ <http://example.org/KathyFlaherty> <http://xmlns.com/foaf/0.1/name> "Kathy Flaherty"  <StanfordUniversity-CNN-2> .
+ <http://example.org/AmericansWithDisabilitiesAct> <http://dbpedia.org/ontology/date> "1990-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-CNN-2> .
+ <http://example.org/HarvardLawSchool> <http://xmlns.com/foaf/0.1/name> "Harvard Law School"  <StanfordUniversity-CNN-2> .
+ <http://example.org/ArizonaWildcats> <http://schema.org/sport> "Women's College Basketball"  <StanfordUniversity-CNN-3> .
+ <http://example.org/AdiaBarnes> <http://schema.org/age> "44"^^<http://www.w3.org/2001/XMLSchema#integer>  <StanfordUniversity-CNN-3> .
+ <http://StanfordUniversity-CNN-3.com/blank#nf762bfab0a3a4977a386adfa7842d66db4> <http://schema.org/additionalType> "NCAA Tournament Appearances"  <StanfordUniversity-CNN-3> .
+ <http://example.org/StanfordCardinal> <http://schema.org/record> <http://StanfordUniversity-CNN-3.com/blank#nf762bfab0a3a4977a386adfa7842d66db1>  <StanfordUniversity-CNN-3> .
+ <http://example.org/ArizonaWildcats> <http://schema.org/coach> <http://example.org/AdiaBarnes> <StanfordUniversity-CNN-3> .
+ <http://example.org/StanfordCardinal> <http://schema.org/sport> "Women's College Basketball"  <StanfordUniversity-CNN-3> .
+ <http://example.org/AlamodomeSanAntonioTexas> <http://schema.org/name> "Alamodome in San Antonio, Texas"  <StanfordUniversity-CNN-3> .
+ <http://example.org/HaleyJones> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <StanfordUniversity-CNN-3> .
+ <http://example.org/HaleyJones> <http://schema.org/name> "Haley Jones"  <StanfordUniversity-CNN-3> .
+ <http://StanfordUniversity-CNN-3.com/blank#nf762bfab0a3a4977a386adfa7842d66db1> <http://schema.org/additionalType> "National Championship Wins"  <StanfordUniversity-CNN-3> .
+ <http://example.org/AdiaBarnes> <http://schema.org/name> "Adia Barnes"  <StanfordUniversity-CNN-3> .
+ <http://example.org/ArizonaWildcats> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <StanfordUniversity-CNN-3> .
+ <http://example.org/Pac12Conference> <http://schema.org/name> "Pac-12 Conference"  <StanfordUniversity-CNN-3> .
+ <http://example.org/NCAATournament2021> <http://schema.org/location> <http://example.org/AlamodomeSanAntonioTexas> <StanfordUniversity-CNN-3> .
+ <http://example.org/AariMcDonald> <http://schema.org/memberOf> <http://example.org/ArizonaWildcats> <StanfordUniversity-CNN-3> .
+ <http://StanfordUniversity-CNN-3.com/blank#nf762bfab0a3a4977a386adfa7842d66db2> <http://schema.org/amount> "24"^^<http://www.w3.org/2001/XMLSchema#integer>  <StanfordUniversity-CNN-3> .
+ <http://StanfordUniversity-CNN-3.com/blank#nf762bfab0a3a4977a386adfa7842d66db4> <http://schema.org/date> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <StanfordUniversity-CNN-3> .
+ <http://example.org/HaleyJones> <http://schema.org/pointsScored> "17"^^<http://www.w3.org/2001/XMLSchema#integer>  <StanfordUniversity-CNN-3> .
+ <http://example.org/AariMcDonald> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <StanfordUniversity-CNN-3> .
+ <http://example.org/NCAATournament2021> <http://schema.org/name> "2021 NCAA Women's Basketball Tournament"  <StanfordUniversity-CNN-3> .
+ <http://StanfordUniversity-CNN-3.com/blank#nf762bfab0a3a4977a386adfa7842d66db4> <http://schema.org/amount> "1"^^<http://www.w3.org/2001/XMLSchema#integer>  <StanfordUniversity-CNN-3> .
+ <http://example.org/TaraVanDerveer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <StanfordUniversity-CNN-3> .
+ <http://example.org/AdiaBarnes> <http://schema.org/worksFor> <http://example.org/ArizonaWildcats> <StanfordUniversity-CNN-3> .
+ <http://example.org/NCAATournament2021> <http://schema.org/startDate> "2021-03-21"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-CNN-3> .
+ <http://example.org/TaraVanDerveer> <http://schema.org/jobTitle> "Head Coach"  <StanfordUniversity-CNN-3> .
+ <http://example.org/TaraVanDerveer> <http://schema.org/achievement> "Winningest head coach in women's basketball history"  <StanfordUniversity-CNN-3> .
+ <http://example.org/HaleyJones> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Athlete> <StanfordUniversity-CNN-3> .
+ <http://example.org/HaleyJones> <http://schema.org/memberOf> <http://example.org/StanfordCardinal> <StanfordUniversity-CNN-3> .
+ <http://example.org/TaraVanDerveer> <http://schema.org/name> "Tara VanDerveer"  <StanfordUniversity-CNN-3> .
+ <http://example.org/AariMcDonald> <http://schema.org/pointsScored> "22"^^<http://www.w3.org/2001/XMLSchema#integer>  <StanfordUniversity-CNN-3> .
+ <http://example.org/ArizonaWildcats> <http://schema.org/memberOf> <http://example.org/Pac12Conference> <StanfordUniversity-CNN-3> .
+ <http://example.org/StanfordCardinal> <http://schema.org/memberOf> <http://example.org/Pac12Conference> <StanfordUniversity-CNN-3> .
+ <http://example.org/StanfordCardinal> <http://schema.org/coach> <http://example.org/TaraVanDerveer> <StanfordUniversity-CNN-3> .
+ <http://example.org/StanfordCardinal> <http://schema.org/location> <http://example.org/AlamodomeSanAntonioTexas> <StanfordUniversity-CNN-3> .
+ <http://example.org/HaleyJones> <http://schema.org/award> "Tournament's most outstanding player"  <StanfordUniversity-CNN-3> .
+ <http://StanfordUniversity-CNN-3.com/blank#nf762bfab0a3a4977a386adfa7842d66db3> <http://schema.org/amount> "14"^^<http://www.w3.org/2001/XMLSchema#integer>  <StanfordUniversity-CNN-3> .
+ <http://StanfordUniversity-CNN-3.com/blank#nf762bfab0a3a4977a386adfa7842d66db5> <http://schema.org/amount> "3"^^<http://www.w3.org/2001/XMLSchema#integer>  <StanfordUniversity-CNN-3> .
+ <http://example.org/Pac12Conference> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsOrganization> <StanfordUniversity-CNN-3> .
+ <http://example.org/NCAATournament2021> <http://schema.org/winner> <http://example.org/StanfordCardinal> <StanfordUniversity-CNN-3> .
+ <http://example.org/AlamodomeSanAntonioTexas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <StanfordUniversity-CNN-3> .
+ <http://example.org/NCAATournament2021> <http://schema.org/competitor> <http://example.org/StanfordCardinal> <StanfordUniversity-CNN-3> .
+ <http://example.org/AdiaBarnes> <http://schema.org/gender> "female"  <StanfordUniversity-CNN-3> .
+ <http://example.org/NCAATournament2021> <http://schema.org/endDate> "2021-04-04"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-CNN-3> .
+ <http://StanfordUniversity-CNN-3.com/blank#nf762bfab0a3a4977a386adfa7842d66db3> <http://schema.org/additionalType> "Pac-12 Tournament Championships"  <StanfordUniversity-CNN-3> .
+ <http://example.org/NCAATournament2021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <StanfordUniversity-CNN-3> .
+ <http://example.org/TaraVanDerveer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Coach> <StanfordUniversity-CNN-3> .
+ <http://StanfordUniversity-CNN-3.com/blank#nf762bfab0a3a4977a386adfa7842d66db5> <http://schema.org/additionalType> "Games Against Stanford This Season"  <StanfordUniversity-CNN-3> .
+ <http://example.org/AdiaBarnes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <StanfordUniversity-CNN-3> .
+ <http://example.org/ArizonaWildcats> <http://schema.org/record> <http://StanfordUniversity-CNN-3.com/blank#nf762bfab0a3a4977a386adfa7842d66db4>  <StanfordUniversity-CNN-3> .
+ <http://example.org/ArizonaWildcats> <http://schema.org/athlete> <http://example.org/AariMcDonald> <StanfordUniversity-CNN-3> .
+ <http://example.org/StanfordCardinal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <StanfordUniversity-CNN-3> .
+ <http://example.org/AdiaBarnes> <http://schema.org/jobTitle> "Head Coach"  <StanfordUniversity-CNN-3> .
+ <http://StanfordUniversity-CNN-3.com/blank#nf762bfab0a3a4977a386adfa7842d66db5> <http://schema.org/outcome> "Lost"  <StanfordUniversity-CNN-3> .
+ <http://example.org/AariMcDonald> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Athlete> <StanfordUniversity-CNN-3> .
+ <http://example.org/StanfordCardinal> <http://schema.org/name> "Stanford Cardinal"  <StanfordUniversity-CNN-3> .
+ <http://example.org/NCAATournament2021> <http://schema.org/competitor> <http://example.org/ArizonaWildcats> <StanfordUniversity-CNN-3> .
+ <http://StanfordUniversity-CNN-3.com/blank#nf762bfab0a3a4977a386adfa7842d66db1> <http://schema.org/amount> "3"^^<http://www.w3.org/2001/XMLSchema#integer>  <StanfordUniversity-CNN-3> .
+ <http://example.org/TaraVanDerveer> <http://schema.org/gender> "female"  <StanfordUniversity-CNN-3> .
+ <http://example.org/TaraVanDerveer> <http://schema.org/numberOfSeasons> "35"^^<http://www.w3.org/2001/XMLSchema#integer>  <StanfordUniversity-CNN-3> .
+ <http://example.org/StanfordCardinal> <http://schema.org/record> <http://StanfordUniversity-CNN-3.com/blank#nf762bfab0a3a4977a386adfa7842d66db3>  <StanfordUniversity-CNN-3> .
+ <http://example.org/NCAATournament2021> <http://schema.org/eventStatus> "Completed"  <StanfordUniversity-CNN-3> .
+ <http://example.org/ArizonaWildcats> <http://schema.org/record> <http://StanfordUniversity-CNN-3.com/blank#nf762bfab0a3a4977a386adfa7842d66db5>  <StanfordUniversity-CNN-3> .
+ <http://StanfordUniversity-CNN-3.com/blank#nf762bfab0a3a4977a386adfa7842d66db1> <http://schema.org/date> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <StanfordUniversity-CNN-3> .
+ <http://example.org/ArizonaWildcats> <http://schema.org/name> "Arizona Wildcats"  <StanfordUniversity-CNN-3> .
+ <http://example.org/TaraVanDerveer> <http://schema.org/worksFor> <http://example.org/StanfordCardinal> <StanfordUniversity-CNN-3> .
+ <http://example.org/StanfordCardinal> <http://schema.org/record> <http://StanfordUniversity-CNN-3.com/blank#nf762bfab0a3a4977a386adfa7842d66db2>  <StanfordUniversity-CNN-3> .
+ <http://example.org/AariMcDonald> <http://schema.org/name> "Aari McDonald"  <StanfordUniversity-CNN-3> .
+ <http://example.org/StanfordCardinal> <http://schema.org/athlete> <http://example.org/HaleyJones> <StanfordUniversity-CNN-3> .
+ <http://StanfordUniversity-CNN-3.com/blank#nf762bfab0a3a4977a386adfa7842d66db2> <http://schema.org/additionalType> "Pac-12 Regular Season Championships"  <StanfordUniversity-CNN-3> .
+ <http://example.org/AdiaBarnes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Coach> <StanfordUniversity-CNN-3> .
+ <http://example.org/WomensFencing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <StanfordUniversity-CNN-4> .
+ <http://example.org/MensVolleyball> <http://schema.org/sport> "Men's Volleyball"  <StanfordUniversity-CNN-4> .
+ <http://example.org/AthleticScholarships> <http://schema.org/provider> <http://example.org/StanfordUniversity> <StanfordUniversity-CNN-4> .
+ <http://example.org/EconomicDeficit> <http://schema.org/description> "The athletics program has been carrying an economic deficit for years, which was exacerbated by the COVID-19 pandemic."  <StanfordUniversity-CNN-4> .
+ <http://example.org/VarsitySports> <http://schema.org/numberOfItems> "36"^^<http://www.w3.org/2001/XMLSchema#int>  <StanfordUniversity-CNN-4> .
+ <http://example.org/AlexanderMassialas> <http://schema.org/award> "2016 Olympic silver medal"  <StanfordUniversity-CNN-4> .
+ <http://example.org/CutVarsitySports> <http://schema.org/subEvent> <http://example.org/LightweightRowing> <StanfordUniversity-CNN-4> .
+ <http://example.org/Wrestling> <http://schema.org/sport> "Wrestling"  <StanfordUniversity-CNN-4> .
+ <http://example.org/EconomicDeficit> <http://schema.org/contributor> <http://example.org/COVID19Pandemic> <StanfordUniversity-CNN-4> .
+ <http://example.org/AthleticsProgram> <http://schema.org/employee> <http://example.org/AlexanderMassialas> <StanfordUniversity-CNN-4> .
+ <http://example.org/MensFencing> <http://schema.org/sport> "Men's Fencing"  <StanfordUniversity-CNN-4> .
+ <http://example.org/MensRowing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <StanfordUniversity-CNN-4> .
+ <http://example.org/CutVarsitySports> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <StanfordUniversity-CNN-4> .
+ <http://example.org/RayBlake> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <StanfordUniversity-CNN-4> .
+ <http://example.org/CutVarsitySports> <http://schema.org/subEvent> <http://example.org/Wrestling> <StanfordUniversity-CNN-4> .
+ <http://example.org/AthleticsProgram> <http://schema.org/employee> <http://example.org/RayBlake> <StanfordUniversity-CNN-4> .
+ <http://example.org/VarsitySports> <http://schema.org/name> "Stanford University Varsity Sports"  <StanfordUniversity-CNN-4> .
+ <http://example.org/AlexanderMassialas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <StanfordUniversity-CNN-4> .
+ <http://example.org/CutVarsitySports> <http://schema.org/subEvent> <http://example.org/MensRowing> <StanfordUniversity-CNN-4> .
+ <http://example.org/SeverancePay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MonetaryAmount> <StanfordUniversity-CNN-4> .
+ <http://example.org/SupportStaff> <http://schema.org/jobTitle> "Support Staff"  <StanfordUniversity-CNN-4> .
+ <http://example.org/EconomicDeficit> <http://schema.org/organizer> <http://example.org/AthleticsProgram> <StanfordUniversity-CNN-4> .
+ <http://example.org/CutVarsitySports> <http://schema.org/subEvent> <http://example.org/WomensSailing> <StanfordUniversity-CNN-4> .
+ <http://example.org/RayBlake> <http://schema.org/sameAs> <https://twitter.com/RayBlake> <StanfordUniversity-CNN-4> .
+ <http://example.org/CutVarsitySports> <http://schema.org/subEvent> <http://example.org/MensVolleyball> <StanfordUniversity-CNN-4> .
+ <http://example.org/COVID19Pandemic> <http://schema.org/name> "COVID-19 Pandemic"  <StanfordUniversity-CNN-4> .
+ <http://example.org/Wrestling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <StanfordUniversity-CNN-4> .
+ <http://example.org/FinancialShortfall> <http://schema.org/description> "Projected financial shortfall over the next three years due to the COVID-19 impact."  <StanfordUniversity-CNN-4> .
+ <http://example.org/StanfordUniversity> <http://schema.org/name> "Stanford University"  <StanfordUniversity-CNN-4> .
+ <http://example.org/WomensSailing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <StanfordUniversity-CNN-4> .
+ <http://example.org/CutVarsitySports> <http://schema.org/eventStatus> <http://schema.org/EventCancelled> <StanfordUniversity-CNN-4> .
+ <http://example.org/SynchronizedSwimming> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <StanfordUniversity-CNN-4> .
+ <http://example.org/CoedSailing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <StanfordUniversity-CNN-4> .
+ <http://example.org/SeverancePay> <http://schema.org/description> "Severance pay to be given to affected support staff by Stanford University."  <StanfordUniversity-CNN-4> .
+ <http://example.org/CutVarsitySports> <http://schema.org/subEvent> <http://example.org/Squash> <StanfordUniversity-CNN-4> .
+ <http://example.org/OpenLetter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <StanfordUniversity-CNN-4> .
+ <http://example.org/CoedSailing> <http://schema.org/sport> "Co-ed Sailing"  <StanfordUniversity-CNN-4> .
+ <http://example.org/LightweightRowing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <StanfordUniversity-CNN-4> .
+ <http://example.org/FinancialShortfall> <http://schema.org/currency> "USD"  <StanfordUniversity-CNN-4> .
+ <http://example.org/WomensSailing> <http://schema.org/sport> "Women's Sailing"  <StanfordUniversity-CNN-4> .
+ <http://example.org/ScholarshipHonor> <http://schema.org/result> <http://example.org/AthleticScholarships> <StanfordUniversity-CNN-4> .
+ <http://example.org/AthleticsProgram> <http://schema.org/sport> <http://example.org/VarsitySports> <StanfordUniversity-CNN-4> .
+ <http://example.org/FieldHockey> <http://schema.org/sport> "Field Hockey"  <StanfordUniversity-CNN-4> .
+ <http://example.org/OpenLetter> <http://schema.org/author> <http://example.org/StanfordUniversity> <StanfordUniversity-CNN-4> .
+ <http://example.org/VarsitySports> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <StanfordUniversity-CNN-4> .
+ <http://example.org/Squash> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <StanfordUniversity-CNN-4> .
+ <http://example.org/SynchronizedSwimming> <http://schema.org/sport> "Synchronized Swimming"  <StanfordUniversity-CNN-4> .
+ <http://example.org/AthleticsProgram> <http://schema.org/employee> <http://example.org/SupportStaff> <StanfordUniversity-CNN-4> .
+ <http://example.org/OpenLetter> <http://schema.org/text> "This is heartbreaking news to share. These 11 programs consist of more than 240 incredible student-athletes and 22 dedicated coaches. They were built by more than 4,000 alumni whose contributions led to 20 national championships, 27 Olympic medals, and an untold number of academic and professional achievements."  <StanfordUniversity-CNN-4> .
+ <http://example.org/AthleticsProgram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsOrganization> <StanfordUniversity-CNN-4> .
+ <http://example.org/AthleticsProgram> <http://schema.org/name> "Stanford University Athletics Program"  <StanfordUniversity-CNN-4> .
+ <http://example.org/StanfordUniversity> <http://schema.org/subOrganization> <http://example.org/AthleticsProgram> <StanfordUniversity-CNN-4> .
+ <http://example.org/CutVarsitySports> <http://schema.org/subEvent> <http://example.org/FieldHockey> <StanfordUniversity-CNN-4> .
+ <http://example.org/AlexanderMassialas> <http://schema.org/sameAs> <https://www.instagram.com/AlexanderMassialas> <StanfordUniversity-CNN-4> .
+ <http://example.org/CutVarsitySports> <http://schema.org/subEvent> <http://example.org/SynchronizedSwimming> <StanfordUniversity-CNN-4> .
+ <http://example.org/LightweightRowing> <http://schema.org/sport> "Lightweight Rowing"  <StanfordUniversity-CNN-4> .
+ <http://example.org/CutVarsitySports> <http://schema.org/organizer> <http://example.org/StanfordUniversity> <StanfordUniversity-CNN-4> .
+ <http://example.org/AthleticScholarships> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ProgramMembership> <StanfordUniversity-CNN-4> .
+ <http://example.org/EconomicDeficit> <http://schema.org/name> "Economic Deficit in Stanford Athletics Program"  <StanfordUniversity-CNN-4> .
+ <http://example.org/CutVarsitySports> <http://schema.org/subEvent> <http://example.org/CoedSailing> <StanfordUniversity-CNN-4> .
+ <http://example.org/EconomicDeficit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <StanfordUniversity-CNN-4> .
+ <http://example.org/RayBlake> <http://schema.org/jobTitle> "Associate Head Wrestling Coach"  <StanfordUniversity-CNN-4> .
+ <http://example.org/FinancialShortfall> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MonetaryAmount> <StanfordUniversity-CNN-4> .
+ <http://example.org/CutVarsitySports> <http://schema.org/subEvent> <http://example.org/WomensFencing> <StanfordUniversity-CNN-4> .
+ <http://example.org/FinancialShortfall> <http://schema.org/value> "70000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <StanfordUniversity-CNN-4> .
+ <http://example.org/StanfordUniversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EducationalOrganization> <StanfordUniversity-CNN-4> .
+ <http://example.org/COVID19Pandemic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <StanfordUniversity-CNN-4> .
+ <http://example.org/RayBlake> <http://schema.org/affiliation> <http://example.org/StanfordUniversity> <StanfordUniversity-CNN-4> .
+ <http://example.org/Squash> <http://schema.org/sport> "Squash"  <StanfordUniversity-CNN-4> .
+ <http://example.org/CutVarsitySports> <http://schema.org/startDate> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <StanfordUniversity-CNN-4> .
+ <http://example.org/MensVolleyball> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <StanfordUniversity-CNN-4> .
+ <http://example.org/AthleticScholarships> <http://schema.org/programName> "Athletic Scholarships"  <StanfordUniversity-CNN-4> .
+ <http://example.org/FieldHockey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <StanfordUniversity-CNN-4> .
+ <http://example.org/ScholarshipHonor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Action> <StanfordUniversity-CNN-4> .
+ <http://example.org/CutVarsitySports> <http://schema.org/name> "Cutting of 11 Varsity Sports"  <StanfordUniversity-CNN-4> .
+ <http://example.org/SupportStaff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <StanfordUniversity-CNN-4> .
+ <http://example.org/CutVarsitySports> <http://schema.org/subEvent> <http://example.org/MensFencing> <StanfordUniversity-CNN-4> .
+ <http://example.org/WomensFencing> <http://schema.org/sport> "Women's Fencing"  <StanfordUniversity-CNN-4> .
+ <http://example.org/ScholarshipHonor> <http://schema.org/agent> <http://example.org/StanfordUniversity> <StanfordUniversity-CNN-4> .
+ <http://example.org/MensRowing> <http://schema.org/sport> "Men's Rowing"  <StanfordUniversity-CNN-4> .
+ <http://example.org/AlexanderMassialas> <http://schema.org/award> "2016 Olympic bronze medal"  <StanfordUniversity-CNN-4> .
+ <http://example.org/AlexanderMassialas> <http://schema.org/alumniOf> <http://example.org/StanfordUniversity> <StanfordUniversity-CNN-4> .
+ <http://example.org/MensFencing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <StanfordUniversity-CNN-4> .
+ <http://example.org/SupportStaff> <http://schema.org/affiliation> <http://example.org/StanfordUniversity> <StanfordUniversity-CNN-4> .
+ <http://example.org/CurrySocializing> <http://schema.org/description> "William Curry socialized with other residents and was let into dorms by some resident assistants"  <StanfordUniversity-CNN-5> .
+ <http://example.org/IncidentReport> <http://schema.org/description> "Report on William Curry illegally living on Stanford University campus"  <StanfordUniversity-CNN-5> .
+ <http://example.org/StanfordUniversity> <http://schema.org/subOrganization> <http://example.org/PublicSafetyDepartment> <StanfordUniversity-CNN-5> .
+ <http://example.org/IncidentReport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> <StanfordUniversity-CNN-5> .
+ <http://example.org/CurryCaughtEvent> <http://schema.org/description> "William Curry caught on campus"  <StanfordUniversity-CNN-5> .
+ <http://example.org/SafetyProcedureReview> <http://schema.org/organizer> <http://example.org/StanfordUniversity> <StanfordUniversity-CNN-5> .
+ <http://example.org/DeeMostofi> <http://schema.org/familyName> "Mostofi"  <StanfordUniversity-CNN-5> .
+ <http://example.org/ResidentAssistants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/OrganizationRole> <StanfordUniversity-CNN-5> .
+ <http://example.org/CurrySocializing> <http://schema.org/actor> <http://example.org/WilliamCurry> <StanfordUniversity-CNN-5> .
+ <http://example.org/StanfordUniversity> <http://schema.org/address> "Stanford, CA"  <StanfordUniversity-CNN-5> .
+ <http://example.org/SafetyProcedureReview> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <StanfordUniversity-CNN-5> .
+ <http://example.org/PublicSafetyDepartment> <http://schema.org/name> "Public Safety Department"  <StanfordUniversity-CNN-5> .
+ <http://example.org/CNN_StanfordInquiry> <http://schema.org/recipient> <http://example.org/StanfordUniversity> <StanfordUniversity-CNN-5> .
+ <http://example.org/IncidentReport> <http://schema.org/about> <http://example.org/WilliamCurry> <StanfordUniversity-CNN-5> .
+ <http://example.org/StayAwayLetter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <StanfordUniversity-CNN-5> .
+ <http://example.org/StanfordDaily> <http://schema.org/publisher> <http://example.org/StanfordUniversity> <StanfordUniversity-CNN-5> .
+ <http://example.org/CNN_StanfordInquiry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CommunicateAction> <StanfordUniversity-CNN-5> .
+ <http://example.org/CNN_StudentGroupsInquiry> <http://schema.org/agent> <http://example.org/CNN> <StanfordUniversity-CNN-5> .
+ <http://example.org/CurryResidenceIntrusion> <http://schema.org/actor> <http://example.org/WilliamCurry> <StanfordUniversity-CNN-5> .
+ <http://example.org/ResidentAssistants> <http://schema.org/roleName> "Resident Assistant"  <StanfordUniversity-CNN-5> .
+ <http://example.org/CNN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <StanfordUniversity-CNN-5> .
+ <http://example.org/PublicSafetyDepartment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <StanfordUniversity-CNN-5> .
+ <http://example.org/CurryResidenceIntrusion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <StanfordUniversity-CNN-5> .
+ <http://example.org/CNN> <http://schema.org/name> "CNN"  <StanfordUniversity-CNN-5> .
+ <http://example.org/WilliamCurry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <StanfordUniversity-CNN-5> .
+ <http://example.org/StayAwayLetter> <http://schema.org/text> "Stay-away letter served to William Curry"  <StanfordUniversity-CNN-5> .
+ <http://example.org/CurrySocializing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialEvent> <StanfordUniversity-CNN-5> .
+ <http://example.org/SafetyProcedureReview> <http://schema.org/startDate> "2023-10-27"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-CNN-5> .
+ <http://example.org/CurrySocializing> <http://schema.org/contributor> <http://example.org/ResidentAssistants> <StanfordUniversity-CNN-5> .
+ <http://example.org/CurryCaughtEvent> <http://schema.org/startDate> "2023-10-27"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-CNN-5> .
+ <http://example.org/CNN_StudentGroupsInquiry> <http://schema.org/actionStatus> <http://schema.org/ActiveActionStatus> <StanfordUniversity-CNN-5> .
+ <http://example.org/CNN_StanfordInquiry> <http://schema.org/agent> <http://example.org/CNN> <StanfordUniversity-CNN-5> .
+ <http://example.org/IncidentReport> <http://schema.org/author> <http://example.org/StanfordDaily> <StanfordUniversity-CNN-5> .
+ <http://example.org/CNN_StanfordInquiry> <http://schema.org/actionStatus> <http://schema.org/ActiveActionStatus> <StanfordUniversity-CNN-5> .
+ <http://example.org/CurrySocializing> <http://schema.org/location> <http://example.org/StanfordUniversity> <StanfordUniversity-CNN-5> .
+ <http://example.org/StanfordUniversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EducationalOrganization> <StanfordUniversity-CNN-5> .
+ <http://example.org/WilliamCurry> <http://schema.org/givenName> "William"  <StanfordUniversity-CNN-5> .
+ <http://example.org/CurryResidenceIntrusion> <http://schema.org/startDate> "2022-12-01"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-CNN-5> .
+ <http://example.org/CurryCaughtEvent> <http://schema.org/actor> <http://example.org/WilliamCurry> <StanfordUniversity-CNN-5> .
+ <http://example.org/CurryCaughtEvent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <StanfordUniversity-CNN-5> .
+ <http://example.org/WilliamCurry> <http://schema.org/additionalName> "Mr. Curry"  <StanfordUniversity-CNN-5> .
+ <http://example.org/StanfordUniversity> <http://schema.org/name> "Stanford University"  <StanfordUniversity-CNN-5> .
+ <http://example.org/DeeMostofi> <http://schema.org/givenName> "Dee"  <StanfordUniversity-CNN-5> .
+ <http://example.org/DeeMostofi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <StanfordUniversity-CNN-5> .
+ <http://example.org/CurryResidenceIntrusion> <http://schema.org/location> <http://example.org/StanfordUniversity> <StanfordUniversity-CNN-5> .
+ <http://example.org/CurryResidenceIntrusion> <http://schema.org/description> "William Curry's repeated unauthorized presence on Stanford University campus since December of the previous year"  <StanfordUniversity-CNN-5> .
+ <http://example.org/StayAwayLetter> <http://schema.org/creator> <http://example.org/PublicSafetyDepartment> <StanfordUniversity-CNN-5> .
+ <http://example.org/IncidentReport> <http://schema.org/datePublished> "2023-10-27"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-CNN-5> .
+ <http://example.org/StayAwayLetter> <http://schema.org/recipient> <http://example.org/WilliamCurry> <StanfordUniversity-CNN-5> .
+ <http://example.org/StayAwayLetter> <http://schema.org/dateCreated> "2023-10-27"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-CNN-5> .
+ <http://example.org/ResidentAssistants> <http://schema.org/affiliation> <http://example.org/StanfordUniversity> <StanfordUniversity-CNN-5> .
+ <http://example.org/StanfordDaily> <http://schema.org/name> "The Stanford Daily"  <StanfordUniversity-CNN-5> .
+ <http://example.org/CNN_StudentGroupsInquiry> <http://schema.org/recipient> <http://example.org/StanfordUniversity> <StanfordUniversity-CNN-5> .
+ <http://example.org/CurryCaughtEvent> <http://schema.org/location> <http://example.org/StanfordUniversity> <StanfordUniversity-CNN-5> .
+ <http://example.org/CNN_StudentGroupsInquiry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CommunicateAction> <StanfordUniversity-CNN-5> .
+ <http://example.org/SafetyProcedureReview> <http://schema.org/description> "Review of safety procedures at Stanford University"  <StanfordUniversity-CNN-5> .
+ <http://example.org/StanfordDaily> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Newspaper> <StanfordUniversity-CNN-5> .
+ <http://example.org/WilliamCurry> <http://schema.org/familyName> "Curry"  <StanfordUniversity-CNN-5> .
+ <http://example.org/DeeMostofi> <http://schema.org/affiliation> <http://example.org/StanfordUniversity> <StanfordUniversity-CNN-5> .
+ <http://example.org/DeeMostofi> <http://schema.org/jobTitle> "External Communications Assistant Vice President"  <StanfordUniversity-CNN-5> .
+ <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb4> <http://dbpedia.org/ontology/workplace> <http://example.org/HKU> <StanfordUniversity-CNN-6> .
+ <http://example.org/HKU> <http://dbpedia.org/ontology/abbreviation> "HKU"  <StanfordUniversity-CNN-6> .
+ <http://example.org/ProDemocracyMovement> <http://dbpedia.org/ontology/startDate> "2019-11-01"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-CNN-6> .
+ <http://example.org/CarrieLam> <http://xmlns.com/foaf/0.1/name> "Carrie Lam"  <StanfordUniversity-CNN-6> .
+ <http://example.org/DemocracyWall> <http://dbpedia.org/ontology/location> <http://example.org/HKU> <StanfordUniversity-CNN-6> .
+ <http://example.org/HKU> <http://dbpedia.org/ontology/faculty> <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb2>  <StanfordUniversity-CNN-6> .
+ <http://example.org/HKU> <http://dbpedia.org/ontology/faculty> <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb1>  <StanfordUniversity-CNN-6> .
+ <http://example.org/SunYatSen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-CNN-6> .
+ <http://example.org/NationalSecurityLaw> <http://dbpedia.org/ontology/charges> "85"^^<http://www.w3.org/2001/XMLSchema#int>  <StanfordUniversity-CNN-6> .
+ <http://example.org/NationalSecurityLaw> <http://dbpedia.org/ontology/startDate> "2020-06-01"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-CNN-6> .
+ <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb5> <http://dbpedia.org/ontology/position> "Faculty Member"  <StanfordUniversity-CNN-6> .
+ <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb3> <http://dbpedia.org/ontology/position> "Staff"  <StanfordUniversity-CNN-6> .
+ <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-CNN-6> .
+ <http://example.org/HKU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/University> <StanfordUniversity-CNN-6> .
+ <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb4> <http://xmlns.com/foaf/0.1/name> "Eric Cheung"  <StanfordUniversity-CNN-6> .
+ <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-CNN-6> .
+ <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb5> <http://dbpedia.org/ontology/pseudonym> "Helena"  <StanfordUniversity-CNN-6> .
+ <http://example.org/NationalSecurityHotline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Service> <StanfordUniversity-CNN-6> .
+ <http://example.org/QSWorldUniversityRankings> <http://dbpedia.org/ontology/ranking> "22"^^<http://www.w3.org/2001/XMLSchema#int>  <StanfordUniversity-CNN-6> .
+ <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb2> <http://xmlns.com/foaf/0.1/name> "Amy"  <StanfordUniversity-CNN-6> .
+ <http://example.org/HKU> <http://dbpedia.org/ontology/ranking> "22"^^<http://www.w3.org/2001/XMLSchema#int>  <StanfordUniversity-CNN-6> .
+ <http://example.org/cnnArticle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> <StanfordUniversity-CNN-6> .
+ <http://example.org/NationalSecurityHotline> <http://dbpedia.org/ontology/informationReceived> "100000"^^<http://www.w3.org/2001/XMLSchema#int>  <StanfordUniversity-CNN-6> .
+ <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb7> <http://dbpedia.org/ontology/location> <http://example.org/HKU> <StanfordUniversity-CNN-6> .
+ <http://example.org/HKU> <http://dbpedia.org/ontology/faculty> <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb5>  <StanfordUniversity-CNN-6> .
+ <http://example.org/ProDemocracyMovement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <StanfordUniversity-CNN-6> .
+ <http://example.org/QSWorldUniversityRankings> <http://dbpedia.org/ontology/rankingEntity> <http://example.org/HKU> <StanfordUniversity-CNN-6> .
+ <http://example.org/StudentUnion> <http://dbpedia.org/ontology/member> <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb6>  <StanfordUniversity-CNN-6> .
+ <http://example.org/DemocracyWall> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Structure> <StanfordUniversity-CNN-6> .
+ <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb1> <http://xmlns.com/foaf/0.1/name> "Gordon"  <StanfordUniversity-CNN-6> .
+ <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb5> <http://dbpedia.org/ontology/workplace> <http://example.org/HKU> <StanfordUniversity-CNN-6> .
+ <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <StanfordUniversity-CNN-6> .
+ <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-CNN-6> .
+ <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-CNN-6> .
+ <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-CNN-6> .
+ <http://example.org/CarrieLam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-CNN-6> .
+ <http://example.org/NationalSecurityHotline> <http://dbpedia.org/ontology/startDate> "2020-11-01"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-CNN-6> .
+ <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb1> <http://dbpedia.org/ontology/pseudonym> "Gordon"  <StanfordUniversity-CNN-6> .
+ <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-CNN-6> .
+ <http://example.org/StudentUnion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <StanfordUniversity-CNN-6> .
+ <http://example.org/FreedomHouse> <http://dbpedia.org/ontology/researchDirector> <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb8>  <StanfordUniversity-CNN-6> .
+ <http://example.org/SunYatSen> <http://dbpedia.org/ontology/almaMater> <http://example.org/HKU> <StanfordUniversity-CNN-6> .
+ <http://example.org/HKU> <http://dbpedia.org/ontology/faculty> <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb4>  <StanfordUniversity-CNN-6> .
+ <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb4> <http://dbpedia.org/ontology/position> "Law Lecturer"  <StanfordUniversity-CNN-6> .
+ <http://example.org/cnnArticle> <http://xmlns.com/foaf/0.1/primaryTopic> <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb7>  <StanfordUniversity-CNN-6> .
+ <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb2> <http://dbpedia.org/ontology/workplace> <http://example.org/HKU> <StanfordUniversity-CNN-6> .
+ <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb3> <http://dbpedia.org/ontology/workplace> <http://example.org/HKU> <StanfordUniversity-CNN-6> .
+ <http://example.org/cnnArticle> <http://xmlns.com/foaf/0.1/maker> <http://cnn.com/CNN> <StanfordUniversity-CNN-6> .
+ <http://example.org/ProDemocracyMovement> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Hong_Kong> <StanfordUniversity-CNN-6> .
+ <http://example.org/HKU> <http://dbpedia.org/ontology/numberOfStudents> "30000"^^<http://www.w3.org/2001/XMLSchema#int>  <StanfordUniversity-CNN-6> .
+ <http://example.org/CarrieLam> <http://dbpedia.org/ontology/position> "Hong Kong's Leader"  <StanfordUniversity-CNN-6> .
+ <http://example.org/HKU> <http://dbpedia.org/ontology/city> <http://dbpedia.org/resource/Hong_Kong> <StanfordUniversity-CNN-6> .
+ <http://example.org/DemocracyWall> <http://www.w3.org/2000/01/rdf-schema#label> "Democracy Wall at HKU"  <StanfordUniversity-CNN-6> .
+ <http://example.org/StudentUnion> <http://dbpedia.org/ontology/location> <http://example.org/HKU> <StanfordUniversity-CNN-6> .
+ <http://example.org/NationalSecurityLaw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Legislation> <StanfordUniversity-CNN-6> .
+ <http://example.org/QSWorldUniversityRankings> <http://dbpedia.org/ontology/rankingDate> "2021-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-CNN-6> .
+ <http://example.org/SunYatSen> <http://xmlns.com/foaf/0.1/name> "Sun Yat-sen"  <StanfordUniversity-CNN-6> .
+ <http://example.org/NationalSecurityLaw> <http://dbpedia.org/ontology/arrests> "140"^^<http://www.w3.org/2001/XMLSchema#int>  <StanfordUniversity-CNN-6> .
+ <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb7> <http://dbpedia.org/ontology/policeRaid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <StanfordUniversity-CNN-6> .
+ <http://example.org/QSWorldUniversityRankings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Ranking> <StanfordUniversity-CNN-6> .
+ <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb6> <http://dbpedia.org/ontology/association> <http://example.org/StudentUnion> <StanfordUniversity-CNN-6> .
+ <http://example.org/CarrieLam> <http://dbpedia.org/ontology/almaMater> <http://example.org/HKU> <StanfordUniversity-CNN-6> .
+ <http://example.org/StudentUnion> <http://dbpedia.org/ontology/status> "Defunct"  <StanfordUniversity-CNN-6> .
+ <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb8> <http://xmlns.com/foaf/0.1/name> "Sarah Cook"  <StanfordUniversity-CNN-6> .
+ <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb2> <http://dbpedia.org/ontology/pseudonym> "Amy"  <StanfordUniversity-CNN-6> .
+ <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-CNN-6> .
+ <http://example.org/NationalSecurityLaw> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Hong_Kong> <StanfordUniversity-CNN-6> .
+ <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb6> <http://dbpedia.org/ontology/charge> "Advocating terrorism"  <StanfordUniversity-CNN-6> .
+ <http://example.org/FreedomHouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <StanfordUniversity-CNN-6> .
+ <http://example.org/HKU> <http://www.w3.org/2000/01/rdf-schema#label> "University of Hong Kong"@en  <StanfordUniversity-CNN-6> .
+ <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb7> <http://dbpedia.org/ontology/startDate> "2021-07-16"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-CNN-6> .
+ <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb1> <http://dbpedia.org/ontology/position> "Lecturer"  <StanfordUniversity-CNN-6> .
+ <http://example.org/HKU> <http://dbpedia.org/ontology/faculty> <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb3>  <StanfordUniversity-CNN-6> .
+ <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb3> <http://xmlns.com/foaf/0.1/name> "Mary"  <StanfordUniversity-CNN-6> .
+ <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb2> <http://dbpedia.org/ontology/position> "Lecturer"  <StanfordUniversity-CNN-6> .
+ <http://example.org/DemocracyWall> <http://dbpedia.org/ontology/status> "Removed"  <StanfordUniversity-CNN-6> .
+ <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb1> <http://dbpedia.org/ontology/workplace> <http://example.org/HKU> <StanfordUniversity-CNN-6> .
+ <http://StanfordUniversity-CNN-6.com/blank#ndadbdde824f842d3af6e56b2624ec8cdb3> <http://dbpedia.org/ontology/pseudonym> "Mary"  <StanfordUniversity-CNN-6> .
+ <http://example.org/ApologyStatement> <http://www.w3.org/2000/01/rdf-schema#comment> "Apology for past actions to suppress the admission of Jewish students in the 1950s and for subsequent denials."  <StanfordUniversity-CNN-7> .
+ <http://example.org/JessicaKirschner> <http://xmlns.com/foaf/0.1/member> <http://example.org/HillelAtStanford> <StanfordUniversity-CNN-7> .
+ <http://example.org/JewishStudentAssociationStanford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <StanfordUniversity-CNN-7> .
+ <http://example.org/AdmissionPolicy1950s> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Description> <StanfordUniversity-CNN-7> .
+ <http://example.org/HillelAtStanford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <StanfordUniversity-CNN-7> .
+ <http://example.org/StanfordUniversity> <http://example.org/hadAdmissionPolicy> <http://example.org/AdmissionPolicy1950s> <StanfordUniversity-CNN-7> .
+ <http://example.org/TaskForceReport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Description> <StanfordUniversity-CNN-7> .
+ <http://example.org/FairfaxHighSchool> <http://xmlns.com/foaf/0.1/name> "Fairfax High School"  <StanfordUniversity-CNN-7> .
+ <http://example.org/StanfordCommunity> <http://xmlns.com/foaf/0.1/name> "Stanford University community"  <StanfordUniversity-CNN-7> .
+ <http://example.org/SophiaDanielpour> <http://xmlns.com/foaf/0.1/name> "Sophia Danielpour"  <StanfordUniversity-CNN-7> .
+ <http://example.org/AshleeKupor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-CNN-7> .
+ <http://example.org/TaskForce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> <StanfordUniversity-CNN-7> .
+ <http://example.org/JewishCommunity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> <StanfordUniversity-CNN-7> .
+ <http://example.org/HillelAtStanford> <http://xmlns.com/foaf/0.1/name> "Hillel at Stanford"  <StanfordUniversity-CNN-7> .
+ <http://example.org/BeverlyHillsHighSchool> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <StanfordUniversity-CNN-7> .
+ <http://example.org/FairfaxHighSchool> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <StanfordUniversity-CNN-7> .
+ <http://example.org/JessicaKirschner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-CNN-7> .
+ <http://example.org/TaskForceReport> <http://purl.org/dc/elements/1.1/creator> <http://example.org/TaskForce> <StanfordUniversity-CNN-7> .
+ <http://example.org/ApologyStatement> <http://example.org/addressedTo> <http://example.org/StanfordCommunity> <StanfordUniversity-CNN-7> .
+ <http://example.org/TaskForceReport> <http://purl.org/dc/elements/1.1/date> "2023-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <StanfordUniversity-CNN-7> .
+ <http://example.org/JewishStudentAssociationStanford> <http://example.org/coPresidents> <http://example.org/AshleeKupor> <StanfordUniversity-CNN-7> .
+ <http://example.org/ApologyStatement> <http://example.org/addressedTo> <http://example.org/JewishCommunity> <StanfordUniversity-CNN-7> .
+ <http://example.org/ApologyStatement> <http://example.org/issuedBy> <http://example.org/MarcTessierLavigne> <StanfordUniversity-CNN-7> .
+ <http://example.org/StanfordCommunity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> <StanfordUniversity-CNN-7> .
+ <http://example.org/StanfordUniversity> <http://example.org/apologyIssued> <http://example.org/ApologyStatement> <StanfordUniversity-CNN-7> .
+ <http://example.org/MarcTessierLavigne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-CNN-7> .
+ <http://example.org/ApologyStatement> <http://purl.org/dc/elements/1.1/date> "2023-03-29"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-CNN-7> .
+ <http://example.org/TaskForceReport> <http://www.w3.org/2000/01/rdf-schema#comment> "Report confirming the suppression of Jewish student admissions in the 1950s."  <StanfordUniversity-CNN-7> .
+ <http://example.org/HillelAtStanford> <http://example.org/executiveDirector> <http://example.org/JessicaKirschner> <StanfordUniversity-CNN-7> .
+ <http://example.org/ApologyStatement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> <StanfordUniversity-CNN-7> .
+ <http://example.org/JewishStudentAssociationStanford> <http://xmlns.com/foaf/0.1/name> "Jewish Student Association at Stanford"  <StanfordUniversity-CNN-7> .
+ <http://example.org/AdmissionPolicy1950s> <http://www.w3.org/2000/01/rdf-schema#comment> "Policy to suppress the admission of Jewish students at Stanford University."  <StanfordUniversity-CNN-7> .
+ <http://example.org/MarcTessierLavigne> <http://xmlns.com/foaf/0.1/name> "Marc Tessier-Lavigne"  <StanfordUniversity-CNN-7> .
+ <http://example.org/JessicaKirschner> <http://xmlns.com/foaf/0.1/title> "Executive Director"  <StanfordUniversity-CNN-7> .
+ <http://example.org/TaskForce> <http://xmlns.com/foaf/0.1/name> "Task force appointed by Stanford University's president"  <StanfordUniversity-CNN-7> .
+ <http://example.org/MarcTessierLavigne> <http://xmlns.com/foaf/0.1/member> <http://example.org/StanfordUniversity> <StanfordUniversity-CNN-7> .
+ <http://example.org/BeverlyHillsHighSchool> <http://xmlns.com/foaf/0.1/name> "Beverly Hills High School"  <StanfordUniversity-CNN-7> .
+ <http://example.org/SophiaDanielpour> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-CNN-7> .
+ <http://example.org/JessicaKirschner> <http://xmlns.com/foaf/0.1/name> "Jessica Kirschner"  <StanfordUniversity-CNN-7> .
+ <http://example.org/StanfordUniversity> <http://xmlns.com/foaf/0.1/name> "Stanford University"  <StanfordUniversity-CNN-7> .
+ <http://example.org/AshleeKupor> <http://xmlns.com/foaf/0.1/name> "Ashlee Kupor"  <StanfordUniversity-CNN-7> .
+ <http://example.org/MarcTessierLavigne> <http://xmlns.com/foaf/0.1/title> "President"  <StanfordUniversity-CNN-7> .
+ <http://example.org/JewishCommunity> <http://xmlns.com/foaf/0.1/name> "Jewish community"  <StanfordUniversity-CNN-7> .
+ <http://example.org/StanfordUniversity> <http://example.org/establishedTaskForce> <http://example.org/TaskForceReport> <StanfordUniversity-CNN-7> .
+ <http://example.org/AdmissionPolicy1950s> <http://purl.org/dc/elements/1.1/date> "1950s"^^<http://www.w3.org/2001/XMLSchema#string>  <StanfordUniversity-CNN-7> .
+ <http://example.org/JewishStudentAssociationStanford> <http://example.org/coPresidents> <http://example.org/SophiaDanielpour> <StanfordUniversity-CNN-7> .
+ <http://example.org/StanfordUniversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <StanfordUniversity-CNN-7> .
+ <http://example.org/SwastikaIncident> <http://example.org/description> "Swastikas, the N-word, and the letters 'KKK' scratched into a metal panel in a bathroom"  <StanfordUniversity-CNN-8> .
+ <http://example.org/RabbiDovGreenberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Person> <StanfordUniversity-CNN-8> .
+ <http://example.org/HateCrimeInvestigation> <http://example.org/concerns> <http://example.org/AntisemiticDrawing> <StanfordUniversity-CNN-8> .
+ <http://example.org/AntiDefamationLeague> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Organization> <StanfordUniversity-CNN-8> .
+ <http://example.org/College101> <http://example.org/topic> "Colonialism"  <StanfordUniversity-CNN-8> .
+ <http://StanfordUniversity-CNN-8.com/blank#n5cfdee7b697144838303d35f5921cd78b2> <http://example.org/coPresident> <http://example.org/AndreiMandelshtam> <StanfordUniversity-CNN-8> .
+ <http://example.org/SwastikaIncident> <http://example.org/location> <http://example.org/StanfordUniversity> <StanfordUniversity-CNN-8> .
+ <http://example.org/College101> <http://example.org/studentCount> "18"^^<http://www.w3.org/2001/XMLSchema#integer>  <StanfordUniversity-CNN-8> .
+ <http://example.org/SwastikaIncident> <http://example.org/date> "2023-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <StanfordUniversity-CNN-8> .
+ <http://example.org/RabbiDovGreenberg> <http://example.org/position> "Executive Director"  <StanfordUniversity-CNN-8> .
+ <http://example.org/RabbiDovGreenberg> <http://example.org/title> "Rabbi"  <StanfordUniversity-CNN-8> .
+ <http://example.org/College101> <http://example.org/requirement> "First-year students"  <StanfordUniversity-CNN-8> .
+ <http://example.org/AntiDefamationLeague> <http://example.org/incidentsRecorded> "3700"^^<http://www.w3.org/2001/XMLSchema#integer>  <StanfordUniversity-CNN-8> .
+ <http://example.org/RohrChabadHouse> <http://example.org/affiliation> <http://example.org/StanfordUniversity> <StanfordUniversity-CNN-8> .
+ <http://example.org/College101> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Course> <StanfordUniversity-CNN-8> .
+ <http://example.org/RohrChabadHouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/JewishCommunityCenter> <StanfordUniversity-CNN-8> .
+ <http://example.org/StanfordIsraelAssociation> <http://example.org/leaders> <http://StanfordUniversity-CNN-8.com/blank#n5cfdee7b697144838303d35f5921cd78b1>  <StanfordUniversity-CNN-8> .
+ <http://example.org/StanfordUniversityStatement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Document> <StanfordUniversity-CNN-8> .
+ <http://example.org/StanfordUniversityStatementOnSafety> <http://example.org/content> "Stanford stands unequivocally against hatred on the basis of religion, race, ethnicity, national origin, and other categories."  <StanfordUniversity-CNN-8> .
+ <http://example.org/Instructor> <http://example.org/role> <http://example.org/TeachingDuties> <StanfordUniversity-CNN-8> .
+ <http://example.org/Instructor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Person> <StanfordUniversity-CNN-8> .
+ <http://example.org/Instructor> <http://example.org/employmentStatus> "Removed"  <StanfordUniversity-CNN-8> .
+ <http://example.org/Investigation> <http://example.org/concerns> <http://example.org/Instructor> <StanfordUniversity-CNN-8> .
+ <http://example.org/StanfordIsraelAssociation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Organization> <StanfordUniversity-CNN-8> .
+ <http://example.org/AndreiMandelshtam> <http://example.org/affiliation> <http://example.org/StanfordIsraelAssociation> <StanfordUniversity-CNN-8> .
+ <http://example.org/HateCrimeInvestigation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Investigation> <StanfordUniversity-CNN-8> .
+ <http://example.org/Investigation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Process> <StanfordUniversity-CNN-8> .
+ <http://example.org/StanfordIsraelAssociation> <http://example.org/leaders> <http://StanfordUniversity-CNN-8.com/blank#n5cfdee7b697144838303d35f5921cd78b2>  <StanfordUniversity-CNN-8> .
+ <http://example.org/AndreiMandelshtam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Person> <StanfordUniversity-CNN-8> .
+ <http://example.org/StanfordUniversityStatement> <http://example.org/content> "Academic freedom does not permit the identity-based targeting of students"  <StanfordUniversity-CNN-8> .
+ <http://example.org/ConflictBetweenIsraelAndHamas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Event> <StanfordUniversity-CNN-8> .
+ <http://example.org/NouryaCohen> <http://example.org/affiliation> <http://example.org/StanfordIsraelAssociation> <StanfordUniversity-CNN-8> .
+ <http://example.org/SwastikaIncident> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Incident> <StanfordUniversity-CNN-8> .
+ <http://example.org/ConflictBetweenIsraelAndHamas> <http://example.org/location> "Middle East"  <StanfordUniversity-CNN-8> .
+ <http://example.org/StanfordUniversityStatement> <http://example.org/date> "2023-03-15"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-CNN-8> .
+ <http://example.org/ConflictBetweenIsraelAndHamas> <http://example.org/increasedTension> "Globally"  <StanfordUniversity-CNN-8> .
+ <http://example.org/AntiDefamationLeague> <http://example.org/reportYear> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <StanfordUniversity-CNN-8> .
+ <http://StanfordUniversity-CNN-8.com/blank#n5cfdee7b697144838303d35f5921cd78b1> <http://example.org/coPresident> <http://example.org/NouryaCohen> <StanfordUniversity-CNN-8> .
+ <http://example.org/NouryaCohen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Person> <StanfordUniversity-CNN-8> .
+ <http://example.org/Investigation> <http://example.org/reason> "Reports of downplaying the Holocaust and identity-based targeting of students"  <StanfordUniversity-CNN-8> .
+ <http://example.org/HateCrimeInvestigation> <http://example.org/location> <http://example.org/StanfordUniversity> <StanfordUniversity-CNN-8> .
+ <http://example.org/StanfordUniversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/EducationalInstitution> <StanfordUniversity-CNN-8> .
+ <http://example.org/NouryaCohen> <http://example.org/role> <http://example.org/CoPresident> <StanfordUniversity-CNN-8> .
+ <http://example.org/StanfordUniversityStatementOnSafety> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Document> <StanfordUniversity-CNN-8> .
+ <http://example.org/RabbiDovGreenberg> <http://example.org/affiliation> <http://example.org/RohrChabadHouse> <StanfordUniversity-CNN-8> .
+ <http://example.org/AndreiMandelshtam> <http://example.org/role> <http://example.org/CoPresident> <StanfordUniversity-CNN-8> .
+ <http://example.org/Instructor> <http://example.org/affiliation> <http://example.org/StanfordUniversity> <StanfordUniversity-CNN-8> .
+ <http://example.org/AntiDefamationLeague> <http://example.org/activity> <http://example.org/TrackingAntisemiticIncidents> <StanfordUniversity-CNN-8> .
+ <http://example.org/ontology#Issue_SlowVideoPlayer> <http://example.org/ontology#issueDescription> "Video player was slow to load content"  <StanfordUniversity-CNN-9> .
+ <http://example.org/ontology#FeedbackForm> <http://example.org/ontology#hasIssue> <http://example.org/ontology#Issue_VideoNotStartAfterAd> <StanfordUniversity-CNN-9> .
+ <http://example.org/ontology#FeedbackForm> <http://example.org/ontology#hasIssue> <http://example.org/ontology#Issue_Other> <StanfordUniversity-CNN-9> .
+ <http://example.org/ontology#FeedbackForm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FeedbackFormClass> <StanfordUniversity-CNN-9> .
+ <http://example.org/ontology#FeedbackForm> <http://example.org/ontology#hasIssue> <http://example.org/ontology#Issue_SlowVideoPlayer> <StanfordUniversity-CNN-9> .
+ <http://example.org/ontology#FeedbackForm> <http://example.org/ontology#hasIssue> <http://example.org/ontology#Issue_AdFreeze> <StanfordUniversity-CNN-9> .
+ <http://example.org/ontology#Issue_Other> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#IssueClass> <StanfordUniversity-CNN-9> .
+ <http://example.org/ontology#Relevance_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#RelevanceClass> <StanfordUniversity-CNN-9> .
+ <http://example.org/ontology#Issue_SlowVideoPlayer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#IssueClass> <StanfordUniversity-CNN-9> .
+ <http://example.org/ontology#Issue_Other> <http://example.org/ontology#issueDescription> "Other issues"  <StanfordUniversity-CNN-9> .
+ <http://example.org/ontology#Issue_LoudAudio> <http://example.org/ontology#issueDescription> "Audio on ad was too loud"  <StanfordUniversity-CNN-9> .
+ <http://example.org/ontology#Issue_AdFreeze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#IssueClass> <StanfordUniversity-CNN-9> .
+ <http://example.org/ontology#Issue_VideoNotStartAfterAd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#IssueClass> <StanfordUniversity-CNN-9> .
+ <http://example.org/ontology#Issue_AdFreeze> <http://example.org/ontology#issueDescription> "Ad froze or did not finish loading"  <StanfordUniversity-CNN-9> .
+ <http://example.org/ontology#Issue_VideoNotStartAfterAd> <http://example.org/ontology#issueDescription> "Video content did not start after ad"  <StanfordUniversity-CNN-9> .
+ <http://example.org/ontology#Issue_VideoNeverLoaded> <http://example.org/ontology#issueDescription> "Video content never loaded"  <StanfordUniversity-CNN-9> .
+ <http://example.org/ontology#Issue_LoudAudio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#IssueClass> <StanfordUniversity-CNN-9> .
+ <http://example.org/ontology#FeedbackForm> <http://example.org/ontology#hasIssue> <http://example.org/ontology#Issue_LoudAudio> <StanfordUniversity-CNN-9> .
+ <http://example.org/ontology#Issue_VideoNeverLoaded> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#IssueClass> <StanfordUniversity-CNN-9> .
+ <http://example.org/ontology#FeedbackForm> <http://example.org/ontology#hasIssue> <http://example.org/ontology#Issue_VideoNeverLoaded> <StanfordUniversity-CNN-9> .
+ <http://example.org/ontology#Relevance_1> <http://example.org/ontology#relevanceLevel> "1"^^<http://www.w3.org/2001/XMLSchema#int>  <StanfordUniversity-CNN-9> .
+ <http://example.org/ontology#FeedbackForm> <http://example.org/ontology#hasRelevance> <http://example.org/ontology#Relevance_1> <StanfordUniversity-CNN-9> .

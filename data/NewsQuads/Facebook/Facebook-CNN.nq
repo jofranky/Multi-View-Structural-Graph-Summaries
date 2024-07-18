@@ -1,0 +1,643 @@
+ <http://example.org/facebook/Facebook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <Facebook-CNN-0> .
+ <http://example.org/facebook/Redesign> <http://schema.org/startDate> "2023-07-14"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-CNN-0> .
+ <http://example.org/facebook/UserGrowth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Facebook-CNN-0> .
+ <http://example.org/facebook/DiscoveryEngine> <http://schema.org/description> "A term used by Mark Zuckerberg to describe Facebook's goal to show users more entertaining, recommended content."  <Facebook-CNN-0> .
+ <http://example.org/facebook/Facebook> <http://schema.org/about> <http://example.org/facebook/MetaverseTransition> <Facebook-CNN-0> .
+ <http://example.org/facebook/DiscoveryEngine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Facebook-CNN-0> .
+ <http://example.org/facebook/FeedsTab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPageElement> <Facebook-CNN-0> .
+ <http://example.org/facebook/FavoritesFeed> <http://schema.org/isPartOf> <http://example.org/facebook/FeedsTab> <Facebook-CNN-0> .
+ <http://example.org/facebook/Facebook> <http://schema.org/about> <http://example.org/facebook/DiscoveryEngine> <Facebook-CNN-0> .
+ <http://Facebook-CNN-0.com/blank#ne1b17bf5c03d4ad7b0149629c702458bb1> <http://dbpedia.org/ontology/amount> "28-30"^^<http://www.w3.org/2001/XMLSchema#float>  <Facebook-CNN-0> .
+ <http://example.org/facebook/InstagramReels> <http://schema.org/isPartOf> <http://example.org/facebook/HomeTab> <Facebook-CNN-0> .
+ <http://example.org/facebook/MetaverseTransition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Facebook-CNN-0> .
+ <http://example.org/facebook/FeedsTab> <http://schema.org/name> "Feeds"  <Facebook-CNN-0> .
+ <http://example.org/facebook/FeedsTab> <http://schema.org/description> "Tab that features a chronological feed of content from users' friends, as well as groups and pages they follow."  <Facebook-CNN-0> .
+ <http://example.org/facebook/Redesign> <http://schema.org/name> "Facebook Redesign"  <Facebook-CNN-0> .
+ <http://example.org/facebook/Facebook> <http://schema.org/startDate> "2023-07-14"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-CNN-0> .
+ <http://example.org/facebook/Redesign> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Facebook-CNN-0> .
+ <http://example.org/facebook/FacebookStories> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Facebook-CNN-0> .
+ <http://example.org/facebook/InstagramReels> <http://schema.org/author> <http://dbpedia.org/resource/Instagram> <Facebook-CNN-0> .
+ <http://example.org/facebook/Facebook> <http://schema.org/about> <http://example.org/facebook/UserGrowth> <Facebook-CNN-0> .
+ <http://Facebook-CNN-0.com/blank#ne1b17bf5c03d4ad7b0149629c702458bb1> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/United_States_dollar> <Facebook-CNN-0> .
+ <http://example.org/facebook/UserGrowth> <http://schema.org/name> "User Growth"  <Facebook-CNN-0> .
+ <http://example.org/facebook/FeedsTab> <http://dbpedia.org/ontology/feature> <http://example.org/facebook/FavoritesFeed> <Facebook-CNN-0> .
+ <http://example.org/facebook/FavoritesFeed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Facebook-CNN-0> .
+ <http://example.org/facebook/HomeTab> <http://schema.org/description> "Tab designed to help users discover new content based on personalized, machine learning-powered recommendations."  <Facebook-CNN-0> .
+ <http://example.org/facebook/UserGrowth> <http://schema.org/description> "Facebook's user growth trend that reversed slightly in the first quarter of the year."  <Facebook-CNN-0> .
+ <http://example.org/facebook/Redesign> <http://schema.org/description> "Facebook app launches a redesign with a new 'Feeds' tab."  <Facebook-CNN-0> .
+ <http://example.org/facebook/InstagramReels> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Facebook-CNN-0> .
+ <http://example.org/facebook/Facebook> <http://dbpedia.org/ontology/competitor> <http://dbpedia.org/resource/TikTok> <Facebook-CNN-0> .
+ <http://example.org/facebook/HomeTab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPageElement> <Facebook-CNN-0> .
+ <http://example.org/facebook/HomeTab> <http://dbpedia.org/ontology/feature> <http://example.org/facebook/FacebookStories> <Facebook-CNN-0> .
+ <http://example.org/facebook/DiscoveryEngine> <http://schema.org/name> "Discovery Engine"  <Facebook-CNN-0> .
+ <http://example.org/facebook/Facebook> <http://schema.org/about> <http://example.org/facebook/Redesign> <Facebook-CNN-0> .
+ <http://example.org/facebook/HomeTab> <http://dbpedia.org/ontology/feature> <http://example.org/facebook/InstagramReels> <Facebook-CNN-0> .
+ <http://example.org/facebook/Facebook> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/Facebook> <Facebook-CNN-0> .
+ <http://example.org/facebook/Facebook> <http://dbpedia.org/ontology/revenue> <http://Facebook-CNN-0.com/blank#ne1b17bf5c03d4ad7b0149629c702458bb1>  <Facebook-CNN-0> .
+ <http://example.org/facebook/Facebook> <http://dbpedia.org/ontology/owner> <http://dbpedia.org/resource/Meta_Platforms> <Facebook-CNN-0> .
+ <http://example.org/facebook/FacebookStories> <http://schema.org/author> <http://dbpedia.org/resource/Facebook> <Facebook-CNN-0> .
+ <http://example.org/facebook/MetaverseTransition> <http://schema.org/name> "Metaverse Transition"  <Facebook-CNN-0> .
+ <http://example.org/facebook/HomeTab> <http://schema.org/name> "Home"  <Facebook-CNN-0> .
+ <http://Facebook-CNN-0.com/blank#ne1b17bf5c03d4ad7b0149629c702458bb1> <http://schema.org/temporalCoverage> "2023-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Facebook-CNN-0> .
+ <http://example.org/facebook/Facebook> <http://dbpedia.org/ontology/product> <http://example.org/facebook/HomeTab> <Facebook-CNN-0> .
+ <http://example.org/facebook/Facebook> <http://dbpedia.org/ontology/product> <http://example.org/facebook/FeedsTab> <Facebook-CNN-0> .
+ <http://example.org/facebook/FacebookStories> <http://schema.org/isPartOf> <http://example.org/facebook/HomeTab> <Facebook-CNN-0> .
+ <http://example.org/facebook/MetaverseTransition> <http://schema.org/description> "Meta's transition to a company centered around a future, augmented- and virtual-reality enabled 'metaverse'."  <Facebook-CNN-0> .
+ <http://example.org/ClinicalPsychologist> <http://xmlns.com/foaf/0.1/name> "Clinical Psychologist"  <Facebook-CNN-1> .
+ <http://example.org/StanfordUniversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/University> <Facebook-CNN-1> .
+ <http://example.org/SocialMediaAddiction> <http://schema.org/signOrSymptom> <http://example.org/ChronicDepression> <Facebook-CNN-1> .
+ <http://example.org/NateeMeepianImage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> <Facebook-CNN-1> .
+ <http://example.org/Brain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AnatomicalStructure> <Facebook-CNN-1> .
+ <http://example.org/ChronicDepression> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalCondition> <Facebook-CNN-1> .
+ <http://example.org/Facebook> <http://schema.org/mentions> <http://example.org/JohnDuffy> <Facebook-CNN-1> .
+ <http://example.org/FacebookPlatform> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <Facebook-CNN-1> .
+ <http://example.org/Chicago> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/City> <Facebook-CNN-1> .
+ <http://example.org/JohnDuffy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-CNN-1> .
+ <http://example.org/SurveyResult> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://schema.org/userInteractionCount> <Facebook-CNN-1> .
+ <http://example.org/NateeMeepian> <http://schema.org/image> <http://example.org/NateeMeepianImage> <Facebook-CNN-1> .
+ <http://example.org/PewResearchSurvey> <http://schema.org/about> <http://example.org/FacebookUsage> <Facebook-CNN-1> .
+ <http://example.org/PewResearchSurvey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Survey> <Facebook-CNN-1> .
+ <http://example.org/SurveyResult> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> <Facebook-CNN-1> .
+ <http://example.org/Professor> <http://xmlns.com/foaf/0.1/name> "Professor"  <Facebook-CNN-1> .
+ <http://example.org/Dopamine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BioChemEntity> <Facebook-CNN-1> .
+ <http://example.org/ClinicalPsychologist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <Facebook-CNN-1> .
+ <http://example.org/DrAnnaLembke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-CNN-1> .
+ <http://example.org/Whistleblower> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <Facebook-CNN-1> .
+ <http://example.org/SocialMediaAddiction> <http://schema.org/associatedAnatomy> <http://example.org/Brain> <Facebook-CNN-1> .
+ <http://example.org/JohnDuffy> <http://dbpedia.org/ontology/occupation> <http://example.org/ClinicalPsychologist> <Facebook-CNN-1> .
+ <http://example.org/FacebookPlatform> <http://schema.org/userInteractionCount> "69"^^<http://www.w3.org/2001/XMLSchema#percent>  <Facebook-CNN-1> .
+ <http://example.org/NateeMeepian> <http://xmlns.com/foaf/0.1/name> "Natee Meepian"  <Facebook-CNN-1> .
+ <http://example.org/Facebook> <http://schema.org/mentions> <http://example.org/DrAnnaLembke> <Facebook-CNN-1> .
+ <http://example.org/DrAnnaLembke> <http://dbpedia.org/ontology/occupation> <http://example.org/Professor> <Facebook-CNN-1> .
+ <http://example.org/DopamineSurge> <http://schema.org/name> "Dopamine surge in the reward pathway of the brain"  <Facebook-CNN-1> .
+ <http://example.org/NateeMeepianImage> <http://schema.org/contentUrl> <https://www.alamy.com/> <Facebook-CNN-1> .
+ <http://example.org/USAdults> <http://schema.org/audienceType> "US adults"  <Facebook-CNN-1> .
+ <http://example.org/Dopamine> <http://schema.org/name> "Dopamine"  <Facebook-CNN-1> .
+ <http://example.org/DrAnnaLembke> <http://schema.org/specialty> <http://example.org/PsychiatryAndBehavioralSciences> <Facebook-CNN-1> .
+ <http://example.org/NateeMeepian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-CNN-1> .
+ <http://example.org/SocialMediaAddiction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalCondition> <Facebook-CNN-1> .
+ <http://example.org/SurveyResult> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://example.org/USAdults> <Facebook-CNN-1> .
+ <http://example.org/Dopamine> <http://schema.org/description> "Often called the 'feel-good' neurotransmitter, plays a part in intense drives like movement, motivation, addiction and romance."  <Facebook-CNN-1> .
+ <http://example.org/SurveyResult> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> "69"^^<http://www.w3.org/2001/XMLSchema#percent>  <Facebook-CNN-1> .
+ <http://example.org/Whistleblower> <http://xmlns.com/foaf/0.1/name> "Whistleblower"  <Facebook-CNN-1> .
+ <http://example.org/Professor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <Facebook-CNN-1> .
+ <http://example.org/Facebook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Facebook-CNN-1> .
+ <http://example.org/PewResearchCenter> <http://schema.org/conducts> <http://example.org/PewResearchSurvey> <Facebook-CNN-1> .
+ <http://example.org/Brain> <http://schema.org/name> "Brain"  <Facebook-CNN-1> .
+ <http://example.org/PewResearchSurvey> <http://schema.org/result> <http://example.org/SurveyResult> <Facebook-CNN-1> .
+ <http://example.org/DrAnnaLembke> <http://dbpedia.org/ontology/employer> <http://example.org/StanfordUniversity> <Facebook-CNN-1> .
+ <http://example.org/Facebook> <http://schema.org/mentions> <http://example.org/FrancesHaugen> <Facebook-CNN-1> .
+ <http://example.org/DopamineDeficitState> <http://schema.org/name> "Chronic dopamine deficit state"  <Facebook-CNN-1> .
+ <http://example.org/FrancesHaugen> <http://xmlns.com/foaf/0.1/page> <https://www.cnn.com/> <Facebook-CNN-1> .
+ <http://example.org/USAdults> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PeopleAudience> <Facebook-CNN-1> .
+ <http://example.org/FrancesHaugen> <http://xmlns.com/foaf/0.1/name> "Frances Haugen"  <Facebook-CNN-1> .
+ <http://example.org/DrAnnaLembke> <http://xmlns.com/foaf/0.1/name> "Dr. Anna Lembke"  <Facebook-CNN-1> .
+ <http://example.org/JohnDuffy> <http://dbpedia.org/ontology/workLocation> <http://example.org/Chicago> <Facebook-CNN-1> .
+ <http://example.org/PewResearchCenter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Facebook-CNN-1> .
+ <http://example.org/FrancesHaugen> <http://dbpedia.org/ontology/occupation> <http://example.org/Whistleblower> <Facebook-CNN-1> .
+ <http://example.org/FrancesHaugen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-CNN-1> .
+ <http://example.org/ChronicDepression> <http://schema.org/name> "Clinical depression"  <Facebook-CNN-1> .
+ <http://example.org/Facebook> <http://dbpedia.org/ontology/product> <http://example.org/FacebookPlatform> <Facebook-CNN-1> .
+ <http://example.org/SocialMediaAddiction> <http://schema.org/cause> <http://example.org/DopamineSurge> <Facebook-CNN-1> .
+ <http://example.org/SocialMediaAddiction> <http://schema.org/name> "Social Media Addiction"  <Facebook-CNN-1> .
+ <http://example.org/SocialMediaAddiction> <http://schema.org/signOrSymptom> <http://example.org/DopamineDeficitState> <Facebook-CNN-1> .
+ <http://example.org/FacebookPlatform> <http://schema.org/audience> <http://example.org/USAdults> <Facebook-CNN-1> .
+ <http://example.org/DopamineDeficitState> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalSignOrSymptom> <Facebook-CNN-1> .
+ <http://example.org/PewResearchCenter> <http://xmlns.com/foaf/0.1/name> "Pew Research Center"  <Facebook-CNN-1> .
+ <http://example.org/Chicago> <http://xmlns.com/foaf/0.1/name> "Chicago"  <Facebook-CNN-1> .
+ <http://example.org/PewResearchSurvey> <http://dbpedia.org/ontology/date> "April"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Facebook-CNN-1> .
+ <http://example.org/NateeMeepianImage> <http://schema.org/author> <http://example.org/NateeMeepian> <Facebook-CNN-1> .
+ <http://example.org/PsychiatryAndBehavioralSciences> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalSpecialty> <Facebook-CNN-1> .
+ <http://example.org/StanfordUniversity> <http://xmlns.com/foaf/0.1/name> "Stanford University"  <Facebook-CNN-1> .
+ <http://example.org/DopamineSurge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalSignOrSymptom> <Facebook-CNN-1> .
+ <http://example.org/JohnDuffy> <http://xmlns.com/foaf/0.1/name> "John Duffy"  <Facebook-CNN-1> .
+ <http://example.org/PsychiatryAndBehavioralSciences> <http://xmlns.com/foaf/0.1/name> "Psychiatry and Behavioral Sciences"  <Facebook-CNN-1> .
+ <http://Facebook-CNN-2.com/blank#nadae45a84c1a4c498145b2f57860cf1db4> <http://schema.org/description> "Former Facebook employee and whistleblower."  <Facebook-CNN-2> .
+ <http://www.facebook.com> <http://schema.org/owns> <http://www.instagram.com> <Facebook-CNN-2> .
+ <http://www.facebook.com/FrancesHaugen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-CNN-2> .
+ <http://Facebook-CNN-2.com/blank#nadae45a84c1a4c498145b2f57860cf1db3> <http://schema.org/datePublished> "2023-03-27"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-CNN-2> .
+ <http://www.facebook.com> <http://schema.org/name> "Facebook"  <Facebook-CNN-2> .
+ <http://www.cnn.com/opinions> <http://schema.org/article> <http://Facebook-CNN-2.com/blank#nadae45a84c1a4c498145b2f57860cf1db3>  <Facebook-CNN-2> .
+ <http://www.facebook.com> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-CNN-2> .
+ <http://www.facebook.com> <http://schema.org/founder> "Mark Zuckerberg"  <Facebook-CNN-2> .
+ <http://www.verge.com> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-CNN-2> .
+ <http://example.org/people/JillFilipovic> <http://schema.org/author> <http://Facebook-CNN-2.com/blank#nadae45a84c1a4c498145b2f57860cf1db1>  <Facebook-CNN-2> .
+ <http://Facebook-CNN-2.com/blank#nadae45a84c1a4c498145b2f57860cf1db2> <http://schema.org/description> "Joined when it was open only to students at a handful of colleges."  <Facebook-CNN-2> .
+ <http://example.org/people/JillFilipovic> <http://schema.org/jobTitle> "Journalist"  <Facebook-CNN-2> .
+ <http://example.org/people/JillFilipovic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-CNN-2> .
+ <http://www.twitter.com/JillFilipovic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> <Facebook-CNN-2> .
+ <http://www.tiktok.com> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-CNN-2> .
+ <http://www.cnn.com/opinions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebPage> <Facebook-CNN-2> .
+ <http://www.instagram.com> <http://schema.org/name> "Instagram"  <Facebook-CNN-2> .
+ <http://www.twitter.com/JillFilipovic> <http://xmlns.com/foaf/0.1/primaryTopic> <http://example.org/people/JillFilipovic> <Facebook-CNN-2> .
+ <http://Facebook-CNN-2.com/blank#nadae45a84c1a4c498145b2f57860cf1db2> <http://xmlns.com/foaf/0.1/accountName> "Jill Filipovic"  <Facebook-CNN-2> .
+ <http://Facebook-CNN-2.com/blank#nadae45a84c1a4c498145b2f57860cf1db3> <http://schema.org/headline> "The ills of Facebook and social media platforms"  <Facebook-CNN-2> .
+ <http://example.org/people/JillFilipovic> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://www.twitter.com/JillFilipovic> <Facebook-CNN-2> .
+ <http://www.verge.com> <http://schema.org/name> "The Verge"  <Facebook-CNN-2> .
+ <http://www.facebook.com/FrancesHaugen> <http://xmlns.com/foaf/0.1/account> <http://Facebook-CNN-2.com/blank#nadae45a84c1a4c498145b2f57860cf1db4>  <Facebook-CNN-2> .
+ <http://Facebook-CNN-2.com/blank#nadae45a84c1a4c498145b2f57860cf1db1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> <Facebook-CNN-2> .
+ <http://Facebook-CNN-2.com/blank#nadae45a84c1a4c498145b2f57860cf1db3> <http://schema.org/articleBody> "As damning information about Facebook leaves the company increasingly besieged by accusations..."  <Facebook-CNN-2> .
+ <http://Facebook-CNN-2.com/blank#nadae45a84c1a4c498145b2f57860cf1db2> <http://purl.org/dc/elements/1.1/date> "2004"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-CNN-2> .
+ <http://www.facebook.com> <http://schema.org/numberOfEmployees> "2.8 billion"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Facebook-CNN-2> .
+ <http://Facebook-CNN-2.com/blank#nadae45a84c1a4c498145b2f57860cf1db2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/OnlineAccount> <Facebook-CNN-2> .
+ <http://example.org/people/JillFilipovic> <http://xmlns.com/foaf/0.1/name> "Jill Filipovic"  <Facebook-CNN-2> .
+ <http://Facebook-CNN-2.com/blank#nadae45a84c1a4c498145b2f57860cf1db3> <http://schema.org/author> <http://example.org/people/JillFilipovic> <Facebook-CNN-2> .
+ <http://www.tiktok.com> <http://schema.org/name> "TikTok"  <Facebook-CNN-2> .
+ <http://Facebook-CNN-2.com/blank#nadae45a84c1a4c498145b2f57860cf1db4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/OnlineAccount> <Facebook-CNN-2> .
+ <http://www.instagram.com> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-CNN-2> .
+ <http://Facebook-CNN-2.com/blank#nadae45a84c1a4c498145b2f57860cf1db4> <http://xmlns.com/foaf/0.1/accountServiceHomepage> <http://www.facebook.com> <Facebook-CNN-2> .
+ <http://www.facebook.com/FrancesHaugen> <http://xmlns.com/foaf/0.1/name> "Frances Haugen"  <Facebook-CNN-2> .
+ <http://example.org/people/JillFilipovic> <http://xmlns.com/foaf/0.1/account> <http://Facebook-CNN-2.com/blank#nadae45a84c1a4c498145b2f57860cf1db2>  <Facebook-CNN-2> .
+ <http://www.cnn.com/opinions> <http://schema.org/about> <http://example.org/people/JillFilipovic> <Facebook-CNN-2> .
+ <http://Facebook-CNN-2.com/blank#nadae45a84c1a4c498145b2f57860cf1db3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> <Facebook-CNN-2> .
+ <http://Facebook-CNN-2.com/blank#nadae45a84c1a4c498145b2f57860cf1db1> <http://schema.org/name> "OK Boomer, Let’s Talk: How My Generation Got Left Behind"  <Facebook-CNN-2> .
+ <http://www.cnn.com/opinions> <http://purl.org/dc/elements/1.1/publisher> "CNN"  <Facebook-CNN-2> .
+ <http://Facebook-CNN-2.com/blank#nadae45a84c1a4c498145b2f57860cf1db2> <http://xmlns.com/foaf/0.1/accountServiceHomepage> <http://www.facebook.com> <Facebook-CNN-2> .
+ <http://example.org/people/JillFilipovic> <http://xmlns.com/foaf/0.1/based_near> "New York"  <Facebook-CNN-2> .
+ <http://example.org/FacebookFiles> <http://schema.org/about> <http://example.org/Facebook> <Facebook-CNN-3> .
+ <http://example.org/Facebook> <http://schema.org/employee> <http://example.org/MarkZuckerberg> <Facebook-CNN-3> .
+ <http://example.org/FacebookPapers> <http://schema.org/about> <http://example.org/Facebook> <Facebook-CNN-3> .
+ <http://example.org/MarkZuckerberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Facebook-CNN-3> .
+ <http://example.org/MarkZuckerberg> <http://schema.org/jobTitle> "CEO of Facebook"  <Facebook-CNN-3> .
+ <http://example.org/CartelJaliscoNuevaGeneracion> <http://xmlns.com/foaf/0.1/name> "Cartél Jalisco Nueva Generación"  <Facebook-CNN-3> .
+ <http://example.org/SEC> <http://xmlns.com/foaf/0.1/name> "Securities and Exchange Commission"  <Facebook-CNN-3> .
+ <http://example.org/Facebook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Facebook-CNN-3> .
+ <http://example.org/JohnPinette> <http://xmlns.com/foaf/0.1/name> "John Pinette"  <Facebook-CNN-3> .
+ <http://example.org/FacebookFiles> <http://schema.org/author> <http://example.org/WallStreetJournal> <Facebook-CNN-3> .
+ <http://example.org/Facebook> <http://xmlns.com/foaf/0.1/name> "Facebook"  <Facebook-CNN-3> .
+ <http://example.org/WallStreetJournal> <http://xmlns.com/foaf/0.1/name> "The Wall Street Journal"  <Facebook-CNN-3> .
+ <http://example.org/GuyRosen> <http://xmlns.com/foaf/0.1/name> "Guy Rosen"  <Facebook-CNN-3> .
+ <http://example.org/ConsortiumLegalCounsel> <http://xmlns.com/foaf/0.1/name> "Consortium Legal Counsel"  <Facebook-CNN-3> .
+ <http://example.org/Consortium> <http://schema.org/member> <http://example.org/CNN> <Facebook-CNN-3> .
+ <http://example.org/MarkZuckerberg> <http://xmlns.com/foaf/0.1/name> "Mark Zuckerberg"  <Facebook-CNN-3> .
+ <http://example.org/JohnPinette> <http://schema.org/jobTitle> "Vice President of Communications at Facebook"  <Facebook-CNN-3> .
+ <http://example.org/Facebook> <http://schema.org/employee> <http://example.org/GuyRosen> <Facebook-CNN-3> .
+ <http://example.org/AntigoneDavis> <http://xmlns.com/foaf/0.1/name> "Antigone Davis"  <Facebook-CNN-3> .
+ <http://example.org/FacebookPapers> <http://schema.org/name> "The Facebook Papers"  <Facebook-CNN-3> .
+ <http://example.org/Facebook> <http://schema.org/employee> <http://example.org/AntigoneDavis> <Facebook-CNN-3> .
+ <http://example.org/FrancesHaugen> <http://xmlns.com/foaf/0.1/name> "Frances Haugen"  <Facebook-CNN-3> .
+ <http://example.org/Facebook> <http://schema.org/hasPart> <http://example.org/Instagram> <Facebook-CNN-3> .
+ <http://example.org/FrancesHaugen> <http://schema.org/worksFor> <http://example.org/ConsortiumLegalCounsel> <Facebook-CNN-3> .
+ <http://example.org/FrancesHaugen> <http://schema.org/jobTitle> "Whistleblower"  <Facebook-CNN-3> .
+ <http://example.org/ConsortiumLegalCounsel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Facebook-CNN-3> .
+ <http://example.org/SEC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Facebook-CNN-3> .
+ <http://example.org/WallStreetJournal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Facebook-CNN-3> .
+ <http://example.org/Facebook> <http://schema.org/employee> <http://example.org/JohnPinette> <Facebook-CNN-3> .
+ <http://example.org/CNN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Facebook-CNN-3> .
+ <http://example.org/Consortium> <http://xmlns.com/foaf/0.1/name> "Consortium of 17 US news organizations"  <Facebook-CNN-3> .
+ <http://example.org/Facebook> <http://schema.org/foundingDate> "2004"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-CNN-3> .
+ <http://example.org/Facebook> <http://schema.org/memberOf> <http://example.org/Consortium> <Facebook-CNN-3> .
+ <http://example.org/CNN> <http://xmlns.com/foaf/0.1/name> "CNN"  <Facebook-CNN-3> .
+ <http://example.org/Instagram> <http://schema.org/parentOrganization> <http://example.org/Facebook> <Facebook-CNN-3> .
+ <http://example.org/CartelJaliscoNuevaGeneracion> <http://schema.org/identifier> "CJNG"  <Facebook-CNN-3> .
+ <http://example.org/Instagram> <http://xmlns.com/foaf/0.1/name> "Instagram"  <Facebook-CNN-3> .
+ <http://example.org/Facebook> <http://schema.org/hasPart> <http://example.org/FacebookPapers> <Facebook-CNN-3> .
+ <http://example.org/Facebook> <http://schema.org/employee> <http://example.org/FrancesHaugen> <Facebook-CNN-3> .
+ <http://example.org/FacebookFiles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Facebook-CNN-3> .
+ <http://example.org/Facebook> <http://schema.org/legalName> "Facebook, Inc."  <Facebook-CNN-3> .
+ <http://example.org/AntigoneDavis> <http://schema.org/jobTitle> "Head of Global Safety at Facebook"  <Facebook-CNN-3> .
+ <http://example.org/SenateSubcommittee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Facebook-CNN-3> .
+ <http://example.org/CNN> <http://schema.org/isPartOf> <http://example.org/Consortium> <Facebook-CNN-3> .
+ <http://example.org/FrancesHaugen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Facebook-CNN-3> .
+ <http://example.org/FacebookFiles> <http://schema.org/name> "The Facebook Files"  <Facebook-CNN-3> .
+ <http://example.org/FacebookPapers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Facebook-CNN-3> .
+ <http://example.org/Instagram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Facebook-CNN-3> .
+ <http://example.org/FacebookPapers> <http://schema.org/author> <http://example.org/Consortium> <Facebook-CNN-3> .
+ <http://example.org/Consortium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> <Facebook-CNN-3> .
+ <http://example.org/FrancesHaugen> <http://schema.org/affiliation> <http://example.org/Facebook> <Facebook-CNN-3> .
+ <http://example.org/AntigoneDavis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Facebook-CNN-3> .
+ <http://example.org/SenateSubcommittee> <http://xmlns.com/foaf/0.1/name> "Senate Subcommittee"  <Facebook-CNN-3> .
+ <http://example.org/CartelJaliscoNuevaGeneracion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-CNN-3> .
+ <http://example.org/GuyRosen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Facebook-CNN-3> .
+ <http://example.org/WallStreetJournal> <http://schema.org/publishes> <http://example.org/FacebookFiles> <Facebook-CNN-3> .
+ <http://example.org/GuyRosen> <http://schema.org/jobTitle> "Vice President of Integrity at Facebook"  <Facebook-CNN-3> .
+ <http://example.org/JohnPinette> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Facebook-CNN-3> .
+ <http://example.org/Oculus_Headset> <http://dbpedia.org/ontology/manufacturer> <http://example.org/Meta> <Facebook-CNN-4> .
+ <http://example.org/Roblox> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Online_game> <Facebook-CNN-4> .
+ <http://example.org/Facebook_Revenue_2012> <http://dbpedia.org/ontology/expenses> "surging"  <Facebook-CNN-4> .
+ <http://example.org/WhatsApp> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Instant_messaging> <Facebook-CNN-4> .
+ <http://example.org/Meta_Revenue_2021> <http://dbpedia.org/ontology/userGrowth> "stagnating"  <Facebook-CNN-4> .
+ <http://example.org/Apple> <http://xmlns.com/foaf/0.1/name> "Apple Inc."  <Facebook-CNN-4> .
+ <http://example.org/Apple> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Consumer_electronics> <Facebook-CNN-4> .
+ <http://example.org/Facebook_Revenue_2014> <http://dbpedia.org/ontology/growth> "72%"  <Facebook-CNN-4> .
+ <http://example.org/Facebook> <http://dbpedia.org/ontology/subsidiary> <http://example.org/WhatsApp> <Facebook-CNN-4> .
+ <http://example.org/Mark_Zuckerberg> <http://xmlns.com/foaf/0.1/name> "Mark Zuckerberg"  <Facebook-CNN-4> .
+ <http://example.org/Meta_Revenue_2021> <http://dbpedia.org/ontology/outlook> "gloomy"  <Facebook-CNN-4> .
+ <http://example.org/Meta> <http://dbpedia.org/ontology/keyPerson> <http://example.org/Mark_Zuckerberg> <Facebook-CNN-4> .
+ <http://example.org/Meta_Advertising_Business> <http://dbpedia.org/ontology/revenueSource> "advertising"  <Facebook-CNN-4> .
+ <http://example.org/iOS_14_5_Update> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <Facebook-CNN-4> .
+ <http://example.org/Meta_Revenue_2021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Revenue> <Facebook-CNN-4> .
+ <http://example.org/TikTok> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Social_networking_service> <Facebook-CNN-4> .
+ <http://example.org/Facebook> <http://dbpedia.org/ontology/subsidiary> <http://example.org/Instagram> <Facebook-CNN-4> .
+ <http://example.org/Facebook_Revenue_2014> <http://dbpedia.org/ontology/profitGrowth> "tripled"  <Facebook-CNN-4> .
+ <http://example.org/Roblox> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Game_development> <Facebook-CNN-4> .
+ <http://example.org/WhatsApp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Facebook-CNN-4> .
+ <http://example.org/Mark_Zuckerberg> <http://xmlns.com/foaf/0.1/depiction> <https://en.wikipedia.org/wiki/File:Mark_Zuckerberg_F8_2019_Keynote_(32830578717)_(cropped).jpg> <Facebook-CNN-4> .
+ <http://example.org/Facebook> <http://dbpedia.org/ontology/keyPerson> <http://example.org/Mark_Zuckerberg> <Facebook-CNN-4> .
+ <http://example.org/iOS_14_5_Update> <http://dbpedia.org/ontology/releaseDate> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-CNN-4> .
+ <http://example.org/TikTok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <Facebook-CNN-4> .
+ <http://example.org/Snap> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Social_networking_service> <Facebook-CNN-4> .
+ <http://example.org/Meta> <http://dbpedia.org/ontology/revenue> <http://example.org/Meta_Revenue_2021> <Facebook-CNN-4> .
+ <http://example.org/Meta> <http://dbpedia.org/ontology/product> <http://example.org/Oculus_Headset> <Facebook-CNN-4> .
+ <http://example.org/Mark_Zuckerberg> <http://schema.org/jobTitle> "CEO"  <Facebook-CNN-4> .
+ <http://example.org/Meta_Revenue_2021> <http://dbpedia.org/ontology/year> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-CNN-4> .
+ <http://example.org/TikTok> <http://xmlns.com/foaf/0.1/name> "TikTok"  <Facebook-CNN-4> .
+ <http://example.org/Meta> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Social_networking_service> <Facebook-CNN-4> .
+ <http://example.org/Snap> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Facebook-CNN-4> .
+ <http://example.org/Instagram> <http://dbpedia.org/ontology/acquisitionYear> "2012"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-CNN-4> .
+ <http://example.org/Facebook_Revenue_2012> <http://dbpedia.org/ontology/growth> "slowing"  <Facebook-CNN-4> .
+ <http://example.org/Facebook_Revenue_2012> <http://dbpedia.org/ontology/year> "2012"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-CNN-4> .
+ <http://example.org/Meta_Advertising_Business> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Business> <Facebook-CNN-4> .
+ <http://example.org/Facebook_Revenue_2014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Revenue> <Facebook-CNN-4> .
+ <http://example.org/Facebook> <http://dbpedia.org/ontology/revenue> <http://example.org/Facebook_Revenue_2014> <Facebook-CNN-4> .
+ <http://example.org/Meta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Facebook-CNN-4> .
+ <http://example.org/Meta> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Virtual_reality> <Facebook-CNN-4> .
+ <http://example.org/Roblox> <http://xmlns.com/foaf/0.1/name> "Roblox Corporation"  <Facebook-CNN-4> .
+ <http://example.org/Facebook_Revenue_2012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Revenue> <Facebook-CNN-4> .
+ <http://example.org/iOS_14_5_Update> <http://dbpedia.org/ontology/impact> <http://example.org/Meta_Advertising_Business> <Facebook-CNN-4> .
+ <http://example.org/Facebook> <http://dbpedia.org/ontology/product> <http://example.org/Oculus_Headset> <Facebook-CNN-4> .
+ <http://example.org/Instagram_Reels> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Social_networking_service> <Facebook-CNN-4> .
+ <http://example.org/Facebook> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Social_networking_service> <Facebook-CNN-4> .
+ <http://example.org/Apple> <http://dbpedia.org/ontology/product> <http://example.org/iOS_14_5_Update> <Facebook-CNN-4> .
+ <http://example.org/Facebook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Facebook-CNN-4> .
+ <http://example.org/Facebook> <http://dbpedia.org/ontology/revenue> <http://example.org/Facebook_Revenue_2012> <Facebook-CNN-4> .
+ <http://example.org/Oculus_Headset> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Facebook-CNN-4> .
+ <http://example.org/Facebook> <http://xmlns.com/foaf/0.1/name> "Facebook"  <Facebook-CNN-4> .
+ <http://example.org/Meta> <http://xmlns.com/foaf/0.1/name> "Meta"  <Facebook-CNN-4> .
+ <http://example.org/iOS_14_5_Update> <http://dbpedia.org/ontology/developer> <http://example.org/Apple> <Facebook-CNN-4> .
+ <http://example.org/WhatsApp> <http://xmlns.com/foaf/0.1/name> "WhatsApp"  <Facebook-CNN-4> .
+ <http://example.org/Meta> <http://dbpedia.org/ontology/formerName> <http://example.org/Facebook> <Facebook-CNN-4> .
+ <http://example.org/Instagram_Reels> <http://dbpedia.org/ontology/comparableProduct> <http://example.org/TikTok> <Facebook-CNN-4> .
+ <http://example.org/Oculus_Headset> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Virtual_reality> <Facebook-CNN-4> .
+ <http://example.org/Instagram> <http://xmlns.com/foaf/0.1/name> "Instagram"  <Facebook-CNN-4> .
+ <http://example.org/Roblox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Facebook-CNN-4> .
+ <http://example.org/Snap> <http://xmlns.com/foaf/0.1/name> "Snap Inc."  <Facebook-CNN-4> .
+ <http://example.org/Apple> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Facebook-CNN-4> .
+ <http://example.org/Meta_Advertising_Business> <http://dbpedia.org/ontology/percentageOfTotalRevenue> "99.5%"  <Facebook-CNN-4> .
+ <http://example.org/Oculus_Headset> <http://dbpedia.org/ontology/marketShare> "majority"  <Facebook-CNN-4> .
+ <http://example.org/Mark_Zuckerberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-CNN-4> .
+ <http://example.org/Snap> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Augmented_reality> <Facebook-CNN-4> .
+ <http://example.org/Apple> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Technology> <Facebook-CNN-4> .
+ <http://example.org/Instagram> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Social_networking_service> <Facebook-CNN-4> .
+ <http://example.org/Instagram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Facebook-CNN-4> .
+ <http://example.org/Meta> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Augmented_reality> <Facebook-CNN-4> .
+ <http://example.org/Meta_Revenue_2021> <http://dbpedia.org/ontology/profit> "declining"  <Facebook-CNN-4> .
+ <http://example.org/Facebook_Revenue_2014> <http://dbpedia.org/ontology/year> "2014"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-CNN-4> .
+ <http://example.org/Instagram_Reels> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Facebook-CNN-4> .
+ <http://example.org/Meta_Advertising_Business> <http://dbpedia.org/ontology/affectedBy> <http://example.org/iOS_14_5_Update> <Facebook-CNN-4> .
+ <http://example.org/Facebook> <http://dbpedia.org/ontology/foundedYear> "2004"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-CNN-4> .
+ <http://example.org/Statement1> <http://dbpedia.org/ontology/venue> <http://example.org/StateOfTheUnion> <Facebook-CNN-5> .
+ <http://example.org/NickClegg> <http://dbpedia.org/ontology/statement> <http://example.org/Statement3> <Facebook-CNN-5> .
+ <http://example.org/USCongress> <http://xmlns.com/foaf/0.1/name> "Congress"  <Facebook-CNN-5> .
+ <http://example.org/Facebook> <http://dbpedia.org/ontology/location> <http://example.org/NewYorkNY> <Facebook-CNN-5> .
+ <http://example.org/Allegation1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Allegation> <Facebook-CNN-5> .
+ <http://example.org/Buzzfeed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Facebook-CNN-5> .
+ <http://example.org/NewYorkNY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/City> <Facebook-CNN-5> .
+ <http://example.org/Statement1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statement> <Facebook-CNN-5> .
+ <http://example.org/JamesFallows> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-CNN-5> .
+ <http://example.org/Statement4> <http://dbpedia.org/ontology/claim> "supported regulations for access to company's algorithms and change to section 230"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-CNN-5> .
+ <http://example.org/Statement4> <http://schema.org/about> <http://example.org/Section230> <Facebook-CNN-5> .
+ <http://example.org/SaraFischer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-CNN-5> .
+ <http://example.org/BrianStelter> <http://dbpedia.org/ontology/occupation> "CNN chief media correspondent"  <Facebook-CNN-5> .
+ <http://example.org/Statement2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statement> <Facebook-CNN-5> .
+ <http://example.org/FischerStatement2> <http://dbpedia.org/ontology/claim> "top policy executive is blanketing Sunday shows"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-CNN-5> .
+ <http://example.org/Statement2> <http://dbpedia.org/ontology/source> <http://example.org/NickClegg> <Facebook-CNN-5> .
+ <http://example.org/Allegation2> <http://schema.org/about> <http://example.org/Facebook> <Facebook-CNN-5> .
+ <http://example.org/BreakingTheNews> <http://xmlns.com/foaf/0.1/name> "Breaking the News"  <Facebook-CNN-5> .
+ <http://example.org/Statement3> <http://schema.org/about> <http://example.org/LegislationForSocialMedia> <Facebook-CNN-5> .
+ <http://example.org/Allegation2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Allegation> <Facebook-CNN-5> .
+ <http://example.org/Allegation3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Allegation> <Facebook-CNN-5> .
+ <http://example.org/JamesFallows> <http://dbpedia.org/ontology/contribution> <http://example.org/TheAtlantic> <Facebook-CNN-5> .
+ <http://example.org/TheAtlantic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Magazine> <Facebook-CNN-5> .
+ <http://example.org/InternalFacebookMemo> <http://dbpedia.org/ontology/leakRecipient> <http://example.org/Buzzfeed> <Facebook-CNN-5> .
+ <http://example.org/StateOfTheUnion> <http://xmlns.com/foaf/0.1/name> "State of the Union"  <Facebook-CNN-5> .
+ <http://example.org/SaraFischer> <http://xmlns.com/foaf/0.1/name> "Sara Fischer"  <Facebook-CNN-5> .
+ <http://example.org/Statement3> <http://dbpedia.org/ontology/venue> <http://example.org/StateOfTheUnion> <Facebook-CNN-5> .
+ <http://example.org/Facebook> <http://dbpedia.org/ontology/allegation> <http://example.org/Allegation1> <Facebook-CNN-5> .
+ <http://example.org/JamesFallows> <http://dbpedia.org/ontology/work> <http://example.org/BreakingTheNews> <Facebook-CNN-5> .
+ <http://example.org/FrancesHaugen> <http://dbpedia.org/ontology/testimony> <http://example.org/USCongress> <Facebook-CNN-5> .
+ <http://example.org/FischerStatement1> <http://dbpedia.org/ontology/source> <http://example.org/SaraFischer> <Facebook-CNN-5> .
+ <http://example.org/Allegation1> <http://dbpedia.org/ontology/accusation> "spread hate and misinformation"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-CNN-5> .
+ <http://example.org/Statement1> <http://dbpedia.org/ontology/claim> "removing algorithms would spread more misinformation and hate"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-CNN-5> .
+ <http://example.org/Statement2> <http://dbpedia.org/ontology/claim> "can't give yes or no answer to individual personalized feeds"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-CNN-5> .
+ <http://example.org/ReliableSources> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow> <Facebook-CNN-5> .
+ <http://example.org/Allegation1> <http://dbpedia.org/ontology/accusationSource> <http://example.org/FrancesHaugen> <Facebook-CNN-5> .
+ <http://example.org/BrianStelter> <http://dbpedia.org/ontology/appearance> <http://example.org/ReliableSources> <Facebook-CNN-5> .
+ <http://example.org/Allegation3> <http://dbpedia.org/ontology/accusation> "denied responsibility for inciting Jan. 6 insurrection"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-CNN-5> .
+ <http://example.org/Statement4> <http://dbpedia.org/ontology/source> <http://example.org/NickClegg> <Facebook-CNN-5> .
+ <http://example.org/FrancesHaugen> <http://dbpedia.org/ontology/occupation> "whistleblower"  <Facebook-CNN-5> .
+ <http://example.org/JamesFallows> <http://dbpedia.org/ontology/occupation> "author"  <Facebook-CNN-5> .
+ <http://example.org/Allegation2> <http://dbpedia.org/ontology/accusationVenue> <http://example.org/Buzzfeed> <Facebook-CNN-5> .
+ <http://example.org/Statement2> <http://dbpedia.org/ontology/venue> <http://example.org/StateOfTheUnion> <Facebook-CNN-5> .
+ <http://example.org/FischerStatement1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statement> <Facebook-CNN-5> .
+ <http://example.org/BrianStelter> <http://xmlns.com/foaf/0.1/name> "Brian Stelter"  <Facebook-CNN-5> .
+ <http://example.org/NickClegg> <http://dbpedia.org/ontology/employer> <http://example.org/Facebook> <Facebook-CNN-5> .
+ <http://example.org/Allegation2> <http://dbpedia.org/ontology/accusationSource> <http://example.org/InternalFacebookMemo> <Facebook-CNN-5> .
+ <http://example.org/NickClegg> <http://xmlns.com/foaf/0.1/name> "Nick Clegg"  <Facebook-CNN-5> .
+ <http://example.org/Statement4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statement> <Facebook-CNN-5> .
+ <http://example.org/InternalFacebookMemo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Document> <Facebook-CNN-5> .
+ <http://example.org/Facebook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Facebook-CNN-5> .
+ <http://example.org/Allegation3> <http://schema.org/about> <http://example.org/Facebook> <Facebook-CNN-5> .
+ <http://example.org/Statement1> <http://dbpedia.org/ontology/source> <http://example.org/NickClegg> <Facebook-CNN-5> .
+ <http://example.org/SaraFischer> <http://dbpedia.org/ontology/occupation> "Axios media reporter"  <Facebook-CNN-5> .
+ <http://example.org/Facebook> <http://dbpedia.org/ontology/executive> <http://example.org/NickClegg> <Facebook-CNN-5> .
+ <http://example.org/FischerStatement1> <http://dbpedia.org/ontology/claim> "never see the stock take a prolonged dip like that in response to political news"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-CNN-5> .
+ <http://example.org/BreakingTheNews> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Book> <Facebook-CNN-5> .
+ <http://example.org/FischerStatement2> <http://schema.org/about> <http://example.org/NickCleggAppearances> <Facebook-CNN-5> .
+ <http://example.org/NickClegg> <http://dbpedia.org/ontology/statement> <http://example.org/Statement1> <Facebook-CNN-5> .
+ <http://example.org/Allegation2> <http://dbpedia.org/ontology/accusation> "failed to prevent 'Stop the Steal' group"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-CNN-5> .
+ <http://example.org/NewYorkNY> <http://xmlns.com/foaf/0.1/name> "New York, NY"  <Facebook-CNN-5> .
+ <http://example.org/Facebook> <http://dbpedia.org/ontology/stockDropDate> "early September"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-CNN-5> .
+ <http://example.org/FischerStatement2> <http://dbpedia.org/ontology/source> <http://example.org/SaraFischer> <Facebook-CNN-5> .
+ <http://example.org/SaraFischer> <http://dbpedia.org/ontology/statement> <http://example.org/FischerStatement1> <Facebook-CNN-5> .
+ <http://example.org/FrancesHaugen> <http://xmlns.com/foaf/0.1/name> "Frances Haugen"  <Facebook-CNN-5> .
+ <http://example.org/Buzzfeed> <http://xmlns.com/foaf/0.1/name> "Buzzfeed"  <Facebook-CNN-5> .
+ <http://example.org/Facebook> <http://dbpedia.org/ontology/stockDrop> "12"^^<http://www.w3.org/2001/XMLSchema#percent>  <Facebook-CNN-5> .
+ <http://example.org/StateOfTheUnion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow> <Facebook-CNN-5> .
+ <http://example.org/Facebook> <http://dbpedia.org/ontology/reputationChange> "reputational change"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-CNN-5> .
+ <http://example.org/Statement1> <http://schema.org/about> <http://example.org/FacebookAlgorithms> <Facebook-CNN-5> .
+ <http://example.org/NickClegg> <http://dbpedia.org/ontology/position> "head of global communications"  <Facebook-CNN-5> .
+ <http://example.org/FrancesHaugen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-CNN-5> .
+ <http://example.org/BrianStelter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-CNN-5> .
+ <http://example.org/SaraFischer> <http://dbpedia.org/ontology/statement> <http://example.org/FischerStatement2> <Facebook-CNN-5> .
+ <http://example.org/Allegation3> <http://dbpedia.org/ontology/accusationSource> <http://example.org/NickClegg> <Facebook-CNN-5> .
+ <http://example.org/JamesFallows> <http://dbpedia.org/ontology/appearance> <http://example.org/ReliableSources> <Facebook-CNN-5> .
+ <http://example.org/Statement3> <http://dbpedia.org/ontology/claim> "open to legislation requiring parental consent for children under 16"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-CNN-5> .
+ <http://example.org/TheAtlantic> <http://xmlns.com/foaf/0.1/name> "The Atlantic"  <Facebook-CNN-5> .
+ <http://example.org/Statement2> <http://schema.org/about> <http://example.org/FacebookAlgorithms> <Facebook-CNN-5> .
+ <http://example.org/Facebook> <http://dbpedia.org/ontology/comparison> "Big Tobacco"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-CNN-5> .
+ <http://example.org/Facebook> <http://dbpedia.org/ontology/allegation> <http://example.org/Allegation2> <Facebook-CNN-5> .
+ <http://example.org/FischerStatement2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statement> <Facebook-CNN-5> .
+ <http://example.org/NickClegg> <http://dbpedia.org/ontology/statement> <http://example.org/Statement2> <Facebook-CNN-5> .
+ <http://example.org/Allegation1> <http://schema.org/about> <http://example.org/Facebook> <Facebook-CNN-5> .
+ <http://example.org/Allegation1> <http://dbpedia.org/ontology/accusationVenue> <http://example.org/USCongress> <Facebook-CNN-5> .
+ <http://example.org/Statement4> <http://dbpedia.org/ontology/venue> <http://example.org/StateOfTheUnion> <Facebook-CNN-5> .
+ <http://example.org/Statement3> <http://dbpedia.org/ontology/source> <http://example.org/NickClegg> <Facebook-CNN-5> .
+ <http://example.org/JamesFallows> <http://xmlns.com/foaf/0.1/name> "James Fallows"  <Facebook-CNN-5> .
+ <http://example.org/InternalFacebookMemo> <http://dbpedia.org/ontology/leakDate> "April"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Facebook-CNN-5> .
+ <http://example.org/USCongress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Facebook-CNN-5> .
+ <http://example.org/NickClegg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-CNN-5> .
+ <http://example.org/Facebook> <http://dbpedia.org/ontology/allegation> <http://example.org/Allegation3> <Facebook-CNN-5> .
+ <http://example.org/NickClegg> <http://dbpedia.org/ontology/statement> <http://example.org/Statement4> <Facebook-CNN-5> .
+ <http://example.org/ReliableSources> <http://xmlns.com/foaf/0.1/name> "Reliable Sources"  <Facebook-CNN-5> .
+ <http://example.org/Statement3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statement> <Facebook-CNN-5> .
+ <http://example.org/FischerStatement1> <http://schema.org/about> <http://example.org/FacebookStock> <Facebook-CNN-5> .
+ <http://example.org/ontology#MarkZuckerberg> <http://xmlns.com/foaf/0.1/made> <http://example.org/ontology#FacebookBusinessReport> <Facebook-CNN-6> .
+ <http://example.org/ontology#Criticism> <http://schema.org/name> "Criticism for role in spreading election misinformation"  <Facebook-CNN-6> .
+ <http://example.org/ontology#CNNBusiness> <http://xmlns.com/foaf/0.1/topic> <http://example.org/ontology#FacebookBusinessReport> <Facebook-CNN-6> .
+ <http://example.org/ontology#FacebookLawsuit> <http://schema.org/name> "Antitrust lawsuit against Facebook"  <Facebook-CNN-6> .
+ <http://example.org/ontology#FacebookBusinessReport> <http://schema.org/articleSection> "Business"  <Facebook-CNN-6> .
+ <http://example.org/ontology#Facebook> <http://example.org/ontology#plans> <http://example.org/ontology#ReducePoliticalContent> <Facebook-CNN-6> .
+ <http://example.org/ontology#Facebook> <http://example.org/ontology#warnsOf> <http://example.org/ontology#RegulatoryChallenges> <Facebook-CNN-6> .
+ <http://example.org/ontology#MAUCount> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/QuantitativeValue> <Facebook-CNN-6> .
+ <http://example.org/ontology#Criticism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Facebook-CNN-6> .
+ <http://example.org/ontology#MarkZuckerberg> <http://xmlns.com/foaf/0.1/name> "Mark Zuckerberg"  <Facebook-CNN-6> .
+ <http://example.org/ontology#iPhoneSoftwareChangesImpact> <http://schema.org/description> "Looming iPhone software changes expected to hurt advertising business"  <Facebook-CNN-6> .
+ <http://example.org/ontology#RevenueQ4> <http://example.org/ontology#comparedToLastYear> "33%"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-CNN-6> .
+ <http://example.org/ontology#FacebookLawsuit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Facebook-CNN-6> .
+ <http://example.org/ontology#Facebook> <http://example.org/ontology#postedRevenue> <http://example.org/ontology#RevenueQ4> <Facebook-CNN-6> .
+ <http://example.org/ontology#ProfitQ4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MonetaryAmount> <Facebook-CNN-6> .
+ <http://example.org/ontology#iPhoneSoftwareChangesImpact> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Facebook-CNN-6> .
+ <http://example.org/ontology#FacebookLawsuit> <http://schema.org/organizer> <http://Facebook-CNN-6.com/blank#n5d21b5588a8344bcb24f2394b9165cc3b1>  <Facebook-CNN-6> .
+ <http://example.org/ontology#ReducePoliticalContent> <http://schema.org/agent> <http://example.org/ontology#Facebook> <Facebook-CNN-6> .
+ <http://example.org/ontology#MAUCount> <http://example.org/ontology#yearOverYearChange> "14%"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-CNN-6> .
+ <http://example.org/ontology#PermanentGroupRecommendationRemoval> <http://schema.org/agent> <http://example.org/ontology#Facebook> <Facebook-CNN-6> .
+ <http://example.org/ontology#Facebook> <http://example.org/ontology#facing> <http://example.org/ontology#RegulatoryScrutiny> <Facebook-CNN-6> .
+ <http://example.org/ontology#FacebookLawsuit> <http://schema.org/description> "Alleging anti-competitive behavior and abuse of digital marketplace dominance"  <Facebook-CNN-6> .
+ <http://example.org/ontology#Facebook> <http://example.org/ontology#hasCEO> <http://example.org/ontology#MarkZuckerberg> <Facebook-CNN-6> .
+ <http://example.org/ontology#MAUCount> <http://schema.org/value> "3.3"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Facebook-CNN-6> .
+ <http://example.org/ontology#Facebook> <http://example.org/ontology#monthlyActiveUsers> <http://example.org/ontology#MAUCount> <Facebook-CNN-6> .
+ <http://example.org/ontology#Facebook> <http://example.org/ontology#postedProfit> <http://example.org/ontology#ProfitQ4> <Facebook-CNN-6> .
+ <http://example.org/ontology#ReducePoliticalContent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Action> <Facebook-CNN-6> .
+ <http://example.org/ontology#JesseCohen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-CNN-6> .
+ <http://example.org/ontology#Facebook> <http://example.org/ontology#facing> <http://example.org/ontology#Criticism> <Facebook-CNN-6> .
+ <http://example.org/ontology#RevenueQ4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MonetaryAmount> <Facebook-CNN-6> .
+ <http://example.org/ontology#JesseCohen> <http://schema.org/comment> "\n        Despite the negative publicity and antitrust cases, it appears there is nothing that can stop what is arguably the world’s most important advertising platform.\n        "  <Facebook-CNN-6> .
+ <http://example.org/ontology#Facebook> <http://example.org/ontology#warnsOf> <http://example.org/ontology#iPhoneSoftwareChangesImpact> <Facebook-CNN-6> .
+ <http://example.org/ontology#PermanentGroupRecommendationRemoval> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Action> <Facebook-CNN-6> .
+ <http://example.org/ontology#ContentSpread> <http://schema.org/name> "Spread of harmful content on Facebook platform"  <Facebook-CNN-6> .
+ <http://example.org/ontology#FacebookBusinessReport> <http://schema.org/datePublished> "2023-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-CNN-6> .
+ <http://example.org/ontology#ProfitQ4> <http://schema.org/value> "11.2"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Facebook-CNN-6> .
+ <http://example.org/ontology#ProfitQ4> <http://schema.org/currency> "USD"  <Facebook-CNN-6> .
+ <http://Facebook-CNN-6.com/blank#n5d21b5588a8344bcb24f2394b9165cc3b1> <http://schema.org/name> "Dozens of states and the federal government"  <Facebook-CNN-6> .
+ <http://example.org/ontology#RegulatoryChallenges> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Facebook-CNN-6> .
+ <http://example.org/ontology#FacebookBusinessReport> <http://schema.org/about> <http://example.org/ontology#Facebook> <Facebook-CNN-6> .
+ <http://example.org/ontology#JesseCohen> <http://xmlns.com/foaf/0.1/name> "Jesse Cohen"  <Facebook-CNN-6> .
+ <http://example.org/ontology#RegulatoryChallenges> <http://schema.org/description> "Challenges including evolving regulatory landscape"  <Facebook-CNN-6> .
+ <http://example.org/ontology#MAUCount> <http://schema.org/unitText> "Billion"  <Facebook-CNN-6> .
+ <http://example.org/ontology#RegulatoryScrutiny> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Facebook-CNN-6> .
+ <http://example.org/ontology#CNNBusiness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> <Facebook-CNN-6> .
+ <http://Facebook-CNN-6.com/blank#n5d21b5588a8344bcb24f2394b9165cc3b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-CNN-6> .
+ <http://example.org/ontology#ContentSpread> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Facebook-CNN-6> .
+ <http://example.org/ontology#ReducePoliticalContent> <http://schema.org/description> "Considering steps to reduce political content in News Feed"  <Facebook-CNN-6> .
+ <http://example.org/ontology#MarkZuckerberg> <http://schema.org/jobTitle> "CEO"  <Facebook-CNN-6> .
+ <http://example.org/ontology#ContentSpread> <http://schema.org/description> "Posts promoting violence circulated despite crackdown after Capitol riots"  <Facebook-CNN-6> .
+ <http://example.org/ontology#ProfitQ4> <http://example.org/ontology#comparedToLastYear> "50%"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-CNN-6> .
+ <http://example.org/ontology#PermanentGroupRecommendationRemoval> <http://schema.org/description> "Plans to keep civic and political groups out of recommendations globally"  <Facebook-CNN-6> .
+ <http://example.org/ontology#RevenueQ4> <http://schema.org/currency> "USD"  <Facebook-CNN-6> .
+ <http://example.org/ontology#RevenueQ4> <http://schema.org/value> "28"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Facebook-CNN-6> .
+ <http://example.org/ontology#JesseCohen> <http://schema.org/jobTitle> "Senior Analyst at Investing.com"  <Facebook-CNN-6> .
+ <http://example.org/ontology#Facebook> <http://example.org/ontology#plans> <http://example.org/ontology#PermanentGroupRecommendationRemoval> <Facebook-CNN-6> .
+ <http://example.org/ontology#FacebookBusinessReport> <http://schema.org/author> <http://example.org/ontology#CNNBusiness> <Facebook-CNN-6> .
+ <http://example.org/ontology#Facebook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Facebook-CNN-6> .
+ <http://example.org/ontology#MarkZuckerberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-CNN-6> .
+ <http://example.org/ontology#Facebook> <http://xmlns.com/foaf/0.1/name> "Facebook"  <Facebook-CNN-6> .
+ <http://example.org/ontology#RegulatoryScrutiny> <http://schema.org/name> "Regulatory scrutiny over acquisitions"  <Facebook-CNN-6> .
+ <http://example.org/ontology#FacebookBusinessReport> <http://schema.org/description> "\n        Facebook's business continues to perform strongly despite regulatory scrutiny and criticism over misinformation.\n        The company reported significant profit and revenue growth, and is taking steps to reduce political content.\n        "  <Facebook-CNN-6> .
+ <http://example.org/ontology#FacebookBusinessReport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> <Facebook-CNN-6> .
+ <http://example.org/FinancialConductAuthority> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-CNN-7> .
+ <http://example.org/OptOutClassAction> <http://schema.org/plaintiff> <http://example.org/LizaLovdahlGormsen> <Facebook-CNN-7> .
+ <http://example.org/CompetitionAppealTribunal> <http://schema.org/name> "London’s Competition Appeal Tribunal"  <Facebook-CNN-7> .
+ <http://example.org/OptOutClassAction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LegalAction> <Facebook-CNN-7> .
+ <http://example.org/FederalTradeCommission> <http://schema.org/alternateName> "FTC"  <Facebook-CNN-7> .
+ <http://example.org/QuinnEmanuelUrquhartSullivan> <http://schema.org/legalCounsel> <http://example.org/LizaLovdahlGormsen> <Facebook-CNN-7> .
+ <http://example.org/FederalTradeCommission> <http://schema.org/name> "Federal Trade Commission"  <Facebook-CNN-7> .
+ <http://example.org/Facebook> <http://schema.org/alternateName> "Meta Platforms"  <Facebook-CNN-7> .
+ <http://example.org/LizaLovdahlGormsen> <http://schema.org/knowsAbout> "Competition Law"  <Facebook-CNN-7> .
+ <http://example.org/LizaLovdahlGormsen> <http://schema.org/jobTitle> "Senior Adviser"  <Facebook-CNN-7> .
+ <http://example.org/LizaLovdahlGormsen> <http://xmlns.com/foaf/0.1/name> "Liza Lovdahl Gormsen"  <Facebook-CNN-7> .
+ <http://example.org/OptOutClassAction> <http://schema.org/description> "Class action that binds a defined group automatically into a lawsuit unless individuals opt out."  <Facebook-CNN-7> .
+ <http://example.org/ClassAction> <http://schema.org/location> <http://example.org/CompetitionAppealTribunal> <Facebook-CNN-7> .
+ <http://example.org/AntitrustLawsuit> <http://schema.org/against> <http://example.org/Facebook> <Facebook-CNN-7> .
+ <http://example.org/QuinnEmanuelUrquhartSullivan> <http://schema.org/name> "Quinn Emanuel Urquhart & Sullivan"  <Facebook-CNN-7> .
+ <http://example.org/ClassAction> <http://schema.org/about> <http://example.org/Facebook> <Facebook-CNN-7> .
+ <http://example.org/FinancialConductAuthority> <http://schema.org/alternateName> "FCA"  <Facebook-CNN-7> .
+ <http://example.org/Facebook> <http://schema.org/legalName> "Facebook, Inc."  <Facebook-CNN-7> .
+ <http://example.org/FacebookPixel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <Facebook-CNN-7> .
+ <http://example.org/AntitrustLawsuit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Facebook-CNN-7> .
+ <http://example.org/AntitrustLawsuit> <http://schema.org/description> "Antitrust lawsuit by the FTC against Facebook."  <Facebook-CNN-7> .
+ <http://example.org/ClassAction> <http://schema.org/startDate> "2015-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-CNN-7> .
+ <http://example.org/FinancialConductAuthority> <http://schema.org/name> "Britain’s Financial Conduct Authority"  <Facebook-CNN-7> .
+ <http://example.org/ClassAction> <http://schema.org/description> "Class action in Britain over allegations Facebook abused market dominance by exploiting personal data of users."  <Facebook-CNN-7> .
+ <http://example.org/AntitrustLawsuit> <http://schema.org/organizer> <http://example.org/FederalTradeCommission> <Facebook-CNN-7> .
+ <http://example.org/QuinnEmanuelUrquhartSullivan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-CNN-7> .
+ <http://example.org/LizaLovdahlGormsen> <http://schema.org/affiliation> <http://example.org/FinancialConductAuthority> <Facebook-CNN-7> .
+ <http://example.org/ClassAction> <http://schema.org/organizer> <http://example.org/LizaLovdahlGormsen> <Facebook-CNN-7> .
+ <http://example.org/ClassAction> <http://schema.org/endDate> "2019-12-31"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-CNN-7> .
+ <http://example.org/ClassAction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Facebook-CNN-7> .
+ <http://example.org/OptOutClassAction> <http://schema.org/defendant> <http://example.org/Facebook> <Facebook-CNN-7> .
+ <http://example.org/FacebookPixel> <http://schema.org/description> "Mechanism used by Facebook to collect data and build profiles of users."  <Facebook-CNN-7> .
+ <http://example.org/LizaLovdahlGormsen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-CNN-7> .
+ <http://example.org/FederalTradeCommission> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GovernmentOrganization> <Facebook-CNN-7> .
+ <http://example.org/FacebookPixel> <http://schema.org/manufacturer> <http://example.org/Facebook> <Facebook-CNN-7> .
+ <http://example.org/Facebook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-CNN-7> .
+ <http://example.org/CompetitionAppealTribunal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <Facebook-CNN-7> .
+ <http://example.org/MarkZuckerberg> <http://schema.org/name> "Mark Zuckerberg"  <Facebook-CNN-8> .
+ <http://example.org/Algorithms> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Facebook-CNN-8> .
+ <http://example.org/MarkZuckerberg> <http://schema.org/worksFor> <http://example.org/Facebook> <Facebook-CNN-8> .
+ <http://example.org/SenateTestimony> <http://schema.org/date> "Last week"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-CNN-8> .
+ <http://example.org/HuggingFace> <http://schema.org/name> "Hugging Face"  <Facebook-CNN-8> .
+ <http://example.org/FrancesHaugen> <http://schema.org/name> "Frances Haugen"  <Facebook-CNN-8> .
+ <http://example.org/SashaCostanzaChock> <http://schema.org/jobTitle> "Director of Research and Design"  <Facebook-CNN-8> .
+ <http://example.org/MonikaBickert> <http://schema.org/name> "Monika Bickert"  <Facebook-CNN-8> .
+ <http://example.org/HilaryRoss> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Facebook-CNN-8> .
+ <http://example.org/AlgorithmicProductManagement> <http://schema.org/name> "Algorithmic Product Management"  <Facebook-CNN-8> .
+ <http://example.org/JamesMickens> <http://schema.org/roleName> "Co-Director"  <Facebook-CNN-8> .
+ <http://example.org/AlgorithmicProductManagement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Occupation> <Facebook-CNN-8> .
+ <http://example.org/BerkmanKleinCenter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-CNN-8> .
+ <http://example.org/HilaryRoss> <http://schema.org/name> "Hilary Ross"  <Facebook-CNN-8> .
+ <http://example.org/Facebook> <http://schema.org/mentions> <http://example.org/Algorithms> <Facebook-CNN-8> .
+ <http://example.org/FrancesHaugen> <http://schema.org/testimony> <http://example.org/SenateTestimony> <Facebook-CNN-8> .
+ <http://example.org/Facebook> <http://schema.org/employee> <http://example.org/FrancesHaugen> <Facebook-CNN-8> .
+ <http://example.org/MargaretMitchell> <http://schema.org/worksFor> <http://example.org/HuggingFace> <Facebook-CNN-8> .
+ <http://example.org/JamesMickens> <http://schema.org/worksFor> <http://example.org/HarvardUniversity> <Facebook-CNN-8> .
+ <http://example.org/SenateTestimony> <http://schema.org/eventStatus> <http://schema.org/EventPostponed> <Facebook-CNN-8> .
+ <http://example.org/InstituteForRebootingSocialMedia> <http://schema.org/parentOrganization> <http://example.org/BerkmanKleinCenter> <Facebook-CNN-8> .
+ <http://example.org/CNNBusiness> <http://schema.org/name> "CNN Business"  <Facebook-CNN-8> .
+ <http://example.org/Facebook> <http://schema.org/employee> <http://example.org/MonikaBickert> <Facebook-CNN-8> .
+ <http://example.org/HarvardUniversity> <http://schema.org/employee> <http://example.org/JamesMickens> <Facebook-CNN-8> .
+ <http://example.org/NewsFeed> <http://schema.org/dateCreated> "2006"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-CNN-8> .
+ <http://example.org/MarkZuckerberg> <http://schema.org/jobTitle> "CEO"  <Facebook-CNN-8> .
+ <http://example.org/MonikaBickert> <http://schema.org/worksFor> <http://example.org/Facebook> <Facebook-CNN-8> .
+ <http://example.org/FrancesHaugen> <http://schema.org/alumniOf> <http://example.org/UnknownUniversity> <Facebook-CNN-8> .
+ <http://example.org/MargaretMitchell> <http://schema.org/name> "Margaret Mitchell"  <Facebook-CNN-8> .
+ <http://example.org/SashaCostanzaChock> <http://schema.org/worksFor> <http://example.org/AlgorithmicJusticeLeague> <Facebook-CNN-8> .
+ <http://example.org/FrancesHaugen> <http://schema.org/jobTitle> "Former Facebook Product Manager"  <Facebook-CNN-8> .
+ <http://example.org/JamesMickens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Facebook-CNN-8> .
+ <http://example.org/JamesMickens> <http://schema.org/jobTitle> "Computer Science Professor"  <Facebook-CNN-8> .
+ <http://example.org/MonikaBickert> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Facebook-CNN-8> .
+ <http://example.org/NewsFeed> <http://schema.org/name> "News Feed"  <Facebook-CNN-8> .
+ <http://example.org/SenateTestimony> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Facebook-CNN-8> .
+ <http://example.org/MarkZuckerberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Facebook-CNN-8> .
+ <http://example.org/SenateTestimony> <http://schema.org/participant> <http://example.org/FrancesHaugen> <Facebook-CNN-8> .
+ <http://example.org/TikTok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-CNN-8> .
+ <http://example.org/Facebook> <http://schema.org/founder> <http://example.org/MarkZuckerberg> <Facebook-CNN-8> .
+ <http://example.org/Facebook> <http://schema.org/dateFounded> "2004-02-04"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-CNN-8> .
+ <http://example.org/MonikaBickert> <http://schema.org/jobTitle> "Head of Global Policy Management"  <Facebook-CNN-8> .
+ <http://example.org/BerkmanKleinCenter> <http://schema.org/employee> <http://example.org/JamesMickens> <Facebook-CNN-8> .
+ <http://example.org/AlgorithmicJusticeLeague> <http://schema.org/name> "Algorithmic Justice League"  <Facebook-CNN-8> .
+ <http://example.org/HilaryRoss> <http://schema.org/jobTitle> "Senior Program Manager"  <Facebook-CNN-8> .
+ <http://example.org/MargaretMitchell> <http://schema.org/jobTitle> "AI Ethics Lead"  <Facebook-CNN-8> .
+ <http://example.org/HarvardUniversity> <http://schema.org/name> "Harvard University"  <Facebook-CNN-8> .
+ <http://example.org/Facebook> <http://schema.org/mentions> <http://example.org/NewsFeed> <Facebook-CNN-8> .
+ <http://example.org/FrancesHaugen> <http://schema.org/hasOccupation> <http://example.org/AlgorithmicProductManagement> <Facebook-CNN-8> .
+ <http://example.org/JamesMickens> <http://schema.org/worksFor> <http://example.org/BerkmanKleinCenter> <Facebook-CNN-8> .
+ <http://example.org/Algorithms> <http://schema.org/name> "Algorithms"  <Facebook-CNN-8> .
+ <http://example.org/SashaCostanzaChock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Facebook-CNN-8> .
+ <http://example.org/HilaryRoss> <http://schema.org/worksFor> <http://example.org/BerkmanKleinCenter> <Facebook-CNN-8> .
+ <http://example.org/TikTok> <http://schema.org/name> "TikTok"  <Facebook-CNN-8> .
+ <http://example.org/InstituteForRebootingSocialMedia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-CNN-8> .
+ <http://example.org/MargaretMitchell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Facebook-CNN-8> .
+ <http://example.org/BerkmanKleinCenter> <http://schema.org/employee> <http://example.org/HilaryRoss> <Facebook-CNN-8> .
+ <http://example.org/NewsFeed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Facebook-CNN-8> .
+ <http://example.org/SashaCostanzaChock> <http://schema.org/name> "Sasha Costanza-Chock"  <Facebook-CNN-8> .
+ <http://example.org/SenateTestimony> <http://schema.org/name> "Senate Subcommittee Testimony"  <Facebook-CNN-8> .
+ <http://example.org/BerkmanKleinCenter> <http://schema.org/subOrganization> <http://example.org/InstituteForRebootingSocialMedia> <Facebook-CNN-8> .
+ <http://example.org/JamesMickens> <http://schema.org/name> "James Mickens"  <Facebook-CNN-8> .
+ <http://example.org/FrancesHaugen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Facebook-CNN-8> .
+ <http://example.org/BerkmanKleinCenter> <http://schema.org/name> "Berkman Klein Center for Internet & Society"  <Facebook-CNN-8> .
+ <http://example.org/AlgorithmicJusticeLeague> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-CNN-8> .
+ <http://example.org/InstituteForRebootingSocialMedia> <http://schema.org/name> "Institute for Rebooting Social Media"  <Facebook-CNN-8> .
+ <http://example.org/CNNBusiness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-CNN-8> .
+ <http://example.org/HarvardUniversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EducationalOrganization> <Facebook-CNN-8> .
+ <http://example.org/Facebook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-CNN-8> .
+ <http://example.org/Facebook> <http://schema.org/name> "Facebook"  <Facebook-CNN-8> .
+ <http://example.org/HuggingFace> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-CNN-8> .
+ <http://example.org/TomAlison> <http://xmlns.com/foaf/0.1/page> <https://www.facebook.com/tom.alison> <Facebook-CNN-9> .
+ <http://example.org/YearOfEfficiency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Facebook-CNN-9> .
+ <http://example.org/BlogPost> <http://schema.org/publisher> <http://example.org/FacebookInc> <Facebook-CNN-9> .
+ <http://Facebook-CNN-9.com/blank#ndb426247398346ff8c5e92ae29ebcd41b1> <http://schema.org/ratingCount> "daily active users"  <Facebook-CNN-9> .
+ <http://example.org/YearOfEfficiency> <http://schema.org/description> "An effort to cut costs and focus on prioritization and efficiency."  <Facebook-CNN-9> .
+ <http://example.org/TikTok> <http://schema.org/description> "A platform for short-form mobile videos."  <Facebook-CNN-9> .
+ <http://example.org/MessengerApp> <http://schema.org/author> <http://example.org/FacebookInc> <Facebook-CNN-9> .
+ <http://example.org/FacebookInc> <http://schema.org/owns> <http://example.org/MessengerApp> <Facebook-CNN-9> .
+ <http://example.org/Instagram> <http://schema.org/description> "A social networking service for sharing photos and videos."  <Facebook-CNN-9> .
+ <http://example.org/Instagram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <Facebook-CNN-9> .
+ <http://example.org/Facebook> <http://schema.org/applicationCategory> "Social Networking"  <Facebook-CNN-9> .
+ <http://example.org/Facebook> <http://schema.org/downloadUrl> "https://www.facebook.com/"  <Facebook-CNN-9> .
+ <http://example.org/Instagram> <http://schema.org/name> "Instagram"  <Facebook-CNN-9> .
+ <http://example.org/StrategyShift> <http://schema.org/startDate> "last year"  <Facebook-CNN-9> .
+ <http://example.org/YearOfEfficiency> <http://schema.org/name> "Year of Efficiency"  <Facebook-CNN-9> .
+ <http://example.org/Meta> <http://schema.org/owns> <http://example.org/Facebook> <Facebook-CNN-9> .
+ <http://example.org/CNN> <http://schema.org/employee> <http://example.org/Interviewer> <Facebook-CNN-9> .
+ <http://example.org/MessengerApp> <http://schema.org/name> "Messenger"  <Facebook-CNN-9> .
+ <http://example.org/StrategyShift> <http://schema.org/name> "Facebook Strategy Shift"  <Facebook-CNN-9> .
+ <http://example.org/FacebookInc> <http://schema.org/alternateName> "Facebook"  <Facebook-CNN-9> .
+ <http://example.org/FacebookInc> <http://schema.org/description> "Parent company of Facebook, Messenger, and Instagram."  <Facebook-CNN-9> .
+ <http://example.org/Facebook> <http://schema.org/softwareAddOn> <http://example.org/MessengerApp> <Facebook-CNN-9> .
+ <http://Facebook-CNN-9.com/blank#ndb426247398346ff8c5e92ae29ebcd41b1> <http://schema.org/ratingValue> "2 billion"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Facebook-CNN-9> .
+ <http://example.org/StrategyShift> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Facebook-CNN-9> .
+ <http://example.org/Metaverse> <http://schema.org/description> "A future version of the internet centered around virtual environments."  <Facebook-CNN-9> .
+ <http://example.org/Facebook> <http://schema.org/offers> <http://example.org/MessagingFeature> <Facebook-CNN-9> .
+ <http://example.org/HomeFeedRedesign> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UpdateAction> <Facebook-CNN-9> .
+ <http://example.org/Meta> <http://schema.org/alternateName> "Facebook Inc"  <Facebook-CNN-9> .
+ <http://example.org/FacebookInc> <http://schema.org/owns> <http://example.org/Facebook> <Facebook-CNN-9> .
+ <http://example.org/Instagram> <http://schema.org/author> <http://example.org/FacebookInc> <Facebook-CNN-9> .
+ <http://example.org/StrategyShift> <http://schema.org/organizer> <http://example.org/FacebookInc> <Facebook-CNN-9> .
+ <http://example.org/TikTok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <Facebook-CNN-9> .
+ <http://example.org/MarkZuckerberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-CNN-9> .
+ <http://example.org/Meta> <http://schema.org/name> "Meta"  <Facebook-CNN-9> .
+ <http://example.org/Interviewer> <http://schema.org/memberOf> <http://example.org/CNN> <Facebook-CNN-9> .
+ <http://example.org/Facebook> <http://schema.org/operatingSystem> "Multiple"  <Facebook-CNN-9> .
+ <http://example.org/FacebookInc> <http://schema.org/founder> <http://example.org/MarkZuckerberg> <Facebook-CNN-9> .
+ <http://example.org/AIContentRecommendation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Facebook-CNN-9> .
+ <http://example.org/BlogPost> <http://schema.org/datePublished> "Tuesday"  <Facebook-CNN-9> .
+ <http://example.org/StrategyShift> <http://schema.org/description> "A shift in strategy to become a 'discovery engine'."  <Facebook-CNN-9> .
+ <http://example.org/Meta> <http://schema.org/owns> <http://example.org/MessengerApp> <Facebook-CNN-9> .
+ <http://example.org/Instagram> <http://schema.org/applicationCategory> "Social Networking"  <Facebook-CNN-9> .
+ <http://example.org/MessengerApp> <http://schema.org/downloadUrl> "https://www.messenger.com/"  <Facebook-CNN-9> .
+ <http://example.org/Interviewer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-CNN-9> .
+ <http://example.org/Metaverse> <http://schema.org/name> "Metaverse"  <Facebook-CNN-9> .
+ <http://example.org/MessengerApp> <http://schema.org/applicationCategory> "Messaging"  <Facebook-CNN-9> .
+ <http://example.org/Facebook> <http://schema.org/founder> <http://example.org/MarkZuckerberg> <Facebook-CNN-9> .
+ <http://example.org/TomAlison> <http://xmlns.com/foaf/0.1/title> "Facebook head"  <Facebook-CNN-9> .
+ <http://example.org/Facebook> <http://schema.org/author> <http://example.org/FacebookInc> <Facebook-CNN-9> .
+ <http://example.org/TomAlison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-CNN-9> .
+ <http://example.org/HomeFeedRedesign> <http://schema.org/resultingOrganization> <http://example.org/FacebookInc> <Facebook-CNN-9> .
+ <http://example.org/FacebookInc> <http://schema.org/name> "Meta"  <Facebook-CNN-9> .
+ <http://example.org/CNN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-CNN-9> .
+ <http://example.org/TomAlison> <http://schema.org/memberOf> <http://example.org/FacebookInc> <Facebook-CNN-9> .
+ <http://example.org/MarkZuckerberg> <http://xmlns.com/foaf/0.1/name> "Mark Zuckerberg"  <Facebook-CNN-9> .
+ <http://example.org/AIContentRecommendation> <http://schema.org/isPartOf> <http://example.org/Facebook> <Facebook-CNN-9> .
+ <http://example.org/MarkZuckerberg> <http://xmlns.com/foaf/0.1/title> "Founder"  <Facebook-CNN-9> .
+ <http://example.org/Facebook> <http://schema.org/description> "A platform for social discovery and connecting with friends and family."  <Facebook-CNN-9> .
+ <http://example.org/CNN> <http://schema.org/name> "CNN"  <Facebook-CNN-9> .
+ <http://example.org/BlogPost> <http://schema.org/author> <http://example.org/TomAlison> <Facebook-CNN-9> .
+ <http://example.org/Meta> <http://schema.org/owns> <http://example.org/Instagram> <Facebook-CNN-9> .
+ <http://example.org/Facebook> <http://schema.org/dateCreated> "2004"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-CNN-9> .
+ <http://example.org/TomAlison> <http://schema.org/startDate> "2021-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Facebook-CNN-9> .
+ <http://example.org/YearOfEfficiency> <http://schema.org/organizer> <http://example.org/FacebookInc> <Facebook-CNN-9> .
+ <http://example.org/Meta> <http://schema.org/description> "A company focusing on social media and the metaverse."  <Facebook-CNN-9> .
+ <http://example.org/HomeFeedRedesign> <http://schema.org/object> <http://example.org/Facebook> <Facebook-CNN-9> .
+ <http://Facebook-CNN-9.com/blank#ndb426247398346ff8c5e92ae29ebcd41b1> <http://schema.org/bestRating> "December quarter"  <Facebook-CNN-9> .
+ <http://example.org/TikTok> <http://schema.org/name> "TikTok"  <Facebook-CNN-9> .
+ <http://example.org/Facebook> <http://schema.org/aggregateRating> <http://Facebook-CNN-9.com/blank#ndb426247398346ff8c5e92ae29ebcd41b1>  <Facebook-CNN-9> .
+ <http://example.org/TikTok> <http://schema.org/applicationCategory> "Social Networking"  <Facebook-CNN-9> .
+ <http://example.org/Facebook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <Facebook-CNN-9> .
+ <http://example.org/BlogPost> <http://schema.org/about> <http://example.org/Facebook> <Facebook-CNN-9> .
+ <http://example.org/Interviewer> <http://xmlns.com/foaf/0.1/name> "CNN Interviewer"  <Facebook-CNN-9> .
+ <http://example.org/MessengerApp> <http://schema.org/description> "A separate app for messaging on Facebook."  <Facebook-CNN-9> .
+ <http://example.org/FacebookInc> <http://schema.org/owns> <http://example.org/Instagram> <Facebook-CNN-9> .
+ <http://example.org/AIContentRecommendation> <http://schema.org/name> "AI-powered content recommendation"  <Facebook-CNN-9> .
+ <http://example.org/HomeFeedRedesign> <http://schema.org/description> "Redesign of the Facebook home feed to surface more entertaining posts."  <Facebook-CNN-9> .
+ <http://example.org/Meta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-CNN-9> .
+ <http://example.org/CNN> <http://schema.org/url> <https://www.cnn.com/> <Facebook-CNN-9> .
+ <http://example.org/MessengerApp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <Facebook-CNN-9> .
+ <http://example.org/Metaverse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Facebook-CNN-9> .
+ <http://example.org/TomAlison> <http://xmlns.com/foaf/0.1/name> "Tom Alison"  <Facebook-CNN-9> .
+ <http://example.org/FacebookInc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-CNN-9> .
+ <http://example.org/HomeFeedRedesign> <http://schema.org/agent> <http://example.org/FacebookInc> <Facebook-CNN-9> .
+ <http://example.org/BlogPost> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> <Facebook-CNN-9> .
+ <http://example.org/Facebook> <http://schema.org/name> "Facebook"  <Facebook-CNN-9> .
+ <http://example.org/MarkZuckerberg> <http://xmlns.com/foaf/0.1/workplaceHomepage> <http://example.org/FacebookInc> <Facebook-CNN-9> .
+ <http://example.org/MessengerApp> <http://schema.org/operatingSystem> "Multiple"  <Facebook-CNN-9> .

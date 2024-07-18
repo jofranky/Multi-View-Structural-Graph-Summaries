@@ -1,0 +1,766 @@
+ <http://www.facebook.com/ns#AnkhiDas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.person.org/ns#Executive> <Facebook-Al-Jazeera-0> .
+ <http://www.organization.org/ns#TablighiJamaat> <http://www.organization.org/ns#accusedOf> "spreading COVID-19"  <Facebook-Al-Jazeera-0> .
+ <http://www.bjp.org/ns#T_Raja_Singh> <http://www.person.org/ns#name> "T Raja Singh"  <Facebook-Al-Jazeera-0> .
+ <http://www.india.gov.in/ns#CAA> <http://www.organization.org/ns#name> "Citizenship Amendment Act"  <Facebook-Al-Jazeera-0> .
+ <http://www.facebook.com/ns#AnkhiDas> <http://www.person.org/ns#role> "Facebook's top public-policy executive in India"  <Facebook-Al-Jazeera-0> .
+ <http://www.wsj.com/articles/200816154331819> <http://www.facebook.com/ns#publicationDate> "2020-08-14"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-Al-Jazeera-0> .
+ <http://Facebook-Al-Jazeera-0.com/blank#n7380300bd1ef45ea96be0f72e55a79c4b2> <http://www.facebook.com/ns#targetGroup> <http://www.organization.org/ns#HinduNationalistGroups> <Facebook-Al-Jazeera-0> .
+ <http://www.bjp.org/ns#AnantkumarHegde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.person.org/ns#Politician> <Facebook-Al-Jazeera-0> .
+ <http://www.bjp.org/ns#KapilMishra> <http://www.facebook.com/ns#actionTaken> "video removed"  <Facebook-Al-Jazeera-0> .
+ <http://www.bjp.org/ns#KapilMishra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.person.org/ns#Politician> <Facebook-Al-Jazeera-0> .
+ <http://Facebook-Al-Jazeera-0.com/blank#n7380300bd1ef45ea96be0f72e55a79c4b1> <http://www.facebook.com/ns#assertion> "Facebook ignored its hate speech policy to avoid conflict with India's governing party."  <Facebook-Al-Jazeera-0> .
+ <http://www.bjp.org/ns#T_Raja_Singh> <http://www.person.org/ns#party> <http://www.bjp.org/ns#BJP> <Facebook-Al-Jazeera-0> .
+ <http://www.bjp.org/ns#T_Raja_Singh> <http://www.person.org/ns#knownFor> "anti-Muslim rhetoric"  <Facebook-Al-Jazeera-0> .
+ <http://Facebook-Al-Jazeera-0.com/blank#n7380300bd1ef45ea96be0f72e55a79c4b3> <http://www.facebook.com/ns#violationType> "hate speech"  <Facebook-Al-Jazeera-0> .
+ <http://Facebook-Al-Jazeera-0.com/blank#n7380300bd1ef45ea96be0f72e55a79c4b2> <http://www.facebook.com/ns#targetGroup> <http://www.organization.org/ns#HinduNationalistIndividuals> <Facebook-Al-Jazeera-0> .
+ <http://www.facebook.com/ns#AndyStone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.person.org/ns#Spokesperson> <Facebook-Al-Jazeera-0> .
+ <http://www.facebook.com/ns#MarkZuckerberg> <http://www.person.org/ns#cited> <http://www.bjp.org/ns#KapilMishra> <Facebook-Al-Jazeera-0> .
+ <http://www.bjp.org/ns#KapilMishra> <http://www.person.org/ns#videoContent> "warning to police to clear protesters"  <Facebook-Al-Jazeera-0> .
+ <http://www.bjp.org/ns#T_Raja_Singh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.person.org/ns#Politician> <Facebook-Al-Jazeera-0> .
+ <http://Facebook-Al-Jazeera-0.com/blank#n7380300bd1ef45ea96be0f72e55a79c4b2> <http://www.facebook.com/ns#targetGroup> <http://www.bjp.org/ns#Politicians> <Facebook-Al-Jazeera-0> .
+ <http://www.facebook.com/ns#AnkhiDas> <http://www.person.org/ns#opposedRuleApplication> <http://Facebook-Al-Jazeera-0.com/blank#n7380300bd1ef45ea96be0f72e55a79c4b2>  <Facebook-Al-Jazeera-0> .
+ <http://www.facebook.com/ns#AndyStone> <http://www.person.org/ns#name> "Andy Stone"  <Facebook-Al-Jazeera-0> .
+ <http://Facebook-Al-Jazeera-0.com/blank#n7380300bd1ef45ea96be0f72e55a79c4b3> <http://www.facebook.com/ns#actionTaken> "none"  <Facebook-Al-Jazeera-0> .
+ <http://www.bjp.org/ns#AnantkumarHegde> <http://www.person.org/ns#name> "Anantkumar Hegde"  <Facebook-Al-Jazeera-0> .
+ <http://www.facebook.com/ns#MarkZuckerberg> <http://www.person.org/ns#context> "employee town hall meeting"  <Facebook-Al-Jazeera-0> .
+ <http://www.facebook.com/ns#AnkhiDas> <http://www.person.org/ns#lobbies> <http://www.india.gov.in/ns#Government> <Facebook-Al-Jazeera-0> .
+ <http://www.bjp.org/ns#KapilMishra> <http://www.person.org/ns#relatedEvent> <http://Facebook-Al-Jazeera-0.com/blank#n7380300bd1ef45ea96be0f72e55a79c4b5>  <Facebook-Al-Jazeera-0> .
+ <http://www.facebook.com/ns#MarkZuckerberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.person.org/ns#Executive> <Facebook-Al-Jazeera-0> .
+ <http://www.wsj.com/articles/200816154331819> <http://www.facebook.com/ns#claims> <http://Facebook-Al-Jazeera-0.com/blank#n7380300bd1ef45ea96be0f72e55a79c4b1>  <Facebook-Al-Jazeera-0> .
+ <http://www.bjp.org/ns#T_Raja_Singh> <http://www.person.org/ns#facebookFollowers> "tens of thousands"  <Facebook-Al-Jazeera-0> .
+ <http://www.facebook.com/ns#MarkZuckerberg> <http://www.person.org/ns#name> "Mark Zuckerberg"  <Facebook-Al-Jazeera-0> .
+ <http://www.facebook.com/ns#MarkZuckerberg> <http://www.person.org/ns#position> "CEO of Facebook"  <Facebook-Al-Jazeera-0> .
+ <http://www.india.gov.in/ns#CAA> <http://www.organization.org/ns#critic> <http://www.organization.org/ns#UnitedNations> <Facebook-Al-Jazeera-0> .
+ <http://www.wsj.com/articles/200816154331819> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.facebook.com/ns#Report> <Facebook-Al-Jazeera-0> .
+ <http://www.india.gov.in/ns#CAA> <http://www.organization.org/ns#criticism> "fundamentally discriminatory towards Muslims"  <Facebook-Al-Jazeera-0> .
+ <http://www.bjp.org/ns#AnantkumarHegde> <http://www.person.org/ns#party> <http://www.bjp.org/ns#BJP> <Facebook-Al-Jazeera-0> .
+ <http://Facebook-Al-Jazeera-0.com/blank#n7380300bd1ef45ea96be0f72e55a79c4b1> <http://www.facebook.com/ns#source> "Wall Street Journal"  <Facebook-Al-Jazeera-0> .
+ <http://Facebook-Al-Jazeera-0.com/blank#n7380300bd1ef45ea96be0f72e55a79c4b5> <http://www.facebook.com/ns#eventName> "New Delhi religious violence"  <Facebook-Al-Jazeera-0> .
+ <http://Facebook-Al-Jazeera-0.com/blank#n7380300bd1ef45ea96be0f72e55a79c4b5> <http://www.facebook.com/ns#deathToll> "53 people, most of them Muslims"  <Facebook-Al-Jazeera-0> .
+ <http://www.organization.org/ns#TablighiJamaat> <http://www.organization.org/ns#name> "Tablighi Jamaat"  <Facebook-Al-Jazeera-0> .
+ <http://www.india.gov.in/ns#CAA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.organization.org/ns#Law> <Facebook-Al-Jazeera-0> .
+ <http://www.india.gov.in/ns#CAA> <http://www.organization.org/ns#passedDate> "2019-12-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-Al-Jazeera-0> .
+ <http://www.bjp.org/ns#AnantkumarHegde> <http://www.person.org/ns#facebookPosts> <http://Facebook-Al-Jazeera-0.com/blank#n7380300bd1ef45ea96be0f72e55a79c4b4>  <Facebook-Al-Jazeera-0> .
+ <http://www.facebook.com/ns#AnkhiDas> <http://www.person.org/ns#name> "Ankhi Das"  <Facebook-Al-Jazeera-0> .
+ <http://www.bjp.org/ns#T_Raja_Singh> <http://www.person.org/ns#state> <http://www.place.org/ns#Telangana> <Facebook-Al-Jazeera-0> .
+ <http://www.facebook.com/ns#AndyStone> <http://www.person.org/ns#acknowledges> <http://www.facebook.com/ns#AnkhiDas> <Facebook-Al-Jazeera-0> .
+ <http://Facebook-Al-Jazeera-0.com/blank#n7380300bd1ef45ea96be0f72e55a79c4b3> <http://www.facebook.com/ns#actionSuggested> "account ban"  <Facebook-Al-Jazeera-0> .
+ <http://Facebook-Al-Jazeera-0.com/blank#n7380300bd1ef45ea96be0f72e55a79c4b4> <http://www.facebook.com/ns#content> "Muslims spreading coronavirus as 'Corona Jihad'"  <Facebook-Al-Jazeera-0> .
+ <http://Facebook-Al-Jazeera-0.com/blank#n7380300bd1ef45ea96be0f72e55a79c4b2> <http://www.facebook.com/ns#rule> "Facebook's hate speech rules"  <Facebook-Al-Jazeera-0> .
+ <http://Facebook-Al-Jazeera-0.com/blank#n7380300bd1ef45ea96be0f72e55a79c4b3> <http://www.facebook.com/ns#reason> "potential damage to business prospects"  <Facebook-Al-Jazeera-0> .
+ <http://Facebook-Al-Jazeera-0.com/blank#n7380300bd1ef45ea96be0f72e55a79c4b4> <http://www.facebook.com/ns#actionTaken> "post deleted"  <Facebook-Al-Jazeera-0> .
+ <http://www.bjp.org/ns#KapilMishra> <http://www.person.org/ns#party> <http://www.bjp.org/ns#BJP> <Facebook-Al-Jazeera-0> .
+ <http://www.facebook.com/ns#MarkZuckerberg> <http://www.person.org/ns#date> "2020-06-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-Al-Jazeera-0> .
+ <http://www.bjp.org/ns#T_Raja_Singh> <http://www.person.org/ns#violations> <http://Facebook-Al-Jazeera-0.com/blank#n7380300bd1ef45ea96be0f72e55a79c4b3>  <Facebook-Al-Jazeera-0> .
+ <http://www.bjp.org/ns#KapilMishra> <http://www.person.org/ns#name> "Kapil Mishra"  <Facebook-Al-Jazeera-0> .
+ <http://www.organization.org/ns#TablighiJamaat> <http://www.organization.org/ns#membersArrested> "Dozens"  <Facebook-Al-Jazeera-0> .
+ <http://www.organization.org/ns#TablighiJamaat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.organization.org/ns#MissionaryMovement> <Facebook-Al-Jazeera-0> .
+ <http://example.org/ontology#MetaVerified> <http://dbpedia.org/ontology/product> <http://example.org/ontology#Instagram> <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#FacebookUser> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/User> <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#MetaVerified> <http://dbpedia.org/ontology/launchLocation> <http://dbpedia.org/resource/Australia> <Facebook-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/California> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#BlueBadge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> <Facebook-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Australia> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Australia> <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#Meta> <http://dbpedia.org/ontology/revenueChange> "Decline in 2022"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#Meta> <http://dbpedia.org/ontology/userCount> "Two billion daily users"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Mark_Zuckerberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#Facebook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#InstagramUser> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/User> <Facebook-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Mark_Zuckerberg> <http://schema.org/birthDate> "1984-05-14"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#Facebook> <http://dbpedia.org/ontology/previousSlogan> "Free and always will be"  <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#MetaVerified> <http://dbpedia.org/ontology/provider> <http://example.org/ontology#Meta> <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#Facebook> <http://xmlns.com/foaf/0.1/homepage> <https://www.facebook.com> <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#BlueBadge> <http://schema.org/description> "Badge indicating verified account"  <Facebook-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/California> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#Meta> <http://dbpedia.org/ontology/ceo> <http://dbpedia.org/resource/Mark_Zuckerberg> <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#GovernmentIDVerification> <http://schema.org/description> "Verification of user's account with a government ID"  <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#ContentCreators> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Audience> <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#MetaVerified> <http://dbpedia.org/ontology/availability> "Not available to businesses"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#Meta> <http://dbpedia.org/ontology/competition> <http://dbpedia.org/resource/Reddit> <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#Meta> <http://dbpedia.org/ontology/industry> "Social Media"  <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#IncreasedVisibility> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#CustomerSupportAccess> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> <Facebook-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Elon_Musk> <http://schema.org/birthDate> "1971-06-28"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#MetaVerified> <http://dbpedia.org/ontology/status> "Testing phase"  <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#MetaVerified> <http://dbpedia.org/ontology/startDate> "2023-02-19"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#MetaVerified> <http://dbpedia.org/ontology/customer> <http://example.org/ontology#FacebookUser> <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#Meta> <http://dbpedia.org/ontology/competition> <http://dbpedia.org/resource/Snapchat> <Facebook-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Twitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#InstagramUser> <http://schema.org/memberOf> <http://example.org/ontology#Instagram> <Facebook-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Elon_Musk> <http://xmlns.com/foaf/0.1/made> <http://dbpedia.org/resource/Twitter> <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#IncreasedVisibility> <http://schema.org/description> "More visibility for the user's account"  <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#ImpersonationProtection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#MetaVerified> <http://dbpedia.org/ontology/feature> <http://example.org/ontology#BlueBadge> <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#ContentCreators> <http://schema.org/description> "Individuals looking to expand their presence on the platforms"  <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#MetaVerified> <http://dbpedia.org/ontology/feature> <http://example.org/ontology#CustomerSupportAccess> <Facebook-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Snapchat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <Facebook-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/United_States> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <Facebook-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/TikTok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <Facebook-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/New_Zealand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#ImpersonationProtection> <http://schema.org/description> "Extra protection against impersonation"  <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#MetaVerified> <http://dbpedia.org/ontology/eligibility> "Above 18 years of age"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#Meta> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/California> <Facebook-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Twitter> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/Elon_Musk> <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#MetaVerified> <http://dbpedia.org/ontology/customer> <http://example.org/ontology#InstagramUser> <Facebook-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/New_Zealand> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/New_Zealand> <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#MetaVerified> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Service> <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#Meta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#Facebook> <http://dbpedia.org/ontology/developer> <http://example.org/ontology#Meta> <Facebook-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Mark_Zuckerberg> <http://xmlns.com/foaf/0.1/made> <http://example.org/ontology#MetaVerified> <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#MetaVerified> <http://dbpedia.org/ontology/price> "11.99 USD on web"  <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#CustomerSupportAccess> <http://schema.org/description> "Direct access to customer support"  <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#FacebookUser> <http://schema.org/memberOf> <http://example.org/ontology#Facebook> <Facebook-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Mark_Zuckerberg> <http://xmlns.com/foaf/0.1/name> "Mark Zuckerberg"  <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#MetaVerified> <http://dbpedia.org/ontology/feature> <http://example.org/ontology#IncreasedVisibility> <Facebook-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Mark_Zuckerberg> <http://schema.org/jobTitle> "CEO of Meta"  <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#Meta> <http://xmlns.com/foaf/0.1/name> "Meta"  <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#Instagram> <http://dbpedia.org/ontology/developer> <http://example.org/ontology#Meta> <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#Meta> <http://dbpedia.org/ontology/product> <http://example.org/ontology#MetaVerified> <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#Meta> <http://dbpedia.org/ontology/investment> "Metaverse"  <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#Meta> <http://dbpedia.org/ontology/competition> <http://dbpedia.org/resource/Twitter> <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#GovernmentIDVerification> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#MetaVerified> <http://dbpedia.org/ontology/targetAudience> <http://example.org/ontology#ContentCreators> <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#MetaVerified> <http://dbpedia.org/ontology/product> <http://example.org/ontology#Facebook> <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#MetaVerified> <http://dbpedia.org/ontology/feature> <http://example.org/ontology#GovernmentIDVerification> <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#MetaVerified> <http://dbpedia.org/ontology/serviceType> "Subscription service"  <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#Instagram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#Facebook> <http://dbpedia.org/ontology/currentStatus> "Paid plans introduced"  <Facebook-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Reddit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <Facebook-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#MetaVerified> <http://dbpedia.org/ontology/launchLocation> <http://dbpedia.org/resource/New_Zealand> <Facebook-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Elon_Musk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Twitter> <http://dbpedia.org/ontology/status> "Relaunched in December"  <Facebook-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Elon_Musk> <http://xmlns.com/foaf/0.1/name> "Elon Musk"  <Facebook-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Twitter> <http://dbpedia.org/ontology/serviceType> "Subscription service"  <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#Meta> <http://dbpedia.org/ontology/competition> <http://dbpedia.org/resource/TikTok> <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#MetaVerified> <http://dbpedia.org/ontology/feature> <http://example.org/ontology#ImpersonationProtection> <Facebook-Al-Jazeera-1> .
+ <http://example.org/ontology#MetaVerified> <http://dbpedia.org/ontology/price> "14.99 USD on Apple and Android OS"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-Al-Jazeera-1> .
+ <http://example.org/FacebookRealEstatePlans> <http://dbpedia.org/ontology/startDate> "2020-07-05"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-Al-Jazeera-2> .
+ <http://example.org/Shopify> <http://dbpedia.org/ontology/numberOfEmployees> "5000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Facebook-Al-Jazeera-2> .
+ <http://example.org/Covid19Pandemic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Disease> <Facebook-Al-Jazeera-2> .
+ <http://example.org/FutureRemoteWorkers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Facebook-Al-Jazeera-2> .
+ <http://example.org/FacebookRemoteWorkPolicy> <http://schema.org/startDate> "2020-03-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-Al-Jazeera-2> .
+ <http://example.org/Facebook> <http://dbpedia.org/ontology/subsidiary> <http://example.org/WhatsApp> <Facebook-Al-Jazeera-2> .
+ <http://example.org/JackDorsey> <http://xmlns.com/foaf/0.1/name> "Jack Dorsey"  <Facebook-Al-Jazeera-2> .
+ <http://example.org/FremontExpansion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Project> <Facebook-Al-Jazeera-2> .
+ <http://example.org/Facebook> <http://dbpedia.org/ontology/numberOfEmployees> "48000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Facebook-Al-Jazeera-2> .
+ <http://example.org/NewYork> <http://xmlns.com/foaf/0.1/name> "New York"  <Facebook-Al-Jazeera-2> .
+ <http://example.org/RemoteWork> <http://dbpedia.org/ontology/status> "Permanent"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-Al-Jazeera-2> .
+ <http://example.org/Facebook> <http://dbpedia.org/ontology/ceo> <http://example.org/MarkZuckerberg> <Facebook-Al-Jazeera-2> .
+ <http://example.org/FutureRemoteWorkers> <http://schema.org/affiliation> <http://example.org/Facebook> <Facebook-Al-Jazeera-2> .
+ <http://example.org/Square> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Facebook-Al-Jazeera-2> .
+ <http://example.org/Facebook> <http://dbpedia.org/ontology/parentCompany> <http://example.org/MetaPlatformsInc> <Facebook-Al-Jazeera-2> .
+ <http://example.org/MetaPlatformsInc> <http://xmlns.com/foaf/0.1/name> "Meta Platforms, Inc."  <Facebook-Al-Jazeera-2> .
+ <http://example.org/MenloParkHeadquarters> <http://dbpedia.org/ontology/location> <http://example.org/MenloPark> <Facebook-Al-Jazeera-2> .
+ <http://example.org/Facebook> <http://dbpedia.org/ontology/subsidiary> <http://example.org/Instagram> <Facebook-Al-Jazeera-2> .
+ <http://example.org/Facebook> <http://dbpedia.org/ontology/industry> "Social Network"  <Facebook-Al-Jazeera-2> .
+ <http://example.org/WhatsApp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Facebook-Al-Jazeera-2> .
+ <http://example.org/Facebook> <http://dbpedia.org/ontology/headquarter> <http://example.org/MenloParkHeadquarters> <Facebook-Al-Jazeera-2> .
+ <http://example.org/RemoteWorkAdoption> <http://dbpedia.org/ontology/cause> <http://example.org/Covid19Pandemic> <Facebook-Al-Jazeera-2> .
+ <http://example.org/Covid19Pandemic> <http://dbpedia.org/ontology/location> <http://example.org/Global> <Facebook-Al-Jazeera-2> .
+ <http://example.org/CurrentFacebookEmployees> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Facebook-Al-Jazeera-2> .
+ <http://example.org/NewYork> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <Facebook-Al-Jazeera-2> .
+ <http://example.org/Facebook> <http://schema.org/employee> <http://example.org/CurrentFacebookEmployees> <Facebook-Al-Jazeera-2> .
+ <http://example.org/Facebook> <http://xmlns.com/foaf/0.1/name> "Facebook Inc."  <Facebook-Al-Jazeera-2> .
+ <http://example.org/RemoteWork> <http://dbpedia.org/ontology/workLocation> <http://example.org/VariousLocations> <Facebook-Al-Jazeera-2> .
+ <http://example.org/MenloParkHeadquarters> <http://dbpedia.org/ontology/owner> <http://example.org/Facebook> <Facebook-Al-Jazeera-2> .
+ <http://example.org/Facebook> <http://dbpedia.org/ontology/subsidiary> <http://example.org/OculusVR> <Facebook-Al-Jazeera-2> .
+ <http://example.org/Facebook> <http://schema.org/employee> <http://example.org/FutureRemoteWorkers> <Facebook-Al-Jazeera-2> .
+ <http://example.org/Twitter> <http://dbpedia.org/ontology/ceo> <http://example.org/JackDorsey> <Facebook-Al-Jazeera-2> .
+ <http://example.org/NewYorkHudsonYards> <http://dbpedia.org/ontology/owner> <http://example.org/Facebook> <Facebook-Al-Jazeera-2> .
+ <http://example.org/NewYorkHudsonYards> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Building> <Facebook-Al-Jazeera-2> .
+ <http://example.org/MarkZuckerberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-Al-Jazeera-2> .
+ <http://example.org/FacebookRemoteWorkPolicy> <http://schema.org/employee> <http://example.org/FutureRemoteWorkers> <Facebook-Al-Jazeera-2> .
+ <http://example.org/FacebookRealEstatePlans> <http://dbpedia.org/ontology/capacity> "25%"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-Al-Jazeera-2> .
+ <http://example.org/FacebookRealEstatePlans> <http://dbpedia.org/ontology/location> <http://example.org/MenloParkHeadquarters> <Facebook-Al-Jazeera-2> .
+ <http://Facebook-Al-Jazeera-2.com/blank#n80e589dc9ac64519b513f63bd311cc55b2> <http://schema.org/workLocation> <http://example.org/RemoteWork> <Facebook-Al-Jazeera-2> .
+ <http://example.org/VariousLocations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <Facebook-Al-Jazeera-2> .
+ <http://Facebook-Al-Jazeera-2.com/blank#n80e589dc9ac64519b513f63bd311cc55b3> <http://dbpedia.org/ontology/increase> "Remote Work"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-Al-Jazeera-2> .
+ <http://example.org/Instagram> <http://dbpedia.org/ontology/owner> <http://example.org/Facebook> <Facebook-Al-Jazeera-2> .
+ <http://example.org/FacebookRemoteWorkPolicy> <http://schema.org/endDate> "2020-12-31"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-Al-Jazeera-2> .
+ <http://example.org/FacebookRemoteWorkPolicy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-Al-Jazeera-2> .
+ <http://example.org/MenloPark> <http://xmlns.com/foaf/0.1/name> "Menlo Park, California"  <Facebook-Al-Jazeera-2> .
+ <http://example.org/Facebook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Facebook-Al-Jazeera-2> .
+ <http://example.org/FacebookRemoteWorkPolicy> <http://schema.org/name> "Facebook's Remote Work Policy"  <Facebook-Al-Jazeera-2> .
+ <http://example.org/CurrentFacebookEmployees> <http://schema.org/jobTitle> "Facebook Employee"  <Facebook-Al-Jazeera-2> .
+ <http://example.org/RemoteWorkAdoption> <http://dbpedia.org/ontology/effect> <http://Facebook-Al-Jazeera-2.com/blank#n80e589dc9ac64519b513f63bd311cc55b3>  <Facebook-Al-Jazeera-2> .
+ <http://example.org/RemoteWorkAdoption> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Facebook-Al-Jazeera-2> .
+ <http://example.org/FutureRemoteWorkers> <http://schema.org/jobTitle> "Remote Worker"  <Facebook-Al-Jazeera-2> .
+ <http://example.org/MarkZuckerberg> <http://xmlns.com/foaf/0.1/name> "Mark Zuckerberg"  <Facebook-Al-Jazeera-2> .
+ <http://example.org/Covid19Pandemic> <http://dbpedia.org/ontology/impact> <http://example.org/RemoteWorkAdoption> <Facebook-Al-Jazeera-2> .
+ <http://example.org/NewYorkHudsonYards> <http://dbpedia.org/ontology/location> <http://example.org/NewYork> <Facebook-Al-Jazeera-2> .
+ <http://example.org/JackDorsey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-Al-Jazeera-2> .
+ <http://example.org/MarkZuckerberg> <http://xmlns.com/foaf/0.1/member> <http://example.org/Facebook> <Facebook-Al-Jazeera-2> .
+ <http://example.org/FremontExpansion> <http://dbpedia.org/ontology/location> <http://example.org/Fremont> <Facebook-Al-Jazeera-2> .
+ <http://example.org/Facebook> <http://dbpedia.org/ontology/product> <http://example.org/FacebookSocialNetwork> <Facebook-Al-Jazeera-2> .
+ <http://example.org/FacebookRealEstatePlans> <http://dbpedia.org/ontology/location> <http://example.org/FremontExpansion> <Facebook-Al-Jazeera-2> .
+ <http://example.org/WhatsApp> <http://dbpedia.org/ontology/owner> <http://example.org/Facebook> <Facebook-Al-Jazeera-2> .
+ <http://example.org/Fremont> <http://xmlns.com/foaf/0.1/name> "Fremont"  <Facebook-Al-Jazeera-2> .
+ <http://example.org/Square> <http://dbpedia.org/ontology/ceo> <http://example.org/JackDorsey> <Facebook-Al-Jazeera-2> .
+ <http://example.org/RemoteWork> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> <Facebook-Al-Jazeera-2> .
+ <http://example.org/FacebookRealEstatePlans> <http://dbpedia.org/ontology/plannedBy> <http://example.org/Facebook> <Facebook-Al-Jazeera-2> .
+ <http://example.org/CurrentFacebookEmployees> <http://schema.org/workLocation> <http://Facebook-Al-Jazeera-2.com/blank#n80e589dc9ac64519b513f63bd311cc55b1>  <Facebook-Al-Jazeera-2> .
+ <http://Facebook-Al-Jazeera-2.com/blank#n80e589dc9ac64519b513f63bd311cc55b1> <http://schema.org/workLocation> <http://example.org/RemoteWork> <Facebook-Al-Jazeera-2> .
+ <http://example.org/OculusVR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Facebook-Al-Jazeera-2> .
+ <http://example.org/MenloPark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <Facebook-Al-Jazeera-2> .
+ <http://example.org/Facebook> <http://dbpedia.org/ontology/location> <http://example.org/MenloPark> <Facebook-Al-Jazeera-2> .
+ <http://example.org/FacebookRemoteWorkPolicy> <http://schema.org/employee> <http://example.org/CurrentFacebookEmployees> <Facebook-Al-Jazeera-2> .
+ <http://example.org/VariousLocations> <http://dbpedia.org/ontology/country> "United States"  <Facebook-Al-Jazeera-2> .
+ <http://example.org/Instagram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Facebook-Al-Jazeera-2> .
+ <http://example.org/MetaPlatformsInc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Facebook-Al-Jazeera-2> .
+ <http://example.org/MenloParkHeadquarters> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Building> <Facebook-Al-Jazeera-2> .
+ <http://example.org/Twitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Facebook-Al-Jazeera-2> .
+ <http://example.org/Fremont> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <Facebook-Al-Jazeera-2> .
+ <http://example.org/CurrentFacebookEmployees> <http://schema.org/affiliation> <http://example.org/Facebook> <Facebook-Al-Jazeera-2> .
+ <http://example.org/Shopify> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Facebook-Al-Jazeera-2> .
+ <http://example.org/FacebookRealEstatePlans> <http://dbpedia.org/ontology/location> <http://example.org/NewYorkHudsonYards> <Facebook-Al-Jazeera-2> .
+ <http://example.org/FutureRemoteWorkers> <http://schema.org/workLocation> <http://Facebook-Al-Jazeera-2.com/blank#n80e589dc9ac64519b513f63bd311cc55b2>  <Facebook-Al-Jazeera-2> .
+ <http://example.org/FacebookRealEstatePlans> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Plan> <Facebook-Al-Jazeera-2> .
+ <http://example.org/OculusVR> <http://dbpedia.org/ontology/owner> <http://example.org/Facebook> <Facebook-Al-Jazeera-2> .
+ <http://example.org/MarkZuckerberg> <http://schema.org/jobTitle> "Chief Executive Officer"  <Facebook-Al-Jazeera-2> .
+ <http://example.org/FacebookPublicStatement> <http://dbpedia.org/ontology/startDate> "2020-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Facebook-Al-Jazeera-3> .
+ <http://example.org/GenocideConvention> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Treaty> <Facebook-Al-Jazeera-3> .
+ <http://example.org/US_District_Court_DC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Facebook-Al-Jazeera-3> .
+ <http://example.org/ICJCase_GambiaVsMyanmar> <http://dbpedia.org/ontology/defendant> <http://example.org/Myanmar> <Facebook-Al-Jazeera-3> .
+ <http://example.org/FacebookDataSharingWithIIMM> <http://www.w3.org/ns/sosa/hasParticipant> <http://example.org/SocialMediaGiant> <Facebook-Al-Jazeera-3> .
+ <http://example.org/ICJ> <http://xmlns.com/foaf/0.1/name> "International Court of Justice"  <Facebook-Al-Jazeera-3> .
+ <http://example.org/FacebookRoleInAtrocities> <http://dbpedia.org/ontology/startDate> "2017-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Facebook-Al-Jazeera-3> .
+ <http://Facebook-Al-Jazeera-3.com/blank#n7779ca7249fa47d38c55d6e7ab25f770b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Facebook-Al-Jazeera-3> .
+ <http://example.org/TheGambia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <Facebook-Al-Jazeera-3> .
+ <http://example.org/MyanmarPolice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Facebook-Al-Jazeera-3> .
+ <http://example.org/StoredCommunicationsAct> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Legislation> <Facebook-Al-Jazeera-3> .
+ <http://Facebook-Al-Jazeera-3.com/blank#n7779ca7249fa47d38c55d6e7ab25f770b2> <http://dbpedia.org/ontology/influencedBy> <http://example.org/Rohingya> <Facebook-Al-Jazeera-3> .
+ <http://example.org/RakhineState> <http://dbpedia.org/ontology/country> <http://example.org/Myanmar> <Facebook-Al-Jazeera-3> .
+ <http://example.org/FacebookPartialComplianceWithDataRequest> <http://www.w3.org/ns/sosa/hasParticipant> <http://example.org/SocialMediaGiant> <Facebook-Al-Jazeera-3> .
+ <http://example.org/ICJCase_GambiaVsMyanmar> <http://dbpedia.org/ontology/relatedTo> <http://example.org/GenocideConvention> <Facebook-Al-Jazeera-3> .
+ <http://example.org/FacebookDataSharingWithIIMM> <http://dbpedia.org/ontology/influencedBy> <http://example.org/FacebookDisclosureRequest> <Facebook-Al-Jazeera-3> .
+ <http://example.org/ClearanceOperation> <http://dbpedia.org/ontology/result> <http://Facebook-Al-Jazeera-3.com/blank#n7779ca7249fa47d38c55d6e7ab25f770b3>  <Facebook-Al-Jazeera-3> .
+ <http://Facebook-Al-Jazeera-3.com/blank#n7779ca7249fa47d38c55d6e7ab25f770b1> <http://dbpedia.org/ontology/startDate> "2020-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Facebook-Al-Jazeera-3> .
+ <http://Facebook-Al-Jazeera-3.com/blank#n7779ca7249fa47d38c55d6e7ab25f770b2> <http://dbpedia.org/ontology/influencedBy> <http://example.org/MyanmarPolice> <Facebook-Al-Jazeera-3> .
+ <http://example.org/FacebookRoleInAtrocities> <http://www.w3.org/ns/sosa/hasParticipant> <http://example.org/SocialMediaGiant> <Facebook-Al-Jazeera-3> .
+ <http://example.org/US_District_Court_DC> <http://xmlns.com/foaf/0.1/name> "US District Court for the District of Columbia"  <Facebook-Al-Jazeera-3> .
+ <http://example.org/StoredCommunicationsAct> <http://dbpedia.org/ontology/wikiPageID> "2702"^^<http://www.w3.org/2001/XMLSchema#integer>  <Facebook-Al-Jazeera-3> .
+ <http://example.org/FacebookHumanRightsImpactAssessment> <http://dbpedia.org/ontology/startDate> "2018-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Facebook-Al-Jazeera-3> .
+ <http://example.org/IIMM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Facebook-Al-Jazeera-3> .
+ <http://example.org/ClearanceOperation> <http://dbpedia.org/ontology/startDate> "2017-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Facebook-Al-Jazeera-3> .
+ <http://Facebook-Al-Jazeera-3.com/blank#n7779ca7249fa47d38c55d6e7ab25f770b1> <http://dbpedia.org/ontology/reason> <http://Facebook-Al-Jazeera-3.com/blank#n7779ca7249fa47d38c55d6e7ab25f770b2>  <Facebook-Al-Jazeera-3> .
+ <http://example.org/ICJProtectiveMeasuresRuling> <http://dbpedia.org/ontology/concerns> <http://example.org/TheGambia> <Facebook-Al-Jazeera-3> .
+ <http://example.org/KoumjianStatement> <http://dbpedia.org/ontology/influencedBy> <http://example.org/FacebookDataSharingWithIIMM> <Facebook-Al-Jazeera-3> .
+ <http://example.org/FacebookDisclosureRequest> <http://dbpedia.org/ontology/against> <http://example.org/StoredCommunicationsAct> <Facebook-Al-Jazeera-3> .
+ <http://example.org/IIMM> <http://xmlns.com/foaf/0.1/name> "United Nations Independent Investigative Mechanism for Myanmar"  <Facebook-Al-Jazeera-3> .
+ <http://example.org/MyanmarMilitary> <http://dbpedia.org/ontology/country> <http://example.org/Myanmar> <Facebook-Al-Jazeera-3> .
+ <http://example.org/FacebookDisclosureRequest> <http://www.w3.org/ns/sosa/isResultOf> <http://Facebook-Al-Jazeera-3.com/blank#n7779ca7249fa47d38c55d6e7ab25f770b1>  <Facebook-Al-Jazeera-3> .
+ <http://example.org/FacebookDataSharingWithIIMM> <http://dbpedia.org/ontology/startDate> "2020-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Facebook-Al-Jazeera-3> .
+ <http://example.org/NicholasKoumjian> <http://xmlns.com/foaf/0.1/name> "Nicholas Koumjian"  <Facebook-Al-Jazeera-3> .
+ <http://example.org/UN_FactFindingMission_Myanmar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Facebook-Al-Jazeera-3> .
+ <http://example.org/FacebookAccountSuspensions> <http://www.w3.org/ns/sosa/hasParticipant> <http://example.org/SocialMediaGiant> <Facebook-Al-Jazeera-3> .
+ <http://example.org/NicholasKoumjian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-Al-Jazeera-3> .
+ <http://example.org/ICJCase_GambiaVsMyanmar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/LegalCase> <Facebook-Al-Jazeera-3> .
+ <http://Facebook-Al-Jazeera-3.com/blank#n7779ca7249fa47d38c55d6e7ab25f770b1> <http://dbpedia.org/ontology/against> <http://example.org/SocialMediaGiant> <Facebook-Al-Jazeera-3> .
+ <http://example.org/ClearanceOperation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> <Facebook-Al-Jazeera-3> .
+ <http://Facebook-Al-Jazeera-3.com/blank#n7779ca7249fa47d38c55d6e7ab25f770b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/sosa/Action> <Facebook-Al-Jazeera-3> .
+ <http://example.org/KoumjianStatement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/sosa/Action> <Facebook-Al-Jazeera-3> .
+ <http://Facebook-Al-Jazeera-3.com/blank#n7779ca7249fa47d38c55d6e7ab25f770b3> <http://dbpedia.org/ontology/participant> <http://example.org/Rohingya> <Facebook-Al-Jazeera-3> .
+ <http://example.org/FacebookPartialComplianceWithDataRequest> <http://dbpedia.org/ontology/startDate> "2020-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Facebook-Al-Jazeera-3> .
+ <http://example.org/FacebookAccountSuspensions> <http://dbpedia.org/ontology/against> <http://example.org/MyanmarMilitary> <Facebook-Al-Jazeera-3> .
+ <http://example.org/FacebookRoleInAtrocities> <http://dbpedia.org/ontology/influencedBy> <http://example.org/UN_FactFindingMission_Myanmar> <Facebook-Al-Jazeera-3> .
+ <http://example.org/ICJ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Facebook-Al-Jazeera-3> .
+ <http://example.org/MyanmarPolice> <http://dbpedia.org/ontology/country> <http://example.org/Myanmar> <Facebook-Al-Jazeera-3> .
+ <http://Facebook-Al-Jazeera-3.com/blank#n7779ca7249fa47d38c55d6e7ab25f770b2> <http://dbpedia.org/ontology/concerns> <http://example.org/GenocideConvention> <Facebook-Al-Jazeera-3> .
+ <http://example.org/ICJProtectiveMeasuresRuling> <http://dbpedia.org/ontology/concerns> <http://example.org/GenocideConvention> <Facebook-Al-Jazeera-3> .
+ <http://Facebook-Al-Jazeera-3.com/blank#n7779ca7249fa47d38c55d6e7ab25f770b2> <http://dbpedia.org/ontology/isPartOf> <http://example.org/ICJ> <Facebook-Al-Jazeera-3> .
+ <http://example.org/FacebookDataSharingWithIIMM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/sosa/Action> <Facebook-Al-Jazeera-3> .
+ <http://example.org/Rohingya> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EthnicGroup> <Facebook-Al-Jazeera-3> .
+ <http://example.org/FacebookDataSharingWithIIMM> <http://www.w3.org/ns/sosa/hasParticipant> <http://example.org/IIMM> <Facebook-Al-Jazeera-3> .
+ <http://example.org/GenocideConvention> <http://xmlns.com/foaf/0.1/name> "Genocide Convention"  <Facebook-Al-Jazeera-3> .
+ <http://example.org/UN_FactFindingMission_Myanmar> <http://xmlns.com/foaf/0.1/name> "UN Independent International Fact-Finding Mission on Myanmar"  <Facebook-Al-Jazeera-3> .
+ <http://example.org/Myanmar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <Facebook-Al-Jazeera-3> .
+ <http://example.org/ICJCase_GambiaVsMyanmar> <http://dbpedia.org/ontology/plaintiff> <http://example.org/TheGambia> <Facebook-Al-Jazeera-3> .
+ <http://example.org/FacebookDisclosureRequest> <http://dbpedia.org/ontology/startDate> "2020-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Facebook-Al-Jazeera-3> .
+ <http://example.org/ICJProtectiveMeasuresRuling> <http://dbpedia.org/ontology/startDate> "2021-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Facebook-Al-Jazeera-3> .
+ <http://Facebook-Al-Jazeera-3.com/blank#n7779ca7249fa47d38c55d6e7ab25f770b3> <http://dbpedia.org/ontology/participant> <http://example.org/MyanmarMilitary> <Facebook-Al-Jazeera-3> .
+ <http://example.org/FacebookHumanRightsImpactAssessment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/sosa/Action> <Facebook-Al-Jazeera-3> .
+ <http://example.org/FacebookHumanRightsImpactAssessment> <http://www.w3.org/ns/sosa/hasParticipant> <http://example.org/SocialMediaGiant> <Facebook-Al-Jazeera-3> .
+ <http://example.org/ICJProtectiveMeasuresRuling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Facebook-Al-Jazeera-3> .
+ <http://example.org/StoredCommunicationsAct> <http://xmlns.com/foaf/0.1/name> "Stored Communications Act"  <Facebook-Al-Jazeera-3> .
+ <http://example.org/FacebookPartialComplianceWithDataRequest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/sosa/Action> <Facebook-Al-Jazeera-3> .
+ <http://example.org/NicholasKoumjian> <http://schema.org/jobTitle> "IIMM head"  <Facebook-Al-Jazeera-3> .
+ <http://example.org/FacebookPublicStatement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/sosa/Action> <Facebook-Al-Jazeera-3> .
+ <http://example.org/ICJCase_GambiaVsMyanmar> <http://dbpedia.org/ontology/isPartOf> <http://example.org/ICJ> <Facebook-Al-Jazeera-3> .
+ <http://example.org/ClearanceOperation> <http://dbpedia.org/ontology/place> <http://example.org/RakhineState> <Facebook-Al-Jazeera-3> .
+ <http://example.org/KoumjianStatement> <http://dbpedia.org/ontology/startDate> "2020-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Facebook-Al-Jazeera-3> .
+ <http://example.org/FacebookPublicStatement> <http://www.w3.org/ns/sosa/hasParticipant> <http://example.org/SocialMediaGiant> <Facebook-Al-Jazeera-3> .
+ <http://example.org/SocialMediaGiant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Facebook-Al-Jazeera-3> .
+ <http://Facebook-Al-Jazeera-3.com/blank#n7779ca7249fa47d38c55d6e7ab25f770b1> <http://www.w3.org/ns/sosa/hasParticipant> <http://example.org/TheGambia> <Facebook-Al-Jazeera-3> .
+ <http://example.org/ICJCase_GambiaVsMyanmar> <http://dbpedia.org/ontology/startDate> "2019-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Facebook-Al-Jazeera-3> .
+ <http://example.org/FacebookRoleInAtrocities> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/sosa/Action> <Facebook-Al-Jazeera-3> .
+ <http://example.org/SocialMediaGiant> <http://xmlns.com/foaf/0.1/name> "Facebook"  <Facebook-Al-Jazeera-3> .
+ <http://example.org/FacebookDisclosureRequest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/sosa/Action> <Facebook-Al-Jazeera-3> .
+ <http://example.org/KoumjianStatement> <http://www.w3.org/ns/sosa/hasParticipant> <http://example.org/NicholasKoumjian> <Facebook-Al-Jazeera-3> .
+ <http://Facebook-Al-Jazeera-3.com/blank#n7779ca7249fa47d38c55d6e7ab25f770b3> <http://dbpedia.org/ontology/startDate> "2017-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Facebook-Al-Jazeera-3> .
+ <http://Facebook-Al-Jazeera-3.com/blank#n7779ca7249fa47d38c55d6e7ab25f770b3> <http://dbpedia.org/ontology/casualties> "thousands"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-Al-Jazeera-3> .
+ <http://example.org/RakhineState> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <Facebook-Al-Jazeera-3> .
+ <http://example.org/Myanmar> <http://dbpedia.org/ontology/ethnicGroup> <http://example.org/Rohingya> <Facebook-Al-Jazeera-3> .
+ <http://example.org/FacebookRoleInAtrocities> <http://dbpedia.org/ontology/influencedBy> <http://example.org/ClearanceOperation> <Facebook-Al-Jazeera-3> .
+ <http://example.org/MyanmarMilitary> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryUnit> <Facebook-Al-Jazeera-3> .
+ <http://Facebook-Al-Jazeera-3.com/blank#n7779ca7249fa47d38c55d6e7ab25f770b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Facebook-Al-Jazeera-3> .
+ <http://example.org/FacebookDisclosureRequest> <http://dbpedia.org/ontology/opponent> <http://example.org/SocialMediaGiant> <Facebook-Al-Jazeera-3> .
+ <http://example.org/ICJProtectiveMeasuresRuling> <http://dbpedia.org/ontology/isPartOf> <http://example.org/ICJCase_GambiaVsMyanmar> <Facebook-Al-Jazeera-3> .
+ <http://example.org/ClearanceOperation> <http://dbpedia.org/ontology/combatant> <http://example.org/MyanmarMilitary> <Facebook-Al-Jazeera-3> .
+ <http://example.org/FacebookAccountSuspensions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/sosa/Action> <Facebook-Al-Jazeera-3> .
+ <http://Facebook-Al-Jazeera-3.com/blank#n7779ca7249fa47d38c55d6e7ab25f770b2> <http://dbpedia.org/ontology/influencedBy> <http://example.org/MyanmarMilitary> <Facebook-Al-Jazeera-3> .
+ <http://example.org/FacebookDisclosureRequest> <http://www.w3.org/ns/sosa/hasParticipant> <http://example.org/US_District_Court_DC> <Facebook-Al-Jazeera-3> .
+ <http://example.org/FacebookPartialComplianceWithDataRequest> <http://dbpedia.org/ontology/influencedBy> <http://example.org/KoumjianStatement> <Facebook-Al-Jazeera-3> .
+ <http://example.org/FacebookPublicStatement> <http://dbpedia.org/ontology/influencedBy> <http://example.org/FacebookDisclosureRequest> <Facebook-Al-Jazeera-3> .
+ <http://example.org/FacebookAccountSuspensions> <http://dbpedia.org/ontology/startDate> "2018-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Facebook-Al-Jazeera-3> .
+ <http://example.org/ICJProtectiveMeasuresRuling> <http://dbpedia.org/ontology/concerns> <http://example.org/Myanmar> <Facebook-Al-Jazeera-3> .
+ <http://example.org/entities/SenateHearing> <http://schema.org/participant> <http://example.org/entities/Facebook> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/GoFundMeCampaign> <http://schema.org/target> <http://Facebook-Al-Jazeera-4.com/blank#ncc4d807d3e604f85b2f1ed7bbbcf47c4b6>  <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/GoFundMeCampaign> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/DonateAction> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/WallStreetJournal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/ComplaintsFiled> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/WhistleblowerAid> <http://schema.org/provides> <http://example.org/entities/LegalRepresentation> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/LegalRepresentation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Service> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/FacebookInvestigation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/Facebook> <http://schema.org/employee> <http://example.org/entities/FrancesHaugen> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/FrancesHaugen> <http://schema.org/subjectOf> <http://example.org/entities/WhistleblowerRevelation> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/FacebookPosts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPosting> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/JohnTye> <http://schema.org/name> "John Tye"  <Facebook-Al-Jazeera-4> .
+ <http://Facebook-Al-Jazeera-4.com/blank#ncc4d807d3e604f85b2f1ed7bbbcf47c4b4> <http://schema.org/name> "misinformation"  <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/InternalResearch> <http://schema.org/about> <http://Facebook-Al-Jazeera-4.com/blank#ncc4d807d3e604f85b2f1ed7bbbcf47c4b4>  <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/FacebookUsers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/InternalResearch> <http://schema.org/about> <http://Facebook-Al-Jazeera-4.com/blank#ncc4d807d3e604f85b2f1ed7bbbcf47c4b3>  <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/InternalResearch> <http://schema.org/about> <http://Facebook-Al-Jazeera-4.com/blank#ncc4d807d3e604f85b2f1ed7bbbcf47c4b5>  <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/ComplaintsFiled> <http://schema.org/about> <http://example.org/entities/Facebook> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/FrancesHaugen> <http://schema.org/worksFor> <http://example.org/entities/Facebook> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/FrancesHaugen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/Facebook> <http://schema.org/founder> "Mark Zuckerberg"  <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/WhistleblowerAid> <http://schema.org/founder> <http://example.org/entities/JohnTye> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/FrancesHaugenLawyers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/60Minutes> <http://schema.org/participant> <http://example.org/entities/FrancesHaugen> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/CapitolRiotOrganization> <http://schema.org/date> "2021-01-06"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/60Minutes> <http://schema.org/name> "60 Minutes"  <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/WhistleblowerRevelation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/Facebook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/FrancesHaugen> <http://schema.org/alumniOf> <http://Facebook-Al-Jazeera-4.com/blank#ncc4d807d3e604f85b2f1ed7bbbcf47c4b2>  <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/InternalResearch> <http://schema.org/mentions> <http://example.org/entities/VaccineHesitancy> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/WallStreetJournal> <http://schema.org/name> "Wall Street Journal"  <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/FrancesHaugen> <http://schema.org/jobTitle> "Product Manager"  <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/USSEC> <http://schema.org/name> "US Securities and Exchange Commission"  <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/WhistleblowerAid> <http://schema.org/name> "Whistleblower Aid"  <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/60Minutes> <http://schema.org/broadcastOn> "CBS"  <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/ProtectingKidsOnline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/FacebookUsers> <http://schema.org/memberOf> <http://example.org/entities/Facebook> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/ProtectingKidsOnline> <http://schema.org/name> "Protecting Kids Online"  <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/GoFundMeCampaign> <http://schema.org/purpose> "Legal costs"  <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/FacebookPosts> <http://schema.org/about> <http://example.org/entities/VaccineHesitancy> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/FacebookInvestigation> <http://schema.org/author> <http://example.org/entities/WallStreetJournal> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/WallStreetJournal> <http://schema.org/publishes> <http://example.org/entities/FacebookInvestigation> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/GoFundMeCampaign> <http://schema.org/beneficiary> <http://example.org/entities/FrancesHaugen> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/CapitolRiotOrganization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/WhistleblowerRevelation> <http://schema.org/description> "Revealed identity in a TV interview and accused Facebook of prioritizing profit over clamping down on hate speech and misinformation."  <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/USSEC> <http://schema.org/receives> <http://example.org/entities/ComplaintsFiled> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/LegalRepresentation> <http://schema.org/provider> <http://example.org/entities/WhistleblowerAid> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/VaccineHesitancy> <http://schema.org/name> "vaccine hesitancy"  <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/ComplaintsFiled> <http://schema.org/recipient> <http://example.org/entities/USSEC> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/Facebook> <http://schema.org/publishes> <http://example.org/entities/InternalResearch> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/LegalRepresentation> <http://schema.org/recipient> <http://example.org/entities/FrancesHaugen> <Facebook-Al-Jazeera-4> .
+ <http://Facebook-Al-Jazeera-4.com/blank#ncc4d807d3e604f85b2f1ed7bbbcf47c4b3> <http://schema.org/name> "hate speech"  <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/60Minutes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/TVSeries> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/CapitolRiotOrganization> <http://schema.org/organizer> <http://example.org/entities/FacebookUsers> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/GoFundMeCampaign> <http://schema.org/agent> <http://example.org/entities/WhistleblowerAid> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/WhistleblowerRevelation> <http://schema.org/participant> <http://example.org/entities/FrancesHaugen> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/ComplaintsFiled> <http://schema.org/author> <http://example.org/entities/FrancesHaugenLawyers> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/VaccineHesitancy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalCondition> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/FrancesHaugen> <http://schema.org/alumniOf> <http://Facebook-Al-Jazeera-4.com/blank#ncc4d807d3e604f85b2f1ed7bbbcf47c4b1>  <Facebook-Al-Jazeera-4> .
+ <http://Facebook-Al-Jazeera-4.com/blank#ncc4d807d3e604f85b2f1ed7bbbcf47c4b6> <http://schema.org/value> "50000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/JohnTye> <http://schema.org/attorneyFor> <http://example.org/entities/FrancesHaugen> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/USSEC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GovernmentOrganization> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/FrancesHaugen> <http://schema.org/memberOf> <http://example.org/entities/CivicMisinformationTeam> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/ProtectingKidsOnline> <http://schema.org/participant> <http://example.org/entities/FrancesHaugen> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/SenateHearing> <http://schema.org/name> "Senate hearing on Instagram’s harm to teen girls"  <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/Facebook> <http://schema.org/legalName> "Facebook Inc"  <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/LegalRepresentation> <http://schema.org/serviceType> "Legal representation"  <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/FacebookInvestigation> <http://schema.org/about> <http://example.org/entities/Facebook> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/FacebookPosts> <http://schema.org/isPartOf> <http://example.org/entities/Facebook> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/ContentAlgorithmChanges> <http://schema.org/description> "Changes to content algorithm contributed to increased polarisation online."  <Facebook-Al-Jazeera-4> .
+ <http://Facebook-Al-Jazeera-4.com/blank#ncc4d807d3e604f85b2f1ed7bbbcf47c4b1> <http://schema.org/name> "Google"  <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/JohnTye> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/InternalResearch> <http://schema.org/mentions> <http://example.org/entities/ContentAlgorithmChanges> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/InternalResearch> <http://schema.org/mentions> <http://example.org/entities/CapitolRiotOrganization> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/SenateHearing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Facebook-Al-Jazeera-4> .
+ <http://Facebook-Al-Jazeera-4.com/blank#ncc4d807d3e604f85b2f1ed7bbbcf47c4b5> <http://schema.org/name> "Instagram’s harm to teen girls"  <Facebook-Al-Jazeera-4> .
+ <http://Facebook-Al-Jazeera-4.com/blank#ncc4d807d3e604f85b2f1ed7bbbcf47c4b6> <http://schema.org/currency> "USD"  <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/WhistleblowerAid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/InternalResearch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/ContentAlgorithmChanges> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/FrancesHaugenLawyers> <http://schema.org/member> <http://example.org/entities/JohnTye> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/InternalResearch> <http://schema.org/author> <http://example.org/entities/Facebook> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/JohnTye> <http://schema.org/founder> <http://example.org/entities/WhistleblowerAid> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/CapitolRiotOrganization> <http://schema.org/location> "United States Capitol"  <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/FrancesHaugen> <http://schema.org/name> "Frances Haugen"  <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/VaccineHesitancy> <http://schema.org/associatedMedia> <http://example.org/entities/FacebookPosts> <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/CapitolRiotOrganization> <http://schema.org/name> "Capitol riot organization"  <Facebook-Al-Jazeera-4> .
+ <http://example.org/entities/Facebook> <http://schema.org/name> "Facebook Inc"  <Facebook-Al-Jazeera-4> .
+ <http://Facebook-Al-Jazeera-4.com/blank#ncc4d807d3e604f85b2f1ed7bbbcf47c4b2> <http://schema.org/name> "Pinterest"  <Facebook-Al-Jazeera-4> .
+ <http://example.org/TheFacebookPapers> <http://dbpedia.org/ontology/language> "English"  <Facebook-Al-Jazeera-5> .
+ <http://example.org/BJP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> <Facebook-Al-Jazeera-5> .
+ <http://example.org/FacebookMisinformationIssue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Facebook-Al-Jazeera-5> .
+ <http://example.org/FacebookEmployee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-Al-Jazeera-5> .
+ <http://example.org/ViolentRiotsInNewDelhi> <http://schema.org/startDate> "2020-02-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-Al-Jazeera-5> .
+ <http://example.org/FacebookHateSpeechIssue> <http://schema.org/endDate> "2023-03-31"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-Al-Jazeera-5> .
+ <http://example.org/CoronajihadHashtag> <http://schema.org/datePublished> "2020-04-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-Al-Jazeera-5> .
+ <http://example.org/InternalFacebookReports> <http://schema.org/dateCreated> "2019-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-Al-Jazeera-5> .
+ <http://example.org/TestUserAccountExperiment> <http://schema.org/startDate> "2019-02-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-Al-Jazeera-5> .
+ <http://example.org/InternalFacebookReports> <http://schema.org/author> <http://example.org/FacebookEmployee> <Facebook-Al-Jazeera-5> .
+ <http://example.org/FacebookMisinformationIssue> <http://schema.org/about> <http://example.org/FacebookIndia> <Facebook-Al-Jazeera-5> .
+ <http://example.org/TheAssociatedPress> <http://xmlns.com/foaf/0.1/homepage> <https://apnews.com> <Facebook-Al-Jazeera-5> .
+ <http://example.org/NarendraModi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-Al-Jazeera-5> .
+ <http://example.org/TheFacebookPapers> <http://schema.org/author> <http://example.org/FrancesHaugen> <Facebook-Al-Jazeera-5> .
+ <http://example.org/TestUserAccountExperiment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Facebook-Al-Jazeera-5> .
+ <http://example.org/MohammadAbbas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-Al-Jazeera-5> .
+ <http://example.org/FrancesHaugen> <http://dbpedia.org/ontology/occupation> "Whistleblower"  <Facebook-Al-Jazeera-5> .
+ <http://example.org/BJP> <http://dbpedia.org/ontology/abbreviation> "BJP"  <Facebook-Al-Jazeera-5> .
+ <http://example.org/LotusMahalDocument> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Facebook-Al-Jazeera-5> .
+ <http://example.org/LotusMahalDocument> <http://schema.org/description> "Document highlighting the use of Facebook to amplify anti-Muslim content by BJP-linked members."  <Facebook-Al-Jazeera-5> .
+ <http://example.org/AntiMuslimPropaganda> <http://dbpedia.org/ontology/cause> <http://example.org/TheFacebookPapers> <Facebook-Al-Jazeera-5> .
+ <http://example.org/TheFacebookPapers> <http://schema.org/publisher> <http://example.org/TheAssociatedPress> <Facebook-Al-Jazeera-5> .
+ <http://example.org/FacebookHateSpeechIssue> <http://schema.org/startDate> "2019-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-Al-Jazeera-5> .
+ <http://example.org/ViolentRiotsInNewDelhi> <http://schema.org/endDate> "2020-02-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-Al-Jazeera-5> .
+ <http://example.org/NarendraModi> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Bharatiya_Janata_Party> <Facebook-Al-Jazeera-5> .
+ <http://example.org/FacebookPolicyDecisions> <http://schema.org/startDate> "2020-12-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-Al-Jazeera-5> .
+ <http://example.org/InternalFacebookReports> <http://schema.org/description> "Reports on hate speech and misinformation in India."  <Facebook-Al-Jazeera-5> .
+ <http://example.org/TestUserAccountExperiment> <http://schema.org/endDate> "2019-02-21"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-Al-Jazeera-5> .
+ <http://example.org/MuslimCommunity> <http://xmlns.com/foaf/0.1/name> "Muslim community in India"  <Facebook-Al-Jazeera-5> .
+ <http://example.org/FacebookMisinformationIssue> <http://schema.org/endDate> "2023-03-31"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-Al-Jazeera-5> .
+ <http://example.org/WhatsApp> <http://dbpedia.org/ontology/numberOfUsers> "400 million"^^<http://www.w3.org/2001/XMLSchema#integer>  <Facebook-Al-Jazeera-5> .
+ <http://example.org/ViolentRiotsInNewDelhi> <http://schema.org/description> "Riots erupted after a politician from Modi's party uploaded a video on Facebook."  <Facebook-Al-Jazeera-5> .
+ <http://example.org/LotusMahalDocument> <http://schema.org/dateCreated> "2023-03-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-Al-Jazeera-5> .
+ <http://example.org/WhatsApp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <Facebook-Al-Jazeera-5> .
+ <http://example.org/BJP> <http://xmlns.com/foaf/0.1/name> "Bharatiya Janata Party"  <Facebook-Al-Jazeera-5> .
+ <http://example.org/FacebookEmployee> <http://schema.org/memberOf> <http://example.org/Facebook> <Facebook-Al-Jazeera-5> .
+ <http://example.org/MarkZuckerberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-Al-Jazeera-5> .
+ <http://example.org/AntiMuslimPropaganda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Facebook-Al-Jazeera-5> .
+ <http://example.org/CoronajihadHashtag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Facebook-Al-Jazeera-5> .
+ <http://example.org/FacebookMisinformationIssue> <http://schema.org/startDate> "2019-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-Al-Jazeera-5> .
+ <http://example.org/MarkZuckerberg> <http://xmlns.com/foaf/0.1/depiction> <https://example.org/mark-zuckerberg-image> <Facebook-Al-Jazeera-5> .
+ <http://example.org/LotusMahalDocument> <http://schema.org/author> <http://example.org/FacebookEmployee> <Facebook-Al-Jazeera-5> .
+ <http://example.org/FacebookHateSpeechIssue> <http://dbpedia.org/ontology/cause> <http://example.org/TheFacebookPapers> <Facebook-Al-Jazeera-5> .
+ <http://example.org/FacebookIndia> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/India> <Facebook-Al-Jazeera-5> .
+ <http://example.org/RashtriyaSwayamsevakSangh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Facebook-Al-Jazeera-5> .
+ <http://example.org/FacebookIndia> <http://schema.org/parentOrganization> <http://example.org/Facebook> <Facebook-Al-Jazeera-5> .
+ <http://example.org/MohammadAbbas> <http://xmlns.com/foaf/0.1/name> "Mohammad Abbas"  <Facebook-Al-Jazeera-5> .
+ <http://example.org/AntiMuslimPropaganda> <http://schema.org/about> <http://example.org/FacebookIndia> <Facebook-Al-Jazeera-5> .
+ <http://example.org/CoronajihadHashtag> <http://schema.org/mentions> <http://example.org/MuslimCommunity> <Facebook-Al-Jazeera-5> .
+ <http://example.org/FacebookPolicyDecisions> <http://dbpedia.org/ontology/cause> <http://example.org/TheFacebookPapers> <Facebook-Al-Jazeera-5> .
+ <http://example.org/Facebook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Facebook-Al-Jazeera-5> .
+ <http://example.org/COVID19Pandemic> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/India> <Facebook-Al-Jazeera-5> .
+ <http://example.org/MohammadAbbas> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/New_Delhi> <Facebook-Al-Jazeera-5> .
+ <http://example.org/ViolentRiotsInNewDelhi> <http://dbpedia.org/ontology/casualties> "53"^^<http://www.w3.org/2001/XMLSchema#integer>  <Facebook-Al-Jazeera-5> .
+ <http://example.org/FacebookIndia> <http://dbpedia.org/ontology/numberOfEmployees> "340 million"^^<http://www.w3.org/2001/XMLSchema#integer>  <Facebook-Al-Jazeera-5> .
+ <http://example.org/FacebookPolicyDecisions> <http://schema.org/endDate> "2023-03-31"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-Al-Jazeera-5> .
+ <http://example.org/ViolentRiotsInNewDelhi> <http://schema.org/location> <http://dbpedia.org/resource/New_Delhi> <Facebook-Al-Jazeera-5> .
+ <http://example.org/SecuritiesAndExchangeCommission> <http://xmlns.com/foaf/0.1/homepage> <https://www.sec.gov> <Facebook-Al-Jazeera-5> .
+ <http://example.org/MarkZuckerberg> <http://xmlns.com/foaf/0.1/name> "Mark Zuckerberg"  <Facebook-Al-Jazeera-5> .
+ <http://example.org/TheAssociatedPress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Facebook-Al-Jazeera-5> .
+ <http://example.org/NarendraModi> <http://dbpedia.org/ontology/position> "Prime Minister of India"  <Facebook-Al-Jazeera-5> .
+ <http://example.org/Facebook> <http://dbpedia.org/ontology/product> <http://example.org/WhatsApp> <Facebook-Al-Jazeera-5> .
+ <http://example.org/FrancesHaugen> <http://xmlns.com/foaf/0.1/name> "Frances Haugen"  <Facebook-Al-Jazeera-5> .
+ <http://example.org/RashtriyaSwayamsevakSangh> <http://dbpedia.org/ontology/ideology> "Hindu nationalism"  <Facebook-Al-Jazeera-5> .
+ <http://example.org/TestUserAccountExperiment> <http://schema.org/description> "An experiment to understand the impact of recommended content on a new user's news feed in India."  <Facebook-Al-Jazeera-5> .
+ <http://example.org/FacebookPolicyDecisions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Facebook-Al-Jazeera-5> .
+ <http://example.org/MohammadAbbas> <http://dbpedia.org/ontology/occupation> "Muslim preacher"  <Facebook-Al-Jazeera-5> .
+ <http://example.org/COVID19Pandemic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Facebook-Al-Jazeera-5> .
+ <http://example.org/AntiMuslimPropaganda> <http://schema.org/endDate> "2023-03-31"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-Al-Jazeera-5> .
+ <http://example.org/FacebookHateSpeechIssue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Facebook-Al-Jazeera-5> .
+ <http://example.org/ViolentRiotsInNewDelhi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Facebook-Al-Jazeera-5> .
+ <http://example.org/InternalFacebookReports> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Facebook-Al-Jazeera-5> .
+ <http://example.org/MuslimCommunity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EthnicGroup> <Facebook-Al-Jazeera-5> .
+ <http://example.org/CoronajihadHashtag> <http://schema.org/about> <http://example.org/COVID19Pandemic> <Facebook-Al-Jazeera-5> .
+ <http://example.org/FrancesHaugen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-Al-Jazeera-5> .
+ <http://example.org/Facebook> <http://xmlns.com/foaf/0.1/homepage> <https://www.facebook.com> <Facebook-Al-Jazeera-5> .
+ <http://example.org/MarkZuckerberg> <http://dbpedia.org/ontology/title> "Chairman and CEO"  <Facebook-Al-Jazeera-5> .
+ <http://example.org/RashtriyaSwayamsevakSangh> <http://xmlns.com/foaf/0.1/name> "Rashtriya Swayamsevak Sangh"  <Facebook-Al-Jazeera-5> .
+ <http://example.org/TheFacebookPapers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Facebook-Al-Jazeera-5> .
+ <http://example.org/SecuritiesAndExchangeCommission> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Facebook-Al-Jazeera-5> .
+ <http://example.org/FacebookHateSpeechIssue> <http://schema.org/about> <http://example.org/FacebookIndia> <Facebook-Al-Jazeera-5> .
+ <http://example.org/NarendraModi> <http://xmlns.com/foaf/0.1/name> "Narendra Modi"  <Facebook-Al-Jazeera-5> .
+ <http://example.org/FacebookMisinformationIssue> <http://dbpedia.org/ontology/cause> <http://example.org/TheFacebookPapers> <Facebook-Al-Jazeera-5> .
+ <http://example.org/Facebook> <http://dbpedia.org/ontology/founder> <http://example.org/MarkZuckerberg> <Facebook-Al-Jazeera-5> .
+ <http://example.org/TestUserAccountExperiment> <http://schema.org/organizer> <http://example.org/FacebookEmployee> <Facebook-Al-Jazeera-5> .
+ <http://example.org/AntiMuslimPropaganda> <http://schema.org/startDate> "2019-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-Al-Jazeera-5> .
+ <http://example.org/FacebookIndia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Facebook-Al-Jazeera-5> .
+ <http://example.org/FacebookPolicyDecisions> <http://schema.org/about> <http://example.org/FacebookIndia> <Facebook-Al-Jazeera-5> .
+ <http://example.org/Elections> <http://schema.org/startDate> "2021-01-14"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-Al-Jazeera-6> .
+ <http://example.org/UgandanGovernmentOfficials> <http://schema.org/member> <http://example.org/FrankTumwebaze> <Facebook-Al-Jazeera-6> .
+ <http://example.org/FrankTumwebaze> <http://xmlns.com/foaf/0.1/account> <http://Facebook-Al-Jazeera-6.com/blank#n2feb598115284426ad1a7813c145078eb6>  <Facebook-Al-Jazeera-6> .
+ <http://example.org/BobiWine> <http://schema.org/roleName> "Opposition Candidate"  <Facebook-Al-Jazeera-6> .
+ <http://example.org/UgandanGovernmentOfficials> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-Al-Jazeera-6> .
+ <http://Facebook-Al-Jazeera-6.com/blank#n2feb598115284426ad1a7813c145078eb8> <http://schema.org/actionStatus> "PotentialActionStatus"  <Facebook-Al-Jazeera-6> .
+ <http://example.org/UgandanGovernmentOfficials> <http://schema.org/member> <http://example.org/JudithNabakooba> <Facebook-Al-Jazeera-6> .
+ <http://example.org/Facebook> <http://schema.org/accusation> "manipulating public debate"  <Facebook-Al-Jazeera-6> .
+ <http://Facebook-Al-Jazeera-6.com/blank#n2feb598115284426ad1a7813c145078eb8> <http://schema.org/agent> <http://example.org/BobiWine> <Facebook-Al-Jazeera-6> .
+ <http://example.org/DonWanyama> <http://xmlns.com/foaf/0.1/name> "Don Wanyama"  <Facebook-Al-Jazeera-6> .
+ <http://Facebook-Al-Jazeera-6.com/blank#n2feb598115284426ad1a7813c145078eb2> <http://schema.org/actionStatus> "CompletedActionStatus"  <Facebook-Al-Jazeera-6> .
+ <http://example.org/DonWanyama> <http://schema.org/roleName> "Senior Press Secretary"  <Facebook-Al-Jazeera-6> .
+ <http://Facebook-Al-Jazeera-6.com/blank#n2feb598115284426ad1a7813c145078eb6> <http://xmlns.com/foaf/0.1/accountServiceHomepage> <https://twitter.com> <Facebook-Al-Jazeera-6> .
+ <http://example.org/Facebook> <http://schema.org/relatedTo> <http://example.org/Elections> <Facebook-Al-Jazeera-6> .
+ <http://example.org/KagutaMuseveni> <http://xmlns.com/foaf/0.1/name> "Kaguta Museveni"  <Facebook-Al-Jazeera-6> .
+ <http://example.org/Riots> <http://schema.org/location> <http://example.org/Kampala> <Facebook-Al-Jazeera-6> .
+ <http://example.org/YoweriMuseveni> <http://schema.org/roleName> "Incumbent President"  <Facebook-Al-Jazeera-6> .
+ <http://Facebook-Al-Jazeera-6.com/blank#n2feb598115284426ad1a7813c145078eb1> <http://schema.org/target> <http://example.org/UgandanGovernmentOfficials> <Facebook-Al-Jazeera-6> .
+ <http://Facebook-Al-Jazeera-6.com/blank#n2feb598115284426ad1a7813c145078eb6> <http://xmlns.com/foaf/0.1/accountName> "@FrankTumwebazek"  <Facebook-Al-Jazeera-6> .
+ <http://example.org/Elections> <http://schema.org/about> <http://Facebook-Al-Jazeera-6.com/blank#n2feb598115284426ad1a7813c145078eb3>  <Facebook-Al-Jazeera-6> .
+ <http://example.org/Elections> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Facebook-Al-Jazeera-6> .
+ <http://example.org/DonWanyama> <http://xmlns.com/foaf/0.1/account> <http://Facebook-Al-Jazeera-6.com/blank#n2feb598115284426ad1a7813c145078eb5>  <Facebook-Al-Jazeera-6> .
+ <http://example.org/FrankTumwebaze> <http://schema.org/roleName> "Minister of Gender, Labour and Social Development"  <Facebook-Al-Jazeera-6> .
+ <http://Facebook-Al-Jazeera-6.com/blank#n2feb598115284426ad1a7813c145078eb3> <http://schema.org/roleName> "President"  <Facebook-Al-Jazeera-6> .
+ <http://example.org/JudithNabakooba> <http://xmlns.com/foaf/0.1/name> "Judith Nabakooba"  <Facebook-Al-Jazeera-6> .
+ <http://Facebook-Al-Jazeera-6.com/blank#n2feb598115284426ad1a7813c145078eb5> <http://xmlns.com/foaf/0.1/accountName> "@nyamadon"  <Facebook-Al-Jazeera-6> .
+ <http://example.org/DonWanyama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-Al-Jazeera-6> .
+ <http://example.org/YoweriMuseveni> <http://xmlns.com/foaf/0.1/name> "Yoweri Museveni"  <Facebook-Al-Jazeera-6> .
+ <http://Facebook-Al-Jazeera-6.com/blank#n2feb598115284426ad1a7813c145078eb1> <http://schema.org/result> <http://Facebook-Al-Jazeera-6.com/blank#n2feb598115284426ad1a7813c145078eb2>  <Facebook-Al-Jazeera-6> .
+ <http://Facebook-Al-Jazeera-6.com/blank#n2feb598115284426ad1a7813c145078eb11> <http://schema.org/quantity> "54"^^<http://www.w3.org/2001/XMLSchema#integer>  <Facebook-Al-Jazeera-6> .
+ <http://Facebook-Al-Jazeera-6.com/blank#n2feb598115284426ad1a7813c145078eb7> <http://xmlns.com/foaf/0.1/accountServiceHomepage> <https://twitter.com> <Facebook-Al-Jazeera-6> .
+ <http://example.org/UgandanGovernmentOfficials> <http://schema.org/member> <http://example.org/DonWanyama> <Facebook-Al-Jazeera-6> .
+ <http://example.org/YoweriMuseveni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-Al-Jazeera-6> .
+ <http://Facebook-Al-Jazeera-6.com/blank#n2feb598115284426ad1a7813c145078eb2> <http://schema.org/description> "Facebook accounts shut down"  <Facebook-Al-Jazeera-6> .
+ <http://example.org/FrankTumwebaze> <http://xmlns.com/foaf/0.1/name> "Frank Tumwebaze"  <Facebook-Al-Jazeera-6> .
+ <http://Facebook-Al-Jazeera-6.com/blank#n2feb598115284426ad1a7813c145078eb8> <http://schema.org/result> <http://Facebook-Al-Jazeera-6.com/blank#n2feb598115284426ad1a7813c145078eb9>  <Facebook-Al-Jazeera-6> .
+ <http://example.org/Elections> <http://schema.org/eventType> "General Elections"  <Facebook-Al-Jazeera-6> .
+ <http://example.org/Elections> <http://schema.org/location> <http://example.org/Uganda> <Facebook-Al-Jazeera-6> .
+ <http://example.org/ICC> <http://schema.org/name> "International Criminal Court"  <Facebook-Al-Jazeera-6> .
+ <http://example.org/JudithNabakooba> <http://schema.org/roleName> "Minister of Information"  <Facebook-Al-Jazeera-6> .
+ <http://example.org/FrankTumwebaze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-Al-Jazeera-6> .
+ <http://example.org/NRMOnline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-Al-Jazeera-6> .
+ <http://example.org/KagutaMuseveni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-Al-Jazeera-6> .
+ <http://example.org/Kampala> <http://schema.org/name> "Kampala"  <Facebook-Al-Jazeera-6> .
+ <http://example.org/DonWanyama> <http://schema.org/mentions> <http://Facebook-Al-Jazeera-6.com/blank#n2feb598115284426ad1a7813c145078eb4>  <Facebook-Al-Jazeera-6> .
+ <http://Facebook-Al-Jazeera-6.com/blank#n2feb598115284426ad1a7813c145078eb4> <http://schema.org/about> <http://example.org/Facebook> <Facebook-Al-Jazeera-6> .
+ <http://example.org/BobiWine> <http://xmlns.com/foaf/0.1/age> "38"^^<http://www.w3.org/2001/XMLSchema#integer>  <Facebook-Al-Jazeera-6> .
+ <http://Facebook-Al-Jazeera-6.com/blank#n2feb598115284426ad1a7813c145078eb1> <http://schema.org/actionStatus> "CompletedActionStatus"  <Facebook-Al-Jazeera-6> .
+ <http://example.org/BobiWine> <http://schema.org/alternateName> "Robert Kyagulanyi Ssentamu"  <Facebook-Al-Jazeera-6> .
+ <http://example.org/BobiWine> <http://xmlns.com/foaf/0.1/name> "Bobi Wine"  <Facebook-Al-Jazeera-6> .
+ <http://example.org/Riots> <http://schema.org/result> <http://Facebook-Al-Jazeera-6.com/blank#n2feb598115284426ad1a7813c145078eb10>  <Facebook-Al-Jazeera-6> .
+ <http://example.org/Riots> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Facebook-Al-Jazeera-6> .
+ <http://Facebook-Al-Jazeera-6.com/blank#n2feb598115284426ad1a7813c145078eb10> <http://schema.org/death> <http://Facebook-Al-Jazeera-6.com/blank#n2feb598115284426ad1a7813c145078eb11>  <Facebook-Al-Jazeera-6> .
+ <http://Facebook-Al-Jazeera-6.com/blank#n2feb598115284426ad1a7813c145078eb3> <http://schema.org/candidate> <http://example.org/YoweriMuseveni> <Facebook-Al-Jazeera-6> .
+ <http://example.org/JudithNabakooba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-Al-Jazeera-6> .
+ <http://example.org/Kampala> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <Facebook-Al-Jazeera-6> .
+ <http://example.org/YoweriMuseveni> <http://xmlns.com/foaf/0.1/age> "76"^^<http://www.w3.org/2001/XMLSchema#integer>  <Facebook-Al-Jazeera-6> .
+ <http://Facebook-Al-Jazeera-6.com/blank#n2feb598115284426ad1a7813c145078eb7> <http://xmlns.com/foaf/0.1/accountName> "@NRMOnline"  <Facebook-Al-Jazeera-6> .
+ <http://example.org/KagutaMuseveni> <http://schema.org/alternateName> "Yoweri Museveni"  <Facebook-Al-Jazeera-6> .
+ <http://Facebook-Al-Jazeera-6.com/blank#n2feb598115284426ad1a7813c145078eb9> <http://schema.org/description> "Investigate allegations of torture and rights abuses"  <Facebook-Al-Jazeera-6> .
+ <http://example.org/Uganda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <Facebook-Al-Jazeera-6> .
+ <http://example.org/Riots> <http://schema.org/startDate> "2020-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Facebook-Al-Jazeera-6> .
+ <http://example.org/NRMOnline> <http://xmlns.com/foaf/0.1/account> <http://Facebook-Al-Jazeera-6.com/blank#n2feb598115284426ad1a7813c145078eb7>  <Facebook-Al-Jazeera-6> .
+ <http://Facebook-Al-Jazeera-6.com/blank#n2feb598115284426ad1a7813c145078eb5> <http://xmlns.com/foaf/0.1/accountServiceHomepage> <https://twitter.com> <Facebook-Al-Jazeera-6> .
+ <http://Facebook-Al-Jazeera-6.com/blank#n2feb598115284426ad1a7813c145078eb4> <http://schema.org/mentions> <http://example.org/Instagram> <Facebook-Al-Jazeera-6> .
+ <http://example.org/Riots> <http://schema.org/eventType> "Riots"  <Facebook-Al-Jazeera-6> .
+ <http://example.org/BobiWine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-Al-Jazeera-6> .
+ <http://example.org/Facebook> <http://schema.org/action> <http://Facebook-Al-Jazeera-6.com/blank#n2feb598115284426ad1a7813c145078eb1>  <Facebook-Al-Jazeera-6> .
+ <http://example.org/NRMOnline> <http://schema.org/name> "National Resistance Movement"  <Facebook-Al-Jazeera-6> .
+ <http://example.org/ICC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-Al-Jazeera-6> .
+ <http://example.org/Kampala> <http://schema.org/containedIn> <http://example.org/Uganda> <Facebook-Al-Jazeera-6> .
+ <http://Facebook-Al-Jazeera-6.com/blank#n2feb598115284426ad1a7813c145078eb3> <http://schema.org/opponent> <http://example.org/BobiWine> <Facebook-Al-Jazeera-6> .
+ <http://example.org/ICC> <http://schema.org/action> <http://Facebook-Al-Jazeera-6.com/blank#n2feb598115284426ad1a7813c145078eb8>  <Facebook-Al-Jazeera-6> .
+ <http://example.org/Facebook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-Al-Jazeera-6> .
+ <http://example.org/Facebook> <http://schema.org/name> "Facebook"  <Facebook-Al-Jazeera-6> .
+ <http://example.org/PsychographicProfiles> <http://dbpedia.org/ontology/number> "30000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Facebook-Al-Jazeera-7> .
+ <http://example.org/BrexitReferendumOutcomeInfluence> <http://dbpedia.org/ontology/outcome> <http://example.org/DifferentBrexitReferendumOutcome> <Facebook-Al-Jazeera-7> .
+ <http://example.org/MarkZuckerberg> <http://dbpedia.org/ontology/occupation> <http://example.org/CEO> <Facebook-Al-Jazeera-7> .
+ <http://example.org/DominicCummings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-Al-Jazeera-7> .
+ <http://example.org/ChristopherWylie> <http://dbpedia.org/ontology/testified> <http://example.org/BrexitReferendumOutcomeInfluence> <Facebook-Al-Jazeera-7> .
+ <http://example.org/ThisIsYourDigitalLifeApp> <http://dbpedia.org/ontology/cost> "800000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Facebook-Al-Jazeera-7> .
+ <http://example.org/Facebook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Facebook-Al-Jazeera-7> .
+ <http://example.org/ChristopherWylie> <http://xmlns.com/foaf/0.1/member> <http://example.org/UKParliamentaryCommittee> <Facebook-Al-Jazeera-7> .
+ <http://example.org/VoteLeaveCampaign> <http://dbpedia.org/ontology/campaignDirector> <http://example.org/DominicCummings> <Facebook-Al-Jazeera-7> .
+ <http://example.org/Facebook> <http://dbpedia.org/ontology/policy> <http://example.org/DataCollectionPolicy2014> <Facebook-Al-Jazeera-7> .
+ <http://example.org/DataCollectionPolicy2014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Policy> <Facebook-Al-Jazeera-7> .
+ <http://example.org/ChristopherWylie> <http://dbpedia.org/ontology/occupation> <http://example.org/WhistleBlower> <Facebook-Al-Jazeera-7> .
+ <http://example.org/PsychographicProfiles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/InformationContentEntity> <Facebook-Al-Jazeera-7> .
+ <http://example.org/GlobalScienceResearch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Facebook-Al-Jazeera-7> .
+ <http://example.org/IllegallyObtainedData> <http://dbpedia.org/ontology/creator> <http://example.org/AleksandrKogan> <Facebook-Al-Jazeera-7> .
+ <http://example.org/MarkZuckerberg> <http://xmlns.com/foaf/0.1/name> "Mark Zuckerberg"  <Facebook-Al-Jazeera-7> .
+ <http://example.org/AggregateIQ> <http://dbpedia.org/ontology/receivedFundingFrom> <http://example.org/VoteLeaveCampaign> <Facebook-Al-Jazeera-7> .
+ <http://example.org/CambridgeAnalytica> <http://dbpedia.org/ontology/industry> <http://example.org/DataAnalytics> <Facebook-Al-Jazeera-7> .
+ <http://example.org/ThisIsYourDigitalLifeApp> <http://dbpedia.org/ontology/developer> <http://example.org/AleksandrKogan> <Facebook-Al-Jazeera-7> .
+ <http://example.org/AleksandrKogan> <http://dbpedia.org/ontology/occupation> <http://example.org/Researcher> <Facebook-Al-Jazeera-7> .
+ <http://example.org/ChristopherWylie> <http://xmlns.com/foaf/0.1/name> "Christopher Wylie"  <Facebook-Al-Jazeera-7> .
+ <http://example.org/VoteLeaveCampaign> <http://dbpedia.org/ontology/budgetPercentageForAIQ> "40"^^<http://www.w3.org/2001/XMLSchema#integer>  <Facebook-Al-Jazeera-7> .
+ <http://example.org/ThisIsYourDigitalLifeApp> <http://dbpedia.org/ontology/purpose> <http://example.org/DataCollectionForAcademicResearch> <Facebook-Al-Jazeera-7> .
+ <http://example.org/IllegallyObtainedData> <http://dbpedia.org/ontology/usedFor> <http://example.org/SoftwareToTargetSwingVoters> <Facebook-Al-Jazeera-7> .
+ <http://example.org/BrexitReferendumOutcomeInfluence> <http://schema.org/eventDate> "2018-03-20"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-Al-Jazeera-7> .
+ <http://example.org/IllegallyObtainedData> <http://dbpedia.org/ontology/source> <http://example.org/FacebookUsers> <Facebook-Al-Jazeera-7> .
+ <http://example.org/CambridgeAnalytica> <http://dbpedia.org/ontology/allegedUseOf> <http://example.org/IllegallyObtainedData> <Facebook-Al-Jazeera-7> .
+ <http://example.org/FederalTradeCommission> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Facebook-Al-Jazeera-7> .
+ <http://example.org/FederalTradeCommission> <http://dbpedia.org/ontology/abbreviation> "FTC"  <Facebook-Al-Jazeera-7> .
+ <http://example.org/CambridgeAnalytica> <http://dbpedia.org/ontology/numberOfAffected> <http://example.org/MoreThan50MillionFacebookUsers> <Facebook-Al-Jazeera-7> .
+ <http://example.org/AleksandrKogan> <http://xmlns.com/foaf/0.1/name> "Aleksandr Kogan"  <Facebook-Al-Jazeera-7> .
+ <http://example.org/ThisIsYourDigitalLifeApp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <Facebook-Al-Jazeera-7> .
+ <http://example.org/AleksandrKogan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-Al-Jazeera-7> .
+ <http://example.org/CheatingByProponents> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Facebook-Al-Jazeera-7> .
+ <http://example.org/CambridgeAnalytica> <http://dbpedia.org/ontology/foundedBy> <http://example.org/ChristopherWylie> <Facebook-Al-Jazeera-7> .
+ <http://example.org/AggregateIQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Facebook-Al-Jazeera-7> .
+ <http://example.org/CambridgeAnalytica> <http://dbpedia.org/ontology/service> <http://example.org/PoliticalCampaignInfluence> <Facebook-Al-Jazeera-7> .
+ <http://example.org/BrexitReferendumOutcomeInfluence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Facebook-Al-Jazeera-7> .
+ <http://example.org/CambridgeAnalytica> <http://dbpedia.org/ontology/product> <http://example.org/PsychographicProfiles> <Facebook-Al-Jazeera-7> .
+ <http://example.org/CambridgeAnalytica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Facebook-Al-Jazeera-7> .
+ <http://example.org/Facebook> <http://dbpedia.org/ontology/founder> <http://example.org/MarkZuckerberg> <Facebook-Al-Jazeera-7> .
+ <http://example.org/IllegallyObtainedData> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Data> <Facebook-Al-Jazeera-7> .
+ <http://example.org/ChristopherWylie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-Al-Jazeera-7> .
+ <http://example.org/AggregateIQ> <http://dbpedia.org/ontology/linkedTo> <http://example.org/CambridgeAnalytica> <Facebook-Al-Jazeera-7> .
+ <http://example.org/DominicCummings> <http://xmlns.com/foaf/0.1/name> "Dominic Cummings"  <Facebook-Al-Jazeera-7> .
+ <http://example.org/AleksandrKogan> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/Cambridge_University> <Facebook-Al-Jazeera-7> .
+ <http://example.org/MarkZuckerberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-Al-Jazeera-7> .
+ <http://example.org/VoteLeaveCampaign> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Facebook-Al-Jazeera-7> .
+ <http://example.org/Facebook> <http://dbpedia.org/ontology/privacyPracticesInvestigatedBy> <http://example.org/FederalTradeCommission> <Facebook-Al-Jazeera-7> .
+ <http://example.org/DataCollectionPolicy2014> <http://dbpedia.org/ontology/prohibits> <http://example.org/SellingDataToThirdParties> <Facebook-Al-Jazeera-7> .
+ <http://example.org/AleksandrKogan> <http://dbpedia.org/ontology/created> <http://example.org/ThisIsYourDigitalLifeApp> <Facebook-Al-Jazeera-7> .
+ <http://example.org/DataCollectionPolicy2014> <http://dbpedia.org/ontology/allows> <http://example.org/CollectionOfFriendsData> <Facebook-Al-Jazeera-7> .
+ <http://example.org/MarkZuckerberg> <http://dbpedia.org/ontology/employer> <http://example.org/Facebook> <Facebook-Al-Jazeera-7> .
+ <http://example.org/ChristopherWylie> <http://schema.org/alumniOf> <http://dbpedia.org/resource/Cambridge_University> <Facebook-Al-Jazeera-7> .
+ <http://example.org/ThisIsYourDigitalLifeApp> <http://dbpedia.org/ontology/usersAffected> "270000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Facebook-Al-Jazeera-7> .
+ <http://example.org/CheatingByProponents> <http://dbpedia.org/ontology/influencedBy> <http://example.org/CambridgeAnalytica> <Facebook-Al-Jazeera-7> .
+ <http://example.org/BrexitReferendumOutcomeInfluence> <http://dbpedia.org/ontology/cause> <http://example.org/CheatingByProponents> <Facebook-Al-Jazeera-7> .
+ <http://example.org/GlobalScienceResearch> <http://dbpedia.org/ontology/abbreviation> "GSR"  <Facebook-Al-Jazeera-7> .
+ <http://example.org/entities/ElonMusk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/JackBlack> <http://schema.org/jobTitle> "Actor"  <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/ThreadsAccountGordonRamsay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/OnlineAccount> <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/Shakira> <http://xmlns.com/foaf/0.1/name> "Shakira"  <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/GordonRamsay> <http://schema.org/jobTitle> "British celebrity chef"  <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/ThreadsAccountJackBlack> <http://schema.org/serviceHomepage> <http://example.org/entities/Threads> <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/InstagramPost1> <http://schema.org/author> <http://example.org/entities/MarkZuckerberg> <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/Twitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/Meta> <http://xmlns.com/foaf/0.1/name> "Meta"  <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/Meta> <http://schema.org/owns> <http://example.org/entities/Instagram> <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/MarkZuckerberg> <http://xmlns.com/foaf/0.1/made> <http://example.org/entities/Threads> <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/Twitter> <http://schema.org/applicationCategory> "Micro-Blogging Site"  <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/Threads> <http://schema.org/applicationCategory> "Social Media Network"  <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/ThreadsPost> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPosting> <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/MarkZuckerberg> <http://xmlns.com/foaf/0.1/made> <http://example.org/entities/ThreadsPost> <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/ThreadsAccountShakira> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/OnlineAccount> <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/ElonMusk> <http://schema.org/owns> <http://example.org/entities/Twitter> <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/ChrisCox> <http://schema.org/jobTitle> "Meta chief product officer"  <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/ChrisCox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/GordonRamsay> <http://xmlns.com/foaf/0.1/name> "Gordon Ramsay"  <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/MarkZuckerberg> <http://xmlns.com/foaf/0.1/made> <http://example.org/entities/InstagramPost1> <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/Threads> <http://schema.org/creator> <http://example.org/entities/Meta> <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/MarkZuckerberg> <http://xmlns.com/foaf/0.1/made> <http://example.org/entities/InstagramPost2> <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/Meta> <http://schema.org/owns> <http://example.org/entities/Threads> <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/Twitter> <http://purl.org/dc/elements/1.1/title> "Twitter"  <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/InstagramPost2> <http://schema.org/text> "And I’m grateful to all of you who are part of Threads from day one."  <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/MarkZuckerberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/ThreadsAccountShakira> <http://schema.org/serviceHomepage> <http://example.org/entities/Threads> <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/Meta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/Threads> <http://schema.org/availableIn> "Canada"  <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/Instagram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/InstagramPost2> <http://schema.org/datePublished> "2023-03-29"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/Threads> <http://schema.org/availableIn> "Japan"  <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/Threads> <http://schema.org/operatingSystem> "Multiple"  <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/ElonMusk> <http://xmlns.com/foaf/0.1/name> "Elon Musk"  <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/MarkZuckerberg> <http://xmlns.com/foaf/0.1/name> "Mark Zuckerberg"  <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/InstagramPost1> <http://schema.org/datePublished> "2023-03-29"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/Shakira> <http://xmlns.com/foaf/0.1/account> <http://example.org/entities/ThreadsAccountShakira> <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/GordonRamsay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/JackBlack> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/ThreadsPost> <http://schema.org/text> "More than 10 million sign ups in the seven hours after it went live."  <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/Shakira> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/MarkZuckerberg> <http://schema.org/jobTitle> "Facebook founder"  <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/ChrisCox> <http://xmlns.com/foaf/0.1/name> "Chris Cox"  <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/Threads> <http://purl.org/dc/elements/1.1/title> "Threads"  <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/Threads> <http://schema.org/availableIn> "United States"  <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/Threads> <http://schema.org/availableIn> "United Kingdom"  <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/ThreadsAccountGordonRamsay> <http://schema.org/serviceHomepage> <http://example.org/entities/Threads> <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/Threads> <http://schema.org/datePublished> "2023-03-29"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/GordonRamsay> <http://xmlns.com/foaf/0.1/account> <http://example.org/entities/ThreadsAccountGordonRamsay> <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/Shakira> <http://schema.org/jobTitle> "Pop star"  <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/JackBlack> <http://xmlns.com/foaf/0.1/account> <http://example.org/entities/ThreadsAccountJackBlack> <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/InstagramPost2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPosting> <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/InstagramPost1> <http://schema.org/text> "I think the world needs this kind of friendly community."  <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/Threads> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/Instagram> <http://purl.org/dc/elements/1.1/title> "Instagram"  <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/ThreadsPost> <http://schema.org/datePublished> "2023-03-29"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/ThreadsPost> <http://schema.org/author> <http://example.org/entities/MarkZuckerberg> <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/Instagram> <http://schema.org/applicationCategory> "Photo Sharing App"  <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/Twitter> <http://schema.org/numberOfUsers> "400 million"^^<http://www.w3.org/2001/XMLSchema#integer>  <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/JackBlack> <http://xmlns.com/foaf/0.1/name> "Jack Black"  <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/InstagramPost1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPosting> <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/Threads> <http://schema.org/downloadUrl> "https://threads.example.com"  <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/ThreadsAccountJackBlack> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/OnlineAccount> <Facebook-Al-Jazeera-8> .
+ <http://example.org/entities/InstagramPost2> <http://schema.org/author> <http://example.org/entities/MarkZuckerberg> <Facebook-Al-Jazeera-8> .
+ <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/InteractionCounter> <Facebook-Al-Jazeera-9> .
+ <http://example.org/Threads> <http://schema.org/applicationCategory> "Social Media"  <Facebook-Al-Jazeera-9> .
+ <http://example.org/TheVerge> <http://schema.org/name> "The Verge"  <Facebook-Al-Jazeera-9> .
+ <http://example.org/Threads> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <Facebook-Al-Jazeera-9> .
+ <http://example.org/Threads> <http://schema.org/availableIn> <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b9>  <Facebook-Al-Jazeera-9> .
+ <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b2> <http://schema.org/articleBody> "Let’s do this. Welcome to Threads."  <Facebook-Al-Jazeera-9> .
+ <http://example.org/Threads> <http://schema.org/offers> <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b10>  <Facebook-Al-Jazeera-9> .
+ <http://example.org/Threads> <http://schema.org/availableIn> <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b6>  <Facebook-Al-Jazeera-9> .
+ <http://example.org/Bluesky> <http://schema.org/name> "Bluesky"  <Facebook-Al-Jazeera-9> .
+ <http://example.org/Post> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <Facebook-Al-Jazeera-9> .
+ <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPosting> <Facebook-Al-Jazeera-9> .
+ <http://example.org/Threads> <http://schema.org/availableIn> <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b7>  <Facebook-Al-Jazeera-9> .
+ <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b7> <http://schema.org/name> "United Kingdom"  <Facebook-Al-Jazeera-9> .
+ <http://example.org/Mastodon> <http://schema.org/name> "Mastodon"  <Facebook-Al-Jazeera-9> .
+ <http://example.org/Shakira> <http://xmlns.com/foaf/0.1/name> "Shakira"  <Facebook-Al-Jazeera-9> .
+ <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b10> <http://schema.org/serviceType> "Social Media Network"  <Facebook-Al-Jazeera-9> .
+ <http://example.org/Shakira> <http://schema.org/memberOf> <http://example.org/Threads> <Facebook-Al-Jazeera-9> .
+ <http://example.org/Twitter> <http://schema.org/numberOfEmployees> "400 million"^^<http://www.w3.org/2001/XMLSchema#integer>  <Facebook-Al-Jazeera-9> .
+ <http://example.org/Bluesky> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <Facebook-Al-Jazeera-9> .
+ <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b2> <http://schema.org/datePublished> "2023-03-29"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-Al-Jazeera-9> .
+ <http://example.org/Twitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-Al-Jazeera-9> .
+ <http://example.org/ChrisCox> <http://xmlns.com/foaf/0.1/name> "Chris Cox"  <Facebook-Al-Jazeera-9> .
+ <http://example.org/ChrisCox> <http://xmlns.com/foaf/0.1/made> <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b11>  <Facebook-Al-Jazeera-9> .
+ <http://example.org/GordonRamsay> <http://schema.org/memberOf> <http://example.org/Threads> <Facebook-Al-Jazeera-9> .
+ <http://example.org/MarkZuckerberg> <http://schema.org/founderOf> <http://example.org/Instagram> <Facebook-Al-Jazeera-9> .
+ <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPosting> <Facebook-Al-Jazeera-9> .
+ <http://example.org/MarkZuckerberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-Al-Jazeera-9> .
+ <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b3> <http://schema.org/articleBody> "I think the world needs this kind of friendly community."  <Facebook-Al-Jazeera-9> .
+ <http://example.org/ChrisCox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-Al-Jazeera-9> .
+ <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b1> <http://schema.org/name> "Meta"  <Facebook-Al-Jazeera-9> .
+ <http://example.org/TheVerge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-Al-Jazeera-9> .
+ <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b1> <http://schema.org/launches> <http://example.org/Threads> <Facebook-Al-Jazeera-9> .
+ <http://example.org/MarkZuckerberg> <http://xmlns.com/foaf/0.1/made> <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b2>  <Facebook-Al-Jazeera-9> .
+ <http://example.org/MarkZuckerberg> <http://schema.org/memberOf> <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b1>  <Facebook-Al-Jazeera-9> .
+ <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b6> <http://schema.org/name> "United States"  <Facebook-Al-Jazeera-9> .
+ <http://example.org/Threads> <http://schema.org/about> "Text-based version of Instagram for real-time updates and public conversations"  <Facebook-Al-Jazeera-9> .
+ <http://example.org/Twitter> <http://schema.org/name> "Twitter"  <Facebook-Al-Jazeera-9> .
+ <http://example.org/Threads> <http://schema.org/availableIn> <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b8>  <Facebook-Al-Jazeera-9> .
+ <http://example.org/GordonRamsay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-Al-Jazeera-9> .
+ <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b11> <http://schema.org/text> "There was a demand for a platform that is sanely run."  <Facebook-Al-Jazeera-9> .
+ <http://example.org/ElonMusk> <http://xmlns.com/foaf/0.1/name> "Elon Musk"  <Facebook-Al-Jazeera-9> .
+ <http://example.org/JackBlack> <http://xmlns.com/foaf/0.1/name> "Jack Black"  <Facebook-Al-Jazeera-9> .
+ <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <Facebook-Al-Jazeera-9> .
+ <http://example.org/Threads> <http://schema.org/name> "Threads"  <Facebook-Al-Jazeera-9> .
+ <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b4> <http://schema.org/datePublished> "2023-03-29"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-Al-Jazeera-9> .
+ <http://example.org/Post> <http://schema.org/name> "Post"  <Facebook-Al-Jazeera-9> .
+ <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b4> <http://schema.org/articleBody> "More than 10 million sign ups in the seven hours after it went live."  <Facebook-Al-Jazeera-9> .
+ <http://example.org/MarkZuckerberg> <http://xmlns.com/foaf/0.1/name> "Mark Zuckerberg"  <Facebook-Al-Jazeera-9> .
+ <http://example.org/MarkZuckerberg> <http://xmlns.com/foaf/0.1/made> <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b4>  <Facebook-Al-Jazeera-9> .
+ <http://example.org/ElonMusk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-Al-Jazeera-9> .
+ <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b1> <http://schema.org/owns> <http://example.org/Instagram> <Facebook-Al-Jazeera-9> .
+ <http://example.org/JackBlack> <http://schema.org/memberOf> <http://example.org/Threads> <Facebook-Al-Jazeera-9> .
+ <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b5> <http://schema.org/userInteractionCount> "10 million"^^<http://www.w3.org/2001/XMLSchema#integer>  <Facebook-Al-Jazeera-9> .
+ <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <Facebook-Al-Jazeera-9> .
+ <http://example.org/ElonMusk> <http://schema.org/owns> <http://example.org/Twitter> <Facebook-Al-Jazeera-9> .
+ <http://example.org/Twitter> <http://schema.org/founder> <http://example.org/ElonMusk> <Facebook-Al-Jazeera-9> .
+ <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-Al-Jazeera-9> .
+ <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b5> <http://schema.org/interactionType> <http://schema.org/FollowAction> <Facebook-Al-Jazeera-9> .
+ <http://example.org/GordonRamsay> <http://xmlns.com/foaf/0.1/name> "Gordon Ramsay"  <Facebook-Al-Jazeera-9> .
+ <http://example.org/Mastodon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <Facebook-Al-Jazeera-9> .
+ <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPosting> <Facebook-Al-Jazeera-9> .
+ <http://example.org/MarkZuckerberg> <http://xmlns.com/foaf/0.1/homepage> <https://www.facebook.com> <Facebook-Al-Jazeera-9> .
+ <http://example.org/MarkZuckerberg> <http://schema.org/interactionStatistic> <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b5>  <Facebook-Al-Jazeera-9> .
+ <http://example.org/JackBlack> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-Al-Jazeera-9> .
+ <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <Facebook-Al-Jazeera-9> .
+ <http://example.org/Shakira> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-Al-Jazeera-9> .
+ <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Quote> <Facebook-Al-Jazeera-9> .
+ <http://example.org/ChrisCox> <http://schema.org/jobTitle> "Meta chief product officer"  <Facebook-Al-Jazeera-9> .
+ <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b9> <http://schema.org/name> "Japan"  <Facebook-Al-Jazeera-9> .
+ <http://example.org/MarkZuckerberg> <http://schema.org/founderOf> <http://example.org/Facebook> <Facebook-Al-Jazeera-9> .
+ <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <Facebook-Al-Jazeera-9> .
+ <http://example.org/MarkZuckerberg> <http://xmlns.com/foaf/0.1/made> <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b3>  <Facebook-Al-Jazeera-9> .
+ <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Service> <Facebook-Al-Jazeera-9> .
+ <http://example.org/MarkZuckerberg> <http://schema.org/founderOf> <http://example.org/Threads> <Facebook-Al-Jazeera-9> .
+ <http://Facebook-Al-Jazeera-9.com/blank#ne71132e2f1964524bbe20661b9c1db84b8> <http://schema.org/name> "Canada"  <Facebook-Al-Jazeera-9> .

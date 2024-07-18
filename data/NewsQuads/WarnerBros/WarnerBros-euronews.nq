@@ -1,0 +1,725 @@
+ <http://example.org/GeorgeClooney> <http://schema.org/name> "George Clooney"  <WarnerBros-euronews-0> .
+ <http://example.org/TedSarandos> <http://schema.org/affiliation> <http://example.org/Netflix> <WarnerBros-euronews-0> .
+ <http://example.org/GeorgeClooney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-euronews-0> .
+ <http://example.org/NBCUniversal> <http://schema.org/name> "NBCUniversal"  <WarnerBros-euronews-0> .
+ <http://example.org/ZoomMeeting> <http://schema.org/attendee> <http://example.org/RobertDeNiro> <WarnerBros-euronews-0> .
+ <http://example.org/Emmys> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <WarnerBros-euronews-0> .
+ <http://example.org/ZoomMeeting> <http://schema.org/startDate> "2023-10-17"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-0> .
+ <http://example.org/Oscars> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <WarnerBros-euronews-0> .
+ <http://example.org/SocialMediaPost> <http://schema.org/datePublished> "2023-10-21"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-0> .
+ <http://example.org/HalloweenGuidelines> <http://schema.org/author> <http://example.org/ActorsUnion> <WarnerBros-euronews-0> .
+ <http://example.org/DavidZaslav> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-euronews-0> .
+ <http://example.org/Wicked> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <WarnerBros-euronews-0> .
+ <http://example.org/NBCUniversal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-euronews-0> .
+ <http://example.org/Variety> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-euronews-0> .
+ <http://example.org/LeonardoDiCaprio> <http://schema.org/name> "Leonardo DiCaprio"  <WarnerBros-euronews-0> .
+ <http://example.org/RyanReynolds> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-euronews-0> .
+ <http://example.org/ActorsUnion> <http://schema.org/subjectOf> <http://example.org/StrikeNegotiations> <WarnerBros-euronews-0> .
+ <http://example.org/HalloweenGuidelines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <WarnerBros-euronews-0> .
+ <http://example.org/Emmys> <http://schema.org/endDate> "2024-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-0> .
+ <http://example.org/DavidZaslav> <http://schema.org/affiliation> <http://example.org/WarnerBrosDiscovery> <WarnerBros-euronews-0> .
+ <http://example.org/DonnaLangley> <http://schema.org/affiliation> <http://example.org/NBCUniversal> <WarnerBros-euronews-0> .
+ <http://example.org/ActorsUnion> <http://schema.org/name> "SAG-AFTRA"  <WarnerBros-euronews-0> .
+ <http://example.org/DonnaLangley> <http://schema.org/name> "Donna Langley"  <WarnerBros-euronews-0> .
+ <http://example.org/Netflix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-euronews-0> .
+ <http://example.org/Emmys> <http://schema.org/name> "The Emmys"  <WarnerBros-euronews-0> .
+ <http://example.org/Disney> <http://schema.org/name> "Disney"  <WarnerBros-euronews-0> .
+ <http://example.org/Studios> <http://schema.org/name> "Studios and Streaming Giants"  <WarnerBros-euronews-0> .
+ <http://example.org/WarnerBrosDiscovery> <http://schema.org/name> "Warner Bros. Discovery"  <WarnerBros-euronews-0> .
+ <http://example.org/Studios> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-euronews-0> .
+ <http://example.org/ActorsUnion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-euronews-0> .
+ <http://example.org/TedSarandos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-euronews-0> .
+ <http://example.org/ScarlettJohansson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-euronews-0> .
+ <http://example.org/StudioExecutives> <http://schema.org/name> "Studio Executives"  <WarnerBros-euronews-0> .
+ <http://example.org/DavidZaslav> <http://schema.org/name> "David Zaslav"  <WarnerBros-euronews-0> .
+ <http://example.org/BobIger> <http://schema.org/affiliation> <http://example.org/Disney> <WarnerBros-euronews-0> .
+ <http://example.org/Wicked> <http://schema.org/name> "Wicked"  <WarnerBros-euronews-0> .
+ <http://example.org/ActorsUnion> <http://schema.org/actionStatus> <http://schema.org/ActiveActionStatus> <WarnerBros-euronews-0> .
+ <http://example.org/RobertDeNiro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-euronews-0> .
+ <http://example.org/HalloweenGuidelines> <http://schema.org/datePublished> "2023-10-31"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-0> .
+ <http://example.org/StrikeNegotiations> <http://schema.org/organizer> <http://example.org/ActorsUnion> <WarnerBros-euronews-0> .
+ <http://example.org/LeonardoDiCaprio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-euronews-0> .
+ <http://example.org/Deadpool3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <WarnerBros-euronews-0> .
+ <http://example.org/ZoomMeeting> <http://schema.org/attendee> <http://example.org/ScarlettJohansson> <WarnerBros-euronews-0> .
+ <http://example.org/SocialMediaPost> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPosting> <WarnerBros-euronews-0> .
+ <http://example.org/BobIger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-euronews-0> .
+ <http://example.org/StrikeNegotiations> <http://schema.org/startDate> "2023-10-24"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-0> .
+ <http://example.org/StrikeNegotiations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <WarnerBros-euronews-0> .
+ <http://example.org/LilyGladstone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-euronews-0> .
+ <http://example.org/ZoomMeeting> <http://schema.org/attendee> <http://example.org/GeorgeClooney> <WarnerBros-euronews-0> .
+ <http://example.org/StudioExecutives> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-euronews-0> .
+ <http://example.org/HollywoodReporter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-euronews-0> .
+ <http://example.org/KillersOfTheFlowerMoon> <http://schema.org/director> <http://example.org/MartinScorsese> <WarnerBros-euronews-0> .
+ <http://example.org/SocialMediaPost> <http://schema.org/author> <http://example.org/ActorsUnion> <WarnerBros-euronews-0> .
+ <http://example.org/KillersOfTheFlowerMoon> <http://schema.org/actor> <http://example.org/LilyGladstone> <WarnerBros-euronews-0> .
+ <http://example.org/KillersOfTheFlowerMoon> <http://schema.org/actor> <http://example.org/RobertDeNiro> <WarnerBros-euronews-0> .
+ <http://example.org/ActorsUnion> <http://schema.org/startDate> "2023-07-15"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-0> .
+ <http://example.org/WarnerBrosDiscovery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-euronews-0> .
+ <http://example.org/KillersOfTheFlowerMoon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <WarnerBros-euronews-0> .
+ <http://example.org/BobIger> <http://schema.org/name> "Bob Iger"  <WarnerBros-euronews-0> .
+ <http://example.org/ZoomMeeting> <http://schema.org/organizer> <http://example.org/ActorsUnion> <WarnerBros-euronews-0> .
+ <http://example.org/Disney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-euronews-0> .
+ <http://example.org/MissionImpossibleDeadReckoningPart2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <WarnerBros-euronews-0> .
+ <http://example.org/StrikeNegotiations> <http://schema.org/name> "Actors' Union Strike Negotiations"  <WarnerBros-euronews-0> .
+ <http://example.org/SocialMediaPost> <http://schema.org/text> "As we mark the 100th day of our strike, we are pleased to confirm the company executives have asked us to return to the table. Official Negotiations will resume."  <WarnerBros-euronews-0> .
+ <http://example.org/Variety> <http://schema.org/name> "Variety"  <WarnerBros-euronews-0> .
+ <http://example.org/LilyGladstone> <http://schema.org/name> "Lily Gladstone"  <WarnerBros-euronews-0> .
+ <http://example.org/ScarlettJohansson> <http://schema.org/name> "Scarlett Johansson"  <WarnerBros-euronews-0> .
+ <http://example.org/RyanReynolds> <http://schema.org/name> "Ryan Reynolds"  <WarnerBros-euronews-0> .
+ <http://example.org/TedSarandos> <http://schema.org/name> "Ted Sarandos"  <WarnerBros-euronews-0> .
+ <http://example.org/ZoomMeeting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <WarnerBros-euronews-0> .
+ <http://example.org/MissionImpossibleDeadReckoningPart2> <http://schema.org/name> "Mission Impossible — Dead Reckoning Part 2"  <WarnerBros-euronews-0> .
+ <http://example.org/Oscars> <http://schema.org/name> "The Oscars"  <WarnerBros-euronews-0> .
+ <http://example.org/MartinScorsese> <http://schema.org/name> "Martin Scorsese"  <WarnerBros-euronews-0> .
+ <http://example.org/DonnaLangley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-euronews-0> .
+ <http://example.org/Emmys> <http://schema.org/startDate> "2023-09-01"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-0> .
+ <http://example.org/Netflix> <http://schema.org/name> "Netflix"  <WarnerBros-euronews-0> .
+ <http://example.org/MartinScorsese> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-euronews-0> .
+ <http://example.org/Oscars> <http://schema.org/startDate> "2024-03-01"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-0> .
+ <http://example.org/StrikeNegotiations> <http://schema.org/participant> <http://example.org/StudioExecutives> <WarnerBros-euronews-0> .
+ <http://example.org/Deadpool3> <http://schema.org/name> "Deadpool 3"  <WarnerBros-euronews-0> .
+ <http://example.org/ActorsUnion> <http://schema.org/memberCount> "160000"^^<http://www.w3.org/2001/XMLSchema#int>  <WarnerBros-euronews-0> .
+ <http://example.org/HollywoodReporter> <http://schema.org/name> "The Hollywood Reporter"  <WarnerBros-euronews-0> .
+ <http://example.org/KillersOfTheFlowerMoon> <http://schema.org/actor> <http://example.org/LeonardoDiCaprio> <WarnerBros-euronews-0> .
+ <http://example.org/RobertDeNiro> <http://schema.org/name> "Robert De Niro"  <WarnerBros-euronews-0> .
+ <http://example.org/HalloweenGuidelines> <http://schema.org/text> "Choose costumes inspired by generalised characters and figures (ghost, zombie, spider, etc), do not post photos of costumes inspired by struck content on social media."  <WarnerBros-euronews-0> .
+ <http://example.org/StrikeNegotiations> <http://schema.org/organizer> <http://example.org/Studios> <WarnerBros-euronews-0> .
+ <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-euronews-1> .
+ <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b9> <http://dbpedia.org/ontology/decision> "public domain"  <WarnerBros-euronews-1> .
+ <http://example.org/people/GeorgeHKing> <http://dbpedia.org/ontology/occupation> "US District Court Judge"  <WarnerBros-euronews-1> .
+ <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-euronews-1> .
+ <http://example.org/entities/TheXFiles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/TVSeries> <WarnerBros-euronews-1> .
+ <http://example.org/songs/HappyBirthdayToYou> <http://schema.org/name> "Happy Birthday To You"  <WarnerBros-euronews-1> .
+ <http://example.org/people/GeorgeHKing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-euronews-1> .
+ <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b2> <http://dbpedia.org/ontology/occupation> "musicologist"  <WarnerBros-euronews-1> .
+ <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b6> <http://xmlns.com/foaf/0.1/name> "Mildred J. Hill"  <WarnerBros-euronews-1> .
+ <http://example.org/songs/GoodMorningToAll> <http://schema.org/name> "Good Morning to All"  <WarnerBros-euronews-1> .
+ <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b7> <http://purl.org/NET/c4dm/event.owl#time> "1988-03-14"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-1> .
+ <http://example.org/entities/HillFoundationInc> <http://dbpedia.org/ontology/foundedBy> <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b6>  <WarnerBros-euronews-1> .
+ <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <WarnerBros-euronews-1> .
+ <http://example.org/entities/WarnerChappellMusic> <http://dbpedia.org/ontology/estimatedValue> "5000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <WarnerBros-euronews-1> .
+ <http://example.org/entities/TheXFiles> <http://schema.org/name> "The X Files"  <WarnerBros-euronews-1> .
+ <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/c4dm/event.owl#Event> <WarnerBros-euronews-1> .
+ <http://example.org/entities/BirchTreeGroup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <WarnerBros-euronews-1> .
+ <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b7> <http://purl.org/NET/c4dm/event.owl#agent> <http://example.org/entities/BirchTreeGroup> <WarnerBros-euronews-1> .
+ <http://example.org/songs/HappyBirthdayToYou> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicComposition> <WarnerBros-euronews-1> .
+ <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b10> <http://xmlns.com/foaf/0.1/name> "Euronews Culture"  <WarnerBros-euronews-1> .
+ <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-euronews-1> .
+ <http://example.org/entities/WarnerChappellMusic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <WarnerBros-euronews-1> .
+ <http://example.org/songs/HappyBirthdayToYou> <http://dbpedia.org/ontology/previousWork> <http://example.org/songs/GoodMorningToAll> <WarnerBros-euronews-1> .
+ <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b8> <http://dbpedia.org/ontology/against> <http://example.org/entities/WarnerChappellMusic> <WarnerBros-euronews-1> .
+ <http://example.org/people/JenniferNelson> <http://dbpedia.org/ontology/occupation> "filmmaker"  <WarnerBros-euronews-1> .
+ <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b1> <http://dbpedia.org/ontology/occupation> "kindergarten teacher"  <WarnerBros-euronews-1> .
+ <http://example.org/songs/GoodMorningToAll> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicComposition> <WarnerBros-euronews-1> .
+ <http://example.org/songs/GoodMorningToAll> <http://dbpedia.org/ontology/composer> <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b3>  <WarnerBros-euronews-1> .
+ <http://example.org/people/FoxMulder> <http://xmlns.com/foaf/0.1/name> "Fox Mulder"  <WarnerBros-euronews-1> .
+ <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/c4dm/event.owl#Event> <WarnerBros-euronews-1> .
+ <http://example.org/people/GeorgeHKing> <http://xmlns.com/foaf/0.1/name> "George H. King"  <WarnerBros-euronews-1> .
+ <http://example.org/songs/HappyBirthdayToYou> <http://purl.org/dc/terms/date> "1893-03-14"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-1> .
+ <http://example.org/songs/GoodMorningToAll> <http://dbpedia.org/ontology/composer> <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b4>  <WarnerBros-euronews-1> .
+ <http://example.org/songs/HappyBirthdayToYou> <http://dbpedia.org/ontology/composer> <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b1>  <WarnerBros-euronews-1> .
+ <http://example.org/entities/ClaytonFSummy> <http://dbpedia.org/ontology/copyrightRenewalDate> "1921-03-14"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-1> .
+ <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b8> <http://dbpedia.org/ontology/result> <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b9>  <WarnerBros-euronews-1> .
+ <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-euronews-1> .
+ <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b7> <http://dbpedia.org/ontology/value> "25000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <WarnerBros-euronews-1> .
+ <http://example.org/people/FoxMulder> <http://dbpedia.org/ontology/occupation> "FBI Special Agent"  <WarnerBros-euronews-1> .
+ <http://example.org/songs/GoodMorningToAll> <http://purl.org/dc/terms/date> "1893-03-14"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-1> .
+ <http://example.org/entities/HillFoundationInc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <WarnerBros-euronews-1> .
+ <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b5> <http://xmlns.com/foaf/0.1/name> "Patty S. Hill"  <WarnerBros-euronews-1> .
+ <http://example.org/people/JenniferNelson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-euronews-1> .
+ <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b1> <http://dbpedia.org/ontology/birthPlace> "Louisville, Kentucky, US"  <WarnerBros-euronews-1> .
+ <http://example.org/entities/WarnerChappellMusic> <http://xmlns.com/foaf/0.1/name> "Warner Chappell Music"  <WarnerBros-euronews-1> .
+ <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b8> <http://purl.org/NET/c4dm/event.owl#place> "New York"  <WarnerBros-euronews-1> .
+ <http://example.org/people/JenniferNelson> <http://dbpedia.org/ontology/lawsuit> <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b8>  <WarnerBros-euronews-1> .
+ <http://example.org/entities/ClaytonFSummy> <http://xmlns.com/foaf/0.1/name> "Clayton F. Summy"  <WarnerBros-euronews-1> .
+ <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/LegalCase> <WarnerBros-euronews-1> .
+ <http://example.org/people/FoxMulder> <http://dbpedia.org/ontology/fictional> "true"  <WarnerBros-euronews-1> .
+ <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b9> <http://dbpedia.org/ontology/judge> "George H. King"  <WarnerBros-euronews-1> .
+ <http://example.org/entities/TheXFiles> <http://dbpedia.org/ontology/fandom> <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b10>  <WarnerBros-euronews-1> .
+ <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-euronews-1> .
+ <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-euronews-1> .
+ <http://example.org/entities/BirchTreeGroup> <http://xmlns.com/foaf/0.1/name> "Birch Tree Group"  <WarnerBros-euronews-1> .
+ <http://example.org/entities/ClaytonFSummy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <WarnerBros-euronews-1> .
+ <http://example.org/songs/HappyBirthdayToYou> <http://dbpedia.org/ontology/lyrics> "Good morning, dear children / Good morning to all"  <WarnerBros-euronews-1> .
+ <http://example.org/songs/HappyBirthdayToYou> <http://dbpedia.org/ontology/copyrightHolder> <http://example.org/entities/ClaytonFSummy> <WarnerBros-euronews-1> .
+ <http://example.org/people/FoxMulder> <http://dbpedia.org/ontology/creator> <http://example.org/entities/TheXFiles> <WarnerBros-euronews-1> .
+ <http://example.org/entities/HillFoundationInc> <http://dbpedia.org/ontology/foundedBy> <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b5>  <WarnerBros-euronews-1> .
+ <http://example.org/entities/HillFoundationInc> <http://dbpedia.org/ontology/copyrightClaimDate> "1935-03-14"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-1> .
+ <http://example.org/songs/HappyBirthdayToYou> <http://dbpedia.org/ontology/composer> <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b2>  <WarnerBros-euronews-1> .
+ <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b3> <http://xmlns.com/foaf/0.1/name> "Patty S. Hill"  <WarnerBros-euronews-1> .
+ <http://example.org/entities/ClaytonFSummy> <http://dbpedia.org/ontology/copyrightClaimDate> "1893-03-14"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-1> .
+ <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b1> <http://xmlns.com/foaf/0.1/name> "Patty S. Hill"  <WarnerBros-euronews-1> .
+ <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b2> <http://dbpedia.org/ontology/birthPlace> "Louisville, Kentucky, US"  <WarnerBros-euronews-1> .
+ <http://example.org/entities/HillFoundationInc> <http://xmlns.com/foaf/0.1/name> "Hill Foundation, Inc."  <WarnerBros-euronews-1> .
+ <http://example.org/songs/HappyBirthdayToYou> <http://dbpedia.org/ontology/successor> <http://example.org/entities/HillFoundationInc> <WarnerBros-euronews-1> .
+ <http://example.org/people/FoxMulder> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-euronews-1> .
+ <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b4> <http://xmlns.com/foaf/0.1/name> "Mildred J. Hill"  <WarnerBros-euronews-1> .
+ <http://example.org/entities/WarnerChappellMusic> <http://dbpedia.org/ontology/acquisition> <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b7>  <WarnerBros-euronews-1> .
+ <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b9> <http://dbpedia.org/ontology/decisionDate> "2015-09-22"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-1> .
+ <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b2> <http://xmlns.com/foaf/0.1/name> "Mildred J. Hill"  <WarnerBros-euronews-1> .
+ <http://WarnerBros-euronews-1.com/blank#n77817fdb2d6b4ad0a75bf7e15f22bf98b8> <http://purl.org/NET/c4dm/event.owl#time> "2013-06-14"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-1> .
+ <http://example.org/people/JenniferNelson> <http://xmlns.com/foaf/0.1/name> "Jennifer Nelson"  <WarnerBros-euronews-1> .
+ <http://example.org/songs/HappyBirthdayToYou> <http://schema.org/isBasedOn> <http://example.org/songs/GoodMorningToAll> <WarnerBros-euronews-1> .
+ <http://dbpedia.org/resource/Meg_Gardiner> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Writer> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Robert_De_Niro> <http://dbpedia.org/ontology/starringIn> <http://dbpedia.org/resource/Heat_(1995_film)> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Penélope_Cruz> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Actor> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Heat_(1995_film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Al_Pacino> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Meg_Gardiner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Christopher_Nolan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Neon_(distributor)> <http://xmlns.com/foaf/0.1/name> "Neon"  <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/SAG-AFTRA> <http://xmlns.com/foaf/0.1/name> "SAG-AFTRA"  <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Penélope_Cruz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Heat_(1995_film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Robert_De_Niro> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Shailene_Woodley> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Actor> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Meg_Gardiner> <http://xmlns.com/foaf/0.1/name> "Meg Gardiner"  <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Warner_Bros> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Entertainment> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Meg_Gardiner> <http://dbpedia.org/ontology/authorOf> <http://dbpedia.org/resource/Heat_2> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Heat_2_Movie> <http://dbpedia.org/ontology/productionCompany> <http://dbpedia.org/resource/Warner_Bros> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Ferrari_(film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Adam_Driver> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Shailene_Woodley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Michael_Mann> <http://xmlns.com/foaf/0.1/name> "Michael Mann"  <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Heat_2> <http://dbpedia.org/ontology/numberOfPages> "500"^^<http://www.w3.org/2001/XMLSchema#integer>  <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Al_Pacino> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Heat_2> <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/Meg_Gardiner> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Al_Pacino> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Actor> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Heat_(1995_film)> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Michael_Mann> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Robert_De_Niro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Heat_(1995_film)> <http://dbpedia.org/ontology/runtime> "?runtime"  <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Michael_Mann> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Warner_Bros> <http://xmlns.com/foaf/0.1/name> "Warner Bros"  <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Penélope_Cruz> <http://dbpedia.org/ontology/starringIn> <http://dbpedia.org/resource/Ferrari_(film)> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Ferrari_(film)> <http://dbpedia.org/ontology/runtime> "?runtime"  <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Heat_2> <http://dbpedia.org/ontology/prequel> <http://dbpedia.org/resource/Heat_(1995_film)> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Heat_(1995_film)> <http://dbpedia.org/ontology/releaseDate> "1995-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Heat_2_Movie> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Michael_Mann> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Michael_Mann> <http://xmlns.com/foaf/0.1/made> <http://dbpedia.org/resource/Heat_2> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Heat_(1995_film)> <http://schema.org/datePublished> "1995-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Adam_Driver> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Heat_2> <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/Michael_Mann> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Adam_Driver> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Actor> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Heat_2> <http://dbpedia.org/ontology/isPartOfSeries> <http://dbpedia.org/resource/Heat_(series)> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Adam_Driver> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Meg_Gardiner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Michael_Mann> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Heat_(1995_film)> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Ferrari_(film)> <http://dbpedia.org/ontology/releaseDate> "2023-12-25"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Christopher_Nolan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Michael_Mann> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Ferrari_(film)> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Penélope_Cruz> <http://xmlns.com/foaf/0.1/name> "Penélope Cruz"  <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Ferrari_(film)> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <https://en.wikipedia.org/wiki/Ferrari_(film)> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Ferrari_(film)> <http://schema.org/datePublished> "2023-12-25"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Penélope_Cruz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Heat_2> <http://dbpedia.org/ontology/sequel> <http://dbpedia.org/resource/Heat_(1995_film)> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Heat_2> <http://schema.org/datePublished> "2022-08-01"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Ferrari_(film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Penélope_Cruz> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Heat_2> <http://dbpedia.org/ontology/literaryGenre> <http://dbpedia.org/resource/Crime_fiction> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Shailene_Woodley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Heat_2_Movie> <http://dbpedia.org/ontology/basedOn> <http://dbpedia.org/resource/Heat_2> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Heat_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Heat_2_Movie> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Adam_Driver> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Al_Pacino> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Heat_(1995_film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Christopher_Nolan> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Heat_(1995_film)> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Robert_De_Niro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Al_Pacino> <http://xmlns.com/foaf/0.1/name> "Al Pacino"  <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Robert_De_Niro> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Actor> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Michael_Mann> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Adam_Driver> <http://dbpedia.org/ontology/starringIn> <http://dbpedia.org/resource/Ferrari_(film)> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Warner_Bros> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Shailene_Woodley> <http://xmlns.com/foaf/0.1/name> "Shailene Woodley"  <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Ferrari_(film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Neon_(distributor)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Heat_2_Movie> <http://dbpedia.org/ontology/prequel> <http://dbpedia.org/resource/Heat_(1995_film)> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Christopher_Nolan> <http://xmlns.com/foaf/0.1/name> "Christopher Nolan"  <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Ferrari_(film)> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Michael_Mann> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Shailene_Woodley> <http://dbpedia.org/ontology/starringIn> <http://dbpedia.org/resource/Ferrari_(film)> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Neon_(distributor)> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Film_distribution> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Al_Pacino> <http://dbpedia.org/ontology/starringIn> <http://dbpedia.org/resource/Heat_(1995_film)> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Heat_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Heat_(1995_film)> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <https://en.wikipedia.org/wiki/Heat_(1995_film)> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Heat_2_Movie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Robert_De_Niro> <http://xmlns.com/foaf/0.1/name> "Robert De Niro"  <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/SAG-AFTRA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Michael_Mann> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Film_Director> <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Adam_Driver> <http://xmlns.com/foaf/0.1/name> "Adam Driver"  <WarnerBros-euronews-2> .
+ <http://dbpedia.org/resource/Ferrari_(film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Shailene_Woodley> <WarnerBros-euronews-2> .
+ <http://example.org/wga/WritersGuildOfAmerica> <http://example.org/wga/president> <http://example.org/person/MeredithStiehm> <WarnerBros-euronews-3> .
+ <http://example.org/wga/NewContract> <http://example.org/wga/ratificationVoters> "8525"^^<http://www.w3.org/2001/XMLSchema#integer>  <WarnerBros-euronews-3> .
+ <http://example.org/sagsaftra/ScreenActorsGuildAmericanFederationOfTelevisionAndRadioArtists> <http://example.org/sagsaftra/negotiationDay> "Wednesday"  <WarnerBros-euronews-3> .
+ <http://example.org/hollywood/WarnerBrosDiscovery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/hollywood/Studio> <WarnerBros-euronews-3> .
+ <http://WarnerBros-euronews-3.com/blank#ncf5a06a105f24f9caabcb689a13796d1b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/wga/Outcome> <WarnerBros-euronews-3> .
+ <http://example.org/hollywood/Hollywood> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/hollywood/Location> <WarnerBros-euronews-3> .
+ <http://example.org/person/MeredithStiehm> <http://example.org/person/role> "president"  <WarnerBros-euronews-3> .
+ <http://example.org/wga/WritersGuildOfAmerica> <http://example.org/wga/statement> "Together we were able to accomplish what many said was impossible only six months ago."@en  <WarnerBros-euronews-3> .
+ <http://example.org/amptp/AllianceOfMotionPictureAndTelevisionProducers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/amptp/Organization> <WarnerBros-euronews-3> .
+ <http://example.org/wga/NewContract> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/wga/Contract> <WarnerBros-euronews-3> .
+ <http://example.org/hollywood/Hollywood> <http://example.org/hollywood/hasEntity> <http://example.org/sagsaftra/ScreenActorsGuildAmericanFederationOfTelevisionAndRadioArtists> <WarnerBros-euronews-3> .
+ <http://example.org/wga/NewContract> <http://example.org/wga/agreementDate> "2017-09-24"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-3> .
+ <http://example.org/wga/WritersGuildOfAmerica> <http://example.org/wga/ratifiedContract> <http://example.org/wga/NewContract> <WarnerBros-euronews-3> .
+ <http://example.org/hollywood/Disney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/hollywood/Studio> <WarnerBros-euronews-3> .
+ <http://example.org/wga/WritersGuildOfAmerica> <http://example.org/wga/strikeDuration> "148"^^<http://www.w3.org/2001/XMLSchema#integer>  <WarnerBros-euronews-3> .
+ <http://example.org/sagsaftra/ScreenActorsGuildAmericanFederationOfTelevisionAndRadioArtists> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/sagsaftra/Union> <WarnerBros-euronews-3> .
+ <http://example.org/wga/NewContract> <http://example.org/wga/previousContractExpiration> "2023-05-01"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-3> .
+ <http://example.org/wga/NewContract> <http://example.org/wga/ratificationDate> "2017-10-09"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-3> .
+ <http://example.org/wga/WritersGuildOfAmerica> <http://example.org/wga/strikeOutcome> <http://WarnerBros-euronews-3.com/blank#ncf5a06a105f24f9caabcb689a13796d1b1>  <WarnerBros-euronews-3> .
+ <http://example.org/hollywood/Hollywood> <http://example.org/hollywood/hasEntity> <http://example.org/amptp/AllianceOfMotionPictureAndTelevisionProducers> <WarnerBros-euronews-3> .
+ <http://example.org/hollywood/Netflix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/hollywood/StreamingService> <WarnerBros-euronews-3> .
+ <http://example.org/hollywood/Hollywood> <http://example.org/hollywood/hasEntity> <http://example.org/wga/WritersGuildOfAmerica> <WarnerBros-euronews-3> .
+ <http://example.org/amptp/AllianceOfMotionPictureAndTelevisionProducers> <http://example.org/amptp/represents> <http://example.org/amptp/streamingServices> <WarnerBros-euronews-3> .
+ <http://example.org/person/MeredithStiehm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/person/Person> <WarnerBros-euronews-3> .
+ <http://WarnerBros-euronews-3.com/blank#ncf5a06a105f24f9caabcb689a13796d1b1> <http://example.org/wga/increaseStaff> "more"  <WarnerBros-euronews-3> .
+ <http://example.org/wga/WritersGuildOfAmerica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/wga/Union> <WarnerBros-euronews-3> .
+ <http://example.org/wga/NewContract> <http://example.org/wga/validThrough> "2026-05-01"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-3> .
+ <http://example.org/amptp/AllianceOfMotionPictureAndTelevisionProducers> <http://example.org/amptp/congratulates> <http://example.org/wga/WritersGuildOfAmerica> <WarnerBros-euronews-3> .
+ <http://WarnerBros-euronews-3.com/blank#ncf5a06a105f24f9caabcb689a13796d1b1> <http://example.org/wga/controlAI> "controls"  <WarnerBros-euronews-3> .
+ <http://example.org/wga/NewContract> <http://example.org/wga/ratificationPercentage> "99"^^<http://www.w3.org/2001/XMLSchema#integer>  <WarnerBros-euronews-3> .
+ <http://example.org/sagsaftra/ScreenActorsGuildAmericanFederationOfTelevisionAndRadioArtists> <http://example.org/sagsaftra/strikeDuration> "three months"  <WarnerBros-euronews-3> .
+ <http://example.org/person/MeredithStiehm> <http://example.org/person/affiliation> <http://example.org/wga/WritersGuildOfAmerica> <WarnerBros-euronews-3> .
+ <http://example.org/amptp/AllianceOfMotionPictureAndTelevisionProducers> <http://example.org/amptp/statement> "The contract represents meaningful gains and protections for writers and hailed important progress for our industry that writers are back to work."@en  <WarnerBros-euronews-3> .
+ <http://example.org/amptp/AllianceOfMotionPictureAndTelevisionProducers> <http://example.org/amptp/represents> <http://example.org/amptp/productionCompanies> <WarnerBros-euronews-3> .
+ <http://example.org/amptp/AllianceOfMotionPictureAndTelevisionProducers> <http://example.org/amptp/represents> <http://example.org/amptp/studios> <WarnerBros-euronews-3> .
+ <http://WarnerBros-euronews-3.com/blank#ncf5a06a105f24f9caabcb689a13796d1b1> <http://example.org/wga/payRaise> "major"  <WarnerBros-euronews-3> .
+ <http://example.org/sagsaftra/ScreenActorsGuildAmericanFederationOfTelevisionAndRadioArtists> <http://example.org/sagsaftra/negotiationStatus> "negotiating"  <WarnerBros-euronews-3> .
+ <http://example.org/artists/MartinScorsese> <http://schema.org/name> "Martin Scorsese"  <WarnerBros-euronews-4> .
+ <http://example.org/artists/TaylorSwift> <http://schema.org/additionalType> "Live shows"  <WarnerBros-euronews-4> .
+ <http://example.org/movies/TheLastWaltz> <http://schema.org/about> <http://dbpedia.org/resource/The_Band> <WarnerBros-euronews-4> .
+ <http://example.org/sales/ErasTourFilm> <http://xmlns.com/foaf/0.1/name> "Taylor Swift: The Eras Tour concert film"  <WarnerBros-euronews-4> .
+ <http://example.org/artists/Beyonce> <http://schema.org/name> "Beyoncé"  <WarnerBros-euronews-4> .
+ <http://example.org/venues/AMCTheatresAcross100Countries> <http://dbpedia.org/ontology/numberOfScreens> "8500"^^<http://www.w3.org/2001/XMLSchema#integer>  <WarnerBros-euronews-4> .
+ <http://example.org/artists/MartinScorsese> <http://schema.org/directorOf> <http://example.org/movies/KillersOfTheFlowerMoon> <WarnerBros-euronews-4> .
+ <http://example.org/sales/ErasTourFilmRecord> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <WarnerBros-euronews-4> .
+ <http://example.org/sales/ErasTourFilmRecord> <http://schema.org/name> "Record for concert film ticket sales"  <WarnerBros-euronews-4> .
+ <http://example.org/artists/TaylorSwift> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicGroup> <WarnerBros-euronews-4> .
+ <http://example.org/sales/ErasTourSAGAFTRA> <http://schema.org/roleName> "Interim agreement for promotion"  <WarnerBros-euronews-4> .
+ <http://example.org/artists/TaylorSwift> <http://schema.org/performerIn> <http://example.org/sales/ErasTourFilm> <WarnerBros-euronews-4> .
+ <http://example.org/movies/TheLastWaltz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/SignalGroup> <WarnerBros-euronews-4> .
+ <http://example.org/sales/ErasTourFilm> <http://dbpedia.org/ontology/openingDate> "2023-10-13"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-4> .
+ <http://example.org/movies/TheLastWaltz> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Martin_Scorsese> <WarnerBros-euronews-4> .
+ <http://example.org/sales/ErasTourFilmRecord> <http://schema.org/eventStatus> <http://schema.org/EventScheduled> <WarnerBros-euronews-4> .
+ <http://example.org/venues/AMCTheatresAcross100Countries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Venue> <WarnerBros-euronews-4> .
+ <http://example.org/artists/TaylorSwift> <http://schema.org/name> "Taylor Swift"  <WarnerBros-euronews-4> .
+ <http://example.org/sales/ErasTourSAGAFTRA> <http://schema.org/name> "SAG-AFTRA"  <WarnerBros-euronews-4> .
+ <http://example.org/movies/KillersOfTheFlowerMoon> <http://schema.org/releaseDate> "2023-10-13"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-4> .
+ <http://example.org/artists/MartinScorsese> <http://schema.org/directorOf> <http://example.org/movies/TheLastWaltz> <WarnerBros-euronews-4> .
+ <http://example.org/sales/ErasTourSAGAFTRA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-euronews-4> .
+ <http://example.org/movies/RenaissanceFilm> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/AMC_Theatres> <WarnerBros-euronews-4> .
+ <http://example.org/artists/TaylorSwift> <http://schema.org/startDate> "2023-11-09"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-4> .
+ <http://example.org/artists/Beyonce> <http://schema.org/performerIn> <http://example.org/movies/RenaissanceFilm> <WarnerBros-euronews-4> .
+ <http://example.org/sales/ErasTourFilm> <http://dbpedia.org/ontology/currency> "USD"  <WarnerBros-euronews-4> .
+ <http://example.org/sales/ErasTourFilm> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/AMC_Theatres> <WarnerBros-euronews-4> .
+ <http://example.org/artists/Beyonce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicGroup> <WarnerBros-euronews-4> .
+ <http://example.org/movies/RenaissanceFilm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/SignalGroup> <WarnerBros-euronews-4> .
+ <http://example.org/artists/Beyonce> <http://schema.org/startDate> "2022-12-01"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-4> .
+ <http://example.org/movies/TheLastWaltz> <http://dbpedia.org/ontology/releaseDate> "1978-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-4> .
+ <http://example.org/venues/AMCTheatresAcross100Countries> <http://dbpedia.org/ontology/location> "100 countries"  <WarnerBros-euronews-4> .
+ <http://example.org/sales/ErasTourFilm> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> <WarnerBros-euronews-4> .
+ <http://example.org/sales/ErasTourFilm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/SignalGroup> <WarnerBros-euronews-4> .
+ <http://example.org/sales/ErasTourFilm> <http://dbpedia.org/ontology/recordLabel> <http://dbpedia.org/resource/Big_Machine_Records> <WarnerBros-euronews-4> .
+ <http://example.org/artists/TaylorSwift> <http://schema.org/location> <http://dbpedia.org/resource/Argentina> <WarnerBros-euronews-4> .
+ <http://example.org/movies/RenaissanceFilm> <http://xmlns.com/foaf/0.1/name> "Renaissance: A Film by Beyoncé"  <WarnerBros-euronews-4> .
+ <http://example.org/movies/KillersOfTheFlowerMoon> <http://schema.org/name> "Killers of the Flower Moon"  <WarnerBros-euronews-4> .
+ <http://example.org/sales/ErasTourFilm> <http://dbpedia.org/ontology/revenue> "100000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-euronews-4> .
+ <http://example.org/sales/ErasTourFilm> <http://dbpedia.org/ontology/hasPart> <http://example.org/venues/AMCTheatresAcross100Countries> <WarnerBros-euronews-4> .
+ <http://example.org/movies/TheLastWaltz> <http://dbpedia.org/ontology/anniversary> "45th"^^<http://www.w3.org/2001/XMLSchema#integer>  <WarnerBros-euronews-4> .
+ <http://example.org/artists/MartinScorsese> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-euronews-4> .
+ <http://example.org/movies/TheLastWaltz> <http://xmlns.com/foaf/0.1/name> "The Last Waltz"  <WarnerBros-euronews-4> .
+ <http://example.org/movies/KillersOfTheFlowerMoon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <WarnerBros-euronews-4> .
+ <http://example.org/sales/ErasTourFilm> <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/Taylor_Swift> <WarnerBros-euronews-4> .
+ <http://example.org/sales/ErasTourFilmRecord> <http://schema.org/startDate> "2023-08-31"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-4> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b11> <http://schema.org/worksFor> <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b12>  <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b8> <http://schema.org/description> "Potential Expansion of Strike to Video Game Industry"  <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#AudreyCooling> <http://schema.org/jobTitle> "Spokesperson for Video Game Producers"  <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b16> <http://schema.org/name> "Take 2 Productions"  <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b3> <http://schema.org/name> "Stunts"  <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#actorsStrike> <http://schema.org/name> "SAG-AFTRA Actors Strike"  <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#AudreyCooling> <http://schema.org/knows> <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b20>  <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b20> <http://schema.org/description> "Tentative Agreements on Proposals"  <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Occupation> <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#NegotiationThisWeek> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Negotiation> <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#NegotiationThisWeek> <http://schema.org/participant> <http://example.org/sag-aftra#VideoGameCompanies> <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#actorsStrike> <http://schema.org/workPerformed> <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b3>  <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b2> <http://schema.org/name> "Voice Acting"  <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Occupation> <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#SAG_AFTRA> <http://schema.org/member> <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b5>  <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b5> <http://schema.org/name> "Fran Drescher"  <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#actorsStrike> <http://schema.org/eventStatus> <http://schema.org/EventScheduled> <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b12> <http://schema.org/name> "Cyberpunk 2077: Phantom Liberty"  <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b14> <http://schema.org/name> "Electronic Arts"  <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b10> <http://schema.org/name> "Kit Harington"  <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Negotiation> <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#VideoGameCompanies> <http://schema.org/member> <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b16>  <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#VideoGameIndustry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#VideoGameCompanies> <http://schema.org/member> <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b14>  <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#VideoGamePerformersContract> <http://schema.org/expirationDate> "2022-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Occupation> <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#VideoGamePerformersContract> <http://schema.org/potentialAction> <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b19>  <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#VideoGamePerformersContract> <http://schema.org/customer> <http://example.org/sag-aftra#VideoGameIndustry> <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#AudreyCooling> <http://schema.org/name> "Audrey Cooling"  <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b19> <http://schema.org/party> <http://example.org/sag-aftra#VideoGameCompanies> <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#SAG_AFTRA> <http://schema.org/action> <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b6>  <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#VideoGameIndustry> <http://schema.org/name> "Video Game Industry"  <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#actorsStrike> <http://schema.org/about> <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b1>  <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Occupation> <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b11> <http://schema.org/name> "Idris Elba"  <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#VideoGameCompanies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b4> <http://schema.org/name> "Motion Capture"  <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#VideoGamePerformersContract> <http://schema.org/provider> <http://example.org/sag-aftra#SAG_AFTRA> <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b6> <http://schema.org/purpose> <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b7>  <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#NegotiationThisWeek> <http://schema.org/startDate> "2023-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b6> <http://schema.org/result> <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b8>  <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#actorsStrike> <http://schema.org/startDate> "2022-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#VideoGameIndustry> <http://schema.org/employee> <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b10>  <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#actorsStrike> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#AudreyCooling> <http://schema.org/affiliation> <http://example.org/sag-aftra#VideoGameCompanies> <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#VideoGameCompanies> <http://schema.org/member> <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b15>  <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#NegotiationThisWeek> <http://schema.org/organizer> <http://example.org/sag-aftra#SAG_AFTRA> <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#actorsStrike> <http://schema.org/workPerformed> <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b4>  <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#VideoGameCompanies> <http://schema.org/member> <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b13>  <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#SAG_AFTRA> <http://schema.org/name> "Screen Actors Guild‐American Federation of Television and Radio Artists"  <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b13> <http://schema.org/name> "Activision"  <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b6> <http://schema.org/participantCount> "98"^^<http://www.w3.org/2001/XMLSchema#percent>  <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#actorsStrike> <http://schema.org/organizer> <http://example.org/sag-aftra#SAG_AFTRA> <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#VideoGameCompanies> <http://schema.org/member> <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b18>  <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b9> <http://schema.org/name> "Rami Malek"  <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#NegotiationThisWeek> <http://schema.org/purpose> "Reaching a Deal for Video Game Performers"  <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#actorsStrike> <http://schema.org/workPerformed> <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b2>  <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/VideoGame> <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#VideoGameIndustry> <http://schema.org/employee> <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b9>  <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#VideoGameIndustry> <http://schema.org/employee> <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b11>  <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b5> <http://schema.org/jobTitle> "President"  <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b7> <http://schema.org/description> "Strike Authorization Against Video Game Companies"  <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b15> <http://schema.org/name> "Epic Games"  <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/VoteAction> <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b1> <http://schema.org/name> "Actors"  <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b17> <http://schema.org/name> "Disney"  <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#VideoGamePerformersContract> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Agreement> <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b18> <http://schema.org/name> "Warner Bros"  <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b11> <http://schema.org/jobTitle> "Intelligence Agent Solomon Reed"  <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#SAG_AFTRA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#VideoGameCompanies> <http://schema.org/member> <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b17>  <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#VideoGamePerformersContract> <http://schema.org/name> "SAG-AFTRA Video Game Performers Contract"  <WarnerBros-euronews-5> .
+ <http://WarnerBros-euronews-5.com/blank#nccc08da280cb4a0197eb827f07331609b19> <http://schema.org/party> <http://example.org/sag-aftra#SAG_AFTRA> <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#VideoGameCompanies> <http://schema.org/name> "Major Video Game Companies"  <WarnerBros-euronews-5> .
+ <http://example.org/sag-aftra#AudreyCooling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-euronews-5> .
+ <http://example.org/Agreement> <http://schema.org/party> <http://example.org/WritersGuildOfAmerica> <WarnerBros-euronews-6> .
+ <http://example.org/VideoGameCompanies> <http://schema.org/member> <http://dbpedia.org/resource/Take_Two_Interactive> <WarnerBros-euronews-6> .
+ <http://WarnerBros-euronews-6.com/blank#n4be9fd2767b744dc81aaa3ffa59a1334b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> <WarnerBros-euronews-6> .
+ <http://example.org/VideoGameCompanies> <http://schema.org/member> <http://dbpedia.org/resource/Disney> <WarnerBros-euronews-6> .
+ <http://example.org/HollywoodStudios> <http://xmlns.com/foaf/0.1/name> "Hollywood's biggest studios"  <WarnerBros-euronews-6> .
+ <http://example.org/DamianDovarganes> <http://xmlns.com/foaf/0.1/name> "Damian Dovarganes"  <WarnerBros-euronews-6> .
+ <http://example.org/FranDrescher> <http://schema.org/memberOf> <http://example.org/ScreenActorsGuildAmericanFederationOfTelevisionAndRadioArtists> <WarnerBros-euronews-6> .
+ <http://example.org/Agreement> <http://schema.org/party> <http://example.org/StreamingServices> <WarnerBros-euronews-6> .
+ <http://example.org/FranDrescher> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Actor> <WarnerBros-euronews-6> .
+ <http://example.org/ProductionCompanies> <http://xmlns.com/foaf/0.1/name> "Production companies"  <WarnerBros-euronews-6> .
+ <http://example.org/VideoGameCompanies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WarnerBros-euronews-6> .
+ <http://example.org/NoahWyle> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Actor> <WarnerBros-euronews-6> .
+ <http://example.org/MatthewWeiner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-euronews-6> .
+ <http://example.org/AudreyCooling> <http://xmlns.com/foaf/0.1/name> "Audrey Cooling"  <WarnerBros-euronews-6> .
+ <http://WarnerBros-euronews-6.com/blank#n4be9fd2767b744dc81aaa3ffa59a1334b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Role> <WarnerBros-euronews-6> .
+ <http://example.org/DamianDovarganes> <http://schema.org/copyrightHolder> "The AP"  <WarnerBros-euronews-6> .
+ <http://example.org/VideoGameCompanies> <http://schema.org/member> <http://dbpedia.org/resource/Epic_Games> <WarnerBros-euronews-6> .
+ <http://example.org/MarissaCuevas> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Actor> <WarnerBros-euronews-6> .
+ <http://example.org/ViewershipResiduals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> <WarnerBros-euronews-6> .
+ <http://example.org/ScreenActorsGuildAmericanFederationOfTelevisionAndRadioArtists> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WarnerBros-euronews-6> .
+ <http://example.org/AllianceOfMotionPictureAndTelevisionProducers> <http://xmlns.com/foaf/0.1/name> "Alliance of Motion Picture and Television Producers"  <WarnerBros-euronews-6> .
+ <http://example.org/AudreyCooling> <http://dbpedia.org/ontology/occupation> <http://WarnerBros-euronews-6.com/blank#n4be9fd2767b744dc81aaa3ffa59a1334b1>  <WarnerBros-euronews-6> .
+ <http://example.org/JointNegotiatingCommittee> <http://xmlns.com/foaf/0.1/name> "Joint Negotiating Committee"  <WarnerBros-euronews-6> .
+ <http://example.org/Agreement> <http://schema.org/party> <http://example.org/JointNegotiatingCommittee> <WarnerBros-euronews-6> .
+ <http://example.org/Strike> <http://dbpedia.org/ontology/startDate> "2023-05-02"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-6> .
+ <http://example.org/Agreement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Agreement> <WarnerBros-euronews-6> .
+ <http://example.org/MarissaCuevas> <http://xmlns.com/foaf/0.1/name> "Marissa Cuevas"  <WarnerBros-euronews-6> .
+ <http://example.org/MarissaCuevas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-euronews-6> .
+ <http://example.org/RichardVogel> <http://schema.org/copyrightHolder> "The AP"  <WarnerBros-euronews-6> .
+ <http://example.org/DamianDovarganes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-euronews-6> .
+ <http://example.org/Strike> <http://schema.org/about> <http://example.org/WritersGuildOfAmerica> <WarnerBros-euronews-6> .
+ <http://example.org/VideoGameStrike> <http://schema.org/about> <http://example.org/ScreenActorsGuildAmericanFederationOfTelevisionAndRadioArtists> <WarnerBros-euronews-6> .
+ <http://example.org/AllianceOfMotionPictureAndTelevisionProducers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WarnerBros-euronews-6> .
+ <http://example.org/VideoGameStrike> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WarnerBros-euronews-6> .
+ <http://example.org/VideoGameStrike> <http://schema.org/about> <http://example.org/VideoGameCompanies> <WarnerBros-euronews-6> .
+ <http://example.org/RichardVogel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-euronews-6> .
+ <http://example.org/RichardVogel> <http://purl.org/dc/elements/1.1/date> "2023-09-26"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-6> .
+ <http://example.org/NoahWyle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-euronews-6> .
+ <http://example.org/AudreyCooling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-euronews-6> .
+ <http://example.org/JackBlack> <http://xmlns.com/foaf/0.1/name> "Jack Black"  <WarnerBros-euronews-6> .
+ <http://example.org/JointNegotiatingCommittee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WarnerBros-euronews-6> .
+ <http://example.org/SebastianRoche> <http://xmlns.com/foaf/0.1/name> "Sebastian Roche'"  <WarnerBros-euronews-6> .
+ <http://example.org/VideoGameCompanies> <http://xmlns.com/foaf/0.1/name> "Video game companies"  <WarnerBros-euronews-6> .
+ <http://example.org/StreamingServices> <http://xmlns.com/foaf/0.1/name> "Streaming services"  <WarnerBros-euronews-6> .
+ <http://example.org/ArtificialIntelligence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Technology> <WarnerBros-euronews-6> .
+ <http://example.org/HollywoodStudios> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WarnerBros-euronews-6> .
+ <http://example.org/ScreenActorsGuildAmericanFederationOfTelevisionAndRadioArtists> <http://dbpedia.org/ontology/abbreviation> "SAG-AFTRA"  <WarnerBros-euronews-6> .
+ <http://example.org/Agreement> <http://schema.org/about> <http://example.org/ArtificialIntelligence> <WarnerBros-euronews-6> .
+ <http://example.org/Agreement> <http://dbpedia.org/ontology/endDate> "2023-09-26"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-6> .
+ <http://example.org/VideoGameStrike> <http://dbpedia.org/ontology/startDate> "2023-09-25"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-6> .
+ <http://example.org/ProductionCompanies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WarnerBros-euronews-6> .
+ <http://example.org/Agreement> <http://schema.org/party> <http://example.org/HollywoodStudios> <WarnerBros-euronews-6> .
+ <http://example.org/VideoGameCompanies> <http://schema.org/member> <http://dbpedia.org/resource/Warner_Bros> <WarnerBros-euronews-6> .
+ <http://example.org/FranDrescher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-euronews-6> .
+ <http://WarnerBros-euronews-6.com/blank#n4be9fd2767b744dc81aaa3ffa59a1334b1> <http://xmlns.com/foaf/0.1/name> "Spokesperson for video game producers"  <WarnerBros-euronews-6> .
+ <http://example.org/Strike> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WarnerBros-euronews-6> .
+ <http://example.org/Strike> <http://dbpedia.org/ontology/cause> <http://example.org/Agreement> <WarnerBros-euronews-6> .
+ <http://example.org/ScreenActorsGuildAmericanFederationOfTelevisionAndRadioArtists> <http://xmlns.com/foaf/0.1/name> "Screen Actors Guild-American Federation of Television and Radio Artists"  <WarnerBros-euronews-6> .
+ <http://example.org/Agreement> <http://dbpedia.org/ontology/contractPeriod> "3 years"^^<http://www.w3.org/2001/XMLSchema#string>  <WarnerBros-euronews-6> .
+ <http://example.org/NoahWyle> <http://xmlns.com/foaf/0.1/name> "Noah Wyle"  <WarnerBros-euronews-6> .
+ <http://example.org/WritersGuildOfAmerica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WarnerBros-euronews-6> .
+ <http://example.org/BobOdenkirk> <http://xmlns.com/foaf/0.1/name> "Bob Odenkirk"  <WarnerBros-euronews-6> .
+ <http://example.org/Agreement> <http://schema.org/about> <http://example.org/ViewershipResiduals> <WarnerBros-euronews-6> .
+ <http://example.org/BobOdenkirk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-euronews-6> .
+ <http://example.org/BobOdenkirk> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Actor> <WarnerBros-euronews-6> .
+ <http://example.org/SebastianRoche> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-euronews-6> .
+ <http://example.org/StreamingServices> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WarnerBros-euronews-6> .
+ <http://example.org/SebastianRoche> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Actor> <WarnerBros-euronews-6> .
+ <http://example.org/Strike> <http://dbpedia.org/ontology/endDate> "2023-09-26T00:01:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <WarnerBros-euronews-6> .
+ <http://example.org/MatthewWeiner> <http://xmlns.com/foaf/0.1/name> "Matthew Weiner"  <WarnerBros-euronews-6> .
+ <http://example.org/RichardVogel> <http://xmlns.com/foaf/0.1/name> "Richard Vogel"  <WarnerBros-euronews-6> .
+ <http://example.org/VideoGameCompanies> <http://schema.org/member> <http://dbpedia.org/resource/Activision> <WarnerBros-euronews-6> .
+ <http://example.org/JackBlack> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-euronews-6> .
+ <http://example.org/JackBlack> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Actor> <WarnerBros-euronews-6> .
+ <http://example.org/DamianDovarganes> <http://purl.org/dc/elements/1.1/date> "2023-09-26"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-6> .
+ <http://example.org/VideoGameCompanies> <http://schema.org/member> <http://dbpedia.org/resource/Electronic_Arts> <WarnerBros-euronews-6> .
+ <http://WarnerBros-euronews-6.com/blank#n4be9fd2767b744dc81aaa3ffa59a1334b2> <http://xmlns.com/foaf/0.1/name> "Negotiations on contract"  <WarnerBros-euronews-6> .
+ <http://example.org/FranDrescher> <http://xmlns.com/foaf/0.1/name> "Fran Drescher"  <WarnerBros-euronews-6> .
+ <http://example.org/ArtificialIntelligence> <http://xmlns.com/foaf/0.1/name> "Artificial Intelligence"  <WarnerBros-euronews-6> .
+ <http://example.org/Agreement> <http://dbpedia.org/ontology/startDate> "2023-09-24"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-6> .
+ <http://example.org/MatthewWeiner> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/TelevisionProducer> <WarnerBros-euronews-6> .
+ <http://example.org/Agreement> <http://schema.org/party> <http://example.org/ProductionCompanies> <WarnerBros-euronews-6> .
+ <http://example.org/WritersGuildOfAmerica> <http://xmlns.com/foaf/0.1/name> "Writers Guild of America"  <WarnerBros-euronews-6> .
+ <http://example.org/VideoGameStrike> <http://dbpedia.org/ontology/cause> <http://WarnerBros-euronews-6.com/blank#n4be9fd2767b744dc81aaa3ffa59a1334b2>  <WarnerBros-euronews-6> .
+ <http://example.org/ViewershipResiduals> <http://xmlns.com/foaf/0.1/name> "Viewership residuals"  <WarnerBros-euronews-6> .
+ <http://schema.org/EconomicImpact> <http://schema.org/unitCode> "USD"  <WarnerBros-euronews-7> .
+ <http://example.org/wga#Members> <http://schema.org/memberOf> <http://example.org/wga#WritersGuildOfAmerica> <WarnerBros-euronews-7> .
+ <http://example.org/wga#Strike> <http://schema.org/subEvent> <http://example.org/wga#Picketing> <WarnerBros-euronews-7> .
+ <http://example.org/sagaftra#SAGAFTRA> <http://schema.org/member> <http://example.org/sagaftra#Members> <WarnerBros-euronews-7> .
+ <http://example.org/sagaftra#Members> <http://schema.org/roleName> "members"  <WarnerBros-euronews-7> .
+ <http://example.org/wga#DataTransparencyResidual> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> <WarnerBros-euronews-7> .
+ <http://example.org/wga#Ratification> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <WarnerBros-euronews-7> .
+ <http://example.org/wga#Ratification> <http://schema.org/about> <http://example.org/wga#NegotiationWithAMPTP> <WarnerBros-euronews-7> .
+ <http://example.org/sagaftra#Members> <http://schema.org/memberOf> <http://example.org/sagaftra#SAGAFTRA> <WarnerBros-euronews-7> .
+ <http://example.org/sagaftra#SAGAFTRA> <http://schema.org/name> "Screen Actors Guild‐American Federation of Television and Radio Artists"  <WarnerBros-euronews-7> .
+ <http://example.org/wga#Members> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/OrganizationRole> <WarnerBros-euronews-7> .
+ <http://schema.org/EconomicImpact> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/QuantitativeValue> <WarnerBros-euronews-7> .
+ <http://example.org/wga#ResidualsFormula> <http://schema.org/description> "Revised residuals formula"  <WarnerBros-euronews-7> .
+ <http://example.org/wga#Ratification> <http://schema.org/eventStatus> <http://schema.org/EventScheduled> <WarnerBros-euronews-7> .
+ <http://example.org/sagaftra#NegotiationWithAMPTP> <http://schema.org/startDate> "2023-07-13"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-7> .
+ <http://example.org/sagaftra#Strike> <http://schema.org/about> <http://example.org/sagaftra#SAGAFTRA> <WarnerBros-euronews-7> .
+ <http://example.org/wga#Members> <http://schema.org/roleName> "members"  <WarnerBros-euronews-7> .
+ <http://example.org/wga#WritersGuildOfAmerica> <http://schema.org/member> <http://example.org/wga#Members> <WarnerBros-euronews-7> .
+ <http://example.org/wga#Picketing> <http://schema.org/startDate> "2023-04-01"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-7> .
+ <http://example.org/wga#MemorandumOfAgreement> <http://schema.org/dateCreated> "2023-09-26"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-7> .
+ <http://example.org/wga#Ratification> <http://schema.org/name> "Contract Ratification"  <WarnerBros-euronews-7> .
+ <http://example.org/wga#Strike> <http://schema.org/endDate> "2023-09-24"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-7> .
+ <http://schema.org/EconomicImpact> <http://schema.org/value> "5000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-euronews-7> .
+ <http://example.org/wga#WritersRoomPreservation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> <WarnerBros-euronews-7> .
+ <http://example.org/wga#WritersGuildOfAmerica> <http://schema.org/negotiation> <http://example.org/wga#NegotiationWithAMPTP> <WarnerBros-euronews-7> .
+ <http://example.org/wga#Members> <http://schema.org/startDate> "2023-05-02"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-7> .
+ <http://example.org/wga#Strike> <http://schema.org/about> <http://example.org/wga#WritersGuildOfAmerica> <WarnerBros-euronews-7> .
+ <http://example.org/wga#Strike> <http://schema.org/name> "WGA Strike"  <WarnerBros-euronews-7> .
+ <http://example.org/wga#Picketing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <WarnerBros-euronews-7> .
+ <http://example.org/wga#WritersGuildOfAmerica> <http://schema.org/name> "Writers Guild of America"  <WarnerBros-euronews-7> .
+ <http://example.org/amptp#AllianceOfMotionPictureAndTelevisionProducers> <http://schema.org/name> "Alliance of Motion Picture and Television Producers"  <WarnerBros-euronews-7> .
+ <http://example.org/amptp#AllianceOfMotionPictureAndTelevisionProducers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-euronews-7> .
+ <http://example.org/wga#ProtectionFromAI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> <WarnerBros-euronews-7> .
+ <http://example.org/wga#NegotiationWithAMPTP> <http://schema.org/party> <http://example.org/wga#WritersGuildOfAmerica> <WarnerBros-euronews-7> .
+ <http://example.org/sagaftra#Strike> <http://schema.org/name> "SAG-AFTRA Strike"  <WarnerBros-euronews-7> .
+ <http://example.org/wga#NegotiationWithAMPTP> <http://schema.org/party> <http://example.org/amptp#AllianceOfMotionPictureAndTelevisionProducers> <WarnerBros-euronews-7> .
+ <http://example.org/wga#MeredithStiehm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-euronews-7> .
+ <http://example.org/wga#Ratification> <http://schema.org/organizer> <http://example.org/wga#WritersGuildOfAmerica> <WarnerBros-euronews-7> .
+ <http://example.org/wga#Picketing> <http://schema.org/name> "Picketing"  <WarnerBros-euronews-7> .
+ <http://example.org/wga#Picketing> <http://schema.org/endDate> "2023-09-24"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-7> .
+ <http://example.org/wga#ProtectionFromAI> <http://schema.org/description> "Protections from members' work being replaced by artificial intelligence"  <WarnerBros-euronews-7> .
+ <http://example.org/wga#NegotiationWithAMPTP> <http://schema.org/status> "Tentative"  <WarnerBros-euronews-7> .
+ <http://example.org/sagaftra#SAGAFTRA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-euronews-7> .
+ <http://example.org/wga#Strike> <http://schema.org/startDate> "2023-04-01"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-7> .
+ <http://example.org/wga#MemorandumOfAgreement> <http://schema.org/about> <http://example.org/wga#NegotiationWithAMPTP> <WarnerBros-euronews-7> .
+ <http://example.org/wga#WritersRoomPreservation> <http://schema.org/description> "Preserving the writers room"  <WarnerBros-euronews-7> .
+ <http://example.org/wga#Strike> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <WarnerBros-euronews-7> .
+ <http://example.org/sagaftra#NegotiationWithAMPTP> <http://schema.org/party> <http://example.org/amptp#AllianceOfMotionPictureAndTelevisionProducers> <WarnerBros-euronews-7> .
+ <http://example.org/sagaftra#NegotiationWithAMPTP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Negotiation> <WarnerBros-euronews-7> .
+ <http://example.org/wga#MemorandumOfAgreement> <http://schema.org/author> <http://example.org/wga#WritersGuildOfAmerica> <WarnerBros-euronews-7> .
+ <http://example.org/wga#NegotiationWithAMPTP> <http://schema.org/endDate> "2023-09-26"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-7> .
+ <http://example.org/sagaftra#Strike> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <WarnerBros-euronews-7> .
+ <http://example.org/wga#MeredithStiehm> <http://schema.org/jobTitle> "President of the Writers Guild of America West"  <WarnerBros-euronews-7> .
+ <http://example.org/wga#Ratification> <http://schema.org/startDate> "2023-09-26"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-7> .
+ <http://example.org/sagaftra#NegotiationWithAMPTP> <http://schema.org/status> "Ongoing"  <WarnerBros-euronews-7> .
+ <http://example.org/wga#Strike> <http://schema.org/duration> "P146D"^^<http://www.w3.org/2001/XMLSchema#duration>  <WarnerBros-euronews-7> .
+ <http://example.org/wga#MemorandumOfAgreement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <WarnerBros-euronews-7> .
+ <http://example.org/wga#ResidualsFormula> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> <WarnerBros-euronews-7> .
+ <http://example.org/wga#MeredithStiehm> <http://schema.org/affiliation> <http://example.org/wga#WritersGuildOfAmerica> <WarnerBros-euronews-7> .
+ <http://example.org/wga#MeredithStiehm> <http://schema.org/name> "Meredith Stiehm"  <WarnerBros-euronews-7> .
+ <http://schema.org/EconomicImpact> <http://schema.org/additionalType> "Economic impact of WGA and SAG-AFTRA strikes on California's economy"  <WarnerBros-euronews-7> .
+ <http://example.org/sagaftra#Strike> <http://schema.org/startDate> "2023-07-13"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-7> .
+ <http://example.org/wga#NegotiationWithAMPTP> <http://schema.org/startDate> "2023-09-24"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-7> .
+ <http://example.org/wga#DataTransparencyResidual> <http://schema.org/description> "Residual that provides data transparency and rewards success"  <WarnerBros-euronews-7> .
+ <http://example.org/sagaftra#NegotiationWithAMPTP> <http://schema.org/party> <http://example.org/sagaftra#SAGAFTRA> <WarnerBros-euronews-7> .
+ <http://example.org/wga#Members> <http://schema.org/actionStatus> <http://schema.org/ActiveActionStatus> <WarnerBros-euronews-7> .
+ <http://example.org/wga#Picketing> <http://schema.org/actionStatus> <http://schema.org/CompletedActionStatus> <WarnerBros-euronews-7> .
+ <http://example.org/wga#WritersGuildOfAmerica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-euronews-7> .
+ <http://example.org/wga#NegotiationWithAMPTP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Negotiation> <WarnerBros-euronews-7> .
+ <http://example.org/sagaftra#Members> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/OrganizationRole> <WarnerBros-euronews-7> .
+ <http://example.org/sagaftra#SAGAFTRA> <http://schema.org/negotiation> <http://example.org/sagaftra#NegotiationWithAMPTP> <WarnerBros-euronews-7> .
+ <http://example.org/ontology#Friends> <http://dbpedia.org/ontology/creator> <http://example.org/ontology#MartaKauffman> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#MonicaGeller> <http://xmlns.com/foaf/0.1/name> "Monica Geller"  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#TéaLeoni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#CourteneyCox> <http://dbpedia.org/ontology/turnedDownRole> <http://example.org/ontology#RachelGreen> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#LisaKudrow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#PeepholeFrame> <http://dbpedia.org/ontology/isPartOf> <http://example.org/ontology#MonicasApartment> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#ChandlerBing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FictionalCharacter> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#DavidSchwimmer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#ChandlerBing> <http://xmlns.com/foaf/0.1/name> "Chandler Bing"  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#Friends> <http://schema.org/alternateName> "Six of One"  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#Friends> <http://dbpedia.org/ontology/numberOfEpisodes> "236"^^<http://www.w3.org/2001/XMLSchema#integer>  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#Friends> <http://dbpedia.org/ontology/starring> <http://example.org/ontology#DavidSchwimmer> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#TheLastOne> <http://dbpedia.org/ontology/numberOfViewers> "52500000"^^<http://www.w3.org/2001/XMLSchema#integer>  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#JenniferAniston> <http://xmlns.com/foaf/0.1/name> "Jennifer Aniston"  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#MonicaGeller> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FictionalCharacter> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#MatthewPerry> <http://dbpedia.org/ontology/character> <http://example.org/ontology#ChandlerBing> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#MonicasApartment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#CourteneyCox> <http://dbpedia.org/ontology/character> <http://example.org/ontology#MonicaGeller> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#MattLeBlanc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#PhoebeBuffay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FictionalCharacter> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#DavidCrane> <http://xmlns.com/foaf/0.1/name> "David Crane"  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#RachelGreen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FictionalCharacter> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#RossGeller> <http://dbpedia.org/ontology/alias> "The one who likes dinosaurs"  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#MattLeBlanc> <http://dbpedia.org/ontology/character> <http://example.org/ontology#JoeyTribbiani> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#PeepholeFrame> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Object> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#Friends> <http://dbpedia.org/ontology/starring> <http://example.org/ontology#CourteneyCox> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#LisaKudrow> <http://dbpedia.org/ontology/character> <http://example.org/ontology#PhoebeBuffay> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#CentralPerk> <http://xmlns.com/foaf/0.1/name> "Central Perk"  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#JoeyTribbiani> <http://xmlns.com/foaf/0.1/name> "Joey Tribbiani"  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#TéaLeoni> <http://dbpedia.org/ontology/declinedRole> <http://example.org/ontology#RachelGreen> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#MonicasApartment> <http://xmlns.com/foaf/0.1/name> "Monica's Apartment"  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#MonicasKitchenWindow> <http://dbpedia.org/ontology/isPartOf> <http://example.org/ontology#MonicasApartment> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#CentralPerk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#RachelGreen> <http://xmlns.com/foaf/0.1/name> "Rachel Green"  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#PhoebeBuffay> <http://xmlns.com/foaf/0.1/name> "Phoebe Buffay"  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#TheLastOne> <http://dbpedia.org/ontology/partOf> <http://example.org/ontology#Friends> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#RossGeller> <http://xmlns.com/foaf/0.1/name> "Ross Geller"  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#Friends> <http://schema.org/alternateName> "Insomnia Café"  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#TheRembrandts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalArtist> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#Friends> <http://dbpedia.org/ontology/numberOfSeasons> "10"^^<http://www.w3.org/2001/XMLSchema#integer>  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#PeepholeFrame> <http://dbpedia.org/ontology/creator> <http://example.org/ontology#GregGrande> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#Friends> <http://dbpedia.org/ontology/releaseDate> "1994-09-22"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#GregGrande> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#MatthewPerry> <http://xmlns.com/foaf/0.1/name> "Matthew Perry"  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#MatthewPerry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#Friends> <http://dbpedia.org/ontology/starring> <http://example.org/ontology#MattLeBlanc> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#Friends> <http://dbpedia.org/ontology/starring> <http://example.org/ontology#MatthewPerry> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#JoeyTribbiani> <http://dbpedia.org/ontology/alias> "The one who really likes food"  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#CourteneyCox> <http://xmlns.com/foaf/0.1/name> "Courteney Cox"  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#ChandlerBing> <http://dbpedia.org/ontology/alias> "The one who's funny"  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#TheLastOne> <http://dbpedia.org/ontology/releaseDate> "2004-05-06"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#Friends> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#MattLeBlanc> <http://xmlns.com/foaf/0.1/name> "Matt Le Blanc"  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#IllBeThereForYou> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Song> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#MartaKauffman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#Friends> <http://dbpedia.org/ontology/starring> <http://example.org/ontology#LisaKudrow> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#RachelGreen> <http://dbpedia.org/ontology/alias> "The one with good hair"  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#Friends> <http://schema.org/alternateName> "Friends Like Us"  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#TéaLeoni> <http://xmlns.com/foaf/0.1/name> "Téa Leoni"  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#TheRembrandts> <http://xmlns.com/foaf/0.1/name> "The Rembrandts"  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#RossGeller> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FictionalCharacter> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#IllBeThereForYou> <http://xmlns.com/foaf/0.1/name> "I'll Be There for You"  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#Friends> <http://dbpedia.org/ontology/network> <http://dbpedia.org/resource/NBC> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#JoeyTribbiani> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FictionalCharacter> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#DavidSchwimmer> <http://dbpedia.org/ontology/character> <http://example.org/ontology#RossGeller> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#Friends> <http://xmlns.com/foaf/0.1/name> "Friends"  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#Friends> <http://dbpedia.org/ontology/abstract> "A sitcom about six friends navigating life and love in New York City."@en  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#JenniferAniston> <http://dbpedia.org/ontology/character> <http://example.org/ontology#RachelGreen> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#PeepholeFrame> <http://xmlns.com/foaf/0.1/name> "Iconic peephole picture frame"  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#IllBeThereForYou> <http://dbpedia.org/ontology/artist> <http://example.org/ontology#TheRembrandts> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#Friends> <http://dbpedia.org/ontology/creator> <http://example.org/ontology#DavidCrane> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#MartaKauffman> <http://xmlns.com/foaf/0.1/name> "Marta Kauffman"  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#DavidSchwimmer> <http://xmlns.com/foaf/0.1/name> "David Schwimmer"  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#MonicasKitchenWindow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Object> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#TheLastOne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionEpisode> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#MonicasKitchenWindow> <http://dbpedia.org/ontology/hasFeature> "Ever-changing views"  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#GregGrande> <http://xmlns.com/foaf/0.1/name> "Greg Grande"  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#MonicaGeller> <http://dbpedia.org/ontology/alias> "The one who has a secret closet"  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#DavidCrane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#PhoebeBuffay> <http://dbpedia.org/ontology/alias> "The one who sang that song about a smelly cat"  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#CourteneyCox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#Friends> <http://dbpedia.org/ontology/starring> <http://example.org/ontology#JenniferAniston> <WarnerBros-euronews-8> .
+ <http://example.org/ontology#LisaKudrow> <http://xmlns.com/foaf/0.1/name> "Lisa Kudrow"  <WarnerBros-euronews-8> .
+ <http://example.org/ontology#JenniferAniston> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-euronews-8> .
+ <http://dbpedia.org/resource/Curious_Refuge> <http://xmlns.com/foaf/0.1/accountName> "@curiousrefuge"  <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/The_Super_Mario_Bros_Movie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/Barbie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <WarnerBros-euronews-9> .
+ <http://WarnerBros-euronews-9.com/blank#n6aa2418db7164ee3bfbc264f1b15732cb6> <http://xmlns.com/foaf/0.1/name> "Anthony DiSilvestro"  <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/Full_Moon_Features> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Puppet_Master> <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/Mattel> <http://dbpedia.org/ontology/chiefFinancialOfficer> <http://WarnerBros-euronews-9.com/blank#n6aa2418db7164ee3bfbc264f1b15732cb6>  <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/Curious_Refuge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> <WarnerBros-euronews-9> .
+ <http://WarnerBros-euronews-9.com/blank#n6aa2418db7164ee3bfbc264f1b15732cb8> <http://schema.org/value> "1300000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-euronews-9> .
+ <http://WarnerBros-euronews-9.com/blank#n6aa2418db7164ee3bfbc264f1b15732cb3> <http://schema.org/name> "Amazon’s Prime Video"  <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/Oppenheimer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <WarnerBros-euronews-9> .
+ <http://WarnerBros-euronews-9.com/blank#n6aa2418db7164ee3bfbc264f1b15732cb7> <http://xmlns.com/foaf/0.1/name> "Ynon Kreiz"  <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/Barney> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Daniel_Kaluuya> <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/Polly_Pocket> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Lena_Dunham> <WarnerBros-euronews-9> .
+ <http://WarnerBros-euronews-9.com/blank#n6aa2418db7164ee3bfbc264f1b15732cb10> <http://schema.org/currency> "USD"  <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/Fast_X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/Full_Moon_Features> <http://dbpedia.org/ontology/foundedBy> <http://dbpedia.org/resource/Charles_Band> <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/Fast_X> <http://dbpedia.org/ontology/gross> <http://WarnerBros-euronews-9.com/blank#n6aa2418db7164ee3bfbc264f1b15732cb10>  <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/BARBENHEIMER> <http://dbpedia.org/ontology/releaseDate> "2023-12-25"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/Mattel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/Barbie> <http://dbpedia.org/ontology/gross> <http://WarnerBros-euronews-9.com/blank#n6aa2418db7164ee3bfbc264f1b15732cb1>  <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/BARBENHEIMER> <http://dbpedia.org/ontology/abstract> "Deep within Dollsville, a group of fed-up female dolls – led by the brilliant Dr. Barbenheimer – build an atomic bomb. Their mission? To bring down the patriarchy once and for all But as the battle of the sexes swells, will Barbenheimer and her bevy of beauties end up blowing up more than they bargained for?"@en  <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/The_Super_Mario_Bros_Movie> <http://dbpedia.org/ontology/gross> <http://WarnerBros-euronews-9.com/blank#n6aa2418db7164ee3bfbc264f1b15732cb8>  <WarnerBros-euronews-9> .
+ <http://WarnerBros-euronews-9.com/blank#n6aa2418db7164ee3bfbc264f1b15732cb4> <http://schema.org/name> "FullMoonFeatures.com"  <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/Ryan_Gosling> <http://xmlns.com/foaf/0.1/name> "Ryan Gosling"  <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/BARBENHEIMER> <http://dbpedia.org/ontology/productionCompany> <http://dbpedia.org/resource/Full_Moon_Features> <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/BARBENHEIMER> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Charles_Band> <WarnerBros-euronews-9> .
+ <http://WarnerBros-euronews-9.com/blank#n6aa2418db7164ee3bfbc264f1b15732cb5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MonetaryAmount> <WarnerBros-euronews-9> .
+ <http://WarnerBros-euronews-9.com/blank#n6aa2418db7164ee3bfbc264f1b15732cb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/BARBENHEIMER> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/Mattel> <http://dbpedia.org/ontology/chiefExecutiveOfficer> <http://WarnerBros-euronews-9.com/blank#n6aa2418db7164ee3bfbc264f1b15732cb7>  <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/BARBENHEIMER> <http://dbpedia.org/ontology/distributor> <http://WarnerBros-euronews-9.com/blank#n6aa2418db7164ee3bfbc264f1b15732cb4>  <WarnerBros-euronews-9> .
+ <http://WarnerBros-euronews-9.com/blank#n6aa2418db7164ee3bfbc264f1b15732cb9> <http://schema.org/value> "845000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/Margot_Robbie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WarnerBros-euronews-9> .
+ <http://WarnerBros-euronews-9.com/blank#n6aa2418db7164ee3bfbc264f1b15732cb2> <http://schema.org/currency> "USD"  <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/Full_Moon_Features> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/The_Dead_Hate_The_Living> <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/Guardians_of_the_Galaxy_Vol_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/Ryan_Gosling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/Barbie> <http://dbpedia.org/ontology/releaseDate> "2023-09-12"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/Hot_Wheels> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/J.J._Abrams> <WarnerBros-euronews-9> .
+ <http://WarnerBros-euronews-9.com/blank#n6aa2418db7164ee3bfbc264f1b15732cb1> <http://schema.org/value> "1400000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-euronews-9> .
+ <http://WarnerBros-euronews-9.com/blank#n6aa2418db7164ee3bfbc264f1b15732cb8> <http://schema.org/currency> "USD"  <WarnerBros-euronews-9> .
+ <http://WarnerBros-euronews-9.com/blank#n6aa2418db7164ee3bfbc264f1b15732cb5> <http://schema.org/value> "125000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-euronews-9> .
+ <http://WarnerBros-euronews-9.com/blank#n6aa2418db7164ee3bfbc264f1b15732cb1> <http://schema.org/currency> "USD"  <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/Oppenheimer> <http://dbpedia.org/ontology/gross> <http://WarnerBros-euronews-9.com/blank#n6aa2418db7164ee3bfbc264f1b15732cb2>  <WarnerBros-euronews-9> .
+ <http://WarnerBros-euronews-9.com/blank#n6aa2418db7164ee3bfbc264f1b15732cb3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/Full_Moon_Features> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Evil_Bong> <WarnerBros-euronews-9> .
+ <http://WarnerBros-euronews-9.com/blank#n6aa2418db7164ee3bfbc264f1b15732cb5> <http://schema.org/currency> "USD"  <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/Margot_Robbie> <http://xmlns.com/foaf/0.1/name> "Margot Robbie"  <WarnerBros-euronews-9> .
+ <http://WarnerBros-euronews-9.com/blank#n6aa2418db7164ee3bfbc264f1b15732cb9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MonetaryAmount> <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/Barbie> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Ryan_Gosling> <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/Hot_Wheels> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/Charles_Band> <http://xmlns.com/foaf/0.1/name> "Charles Band"  <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/Polly_Pocket> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <WarnerBros-euronews-9> .
+ <http://WarnerBros-euronews-9.com/blank#n6aa2418db7164ee3bfbc264f1b15732cb10> <http://schema.org/value> "704000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/Full_Moon_Features> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/Mattel> <http://dbpedia.org/ontology/revenue> <http://WarnerBros-euronews-9.com/blank#n6aa2418db7164ee3bfbc264f1b15732cb5>  <WarnerBros-euronews-9> .
+ <http://WarnerBros-euronews-9.com/blank#n6aa2418db7164ee3bfbc264f1b15732cb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MonetaryAmount> <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/Barbie> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Margot_Robbie> <WarnerBros-euronews-9> .
+ <http://WarnerBros-euronews-9.com/blank#n6aa2418db7164ee3bfbc264f1b15732cb2> <http://schema.org/value> "890000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/Barney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/Guardians_of_the_Galaxy_Vol_3> <http://dbpedia.org/ontology/gross> <http://WarnerBros-euronews-9.com/blank#n6aa2418db7164ee3bfbc264f1b15732cb9>  <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/Mattel> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Barbie> <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/BARBENHEIMER> <http://dbpedia.org/ontology/distributor> <http://WarnerBros-euronews-9.com/blank#n6aa2418db7164ee3bfbc264f1b15732cb3>  <WarnerBros-euronews-9> .
+ <http://WarnerBros-euronews-9.com/blank#n6aa2418db7164ee3bfbc264f1b15732cb9> <http://schema.org/currency> "USD"  <WarnerBros-euronews-9> .
+ <http://WarnerBros-euronews-9.com/blank#n6aa2418db7164ee3bfbc264f1b15732cb7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WarnerBros-euronews-9> .
+ <http://WarnerBros-euronews-9.com/blank#n6aa2418db7164ee3bfbc264f1b15732cb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WarnerBros-euronews-9> .
+ <http://WarnerBros-euronews-9.com/blank#n6aa2418db7164ee3bfbc264f1b15732cb8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MonetaryAmount> <WarnerBros-euronews-9> .
+ <http://WarnerBros-euronews-9.com/blank#n6aa2418db7164ee3bfbc264f1b15732cb10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MonetaryAmount> <WarnerBros-euronews-9> .
+ <http://WarnerBros-euronews-9.com/blank#n6aa2418db7164ee3bfbc264f1b15732cb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MonetaryAmount> <WarnerBros-euronews-9> .
+ <http://dbpedia.org/resource/Charles_Band> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WarnerBros-euronews-9> .

@@ -1,0 +1,718 @@
+ <http://example.org/ontology#AitanaBonmati> <http://dbpedia.org/ontology/championship> <http://example.org/ontology#FIFA_Womens_World_Cup> <FIFA-euronews-0> .
+ <http://example.org/ontology#AitanaBonmati> <http://dbpedia.org/ontology/championship> <http://example.org/ontology#UEFA_Womens_Champions_League> <FIFA-euronews-0> .
+ <http://example.org/ontology#WorldCup2023> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/New_Zealand> <FIFA-euronews-0> .
+ <http://example.org/ontology#EmmaSanders> <http://dbpedia.org/ontology/occupation> "BBC journalist"  <FIFA-euronews-0> .
+ <http://example.org/ontology#SpainChampion> <http://dbpedia.org/ontology/against> <http://dbpedia.org/resource/England_national_womens_football_team> <FIFA-euronews-0> .
+ <http://example.org/ontology#BarcelonaComebackWin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeamResult> <FIFA-euronews-0> .
+ <http://example.org/ontology#BallonDOr> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Paris> <FIFA-euronews-0> .
+ <http://example.org/ontology#AlexandraPopp> <http://xmlns.com/foaf/0.1/name> "Alexandra Popp"  <FIFA-euronews-0> .
+ <http://example.org/ontology#WorldCup2023> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Australia> <FIFA-euronews-0> .
+ <http://example.org/ontology#LionelMessi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-0> .
+ <http://example.org/ontology#WorldCup2023> <http://dbpedia.org/ontology/endDate> "2023-12-31"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-euronews-0> .
+ <http://example.org/ontology#BarcelonaChampionsLeagueWin> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Eindhoven> <FIFA-euronews-0> .
+ <http://example.org/ontology#AlexandraPopp> <http://dbpedia.org/ontology/award> <http://example.org/ontology#BallonDOrFemininNomination> <FIFA-euronews-0> .
+ <http://example.org/ontology#MaryEarps> <http://xmlns.com/foaf/0.1/name> "Mary Earps"  <FIFA-euronews-0> .
+ <http://example.org/ontology#SemraHunter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-0> .
+ <http://example.org/ontology#SemraHunter> <http://dbpedia.org/ontology/occupation> "La Liga TV presenter"  <FIFA-euronews-0> .
+ <http://example.org/ontology#QatarWorldCup2022> <http://dbpedia.org/ontology/startDate> "2022-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-euronews-0> .
+ <http://example.org/ontology#GeorgiaStanway> <http://dbpedia.org/ontology/award> <http://example.org/ontology#BallonDOrFemininNomination> <FIFA-euronews-0> .
+ <http://example.org/ontology#LindaCaicedo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-0> .
+ <http://example.org/ontology#BallonDOr> <http://dbpedia.org/ontology/awardCategory> "male"  <FIFA-euronews-0> .
+ <http://example.org/ontology#SpainChampion> <http://dbpedia.org/ontology/place> "Champion"  <FIFA-euronews-0> .
+ <http://example.org/ontology#AitanaBonmati> <http://dbpedia.org/ontology/championship> <http://example.org/ontology#Liga_F> <FIFA-euronews-0> .
+ <http://example.org/ontology#AitanaBonmati> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-0> .
+ <http://example.org/ontology#AitanaBonmati> <http://schema.org/award> <http://example.org/ontology#World_Cup_Player_of_the_Tournament> <FIFA-euronews-0> .
+ <http://example.org/ontology#QatarWorldCup2022> <http://dbpedia.org/ontology/endDate> "2022-12-31"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-euronews-0> .
+ <http://example.org/ontology#BarcelonaComebackWin> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/FC_Barcelona_Femení> <FIFA-euronews-0> .
+ <http://example.org/ontology#LionelMessi> <http://xmlns.com/foaf/0.1/name> "Lionel Messi"  <FIFA-euronews-0> .
+ <http://example.org/ontology#AlexiaPutellas> <http://xmlns.com/foaf/0.1/name> "Alexia Putellas"  <FIFA-euronews-0> .
+ <http://example.org/ontology#WorldCup2023> <http://dbpedia.org/ontology/startDate> "2023-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-euronews-0> .
+ <http://example.org/ontology#SamKerr> <http://dbpedia.org/ontology/award> <http://example.org/ontology#BallonDOrFemininNomination> <FIFA-euronews-0> .
+ <http://example.org/ontology#BallonDOr> <http://dbpedia.org/ontology/awardCategory> "individual"  <FIFA-euronews-0> .
+ <http://example.org/ontology#GeorgiaStanway> <http://xmlns.com/foaf/0.1/name> "Georgia Stanway"  <FIFA-euronews-0> .
+ <http://example.org/ontology#WorldCup2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsEvent> <FIFA-euronews-0> .
+ <http://example.org/ontology#SemraHunter> <http://xmlns.com/foaf/0.1/name> "Semra Hunter"  <FIFA-euronews-0> .
+ <http://example.org/ontology#BarcelonaComebackWin> <http://dbpedia.org/ontology/score> "2-0"  <FIFA-euronews-0> .
+ <http://example.org/ontology#BarcelonaComebackWin> <http://dbpedia.org/ontology/goals> <http://dbpedia.org/resource/Fridolina_Rolfö> <FIFA-euronews-0> .
+ <http://example.org/ontology#BallonDOr> <http://www.w3.org/2000/01/rdf-schema#label> "Ballon d'Or"  <FIFA-euronews-0> .
+ <http://example.org/ontology#ErlingHaaland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-0> .
+ <http://example.org/ontology#AitanaBonmati> <http://dbpedia.org/ontology/award> <http://example.org/ontology#BallonDOrFemininNomination> <FIFA-euronews-0> .
+ <http://example.org/ontology#MaryEarps> <http://dbpedia.org/ontology/award> <http://example.org/ontology#BallonDOrFemininNomination> <FIFA-euronews-0> .
+ <http://example.org/ontology#AitanaBonmati> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Midfielder> <FIFA-euronews-0> .
+ <http://example.org/ontology#BarcelonaChampionsLeagueWin> <http://dbpedia.org/ontology/opponent> <http://dbpedia.org/resource/VfL_Wolfsburg_(women)> <FIFA-euronews-0> .
+ <http://example.org/ontology#SpainNationalTeam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <FIFA-euronews-0> .
+ <http://example.org/ontology#EmmaSanders> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-0> .
+ <http://example.org/ontology#BallonDOr> <http://dbpedia.org/ontology/date> "2023-10-30"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-euronews-0> .
+ <http://example.org/ontology#ErlingHaaland> <http://xmlns.com/foaf/0.1/name> "Erling Haaland"  <FIFA-euronews-0> .
+ <http://example.org/ontology#AlexandraPopp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-0> .
+ <http://example.org/ontology#BarcelonaComebackWin> <http://dbpedia.org/ontology/goals> <http://dbpedia.org/resource/Patricia_Guijarro> <FIFA-euronews-0> .
+ <http://example.org/ontology#LionelMessi> <http://dbpedia.org/ontology/award> <http://example.org/ontology#BallonDOrNomination> <FIFA-euronews-0> .
+ <http://example.org/ontology#BarcelonaChampionsLeagueWin> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/FC_Barcelona_Femení> <FIFA-euronews-0> .
+ <http://example.org/ontology#GeorgiaStanway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-0> .
+ <http://example.org/ontology#AlexiaPutellas> <http://dbpedia.org/ontology/awardCount> "2"^^<http://www.w3.org/2001/XMLSchema#integer>  <FIFA-euronews-0> .
+ <http://example.org/ontology#BallonDOr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> <FIFA-euronews-0> .
+ <http://example.org/ontology#AitanaBonmati> <http://schema.org/award> <http://example.org/ontology#FIFA_Best_Player_of_the_Year> <FIFA-euronews-0> .
+ <http://example.org/ontology#AlexiaPutellas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-0> .
+ <http://example.org/ontology#LindaCaicedo> <http://dbpedia.org/ontology/age> "18"^^<http://www.w3.org/2001/XMLSchema#integer>  <FIFA-euronews-0> .
+ <http://example.org/ontology#BarcelonaChampionsLeagueWin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsEvent> <FIFA-euronews-0> .
+ <http://example.org/ontology#AlexiaPutellas> <http://dbpedia.org/ontology/award> <http://example.org/ontology#BallonDOrWinner> <FIFA-euronews-0> .
+ <http://example.org/ontology#LindaCaicedo> <http://xmlns.com/foaf/0.1/name> "Linda Caicedo"  <FIFA-euronews-0> .
+ <http://example.org/ontology#SamKerr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-0> .
+ <http://example.org/ontology#WorldCup2023> <http://dbpedia.org/ontology/outcome> <http://example.org/ontology#SpainChampion> <FIFA-euronews-0> .
+ <http://example.org/ontology#QatarWorldCup2022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsEvent> <FIFA-euronews-0> .
+ <http://example.org/ontology#SamKerr> <http://xmlns.com/foaf/0.1/name> "Sam Kerr"  <FIFA-euronews-0> .
+ <http://example.org/ontology#SpainChampion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeamResult> <FIFA-euronews-0> .
+ <http://example.org/ontology#AitanaBonmati> <http://xmlns.com/foaf/0.1/name> "Aitana Bonmati"  <FIFA-euronews-0> .
+ <http://example.org/ontology#LindaCaicedo> <http://dbpedia.org/ontology/award> <http://example.org/ontology#BallonDOrFemininNomination> <FIFA-euronews-0> .
+ <http://example.org/ontology#SpainNationalTeam> <http://dbpedia.org/ontology/nominationCount> "5"^^<http://www.w3.org/2001/XMLSchema#integer>  <FIFA-euronews-0> .
+ <http://example.org/ontology#BallonDOr> <http://dbpedia.org/ontology/awardDiscipline> <http://dbpedia.org/resource/Association_football> <FIFA-euronews-0> .
+ <http://example.org/ontology#MaryEarps> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-0> .
+ <http://example.org/ontology#SpainChampion> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Spain_national_womens_football_team> <FIFA-euronews-0> .
+ <http://example.org/ontology#BarcelonaChampionsLeagueWin> <http://dbpedia.org/ontology/outcome> <http://example.org/ontology#BarcelonaComebackWin> <FIFA-euronews-0> .
+ <http://example.org/ontology#AitanaBonmati> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/FC_Barcelona_Femení> <FIFA-euronews-0> .
+ <http://example.org/ontology#EmmaSanders> <http://xmlns.com/foaf/0.1/name> "Emma Sanders"  <FIFA-euronews-0> .
+ <http://example.org/ontology#QatarWorldCup2022> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Qatar> <FIFA-euronews-0> .
+ <http://example.org/ontology#SpainChampion> <http://dbpedia.org/ontology/score> "1-0"  <FIFA-euronews-0> .
+ <http://example.org/ontology#BallonDOr> <http://dbpedia.org/ontology/awardCategory> "female"  <FIFA-euronews-0> .
+ <http://example.org/ontology#ErlingHaaland> <http://dbpedia.org/ontology/award> <http://example.org/ontology#BallonDOrNomination> <FIFA-euronews-0> .
+ <http://example.org/SirBobbyCharlton> <http://dbpedia.org/ontology/years> "1956-1973"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-euronews-1> .
+ <http://example.org/WayneRooney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerPlayer> <FIFA-euronews-1> .
+ <http://example.org/MunichAirDisaster> <http://dbpedia.org/ontology/result> "21 fatalities"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-euronews-1> .
+ <http://example.org/SirBobbyCharlton> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Midfielder> <FIFA-euronews-1> .
+ <http://FIFA-euronews-1.com/blank#n7377779ba56e4a8496d77ac96fadea19b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CareerStation> <FIFA-euronews-1> .
+ <http://example.org/WayneRooney> <http://dbpedia.org/ontology/goalDate> "2015-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <FIFA-euronews-1> .
+ <http://FIFA-euronews-1.com/blank#n7377779ba56e4a8496d77ac96fadea19b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <FIFA-euronews-1> .
+ <http://example.org/SirBobbyCharlton> <http://dbpedia.org/ontology/associatedPerson> <http://dbpedia.org/resource/Wayne_Rooney> <FIFA-euronews-1> .
+ <http://example.org/ManchesterUnited> <http://xmlns.com/foaf/0.1/name> "Manchester United"  <FIFA-euronews-1> .
+ <http://example.org/DavidBeckham> <http://dbpedia.org/ontology/youthSchemeParticipant> <http://example.org/SirBobbyCharlton> <FIFA-euronews-1> .
+ <http://example.org/WayneRooney> <http://dbpedia.org/ontology/numberOfGoals> "50"^^<http://www.w3.org/2001/XMLSchema#integer>  <FIFA-euronews-1> .
+ <http://example.org/SirBobbyCharlton> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/England> <FIFA-euronews-1> .
+ <http://example.org/AlexFerguson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-1> .
+ <http://example.org/ManchesterUnited> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-euronews-1> .
+ <http://FIFA-euronews-1.com/blank#n7377779ba56e4a8496d77ac96fadea19b4> <http://xmlns.com/foaf/0.1/name> "Trinity"  <FIFA-euronews-1> .
+ <http://example.org/AlexFerguson> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Manchester_United_FC> <FIFA-euronews-1> .
+ <http://example.org/MunichAirDisaster> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Munich-Riem_Airport> <FIFA-euronews-1> .
+ <http://example.org/SirBobbyCharlton> <http://dbpedia.org/ontology/associatedPerson> <http://dbpedia.org/resource/David_Beckham> <FIFA-euronews-1> .
+ <http://example.org/ManchesterUnited> <http://dbpedia.org/ontology/FACupWins> "1"^^<http://www.w3.org/2001/XMLSchema#integer>  <FIFA-euronews-1> .
+ <http://example.org/DenisLaw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-1> .
+ <http://example.org/SirBobbyCharlton> <http://dbpedia.org/ontology/numberOfGoals> "249"^^<http://www.w3.org/2001/XMLSchema#integer>  <FIFA-euronews-1> .
+ <http://example.org/SirBobbyCharlton> <http://xmlns.com/foaf/0.1/name> "Sir Bobby Charlton"  <FIFA-euronews-1> .
+ <http://example.org/SirBobbyCharlton> <http://dbpedia.org/ontology/totalCaps> "758"^^<http://www.w3.org/2001/XMLSchema#integer>  <FIFA-euronews-1> .
+ <http://example.org/GeorgeBest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-1> .
+ <http://example.org/DenisLaw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerPlayer> <FIFA-euronews-1> .
+ <http://FIFA-euronews-1.com/blank#n7377779ba56e4a8496d77ac96fadea19b1> <http://schema.org/name> "surrounded by his family"  <FIFA-euronews-1> .
+ <http://example.org/GeorgeBest> <http://xmlns.com/foaf/0.1/name> "George Best"  <FIFA-euronews-1> .
+ <http://example.org/SirBobbyCharlton> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Ashington> <FIFA-euronews-1> .
+ <http://example.org/Trinity> <http://xmlns.com/foaf/0.1/name> "Trinity"  <FIFA-euronews-1> .
+ <http://example.org/BusbyBabes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> <FIFA-euronews-1> .
+ <http://example.org/1966FIFAWorldCup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerTournament> <FIFA-euronews-1> .
+ <http://example.org/SirBobbyCharlton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-1> .
+ <http://example.org/SirBobbyCharlton> <http://dbpedia.org/ontology/spouse> <http://FIFA-euronews-1.com/blank#n7377779ba56e4a8496d77ac96fadea19b7>  <FIFA-euronews-1> .
+ <http://example.org/MarcusRashford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerPlayer> <FIFA-euronews-1> .
+ <http://example.org/SirBobbyCharlton> <http://dbpedia.org/ontology/awardDate> "1994"^^<http://www.w3.org/2001/XMLSchema#gYear>  <FIFA-euronews-1> .
+ <http://example.org/AlexFerguson> <http://dbpedia.org/ontology/managerYears> "1986-2013"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-euronews-1> .
+ <http://example.org/ManchesterUnited> <http://dbpedia.org/ontology/ground> <http://dbpedia.org/resource/Old_Trafford> <FIFA-euronews-1> .
+ <http://example.org/SirBobbyCharlton> <http://dbpedia.org/ontology/associatedMusicalArtist> <http://FIFA-euronews-1.com/blank#n7377779ba56e4a8496d77ac96fadea19b4>  <FIFA-euronews-1> .
+ <http://example.org/1966FIFAWorldCup> <http://dbpedia.org/ontology/finalResult> "4-2"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-euronews-1> .
+ <http://example.org/SirBobbyCharlton> <http://dbpedia.org/ontology/coachingCareer> <http://FIFA-euronews-1.com/blank#n7377779ba56e4a8496d77ac96fadea19b2>  <FIFA-euronews-1> .
+ <http://example.org/DavidBeckham> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerPlayer> <FIFA-euronews-1> .
+ <http://example.org/SirBobbyCharlton> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Manchester_United_FC> <FIFA-euronews-1> .
+ <http://example.org/SirBobbyCharlton> <http://dbpedia.org/ontology/nationalYears> "1958-1970"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-euronews-1> .
+ <http://example.org/Trinity> <http://dbpedia.org/ontology/members> <http://dbpedia.org/resource/George_Best> <FIFA-euronews-1> .
+ <http://example.org/WayneRooney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-1> .
+ <http://example.org/BusbyBabes> <http://dbpedia.org/ontology/deathAge> "21"^^<http://www.w3.org/2001/XMLSchema#integer>  <FIFA-euronews-1> .
+ <http://example.org/MunichAirDisaster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <FIFA-euronews-1> .
+ <http://example.org/MarcusRashford> <http://dbpedia.org/ontology/tributeTo> <http://example.org/SirBobbyCharlton> <FIFA-euronews-1> .
+ <http://example.org/SirBobbyCharlton> <http://dbpedia.org/ontology/nationalCaps> "106"^^<http://www.w3.org/2001/XMLSchema#integer>  <FIFA-euronews-1> .
+ <http://example.org/MunichAirDisaster> <http://dbpedia.org/ontology/affectedTeam> <http://dbpedia.org/resource/Manchester_United_FC> <FIFA-euronews-1> .
+ <http://example.org/SirBobbyCharlton> <http://dbpedia.org/ontology/birthDate> "1937-10-11"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-euronews-1> .
+ <http://FIFA-euronews-1.com/blank#n7377779ba56e4a8496d77ac96fadea19b2> <http://dbpedia.org/ontology/years> "Post-1973"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-euronews-1> .
+ <http://example.org/Trinity> <http://dbpedia.org/ontology/members> <http://example.org/SirBobbyCharlton> <FIFA-euronews-1> .
+ <http://FIFA-euronews-1.com/blank#n7377779ba56e4a8496d77ac96fadea19b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> <FIFA-euronews-1> .
+ <http://example.org/SirBobbyCharlton> <http://dbpedia.org/ontology/deathPlace> <http://FIFA-euronews-1.com/blank#n7377779ba56e4a8496d77ac96fadea19b1>  <FIFA-euronews-1> .
+ <http://example.org/SirBobbyCharlton> <http://dbpedia.org/ontology/associatedMusicalArtist> <http://FIFA-euronews-1.com/blank#n7377779ba56e4a8496d77ac96fadea19b5>  <FIFA-euronews-1> .
+ <http://example.org/Trinity> <http://dbpedia.org/ontology/members> <http://dbpedia.org/resource/Denis_Law> <FIFA-euronews-1> .
+ <http://example.org/SirBobbyCharlton> <http://dbpedia.org/ontology/associatedTeam> <http://dbpedia.org/resource/Manchester_United_FC> <FIFA-euronews-1> .
+ <http://FIFA-euronews-1.com/blank#n7377779ba56e4a8496d77ac96fadea19b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> <FIFA-euronews-1> .
+ <http://example.org/BusbyBabes> <http://dbpedia.org/ontology/members> <http://FIFA-euronews-1.com/blank#n7377779ba56e4a8496d77ac96fadea19b8>  <FIFA-euronews-1> .
+ <http://example.org/SirBobbyCharlton> <http://dbpedia.org/ontology/deathDate> "2023-04-01"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-euronews-1> .
+ <http://example.org/WayneRooney> <http://dbpedia.org/ontology/overtook> <http://example.org/SirBobbyCharlton> <FIFA-euronews-1> .
+ <http://FIFA-euronews-1.com/blank#n7377779ba56e4a8496d77ac96fadea19b6> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Old_Trafford> <FIFA-euronews-1> .
+ <http://FIFA-euronews-1.com/blank#n7377779ba56e4a8496d77ac96fadea19b5> <http://xmlns.com/foaf/0.1/name> "Busby Babes"  <FIFA-euronews-1> .
+ <http://example.org/EnglandNationalTeam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-euronews-1> .
+ <http://example.org/ManchesterUnited> <http://dbpedia.org/ontology/EuropeanCupWins> "1"^^<http://www.w3.org/2001/XMLSchema#integer>  <FIFA-euronews-1> .
+ <http://example.org/SirBobbyCharlton> <http://dbpedia.org/ontology/associatedPerson> <http://dbpedia.org/resource/George_Best> <FIFA-euronews-1> .
+ <http://example.org/MarcusRashford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-1> .
+ <http://FIFA-euronews-1.com/blank#n7377779ba56e4a8496d77ac96fadea19b3> <http://xmlns.com/foaf/0.1/name> "Busby Babes"  <FIFA-euronews-1> .
+ <http://example.org/SirBobbyCharlton> <http://dbpedia.org/ontology/awards> "Knighted"  <FIFA-euronews-1> .
+ <http://example.org/MunichAirDisaster> <http://dbpedia.org/ontology/date> "1958-02-06"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-euronews-1> .
+ <http://example.org/SirBobbyCharlton> <http://dbpedia.org/ontology/awardCeremony> <http://dbpedia.org/resource/Elizabeth_II> <FIFA-euronews-1> .
+ <http://example.org/AlexFerguson> <http://xmlns.com/foaf/0.1/name> "Alex Ferguson"  <FIFA-euronews-1> .
+ <http://example.org/SirBobbyCharlton> <http://dbpedia.org/ontology/statue> <http://FIFA-euronews-1.com/blank#n7377779ba56e4a8496d77ac96fadea19b6>  <FIFA-euronews-1> .
+ <http://FIFA-euronews-1.com/blank#n7377779ba56e4a8496d77ac96fadea19b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> <FIFA-euronews-1> .
+ <http://example.org/ManchesterUnited> <http://dbpedia.org/ontology/manager> <http://example.org/AlexFerguson> <FIFA-euronews-1> .
+ <http://FIFA-euronews-1.com/blank#n7377779ba56e4a8496d77ac96fadea19b2> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Manchester_United_FC> <FIFA-euronews-1> .
+ <http://example.org/DavidBeckham> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-1> .
+ <http://example.org/SirBobbyCharlton> <http://dbpedia.org/ontology/championships> "1966 FIFA World Cup"  <FIFA-euronews-1> .
+ <http://example.org/SirBobbyCharlton> <http://dbpedia.org/ontology/nationalGoals> "49"^^<http://www.w3.org/2001/XMLSchema#integer>  <FIFA-euronews-1> .
+ <http://example.org/SirBobbyCharlton> <http://dbpedia.org/ontology/associatedPerson> <http://dbpedia.org/resource/Matt_Busby> <FIFA-euronews-1> .
+ <http://example.org/1966FIFAWorldCup> <http://dbpedia.org/ontology/winner> <http://dbpedia.org/resource/England_national_football_team> <FIFA-euronews-1> .
+ <http://example.org/EnglandNationalTeam> <http://dbpedia.org/ontology/championships> "1966 FIFA World Cup"  <FIFA-euronews-1> .
+ <http://example.org/GeorgeBest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerPlayer> <FIFA-euronews-1> .
+ <http://example.org/ManchesterUnited> <http://dbpedia.org/ontology/EuropeanCupWinYear> "1968"^^<http://www.w3.org/2001/XMLSchema#gYear>  <FIFA-euronews-1> .
+ <http://example.org/DenisLaw> <http://xmlns.com/foaf/0.1/name> "Denis Law"  <FIFA-euronews-1> .
+ <http://FIFA-euronews-1.com/blank#n7377779ba56e4a8496d77ac96fadea19b8> <http://xmlns.com/foaf/0.1/name> "Duncan Edwards"  <FIFA-euronews-1> .
+ <http://example.org/SirBobbyCharlton> <http://dbpedia.org/ontology/associatedPerson> <http://dbpedia.org/resource/Marcus_Rashford> <FIFA-euronews-1> .
+ <http://FIFA-euronews-1.com/blank#n7377779ba56e4a8496d77ac96fadea19b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statue> <FIFA-euronews-1> .
+ <http://example.org/SirBobbyCharlton> <http://dbpedia.org/ontology/associatedMusicalArtist> <http://FIFA-euronews-1.com/blank#n7377779ba56e4a8496d77ac96fadea19b3>  <FIFA-euronews-1> .
+ <http://example.org/SirBobbyCharlton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerPlayer> <FIFA-euronews-1> .
+ <http://example.org/1966FIFAWorldCup> <http://dbpedia.org/ontology/against> <http://dbpedia.org/resource/Germany_national_football_team> <FIFA-euronews-1> .
+ <http://example.org/BusbyBabes> <http://xmlns.com/foaf/0.1/name> "Busby Babes"  <FIFA-euronews-1> .
+ <http://FIFA-euronews-1.com/blank#n7377779ba56e4a8496d77ac96fadea19b7> <http://xmlns.com/foaf/0.1/name> "Norma Charlton"  <FIFA-euronews-1> .
+ <http://example.org/SirBobbyCharlton> <http://dbpedia.org/ontology/associatedPerson> <http://dbpedia.org/resource/Denis_Law> <FIFA-euronews-1> .
+ <http://example.org/SirBobbyCharlton> <http://dbpedia.org/ontology/children> "2"^^<http://www.w3.org/2001/XMLSchema#integer>  <FIFA-euronews-1> .
+ <http://FIFA-euronews-1.com/blank#n7377779ba56e4a8496d77ac96fadea19b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <FIFA-euronews-1> .
+ <http://example.org/Trinity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> <FIFA-euronews-1> .
+ <http://example.org/ManchesterUnited> <http://dbpedia.org/ontology/leagueTitleWins> "3"^^<http://www.w3.org/2001/XMLSchema#integer>  <FIFA-euronews-1> .
+ <http://FIFA-euronews-1.com/blank#n7377779ba56e4a8496d77ac96fadea19b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-1> .
+ <http://example.org/rugby#SimonChadwick> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-2> .
+ <http://example.org/rugby#RugbyWorldCup> <http://example.org/rugby#hasRevenueSource> <http://example.org/rugby#BroadcastingRights> <FIFA-euronews-2> .
+ <http://example.org/rugby#RugbyUnion> <http://example.org/rugby#hasOlympicAppearance> <http://example.org/rugby#OlympicGames1900s> <FIFA-euronews-2> .
+ <http://example.org/rugby#RugbyWorldCup2023> <http://example.org/rugby#hasTicketPriceRange> <http://FIFA-euronews-2.com/blank#n8765ee973e3d4a96bc704add4dbc9732b1>  <FIFA-euronews-2> .
+ <http://example.org/rugby#FIFA23> <http://example.org/rugby#hasRecordSales> <http://example.org/rugby#True> <FIFA-euronews-2> .
+ <http://example.org/rugby#ElectronicArts> <http://example.org/rugby#develops> <http://example.org/rugby#SportsVideoGames> <FIFA-euronews-2> .
+ <http://FIFA-euronews-2.com/blank#n8765ee973e3d4a96bc704add4dbc9732b3> <http://example.org/rugby#claimsEconomicImpact> "2750000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <FIFA-euronews-2> .
+ <http://example.org/rugby#SimonChadwick> <http://example.org/rugby#hasTitle> "Professor of Sport and Geopolitical Economy"  <FIFA-euronews-2> .
+ <http://example.org/rugby#Obano> <http://example.org/rugby#predictedResults> <http://example.org/rugby#FranceVsNamibia> <FIFA-euronews-2> .
+ <http://example.org/rugby#TF1> <http://example.org/rugby#hasQuarterlyReport> <http://FIFA-euronews-2.com/blank#n8765ee973e3d4a96bc704add4dbc9732b2>  <FIFA-euronews-2> .
+ <http://example.org/rugby#RugbyWorldCup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/rugby#SportingEvent> <FIFA-euronews-2> .
+ <http://example.org/rugby#SimonChadwick> <http://example.org/rugby#affiliation> <http://example.org/rugby#SkemaBusinessSchool> <FIFA-euronews-2> .
+ <http://example.org/rugby#FIFA23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/rugby#VideoGame> <FIFA-euronews-2> .
+ <http://example.org/rugby#RugbyWorldCup2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/rugby#Event> <FIFA-euronews-2> .
+ <http://example.org/rugby#France2023OrganisingCommittee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/rugby#Committee> <FIFA-euronews-2> .
+ <http://example.org/rugby#FIFA> <http://example.org/rugby#hasRevenue> "7500000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <FIFA-euronews-2> .
+ <http://FIFA-euronews-2.com/blank#n8765ee973e3d4a96bc704add4dbc9732b1> <http://example.org/rugby#minPrice> "10"^^<http://www.w3.org/2001/XMLSchema#decimal>  <FIFA-euronews-2> .
+ <http://example.org/rugby#RugbySevens> <http://example.org/rugby#becameOlympicEventYear> "2016"^^<http://www.w3.org/2001/XMLSchema#gYear>  <FIFA-euronews-2> .
+ <http://example.org/rugby#RugbyWorldCup> <http://example.org/rugby#hasRevenueSource> <http://example.org/rugby#TicketingAndMerchandise> <FIFA-euronews-2> .
+ <http://example.org/rugby#RugbyWorldCup2023> <http://example.org/rugby#hasOrganisingCommittee> <http://example.org/rugby#France2023OrganisingCommittee> <FIFA-euronews-2> .
+ <http://FIFA-euronews-2.com/blank#n8765ee973e3d4a96bc704add4dbc9732b2> <http://example.org/rugby#hasMediaAdvertisingRevenue> "350000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <FIFA-euronews-2> .
+ <http://example.org/rugby#Rugby> <http://example.org/rugby#hasGlobalPlayers> "9000000"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-euronews-2> .
+ <http://FIFA-euronews-2.com/blank#n8765ee973e3d4a96bc704add4dbc9732b1> <http://example.org/rugby#maxPrice> "950"^^<http://www.w3.org/2001/XMLSchema#decimal>  <FIFA-euronews-2> .
+ <http://example.org/rugby#RugbyWorldCup2023> <http://example.org/rugby#hasEdition> "10"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-euronews-2> .
+ <http://example.org/rugby#Gambling> <http://example.org/rugby#legalIn> <http://example.org/rugby#Europe> <FIFA-euronews-2> .
+ <http://example.org/rugby#RugbyWorldCup2023> <http://example.org/rugby#hasProfit> "40000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <FIFA-euronews-2> .
+ <http://example.org/rugby#SimonChadwick> <http://example.org/rugby#talksAbout> <http://example.org/rugby#RugbyRevenue> <FIFA-euronews-2> .
+ <http://example.org/rugby#ErnstAndYoung> <http://example.org/rugby#releasedReport> <http://FIFA-euronews-2.com/blank#n8765ee973e3d4a96bc704add4dbc9732b3>  <FIFA-euronews-2> .
+ <http://example.org/rugby#RugbyWorldCup2023> <http://example.org/rugby#hasExpectedForeignVisitors> "600000"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-euronews-2> .
+ <http://example.org/rugby#SimonChadwick> <http://example.org/rugby#talksAbout> <http://example.org/rugby#InvestmentPotential> <FIFA-euronews-2> .
+ <http://example.org/rugby#RugbyUnion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/rugby#Sport> <FIFA-euronews-2> .
+ <http://example.org/rugby#RugbyUnion> <http://example.org/rugby#turnedProfessionalYear> "1995"^^<http://www.w3.org/2001/XMLSchema#gYear>  <FIFA-euronews-2> .
+ <http://example.org/rugby#SNCF> <http://example.org/rugby#sponsors> <http://example.org/rugby#RugbyWorldCup2023> <FIFA-euronews-2> .
+ <http://example.org/rugby#France2023OrganisingCommittee> <http://example.org/rugby#expectsProfit> <http://example.org/rugby#RugbyWorldCup2023> <FIFA-euronews-2> .
+ <http://example.org/rugby#Emirates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <FIFA-euronews-2> .
+ <http://example.org/rugby#Obano> <http://example.org/rugby#hasPsychicAbility> <http://example.org/rugby#True> <FIFA-euronews-2> .
+ <http://example.org/rugby#FIFA> <http://example.org/rugby#organizes> <http://example.org/rugby#FootballWorldCup> <FIFA-euronews-2> .
+ <http://example.org/rugby#Emirates> <http://example.org/rugby#sponsors> <http://example.org/rugby#RugbyWorldCup2023> <FIFA-euronews-2> .
+ <http://example.org/rugby#France2023OrganisingCommittee> <http://example.org/rugby#plansToInvestIn> <http://example.org/rugby#Infrastructure> <FIFA-euronews-2> .
+ <http://example.org/rugby#RugbyWorldCup2023> <http://example.org/rugby#hasExpectedDuration> "2 weeks"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-euronews-2> .
+ <http://example.org/rugby#TF1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <FIFA-euronews-2> .
+ <http://example.org/rugby#WorldRugby> <http://example.org/rugby#organizes> <http://example.org/rugby#RugbyWorldCup> <FIFA-euronews-2> .
+ <http://example.org/rugby#ElectronicArts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <FIFA-euronews-2> .
+ <http://FIFA-euronews-2.com/blank#n8765ee973e3d4a96bc704add4dbc9732b2> <http://example.org/rugby#hasIncreasePercentage> "9.7"^^<http://www.w3.org/2001/XMLSchema#float>  <FIFA-euronews-2> .
+ <http://example.org/rugby#Mastercard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <FIFA-euronews-2> .
+ <http://example.org/rugby#Obano> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/rugby#Giraffe> <FIFA-euronews-2> .
+ <http://example.org/rugby#Mastercard> <http://example.org/rugby#sponsors> <http://example.org/rugby#RugbyWorldCup2023> <FIFA-euronews-2> .
+ <http://example.org/rugby#ElectronicArts> <http://example.org/rugby#hasAnnualEarnings> "7400000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <FIFA-euronews-2> .
+ <http://example.org/rugby#RugbyWorldCup> <http://example.org/rugby#hasRevenueSource> <http://example.org/rugby#Sponsorships> <FIFA-euronews-2> .
+ <http://example.org/rugby#Obano> <http://example.org/rugby#predictedResults> <http://example.org/rugby#FranceFirstMatch> <FIFA-euronews-2> .
+ <http://example.org/rugby#RugbyWorldCup2023> <http://example.org/rugby#hasTotalTicketsSold> "2500000"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-euronews-2> .
+ <http://example.org/rugby#France2023OrganisingCommittee> <http://example.org/rugby#plansToInvestIn> <http://example.org/rugby#RugbyDevelopment> <FIFA-euronews-2> .
+ <http://example.org/rugby#Rugby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/rugby#Sport> <FIFA-euronews-2> .
+ <http://example.org/rugby#SkemaBusinessSchool> <http://example.org/rugby#locatedIn> <http://example.org/rugby#Paris> <FIFA-euronews-2> .
+ <http://example.org/rugby#RugbyUnion> <http://example.org/rugby#hasOlympicEvent> <http://example.org/rugby#RugbySevens> <FIFA-euronews-2> .
+ <http://example.org/rugby#SimonChadwick> <http://example.org/rugby#talksAbout> <http://example.org/rugby#FutureOfRugby> <FIFA-euronews-2> .
+ <http://example.org/rugby#SkemaBusinessSchool> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <FIFA-euronews-2> .
+ <http://example.org/rugby#France2023OrganisingCommittee> <http://example.org/rugby#plansToInvestIn> <http://example.org/rugby#CSRPrograms> <FIFA-euronews-2> .
+ <http://example.org/rugby#RugbyWorldCup2023> <http://example.org/rugby#hasHostCountry> <http://example.org/rugby#France> <FIFA-euronews-2> .
+ <http://example.org/rugby#Gambling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/rugby#Activity> <FIFA-euronews-2> .
+ <http://example.org/rugby#Rugby> <http://example.org/rugby#playedInCountries> "130"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-euronews-2> .
+ <http://example.org/rugby#ErnstAndYoung> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <FIFA-euronews-2> .
+ <http://example.org/rugby#RugbyWorldCup2023> <http://example.org/rugby#hasEconomicImpact> "940000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <FIFA-euronews-2> .
+ <http://example.org/rugby#FIFA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/rugby#Organization> <FIFA-euronews-2> .
+ <http://example.org/rugby#WorldRugby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/rugby#Organization> <FIFA-euronews-2> .
+ <http://example.org/rugby#Gambling> <http://example.org/rugby#hasBettingAmount> "45000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <FIFA-euronews-2> .
+ <http://example.org/rugby#WorldRugby> <http://example.org/rugby#hasExpectedRevenue> "500000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <FIFA-euronews-2> .
+ <http://example.org/rugby#RugbySevens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/rugby#Sport> <FIFA-euronews-2> .
+ <http://example.org/rugby#SNCF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <FIFA-euronews-2> .
+ <http://example.org/entities/JihadAzour> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-3> .
+ <http://example.org/entities/JihadAzour> <http://xmlns.com/foaf/0.1/page> <https://euronews.com> <FIFA-euronews-3> .
+ <http://example.org/entities/WadiaBejouj> <http://xmlns.com/foaf/0.1/name> "Wadia Bejouj"  <FIFA-euronews-3> .
+ <http://example.org/entities/WadiaBejouj> <http://schema.org/employee> <http://example.org/entities/Marrakech> <FIFA-euronews-3> .
+ <http://example.org/entities/Marrakech> <http://dbpedia.org/ontology/touristAttraction> <http://example.org/entities/Souks> <FIFA-euronews-3> .
+ <http://example.org/entities/ChristinaSpann> <http://xmlns.com/foaf/0.1/name> "Christina Spann"  <FIFA-euronews-3> .
+ <http://example.org/entities/IMF> <http://xmlns.com/foaf/0.1/name> "International Monetary Fund"  <FIFA-euronews-3> .
+ <http://example.org/entities/FatimZahraAmmor> <http://xmlns.com/foaf/0.1/name> "Fatim-Zahra Ammor"  <FIFA-euronews-3> .
+ <http://example.org/entities/MinisterOfTourism_Morocco> <http://dbpedia.org/ontology/organization> <http://example.org/entities/Morocco> <FIFA-euronews-3> .
+ <http://example.org/entities/AnneSars> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-3> .
+ <http://example.org/entities/Morocco> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <FIFA-euronews-3> .
+ <http://example.org/entities/FatimZahraAmmor> <http://schema.org/employee> <http://example.org/entities/Morocco> <FIFA-euronews-3> .
+ <http://example.org/entities/IMF_WorldBank_AnnualMeetings_2023> <http://dbpedia.org/ontology/date> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <FIFA-euronews-3> .
+ <http://example.org/entities/HotelManager_Marrakech> <http://dbpedia.org/ontology/position> "Hotel Manager"  <FIFA-euronews-3> .
+ <http://example.org/entities/HotelManager_Marrakech> <http://dbpedia.org/ontology/location> <http://example.org/entities/Marrakech> <FIFA-euronews-3> .
+ <http://example.org/entities/Souks> <http://dbpedia.org/ontology/location> <http://example.org/entities/Marrakech> <FIFA-euronews-3> .
+ <http://example.org/entities/Riad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ArchitecturalStructure> <FIFA-euronews-3> .
+ <http://example.org/entities/AnneSars> <http://schema.org/tourist> <http://example.org/entities/Morocco> <FIFA-euronews-3> .
+ <http://example.org/entities/Director_MiddleEast_CentralAsia_Department_IMF> <http://dbpedia.org/ontology/position> "Director"  <FIFA-euronews-3> .
+ <http://example.org/entities/Earthquake_September> <http://dbpedia.org/ontology/impact> "devastating"  <FIFA-euronews-3> .
+ <http://example.org/entities/IMF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <FIFA-euronews-3> .
+ <http://example.org/entities/Souks> <http://dbpedia.org/ontology/description> "Markets in Marrakech with sights, sounds, and smells"  <FIFA-euronews-3> .
+ <http://example.org/entities/Morocco> <http://dbpedia.org/ontology/Tourism2022> "11 million"^^<http://www.w3.org/2001/XMLSchema#integer>  <FIFA-euronews-3> .
+ <http://example.org/entities/Earthquake_September> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <FIFA-euronews-3> .
+ <http://example.org/entities/Morocco> <http://dbpedia.org/ontology/TourismGoal2030> "26 million"^^<http://www.w3.org/2001/XMLSchema#integer>  <FIFA-euronews-3> .
+ <http://example.org/entities/Marrakech> <http://dbpedia.org/ontology/host> <http://example.org/entities/IMF_WorldBank_AnnualMeetings_2023> <FIFA-euronews-3> .
+ <http://example.org/entities/JihadAzour> <http://dbpedia.org/ontology/occupation> <http://example.org/entities/Director_MiddleEast_CentralAsia_Department_IMF> <FIFA-euronews-3> .
+ <http://example.org/entities/FatimZahraAmmor> <http://dbpedia.org/ontology/occupation> <http://example.org/entities/MinisterOfTourism_Morocco> <FIFA-euronews-3> .
+ <http://example.org/entities/Marrakech> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/City> <FIFA-euronews-3> .
+ <http://example.org/entities/Morocco> <http://dbpedia.org/ontology/coHost> <http://dbpedia.org/resource/FIFA_World_Cup_2030> <FIFA-euronews-3> .
+ <http://example.org/entities/Morocco> <http://dbpedia.org/ontology/percentageOfPopulation> "15"^^<http://www.w3.org/2001/XMLSchema#integer>  <FIFA-euronews-3> .
+ <http://example.org/entities/MinisterOfTourism_Morocco> <http://dbpedia.org/ontology/position> "Minister of Tourism"  <FIFA-euronews-3> .
+ <http://example.org/entities/Earthquake_September> <http://dbpedia.org/ontology/location> <http://example.org/entities/Morocco> <FIFA-euronews-3> .
+ <http://example.org/entities/JihadAzour> <http://xmlns.com/foaf/0.1/name> "Jihad Azour"  <FIFA-euronews-3> .
+ <http://example.org/entities/Earthquake_September> <http://dbpedia.org/ontology/date> "September 2023"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-euronews-3> .
+ <http://example.org/entities/Marrakech> <http://dbpedia.org/ontology/partOf> <http://example.org/entities/Morocco> <FIFA-euronews-3> .
+ <http://example.org/entities/Riad> <http://dbpedia.org/ontology/description> "Multi-story homes centering around an open-air courtyard with a fountain, transformed into boutique hotels"  <FIFA-euronews-3> .
+ <http://example.org/entities/WorldBank> <http://xmlns.com/foaf/0.1/name> "World Bank"  <FIFA-euronews-3> .
+ <http://example.org/entities/WadiaBejouj> <http://dbpedia.org/ontology/occupation> <http://example.org/entities/HotelManager_Marrakech> <FIFA-euronews-3> .
+ <http://example.org/entities/Morocco> <http://dbpedia.org/ontology/population> "11 million"^^<http://www.w3.org/2001/XMLSchema#integer>  <FIFA-euronews-3> .
+ <http://example.org/entities/Riad> <http://dbpedia.org/ontology/location> <http://example.org/entities/Marrakech> <FIFA-euronews-3> .
+ <http://example.org/entities/WadiaBejouj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-3> .
+ <http://example.org/entities/ChristinaSpann> <http://schema.org/tourist> <http://example.org/entities/Morocco> <FIFA-euronews-3> .
+ <http://example.org/entities/FatimZahraAmmor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-3> .
+ <http://example.org/entities/Souks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <FIFA-euronews-3> .
+ <http://example.org/entities/ChristinaSpann> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-3> .
+ <http://example.org/entities/Morocco> <http://dbpedia.org/ontology/Tourism2023> "11.1 million"^^<http://www.w3.org/2001/XMLSchema#integer>  <FIFA-euronews-3> .
+ <http://example.org/entities/Director_MiddleEast_CentralAsia_Department_IMF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <FIFA-euronews-3> .
+ <http://example.org/entities/Director_MiddleEast_CentralAsia_Department_IMF> <http://dbpedia.org/ontology/organization> <http://example.org/entities/IMF> <FIFA-euronews-3> .
+ <http://example.org/entities/IMF_WorldBank_AnnualMeetings_2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <FIFA-euronews-3> .
+ <http://example.org/entities/JihadAzour> <http://schema.org/employee> <http://example.org/entities/IMF> <FIFA-euronews-3> .
+ <http://example.org/entities/AnneSars> <http://xmlns.com/foaf/0.1/name> "Anne Sars"  <FIFA-euronews-3> .
+ <http://example.org/entities/Morocco> <http://dbpedia.org/ontology/resilience> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <FIFA-euronews-3> .
+ <http://example.org/entities/FatimZahraAmmor> <http://xmlns.com/foaf/0.1/page> <https://euronews.com> <FIFA-euronews-3> .
+ <http://example.org/entities/MinisterOfTourism_Morocco> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <FIFA-euronews-3> .
+ <http://example.org/entities/WorldBank> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <FIFA-euronews-3> .
+ <http://example.org/entities/IMF_WorldBank_AnnualMeetings_2023> <http://dbpedia.org/ontology/attendees> "10000"^^<http://www.w3.org/2001/XMLSchema#integer>  <FIFA-euronews-3> .
+ <http://example.org/entities/HotelManager_Marrakech> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <FIFA-euronews-3> .
+ <http://example.org/entities/IMF_WorldBank_AnnualMeetings_2023> <http://dbpedia.org/ontology/location> <http://example.org/entities/Marrakech> <FIFA-euronews-3> .
+ <http://example.org/entities/Morocco> <http://dbpedia.org/ontology/employment> "550000"^^<http://www.w3.org/2001/XMLSchema#integer>  <FIFA-euronews-3> .
+ <http://example.org/ontology#Mamelodi_Sundowns> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/South_Africa> <FIFA-euronews-4> .
+ <http://example.org/ontology#Simba_SC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-euronews-4> .
+ <http://example.org/ontology#Wydad_Casablanca> <http://dbpedia.org/ontology/isFavourite> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <FIFA-euronews-4> .
+ <http://example.org/ontology#SuperSportTV> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/South_Africa> <FIFA-euronews-4> .
+ <http://example.org/ontology#dbr:Momodou_Gajaga> <http://dbpedia.org/ontology/occupation> <http://example.org/ontology#Sports_Anchor> <FIFA-euronews-4> .
+ <http://example.org/ontology#AfricanFootballLeague> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsEvent> <FIFA-euronews-4> .
+ <http://example.org/ontology#Simba_SC> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Tanzania> <FIFA-euronews-4> .
+ <http://example.org/ontology#Petro_Atletico_de_Luanda> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Angola> <FIFA-euronews-4> .
+ <http://FIFA-euronews-4.com/blank#n53174453681643988bcf8383f8923749b2> <http://xmlns.com/foaf/0.1/name> "CAF"  <FIFA-euronews-4> .
+ <http://example.org/ontology#Al_Ahly> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Egypt> <FIFA-euronews-4> .
+ <http://example.org/ontology#TP_Mazembe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-euronews-4> .
+ <http://example.org/ontology#dbr:Momodou_Gajaga> <http://dbpedia.org/ontology/employer> <http://example.org/ontology#QTV> <FIFA-euronews-4> .
+ <http://example.org/ontology#AfricanFootballLeague> <http://dbpedia.org/ontology/organiser> <http://FIFA-euronews-4.com/blank#n53174453681643988bcf8383f8923749b1>  <FIFA-euronews-4> .
+ <http://example.org/ontology#dbr:Momodou_Gajaga> <http://xmlns.com/foaf/0.1/name> "Momodou Gajaga"  <FIFA-euronews-4> .
+ <http://example.org/ontology#Al_Ahly> <http://dbpedia.org/ontology/championship> <http://example.org/ontology#African_Champions_League> <FIFA-euronews-4> .
+ <http://example.org/ontology#Esperance_Tunis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-euronews-4> .
+ <http://example.org/ontology#TP_Mazembe> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Democratic_Republic_of_the_Congo> <FIFA-euronews-4> .
+ <http://FIFA-euronews-4.com/blank#n53174453681643988bcf8383f8923749b1> <http://xmlns.com/foaf/0.1/name> "FIFA"  <FIFA-euronews-4> .
+ <http://example.org/ontology#Mamelodi_Sundowns> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-euronews-4> .
+ <http://example.org/ontology#Enyimba_FC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-euronews-4> .
+ <http://example.org/ontology#dbr:Fiso_Mazibuko> <http://xmlns.com/foaf/0.1/name> "Fiso Mazibuko"  <FIFA-euronews-4> .
+ <http://example.org/ontology#AfricanFootballLeague> <http://dbpedia.org/ontology/startDate> "2023-10-20"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-euronews-4> .
+ <http://example.org/ontology#Petro_Atletico_de_Luanda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-euronews-4> .
+ <http://example.org/ontology#dbr:Momodou_Gajaga> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-4> .
+ <http://example.org/ontology#dbr:Fiso_Mazibuko> <http://dbpedia.org/ontology/employer> <http://example.org/ontology#SuperSportTV> <FIFA-euronews-4> .
+ <http://example.org/ontology#dbr:Fiso_Mazibuko> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Sports_commentator> <FIFA-euronews-4> .
+ <http://FIFA-euronews-4.com/blank#n53174453681643988bcf8383f8923749b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <FIFA-euronews-4> .
+ <http://FIFA-euronews-4.com/blank#n53174453681643988bcf8383f8923749b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <FIFA-euronews-4> .
+ <http://example.org/ontology#AfricanFootballLeague> <http://dbpedia.org/ontology/format> "knockout"  <FIFA-euronews-4> .
+ <http://example.org/ontology#Enyimba_FC> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Nigeria> <FIFA-euronews-4> .
+ <http://example.org/ontology#Esperance_Tunis> <http://dbpedia.org/ontology/isFavourite> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <FIFA-euronews-4> .
+ <http://example.org/ontology#QTV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Broadcaster> <FIFA-euronews-4> .
+ <http://example.org/ontology#Enyimba_FC> <http://dbpedia.org/ontology/lastMajorWin> "2003"^^<http://www.w3.org/2001/XMLSchema#gYear>  <FIFA-euronews-4> .
+ <http://example.org/ontology#AfricanFootballLeague> <http://dbpedia.org/ontology/endDate> "2023-11-11"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-euronews-4> .
+ <http://example.org/ontology#Al_Ahly> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-euronews-4> .
+ <http://example.org/ontology#AfricanFootballLeague> <http://dbpedia.org/ontology/loss> "15000000.0"^^<http://www.w3.org/2001/XMLSchema#float>  <FIFA-euronews-4> .
+ <http://example.org/ontology#SuperSportTV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Broadcaster> <FIFA-euronews-4> .
+ <http://example.org/ontology#AfricanFootballLeague> <http://schema.org/numberOfParticipants> "8"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-euronews-4> .
+ <http://FIFA-euronews-4.com/blank#n53174453681643988bcf8383f8923749b2> <http://xmlns.com/foaf/0.1/name> "Confederation of African Football"  <FIFA-euronews-4> .
+ <http://example.org/ontology#Al_Ahly> <http://dbpedia.org/ontology/isFavourite> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <FIFA-euronews-4> .
+ <http://example.org/ontology#dbr:Fiso_Mazibuko> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-4> .
+ <http://example.org/ontology#Wydad_Casablanca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-euronews-4> .
+ <http://example.org/ontology#AfricanFootballLeague> <http://dbpedia.org/ontology/organiser> <http://FIFA-euronews-4.com/blank#n53174453681643988bcf8383f8923749b2>  <FIFA-euronews-4> .
+ <http://example.org/ontology#AfricanFootballLeague> <http://dbpedia.org/ontology/prizeMoney> "10000000.0"^^<http://www.w3.org/2001/XMLSchema#float>  <FIFA-euronews-4> .
+ <http://example.org/ontology#Esperance_Tunis> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Tunisia> <FIFA-euronews-4> .
+ <http://example.org/ontology#QTV> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Gambia> <FIFA-euronews-4> .
+ <http://example.org/ontology#Wydad_Casablanca> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Morocco> <FIFA-euronews-4> .
+ <http://example.org/ontology#SaudiArabiaBid> <http://dbpedia.org/ontology/bidder> <http://dbpedia.org/resource/Saudi_Arabia> <FIFA-euronews-5> .
+ <http://example.org/ontology#ItalyTurkeyBid> <http://dbpedia.org/ontology/bidder> <http://dbpedia.org/resource/Turkey> <FIFA-euronews-5> .
+ <http://example.org/ontology#Euro2032> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Italy> <FIFA-euronews-5> .
+ <http://example.org/ontology#Euro2024> <http://dbpedia.org/ontology/startDate> "2024"^^<http://www.w3.org/2001/XMLSchema#gYear>  <FIFA-euronews-5> .
+ <http://example.org/ontology#WorldCup2030> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Portugal> <FIFA-euronews-5> .
+ <http://example.org/ontology#Euro2028> <http://dbpedia.org/ontology/organiser> <http://example.org/ontology#UEFA> <FIFA-euronews-5> .
+ <http://example.org/ontology#CasementPark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Stadium> <FIFA-euronews-5> .
+ <http://example.org/ontology#Euro2024> <http://dbpedia.org/ontology/organiser> <http://example.org/ontology#UEFA> <FIFA-euronews-5> .
+ <http://example.org/ontology#ItalyTurkeyBid> <http://dbpedia.org/ontology/target> <http://example.org/ontology#Euro2032> <FIFA-euronews-5> .
+ <http://example.org/ontology#FIFA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsGoverningBody> <FIFA-euronews-5> .
+ <http://example.org/ontology#WorldCup2030> <http://dbpedia.org/ontology/startDate> "2030"^^<http://www.w3.org/2001/XMLSchema#gYear>  <FIFA-euronews-5> .
+ <http://example.org/ontology#WorldCup2030> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Uruguay> <FIFA-euronews-5> .
+ <http://example.org/ontology#WorldCup2034> <http://dbpedia.org/ontology/organiser> <http://example.org/ontology#FIFA> <FIFA-euronews-5> .
+ <http://example.org/ontology#WorldCup2034> <http://dbpedia.org/ontology/reservedFor> <http://dbpedia.org/resource/Oceania> <FIFA-euronews-5> .
+ <http://example.org/ontology#SaudiArabiaBid> <http://dbpedia.org/ontology/target> <http://example.org/ontology#WorldCup2034> <FIFA-euronews-5> .
+ <http://example.org/ontology#Euro2032> <http://dbpedia.org/ontology/organiser> <http://example.org/ontology#UEFA> <FIFA-euronews-5> .
+ <http://example.org/ontology#UEFA> <http://xmlns.com/foaf/0.1/name> "UEFA"  <FIFA-euronews-5> .
+ <http://example.org/ontology#UEFA> <http://dbpedia.org/ontology/abbreviation> "UEFA"  <FIFA-euronews-5> .
+ <http://example.org/ontology#AleksanderCeferin> <http://dbpedia.org/ontology/position> "UEFA president"  <FIFA-euronews-5> .
+ <http://example.org/ontology#ItalyTurkeyBid> <http://dbpedia.org/ontology/bidder> <http://dbpedia.org/resource/Italy> <FIFA-euronews-5> .
+ <http://example.org/ontology#CasementPark> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Belfast> <FIFA-euronews-5> .
+ <http://example.org/ontology#WorldCup2030> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Spain> <FIFA-euronews-5> .
+ <http://example.org/ontology#WorldCup2030> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Paraguay> <FIFA-euronews-5> .
+ <http://example.org/ontology#UEFA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsGoverningBody> <FIFA-euronews-5> .
+ <http://example.org/ontology#UKIrelandBid> <http://dbpedia.org/ontology/target> <http://example.org/ontology#Euro2028> <FIFA-euronews-5> .
+ <http://example.org/ontology#WorldCup2030> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Morocco> <FIFA-euronews-5> .
+ <http://example.org/ontology#SaudiArabiaBid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Bid> <FIFA-euronews-5> .
+ <http://example.org/ontology#UKIrelandBid> <http://dbpedia.org/ontology/bidder> <http://dbpedia.org/resource/United_Kingdom> <FIFA-euronews-5> .
+ <http://example.org/ontology#Euro2032> <http://dbpedia.org/ontology/startDate> "2032"^^<http://www.w3.org/2001/XMLSchema#gYear>  <FIFA-euronews-5> .
+ <http://example.org/ontology#UKIrelandBid> <http://dbpedia.org/ontology/bidder> <http://dbpedia.org/resource/Republic_of_Ireland> <FIFA-euronews-5> .
+ <http://example.org/ontology#Euro2028> <http://dbpedia.org/ontology/startDate> "2028"^^<http://www.w3.org/2001/XMLSchema#gYear>  <FIFA-euronews-5> .
+ <http://example.org/ontology#CasementPark> <http://dbpedia.org/ontology/status> "planned"  <FIFA-euronews-5> .
+ <http://example.org/ontology#WorldCup2034> <http://dbpedia.org/ontology/startDate> "2034"^^<http://www.w3.org/2001/XMLSchema#gYear>  <FIFA-euronews-5> .
+ <http://example.org/ontology#ItalyTurkeyBid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Bid> <FIFA-euronews-5> .
+ <http://example.org/ontology#Euro2028> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsEvent> <FIFA-euronews-5> .
+ <http://example.org/ontology#FIFA> <http://dbpedia.org/ontology/abbreviation> "FIFA"  <FIFA-euronews-5> .
+ <http://example.org/ontology#WorldCup2034> <http://dbpedia.org/ontology/reservedFor> <http://dbpedia.org/resource/Asia> <FIFA-euronews-5> .
+ <http://example.org/ontology#UEFA> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Switzerland> <FIFA-euronews-5> .
+ <http://example.org/ontology#WorldCup2030> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsEvent> <FIFA-euronews-5> .
+ <http://example.org/ontology#Euro2024> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Germany> <FIFA-euronews-5> .
+ <http://example.org/ontology#AleksanderCeferin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-5> .
+ <http://example.org/ontology#FIFA> <http://xmlns.com/foaf/0.1/name> "FIFA"  <FIFA-euronews-5> .
+ <http://example.org/ontology#WorldCup2030> <http://dbpedia.org/ontology/organiser> <http://example.org/ontology#FIFA> <FIFA-euronews-5> .
+ <http://example.org/ontology#Euro2028> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Republic_of_Ireland> <FIFA-euronews-5> .
+ <http://example.org/ontology#UKIrelandBid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Bid> <FIFA-euronews-5> .
+ <http://example.org/ontology#Euro2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsEvent> <FIFA-euronews-5> .
+ <http://example.org/ontology#Euro2028> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/United_Kingdom> <FIFA-euronews-5> .
+ <http://example.org/ontology#WembleyStadium> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/England> <FIFA-euronews-5> .
+ <http://example.org/ontology#Euro2032> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Turkey> <FIFA-euronews-5> .
+ <http://example.org/ontology#WorldCup2034> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsEvent> <FIFA-euronews-5> .
+ <http://example.org/ontology#WembleyStadium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Stadium> <FIFA-euronews-5> .
+ <http://example.org/ontology#Euro2032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsEvent> <FIFA-euronews-5> .
+ <http://example.org/ontology#AleksanderCeferin> <http://xmlns.com/foaf/0.1/name> "Aleksander Ceferin"  <FIFA-euronews-5> .
+ <http://example.org/ontology#WorldCup2030> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Argentina> <FIFA-euronews-5> .
+ <http://example.org/PhotoOfYear2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> <FIFA-euronews-6> .
+ <http://example.org/PhotoOfYear2023> <http://dbpedia.org/ontology/awardWinner> <http://example.org/SalwanGeorges> <FIFA-euronews-6> .
+ <http://example.org/ShyjithOndenCheriyath> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-6> .
+ <http://example.org/ChildLabourInAfghanistan> <http://www.w3.org/2000/01/rdf-schema#label> "Child Labour in Afghanistan by Weiken Oliver"@en  <FIFA-euronews-6> .
+ <http://example.org/FollowingTheirTradition> <http://dbpedia.org/ontology/author> <http://example.org/ShyjithOndenCheriyath> <FIFA-euronews-6> .
+ <http://example.org/ChildLabourInAfghanistan> <http://dbpedia.org/ontology/author> <http://example.org/WeikenOliver> <FIFA-euronews-6> .
+ <http://example.org/MayaKeburia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-6> .
+ <http://example.org/PhotoOfYear2023> <http://www.w3.org/2000/01/rdf-schema#label> "Photo of the Year"@en  <FIFA-euronews-6> .
+ <http://example.org/PhotoOfYear2023> <http://dbpedia.org/ontology/awarder> <http://sienaphotoawards.org/SienaInternationalPhotoAwards> <FIFA-euronews-6> .
+ <http://example.org/KeburiaChildren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> <FIFA-euronews-6> .
+ <http://example.org/LucasDragone> <http://schema.org/jobTitle> "Photographer"  <FIFA-euronews-6> .
+ <http://example.org/PhotoAwards2023> <http://dbpedia.org/ontology/endDate> "2023-11-19"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-euronews-6> .
+ <http://example.org/WeikenOliver> <http://xmlns.com/foaf/0.1/name> "Weiken Oliver"  <FIFA-euronews-6> .
+ <http://example.org/WeikenOliver> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-6> .
+ <http://example.org/FollowingTheirTradition> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Umm_al-Quwain> <FIFA-euronews-6> .
+ <http://example.org/AndrasDHajdu> <http://xmlns.com/foaf/0.1/name> "Andras D. Hajdu"  <FIFA-euronews-6> .
+ <http://example.org/GeorgyKeburia> <http://dbpedia.org/ontology/spouse> <http://example.org/MayaKeburia> <FIFA-euronews-6> .
+ <http://example.org/GeorgyKeburia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-6> .
+ <http://example.org/GeorgyKeburia> <http://xmlns.com/foaf/0.1/name> "Georgy Keburia"  <FIFA-euronews-6> .
+ <http://example.org/KhersonBoy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Photograph> <FIFA-euronews-6> .
+ <http://example.org/SalwanGeorges> <http://schema.org/jobTitle> "Photographer"  <FIFA-euronews-6> .
+ <http://example.org/LucasDragone> <http://xmlns.com/foaf/0.1/name> "Lucas Dragone"  <FIFA-euronews-6> .
+ <http://example.org/PhotoAwards2023> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Siena> <FIFA-euronews-6> .
+ <http://example.org/ChildLabourInAfghanistan> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Chinarak> <FIFA-euronews-6> .
+ <http://example.org/GeorgyPhoto> <http://dbpedia.org/ontology/depicts> <http://example.org/GeorgyKeburia> <FIFA-euronews-6> .
+ <http://example.org/GeorgyKeburia> <http://dbpedia.org/ontology/children> <http://example.org/KeburiaChildren> <FIFA-euronews-6> .
+ <http://example.org/AndrasDHajdu> <http://schema.org/jobTitle> "Photographer"  <FIFA-euronews-6> .
+ <http://example.org/ShyjithOndenCheriyath> <http://schema.org/jobTitle> "Photographer"  <FIFA-euronews-6> .
+ <http://example.org/ShyjithOndenCheriyath> <http://xmlns.com/foaf/0.1/name> "Shyjith Onden Cheriyath"  <FIFA-euronews-6> .
+ <http://example.org/GeorgyPhoto> <http://dbpedia.org/ontology/date> "2022-03-05"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-euronews-6> .
+ <http://example.org/KhersonBoy> <http://dbpedia.org/ontology/date> "2022-11-11"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-euronews-6> .
+ <http://example.org/ChildLabourInAfghanistan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Photograph> <FIFA-euronews-6> .
+ <http://example.org/MayaKeburia> <http://xmlns.com/foaf/0.1/name> "Maya Keburia"  <FIFA-euronews-6> .
+ <http://example.org/FollowingTheirTradition> <http://www.w3.org/2000/01/rdf-schema#label> "Following their tradition! by Shyjith Onden Cheriyath"@en  <FIFA-euronews-6> .
+ <http://example.org/GotipuaFadingAway> <http://www.w3.org/2000/01/rdf-schema#label> "Gotipua fading away by Lucas Dragone"@en  <FIFA-euronews-6> .
+ <http://example.org/GeorgyPhoto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Photograph> <FIFA-euronews-6> .
+ <http://example.org/SalwanGeorges> <http://xmlns.com/foaf/0.1/name> "Salwan Georges"  <FIFA-euronews-6> .
+ <http://example.org/GeorgyPhoto> <http://dbpedia.org/ontology/author> <http://example.org/SalwanGeorges> <FIFA-euronews-6> .
+ <http://example.org/PhotoAwards2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <FIFA-euronews-6> .
+ <http://example.org/WeikenOliver> <http://schema.org/jobTitle> "Photographer"  <FIFA-euronews-6> .
+ <http://example.org/GotipuaFadingAway> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Orissa> <FIFA-euronews-6> .
+ <http://example.org/PhotoOfYear2023> <http://dbpedia.org/ontology/thumbnail> <http://example.org/GeorgyPhoto> <FIFA-euronews-6> .
+ <http://example.org/LucasDragone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-6> .
+ <http://example.org/GeorgyPhoto> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Odesa> <FIFA-euronews-6> .
+ <http://example.org/SalwanGeorges> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-6> .
+ <http://example.org/KhersonBoy> <http://www.w3.org/2000/01/rdf-schema#label> "Kherson boy by Andras D. Hajdu"@en  <FIFA-euronews-6> .
+ <http://example.org/KhersonBoy> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Kherson> <FIFA-euronews-6> .
+ <http://example.org/PhotoAwards2023> <http://dbpedia.org/ontology/award> <http://example.org/PhotoOfYear2023> <FIFA-euronews-6> .
+ <http://example.org/KhersonBoy> <http://dbpedia.org/ontology/author> <http://example.org/AndrasDHajdu> <FIFA-euronews-6> .
+ <http://example.org/GotipuaFadingAway> <http://dbpedia.org/ontology/author> <http://example.org/LucasDragone> <FIFA-euronews-6> .
+ <http://example.org/KeburiaChildren> <http://www.w3.org/2000/01/rdf-schema#label> "children of Georgy and Maya Keburia"@en  <FIFA-euronews-6> .
+ <http://example.org/FollowingTheirTradition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Photograph> <FIFA-euronews-6> .
+ <http://example.org/GeorgyPhoto> <http://www.w3.org/2000/01/rdf-schema#label> "Georgy by Salwan Georges"@en  <FIFA-euronews-6> .
+ <http://example.org/AndrasDHajdu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-6> .
+ <http://example.org/GotipuaFadingAway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Photograph> <FIFA-euronews-6> .
+ <http://example.org/IlhwaKimExhibition> <http://dbpedia.org/ontology/title> "Tender Strokes"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-euronews-7> .
+ <http://example.org/WomenInComedyFestival> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <FIFA-euronews-7> .
+ <http://example.org/TheCreator> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/John_David_Washington> <FIFA-euronews-7> .
+ <http://example.org/TheExorcistBeliever> <http://dbpedia.org/ontology/related> <http://dbpedia.org/resource/The_Exorcist_(film)> <FIFA-euronews-7> .
+ <http://example.org/DouglasGordon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <FIFA-euronews-7> .
+ <http://example.org/IlhwaKimExhibition> <http://dbpedia.org/ontology/endDate> "2023-10-11"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-euronews-7> .
+ <http://example.org/DrakeAlbum> <http://dbpedia.org/ontology/label> <http://dbpedia.org/resource/Republic_Records> <FIFA-euronews-7> .
+ <http://example.org/FriezeLondon> <http://dbpedia.org/ontology/endDate> "2023-10-15"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-euronews-7> .
+ <http://example.org/WomenInComedyFestival> <http://dbpedia.org/ontology/location> <http://example.org/FrogAndBucketManchester> <FIFA-euronews-7> .
+ <http://example.org/FriezeLondon> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Regent's_Park> <FIFA-euronews-7> .
+ <http://example.org/ZidaneExhibition> <http://dbpedia.org/ontology/organizer> <http://example.org/PhilharmonieDeParis> <FIFA-euronews-7> .
+ <http://example.org/ZidaneExhibition> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/FIFA_World_Cup_1998> <FIFA-euronews-7> .
+ <http://example.org/TheExorcistBeliever> <http://dbpedia.org/ontology/theme> "exorcism"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-euronews-7> .
+ <http://example.org/GhostsTVShow> <http://dbpedia.org/ontology/theme> "haunted house"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-euronews-7> .
+ <http://example.org/FrogAndBucketManchester> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Venue> <FIFA-euronews-7> .
+ <http://example.org/ZidaneExhibition> <http://schema.org/contributor> <http://example.org/PhilippeParreno> <FIFA-euronews-7> .
+ <http://example.org/ZidaneExhibition> <http://dbpedia.org/ontology/league> <http://dbpedia.org/resource/La_Liga> <FIFA-euronews-7> .
+ <http://example.org/WomenInComedyFestival> <http://dbpedia.org/ontology/theme> "women and female-identifying comedic talent"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-euronews-7> .
+ <http://example.org/WomenInComedyFestival> <http://dbpedia.org/ontology/startDate> "2023-10-06"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-euronews-7> .
+ <http://example.org/BeckhamDocumentary> <http://dbpedia.org/ontology/startDate> "2023-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-euronews-7> .
+ <http://example.org/DrakeAlbum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalWork> <FIFA-euronews-7> .
+ <http://example.org/JavelinAlbum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalWork> <FIFA-euronews-7> .
+ <http://example.org/GhostsTVShow> <http://dbpedia.org/ontology/provider> <http://dbpedia.org/resource/BBC_iPlayer> <FIFA-euronews-7> .
+ <http://example.org/JavelinAlbum> <http://schema.org/about> "Guillain-Barré Syndrome"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-euronews-7> .
+ <http://example.org/IlhwaKimExhibition> <http://dbpedia.org/ontology/subject> <http://example.org/IlhwaKim> <FIFA-euronews-7> .
+ <http://example.org/LupinSeason3> <http://dbpedia.org/ontology/provider> <http://dbpedia.org/resource/Netflix> <FIFA-euronews-7> .
+ <http://example.org/BeckhamDocumentary> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/TVSeries> <FIFA-euronews-7> .
+ <http://example.org/JavelinAlbum> <http://dbpedia.org/ontology/title> "Javelin"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-euronews-7> .
+ <http://example.org/LupinSeason3> <http://dbpedia.org/ontology/season> "3"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-euronews-7> .
+ <http://example.org/ZidaneExhibition> <http://schema.org/location> <http://example.org/RamonSanchezPizjuanStadium> <FIFA-euronews-7> .
+ <http://example.org/LupinSeason3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/TVSeries> <FIFA-euronews-7> .
+ <http://example.org/ZidaneExhibition> <http://dbpedia.org/ontology/location> <http://example.org/PhilharmonieDeParis> <FIFA-euronews-7> .
+ <http://example.org/ZidaneExhibition> <http://schema.org/contributor> <http://dbpedia.org/resource/Mogwai_(band)> <FIFA-euronews-7> .
+ <http://example.org/DrakeAlbum> <http://dbpedia.org/ontology/title> "For All the Dogs"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-euronews-7> .
+ <http://example.org/PhilharmonieDeParis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Venue> <FIFA-euronews-7> .
+ <http://example.org/FriezeSculpture> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Regent's_Park> <FIFA-euronews-7> .
+ <http://example.org/BeckhamDocumentary> <http://dbpedia.org/ontology/subject> <http://dbpedia.org/resource/David_Beckham> <FIFA-euronews-7> .
+ <http://example.org/FriezeSculpture> <http://dbpedia.org/ontology/theme> "sculptural spectacles"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-euronews-7> .
+ <http://example.org/DrakeAlbum> <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/Drake_(musician)> <FIFA-euronews-7> .
+ <http://example.org/FriezeSculpture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <FIFA-euronews-7> .
+ <http://example.org/PhilippeParreno> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <FIFA-euronews-7> .
+ <http://example.org/TheExorcistBeliever> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/David_Gordon_Green> <FIFA-euronews-7> .
+ <http://example.org/JavelinAlbum> <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/Sufjan_Stevens> <FIFA-euronews-7> .
+ <http://example.org/GhostsTVShow> <http://dbpedia.org/ontology/season> "final"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-euronews-7> .
+ <http://example.org/HOFA_Gallery> <http://xmlns.com/foaf/0.1/name> "House of Fine Art (HOFA) Gallery"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-euronews-7> .
+ <http://example.org/WomenInComedyFestival> <http://dbpedia.org/ontology/anniversary> "10th"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-euronews-7> .
+ <http://example.org/GhostsTVShow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/TVSeries> <FIFA-euronews-7> .
+ <http://example.org/LokiSeason2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/TVSeries> <FIFA-euronews-7> .
+ <http://example.org/ZidaneExhibition> <http://dbpedia.org/ontology/theme> "French footballing icon Zinédine Zidane"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-euronews-7> .
+ <http://example.org/ZidaneExhibition> <http://dbpedia.org/ontology/subject> <http://dbpedia.org/resource/Zinédine_Zidane> <FIFA-euronews-7> .
+ <http://example.org/PhilippeParreno> <http://xmlns.com/foaf/0.1/name> "Philippe Parreno"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-euronews-7> .
+ <http://example.org/DouglasGordon> <http://xmlns.com/foaf/0.1/name> "Douglas Gordon"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-euronews-7> .
+ <http://example.org/FriezeLondon> <http://dbpedia.org/ontology/anniversary> "20th"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-euronews-7> .
+ <http://example.org/RamonSanchezPizjuanStadium> <http://xmlns.com/foaf/0.1/name> "Ramon Sanchez Pizjuan stadium"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-euronews-7> .
+ <http://example.org/ZidaneExhibition> <http://schema.org/contributor> <http://example.org/DouglasGordon> <FIFA-euronews-7> .
+ <http://example.org/FriezeLondon> <http://dbpedia.org/ontology/theme> "global contemporary art"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-euronews-7> .
+ <http://example.org/DrakeAlbum> <http://dbpedia.org/ontology/label> <http://dbpedia.org/resource/OVO_Sound> <FIFA-euronews-7> .
+ <http://example.org/LokiSeason2> <http://dbpedia.org/ontology/subject> <http://dbpedia.org/resource/Loki_(comics)> <FIFA-euronews-7> .
+ <http://example.org/BeckhamDocumentary> <http://dbpedia.org/ontology/theme> "David Beckham's life"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-euronews-7> .
+ <http://example.org/TheExorcistBeliever> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <FIFA-euronews-7> .
+ <http://example.org/TheCreator> <http://dbpedia.org/ontology/theme> "AI and humanity"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-euronews-7> .
+ <http://example.org/BeckhamDocumentary> <http://dbpedia.org/ontology/provider> <http://dbpedia.org/resource/Netflix> <FIFA-euronews-7> .
+ <http://example.org/ZidaneExhibition> <http://dbpedia.org/ontology/coach> <http://dbpedia.org/resource/Real_Madrid_CF> <FIFA-euronews-7> .
+ <http://example.org/ZidaneExhibition> <http://dbpedia.org/ontology/competition> <http://dbpedia.org/resource/UEFA_Champions_League> <FIFA-euronews-7> .
+ <http://example.org/ZidaneExhibition> <http://xmlns.com/foaf/0.1/depiction> <http://example.org/ZidanePortrait21stCenturyDocumentary> <FIFA-euronews-7> .
+ <http://example.org/LupinSeason3> <http://dbpedia.org/ontology/subject> <http://dbpedia.org/resource/Lupin_(French_TV_series)> <FIFA-euronews-7> .
+ <http://example.org/DrakeAlbum> <http://dbpedia.org/ontology/illustrator> <http://example.org/DrakeSon> <FIFA-euronews-7> .
+ <http://example.org/FriezeLondon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <FIFA-euronews-7> .
+ <http://example.org/DrakeAlbum> <http://schema.org/about> "stomach issues"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-euronews-7> .
+ <http://example.org/IlhwaKimExhibition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Exhibition> <FIFA-euronews-7> .
+ <http://example.org/DrakeSon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <FIFA-euronews-7> .
+ <http://example.org/PhilharmonieDeParis> <http://xmlns.com/foaf/0.1/name> "Philharmonie de Paris"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-euronews-7> .
+ <http://example.org/FrogAndBucketManchester> <http://xmlns.com/foaf/0.1/name> "The Frog and Bucket"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-euronews-7> .
+ <http://example.org/FriezeLondon> <http://dbpedia.org/ontology/startDate> "2023-10-11"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-euronews-7> .
+ <http://example.org/ZidaneExhibition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Exhibition> <FIFA-euronews-7> .
+ <http://example.org/IlhwaKimExhibition> <http://dbpedia.org/ontology/location> <http://example.org/HOFA_Gallery> <FIFA-euronews-7> .
+ <http://example.org/TheExorcistBeliever> <http://dbpedia.org/ontology/anniversary> "50th"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-euronews-7> .
+ <http://example.org/WomenInComedyFestival> <http://dbpedia.org/ontology/endDate> "2023-10-15"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-euronews-7> .
+ <http://example.org/HOFA_Gallery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Venue> <FIFA-euronews-7> .
+ <http://example.org/DrakeAlbum> <http://dbpedia.org/ontology/releaseDate> "2023-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-euronews-7> .
+ <http://example.org/ZidaneExhibition> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/UEFA_Euro_2000> <FIFA-euronews-7> .
+ <http://example.org/DrakeSon> <http://xmlns.com/foaf/0.1/name> "Drake's six-year-old son"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-euronews-7> .
+ <http://example.org/TheCreator> <http://dbpedia.org/ontology/setting> "40 years in the future"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-euronews-7> .
+ <http://example.org/JavelinAlbum> <http://dbpedia.org/ontology/releaseDate> "2023-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-euronews-7> .
+ <http://example.org/IlhwaKimExhibition> <http://dbpedia.org/ontology/startDate> "2023-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-euronews-7> .
+ <http://example.org/RamonSanchezPizjuanStadium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Stadium> <FIFA-euronews-7> .
+ <http://example.org/IlhwaKimExhibition> <http://dbpedia.org/ontology/theme> "sculptural paintings"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-euronews-7> .
+ <http://example.org/TheCreator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <FIFA-euronews-7> .
+ <http://example.org/FriezeSculpture> <http://dbpedia.org/ontology/startDate> "2023-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-euronews-7> .
+ <http://example.org/TheCreator> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Gareth_Edwards_(director)> <FIFA-euronews-7> .
+ <http://example.org/ZidaneExhibition> <http://dbpedia.org/ontology/startDate> "2023-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-euronews-7> .
+ <http://example.org/LokiSeason2> <http://dbpedia.org/ontology/provider> <http://dbpedia.org/resource/DisneyPlus> <FIFA-euronews-7> .
+ <http://example.org/LokiSeason2> <http://dbpedia.org/ontology/season> "2"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-euronews-7> .
+ <http://example.org/ontology#CONMEBOL> <http://dbpedia.org/ontology/leader> <http://example.org/ontology#AlejandroDominguez> <FIFA-euronews-8> .
+ <http://example.org/ontology#WorldCup2030> <http://schema.org/numberOfParticipants> "48"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-euronews-8> .
+ <http://example.org/ontology#WorldCup2034> <http://dbpedia.org/ontology/location> <http://example.org/ontology#Oceania> <FIFA-euronews-8> .
+ <http://example.org/ontology#Spain-PortugalMoroccoBid> <http://dbpedia.org/ontology/bidder> <http://dbpedia.org/resource/Argentina> <FIFA-euronews-8> .
+ <http://example.org/ontology#WorldCup2026> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Canada> <FIFA-euronews-8> .
+ <http://example.org/ontology#Spain-PortugalMoroccoBid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Bid> <FIFA-euronews-8> .
+ <http://example.org/ontology#CONMEBOL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <FIFA-euronews-8> .
+ <http://dbpedia.org/resource/New_Zealand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <FIFA-euronews-8> .
+ <http://example.org/ontology#Spain-PortugalMoroccoBid> <http://dbpedia.org/ontology/bidder> <http://dbpedia.org/resource/Portugal> <FIFA-euronews-8> .
+ <http://example.org/ontology#Spain-PortugalMoroccoBid> <http://dbpedia.org/ontology/bidder> <http://dbpedia.org/resource/Uruguay> <FIFA-euronews-8> .
+ <http://dbpedia.org/resource/Uruguay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <FIFA-euronews-8> .
+ <http://example.org/ontology#Spain-PortugalMoroccoBid> <http://dbpedia.org/ontology/bidder> <http://dbpedia.org/resource/Spain> <FIFA-euronews-8> .
+ <http://example.org/ontology#WorldCup2030> <http://dbpedia.org/ontology/location> <http://example.org/ontology#SouthAmerica> <FIFA-euronews-8> .
+ <http://example.org/ontology#Spain-PortugalMoroccoBid> <http://dbpedia.org/ontology/bidder> <http://dbpedia.org/resource/Morocco> <FIFA-euronews-8> .
+ <http://example.org/ontology#WorldCup2034> <http://dbpedia.org/ontology/endDate> "2034-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <FIFA-euronews-8> .
+ <http://dbpedia.org/resource/Saudi_Arabia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <FIFA-euronews-8> .
+ <http://example.org/ontology#WorldCup2026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <FIFA-euronews-8> .
+ <http://example.org/ontology#SouthAmerica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Continent> <FIFA-euronews-8> .
+ <http://example.org/ontology#FIFA> <http://dbpedia.org/ontology/abbreviation> "FIFA"  <FIFA-euronews-8> .
+ <http://example.org/ontology#WorldCup1930> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <FIFA-euronews-8> .
+ <http://example.org/ontology#WorldCup2030> <http://dbpedia.org/ontology/location> <http://example.org/ontology#Europe> <FIFA-euronews-8> .
+ <http://example.org/ontology#AlejandroDominguez> <http://xmlns.com/foaf/0.1/name> "Alejandro Dominguez"  <FIFA-euronews-8> .
+ <http://example.org/ontology#AlejandroDominguez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <FIFA-euronews-8> .
+ <http://example.org/ontology#WorldCup2026> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/United_States> <FIFA-euronews-8> .
+ <http://example.org/ontology#WorldCup2030> <http://dbpedia.org/ontology/organiser> <http://example.org/ontology#FIFA> <FIFA-euronews-8> .
+ <http://example.org/ontology#FIFA> <http://xmlns.com/foaf/0.1/name> "FIFA"  <FIFA-euronews-8> .
+ <http://dbpedia.org/resource/Portugal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <FIFA-euronews-8> .
+ <http://dbpedia.org/resource/Australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <FIFA-euronews-8> .
+ <http://example.org/ontology#WorldCup1930> <http://dbpedia.org/ontology/startDate> "1930"^^<http://www.w3.org/2001/XMLSchema#gYear>  <FIFA-euronews-8> .
+ <http://example.org/ontology#CentenarioStadium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Stadium> <FIFA-euronews-8> .
+ <http://example.org/ontology#WorldCup2030> <http://dbpedia.org/ontology/related> <http://example.org/ontology#WorldCup1930> <FIFA-euronews-8> .
+ <http://dbpedia.org/resource/United_States> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <FIFA-euronews-8> .
+ <http://example.org/ontology#WorldCup2030> <http://dbpedia.org/ontology/startDate> "2030-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <FIFA-euronews-8> .
+ <http://dbpedia.org/resource/Spain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <FIFA-euronews-8> .
+ <http://example.org/ontology#GianniInfantino> <http://schema.org/jobTitle> "FIFA president"  <FIFA-euronews-8> .
+ <http://example.org/ontology#AlejandroDominguez> <http://schema.org/jobTitle> "CONMEBOL president"  <FIFA-euronews-8> .
+ <http://example.org/ontology#WorldCup1930> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Montevideo> <FIFA-euronews-8> .
+ <http://example.org/ontology#WorldCup2026> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Mexico> <FIFA-euronews-8> .
+ <http://example.org/ontology#Europe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Continent> <FIFA-euronews-8> .
+ <http://example.org/ontology#WorldCup2034> <http://dbpedia.org/ontology/organiser> <http://example.org/ontology#FIFA> <FIFA-euronews-8> .
+ <http://dbpedia.org/resource/Morocco> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <FIFA-euronews-8> .
+ <http://example.org/ontology#WorldCup2030> <http://dbpedia.org/ontology/venue> <http://example.org/ontology#CentenarioStadium> <FIFA-euronews-8> .
+ <http://example.org/ontology#CentenarioStadium> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Montevideo> <FIFA-euronews-8> .
+ <http://example.org/ontology#WorldCup2030> <http://dbpedia.org/ontology/theme> "100th birthday party"  <FIFA-euronews-8> .
+ <http://example.org/ontology#WorldCup2030> <http://dbpedia.org/ontology/location> <http://example.org/ontology#Africa> <FIFA-euronews-8> .
+ <http://example.org/ontology#FIFA> <http://dbpedia.org/ontology/leader> <http://example.org/ontology#GianniInfantino> <FIFA-euronews-8> .
+ <http://example.org/ontology#WorldCup2034> <http://dbpedia.org/ontology/location> <http://example.org/ontology#Asia> <FIFA-euronews-8> .
+ <http://example.org/ontology#Spain-PortugalMoroccoBid> <http://dbpedia.org/ontology/bidder> <http://dbpedia.org/resource/Paraguay> <FIFA-euronews-8> .
+ <http://example.org/ontology#WorldCup2030> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <FIFA-euronews-8> .
+ <http://example.org/ontology#WorldCup2030> <http://dbpedia.org/ontology/numberOfMatches> "104"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-euronews-8> .
+ <http://example.org/ontology#CentenarioStadium> <http://xmlns.com/foaf/0.1/name> "Centenario Stadium"  <FIFA-euronews-8> .
+ <http://example.org/ontology#Africa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Continent> <FIFA-euronews-8> .
+ <http://example.org/ontology#CONMEBOL> <http://dbpedia.org/ontology/abbreviation> "CONMEBOL"  <FIFA-euronews-8> .
+ <http://example.org/ontology#Oceania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Continent> <FIFA-euronews-8> .
+ <http://example.org/ontology#WorldCup2034> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <FIFA-euronews-8> .
+ <http://example.org/ontology#CONMEBOL> <http://xmlns.com/foaf/0.1/name> "CONMEBOL"  <FIFA-euronews-8> .
+ <http://dbpedia.org/resource/Ukraine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <FIFA-euronews-8> .
+ <http://example.org/ontology#WorldCup2030> <http://dbpedia.org/ontology/endDate> "2030-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <FIFA-euronews-8> .
+ <http://example.org/ontology#Asia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Continent> <FIFA-euronews-8> .
+ <http://example.org/ontology#WorldCup2026> <http://dbpedia.org/ontology/organiser> <http://example.org/ontology#FIFA> <FIFA-euronews-8> .
+ <http://dbpedia.org/resource/Chile> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <FIFA-euronews-8> .
+ <http://dbpedia.org/resource/Canada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <FIFA-euronews-8> .
+ <http://dbpedia.org/resource/Paraguay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <FIFA-euronews-8> .
+ <http://example.org/ontology#GianniInfantino> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <FIFA-euronews-8> .
+ <http://example.org/ontology#FIFA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <FIFA-euronews-8> .
+ <http://example.org/ontology#GianniInfantino> <http://xmlns.com/foaf/0.1/name> "Gianni Infantino"  <FIFA-euronews-8> .
+ <http://example.org/ontology#WorldCup2034> <http://dbpedia.org/ontology/startDate> "2034-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <FIFA-euronews-8> .
+ <http://dbpedia.org/resource/Mexico> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <FIFA-euronews-8> .
+ <http://dbpedia.org/resource/Argentina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <FIFA-euronews-8> .
+ <http://example.org/TheWonderfulStoryOfHenrySugar> <http://dbpedia.org/ontology/basedOn> <http://dbpedia.org/resource/The_Wonderful_Story_of_Henry_Sugar_and_Six_More> <FIFA-euronews-9> .
+ <http://example.org/WoodyAllen> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Film_director> <FIFA-euronews-9> .
+ <http://example.org/CoupDeChance> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/France> <FIFA-euronews-9> .
+ <http://example.org/LucBesson> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Film_director> <FIFA-euronews-9> .
+ <http://example.org/JessicaHausner> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Film_director> <FIFA-euronews-9> .
+ <http://example.org/EASportsFC24> <http://dbpedia.org/ontology/publisher> <http://dbpedia.org/resource/Electronic_Arts> <FIFA-euronews-9> .
+ <http://example.org/QueerNature> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <FIFA-euronews-9> .
+ <http://example.org/CoupDeChance> <http://dbpedia.org/ontology/releaseDate> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <FIFA-euronews-9> .
+ <http://example.org/Dogman> <http://dbpedia.org/ontology/director> <http://example.org/LucBesson> <FIFA-euronews-9> .
+ <http://example.org/TheWonderfulStoryOfHenrySugar> <http://schema.org/actor> <http://dbpedia.org/resource/Benedict_Cumberbatch> <FIFA-euronews-9> .
+ <http://example.org/GuillainBarréSyndrome> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Disease> <FIFA-euronews-9> .
+ <http://example.org/ClubZero> <http://schema.org/actor> <http://dbpedia.org/resource/Mia_Wasikowska> <FIFA-euronews-9> .
+ <http://example.org/Swan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <FIFA-euronews-9> .
+ <http://example.org/LucBesson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-9> .
+ <http://example.org/JessicaHausner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-9> .
+ <http://example.org/Javelin> <http://dbpedia.org/ontology/artist> <http://example.org/SufjanStevens> <FIFA-euronews-9> .
+ <http://example.org/TheWonderfulStoryOfHenrySugar> <http://dbpedia.org/ontology/streamingService> <http://dbpedia.org/resource/Netflix> <FIFA-euronews-9> .
+ <http://example.org/WoodyAllen> <http://xmlns.com/foaf/0.1/name> "Woody Allen"  <FIFA-euronews-9> .
+ <http://example.org/LucBesson> <http://xmlns.com/foaf/0.1/name> "Luc Besson"  <FIFA-euronews-9> .
+ <http://example.org/MichaelangelosDavid> <http://dbpedia.org/ontology/restorationDate> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <FIFA-euronews-9> .
+ <http://example.org/SufjanStevens> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/MusicalArtist> <FIFA-euronews-9> .
+ <http://example.org/MichaelangelosDavid> <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/Michelangelo> <FIFA-euronews-9> .
+ <http://example.org/DavidMouriquand> <http://xmlns.com/foaf/0.1/name> "David Mouriquand"  <FIFA-euronews-9> .
+ <http://example.org/DavidMouriquand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-9> .
+ <http://example.org/WesAnderson> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Film_director> <FIFA-euronews-9> .
+ <http://example.org/DavidMouriquand> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Critic> <FIFA-euronews-9> .
+ <http://example.org/WoodyAllenFilmSeries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FilmSeries> <FIFA-euronews-9> .
+ <http://example.org/AyaTakano> <http://dbpedia.org/ontology/occupation> <http://FIFA-euronews-9.com/blank#nd3ce0284a1e049a3bc398122fb18c272b1>  <FIFA-euronews-9> .
+ <http://example.org/Poison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <FIFA-euronews-9> .
+ <http://example.org/QueerNature> <http://schema.org/endDate> "2023-10-31"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-euronews-9> .
+ <http://example.org/ShortDocumentariesScreening> <http://schema.org/endDate> "2023-10-01"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-euronews-9> .
+ <http://example.org/ClubZero> <http://dbpedia.org/ontology/character> "Miss Novak"  <FIFA-euronews-9> .
+ <http://example.org/MichaelangelosDavid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Artwork> <FIFA-euronews-9> .
+ <http://FIFA-euronews-9.com/blank#nd3ce0284a1e049a3bc398122fb18c272b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> <FIFA-euronews-9> .
+ <http://example.org/WesAnderson> <http://xmlns.com/foaf/0.1/name> "Wes Anderson"  <FIFA-euronews-9> .
+ <http://example.org/SufjanStevens> <http://xmlns.com/foaf/0.1/name> "Sufjan Stevens"  <FIFA-euronews-9> .
+ <http://example.org/ShortDocumentariesScreening> <http://schema.org/startDate> "2023-09-30"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-euronews-9> .
+ <http://example.org/ClubZero> <http://dbpedia.org/ontology/director> <http://example.org/JessicaHausner> <FIFA-euronews-9> .
+ <http://FIFA-euronews-9.com/blank#nd3ce0284a1e049a3bc398122fb18c272b1> <http://xmlns.com/foaf/0.1/name> "Painter, Illustrator, Science Fiction Writer, Manga Artist"  <FIFA-euronews-9> .
+ <http://example.org/ClubZero> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <FIFA-euronews-9> .
+ <http://example.org/CoupDeChance> <http://dbpedia.org/ontology/director> <http://example.org/WoodyAllen> <FIFA-euronews-9> .
+ <http://example.org/TheRatCatcher> <http://dbpedia.org/ontology/director> <http://example.org/WesAnderson> <FIFA-euronews-9> .
+ <http://example.org/CoupDeChance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <FIFA-euronews-9> .
+ <http://example.org/Dogman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <FIFA-euronews-9> .
+ <http://example.org/euronewsculture> <http://xmlns.com/foaf/0.1/accountServiceHomepage> <http://FIFA-euronews-9.com/blank#nd3ce0284a1e049a3bc398122fb18c272b3>  <FIFA-euronews-9> .
+ <http://example.org/Swan> <http://dbpedia.org/ontology/director> <http://example.org/WesAnderson> <FIFA-euronews-9> .
+ <http://example.org/AutumnVariations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicAlbum> <FIFA-euronews-9> .
+ <http://example.org/SufjanStevens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-9> .
+ <http://example.org/ZZChatterjee> <http://xmlns.com/foaf/0.1/name> "ZZ Chatterjee"  <FIFA-euronews-9> .
+ <http://example.org/Javelin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicAlbum> <FIFA-euronews-9> .
+ <http://example.org/EdSheeran> <http://xmlns.com/foaf/0.1/name> "Ed Sheeran"  <FIFA-euronews-9> .
+ <http://example.org/TheWonderfulStoryOfHenrySugar> <http://dbpedia.org/ontology/director> <http://example.org/WesAnderson> <FIFA-euronews-9> .
+ <http://FIFA-euronews-9.com/blank#nd3ce0284a1e049a3bc398122fb18c272b3> <http://xmlns.com/foaf/0.1/homepage> "https://instagram.com/euronewsculture"  <FIFA-euronews-9> .
+ <http://example.org/Poison> <http://dbpedia.org/ontology/releaseDate> "2023-09-30"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-euronews-9> .
+ <http://example.org/AyaTakano> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-9> .
+ <http://example.org/WoodyAllen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-9> .
+ <http://example.org/EdSheeran> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/MusicalArtist> <FIFA-euronews-9> .
+ <http://example.org/Swan> <http://dbpedia.org/ontology/releaseDate> "2023-09-28"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-euronews-9> .
+ <http://example.org/euronewsculture> <http://xmlns.com/foaf/0.1/accountName> "@euronewsculture"  <FIFA-euronews-9> .
+ <http://example.org/TheWonderfulStoryOfHenrySugar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <FIFA-euronews-9> .
+ <http://example.org/TheRatCatcher> <http://dbpedia.org/ontology/releaseDate> "2023-09-29"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-euronews-9> .
+ <http://FIFA-euronews-9.com/blank#nd3ce0284a1e049a3bc398122fb18c272b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> <FIFA-euronews-9> .
+ <http://example.org/Poison> <http://dbpedia.org/ontology/director> <http://example.org/WesAnderson> <FIFA-euronews-9> .
+ <http://example.org/UKsMostPhotographedTree> <http://dbpedia.org/ontology/status> "cut down"  <FIFA-euronews-9> .
+ <http://example.org/euronewsculture> <http://xmlns.com/foaf/0.1/accountServiceHomepage> <http://FIFA-euronews-9.com/blank#nd3ce0284a1e049a3bc398122fb18c272b2>  <FIFA-euronews-9> .
+ <http://example.org/CoupDeChance> <http://dbpedia.org/ontology/festival> <http://dbpedia.org/resource/Venice_Film_Festival> <FIFA-euronews-9> .
+ <http://example.org/CoupDeChance> <http://dbpedia.org/ontology/filmSeries> <http://example.org/WoodyAllenFilmSeries> <FIFA-euronews-9> .
+ <http://example.org/WesAnderson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-9> .
+ <http://example.org/RoyalAcademyOfArts> <http://xmlns.com/foaf/0.1/name> "Royal Academy of Arts"  <FIFA-euronews-9> .
+ <http://example.org/UKsMostPhotographedTree> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/NaturalPlace> <FIFA-euronews-9> .
+ <http://example.org/WoodyAllenFilmSeries> <http://dbpedia.org/ontology/film> <http://example.org/BlueJasmine> <FIFA-euronews-9> .
+ <http://example.org/QueerNature> <http://schema.org/location> <http://dbpedia.org/resource/Kew_Gardens> <FIFA-euronews-9> .
+ <http://FIFA-euronews-9.com/blank#nd3ce0284a1e049a3bc398122fb18c272b2> <http://xmlns.com/foaf/0.1/homepage> "https://twitter.com/euronewsculture"  <FIFA-euronews-9> .
+ <http://example.org/MarinaAbramović> <http://xmlns.com/foaf/0.1/name> "Marina Abramović"  <FIFA-euronews-9> .
+ <http://example.org/EASportsFC24> <http://dbpedia.org/ontology/previousVersion> <http://dbpedia.org/resource/FIFA_(video_game_series)> <FIFA-euronews-9> .
+ <http://example.org/euronewsculture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> <FIFA-euronews-9> .
+ <http://example.org/RoyalAcademyOfArts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <FIFA-euronews-9> .
+ <http://example.org/ShortDocumentariesScreening> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <FIFA-euronews-9> .
+ <http://example.org/Dogman> <http://schema.org/genre> "Thriller"  <FIFA-euronews-9> .
+ <http://FIFA-euronews-9.com/blank#nd3ce0284a1e049a3bc398122fb18c272b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <FIFA-euronews-9> .
+ <http://example.org/EASportsFC24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/VideoGame> <FIFA-euronews-9> .
+ <http://example.org/ZZChatterjee> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Doctor> <FIFA-euronews-9> .
+ <http://example.org/MarinaAbramović> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Artist> <FIFA-euronews-9> .
+ <http://example.org/AutumnVariations> <http://dbpedia.org/ontology/artist> <http://example.org/EdSheeran> <FIFA-euronews-9> .
+ <http://example.org/JessicaHausner> <http://xmlns.com/foaf/0.1/name> "Jessica Hausner"  <FIFA-euronews-9> .
+ <http://example.org/Javelin> <http://dbpedia.org/ontology/releaseDate> "2023-10-06"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-euronews-9> .
+ <http://example.org/ZZChatterjee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-9> .
+ <http://example.org/TheRatCatcher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <FIFA-euronews-9> .
+ <http://example.org/MarinaAbramović> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-9> .
+ <http://example.org/ShortDocumentariesScreening> <http://schema.org/location> <http://dbpedia.org/resource/Lyon> <FIFA-euronews-9> .
+ <http://example.org/AyaTakano> <http://xmlns.com/foaf/0.1/name> "Aya Takano"  <FIFA-euronews-9> .
+ <http://example.org/EdSheeran> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-euronews-9> .
+ <http://example.org/CoupDeChance> <http://schema.org/inLanguage> "French"  <FIFA-euronews-9> .
+ <http://example.org/QueerNature> <http://schema.org/startDate> "2023-09-30"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-euronews-9> .

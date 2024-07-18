@@ -1,0 +1,602 @@
+ <http://example.org/ns#ConcussionSettlement> <http://dbpedia.org/ontology/party> <http://NFL-Al-Jazeera-0.com/blank#n92f4ea3496fb420eb5e1bd7c0c8e6e07b4>  <NFL-Al-Jazeera-0> .
+ <http://NFL-Al-Jazeera-0.com/blank#n92f4ea3496fb420eb5e1bd7c0c8e6e07b5> <http://xmlns.com/foaf/0.1/name> "Pittsburgh Steelers"  <NFL-Al-Jazeera-0> .
+ <http://NFL-Al-Jazeera-0.com/blank#n92f4ea3496fb420eb5e1bd7c0c8e6e07b1> <http://dbpedia.org/ontology/outcome> "NFL's future in doubt"  <NFL-Al-Jazeera-0> .
+ <http://example.org/ns#RaceNorming> <http://dbpedia.org/ontology/controversy> "controversial testing practice"  <NFL-Al-Jazeera-0> .
+ <http://example.org/ns#ConcussionSettlement> <http://dbpedia.org/ontology/party> <http://NFL-Al-Jazeera-0.com/blank#n92f4ea3496fb420eb5e1bd7c0c8e6e07b3>  <NFL-Al-Jazeera-0> .
+ <http://example.org/ns#RaceNorming> <http://dbpedia.org/ontology/purpose> "deny compensation to Black players"  <NFL-Al-Jazeera-0> .
+ <http://example.org/ns#FaultLines> <http://schema.org/name> "Fault Lines"  <NFL-Al-Jazeera-0> .
+ <http://NFL-Al-Jazeera-0.com/blank#n92f4ea3496fb420eb5e1bd7c0c8e6e07b3> <http://dbpedia.org/ontology/team> <http://example.org/ns#PittsburghSteelers> <NFL-Al-Jazeera-0> .
+ <http://example.org/ns#ConcussionSettlement> <http://dbpedia.org/ontology/related> <http://NFL-Al-Jazeera-0.com/blank#n92f4ea3496fb420eb5e1bd7c0c8e6e07b6>  <NFL-Al-Jazeera-0> .
+ <http://example.org/ns#FaultLines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/TVSeries> <NFL-Al-Jazeera-0> .
+ <http://NFL-Al-Jazeera-0.com/blank#n92f4ea3496fb420eb5e1bd7c0c8e6e07b1> <http://dbpedia.org/ontology/related> <http://NFL-Al-Jazeera-0.com/blank#n92f4ea3496fb420eb5e1bd7c0c8e6e07b2>  <NFL-Al-Jazeera-0> .
+ <http://NFL-Al-Jazeera-0.com/blank#n92f4ea3496fb420eb5e1bd7c0c8e6e07b4> <http://xmlns.com/foaf/0.1/name> "Carlton Haselrig's wife"  <NFL-Al-Jazeera-0> .
+ <http://NFL-Al-Jazeera-0.com/blank#n92f4ea3496fb420eb5e1bd7c0c8e6e07b6> <http://schema.org/description> "tells Fault Lines that the NFL put pressure on doctors to change their diagnoses of retired players hoping to qualify for an award from the NFL concussion settlement."  <NFL-Al-Jazeera-0> .
+ <http://example.org/ns#CompensationPromise> <http://schema.org/dateCreated> "2013"  <NFL-Al-Jazeera-0> .
+ <http://example.org/ns#NFL> <http://dbpedia.org/ontology/abbreviation> "NFL"  <NFL-Al-Jazeera-0> .
+ <http://NFL-Al-Jazeera-0.com/blank#n92f4ea3496fb420eb5e1bd7c0c8e6e07b3> <http://xmlns.com/foaf/0.1/name> "Carlton Haselrig"  <NFL-Al-Jazeera-0> .
+ <http://NFL-Al-Jazeera-0.com/blank#n92f4ea3496fb420eb5e1bd7c0c8e6e07b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-Al-Jazeera-0> .
+ <http://NFL-Al-Jazeera-0.com/blank#n92f4ea3496fb420eb5e1bd7c0c8e6e07b1> <http://schema.org/name> "CTE discovery in NFL players"  <NFL-Al-Jazeera-0> .
+ <http://example.org/ns#Bloodsport> <http://dbpedia.org/ontology/abstract> "Bloodsport investigates how the league was able to deny compensation to Black players through a controversial testing practice called 'race-norming'."  <NFL-Al-Jazeera-0> .
+ <http://NFL-Al-Jazeera-0.com/blank#n92f4ea3496fb420eb5e1bd7c0c8e6e07b2> <http://dbpedia.org/ontology/abbreviation> "CTE"  <NFL-Al-Jazeera-0> .
+ <http://NFL-Al-Jazeera-0.com/blank#n92f4ea3496fb420eb5e1bd7c0c8e6e07b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Disease> <NFL-Al-Jazeera-0> .
+ <http://example.org/ns#RaceNorming> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Practice> <NFL-Al-Jazeera-0> .
+ <http://NFL-Al-Jazeera-0.com/blank#n92f4ea3496fb420eb5e1bd7c0c8e6e07b1> <http://dbpedia.org/ontology/time> "a decade ago"  <NFL-Al-Jazeera-0> .
+ <http://NFL-Al-Jazeera-0.com/blank#n92f4ea3496fb420eb5e1bd7c0c8e6e07b3> <http://dbpedia.org/ontology/occupation> "former NFL player"  <NFL-Al-Jazeera-0> .
+ <http://NFL-Al-Jazeera-0.com/blank#n92f4ea3496fb420eb5e1bd7c0c8e6e07b2> <http://xmlns.com/foaf/0.1/name> "Chronic Traumatic Encephalopathy"  <NFL-Al-Jazeera-0> .
+ <http://example.org/ns#CompensationPromise> <http://dbpedia.org/ontology/agent> <http://example.org/ns#NFL> <NFL-Al-Jazeera-0> .
+ <http://example.org/ns#NFL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsLeague> <NFL-Al-Jazeera-0> .
+ <http://NFL-Al-Jazeera-0.com/blank#n92f4ea3496fb420eb5e1bd7c0c8e6e07b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-Al-Jazeera-0> .
+ <http://example.org/ns#ConcussionSettlement> <http://dbpedia.org/ontology/related> <http://NFL-Al-Jazeera-0.com/blank#n92f4ea3496fb420eb5e1bd7c0c8e6e07b5>  <NFL-Al-Jazeera-0> .
+ <http://NFL-Al-Jazeera-0.com/blank#n92f4ea3496fb420eb5e1bd7c0c8e6e07b6> <http://dbpedia.org/ontology/occupation> "neuropsychologist"  <NFL-Al-Jazeera-0> .
+ <http://NFL-Al-Jazeera-0.com/blank#n92f4ea3496fb420eb5e1bd7c0c8e6e07b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <NFL-Al-Jazeera-0> .
+ <http://example.org/ns#CompensationPromise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <NFL-Al-Jazeera-0> .
+ <http://NFL-Al-Jazeera-0.com/blank#n92f4ea3496fb420eb5e1bd7c0c8e6e07b6> <http://dbpedia.org/ontology/occupation> "former NFL-paid doctor"  <NFL-Al-Jazeera-0> .
+ <http://example.org/ns#Bloodsport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/TVSeries> <NFL-Al-Jazeera-0> .
+ <http://example.org/ns#ConcussionSettlement> <http://xmlns.com/foaf/0.1/name> "NFL concussion settlement"  <NFL-Al-Jazeera-0> .
+ <http://example.org/ns#NFL> <http://dbpedia.org/ontology/influence> <http://NFL-Al-Jazeera-0.com/blank#n92f4ea3496fb420eb5e1bd7c0c8e6e07b1>  <NFL-Al-Jazeera-0> .
+ <http://example.org/ns#NFL> <http://xmlns.com/foaf/0.1/name> "National Football League"  <NFL-Al-Jazeera-0> .
+ <http://example.org/ns#Bloodsport> <http://schema.org/name> "Bloodsport"  <NFL-Al-Jazeera-0> .
+ <http://example.org/ns#CompensationPromise> <http://dbpedia.org/ontology/cause> "public pressure"  <NFL-Al-Jazeera-0> .
+ <http://NFL-Al-Jazeera-0.com/blank#n92f4ea3496fb420eb5e1bd7c0c8e6e07b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-Al-Jazeera-0> .
+ <http://NFL-Al-Jazeera-0.com/blank#n92f4ea3496fb420eb5e1bd7c0c8e6e07b5> <http://dbpedia.org/ontology/abbreviation> "ex:PittsburghSteelers"  <NFL-Al-Jazeera-0> .
+ <http://example.org/ns#ConcussionSettlement> <http://dbpedia.org/ontology/related> <http://example.org/ns#RaceNorming> <NFL-Al-Jazeera-0> .
+ <http://NFL-Al-Jazeera-0.com/blank#n92f4ea3496fb420eb5e1bd7c0c8e6e07b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <NFL-Al-Jazeera-0> .
+ <http://example.org/ns#FaultLines> <http://dbpedia.org/ontology/abstract> "Fault Lines investigates how the NFL didn’t compensate players who suffered head trauma playing the most popular US sport."  <NFL-Al-Jazeera-0> .
+ <http://example.org/ns#CompensationPromise> <http://schema.org/description> "The NFL promised to provide money and care to retired NFL players living with CTE and other neurological diseases linked to the game."  <NFL-Al-Jazeera-0> .
+ <http://example.org/ns#RaceNorming> <http://schema.org/name> "race-norming"  <NFL-Al-Jazeera-0> .
+ <http://example.org/ns#ConcussionSettlement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agreement> <NFL-Al-Jazeera-0> .
+ <http://example.org/entities/SeanMcDermott> <http://www.w3.org/2000/01/rdf-schema#label> "Sean McDermott"@en  <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/DamarHamlin> <http://schema.org/position> "Safety"@en  <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/SeanMcDermott> <http://schema.org/jobTitle> "Head Coach"@en  <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/DamarHamlin> <http://schema.org/healthCondition> <http://example.org/entities/CardiacArrest> <NFL-Al-Jazeera-1> .
+ <http://NFL-Al-Jazeera-1.com/blank#nfbddab63e53b4f388d59daa2f62903c0b4> <http://schema.org/procedureType> "Cardiac, neurological and vascular testing"@en  <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/SeanMcDermott> <http://schema.org/memberOf> <http://example.org/entities/BuffaloBills> <NFL-Al-Jazeera-1> .
+ <http://NFL-Al-Jazeera-1.com/blank#nfbddab63e53b4f388d59daa2f62903c0b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsEvent> <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/BuffaloNewYork> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/City> <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/DamarHamlin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/DamarHamlin> <http://schema.org/memberOf> <http://example.org/entities/BuffaloBills> <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/CincinnatiHospital> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Hospital> <NFL-Al-Jazeera-1> .
+ <http://NFL-Al-Jazeera-1.com/blank#nfbddab63e53b4f388d59daa2f62903c0b5> <http://schema.org/author> <http://example.org/entities/DamarHamlin> <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/FormerNFLPlayers> <http://www.w3.org/2000/01/rdf-schema#label> "Former NFL players"@en  <NFL-Al-Jazeera-1> .
+ <http://NFL-Al-Jazeera-1.com/blank#nfbddab63e53b4f388d59daa2f62903c0b7> <http://schema.org/population> <http://example.org/entities/NFLPlayers> <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/CardiacArrest> <http://www.w3.org/2000/01/rdf-schema#label> "Cardiac arrest"@en  <NFL-Al-Jazeera-1> .
+ <http://NFL-Al-Jazeera-1.com/blank#nfbddab63e53b4f388d59daa2f62903c0b1> <http://schema.org/follows> <http://example.org/entities/Defibrillation> <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/CincinnatiBengals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/BuffaloBills> <http://schema.org/sport> "American Football"@en  <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/DamarHamlin> <http://www.w3.org/2000/01/rdf-schema#label> "Damar Hamlin"@en  <NFL-Al-Jazeera-1> .
+ <http://NFL-Al-Jazeera-1.com/blank#nfbddab63e53b4f388d59daa2f62903c0b8> <http://schema.org/population> <http://example.org/entities/FormerNFLPlayers> <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/BuffaloGeneralMedicalCenter> <http://schema.org/location> <http://example.org/entities/BuffaloNewYork> <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/CTE> <http://www.w3.org/2000/01/rdf-schema#label> "Chronic Traumatic Encephalopathy (CTE)"@en  <NFL-Al-Jazeera-1> .
+ <http://NFL-Al-Jazeera-1.com/blank#nfbddab63e53b4f388d59daa2f62903c0b4> <http://schema.org/patient> <http://example.org/entities/DamarHamlin> <NFL-Al-Jazeera-1> .
+ <http://NFL-Al-Jazeera-1.com/blank#nfbddab63e53b4f388d59daa2f62903c0b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Tweet> <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/NFL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsOrganization> <NFL-Al-Jazeera-1> .
+ <http://NFL-Al-Jazeera-1.com/blank#nfbddab63e53b4f388d59daa2f62903c0b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalProcedure> <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/BuffaloGeneralMedicalCenter> <http://www.w3.org/2000/01/rdf-schema#label> "Buffalo General Medical Center"@en  <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/JamieNadler> <http://www.w3.org/2000/01/rdf-schema#label> "Dr. Jamie Nadler"@en  <NFL-Al-Jazeera-1> .
+ <http://NFL-Al-Jazeera-1.com/blank#nfbddab63e53b4f388d59daa2f62903c0b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalCondition> <NFL-Al-Jazeera-1> .
+ <http://NFL-Al-Jazeera-1.com/blank#nfbddab63e53b4f388d59daa2f62903c0b6> <http://schema.org/author> <http://example.org/entities/BuffaloBills> <NFL-Al-Jazeera-1> .
+ <http://NFL-Al-Jazeera-1.com/blank#nfbddab63e53b4f388d59daa2f62903c0b6> <http://schema.org/datePublished> "2023-01-11"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/NFLPlayers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Population> <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/MedicalWorkers> <http://www.w3.org/2000/01/rdf-schema#label> "Medical workers"@en  <NFL-Al-Jazeera-1> .
+ <http://NFL-Al-Jazeera-1.com/blank#nfbddab63e53b4f388d59daa2f62903c0b5> <http://schema.org/datePublished> "2023-01-10"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/BuffaloBills> <http://schema.org/memberOf> <http://example.org/entities/NFL> <NFL-Al-Jazeera-1> .
+ <http://NFL-Al-Jazeera-1.com/blank#nfbddab63e53b4f388d59daa2f62903c0b1> <http://schema.org/agent> <http://example.org/entities/MedicalWorkers> <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/NFLPlayers> <http://www.w3.org/2000/01/rdf-schema#label> "NFL players"@en  <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/SeanMcDermott> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NFL-Al-Jazeera-1> .
+ <http://NFL-Al-Jazeera-1.com/blank#nfbddab63e53b4f388d59daa2f62903c0b8> <http://schema.org/name> "High rates of CTE"@en  <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/MedicalWorkers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NFL-Al-Jazeera-1> .
+ <http://NFL-Al-Jazeera-1.com/blank#nfbddab63e53b4f388d59daa2f62903c0b2> <http://schema.org/eventStatus> <http://schema.org/EventCancelled> <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/CincinnatiHospital> <http://www.w3.org/2000/01/rdf-schema#label> "Hospital in Cincinnati, Ohio"@en  <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/CincinnatiBengals> <http://schema.org/memberOf> <http://example.org/entities/NFL> <NFL-Al-Jazeera-1> .
+ <http://NFL-Al-Jazeera-1.com/blank#nfbddab63e53b4f388d59daa2f62903c0b7> <http://schema.org/possibleCause> "Impact to the chest interfering with heart's regular rhythm"@en  <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/FormerNFLPlayers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Population> <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/CTE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalCondition> <NFL-Al-Jazeera-1> .
+ <http://NFL-Al-Jazeera-1.com/blank#nfbddab63e53b4f388d59daa2f62903c0b1> <http://schema.org/usedToTreat> <http://example.org/entities/CardiacArrest> <NFL-Al-Jazeera-1> .
+ <http://NFL-Al-Jazeera-1.com/blank#nfbddab63e53b4f388d59daa2f62903c0b3> <http://schema.org/competitor> <http://example.org/entities/BuffaloBills> <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/BuffaloBills> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <NFL-Al-Jazeera-1> .
+ <http://NFL-Al-Jazeera-1.com/blank#nfbddab63e53b4f388d59daa2f62903c0b2> <http://schema.org/subEvent> <http://NFL-Al-Jazeera-1.com/blank#nfbddab63e53b4f388d59daa2f62903c0b3>  <NFL-Al-Jazeera-1> .
+ <http://NFL-Al-Jazeera-1.com/blank#nfbddab63e53b4f388d59daa2f62903c0b3> <http://schema.org/competitor> <http://example.org/entities/CincinnatiBengals> <NFL-Al-Jazeera-1> .
+ <http://NFL-Al-Jazeera-1.com/blank#nfbddab63e53b4f388d59daa2f62903c0b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalCondition> <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/JamieNadler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NFL-Al-Jazeera-1> .
+ <http://NFL-Al-Jazeera-1.com/blank#nfbddab63e53b4f388d59daa2f62903c0b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Tweet> <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/MiamiDolphins> <http://schema.org/memberOf> <http://example.org/entities/NFL> <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/BuffaloGeneralMedicalCenter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Hospital> <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/BuffaloNewYork> <http://www.w3.org/2000/01/rdf-schema#label> "Buffalo, New York"@en  <NFL-Al-Jazeera-1> .
+ <http://NFL-Al-Jazeera-1.com/blank#nfbddab63e53b4f388d59daa2f62903c0b4> <http://schema.org/agent> <http://example.org/entities/JamieNadler> <NFL-Al-Jazeera-1> .
+ <http://NFL-Al-Jazeera-1.com/blank#nfbddab63e53b4f388d59daa2f62903c0b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalProcedure> <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/CardiacArrest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalCondition> <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/Defibrillation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalProcedure> <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/CincinnatiBengals> <http://www.w3.org/2000/01/rdf-schema#label> "Cincinnati Bengals"@en  <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/DamarHamlin> <http://schema.org/birthDate> "1998"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/Defibrillation> <http://schema.org/procedureType> "Automatic External Defibrillation"@en  <NFL-Al-Jazeera-1> .
+ <http://NFL-Al-Jazeera-1.com/blank#nfbddab63e53b4f388d59daa2f62903c0b6> <http://schema.org/text> "An amazing Damar Hamlin update. ❤️💙"@en  <NFL-Al-Jazeera-1> .
+ <http://NFL-Al-Jazeera-1.com/blank#nfbddab63e53b4f388d59daa2f62903c0b5> <http://schema.org/text> "Not home quite just yet. Keep me in y’all prayers please!"@en  <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/NFL> <http://www.w3.org/2000/01/rdf-schema#label> "National Football League"@en  <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/JamieNadler> <http://schema.org/jobTitle> "Doctor"@en  <NFL-Al-Jazeera-1> .
+ <http://NFL-Al-Jazeera-1.com/blank#nfbddab63e53b4f388d59daa2f62903c0b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/MiamiDolphins> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/BuffaloBills> <http://www.w3.org/2000/01/rdf-schema#label> "Buffalo Bills"@en  <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/DamarHamlin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Athlete> <NFL-Al-Jazeera-1> .
+ <http://example.org/entities/MiamiDolphins> <http://www.w3.org/2000/01/rdf-schema#label> "Miami Dolphins"@en  <NFL-Al-Jazeera-1> .
+ <http://NFL-Al-Jazeera-1.com/blank#nfbddab63e53b4f388d59daa2f62903c0b1> <http://schema.org/procedureType> "CPR"@en  <NFL-Al-Jazeera-1> .
+ <http://NFL-Al-Jazeera-1.com/blank#nfbddab63e53b4f388d59daa2f62903c0b2> <http://schema.org/startDate> "2023-01-02"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-Al-Jazeera-1> .
+ <http://example.org/ns#RobertSaleh> <http://example.org/ns#previousOccupation> <http://example.org/ns#BankingIndustry> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#RobertSaleh> <http://dbpedia.org/ontology/almaMater> <http://example.org/ns#FordsonHighSchool> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#RobertSaleh> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Dearborn_Michigan> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#FouadZaban> <http://xmlns.com/foaf/0.1/name> "Fouad Zaban"  <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#YoussefMosallam> <http://dbpedia.org/ontology/employer> <http://example.org/ns#FordsonHighSchool> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#DavidSaleh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#DavidSaleh> <http://example.org/ns#relationship> <http://example.org/ns#RobertSaleh> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#SanFrancisco49ers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#RobertSaleh> <http://example.org/ns#coachedBy> <http://example.org/ns#JeffStergalas> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#FormerPrincipal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#ArabAmerican> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EthnicGroup> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#FordsonHighSchool> <http://example.org/ns#studentBodyEthnicity> <http://example.org/ns#ArabAmerican> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#BankingIndustry> <http://dbpedia.org/ontology/productOrService> <http://dbpedia.org/resource/Banking> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#FordsonHighSchool> <http://dbpedia.org/ontology/foundedBy> <http://dbpedia.org/resource/Ford_Motor_Company> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#MetLifeStadium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Stadium> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#JeffStergalas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#JeffStergalas> <http://dbpedia.org/ontology/occupation> <http://example.org/ns#Coach> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#MetLifeStadium> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/New_Jersey> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#HeadCoach> <http://www.w3.org/2000/01/rdf-schema#label> "Head Coach"@en  <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#JeffStergalas> <http://xmlns.com/foaf/0.1/name> "Jeff Stergalas"  <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#RobertSaleh> <http://example.org/ns#familyEmigratedFrom> <http://dbpedia.org/resource/Lebanon> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#FormerPrincipal> <http://www.w3.org/2000/01/rdf-schema#label> "Former Principal"@en  <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#FordsonHighSchool> <http://example.org/ns#studentBodyPercentageArabHeritage> "90"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#New_York_Jets> <http://dbpedia.org/ontology/coach> <http://example.org/ns#RobertSaleh> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#BuffaloBills> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#SanFrancisco49ers> <http://dbpedia.org/ontology/league> <http://dbpedia.org/resource/National_Football_League> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#FouadZaban> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Lebanon> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#BuffaloBills> <http://dbpedia.org/ontology/league> <http://dbpedia.org/resource/National_Football_League> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#BuffaloBills> <http://dbpedia.org/ontology/teamName> "Buffalo Bills"  <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#WorldTradeCenter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Building> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#ArabAmerican> <http://www.w3.org/2000/01/rdf-schema#label> "Arab American"@en  <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#WorldTradeCenter> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/New_York_City> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#RobertSaleh> <http://dbpedia.org/ontology/occupation> <http://example.org/ns#HeadCoach> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#DavidSaleh> <http://example.org/ns#survived911> <http://example.org/ns#WorldTradeCenter> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#FordsonHighSchool> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#FouadZaban> <http://dbpedia.org/ontology/occupation> <http://example.org/ns#HeadCoach> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#FordsonHighSchoolFootballTeam> <http://dbpedia.org/ontology/teamName> "Fordson Tractors"  <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#BankingIndustry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Industry> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#HeadCoach> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#RobertSaleh> <http://dbpedia.org/ontology/religion> <http://dbpedia.org/resource/Islam> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#YoussefMosallam> <http://dbpedia.org/ontology/occupation> <http://example.org/ns#FormerPrincipal> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#RobertSaleh> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/New_York_Jets> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#YoussefMosallam> <http://xmlns.com/foaf/0.1/name> "Youssef Mosallam"  <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#FordsonHighSchool> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Dearborn_Michigan> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#RobertSaleh> <http://dbpedia.org/ontology/ethnicity> <http://example.org/ns#ArabAmerican> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#Coach> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#YoussefMosallam> <http://example.org/ns#stateChampionshipWin> "1993"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#RobertSaleh> <http://example.org/ns#coachedTeam> <http://example.org/ns#SanFrancisco49ers> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#RobertSaleh> <http://dbpedia.org/ontology/birthDate> "1979-01-31"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#FordsonHighSchoolFootballTeam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#DavidSaleh> <http://xmlns.com/foaf/0.1/name> "David Saleh"  <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#FouadZaban> <http://dbpedia.org/ontology/employer> <http://example.org/ns#FordsonHighSchoolFootballTeam> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#Coach> <http://www.w3.org/2000/01/rdf-schema#label> "Coach"@en  <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#FordsonHighSchoolFootballTeam> <http://dbpedia.org/ontology/coach> <http://example.org/ns#FouadZaban> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#RobertSaleh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#YoussefMosallam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#SanFrancisco49ers> <http://dbpedia.org/ontology/teamName> "San Francisco 49ers"  <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#RobertSaleh> <http://example.org/ns#significantDate> "2001-09-11"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#FordsonHighSchool> <http://dbpedia.org/ontology/foundingDate> "1920s"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#YoussefMosallam> <http://example.org/ns#playedFootballDuring> "1990s"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#RobertSaleh> <http://xmlns.com/foaf/0.1/name> "Robert Saleh"  <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#FordsonHighSchoolFootballTeam> <http://example.org/ns#percentageArabDescentPlayers> "95"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#FouadZaban> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#New_York_Jets> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#New_York_Jets> <http://dbpedia.org/ontology/teamName> "New York Jets"  <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#JeffStergalas> <http://dbpedia.org/ontology/employer> <http://example.org/ns#FordsonHighSchool> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#New_York_Jets> <http://dbpedia.org/ontology/league> <http://dbpedia.org/resource/National_Football_League> <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#RobertSaleh> <http://example.org/ns#superBowlParticipation> "2020"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NFL-Al-Jazeera-2> .
+ <http://example.org/ns#RobertSaleh> <http://example.org/ns#yearsOfExperience> "2"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-Al-Jazeera-2> .
+ <http://dbpedia.org/resource/New_England_Patriots> <http://dbpedia.org/ontology/sport> <http://dbpedia.org/resource/American_football> <NFL-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/NFL_Most_Valuable_Player_Award> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> <NFL-Al-Jazeera-3> .
+ <http://NFL-Al-Jazeera-3.com/blank#n28df4256f3c94771a82b2e623ce65288b2> <http://dbpedia.org/ontology/numberOfMatches> "3"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-Al-Jazeera-3> .
+ <http://NFL-Al-Jazeera-3.com/blank#n28df4256f3c94771a82b2e623ce65288b1> <http://dbpedia.org/ontology/years> "2000-2019"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-Al-Jazeera-3> .
+ <http://example.org/GiseleBundchen> <http://dbpedia.org/ontology/profession> <http://dbpedia.org/resource/Modeling> <NFL-Al-Jazeera-3> .
+ <http://example.org/TomBrady> <http://dbpedia.org/ontology/careerStation> <http://NFL-Al-Jazeera-3.com/blank#n28df4256f3c94771a82b2e623ce65288b1>  <NFL-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/New_England_Patriots> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NFL-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Tampa_Bay_Buccaneers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NFL-Al-Jazeera-3> .
+ <http://NFL-Al-Jazeera-3.com/blank#n28df4256f3c94771a82b2e623ce65288b1> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/New_England_Patriots> <NFL-Al-Jazeera-3> .
+ <http://example.org/GiseleBundchen> <http://xmlns.com/foaf/0.1/name> "Gisele Bundchen"  <NFL-Al-Jazeera-3> .
+ <http://example.org/TomBrady> <http://xmlns.com/foaf/0.1/name> "Tom Brady"  <NFL-Al-Jazeera-3> .
+ <http://example.org/TomBrady> <http://dbpedia.org/ontology/passingYards> "89214"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-Al-Jazeera-3> .
+ <http://example.org/TomBrady> <http://schema.org/futureEmployer> <http://dbpedia.org/resource/Fox_Sports> <NFL-Al-Jazeera-3> .
+ <http://example.org/GiseleBundchen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-Al-Jazeera-3> .
+ <http://example.org/TomBrady> <http://dbpedia.org/ontology/playoffTouchdowns> "88"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-Al-Jazeera-3> .
+ <http://example.org/TomBrady> <http://dbpedia.org/ontology/SuperBowlMVPs> "5"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-Al-Jazeera-3> .
+ <http://example.org/GiseleBundchen> <http://dbpedia.org/ontology/marriageUnionWith> <http://example.org/TomBrady> <NFL-Al-Jazeera-3> .
+ <http://example.org/TomBrady> <http://dbpedia.org/ontology/retirementAge> "23"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-Al-Jazeera-3> .
+ <http://example.org/TomBrady> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <https://twitter.com/TomBrady/status/1620827859912744960> <NFL-Al-Jazeera-3> .
+ <http://example.org/TomBrady> <http://schema.org/retirementAnnouncementDate> "2023-02-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-Al-Jazeera-3> .
+ <http://example.org/TomBrady> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/NFL_Most_Valuable_Player_Award> <NFL-Al-Jazeera-3> .
+ <http://example.org/TomBrady> <http://dbpedia.org/ontology/SuperBowlWins> "7"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-Al-Jazeera-3> .
+ <http://example.org/TomBrady> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Super_Bowl_Most_Valuable_Player_Award> <NFL-Al-Jazeera-3> .
+ <http://example.org/TomBrady> <http://dbpedia.org/ontology/ProBowlSelections> "15"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-Al-Jazeera-3> .
+ <http://example.org/TomBrady> <http://dbpedia.org/ontology/touchdowns> "649"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-Al-Jazeera-3> .
+ <http://example.org/TomBrady> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-Al-Jazeera-3> .
+ <http://example.org/TomBrady> <http://schema.org/employmentContract> <http://NFL-Al-Jazeera-3.com/blank#n28df4256f3c94771a82b2e623ce65288b3>  <NFL-Al-Jazeera-3> .
+ <http://example.org/TomBrady> <http://dbpedia.org/ontology/divorceDate> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NFL-Al-Jazeera-3> .
+ <http://NFL-Al-Jazeera-3.com/blank#n28df4256f3c94771a82b2e623ce65288b1> <http://dbpedia.org/ontology/numberOfMatches> "20"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-Al-Jazeera-3> .
+ <http://example.org/GiseleBundchen> <http://dbpedia.org/ontology/marriageSpan> "2009-2022"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Fox_Sports> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Broadcaster> <NFL-Al-Jazeera-3> .
+ <http://example.org/TomBrady> <http://dbpedia.org/ontology/championships> "7"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-Al-Jazeera-3> .
+ <http://example.org/TomBrady> <http://dbpedia.org/ontology/AllProSelections> "3"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-Al-Jazeera-3> .
+ <http://NFL-Al-Jazeera-3.com/blank#n28df4256f3c94771a82b2e623ce65288b3> <http://schema.org/duration> "10"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-Al-Jazeera-3> .
+ <http://example.org/TomBrady> <http://dbpedia.org/ontology/playoffPassingYards> "13400"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-Al-Jazeera-3> .
+ <http://example.org/TomBrady> <http://dbpedia.org/ontology/spouse> <http://example.org/GiseleBundchen> <NFL-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Tampa_Bay_Buccaneers> <http://dbpedia.org/ontology/sport> <http://dbpedia.org/resource/American_football> <NFL-Al-Jazeera-3> .
+ <http://NFL-Al-Jazeera-3.com/blank#n28df4256f3c94771a82b2e623ce65288b3> <http://schema.org/salary> "375000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <NFL-Al-Jazeera-3> .
+ <http://example.org/TomBrady> <http://dbpedia.org/ontology/careerStation> <http://NFL-Al-Jazeera-3.com/blank#n28df4256f3c94771a82b2e623ce65288b2>  <NFL-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Super_Bowl_Most_Valuable_Player_Award> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> <NFL-Al-Jazeera-3> .
+ <http://example.org/TomBrady> <http://dbpedia.org/ontology/leagueMVPs> "3"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-Al-Jazeera-3> .
+ <http://NFL-Al-Jazeera-3.com/blank#n28df4256f3c94771a82b2e623ce65288b2> <http://dbpedia.org/ontology/years> "2020-2022"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-Al-Jazeera-3> .
+ <http://NFL-Al-Jazeera-3.com/blank#n28df4256f3c94771a82b2e623ce65288b2> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Tampa_Bay_Buccaneers> <NFL-Al-Jazeera-3> .
+ <http://example.org/ontology/JimBrown> <http://dbpedia.org/ontology/weight> "230 pounds"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/JimBrown> <http://dbpedia.org/ontology/spouse> <http://example.org/ontology/MoniqueBrown> <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/JimBrown> <http://dbpedia.org/ontology/child> <http://example.org/ontology/ChildrenWithSue> <NFL-Al-Jazeera-4> .
+ <http://NFL-Al-Jazeera-4.com/blank#nccd4569a839e42d2b3cba9c750391d94b6> <http://dbpedia.org/ontology/sentence> "6 months in jail"  <NFL-Al-Jazeera-4> .
+ <http://NFL-Al-Jazeera-4.com/blank#nccd4569a839e42d2b3cba9c750391d94b1> <http://dbpedia.org/ontology/record> "12,312 yards"  <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/CivilRightsMovement> <http://xmlns.com/foaf/0.1/name> "Civil Rights Movement"  <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/JimBrown> <http://dbpedia.org/ontology/child> <http://example.org/ontology/ChildWithMonique> <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/BillRussell> <http://xmlns.com/foaf/0.1/name> "Bill Russell"  <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/BillRussell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/JimBrown> <http://dbpedia.org/ontology/careerStation> <http://NFL-Al-Jazeera-4.com/blank#nccd4569a839e42d2b3cba9c750391d94b1>  <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/MuhammadAli> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/AmerICan> <http://xmlns.com/foaf/0.1/name> "Amer-I-Can"  <NFL-Al-Jazeera-4> .
+ <http://NFL-Al-Jazeera-4.com/blank#nccd4569a839e42d2b3cba9c750391d94b2> <http://dbpedia.org/ontology/associatedWith> <http://example.org/ontology/LewAlcindor> <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/JimBrown> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Actor> <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/LewAlcindor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/TheDirtyDozen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/LewAlcindor> <http://xmlns.com/foaf/0.1/name> "Lew Alcindor"  <NFL-Al-Jazeera-4> .
+ <http://NFL-Al-Jazeera-4.com/blank#nccd4569a839e42d2b3cba9c750391d94b6> <http://dbpedia.org/ontology/arrestCount> "6"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-Al-Jazeera-4> .
+ <http://NFL-Al-Jazeera-4.com/blank#nccd4569a839e42d2b3cba9c750391d94b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Advocacy> <NFL-Al-Jazeera-4> .
+ <http://NFL-Al-Jazeera-4.com/blank#nccd4569a839e42d2b3cba9c750391d94b3> <http://dbpedia.org/ontology/film> <http://example.org/ontology/TheDirtyDozen> <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/ChildrenWithSue> <http://www.w3.org/2000/01/rdf-schema#label> "Children with Sue Brown"  <NFL-Al-Jazeera-4> .
+ <http://NFL-Al-Jazeera-4.com/blank#nccd4569a839e42d2b3cba9c750391d94b2> <http://dbpedia.org/ontology/associatedWith> <http://example.org/ontology/MuhammadAli> <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/TheDirtyDozen> <http://schema.org/name> "The Dirty Dozen"  <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/JimBrown> <http://dbpedia.org/ontology/award> <http://example.org/ontology/NFLMostValuablePlayer1965> <NFL-Al-Jazeera-4> .
+ <http://NFL-Al-Jazeera-4.com/blank#nccd4569a839e42d2b3cba9c750391d94b1> <http://dbpedia.org/ontology/record> "126 touchdowns"  <NFL-Al-Jazeera-4> .
+ <http://NFL-Al-Jazeera-4.com/blank#nccd4569a839e42d2b3cba9c750391d94b2> <http://www.w3.org/2000/01/rdf-schema#label> "The Cleveland Summit"  <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/CivilRightsMovement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SocialMovement> <NFL-Al-Jazeera-4> .
+ <http://NFL-Al-Jazeera-4.com/blank#nccd4569a839e42d2b3cba9c750391d94b6> <http://dbpedia.org/ontology/conviction> "misdemeanour vandalism"  <NFL-Al-Jazeera-4> .
+ <http://NFL-Al-Jazeera-4.com/blank#nccd4569a839e42d2b3cba9c750391d94b1> <http://dbpedia.org/ontology/team> <http://example.org/ontology/ClevelandBrowns> <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/NFLMostValuablePlayer1965> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/ChildWithMonique> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/AnyGivenSunday> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/JimBrown> <http://dbpedia.org/ontology/deathDate> "2023-03-23"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/SueBrown> <http://xmlns.com/foaf/0.1/name> "Sue Brown"  <NFL-Al-Jazeera-4> .
+ <http://NFL-Al-Jazeera-4.com/blank#nccd4569a839e42d2b3cba9c750391d94b2> <http://dbpedia.org/ontology/date> "1967-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/JimBrown> <http://dbpedia.org/ontology/team> <http://example.org/ontology/ClevelandBrowns> <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/JimBrown> <http://dbpedia.org/ontology/height> "6ft 2in"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-Al-Jazeera-4> .
+ <http://NFL-Al-Jazeera-4.com/blank#nccd4569a839e42d2b3cba9c750391d94b1> <http://dbpedia.org/ontology/years> "1957-1965"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/JimBrown> <http://dbpedia.org/ontology/position> "Running back"  <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/ProFootballHallOfFame> <http://xmlns.com/foaf/0.1/name> "Pro Football Hall of Famer"  <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/StSimonsIsland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/JimBrown> <http://example.org/ontology/legalIssues> <http://NFL-Al-Jazeera-4.com/blank#nccd4569a839e42d2b3cba9c750391d94b6>  <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/ProFootballHallOfFame> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/JimBrown> <http://example.org/ontology/actingCareer> <http://NFL-Al-Jazeera-4.com/blank#nccd4569a839e42d2b3cba9c750391d94b3>  <NFL-Al-Jazeera-4> .
+ <http://NFL-Al-Jazeera-4.com/blank#nccd4569a839e42d2b3cba9c750391d94b6> <http://dbpedia.org/ontology/charge> "misdemeanour vandalism"  <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/ClevelandBrowns> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NFL-Al-Jazeera-4> .
+ <http://NFL-Al-Jazeera-4.com/blank#nccd4569a839e42d2b3cba9c750391d94b1> <http://dbpedia.org/ontology/record> "NFL title in 1964"  <NFL-Al-Jazeera-4> .
+ <http://NFL-Al-Jazeera-4.com/blank#nccd4569a839e42d2b3cba9c750391d94b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CareerStation> <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/ChildWithMonique> <http://www.w3.org/2000/01/rdf-schema#label> "Child with Monique Brown"  <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/MoniqueBrown> <http://xmlns.com/foaf/0.1/name> "Monique Brown"  <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/JimBrown> <http://dbpedia.org/ontology/birthPlace> <http://example.org/ontology/StSimonsIsland> <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/SueBrown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-Al-Jazeera-4> .
+ <http://NFL-Al-Jazeera-4.com/blank#nccd4569a839e42d2b3cba9c750391d94b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/CommunityWork> <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/ClevelandBrowns> <http://xmlns.com/foaf/0.1/name> "Cleveland Browns"  <NFL-Al-Jazeera-4> .
+ <http://NFL-Al-Jazeera-4.com/blank#nccd4569a839e42d2b3cba9c750391d94b3> <http://dbpedia.org/ontology/filmCount> "30"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-Al-Jazeera-4> .
+ <http://NFL-Al-Jazeera-4.com/blank#nccd4569a839e42d2b3cba9c750391d94b5> <http://dbpedia.org/ontology/foundationYear> "1988"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/JimBrown> <http://example.org/ontology/advocacy> <http://NFL-Al-Jazeera-4.com/blank#nccd4569a839e42d2b3cba9c750391d94b4>  <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/JimBrown> <http://dbpedia.org/ontology/deathPlace> <http://example.org/ontology/LosAngeles> <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/JimBrown> <http://dbpedia.org/ontology/birthDate> "1936-02-17"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-Al-Jazeera-4> .
+ <http://NFL-Al-Jazeera-4.com/blank#nccd4569a839e42d2b3cba9c750391d94b1> <http://dbpedia.org/ontology/number> "32"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/ChildrenWithSue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/MuhammadAli> <http://xmlns.com/foaf/0.1/name> "Muhammad Ali"  <NFL-Al-Jazeera-4> .
+ <http://NFL-Al-Jazeera-4.com/blank#nccd4569a839e42d2b3cba9c750391d94b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/LegalIssues> <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/JimBrown> <http://xmlns.com/foaf/0.1/name> "Jim Brown"  <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/StSimonsIsland> <http://xmlns.com/foaf/0.1/name> "St Simons Island, Georgia"  <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/ClevelandBrowns> <http://dbpedia.org/ontology/sport> <http://dbpedia.org/ontology/AmericanFootball> <NFL-Al-Jazeera-4> .
+ <http://NFL-Al-Jazeera-4.com/blank#nccd4569a839e42d2b3cba9c750391d94b4> <http://dbpedia.org/ontology/associatedWith> <http://example.org/ontology/CivilRightsMovement> <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/JimBrown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/AmerICan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <NFL-Al-Jazeera-4> .
+ <http://NFL-Al-Jazeera-4.com/blank#nccd4569a839e42d2b3cba9c750391d94b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/ActingCareer> <NFL-Al-Jazeera-4> .
+ <http://NFL-Al-Jazeera-4.com/blank#nccd4569a839e42d2b3cba9c750391d94b5> <http://dbpedia.org/ontology/organisation> <http://example.org/ontology/AmerICan> <NFL-Al-Jazeera-4> .
+ <http://NFL-Al-Jazeera-4.com/blank#nccd4569a839e42d2b3cba9c750391d94b3> <http://dbpedia.org/ontology/film> <http://example.org/ontology/AnyGivenSunday> <NFL-Al-Jazeera-4> .
+ <http://NFL-Al-Jazeera-4.com/blank#nccd4569a839e42d2b3cba9c750391d94b1> <http://dbpedia.org/ontology/gamesPlayed> "118"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/JimBrown> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/CivilRightsAdvocate> <NFL-Al-Jazeera-4> .
+ <http://NFL-Al-Jazeera-4.com/blank#nccd4569a839e42d2b3cba9c750391d94b4> <http://www.w3.org/2000/01/rdf-schema#label> "Civil rights advocacy"  <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/LosAngeles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <NFL-Al-Jazeera-4> .
+ <http://NFL-Al-Jazeera-4.com/blank#nccd4569a839e42d2b3cba9c750391d94b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Activism> <NFL-Al-Jazeera-4> .
+ <http://NFL-Al-Jazeera-4.com/blank#nccd4569a839e42d2b3cba9c750391d94b2> <http://dbpedia.org/ontology/associatedWith> <http://example.org/ontology/BillRussell> <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/NFLMostValuablePlayer1965> <http://xmlns.com/foaf/0.1/name> "NFL's Most Valuable Player 1965"  <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/JimBrown> <http://example.org/ontology/communityWork> <http://NFL-Al-Jazeera-4.com/blank#nccd4569a839e42d2b3cba9c750391d94b5>  <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/MoniqueBrown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/LosAngeles> <http://xmlns.com/foaf/0.1/name> "Los Angeles"  <NFL-Al-Jazeera-4> .
+ <http://NFL-Al-Jazeera-4.com/blank#nccd4569a839e42d2b3cba9c750391d94b6> <http://dbpedia.org/ontology/charge> "domestic threats"  <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/JimBrown> <http://example.org/ontology/activism> <http://NFL-Al-Jazeera-4.com/blank#nccd4569a839e42d2b3cba9c750391d94b2>  <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/AnyGivenSunday> <http://schema.org/name> "Any Given Sunday"  <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/JimBrown> <http://dbpedia.org/ontology/spouse> <http://example.org/ontology/SueBrown> <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/JimBrown> <http://dbpedia.org/ontology/award> <http://example.org/ontology/ProFootballHallOfFame> <NFL-Al-Jazeera-4> .
+ <http://example.org/ontology/LewAlcindor> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <https://en.wikipedia.org/wiki/Kareem_Abdul-Jabbar> <NFL-Al-Jazeera-4> .
+ <http://example.org/HeadCoach> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <NFL-Al-Jazeera-5> .
+ <http://example.org/Cincinnati> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/City> <NFL-Al-Jazeera-5> .
+ <http://example.org/DamarHamlin> <http://schema.org/healthCondition> <http://example.org/CardiacArrestCondition> <NFL-Al-Jazeera-5> .
+ <http://example.org/GameBuffaloBillsVsNewEnglandPatriots> <http://dbpedia.org/ontology/sport> <http://dbpedia.org/ontology/AmericanFootball> <NFL-Al-Jazeera-5> .
+ <http://example.org/CardiacArrestCondition> <http://schema.org/signOrSymptom> <http://example.org/Collapse> <NFL-Al-Jazeera-5> .
+ <http://example.org/Buffalo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/City> <NFL-Al-Jazeera-5> .
+ <http://example.org/GameBuffaloBillsVsNewEnglandPatriots> <http://dbpedia.org/ontology/participants> <http://example.org/BuffaloBills> <NFL-Al-Jazeera-5> .
+ <http://example.org/NationalFootballLeague> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsLeague> <NFL-Al-Jazeera-5> .
+ <http://example.org/BuffaloGeneralMedicalCenter> <http://dbpedia.org/ontology/location> <http://example.org/Buffalo> <NFL-Al-Jazeera-5> .
+ <http://example.org/DamarHamlin> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <https://twitter.com/HamlinIsland> <NFL-Al-Jazeera-5> .
+ <http://example.org/UniversityOfCincinnatiMedicalCenter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Hospital> <NFL-Al-Jazeera-5> .
+ <http://example.org/BuffaloBills> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NFL-Al-Jazeera-5> .
+ <http://example.org/CincinnatiBengals> <http://dbpedia.org/ontology/sport> <http://dbpedia.org/ontology/AmericanFootball> <NFL-Al-Jazeera-5> .
+ <http://example.org/AmericanFootball> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Sport> <NFL-Al-Jazeera-5> .
+ <http://example.org/DamarHamlin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-Al-Jazeera-5> .
+ <http://example.org/TimothyPritts> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Doctor> <NFL-Al-Jazeera-5> .
+ <http://example.org/DamarHamlin> <http://dbpedia.org/ontology/occupation> <http://example.org/FootballPlayer> <NFL-Al-Jazeera-5> .
+ <http://example.org/GameBuffaloBillsVsCincinnatiBengals> <http://dbpedia.org/ontology/participants> <http://example.org/BuffaloBills> <NFL-Al-Jazeera-5> .
+ <http://example.org/Cincinnati> <http://dbpedia.org/ontology/country> <http://example.org/UnitedStates> <NFL-Al-Jazeera-5> .
+ <http://example.org/ZacTaylor> <http://dbpedia.org/ontology/occupation> <http://example.org/HeadCoach> <NFL-Al-Jazeera-5> .
+ <http://example.org/Collapse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalSignOrSymptom> <NFL-Al-Jazeera-5> .
+ <http://example.org/UniversityOfCincinnatiMedicalCenter> <http://dbpedia.org/ontology/location> <http://example.org/Cincinnati> <NFL-Al-Jazeera-5> .
+ <http://example.org/BuffaloGeneralMedicalCenter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Hospital> <NFL-Al-Jazeera-5> .
+ <http://example.org/DamarHamlin> <http://dbpedia.org/ontology/team> <http://example.org/BuffaloBills> <NFL-Al-Jazeera-5> .
+ <http://example.org/Buffalo> <http://dbpedia.org/ontology/country> <http://example.org/UnitedStates> <NFL-Al-Jazeera-5> .
+ <http://example.org/TimothyPritts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-Al-Jazeera-5> .
+ <http://example.org/WilliamKnight> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Doctor> <NFL-Al-Jazeera-5> .
+ <http://example.org/TimothyPritts> <http://dbpedia.org/ontology/worksFor> <http://example.org/UniversityOfCincinnatiMedicalCenter> <NFL-Al-Jazeera-5> .
+ <http://example.org/WilliamKnight> <http://xmlns.com/foaf/0.1/name> "Dr William Knight"  <NFL-Al-Jazeera-5> .
+ <http://example.org/ZacTaylor> <http://dbpedia.org/ontology/team> <http://example.org/CincinnatiBengals> <NFL-Al-Jazeera-5> .
+ <http://example.org/WilliamKnight> <http://dbpedia.org/ontology/worksFor> <http://example.org/UniversityOfCincinnatiMedicalCenter> <NFL-Al-Jazeera-5> .
+ <http://example.org/NewEnglandPatriots> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NFL-Al-Jazeera-5> .
+ <http://example.org/BuffaloBills> <http://dbpedia.org/ontology/teamName> "Buffalo Bills"  <NFL-Al-Jazeera-5> .
+ <http://example.org/NewEnglandPatriots> <http://dbpedia.org/ontology/teamName> "New England Patriots"  <NFL-Al-Jazeera-5> .
+ <http://example.org/WilliamKnight> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-Al-Jazeera-5> .
+ <http://example.org/CardiacArrestCondition> <http://schema.org/name> "Cardiac Arrest"  <NFL-Al-Jazeera-5> .
+ <http://example.org/BuffaloGeneralMedicalCenter> <http://dbpedia.org/ontology/name> "Buffalo General Medical Center"  <NFL-Al-Jazeera-5> .
+ <http://example.org/BuffaloBills> <http://dbpedia.org/ontology/sport> <http://dbpedia.org/ontology/AmericanFootball> <NFL-Al-Jazeera-5> .
+ <http://example.org/UnitedStates> <http://dbpedia.org/ontology/name> "United States"  <NFL-Al-Jazeera-5> .
+ <http://example.org/TimothyPritts> <http://xmlns.com/foaf/0.1/name> "Dr Timothy Pritts"  <NFL-Al-Jazeera-5> .
+ <http://example.org/ZacTaylor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-Al-Jazeera-5> .
+ <http://example.org/DamarHamlin> <http://xmlns.com/foaf/0.1/name> "Damar Hamlin"  <NFL-Al-Jazeera-5> .
+ <http://example.org/FootballPlayer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <NFL-Al-Jazeera-5> .
+ <http://example.org/GameBuffaloBillsVsNewEnglandPatriots> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <NFL-Al-Jazeera-5> .
+ <http://example.org/CardiacArrestCondition> <http://schema.org/associatedAnatomy> <http://schema.org/Heart> <NFL-Al-Jazeera-5> .
+ <http://example.org/Collapse> <http://schema.org/name> "Collapse"  <NFL-Al-Jazeera-5> .
+ <http://example.org/CardiacArrestCondition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalCondition> <NFL-Al-Jazeera-5> .
+ <http://example.org/ZacTaylor> <http://xmlns.com/foaf/0.1/name> "Zac Taylor"  <NFL-Al-Jazeera-5> .
+ <http://example.org/GameBuffaloBillsVsNewEnglandPatriots> <http://dbpedia.org/ontology/participants> <http://example.org/NewEnglandPatriots> <NFL-Al-Jazeera-5> .
+ <http://example.org/GameBuffaloBillsVsCincinnatiBengals> <http://dbpedia.org/ontology/participants> <http://example.org/CincinnatiBengals> <NFL-Al-Jazeera-5> .
+ <http://example.org/NewEnglandPatriots> <http://dbpedia.org/ontology/sport> <http://dbpedia.org/ontology/AmericanFootball> <NFL-Al-Jazeera-5> .
+ <http://example.org/GameBuffaloBillsVsCincinnatiBengals> <http://dbpedia.org/ontology/sport> <http://dbpedia.org/ontology/AmericanFootball> <NFL-Al-Jazeera-5> .
+ <http://example.org/DamarHamlin> <http://dbpedia.org/ontology/birthDate> "1998-03-24"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-Al-Jazeera-5> .
+ <http://example.org/NationalFootballLeague> <http://dbpedia.org/ontology/abbreviation> "NFL"  <NFL-Al-Jazeera-5> .
+ <http://example.org/GameBuffaloBillsVsCincinnatiBengals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <NFL-Al-Jazeera-5> .
+ <http://example.org/CincinnatiBengals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NFL-Al-Jazeera-5> .
+ <http://example.org/CincinnatiBengals> <http://dbpedia.org/ontology/teamName> "Cincinnati Bengals"  <NFL-Al-Jazeera-5> .
+ <http://example.org/UnitedStates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <NFL-Al-Jazeera-5> .
+ <http://example.org/GameBuffaloBillsVsCincinnatiBengals> <http://dbpedia.org/ontology/eventDate> "2023-01-02"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-Al-Jazeera-5> .
+ <http://example.org/AmericanFootball> <http://dbpedia.org/ontology/name> "American Football"  <NFL-Al-Jazeera-5> .
+ <http://example.org/UniversityOfCincinnatiMedicalCenter> <http://dbpedia.org/ontology/name> "University of Cincinnati Medical Center"  <NFL-Al-Jazeera-5> .
+ <http://example.org/GameBuffaloBillsVsCincinnatiBengals> <http://dbpedia.org/ontology/status> "Cancelled"  <NFL-Al-Jazeera-5> .
+ <http://example.org/NationalFootballLeague> <http://dbpedia.org/ontology/sport> <http://dbpedia.org/ontology/AmericanFootball> <NFL-Al-Jazeera-5> .
+ <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb5> <http://schema.org/date> "2023-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <NFL-Al-Jazeera-6> .
+ <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb3> <http://schema.org/date> "2023-01-02"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Cincinnati_Bengals> <http://dbpedia.org/ontology/league> <http://dbpedia.org/resource/National_Football_League> <NFL-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/National_Football_League> <http://dbpedia.org/ontology/sport> "American Football"  <NFL-Al-Jazeera-6> .
+ <http://example.org/ontology/DamarHamlin> <http://example.org/ontology/advocacy> <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb7>  <NFL-Al-Jazeera-6> .
+ <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb1> <http://dbpedia.org/ontology/statistic> <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb2>  <NFL-Al-Jazeera-6> .
+ <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb2> <http://dbpedia.org/ontology/tackle> "93"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-Al-Jazeera-6> .
+ <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb7> <http://schema.org/partner> "American Heart Association"  <NFL-Al-Jazeera-6> .
+ <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb8> <http://schema.org/about> <http://example.org/ontology/DamarHamlin> <NFL-Al-Jazeera-6> .
+ <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statistic> <NFL-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Buffalo_Bills> <http://dbpedia.org/ontology/sport> "American Football"  <NFL-Al-Jazeera-6> .
+ <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb5> <http://schema.org/event> "Super Bowl festivities in Arizona"  <NFL-Al-Jazeera-6> .
+ <http://example.org/ontology/BrandonBeane> <http://dbpedia.org/ontology/occupation> "General Manager of Buffalo Bills"  <NFL-Al-Jazeera-6> .
+ <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPosting> <NFL-Al-Jazeera-6> .
+ <http://example.org/ontology/DamarHamlin> <http://example.org/ontology/publicAppearances> <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb6>  <NFL-Al-Jazeera-6> .
+ <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb8> <http://schema.org/accountServiceHomepage> <https://twitter.com/BuffaloBills> <NFL-Al-Jazeera-6> .
+ <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb8> <http://schema.org/author> <http://example.org/ontology/BrandonBeane> <NFL-Al-Jazeera-6> .
+ <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb5> <http://example.org/ontology/awardReceived> "NFL Players Association’s Alan Page Community Award"  <NFL-Al-Jazeera-6> .
+ <http://example.org/ontology/BrandonBeane> <http://xmlns.com/foaf/0.1/account> <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb8>  <NFL-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Cincinnati_Bengals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NFL-Al-Jazeera-6> .
+ <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb1> <http://dbpedia.org/ontology/numberOfMatches> "29"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-Al-Jazeera-6> .
+ <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Appearance> <NFL-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Buffalo_Bills> <http://dbpedia.org/ontology/league> <http://dbpedia.org/resource/National_Football_League> <NFL-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Cincinnati_Bengals> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Cincinnati> <NFL-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/National_Football_League> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsLeague> <NFL-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Cincinnati_Bengals> <http://dbpedia.org/ontology/sport> "American Football"  <NFL-Al-Jazeera-6> .
+ <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Recovery> <NFL-Al-Jazeera-6> .
+ <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb3> <http://example.org/ontology/medicalStatus> "Cardiac arrest; heart restarted on field"  <NFL-Al-Jazeera-6> .
+ <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Appearance> <NFL-Al-Jazeera-6> .
+ <http://example.org/ontology/DamarHamlin> <http://xmlns.com/foaf/0.1/name> "Damar Hamlin"  <NFL-Al-Jazeera-6> .
+ <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb3> <http://dbpedia.org/ontology/against> <http://dbpedia.org/resource/Cincinnati_Bengals> <NFL-Al-Jazeera-6> .
+ <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb4> <http://schema.org/eventStatus> "Cleared to resume full football activities"  <NFL-Al-Jazeera-6> .
+ <http://example.org/ontology/DamarHamlin> <http://example.org/ontology/recoveryStatus> <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb4>  <NFL-Al-Jazeera-6> .
+ <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb3> <http://schema.org/eventStatus> "Collapsed during game; required CPR"  <NFL-Al-Jazeera-6> .
+ <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CareerStation> <NFL-Al-Jazeera-6> .
+ <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb7> <http://schema.org/about> "CPR training and life-saving techniques"  <NFL-Al-Jazeera-6> .
+ <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb1> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Buffalo_Bills> <NFL-Al-Jazeera-6> .
+ <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb6> <http://schema.org/date> "2023-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <NFL-Al-Jazeera-6> .
+ <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Advocacy> <NFL-Al-Jazeera-6> .
+ <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb4> <http://schema.org/date> "2023-04-18"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-Al-Jazeera-6> .
+ <http://example.org/ontology/BrandonBeane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-Al-Jazeera-6> .
+ <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb8> <http://schema.org/datePublished> "2023-04-18"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-Al-Jazeera-6> .
+ <http://example.org/ontology/BrandonBeane> <http://xmlns.com/foaf/0.1/name> "Brandon Beane"  <NFL-Al-Jazeera-6> .
+ <http://example.org/ontology/BrandonBeane> <http://schema.org/memberOf> <http://dbpedia.org/resource/Buffalo_Bills> <NFL-Al-Jazeera-6> .
+ <http://example.org/ontology/DamarHamlin> <http://dbpedia.org/ontology/careerStation> <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb1>  <NFL-Al-Jazeera-6> .
+ <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb4> <http://example.org/ontology/statementBy> <http://example.org/ontology/BrandonBeane> <NFL-Al-Jazeera-6> .
+ <http://example.org/ontology/DamarHamlin> <http://example.org/ontology/publicAppearances> <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb5>  <NFL-Al-Jazeera-6> .
+ <http://example.org/ontology/DamarHamlin> <http://dbpedia.org/ontology/number> "3"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-Al-Jazeera-6> .
+ <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb2> <http://dbpedia.org/ontology/passDefended> "4"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-Al-Jazeera-6> .
+ <http://example.org/ontology/DamarHamlin> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Buffalo_Bills> <NFL-Al-Jazeera-6> .
+ <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb1> <http://dbpedia.org/ontology/numberOfStarts> "13"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-Al-Jazeera-6> .
+ <http://example.org/ontology/DamarHamlin> <http://dbpedia.org/ontology/position> "Safety"  <NFL-Al-Jazeera-6> .
+ <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb2> <http://dbpedia.org/ontology/sack> "1.5"^^<http://www.w3.org/2001/XMLSchema#float>  <NFL-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Buffalo_Bills> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Buffalo_New_York> <NFL-Al-Jazeera-6> .
+ <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb4> <http://example.org/ontology/clearedBy> "Three specialists"  <NFL-Al-Jazeera-6> .
+ <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb6> <http://schema.org/event> "Meeting with President Joe Biden"  <NFL-Al-Jazeera-6> .
+ <http://example.org/ontology/DamarHamlin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-Al-Jazeera-6> .
+ <http://example.org/ontology/DamarHamlin> <http://dbpedia.org/ontology/birthDate> "1997-03-24"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-Al-Jazeera-6> .
+ <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/MedicalIncident> <NFL-Al-Jazeera-6> .
+ <http://example.org/ontology/DamarHamlin> <http://example.org/ontology/incident> <http://NFL-Al-Jazeera-6.com/blank#ncc29b845c68747a2a414e11713dbdaefb3>  <NFL-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Buffalo_Bills> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NFL-Al-Jazeera-6> .
+ <http://example.org/nfl/MichaelSignora> <http://example.org/nfl/hasRole> <http://example.org/nfl/Spokesman> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/GameAgainstColts> <http://example.org/nfl/occurredDuring> <http://example.org/nfl/RainSoakedChampionship> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/IndianapolisColts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/nfl/Team> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/NewEnglandPatriots> <http://example.org/nfl/hasHeadCoach> <http://example.org/nfl/BillBelichik> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/AmericanFootballConferenceChampionship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/nfl/ChampionshipEvent> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/DeflatedBallIncident> <http://example.org/nfl/hasAspect> <http://example.org/nfl/DeflatedBallsUse> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/IgnoranceAboutDeflatedBalls> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/nfl/Statement> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/SuperBowlBerth> <http://example.org/nfl/isResultOf> <http://example.org/nfl/GameAgainstColts> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/BillBelichik> <http://example.org/nfl/committedTo> <http://example.org/nfl/FullCooperation> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/BillBelichik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/nfl/Person> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/DeflatedBallsUse> <http://example.org/nfl/hasMethod> <http://example.org/nfl/Deflation> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/RainyConditions> <http://example.org/nfl/hasImpactOn> <http://example.org/nfl/GamePlay> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/GameAgainstColts> <http://example.org/nfl/hasParticipant> <http://example.org/nfl/IndianapolisColts> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/BillBelichik> <http://example.org/nfl/hasRole> <http://example.org/nfl/HeadCoach> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/NewEnglandPatriots> <http://example.org/nfl/participatedIn> <http://example.org/nfl/GameAgainstColts> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/NationalFootballLeague> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/nfl/Organization> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/NewEnglandPatriots> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/nfl/Team> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/DeflatedBallsUse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/nfl/Action> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/RainSoakedChampionship> <http://example.org/nfl/isA> <http://example.org/nfl/AmericanFootballConferenceChampionship> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/DeflatedBallIncident> <http://example.org/nfl/relatedTo> <http://example.org/nfl/GameAgainstColts> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/GameAgainstColts> <http://example.org/nfl/hasOutcome> <http://example.org/nfl/SuperBowlBerth> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/MichaelSignora> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/nfl/Person> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/BillBelichik> <http://example.org/nfl/expressed> <http://example.org/nfl/IgnoranceAboutDeflatedBalls> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/SuperBowlBerth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/nfl/Achievement> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/RainyConditions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/nfl/WeatherCondition> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/DeflatedBallIncident> <http://example.org/nfl/confirmedBy> <http://example.org/nfl/MichaelSignora> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/RainSoakedChampionship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/nfl/Event> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/IgnoranceAboutDeflatedBalls> <http://example.org/nfl/relatedTo> <http://example.org/nfl/DeflatedBallIncident> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/DeflatedBallsUse> <http://example.org/nfl/hasReason> <http://example.org/nfl/IncreasedGrip> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/Punishment> <http://example.org/nfl/isPossibleOutcomeOf> <http://example.org/nfl/DeflatedBallIncident> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/FullCooperation> <http://example.org/nfl/involves> <http://example.org/nfl/FollowingLeagueRequests> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/MichaelSignora> <http://example.org/nfl/confirmed> <http://example.org/nfl/DeflatedBallIncident> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/NationalFootballLeague> <http://example.org/nfl/isInvestigating> <http://example.org/nfl/DeflatedBallIncident> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/DeflatedBallIncident> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/nfl/Event> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/DeflatedBallsUse> <http://example.org/nfl/hasCondition> <http://example.org/nfl/RainyConditions> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/IncreasedGrip> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/nfl/Advantage> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/RainSoakedChampionship> <http://example.org/nfl/hasWeatherCondition> <http://example.org/nfl/RainyConditions> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/IgnoranceAboutDeflatedBalls> <http://example.org/nfl/statedBy> <http://example.org/nfl/BillBelichik> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/IndianapolisColts> <http://example.org/nfl/participatedIn> <http://example.org/nfl/GameAgainstColts> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/Punishment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/nfl/PotentialConsequence> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/GameAgainstColts> <http://example.org/nfl/hasScore> "45-7"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/GameAgainstColts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/nfl/Game> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/FullCooperation> <http://example.org/nfl/involves> <http://example.org/nfl/AnsweringQuestions> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/IncreasedGrip> <http://example.org/nfl/isUsedFor> <http://example.org/nfl/Catching> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/DeflatedBallIncident> <http://example.org/nfl/hasPotentialConsequence> <http://example.org/nfl/Punishment> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/FullCooperation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/nfl/Action> <NFL-Al-Jazeera-7> .
+ <http://example.org/nfl/DeflatedBallIncident> <http://example.org/nfl/involves> <http://example.org/nfl/NewEnglandPatriots> <NFL-Al-Jazeera-7> .
+ <http://NFL-Al-Jazeera-8.com/blank#n45b697dc95674f8ab4c1aa67e4df1f5bb3> <http://example.org/nfl#source> "ESPN"  <NFL-Al-Jazeera-8> .
+ <http://example.org/nfl#PeytonManning> <http://example.org/nfl#age> "39"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-Al-Jazeera-8> .
+ <http://example.org/nfl#PeytonManning> <http://example.org/nfl#position> "quarterback"  <NFL-Al-Jazeera-8> .
+ <http://example.org/nfl#NationalFootballLeague> <http://example.org/nfl#investigationStatus> "ongoing and comprehensive"  <NFL-Al-Jazeera-8> .
+ <http://NFL-Al-Jazeera-8.com/blank#n45b697dc95674f8ab4c1aa67e4df1f5bb1> <http://example.org/aljazeera#statement> "He told an undercover reporter that the clinic shipped human growth hormone to the wife of star NFL quarterback Peyton Manning."  <NFL-Al-Jazeera-8> .
+ <http://example.org/nfl#PeytonManning> <http://example.org/nfl#denial> "Manning has denied using performance-enhancing drugs and says he will assist NFL investigators."  <NFL-Al-Jazeera-8> .
+ <http://example.org/mlb#MajorLeagueBaseball> <http://example.org/mlb#request> "to help investigate claims made about a number of players named in the Al Jazeera investigation."  <NFL-Al-Jazeera-8> .
+ <http://NFL-Al-Jazeera-8.com/blank#n45b697dc95674f8ab4c1aa67e4df1f5bb3> <http://example.org/nfl#claim> "the MLB had asked USADA to help investigate claims made about a number of players named in the Al Jazeera investigation."  <NFL-Al-Jazeera-8> .
+ <http://example.org/nfl#NationalFootballLeague> <http://example.org/nfl#statement> "The US National Football League (NFL) says it is has launched a “comprehensive” investigation into the findings of an Al Jazeera documentary on sports doping in professional sports."  <NFL-Al-Jazeera-8> .
+ <http://example.org/aljazeera#Documentary> <http://example.org/aljazeera#claim> <http://NFL-Al-Jazeera-8.com/blank#n45b697dc95674f8ab4c1aa67e4df1f5bb1>  <NFL-Al-Jazeera-8> .
+ <http://example.org/nfl#DenverBroncos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/nfl#Team> <NFL-Al-Jazeera-8> .
+ <http://example.org/usada#USAntiDopingAgency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/usada#Organization> <NFL-Al-Jazeera-8> .
+ <http://example.org/aljazeera#Documentary> <http://example.org/aljazeera#broadcastDate> "last month"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-Al-Jazeera-8> .
+ <http://NFL-Al-Jazeera-8.com/blank#n45b697dc95674f8ab4c1aa67e4df1f5bb3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/nfl#Report> <NFL-Al-Jazeera-8> .
+ <http://example.org/mlb#MajorLeagueBaseball> <http://example.org/mlb#request> <http://example.org/usada#USAntiDopingAgency> <NFL-Al-Jazeera-8> .
+ <http://example.org/nfl#PeytonManning> <http://example.org/nfl#achievement> "five-time Most Valuable Player"  <NFL-Al-Jazeera-8> .
+ <http://NFL-Al-Jazeera-8.com/blank#n45b697dc95674f8ab4c1aa67e4df1f5bb2> <http://example.org/nfl#date> "2023-02-07"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-Al-Jazeera-8> .
+ <http://example.org/nfl#PeytonManning> <http://example.org/nfl#upcomingGame> <http://NFL-Al-Jazeera-8.com/blank#n45b697dc95674f8ab4c1aa67e4df1f5bb2>  <NFL-Al-Jazeera-8> .
+ <http://NFL-Al-Jazeera-8.com/blank#n45b697dc95674f8ab4c1aa67e4df1f5bb2> <http://example.org/nfl#event> "Super Bowl"  <NFL-Al-Jazeera-8> .
+ <http://example.org/nfl#NationalFootballLeague> <http://example.org/nfl#collaborationWith> <http://example.org/usada#USAntiDopingAgency> <NFL-Al-Jazeera-8> .
+ <http://example.org/aljazeera#Documentary> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/aljazeera#Investigation> <NFL-Al-Jazeera-8> .
+ <http://example.org/nfl#NationalFootballLeague> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/nfl#Organization> <NFL-Al-Jazeera-8> .
+ <http://example.org/nfl#PeytonManning> <http://example.org/nfl#team> <http://example.org/nfl#DenverBroncos> <NFL-Al-Jazeera-8> .
+ <http://example.org/nfl#PeytonManning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/nfl#Player> <NFL-Al-Jazeera-8> .
+ <http://example.org/mlb#MajorLeagueBaseball> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/mlb#Organization> <NFL-Al-Jazeera-8> .
+ <http://example.org/nfl#NationalFootballLeague> <http://example.org/nfl#collaborationWith> <http://example.org/mlb#MajorLeagueBaseball> <NFL-Al-Jazeera-8> .
+ <http://NFL-Al-Jazeera-8.com/blank#n45b697dc95674f8ab4c1aa67e4df1f5bb4> <http://example.org/nfl#statement> "The ESPN report, citing lawyers familiar with the baseball investigation, said the NFL declined to coordinate its investigation with the MLB and USADA."  <NFL-Al-Jazeera-8> .
+ <http://NFL-Al-Jazeera-8.com/blank#n45b697dc95674f8ab4c1aa67e4df1f5bb2> <http://example.org/nfl#against> <http://example.org/nfl#CarolinaPanthers> <NFL-Al-Jazeera-8> .
+ <http://example.org/nfl#NationalFootballLeague> <http://example.org/nfl#investigationType> "comprehensive"  <NFL-Al-Jazeera-8> .
+ <http://example.org/nfl#CarolinaPanthers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/nfl#Team> <NFL-Al-Jazeera-8> .
+ <http://NFL-Al-Jazeera-8.com/blank#n45b697dc95674f8ab4c1aa67e4df1f5bb1> <http://example.org/aljazeera#source> "pharmacist who previously interned at an anti-ageing clinic in Indiana"  <NFL-Al-Jazeera-8> .
+ <http://NFL-Al-Jazeera-8.com/blank#n45b697dc95674f8ab4c1aa67e4df1f5bb3> <http://example.org/nfl#additionalInfo> <http://NFL-Al-Jazeera-8.com/blank#n45b697dc95674f8ab4c1aa67e4df1f5bb4>  <NFL-Al-Jazeera-8> .
+ <http://example.org/nfl#NationalFootballLeague> <http://example.org/nfl#comment> "We do not comment on the specifics of these matters until the review is completed."  <NFL-Al-Jazeera-8> .
+ <http://example.org/ns#SystemicRacismClaim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#RetaliationClaim> <http://schema.org/text> "Alleged she was laid off in retaliation for complaints over the league's 'boy's club' mentality"  <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#EricReid> <http://schema.org/name> "Eric Reid"  <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#NewYorkStateAG> <http://schema.org/memberOf> <http://example.org/ns#InvestigationTeam> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#NewYorkStateAG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#InvestigationTeam> <http://schema.org/member> <http://example.org/ns#NewYorkStateAG> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#BrianMcCarthy> <http://schema.org/name> "Brian McCarthy"  <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#RaceAndDiversityData2021> <http://schema.org/datePublished> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#GoodellStatement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#RaceAndDiversityData2021> <http://schema.org/text> "About 71 percent of NFL players identified as races other than white in 2021"  <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#ColinKaepernick> <http://schema.org/alleges> <http://example.org/ns#RetaliationClaimKaepernick> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#SystemicRacismClaim> <http://schema.org/about> <http://example.org/ns#NFL> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#InvestigationTeam> <http://schema.org/description> "Investigation into allegations of employment discrimination and a hostile work environment at the NFL"  <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#BrianMcCarthy> <http://schema.org/stated> <http://example.org/ns#NFLStatement> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#NFLStatement> <http://schema.org/author> <http://example.org/ns#BrianMcCarthy> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#CaliforniaStateAG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GovernmentOrganization> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#RetaliationClaimKaepernick> <http://schema.org/text> "Allegations of retaliation for kneeling during the national anthem"  <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#BrianMcCarthy> <http://schema.org/worksFor> <http://example.org/ns#NFL> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#CaliforniaStateAG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#BrianFlores> <http://schema.org/jobTitle> "Former head coach of the Miami Dolphins"  <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#InstituteForDiversityAndEthicsInSport> <http://schema.org/location> <http://schema.org/UniversityOfCentralFlorida> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#EmployeeGroupNFL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#JenniferLove> <http://schema.org/alleges> <http://example.org/ns#RetaliationClaim> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#BrianMcCarthy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#RetaliationClaim> <http://schema.org/author> <http://example.org/ns#JenniferLove> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#NewYorkStateAG> <http://schema.org/name> "Letitia James"  <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#RetaliationClaim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#UniversityOfCentralFlorida> <http://schema.org/name> "University of Central Florida"  <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#NFL> <http://schema.org/employee> <http://example.org/ns#EmployeeGroupNFL> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#InstituteForDiversityAndEthicsInSport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#CaliforniaStateAG> <http://schema.org/name> "Rob Bonta"  <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#EricReid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#RaceAndDiversityData2021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Dataset> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#NFL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsOrganization> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#UniversityOfCentralFlorida> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EducationalOrganization> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#BrianFlores> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#RetaliationClaim> <http://schema.org/about> <http://example.org/ns#NFL> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#KaepernickReidSettlement> <http://schema.org/author> <http://example.org/ns#ColinKaepernick> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#EmployeeGroupNFL> <http://schema.org/numberOfEmployees> "1000"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#SystemicRacismClaim> <http://schema.org/author> <http://example.org/ns#BrianFlores> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#KaepernickReidSettlement> <http://schema.org/text> "Confidential settlement with the NFL"  <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#RogerGoodell> <http://schema.org/name> "Roger Goodell"  <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#NFLStatement> <http://schema.org/datePublished> "2023-05-04"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#NFLStatement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#GoodellStatement> <http://schema.org/author> <http://example.org/ns#RogerGoodell> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#InvestigationTeam> <http://schema.org/member> <http://example.org/ns#CaliforniaStateAG> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#KaepernickReidSettlement> <http://schema.org/author> <http://example.org/ns#EricReid> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#ColinKaepernick> <http://schema.org/name> "Colin Kaepernick"  <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#BrianFlores> <http://schema.org/name> "Brian Flores"  <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#RogerGoodell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#NewYorkStateAG> <http://schema.org/jobTitle> "New York Attorney General"  <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#SystemicRacismClaim> <http://schema.org/text> "Systemic racism in the NFL, likening the league to a plantation"  <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#BrianMcCarthy> <http://schema.org/jobTitle> "NFL spokesman"  <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#JenniferLove> <http://schema.org/name> "Jennifer Love"  <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#RaceAndDiversityData2021> <http://schema.org/author> <http://example.org/ns#InstituteForDiversityAndEthicsInSport> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#KaepernickReidSettlement> <http://schema.org/datePublished> "2019"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#RetaliationClaimKaepernick> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#RetaliationClaimKaepernick> <http://schema.org/author> <http://example.org/ns#ColinKaepernick> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#JenniferLove> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#GoodellStatement> <http://schema.org/text> "We were wrong"  <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#RogerGoodell> <http://schema.org/stated> <http://example.org/ns#GoodellStatement> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#RogerGoodell> <http://schema.org/jobTitle> "NFL Commissioner"  <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#CaliforniaStateAG> <http://schema.org/jobTitle> "California Attorney General"  <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#RetaliationClaimKaepernick> <http://schema.org/about> <http://example.org/ns#NFL> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#NFL> <http://schema.org/name> "National Football League"  <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#CaliforniaStateAG> <http://schema.org/memberOf> <http://example.org/ns#InvestigationTeam> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#InvestigationTeam> <http://schema.org/startDate> "2023-05-04"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#InvestigationTeam> <http://schema.org/about> <http://example.org/ns#NFL> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#GoodellStatement> <http://schema.org/datePublished> "2020"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#ColinKaepernick> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#NFLStatement> <http://schema.org/text> "The allegations of bias and harassment were inconsistent with the league's values and practices, but that it would cooperate with the investigation"  <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#KaepernickReidSettlement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#InvestigationTeam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#InstituteForDiversityAndEthicsInSport> <http://schema.org/name> "Institute for Diversity and Ethics in Sport"  <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#BrianFlores> <http://schema.org/alleges> <http://example.org/ns#SystemicRacismClaim> <NFL-Al-Jazeera-9> .
+ <http://example.org/ns#NewYorkStateAG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GovernmentOrganization> <NFL-Al-Jazeera-9> .

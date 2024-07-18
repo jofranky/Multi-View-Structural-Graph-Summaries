@@ -1,0 +1,603 @@
+ <http://example.org/England> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerTeam> <FIFA-CNN-0> .
+ <http://example.org/Brazil> <http://dbpedia.org/ontology/player> <http://example.org/Raphinha> <FIFA-CNN-0> .
+ <http://example.org/FerranTorres> <http://dbpedia.org/ontology/position> "Forward"  <FIFA-CNN-0> .
+ <http://example.org/GroupE_MatchSpainVsCostaRica> <http://dbpedia.org/ontology/competition> <http://example.org/WorldCup2022> <FIFA-CNN-0> .
+ <http://example.org/AdrianRabiot> <http://xmlns.com/foaf/0.1/name> "Adrian Rabiot"  <FIFA-CNN-0> .
+ <http://example.org/Richarlison> <http://xmlns.com/foaf/0.1/name> "Richarlison"  <FIFA-CNN-0> .
+ <http://example.org/NGoloKante> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-0> .
+ <http://example.org/Japan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerTeam> <FIFA-CNN-0> .
+ <http://example.org/MatchGermanyVsJapan> <http://dbpedia.org/ontology/result> "Japan 2-1 Germany"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-CNN-0> .
+ <http://example.org/Brazil> <http://dbpedia.org/ontology/player> <http://example.org/Rodrygo> <FIFA-CNN-0> .
+ <http://example.org/ViniciusJr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-0> .
+ <http://example.org/NGoloKante> <http://xmlns.com/foaf/0.1/name> "N'Golo Kanté"  <FIFA-CNN-0> .
+ <http://example.org/Raphinha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-0> .
+ <http://example.org/MatchGermanyVsJapan> <http://dbpedia.org/ontology/footballTeam> <http://dbpedia.org/resource/Japan> <FIFA-CNN-0> .
+ <http://example.org/France> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerTeam> <FIFA-CNN-0> .
+ <http://example.org/France> <http://dbpedia.org/ontology/player> <http://example.org/NGoloKante> <FIFA-CNN-0> .
+ <http://example.org/KylianMbappe> <http://xmlns.com/foaf/0.1/name> "Kylian Mbappé"  <FIFA-CNN-0> .
+ <http://example.org/Brazil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerTeam> <FIFA-CNN-0> .
+ <http://example.org/ViniciusJr> <http://xmlns.com/foaf/0.1/name> "Vinicius Jr."  <FIFA-CNN-0> .
+ <http://example.org/MatchGermanyVsJapan> <http://dbpedia.org/ontology/footballTeam> <http://dbpedia.org/resource/Germany> <FIFA-CNN-0> .
+ <http://example.org/France> <http://dbpedia.org/ontology/player> <http://example.org/AdrianRabiot> <FIFA-CNN-0> .
+ <http://example.org/Rodrygo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-0> .
+ <http://example.org/AdrianRabiot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-0> .
+ <http://example.org/NeymarJr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-0> .
+ <http://example.org/GroupE_MatchSpainVsCostaRica> <http://dbpedia.org/ontology/result> "Spain 7-0 Costa Rica"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-CNN-0> .
+ <http://example.org/WorldCup2022> <http://dbpedia.org/ontology/date> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <FIFA-CNN-0> .
+ <http://example.org/KarimBenzema> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Ballon_d'Or> <FIFA-CNN-0> .
+ <http://example.org/KarimBenzema> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-0> .
+ <http://example.org/Rodrygo> <http://xmlns.com/foaf/0.1/name> "Rodrygo"  <FIFA-CNN-0> .
+ <http://example.org/GarethSouthgate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-0> .
+ <http://example.org/PaulPogba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-0> .
+ <http://example.org/FerranTorres> <http://dbpedia.org/ontology/number> "11"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-CNN-0> .
+ <http://example.org/AlThumamaStadium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Stadium> <FIFA-CNN-0> .
+ <http://example.org/SaudiArabia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerTeam> <FIFA-CNN-0> .
+ <http://example.org/SaudiArabia> <http://dbpedia.org/ontology/player> <http://example.org/LionelMessi> <FIFA-CNN-0> .
+ <http://example.org/GroupE_MatchSpainVsCostaRica> <http://dbpedia.org/ontology/footballTeam> <http://dbpedia.org/resource/Costa_Rica> <FIFA-CNN-0> .
+ <http://example.org/MatchArgentinaVsSaudiArabia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerMatch> <FIFA-CNN-0> .
+ <http://example.org/Brazil> <http://dbpedia.org/ontology/player> <http://example.org/Richarlison> <FIFA-CNN-0> .
+ <http://example.org/MatchArgentinaVsSaudiArabia> <http://dbpedia.org/ontology/footballTeam> <http://dbpedia.org/resource/Argentina> <FIFA-CNN-0> .
+ <http://example.org/OlivierGiroud> <http://xmlns.com/foaf/0.1/name> "Olivier Giroud"  <FIFA-CNN-0> .
+ <http://example.org/England> <http://dbpedia.org/ontology/coach> <http://example.org/GarethSouthgate> <FIFA-CNN-0> .
+ <http://example.org/FerranTorres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-0> .
+ <http://example.org/WorldCup2022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <FIFA-CNN-0> .
+ <http://example.org/France> <http://dbpedia.org/ontology/player> <http://example.org/KylianMbappe> <FIFA-CNN-0> .
+ <http://example.org/LionelMessi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-0> .
+ <http://example.org/NeymarJr> <http://xmlns.com/foaf/0.1/name> "Neymar Jr."  <FIFA-CNN-0> .
+ <http://example.org/FerranTorres> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Spain_national_football_team> <FIFA-CNN-0> .
+ <http://example.org/GroupE_MatchSpainVsCostaRica> <http://dbpedia.org/ontology/date> "2022-11-23"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-CNN-0> .
+ <http://example.org/GroupE_MatchSpainVsCostaRica> <http://schema.org/performer> <http://example.org/FerranTorres> <FIFA-CNN-0> .
+ <http://example.org/Japan> <http://dbpedia.org/ontology/teamNickname> "Samurai Blue"  <FIFA-CNN-0> .
+ <http://example.org/KarimBenzema> <http://xmlns.com/foaf/0.1/name> "Karim Benzema"  <FIFA-CNN-0> .
+ <http://example.org/MatchArgentinaVsSaudiArabia> <http://dbpedia.org/ontology/result> "Saudi Arabia 2-1 Argentina"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-CNN-0> .
+ <http://example.org/PaulPogba> <http://xmlns.com/foaf/0.1/name> "Paul Pogba"  <FIFA-CNN-0> .
+ <http://example.org/WorldCup2022> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Qatar> <FIFA-CNN-0> .
+ <http://example.org/GroupE_MatchSpainVsCostaRica> <http://dbpedia.org/ontology/location> <http://example.org/AlThumamaStadium> <FIFA-CNN-0> .
+ <http://example.org/LionelMessi> <http://xmlns.com/foaf/0.1/name> "Lionel Messi"  <FIFA-CNN-0> .
+ <http://example.org/GroupE_MatchSpainVsCostaRica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerMatch> <FIFA-CNN-0> .
+ <http://example.org/AlThumamaStadium> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Doha> <FIFA-CNN-0> .
+ <http://example.org/Raphinha> <http://xmlns.com/foaf/0.1/name> "Raphinha"  <FIFA-CNN-0> .
+ <http://example.org/France> <http://dbpedia.org/ontology/player> <http://example.org/PaulPogba> <FIFA-CNN-0> .
+ <http://example.org/FerranTorres> <http://xmlns.com/foaf/0.1/name> "Ferran Torres"  <FIFA-CNN-0> .
+ <http://example.org/France> <http://dbpedia.org/ontology/player> <http://example.org/OlivierGiroud> <FIFA-CNN-0> .
+ <http://example.org/Brazil> <http://dbpedia.org/ontology/player> <http://example.org/ViniciusJr> <FIFA-CNN-0> .
+ <http://example.org/GarethSouthgate> <http://xmlns.com/foaf/0.1/name> "Gareth Southgate"  <FIFA-CNN-0> .
+ <http://example.org/WorldCup2022> <http://dbpedia.org/ontology/numberOfMatches> "64"^^<http://www.w3.org/2001/XMLSchema#integer>  <FIFA-CNN-0> .
+ <http://example.org/Brazil> <http://dbpedia.org/ontology/player> <http://example.org/NeymarJr> <FIFA-CNN-0> .
+ <http://example.org/Richarlison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-0> .
+ <http://example.org/MatchArgentinaVsSaudiArabia> <http://dbpedia.org/ontology/footballTeam> <http://dbpedia.org/resource/Saudi_Arabia> <FIFA-CNN-0> .
+ <http://example.org/France> <http://dbpedia.org/ontology/player> <http://example.org/KarimBenzema> <FIFA-CNN-0> .
+ <http://example.org/OlivierGiroud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-0> .
+ <http://example.org/MatchGermanyVsJapan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerMatch> <FIFA-CNN-0> .
+ <http://example.org/KylianMbappe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-0> .
+ <http://example.org/GroupE_MatchSpainVsCostaRica> <http://dbpedia.org/ontology/footballTeam> <http://dbpedia.org/resource/Spain> <FIFA-CNN-0> .
+ <http://example.org/DavidClose> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-1> .
+ <http://example.org/ArgentinaVsCroatiaReport> <http://schema.org/contributor> <http://example.org/DavidClose> <FIFA-CNN-1> .
+ <http://example.org/DavidClose> <http://schema.org/contributorTo> <http://example.org/ArgentinaVsCroatiaReport> <FIFA-CNN-1> .
+ <http://example.org/ArgentinaVsCroatia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerMatch> <FIFA-CNN-1> .
+ <http://example.org/LusailStadium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Stadium> <FIFA-CNN-1> .
+ <http://example.org/FirstGoalByAlvarez> <http://dbpedia.org/ontology/scorer> <http://example.org/JulianAlvarez> <FIFA-CNN-1> .
+ <http://example.org/ArgentinaVsCroatia> <http://dbpedia.org/ontology/homeTeam> <http://dbpedia.org/resource/Argentina_national_football_team> <FIFA-CNN-1> .
+ <http://example.org/GoalByMessi> <http://dbpedia.org/ontology/method> "Penalty"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-CNN-1> .
+ <http://example.org/DavidRamos> <http://schema.org/associatedMedia> <http://example.org/PhotoOfAlvarezSecondGoalCelebration> <FIFA-CNN-1> .
+ <http://example.org/GoalByMessi> <http://dbpedia.org/ontology/match> <http://example.org/ArgentinaVsCroatia> <FIFA-CNN-1> .
+ <http://example.org/ArgentinaVsCroatia> <http://dbpedia.org/ontology/date> "2022-12-13"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-CNN-1> .
+ <http://example.org/GoalByMessi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerGoal> <FIFA-CNN-1> .
+ <http://example.org/ManuFernandez> <http://schema.org/associatedMedia> <http://example.org/PhotoOfArgentinaThirdGoalCelebration> <FIFA-CNN-1> .
+ <http://example.org/PenaltyIncident> <http://dbpedia.org/ontology/time> "34"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-CNN-1> .
+ <http://example.org/FirstGoalByAlvarez> <http://dbpedia.org/ontology/time> "39"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-CNN-1> .
+ <http://example.org/RichardHeathcote> <http://schema.org/associatedMedia> <http://example.org/PhotoOfAlvarezMessiCelebration> <FIFA-CNN-1> .
+ <http://example.org/JulianAlvarez> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Argentina> <FIFA-CNN-1> .
+ <http://example.org/DominikLivakovic> <http://xmlns.com/foaf/0.1/name> "Dominik Livaković"  <FIFA-CNN-1> .
+ <http://example.org/ArgentinaVsCroatia> <http://dbpedia.org/ontology/result> "3-0"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-CNN-1> .
+ <http://example.org/JulianAlvarez> <http://xmlns.com/foaf/0.1/name> "Julián Álvarez"  <FIFA-CNN-1> .
+ <http://example.org/DavidClose> <http://xmlns.com/foaf/0.1/name> "David Close"  <FIFA-CNN-1> .
+ <http://example.org/LionelMessi> <http://dbpedia.org/ontology/numberOfGoalsWorldCup> "11"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-CNN-1> .
+ <http://example.org/SecondGoalByAlvarez> <http://dbpedia.org/ontology/method> "Assist"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-CNN-1> .
+ <http://example.org/PenaltyIncident> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerPlay> <FIFA-CNN-1> .
+ <http://example.org/LusailStadium> <http://xmlns.com/foaf/0.1/name> "Lusail Stadium"  <FIFA-CNN-1> .
+ <http://example.org/ArgentinaVsCroatiaReport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NewsArticle> <FIFA-CNN-1> .
+ <http://example.org/WorldCupFinal> <http://dbpedia.org/ontology/location> <http://example.org/LusailStadium> <FIFA-CNN-1> .
+ <http://example.org/PenaltyIncident> <http://dbpedia.org/ontology/match> <http://example.org/ArgentinaVsCroatia> <FIFA-CNN-1> .
+ <http://example.org/ManuFernandez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-1> .
+ <http://example.org/FirstGoalByAlvarez> <http://dbpedia.org/ontology/match> <http://example.org/ArgentinaVsCroatia> <FIFA-CNN-1> .
+ <http://example.org/PenaltyIncident> <http://dbpedia.org/ontology/foulCommitted> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <FIFA-CNN-1> .
+ <http://example.org/LusailStadium> <http://dbpedia.org/ontology/capacity> "88966"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-CNN-1> .
+ <http://example.org/SecondGoalByAlvarez> <http://dbpedia.org/ontology/assist> <http://example.org/LionelMessi> <FIFA-CNN-1> .
+ <http://example.org/LionelMessi> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Argentina> <FIFA-CNN-1> .
+ <http://example.org/LionelMessi> <http://dbpedia.org/ontology/record> <http://dbpedia.org/ontology/MostGoalsScoredForArgentinaInWorldCup> <FIFA-CNN-1> .
+ <http://example.org/ArgentinaVsCroatiaReport> <http://schema.org/about> <http://example.org/ArgentinaVsCroatia> <FIFA-CNN-1> .
+ <http://example.org/LionelMessi> <http://dbpedia.org/ontology/appearanceWorldCup> "25"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-CNN-1> .
+ <http://example.org/RobbieJayBarratt> <http://xmlns.com/foaf/0.1/name> "Robbie Jay Barratt"  <FIFA-CNN-1> .
+ <http://example.org/WorldCupFinal> <http://dbpedia.org/ontology/date> "2022-12-18"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-CNN-1> .
+ <http://example.org/ArgentinaVsCroatia> <http://dbpedia.org/ontology/location> <http://example.org/LusailStadium> <FIFA-CNN-1> .
+ <http://example.org/LionelMessi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-1> .
+ <http://example.org/ArgentinaVsCroatia> <http://dbpedia.org/ontology/awayTeam> <http://dbpedia.org/resource/Croatia_national_football_team> <FIFA-CNN-1> .
+ <http://example.org/ArgentinaVsCroatia> <http://dbpedia.org/ontology/attendance> "88966"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-CNN-1> .
+ <http://example.org/JulianAlvarez> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Argentina_national_football_team> <FIFA-CNN-1> .
+ <http://example.org/SecondGoalByAlvarez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerGoal> <FIFA-CNN-1> .
+ <http://example.org/ManuFernandez> <http://xmlns.com/foaf/0.1/name> "Manu Fernandez"  <FIFA-CNN-1> .
+ <http://example.org/LusailStadium> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Lusail> <FIFA-CNN-1> .
+ <http://example.org/PenaltyIncident> <http://dbpedia.org/ontology/cardGiven> "Yellow"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-CNN-1> .
+ <http://example.org/PenaltyIncident> <http://dbpedia.org/ontology/playersInvolved> <http://example.org/JulianAlvarez> <FIFA-CNN-1> .
+ <http://example.org/RobbieJayBarratt> <http://schema.org/associatedMedia> <http://example.org/PhotoOfAlvarezScore3-0> <FIFA-CNN-1> .
+ <http://example.org/LionelMessi> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Argentina_national_football_team> <FIFA-CNN-1> .
+ <http://example.org/LionelMessi> <http://xmlns.com/foaf/0.1/name> "Lionel Messi"  <FIFA-CNN-1> .
+ <http://example.org/LionelMessi> <http://dbpedia.org/ontology/record> <http://dbpedia.org/ontology/JointRecordAppearanceMakerInFIFAMensWorldCup> <FIFA-CNN-1> .
+ <http://example.org/DavidRamos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-1> .
+ <http://example.org/DominikLivakovic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-1> .
+ <http://example.org/JulianAlvarez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-1> .
+ <http://example.org/JulianAlvarez> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Forward_(association_football)> <FIFA-CNN-1> .
+ <http://example.org/WorldCupFinal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerMatch> <FIFA-CNN-1> .
+ <http://example.org/RichardHeathcote> <http://xmlns.com/foaf/0.1/name> "Richard Heathcote"  <FIFA-CNN-1> .
+ <http://example.org/WorldCupFinal> <http://dbpedia.org/ontology/homeTeam> <http://dbpedia.org/resource/Argentina_national_football_team> <FIFA-CNN-1> .
+ <http://example.org/GoalByMessi> <http://dbpedia.org/ontology/scorer> <http://example.org/LionelMessi> <FIFA-CNN-1> .
+ <http://example.org/GoalByMessi> <http://dbpedia.org/ontology/time> "34"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-CNN-1> .
+ <http://example.org/SecondGoalByAlvarez> <http://dbpedia.org/ontology/scorer> <http://example.org/JulianAlvarez> <FIFA-CNN-1> .
+ <http://example.org/PenaltyIncident> <http://dbpedia.org/ontology/penaltyAwarded> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <FIFA-CNN-1> .
+ <http://example.org/LionelMessi> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Forward_(association_football)> <FIFA-CNN-1> .
+ <http://example.org/FirstGoalByAlvarez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerGoal> <FIFA-CNN-1> .
+ <http://example.org/RichardHeathcote> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-1> .
+ <http://example.org/DominikLivakovic> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Goalkeeper> <FIFA-CNN-1> .
+ <http://example.org/FirstGoalByAlvarez> <http://dbpedia.org/ontology/method> "Play"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-CNN-1> .
+ <http://example.org/PenaltyIncident> <http://dbpedia.org/ontology/playersInvolved> <http://example.org/DominikLivakovic> <FIFA-CNN-1> .
+ <http://example.org/SecondGoalByAlvarez> <http://dbpedia.org/ontology/match> <http://example.org/ArgentinaVsCroatia> <FIFA-CNN-1> .
+ <http://example.org/RobbieJayBarratt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-1> .
+ <http://example.org/DavidRamos> <http://xmlns.com/foaf/0.1/name> "David Ramos"  <FIFA-CNN-1> .
+ <http://example.org/SecondGoalByAlvarez> <http://dbpedia.org/ontology/time> "70"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-CNN-1> .
+ <http://example.org/ontology#US_Soccer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <FIFA-CNN-2> .
+ <http://example.org/ontology#Netherlands> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <FIFA-CNN-2> .
+ <http://example.org/ontology#InjuryUpdate> <http://schema.org/associatedAnatomy> <http://schema.org/Abdomen> <FIFA-CNN-2> .
+ <http://example.org/ontology#CNN> <http://schema.org/name> "CNN"  <FIFA-CNN-2> .
+ <http://example.org/ontology#MatchUSAvsNetherlands> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <FIFA-CNN-2> .
+ <http://FIFA-CNN-2.com/blank#ndbc8c43eaf3146fb932f651a27d83aceb3> <http://schema.org/event> <http://example.org/ontology#GroupB> <FIFA-CNN-2> .
+ <http://FIFA-CNN-2.com/blank#ndbc8c43eaf3146fb932f651a27d83aceb1> <http://schema.org/text> "He was taken to the hospital. We’re being told it’s an abdominal injury. So we’ll find out more over the next 24 hours if Christian will be available as the US gets set to take on the Netherlands."  <FIFA-CNN-2> .
+ <http://example.org/ontology#RobStone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-2> .
+ <http://example.org/ontology#MatchUSAvsIran> <http://schema.org/competitor> <http://example.org/ontology#UnitedStatesSoccerTeam> <FIFA-CNN-2> .
+ <http://example.org/ontology#GroupA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <FIFA-CNN-2> .
+ <http://example.org/ontology#RobStone> <http://schema.org/employee> <http://example.org/ontology#FOXSports> <FIFA-CNN-2> .
+ <http://example.org/ontology#InjuryUpdate> <http://schema.org/possibleTreatment> <http://example.org/ontology#Hospital> <FIFA-CNN-2> .
+ <http://example.org/ontology#CNN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <FIFA-CNN-2> .
+ <http://FIFA-CNN-2.com/blank#ndbc8c43eaf3146fb932f651a27d83aceb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ContactPoint> <FIFA-CNN-2> .
+ <http://example.org/ontology#UnitedStatesSoccerTeam> <http://schema.org/name> "United States"  <FIFA-CNN-2> .
+ <http://example.org/ontology#Iran> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <FIFA-CNN-2> .
+ <http://example.org/ontology#MatchUSAvsNetherlands> <http://schema.org/competitor> <http://example.org/ontology#UnitedStatesSoccerTeam> <FIFA-CNN-2> .
+ <http://example.org/ontology#MatchUSAvsNetherlands> <http://schema.org/competitor> <http://example.org/ontology#Netherlands> <FIFA-CNN-2> .
+ <http://FIFA-CNN-2.com/blank#ndbc8c43eaf3146fb932f651a27d83aceb2> <http://schema.org/productSupported> <http://example.org/ontology#US_Soccer> <FIFA-CNN-2> .
+ <http://FIFA-CNN-2.com/blank#ndbc8c43eaf3146fb932f651a27d83aceb3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsEvent> <FIFA-CNN-2> .
+ <http://example.org/ontology#UnitedStatesSoccerTeam> <http://schema.org/position> <http://FIFA-CNN-2.com/blank#ndbc8c43eaf3146fb932f651a27d83aceb3>  <FIFA-CNN-2> .
+ <http://example.org/ontology#InjuryUpdate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalCondition> <FIFA-CNN-2> .
+ <http://FIFA-CNN-2.com/blank#ndbc8c43eaf3146fb932f651a27d83aceb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsEvent> <FIFA-CNN-2> .
+ <http://FIFA-CNN-2.com/blank#ndbc8c43eaf3146fb932f651a27d83aceb4> <http://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer>  <FIFA-CNN-2> .
+ <http://example.org/ontology#ChristianPulisic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-2> .
+ <http://example.org/ontology#Hospital> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Hospital> <FIFA-CNN-2> .
+ <http://example.org/ontology#FOXSports> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <FIFA-CNN-2> .
+ <http://example.org/ontology#RobStone> <http://xmlns.com/foaf/0.1/name> "Rob Stone"  <FIFA-CNN-2> .
+ <http://FIFA-CNN-2.com/blank#ndbc8c43eaf3146fb932f651a27d83aceb3> <http://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer>  <FIFA-CNN-2> .
+ <http://example.org/ontology#GroupA> <http://schema.org/name> "Group A"  <FIFA-CNN-2> .
+ <http://example.org/ontology#RobStone> <http://schema.org/comment> <http://FIFA-CNN-2.com/blank#ndbc8c43eaf3146fb932f651a27d83aceb1>  <FIFA-CNN-2> .
+ <http://example.org/ontology#Netherlands> <http://schema.org/name> "Netherlands"  <FIFA-CNN-2> .
+ <http://example.org/ontology#MatchUSAvsIran> <http://schema.org/competitor> <http://example.org/ontology#Iran> <FIFA-CNN-2> .
+ <http://FIFA-CNN-2.com/blank#ndbc8c43eaf3146fb932f651a27d83aceb1> <http://schema.org/author> <http://example.org/ontology#RobStone> <FIFA-CNN-2> .
+ <http://example.org/ontology#MatchUSAvsIran> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <FIFA-CNN-2> .
+ <http://example.org/ontology#Netherlands> <http://schema.org/position> <http://FIFA-CNN-2.com/blank#ndbc8c43eaf3146fb932f651a27d83aceb4>  <FIFA-CNN-2> .
+ <http://example.org/ontology#ChristianPulisic> <http://schema.org/athlete> <http://example.org/ontology#UnitedStatesSoccerTeam> <FIFA-CNN-2> .
+ <http://example.org/ontology#Iran> <http://schema.org/name> "Iran"  <FIFA-CNN-2> .
+ <http://example.org/ontology#MatchUSAvsNetherlands> <http://schema.org/eventDate> "2023-11-26"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-CNN-2> .
+ <http://example.org/ontology#GroupB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <FIFA-CNN-2> .
+ <http://example.org/ontology#CNN> <http://schema.org/contactPoint> <http://FIFA-CNN-2.com/blank#ndbc8c43eaf3146fb932f651a27d83aceb2>  <FIFA-CNN-2> .
+ <http://FIFA-CNN-2.com/blank#ndbc8c43eaf3146fb932f651a27d83aceb1> <http://schema.org/about> <http://example.org/ontology#ChristianPulisic> <FIFA-CNN-2> .
+ <http://example.org/ontology#GroupB> <http://schema.org/name> "Group B"  <FIFA-CNN-2> .
+ <http://FIFA-CNN-2.com/blank#ndbc8c43eaf3146fb932f651a27d83aceb4> <http://schema.org/event> <http://example.org/ontology#GroupA> <FIFA-CNN-2> .
+ <http://example.org/ontology#ChristianPulisic> <http://xmlns.com/foaf/0.1/name> "Christian Pulisic"  <FIFA-CNN-2> .
+ <http://example.org/ontology#FOXSports> <http://schema.org/name> "FOX Sports"  <FIFA-CNN-2> .
+ <http://FIFA-CNN-2.com/blank#ndbc8c43eaf3146fb932f651a27d83aceb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Comment> <FIFA-CNN-2> .
+ <http://FIFA-CNN-2.com/blank#ndbc8c43eaf3146fb932f651a27d83aceb2> <http://schema.org/contactType> "comment request"  <FIFA-CNN-2> .
+ <http://example.org/ontology#MatchUSAvsIran> <http://schema.org/eventStatus> "completed"  <FIFA-CNN-2> .
+ <http://example.org/ontology#MatchUSAvsIran> <http://schema.org/winner> <http://example.org/ontology#UnitedStatesSoccerTeam> <FIFA-CNN-2> .
+ <http://example.org/ontology#InjuryUpdate> <http://schema.org/cause> <http://example.org/ontology#MatchUSAvsIran> <FIFA-CNN-2> .
+ <http://example.org/ontology#UnitedStatesSoccerTeam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <FIFA-CNN-2> .
+ <http://FIFA-CNN-2.com/blank#ndbc8c43eaf3146fb932f651a27d83aceb1> <http://schema.org/dateCreated> "2023-11-25T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <FIFA-CNN-2> .
+ <http://example.org/ontology#US_Soccer> <http://schema.org/name> "US Soccer"  <FIFA-CNN-2> .
+ <http://example.org/ontology#PenaltyGoal> <http://example.org/ontology#inMatch> <http://example.org/ontology#USAvsWalesMatch> <FIFA-CNN-3> .
+ <http://example.org/ontology#FirstHalfGoal> <http://example.org/ontology#scoredBy> <http://example.org/ontology#TimothyWeah> <FIFA-CNN-3> .
+ <http://example.org/ontology#USAvsWalesMatch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#SoccerMatch> <FIFA-CNN-3> .
+ <http://example.org/ontology#FirstHalfGoal> <http://example.org/ontology#goalType> <http://example.org/ontology#FirstHalf> <FIFA-CNN-3> .
+ <http://example.org/ontology#TimothyWeah> <http://example.org/ontology#playsFor> <http://example.org/ontology#USMensNationalTeam> <FIFA-CNN-3> .
+ <http://example.org/ontology#Qatar2022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#SoccerTournament> <FIFA-CNN-3> .
+ <http://example.org/ontology#GarethBale> <http://example.org/ontology#scoredGoal> <http://example.org/ontology#PenaltyGoal> <FIFA-CNN-3> .
+ <http://example.org/ontology#AlRayyanStadium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Stadium> <FIFA-CNN-3> .
+ <http://example.org/ontology#GarethBale> <http://example.org/ontology#playsFor> <http://example.org/ontology#WalesNationalTeam> <FIFA-CNN-3> .
+ <http://example.org/ontology#USMensNationalTeam> <http://example.org/ontology#hasAverageAge> "25 years and 175 days"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-CNN-3> .
+ <http://example.org/ontology#TimothyWeah> <http://example.org/ontology#scoredGoal> <http://example.org/ontology#FirstHalfGoal> <FIFA-CNN-3> .
+ <http://example.org/ontology#USAvsWalesMatch> <http://example.org/ontology#team1> <http://example.org/ontology#USMensNationalTeam> <FIFA-CNN-3> .
+ <http://example.org/ontology#WalesNationalTeam> <http://example.org/ontology#playedIn> <http://example.org/ontology#GroupB> <FIFA-CNN-3> .
+ <http://example.org/ontology#FirstHalfGoal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Goal> <FIFA-CNN-3> .
+ <http://example.org/ontology#USMensNationalTeam> <http://example.org/ontology#playedIn> <http://example.org/ontology#GroupB> <FIFA-CNN-3> .
+ <http://example.org/ontology#USAvsWalesMatch> <http://example.org/ontology#partOf> <http://example.org/ontology#GroupB> <FIFA-CNN-3> .
+ <http://example.org/ontology#WalesNationalTeam> <http://example.org/ontology#hasMatch> <http://example.org/ontology#USAvsWalesMatch> <FIFA-CNN-3> .
+ <http://example.org/ontology#GarethBale> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#SoccerPlayer> <FIFA-CNN-3> .
+ <http://example.org/ontology#GarethBale> <http://example.org/ontology#playsFor> <http://example.org/ontology#LAFC> <FIFA-CNN-3> .
+ <http://example.org/ontology#PenaltyGoal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Goal> <FIFA-CNN-3> .
+ <http://example.org/ontology#USAvsWalesMatch> <http://example.org/ontology#team2> <http://example.org/ontology#WalesNationalTeam> <FIFA-CNN-3> .
+ <http://example.org/ontology#PenaltyGoal> <http://example.org/ontology#scoredBy> <http://example.org/ontology#GarethBale> <FIFA-CNN-3> .
+ <http://example.org/ontology#FirstHalfGoal> <http://example.org/ontology#inMatch> <http://example.org/ontology#USAvsWalesMatch> <FIFA-CNN-3> .
+ <http://example.org/ontology#USAvsWalesMatch> <http://example.org/ontology#team2Score> "1"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-CNN-3> .
+ <http://example.org/ontology#PenaltyGoal> <http://example.org/ontology#goalType> <http://example.org/ontology#Penalty> <FIFA-CNN-3> .
+ <http://example.org/ontology#USAvsWalesMatch> <http://example.org/ontology#team1Score> "1"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-CNN-3> .
+ <http://example.org/ontology#WalesNationalTeam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#SoccerTeam> <FIFA-CNN-3> .
+ <http://example.org/ontology#GeorgeWeah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#SoccerGreat> <FIFA-CNN-3> .
+ <http://example.org/ontology#Qatar2022> <http://example.org/ontology#includesMatch> <http://example.org/ontology#USAvsWalesMatch> <FIFA-CNN-3> .
+ <http://example.org/ontology#TimothyWeah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#SoccerPlayer> <FIFA-CNN-3> .
+ <http://example.org/ontology#USMensNationalTeam> <http://example.org/ontology#hasMatch> <http://example.org/ontology#USAvsWalesMatch> <FIFA-CNN-3> .
+ <http://example.org/ontology#USMensNationalTeam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#SoccerTeam> <FIFA-CNN-3> .
+ <http://example.org/ontology#USAvsWalesMatch> <http://example.org/ontology#location> <http://example.org/ontology#AlRayyanStadium> <FIFA-CNN-3> .
+ <http://example.org/ontology#GeorgeWeah> <http://example.org/ontology#parentOf> <http://example.org/ontology#TimothyWeah> <FIFA-CNN-3> .
+ <http://example.org/ontology#GroupB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Group> <FIFA-CNN-3> .
+ <http://FIFA-CNN-4.com/blank#n4f5871e2d64a4f2288ffdd7bc0d8b388b3> <http://schema.org/performer> <http://example.org/GoncaloRamos> <FIFA-CNN-4> .
+ <http://FIFA-CNN-4.com/blank#n4f5871e2d64a4f2288ffdd7bc0d8b388b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <FIFA-CNN-4> .
+ <http://example.org/GoncaloRamos> <http://dbpedia.org/ontology/age> "21"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-CNN-4> .
+ <http://example.org/RafaelLeao> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Portugal_national_football_team> <FIFA-CNN-4> .
+ <http://example.org/RafaelLeao> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-4> .
+ <http://example.org/RaphaelGuerreiro> <http://xmlns.com/foaf/0.1/name> "Raphaël Guerreiro"  <FIFA-CNN-4> .
+ <http://example.org/PortugalVsSwitzerland> <http://schema.org/subEvent> <http://FIFA-CNN-4.com/blank#n4f5871e2d64a4f2288ffdd7bc0d8b388b5>  <FIFA-CNN-4> .
+ <http://example.org/ManuelAkanji> <http://xmlns.com/foaf/0.1/name> "Manuel Akanji"  <FIFA-CNN-4> .
+ <http://example.org/PortugalVsSwitzerland> <http://dbpedia.org/ontology/result> "Portugal 6 - 1 Switzerland"  <FIFA-CNN-4> .
+ <http://FIFA-CNN-4.com/blank#n4f5871e2d64a4f2288ffdd7bc0d8b388b7> <http://schema.org/performer> <http://example.org/ManuelAkanji> <FIFA-CNN-4> .
+ <http://example.org/PortugalVsSwitzerland> <http://schema.org/subEvent> <http://FIFA-CNN-4.com/blank#n4f5871e2d64a4f2288ffdd7bc0d8b388b3>  <FIFA-CNN-4> .
+ <http://FIFA-CNN-4.com/blank#n4f5871e2d64a4f2288ffdd7bc0d8b388b6> <http://schema.org/name> "Goal by Rafael Leão"  <FIFA-CNN-4> .
+ <http://FIFA-CNN-4.com/blank#n4f5871e2d64a4f2288ffdd7bc0d8b388b8> <http://schema.org/startTime> "01:13:00"^^<http://www.w3.org/2001/XMLSchema#duration>  <FIFA-CNN-4> .
+ <http://FIFA-CNN-4.com/blank#n4f5871e2d64a4f2288ffdd7bc0d8b388b2> <http://schema.org/name> "Second Goal by Gonçalo Ramos"  <FIFA-CNN-4> .
+ <http://example.org/Pepe> <http://schema.org/memberOf> <http://example.org/PortugalVsSwitzerland> <FIFA-CNN-4> .
+ <http://example.org/ManuelAkanji> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Switzerland_national_football_team> <FIFA-CNN-4> .
+ <http://example.org/PortugalVsSwitzerland> <http://schema.org/subEvent> <http://FIFA-CNN-4.com/blank#n4f5871e2d64a4f2288ffdd7bc0d8b388b8>  <FIFA-CNN-4> .
+ <http://FIFA-CNN-4.com/blank#n4f5871e2d64a4f2288ffdd7bc0d8b388b8> <http://schema.org/name> "Cristiano Ronaldo enters game"  <FIFA-CNN-4> .
+ <http://FIFA-CNN-4.com/blank#n4f5871e2d64a4f2288ffdd7bc0d8b388b4> <http://schema.org/name> "Goal by Pepe"  <FIFA-CNN-4> .
+ <http://example.org/GoncaloRamos> <http://schema.org/memberOf> <http://example.org/PortugalVsSwitzerland> <FIFA-CNN-4> .
+ <http://example.org/MoroccoVsSpain> <http://schema.org/startDate> "2022-12-06"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-CNN-4> .
+ <http://example.org/CristianoRonaldo> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Portugal_national_football_team> <FIFA-CNN-4> .
+ <http://FIFA-CNN-4.com/blank#n4f5871e2d64a4f2288ffdd7bc0d8b388b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <FIFA-CNN-4> .
+ <http://FIFA-CNN-4.com/blank#n4f5871e2d64a4f2288ffdd7bc0d8b388b8> <http://schema.org/performer> <http://example.org/CristianoRonaldo> <FIFA-CNN-4> .
+ <http://example.org/Pepe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-4> .
+ <http://FIFA-CNN-4.com/blank#n4f5871e2d64a4f2288ffdd7bc0d8b388b2> <http://schema.org/performer> <http://example.org/GoncaloRamos> <FIFA-CNN-4> .
+ <http://example.org/GoncaloRamos> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Portugal_national_football_team> <FIFA-CNN-4> .
+ <http://example.org/CristianoRonaldo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-4> .
+ <http://FIFA-CNN-4.com/blank#n4f5871e2d64a4f2288ffdd7bc0d8b388b3> <http://schema.org/name> "Third Goal by Gonçalo Ramos"  <FIFA-CNN-4> .
+ <http://FIFA-CNN-4.com/blank#n4f5871e2d64a4f2288ffdd7bc0d8b388b1> <http://schema.org/performer> <http://example.org/GoncaloRamos> <FIFA-CNN-4> .
+ <http://example.org/GoncaloRamos> <http://xmlns.com/foaf/0.1/name> "Gonçalo Ramos"  <FIFA-CNN-4> .
+ <http://example.org/ManuelAkanji> <http://schema.org/memberOf> <http://example.org/PortugalVsSwitzerland> <FIFA-CNN-4> .
+ <http://FIFA-CNN-4.com/blank#n4f5871e2d64a4f2288ffdd7bc0d8b388b7> <http://schema.org/name> "Goal by Manuel Akanji"  <FIFA-CNN-4> .
+ <http://example.org/RafaelLeao> <http://xmlns.com/foaf/0.1/name> "Rafael Leão"  <FIFA-CNN-4> .
+ <http://example.org/PortugalVsSwitzerland> <http://schema.org/subEvent> <http://FIFA-CNN-4.com/blank#n4f5871e2d64a4f2288ffdd7bc0d8b388b6>  <FIFA-CNN-4> .
+ <http://example.org/GoncaloRamos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-4> .
+ <http://FIFA-CNN-4.com/blank#n4f5871e2d64a4f2288ffdd7bc0d8b388b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <FIFA-CNN-4> .
+ <http://FIFA-CNN-4.com/blank#n4f5871e2d64a4f2288ffdd7bc0d8b388b5> <http://schema.org/performer> <http://example.org/RaphaelGuerreiro> <FIFA-CNN-4> .
+ <http://example.org/MoroccoVsSpain> <http://schema.org/name> "Morocco vs Spain"  <FIFA-CNN-4> .
+ <http://example.org/ManuelAkanji> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-4> .
+ <http://example.org/CristianoRonaldo> <http://dbpedia.org/ontology/worldCupAppearances> "5"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-CNN-4> .
+ <http://FIFA-CNN-4.com/blank#n4f5871e2d64a4f2288ffdd7bc0d8b388b4> <http://schema.org/performer> <http://example.org/Pepe> <FIFA-CNN-4> .
+ <http://example.org/PortugalVsSwitzerland> <http://schema.org/subEvent> <http://FIFA-CNN-4.com/blank#n4f5871e2d64a4f2288ffdd7bc0d8b388b4>  <FIFA-CNN-4> .
+ <http://FIFA-CNN-4.com/blank#n4f5871e2d64a4f2288ffdd7bc0d8b388b6> <http://schema.org/performer> <http://example.org/RafaelLeao> <FIFA-CNN-4> .
+ <http://FIFA-CNN-4.com/blank#n4f5871e2d64a4f2288ffdd7bc0d8b388b1> <http://schema.org/name> "Goal by Gonçalo Ramos"  <FIFA-CNN-4> .
+ <http://example.org/MoroccoVsSpain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <FIFA-CNN-4> .
+ <http://example.org/MoroccoVsSpain> <http://dbpedia.org/ontology/competition> <http://dbpedia.org/resource/FIFA_World_Cup_2022> <FIFA-CNN-4> .
+ <http://FIFA-CNN-4.com/blank#n4f5871e2d64a4f2288ffdd7bc0d8b388b5> <http://schema.org/name> "Goal by Raphaël Guerreiro"  <FIFA-CNN-4> .
+ <http://example.org/PortugalVsSwitzerland> <http://dbpedia.org/ontology/competition> <http://dbpedia.org/resource/FIFA_World_Cup_2022> <FIFA-CNN-4> .
+ <http://example.org/MoroccoVsSpain> <http://dbpedia.org/ontology/result> "Morocco wins on penalty kicks"  <FIFA-CNN-4> .
+ <http://example.org/RaphaelGuerreiro> <http://schema.org/memberOf> <http://example.org/PortugalVsSwitzerland> <FIFA-CNN-4> .
+ <http://example.org/RaphaelGuerreiro> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Portugal_national_football_team> <FIFA-CNN-4> .
+ <http://example.org/Pepe> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Portugal_national_football_team> <FIFA-CNN-4> .
+ <http://example.org/PortugalVsSwitzerland> <http://schema.org/subEvent> <http://FIFA-CNN-4.com/blank#n4f5871e2d64a4f2288ffdd7bc0d8b388b2>  <FIFA-CNN-4> .
+ <http://FIFA-CNN-4.com/blank#n4f5871e2d64a4f2288ffdd7bc0d8b388b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <FIFA-CNN-4> .
+ <http://example.org/CristianoRonaldo> <http://schema.org/memberOf> <http://example.org/PortugalVsSwitzerland> <FIFA-CNN-4> .
+ <http://example.org/PortugalVsSwitzerland> <http://schema.org/subEvent> <http://FIFA-CNN-4.com/blank#n4f5871e2d64a4f2288ffdd7bc0d8b388b1>  <FIFA-CNN-4> .
+ <http://example.org/Pepe> <http://xmlns.com/foaf/0.1/name> "Pepe"  <FIFA-CNN-4> .
+ <http://example.org/PortugalVsSwitzerland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <FIFA-CNN-4> .
+ <http://FIFA-CNN-4.com/blank#n4f5871e2d64a4f2288ffdd7bc0d8b388b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <FIFA-CNN-4> .
+ <http://FIFA-CNN-4.com/blank#n4f5871e2d64a4f2288ffdd7bc0d8b388b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <FIFA-CNN-4> .
+ <http://example.org/PortugalVsSwitzerland> <http://schema.org/name> "Portugal vs Switzerland"  <FIFA-CNN-4> .
+ <http://example.org/PortugalVsSwitzerland> <http://schema.org/subEvent> <http://FIFA-CNN-4.com/blank#n4f5871e2d64a4f2288ffdd7bc0d8b388b7>  <FIFA-CNN-4> .
+ <http://example.org/PortugalVsSwitzerland> <http://schema.org/startDate> "2022-12-06"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-CNN-4> .
+ <http://FIFA-CNN-4.com/blank#n4f5871e2d64a4f2288ffdd7bc0d8b388b7> <http://schema.org/startTime> "00:58:00"^^<http://www.w3.org/2001/XMLSchema#duration>  <FIFA-CNN-4> .
+ <http://example.org/RaphaelGuerreiro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-4> .
+ <http://example.org/RafaelLeao> <http://schema.org/memberOf> <http://example.org/PortugalVsSwitzerland> <FIFA-CNN-4> .
+ <http://example.org/PortugalVsSwitzerland> <http://dbpedia.org/ontology/quarterFinals> <http://dbpedia.org/resource/Morocco_national_football_team> <FIFA-CNN-4> .
+ <http://FIFA-CNN-4.com/blank#n4f5871e2d64a4f2288ffdd7bc0d8b388b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <FIFA-CNN-4> .
+ <http://FIFA-CNN-4.com/blank#n4f5871e2d64a4f2288ffdd7bc0d8b388b1> <http://schema.org/startTime> "00:17:00"^^<http://www.w3.org/2001/XMLSchema#duration>  <FIFA-CNN-4> .
+ <http://example.org/CristianoRonaldo> <http://dbpedia.org/ontology/age> "37"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-CNN-4> .
+ <http://example.org/GoncaloRamos> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Forward_(association_football)> <FIFA-CNN-4> .
+ <http://example.org/CristianoRonaldo> <http://xmlns.com/foaf/0.1/name> "Cristiano Ronaldo"  <FIFA-CNN-4> .
+ <http://FIFA-CNN-4.com/blank#n4f5871e2d64a4f2288ffdd7bc0d8b388b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <FIFA-CNN-4> .
+ <http://example.org/JamalMusiala> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Athlete> <FIFA-CNN-5> .
+ <http://example.org/SpainVsGermany> <http://schema.org/location> <http://example.org/AlBaytStadium> <FIFA-CNN-5> .
+ <http://example.org/JamalMusiala> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-5> .
+ <http://example.org/Germany> <http://schema.org/name> "Germany"  <FIFA-CNN-5> .
+ <http://example.org/NiclasFullkrug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Athlete> <FIFA-CNN-5> .
+ <http://example.org/NiclasFullkrug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-5> .
+ <http://example.org/ManuelNeuer> <http://schema.org/memberOf> <http://example.org/Germany> <FIFA-CNN-5> .
+ <http://example.org/NiclasFullkrug> <http://xmlns.com/foaf/0.1/name> "Niclas Füllkrug"  <FIFA-CNN-5> .
+ <http://example.org/AntonioRudiger> <http://xmlns.com/foaf/0.1/name> "Antonio Rüdiger"  <FIFA-CNN-5> .
+ <http://example.org/JamalMusiala> <http://schema.org/memberOf> <http://example.org/Germany> <FIFA-CNN-5> .
+ <http://example.org/GermanyVsJapan> <http://schema.org/result> "Germany loss"  <FIFA-CNN-5> .
+ <http://example.org/Spain> <http://dbpedia.org/ontology/groupPosition> "1"  <FIFA-CNN-5> .
+ <http://example.org/SpainVsCostaRica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <FIFA-CNN-5> .
+ <http://example.org/UnaiSimon> <http://schema.org/position> "Goalkeeper"  <FIFA-CNN-5> .
+ <http://example.org/SpainVsGermany> <http://schema.org/name> "Spain vs Germany"  <FIFA-CNN-5> .
+ <http://example.org/DaniOlmo> <http://xmlns.com/foaf/0.1/name> "Dani Olmo"  <FIFA-CNN-5> .
+ <http://example.org/JoshuaKimmich> <http://xmlns.com/foaf/0.1/name> "Joshua Kimmich"  <FIFA-CNN-5> .
+ <http://example.org/AlvaroMorata> <http://schema.org/memberOf> <http://example.org/Spain> <FIFA-CNN-5> .
+ <http://example.org/Spain> <http://schema.org/name> "Spain"  <FIFA-CNN-5> .
+ <http://example.org/UnaiSimon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-5> .
+ <http://example.org/SpainVsCostaRica> <http://schema.org/eventType> "Soccer Match"  <FIFA-CNN-5> .
+ <http://example.org/CostaRica> <http://schema.org/name> "Costa Rica"  <FIFA-CNN-5> .
+ <http://example.org/SpainVsGermany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <FIFA-CNN-5> .
+ <http://example.org/SpainVsGermany> <http://schema.org/competitor> <http://example.org/Spain> <FIFA-CNN-5> .
+ <http://example.org/SpainVsCostaRica> <http://schema.org/result> "7-0"  <FIFA-CNN-5> .
+ <http://example.org/Germany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <FIFA-CNN-5> .
+ <http://example.org/GermanyVsJapan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <FIFA-CNN-5> .
+ <http://example.org/DaniOlmo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Athlete> <FIFA-CNN-5> .
+ <http://example.org/SpainVsGermany> <http://schema.org/result> "1-1 tie"  <FIFA-CNN-5> .
+ <http://example.org/Japan> <http://schema.org/name> "Japan"  <FIFA-CNN-5> .
+ <http://example.org/SpainVsCostaRica> <http://schema.org/competitor> <http://example.org/CostaRica> <FIFA-CNN-5> .
+ <http://example.org/Spain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <FIFA-CNN-5> .
+ <http://example.org/GermanyVsJapan> <http://schema.org/competitor> <http://example.org/Germany> <FIFA-CNN-5> .
+ <http://example.org/JoshuaKimmich> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-5> .
+ <http://example.org/SpainVsGermany> <http://schema.org/eventType> "Soccer Match"  <FIFA-CNN-5> .
+ <http://example.org/AlvaroMorata> <http://schema.org/position> "Striker"  <FIFA-CNN-5> .
+ <http://example.org/Germany> <http://dbpedia.org/ontology/groupPosition> "Bottom"  <FIFA-CNN-5> .
+ <http://example.org/DaniOlmo> <http://schema.org/memberOf> <http://example.org/Spain> <FIFA-CNN-5> .
+ <http://example.org/ManuelNeuer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Athlete> <FIFA-CNN-5> .
+ <http://example.org/Japan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <FIFA-CNN-5> .
+ <http://example.org/JoshuaKimmich> <http://schema.org/memberOf> <http://example.org/Germany> <FIFA-CNN-5> .
+ <http://example.org/AlBaytStadium> <http://schema.org/name> "Al Bayt Stadium"  <FIFA-CNN-5> .
+ <http://example.org/GermanyVsJapan> <http://schema.org/eventType> "Soccer Match"  <FIFA-CNN-5> .
+ <http://example.org/NiclasFullkrug> <http://schema.org/memberOf> <http://example.org/Germany> <FIFA-CNN-5> .
+ <http://example.org/GermanyVsJapan> <http://schema.org/competitor> <http://example.org/Japan> <FIFA-CNN-5> .
+ <http://example.org/UnaiSimon> <http://xmlns.com/foaf/0.1/name> "Unai Simón"  <FIFA-CNN-5> .
+ <http://example.org/AlvaroMorata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Athlete> <FIFA-CNN-5> .
+ <http://example.org/AlvaroMorata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-5> .
+ <http://example.org/SpainVsCostaRica> <http://schema.org/competitor> <http://example.org/Spain> <FIFA-CNN-5> .
+ <http://example.org/SpainVsGermany> <http://schema.org/sport> "Soccer"  <FIFA-CNN-5> .
+ <http://example.org/AlBaytStadium> <http://schema.org/location> <http://example.org/AlKhor> <FIFA-CNN-5> .
+ <http://example.org/AntonioRudiger> <http://schema.org/memberOf> <http://example.org/Germany> <FIFA-CNN-5> .
+ <http://example.org/AntonioRudiger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Athlete> <FIFA-CNN-5> .
+ <http://example.org/AlKhor> <http://schema.org/location> <http://dbpedia.org/resource/Qatar> <FIFA-CNN-5> .
+ <http://example.org/AntonioRudiger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-5> .
+ <http://example.org/SpainVsGermany> <http://schema.org/startDate> "2023-03-26"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-CNN-5> .
+ <http://example.org/UnaiSimon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Athlete> <FIFA-CNN-5> .
+ <http://example.org/ManuelNeuer> <http://xmlns.com/foaf/0.1/name> "Manuel Neuer"  <FIFA-CNN-5> .
+ <http://example.org/SpainVsGermany> <http://schema.org/competitor> <http://example.org/Germany> <FIFA-CNN-5> .
+ <http://example.org/AlvaroMorata> <http://dbpedia.org/ontology/age> "30"^^<http://www.w3.org/2001/XMLSchema#integer>  <FIFA-CNN-5> .
+ <http://example.org/UnaiSimon> <http://schema.org/memberOf> <http://example.org/Spain> <FIFA-CNN-5> .
+ <http://example.org/CostaRica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <FIFA-CNN-5> .
+ <http://example.org/Spain> <http://schema.org/points> "4"  <FIFA-CNN-5> .
+ <http://example.org/Germany> <http://schema.org/points> "1"  <FIFA-CNN-5> .
+ <http://example.org/JamalMusiala> <http://xmlns.com/foaf/0.1/name> "Jamal Musiala"  <FIFA-CNN-5> .
+ <http://example.org/ManuelNeuer> <http://schema.org/position> "Goalkeeper"  <FIFA-CNN-5> .
+ <http://example.org/DaniOlmo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-5> .
+ <http://example.org/AlvaroMorata> <http://xmlns.com/foaf/0.1/name> "Álvaro Morata"  <FIFA-CNN-5> .
+ <http://example.org/AlBaytStadium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/StadiumOrArena> <FIFA-CNN-5> .
+ <http://example.org/AlKhor> <http://schema.org/name> "Al Khor"  <FIFA-CNN-5> .
+ <http://example.org/JoshuaKimmich> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Athlete> <FIFA-CNN-5> .
+ <http://example.org/AlKhor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/City> <FIFA-CNN-5> .
+ <http://example.org/ManuelNeuer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-5> .
+ <http://example.org/GoalAgainstSpain> <http://schema.org/against> <http://example.org/Spain> <FIFA-CNN-6> .
+ <http://FIFA-CNN-6.com/blank#n4fd96226ef1d48d6843dbee79f14bc69b1> <http://schema.org/value> "20%"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-CNN-6> .
+ <http://example.org/MatchBetweenJapanAndSpain> <http://schema.org/eventStatus> "incredible match"  <FIFA-CNN-6> .
+ <http://example.org/GoalAgainstSpain> <http://schema.org/startTime> "48"^^<http://www.w3.org/2001/XMLSchema#integer>  <FIFA-CNN-6> .
+ <http://example.org/AoTanaka> <http://example.org/celebrates> <http://example.org/GoalAgainstSpain> <FIFA-CNN-6> .
+ <http://example.org/AlvaroMorata> <http://xmlns.com/foaf/0.1/name> "Alvaro Morata"  <FIFA-CNN-6> .
+ <http://example.org/MatchBetweenJapanAndSpain> <http://schema.org/subEvent> <http://example.org/OpeningGoalForSpain> <FIFA-CNN-6> .
+ <http://example.org/Correction> <http://schema.org/commentText> "An earlier version of this post misstated the nickname of Spain's team. It is La Furia Roja."  <FIFA-CNN-6> .
+ <http://FIFA-CNN-6.com/blank#n4fd96226ef1d48d6843dbee79f14bc69b3> <http://schema.org/name> "condition"  <FIFA-CNN-6> .
+ <http://example.org/MatchBetweenJapanAndSpain> <http://schema.org/competitor> <http://example.org/Japan> <FIFA-CNN-6> .
+ <http://example.org/OpeningGoalForSpain> <http://schema.org/agent> <http://example.org/AlvaroMorata> <FIFA-CNN-6> .
+ <http://FIFA-CNN-6.com/blank#n4fd96226ef1d48d6843dbee79f14bc69b2> <http://schema.org/value> "lesser"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-CNN-6> .
+ <http://example.org/AoTanaka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-6> .
+ <http://example.org/JapanAdvancesToRoundOf16> <http://schema.org/additionalProperty> <http://FIFA-CNN-6.com/blank#n4fd96226ef1d48d6843dbee79f14bc69b1>  <FIFA-CNN-6> .
+ <http://example.org/Correction> <http://schema.org/about> <http://example.org/Spain> <FIFA-CNN-6> .
+ <http://example.org/AlvaroMorata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-6> .
+ <http://example.org/OpeningGoalForSpain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <FIFA-CNN-6> .
+ <http://example.org/GoalAgainstSpain> <http://schema.org/result> <http://example.org/JapanAdvancesToRoundOf16> <FIFA-CNN-6> .
+ <http://example.org/AoTanaka> <http://xmlns.com/foaf/0.1/name> "Ao Tanaka"  <FIFA-CNN-6> .
+ <http://FIFA-CNN-6.com/blank#n4fd96226ef1d48d6843dbee79f14bc69b2> <http://schema.org/name> "attempted shots"  <FIFA-CNN-6> .
+ <http://example.org/JapanAdvancesToRoundOf16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <FIFA-CNN-6> .
+ <http://example.org/MatchBetweenJapanAndSpain> <http://schema.org/subEvent> <http://example.org/GoalAgainstSpain> <FIFA-CNN-6> .
+ <http://example.org/SpainAdvancesToKnockoutRound> <http://schema.org/additionalProperty> <http://FIFA-CNN-6.com/blank#n4fd96226ef1d48d6843dbee79f14bc69b3>  <FIFA-CNN-6> .
+ <http://example.org/SpainAdvancesToKnockoutRound> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <FIFA-CNN-6> .
+ <http://example.org/SpainAdvancesToKnockoutRound> <http://schema.org/competitor> <http://example.org/Spain> <FIFA-CNN-6> .
+ <http://example.org/Japan> <http://example.org/teamName> "Blue Samurai"  <FIFA-CNN-6> .
+ <http://example.org/SpainAdvancesToKnockoutRound> <http://schema.org/eventOutcome> "squeaked through to the knockout round"  <FIFA-CNN-6> .
+ <http://example.org/AlvaroMorata> <http://example.org/secures> <http://example.org/OpeningGoalForSpain> <FIFA-CNN-6> .
+ <http://example.org/JapanAdvancesToRoundOf16> <http://schema.org/additionalProperty> <http://FIFA-CNN-6.com/blank#n4fd96226ef1d48d6843dbee79f14bc69b2>  <FIFA-CNN-6> .
+ <http://example.org/GoalAgainstSpain> <http://schema.org/agent> <http://example.org/AoTanaka> <FIFA-CNN-6> .
+ <http://example.org/MatchBetweenJapanAndSpain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <FIFA-CNN-6> .
+ <http://FIFA-CNN-6.com/blank#n4fd96226ef1d48d6843dbee79f14bc69b3> <http://schema.org/value> "Costa Rica failed to defeat Germany"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-CNN-6> .
+ <http://example.org/Spain> <http://example.org/teamName> "La Furia Roja"  <FIFA-CNN-6> .
+ <http://example.org/Spain> <http://schema.org/member> <http://example.org/AlvaroMorata> <FIFA-CNN-6> .
+ <http://example.org/JapanAdvancesToRoundOf16> <http://schema.org/competitor> <http://example.org/Japan> <FIFA-CNN-6> .
+ <http://example.org/Correction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CorrectionComment> <FIFA-CNN-6> .
+ <http://example.org/Japan> <http://schema.org/member> <http://example.org/AoTanaka> <FIFA-CNN-6> .
+ <http://FIFA-CNN-6.com/blank#n4fd96226ef1d48d6843dbee79f14bc69b1> <http://schema.org/name> "possession"  <FIFA-CNN-6> .
+ <http://example.org/MatchBetweenJapanAndSpain> <http://schema.org/competitor> <http://example.org/Spain> <FIFA-CNN-6> .
+ <http://example.org/GoalAgainstSpain> <http://schema.org/endTime> "51"^^<http://www.w3.org/2001/XMLSchema#integer>  <FIFA-CNN-6> .
+ <http://example.org/OpeningGoalForSpain> <http://schema.org/partOf> <http://example.org/MatchBetweenJapanAndSpain> <FIFA-CNN-6> .
+ <http://example.org/JapanAdvancesToRoundOf16> <http://schema.org/eventOutcome> "triumphant advance to the Round of 16 atop Group E"  <FIFA-CNN-6> .
+ <http://example.org/GoalAgainstSpain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <FIFA-CNN-6> .
+ <http://example.org/PhotographByHamadIMohammed> <http://schema.org/author> "Hamad I Mohammed"  <FIFA-CNN-7> .
+ <http://example.org/PenaltyShootout> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <FIFA-CNN-7> .
+ <http://example.org/LionelMessi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-7> .
+ <http://example.org/PhotographByHamadIMohammed> <http://schema.org/provider> "Reuters"  <FIFA-CNN-7> .
+ <http://example.org/AngelDiMaria> <http://dbpedia.org/ontology/isPartOf> <http://example.org/MatchArgentinaVsNetherlands> <FIFA-CNN-7> .
+ <http://example.org/PenaltyShootout> <http://dbpedia.org/ontology/homeScore> "4"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-CNN-7> .
+ <http://example.org/AngelDiMaria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-CNN-7> .
+ <http://example.org/SemifinalVsCroatia> <http://dbpedia.org/ontology/homeTeam> <http://dbpedia.org/resource/Argentina_national_football_team> <FIFA-CNN-7> .
+ <http://example.org/SemifinalVsCroatia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerMatch> <FIFA-CNN-7> .
+ <http://example.org/SemifinalVsCroatia> <http://dbpedia.org/ontology/awayTeam> <http://dbpedia.org/resource/Croatia_national_football_team> <FIFA-CNN-7> .
+ <http://example.org/MatchArgentinaVsNetherlands> <http://dbpedia.org/ontology/result> "Argentina 4 - 3 Netherlands"@en  <FIFA-CNN-7> .
+ <http://example.org/MatchArgentinaVsNetherlands> <http://dbpedia.org/ontology/homeTeam> <http://dbpedia.org/resource/Argentina_national_football_team> <FIFA-CNN-7> .
+ <http://example.org/MatchArgentinaVsNetherlands> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerMatch> <FIFA-CNN-7> .
+ <http://example.org/MatchEvents> <http://schema.org/description> "The match included on-field scuffles, more than a dozen bookings, and a late equalizer from the Dutch."@en  <FIFA-CNN-7> .
+ <http://example.org/AngelDiMaria> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Winger> <FIFA-CNN-7> .
+ <http://example.org/PhotographByHamadIMohammed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Photograph> <FIFA-CNN-7> .
+ <http://example.org/LionelMessi> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Argentina_national_football_team> <FIFA-CNN-7> .
+ <http://example.org/MatchEvents> <http://dbpedia.org/ontology/isPartOf> <http://example.org/MatchArgentinaVsNetherlands> <FIFA-CNN-7> .
+ <http://example.org/LionelMessi> <http://xmlns.com/foaf/0.1/name> "Lionel Messi"  <FIFA-CNN-7> .
+ <http://example.org/AngelDiMaria> <http://xmlns.com/foaf/0.1/name> "Angel Di Maria"  <FIFA-CNN-7> .
+ <http://example.org/PhotographByHamadIMohammed> <http://schema.org/about> <http://example.org/MatchArgentinaVsNetherlands> <FIFA-CNN-7> .
+ <http://example.org/MatchArgentinaVsNetherlands> <http://dbpedia.org/ontology/awayTeam> <http://dbpedia.org/resource/Netherlands_national_football_team> <FIFA-CNN-7> .
+ <http://example.org/LionelMessi> <http://example.org/assistedGoals> "1"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-CNN-7> .
+ <http://example.org/MatchArgentinaVsNetherlands> <http://schema.org/eventStatus> <http://schema.org/EventPostponed> <FIFA-CNN-7> .
+ <http://example.org/MatchArgentinaVsNetherlands> <http://dbpedia.org/ontology/competition> <http://dbpedia.org/resource/FIFA_World_Cup> <FIFA-CNN-7> .
+ <http://example.org/LionelMessi> <http://example.org/scoredGoals> "1"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-CNN-7> .
+ <http://example.org/PenaltyShootout> <http://dbpedia.org/ontology/isPartOf> <http://example.org/MatchArgentinaVsNetherlands> <FIFA-CNN-7> .
+ <http://example.org/LionelMessi> <http://dbpedia.org/ontology/age> "35"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-CNN-7> .
+ <http://example.org/SemifinalVsCroatia> <http://dbpedia.org/ontology/competition> <http://dbpedia.org/resource/FIFA_World_Cup> <FIFA-CNN-7> .
+ <http://example.org/PenaltyShootout> <http://dbpedia.org/ontology/awayScore> "3"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-CNN-7> .
+ <http://example.org/LionelMessi> <http://dbpedia.org/ontology/birthDate> "1987-06-24"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-CNN-7> .
+ <http://example.org/LionelMessi> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Forward_(association_football)> <FIFA-CNN-7> .
+ <http://example.org/MatchEvents> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <FIFA-CNN-7> .
+ <http://example.org/MatchArgentinaVsNetherlands> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/FIFA_World_Cup_2022> <FIFA-CNN-7> .
+ <http://example.org/LionelMessi> <http://dbpedia.org/ontology/isPartOf> <http://example.org/MatchArgentinaVsNetherlands> <FIFA-CNN-7> .
+ <http://example.org/AngelDiMaria> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Argentina_national_football_team> <FIFA-CNN-7> .
+ <http://example.org/SemifinalVsCroatia> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/FIFA_World_Cup_2022> <FIFA-CNN-7> .
+ <http://example.org/MoroccoSpainRoundOf16Match> <http://dbpedia.org/ontology/competition> <http://example.org/WorldCup2022> <FIFA-CNN-8> .
+ <http://example.org/BrazilSouthKoreaRoundOf16Match> <http://dbpedia.org/ontology/venue> <http://example.org/Stadium974> <FIFA-CNN-8> .
+ <http://example.org/SwitzerlandNationalFootballTeam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-CNN-8> .
+ <http://example.org/BrazilSouthKoreaRoundOf16Match> <http://dbpedia.org/ontology/team> <http://example.org/SouthKoreaNationalFootballTeam> <FIFA-CNN-8> .
+ <http://example.org/CroatiaNationalFootballTeam> <http://xmlns.com/foaf/0.1/name> "Croatia"  <FIFA-CNN-8> .
+ <http://example.org/Stadium974> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Stadium> <FIFA-CNN-8> .
+ <http://example.org/WorldCup2022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerTournament> <FIFA-CNN-8> .
+ <http://example.org/MoroccoSpainRoundOf16Match> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerMatch> <FIFA-CNN-8> .
+ <http://example.org/BrazilSouthKoreaRoundOf16Match> <http://dbpedia.org/ontology/matchDate> "2022-12-05"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-CNN-8> .
+ <http://example.org/PaikSeungHo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerPlayer> <FIFA-CNN-8> .
+ <http://example.org/Richarlison> <http://xmlns.com/foaf/0.1/name> "Richarlison"  <FIFA-CNN-8> .
+ <http://example.org/BrazilCroatiaQuarterfinalMatch> <http://dbpedia.org/ontology/matchDate> "2022-12-09"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-CNN-8> .
+ <http://example.org/Alisson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerPlayer> <FIFA-CNN-8> .
+ <http://example.org/SpainNationalFootballTeam> <http://xmlns.com/foaf/0.1/name> "Spain"  <FIFA-CNN-8> .
+ <http://example.org/SwitzerlandNationalFootballTeam> <http://xmlns.com/foaf/0.1/name> "Switzerland"  <FIFA-CNN-8> .
+ <http://example.org/SouthKoreaNationalFootballTeam> <http://xmlns.com/foaf/0.1/name> "South Korea"  <FIFA-CNN-8> .
+ <http://example.org/BrazilSouthKoreaRoundOf16Match> <http://schema.org/about> <http://dbpedia.org/resource/Pelé> <FIFA-CNN-8> .
+ <http://example.org/MoroccoSpainRoundOf16Match> <http://dbpedia.org/ontology/team> <http://example.org/MoroccoNationalFootballTeam> <FIFA-CNN-8> .
+ <http://example.org/KimSeungGyu> <http://xmlns.com/foaf/0.1/name> "Kim Seung-gyu"  <FIFA-CNN-8> .
+ <http://example.org/JapanNationalFootballTeam> <http://xmlns.com/foaf/0.1/name> "Japan"  <FIFA-CNN-8> .
+ <http://example.org/KimSeungGyu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerPlayer> <FIFA-CNN-8> .
+ <http://example.org/ViniciusJr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerPlayer> <FIFA-CNN-8> .
+ <http://example.org/PortugalNationalFootballTeam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-CNN-8> .
+ <http://example.org/BrazilSouthKoreaRoundOf16Match> <http://dbpedia.org/ontology/team> <http://example.org/BrazilNationalFootballTeam> <FIFA-CNN-8> .
+ <http://example.org/BrazilCroatiaQuarterfinalMatch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerMatch> <FIFA-CNN-8> .
+ <http://example.org/PortugalSwitzerlandRoundOf16Match> <http://dbpedia.org/ontology/competition> <http://example.org/WorldCup2022> <FIFA-CNN-8> .
+ <http://example.org/PortugalSwitzerlandRoundOf16Match> <http://dbpedia.org/ontology/startTime> "14:00:00"^^<http://www.w3.org/2001/XMLSchema#time>  <FIFA-CNN-8> .
+ <http://example.org/CroatiaJapanRoundOf16Match> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerMatch> <FIFA-CNN-8> .
+ <http://example.org/CroatiaJapanRoundOf16Match> <http://dbpedia.org/ontology/team> <http://example.org/CroatiaNationalFootballTeam> <FIFA-CNN-8> .
+ <http://example.org/ViniciusJr> <http://xmlns.com/foaf/0.1/name> "Vinicius, Jr."  <FIFA-CNN-8> .
+ <http://example.org/WorldCup2022> <http://dbpedia.org/ontology/startDate> "2022-11-20"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-CNN-8> .
+ <http://example.org/MoroccoSpainRoundOf16Match> <http://dbpedia.org/ontology/startTime> "10:00:00"^^<http://www.w3.org/2001/XMLSchema#time>  <FIFA-CNN-8> .
+ <http://example.org/CroatiaJapanRoundOf16Match> <http://dbpedia.org/ontology/result> "Penalty Kicks"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-CNN-8> .
+ <http://example.org/BrazilCroatiaQuarterfinalMatch> <http://dbpedia.org/ontology/team> <http://example.org/BrazilNationalFootballTeam> <FIFA-CNN-8> .
+ <http://example.org/Richarlison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerPlayer> <FIFA-CNN-8> .
+ <http://example.org/BrazilNationalFootballTeam> <http://xmlns.com/foaf/0.1/name> "Brazil"  <FIFA-CNN-8> .
+ <http://example.org/WorldCup2022> <http://dbpedia.org/ontology/endDate> "2022-12-18"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-CNN-8> .
+ <http://example.org/BrazilSouthKoreaRoundOf16Match> <http://dbpedia.org/ontology/result> "4-1"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-CNN-8> .
+ <http://example.org/MoroccoSpainRoundOf16Match> <http://dbpedia.org/ontology/matchDate> "2022-12-06"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-CNN-8> .
+ <http://example.org/PortugalSwitzerlandRoundOf16Match> <http://dbpedia.org/ontology/team> <http://example.org/SwitzerlandNationalFootballTeam> <FIFA-CNN-8> .
+ <http://example.org/MoroccoNationalFootballTeam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-CNN-8> .
+ <http://example.org/Neymar> <http://xmlns.com/foaf/0.1/name> "Neymar"  <FIFA-CNN-8> .
+ <http://example.org/JapanNationalFootballTeam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-CNN-8> .
+ <http://example.org/PortugalNationalFootballTeam> <http://xmlns.com/foaf/0.1/name> "Portugal"  <FIFA-CNN-8> .
+ <http://example.org/CroatiaJapanRoundOf16Match> <http://dbpedia.org/ontology/team> <http://example.org/JapanNationalFootballTeam> <FIFA-CNN-8> .
+ <http://example.org/MoroccoSpainRoundOf16Match> <http://dbpedia.org/ontology/team> <http://example.org/SpainNationalFootballTeam> <FIFA-CNN-8> .
+ <http://example.org/SonHeungMin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerPlayer> <FIFA-CNN-8> .
+ <http://example.org/BrazilCroatiaQuarterfinalMatch> <http://dbpedia.org/ontology/competition> <http://example.org/WorldCup2022> <FIFA-CNN-8> .
+ <http://example.org/CroatiaJapanRoundOf16Match> <http://dbpedia.org/ontology/competition> <http://example.org/WorldCup2022> <FIFA-CNN-8> .
+ <http://example.org/Alisson> <http://xmlns.com/foaf/0.1/name> "Alisson"  <FIFA-CNN-8> .
+ <http://example.org/LucasPaqueta> <http://xmlns.com/foaf/0.1/name> "Lucas Paqueta"  <FIFA-CNN-8> .
+ <http://example.org/PortugalSwitzerlandRoundOf16Match> <http://dbpedia.org/ontology/matchDate> "2022-12-06"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-CNN-8> .
+ <http://example.org/SpainNationalFootballTeam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-CNN-8> .
+ <http://example.org/BrazilCroatiaQuarterfinalMatch> <http://dbpedia.org/ontology/team> <http://example.org/CroatiaNationalFootballTeam> <FIFA-CNN-8> .
+ <http://example.org/CroatiaNationalFootballTeam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-CNN-8> .
+ <http://example.org/PaikSeungHo> <http://xmlns.com/foaf/0.1/name> "Paik Seung-ho"  <FIFA-CNN-8> .
+ <http://example.org/WorldCup2022> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Doha> <FIFA-CNN-8> .
+ <http://example.org/BrazilSouthKoreaRoundOf16Match> <http://purl.org/dc/elements/1.1/creator> "Odd Andersen/AFP/Getty Images"  <FIFA-CNN-8> .
+ <http://example.org/Neymar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerPlayer> <FIFA-CNN-8> .
+ <http://example.org/BrazilNationalFootballTeam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-CNN-8> .
+ <http://example.org/BrazilSouthKoreaRoundOf16Match> <http://dbpedia.org/ontology/competition> <http://example.org/WorldCup2022> <FIFA-CNN-8> .
+ <http://example.org/LucasPaqueta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerPlayer> <FIFA-CNN-8> .
+ <http://example.org/PortugalSwitzerlandRoundOf16Match> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerMatch> <FIFA-CNN-8> .
+ <http://example.org/Stadium974> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Doha> <FIFA-CNN-8> .
+ <http://example.org/MoroccoNationalFootballTeam> <http://xmlns.com/foaf/0.1/name> "Morocco"  <FIFA-CNN-8> .
+ <http://example.org/SouthKoreaNationalFootballTeam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-CNN-8> .
+ <http://example.org/CroatiaJapanRoundOf16Match> <http://dbpedia.org/ontology/matchDate> "2022-12-05"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-CNN-8> .
+ <http://example.org/SonHeungMin> <http://xmlns.com/foaf/0.1/name> "Son Heung-Min"  <FIFA-CNN-8> .
+ <http://example.org/BrazilSouthKoreaRoundOf16Match> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerMatch> <FIFA-CNN-8> .
+ <http://example.org/PortugalSwitzerlandRoundOf16Match> <http://dbpedia.org/ontology/team> <http://example.org/PortugalNationalFootballTeam> <FIFA-CNN-8> .
+ <http://example.org/MatchFranceArgentina> <http://schema.org/sportsTeam> <http://example.org/ArgentinaTeam> <FIFA-CNN-9> .
+ <http://example.org/MatchMoroccoCroatia> <http://schema.org/sportsTeam> <http://example.org/MoroccoTeam> <FIFA-CNN-9> .
+ <http://example.org/MatchFranceMorocco> <http://schema.org/workPerformed> <http://FIFA-CNN-9.com/blank#n8009b118ec8b43e7bad6fdececc8a0f5b2>  <FIFA-CNN-9> .
+ <http://example.org/WorldCup2022Final> <http://schema.org/name> "World Cup 2022 final"  <FIFA-CNN-9> .
+ <http://example.org/AlBaytStadium> <http://schema.org/name> "Al-Bayt Stadium"  <FIFA-CNN-9> .
+ <http://example.org/MatchFranceMorocco> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <FIFA-CNN-9> .
+ <http://example.org/CroatiaTeam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <FIFA-CNN-9> .
+ <http://FIFA-CNN-9.com/blank#n8009b118ec8b43e7bad6fdececc8a0f5b1> <http://schema.org/addressCountry> "Qatar"  <FIFA-CNN-9> .
+ <http://example.org/OlivierGiroud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <FIFA-CNN-9> .
+ <http://example.org/KylianMbappe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <FIFA-CNN-9> .
+ <http://example.org/OlivierGiroud> <http://schema.org/nationality> <http://example.org/FranceTeam> <FIFA-CNN-9> .
+ <http://example.org/MatchFranceMorocco> <http://schema.org/sportsTeam> <http://example.org/MoroccoTeam> <FIFA-CNN-9> .
+ <http://example.org/MatchFranceArgentina> <http://schema.org/sportsTeam> <http://example.org/FranceTeam> <FIFA-CNN-9> .
+ <http://example.org/KylianMbappe> <http://schema.org/memberOf> <http://example.org/ParisSaintGermain> <FIFA-CNN-9> .
+ <http://example.org/PhotoByKaiPfaffenbach> <http://schema.org/associatedMedia> <http://FIFA-CNN-9.com/blank#n8009b118ec8b43e7bad6fdececc8a0f5b3>  <FIFA-CNN-9> .
+ <http://example.org/GoldenBootContenders> <http://schema.org/itemListElement> <http://example.org/JulianAlvarez> <FIFA-CNN-9> .
+ <http://FIFA-CNN-9.com/blank#n8009b118ec8b43e7bad6fdececc8a0f5b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <FIFA-CNN-9> .
+ <http://example.org/MatchMoroccoCroatia> <http://schema.org/name> "Morocco vs Croatia"  <FIFA-CNN-9> .
+ <http://example.org/MatchFranceMorocco> <http://schema.org/sportsTeam> <http://example.org/FranceTeam> <FIFA-CNN-9> .
+ <http://example.org/MatchFranceMorocco> <http://schema.org/location> <http://example.org/AlBaytStadium> <FIFA-CNN-9> .
+ <http://example.org/KylianMbappe> <http://schema.org/nationality> <http://example.org/FranceTeam> <FIFA-CNN-9> .
+ <http://example.org/ParisSaintGermain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <FIFA-CNN-9> .
+ <http://example.org/FranceTeam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <FIFA-CNN-9> .
+ <http://example.org/MatchFranceMorocco> <http://schema.org/startDate> "2022-12-14"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-CNN-9> .
+ <http://example.org/FranceTeam> <http://schema.org/name> "France's team"  <FIFA-CNN-9> .
+ <http://example.org/GoldenBootContenders> <http://schema.org/itemListElement> <http://example.org/KylianMbappe> <FIFA-CNN-9> .
+ <http://example.org/WorldCup2022Final> <http://schema.org/startDate> "2022-12-18"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-CNN-9> .
+ <http://example.org/MatchMoroccoCroatia> <http://schema.org/sportsTeam> <http://example.org/CroatiaTeam> <FIFA-CNN-9> .
+ <http://example.org/CroatiaTeam> <http://schema.org/name> "Croatia team"  <FIFA-CNN-9> .
+ <http://example.org/MoroccoTeam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <FIFA-CNN-9> .
+ <http://example.org/GoldenBootContenders> <http://schema.org/itemListElement> <http://example.org/LionelMessi> <FIFA-CNN-9> .
+ <http://example.org/PhotoByKaiPfaffenbach> <http://schema.org/author> <http://example.org/KaiPfaffenbach> <FIFA-CNN-9> .
+ <http://example.org/OlivierGiroud> <http://schema.org/name> "Olivier Giroud"  <FIFA-CNN-9> .
+ <http://example.org/PhotoByKaiPfaffenbach> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Photograph> <FIFA-CNN-9> .
+ <http://FIFA-CNN-9.com/blank#n8009b118ec8b43e7bad6fdececc8a0f5b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsEvent> <FIFA-CNN-9> .
+ <http://example.org/ParisSaintGermain> <http://schema.org/name> "Paris Saint Germain"  <FIFA-CNN-9> .
+ <http://example.org/GoldenBootContenders> <http://schema.org/itemListElement> <http://example.org/OlivierGiroud> <FIFA-CNN-9> .
+ <http://FIFA-CNN-9.com/blank#n8009b118ec8b43e7bad6fdececc8a0f5b1> <http://schema.org/addressLocality> "Al Khor"  <FIFA-CNN-9> .
+ <http://example.org/GoldenBoot> <http://schema.org/name> "Golden Boot"  <FIFA-CNN-9> .
+ <http://example.org/LionelMessi> <http://schema.org/name> "Lionel Messi"  <FIFA-CNN-9> .
+ <http://example.org/MatchMoroccoCroatia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <FIFA-CNN-9> .
+ <http://example.org/MatchFranceArgentina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <FIFA-CNN-9> .
+ <http://example.org/MatchFranceArgentina> <http://schema.org/startDate> "2022-12-18"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-CNN-9> .
+ <http://example.org/JulianAlvarez> <http://schema.org/name> "Julián Álvarez"  <FIFA-CNN-9> .
+ <http://example.org/LionelMessi> <http://schema.org/nationality> <http://example.org/ArgentinaTeam> <FIFA-CNN-9> .
+ <http://example.org/GoldenBoot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Award> <FIFA-CNN-9> .
+ <http://example.org/ArgentinaTeam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <FIFA-CNN-9> .
+ <http://FIFA-CNN-9.com/blank#n8009b118ec8b43e7bad6fdececc8a0f5b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> <FIFA-CNN-9> .
+ <http://example.org/KaiPfaffenbach> <http://schema.org/name> "Kai Pfaffenbach"  <FIFA-CNN-9> .
+ <http://example.org/KylianMbappe> <http://schema.org/name> "Kylian Mbappé"  <FIFA-CNN-9> .
+ <http://example.org/MatchFranceArgentina> <http://schema.org/name> "France vs Argentina"  <FIFA-CNN-9> .
+ <http://example.org/GoldenBootContenders> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ItemList> <FIFA-CNN-9> .
+ <http://example.org/LionelMessi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <FIFA-CNN-9> .
+ <http://example.org/WorldCup2022Final> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <FIFA-CNN-9> .
+ <http://FIFA-CNN-9.com/blank#n8009b118ec8b43e7bad6fdececc8a0f5b2> <http://schema.org/homeTeam> <http://example.org/FranceTeam> <FIFA-CNN-9> .
+ <http://example.org/LionelMessi> <http://schema.org/memberOf> <http://example.org/ParisSaintGermain> <FIFA-CNN-9> .
+ <http://example.org/WorldCup2022Final> <http://schema.org/sportsTeam> <http://example.org/ArgentinaTeam> <FIFA-CNN-9> .
+ <http://example.org/MoroccoTeam> <http://schema.org/name> "Morocco team"  <FIFA-CNN-9> .
+ <http://example.org/WorldCup2022Final> <http://schema.org/sportsTeam> <http://example.org/FranceTeam> <FIFA-CNN-9> .
+ <http://example.org/AlBaytStadium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <FIFA-CNN-9> .
+ <http://FIFA-CNN-9.com/blank#n8009b118ec8b43e7bad6fdececc8a0f5b2> <http://schema.org/score> "2-0"  <FIFA-CNN-9> .
+ <http://example.org/KaiPfaffenbach> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <FIFA-CNN-9> .
+ <http://example.org/ArgentinaTeam> <http://schema.org/name> "Argentina team"  <FIFA-CNN-9> .
+ <http://example.org/JulianAlvarez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <FIFA-CNN-9> .
+ <http://example.org/JulianAlvarez> <http://schema.org/nationality> <http://example.org/ArgentinaTeam> <FIFA-CNN-9> .
+ <http://example.org/MatchMoroccoCroatia> <http://schema.org/startDate> "2022-12-17"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-CNN-9> .
+ <http://FIFA-CNN-9.com/blank#n8009b118ec8b43e7bad6fdececc8a0f5b2> <http://schema.org/winner> <http://example.org/FranceTeam> <FIFA-CNN-9> .
+ <http://FIFA-CNN-9.com/blank#n8009b118ec8b43e7bad6fdececc8a0f5b2> <http://schema.org/awayTeam> <http://example.org/MoroccoTeam> <FIFA-CNN-9> .
+ <http://FIFA-CNN-9.com/blank#n8009b118ec8b43e7bad6fdececc8a0f5b3> <http://schema.org/contentUrl> "Reuters"  <FIFA-CNN-9> .
+ <http://example.org/AlBaytStadium> <http://schema.org/address> <http://FIFA-CNN-9.com/blank#n8009b118ec8b43e7bad6fdececc8a0f5b1>  <FIFA-CNN-9> .

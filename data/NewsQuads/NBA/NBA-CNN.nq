@@ -1,0 +1,731 @@
+ <http://example.org/MasaiUjiri> <http://example.org/nbaChampionship> "2019"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NBA-CNN-0> .
+ <http://example.org/goa/nonProfit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/NonProfitOrganization> <NBA-CNN-0> .
+ <http://example.org/bwob/program> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/DevelopmentProgram> <NBA-CNN-0> .
+ <http://example.org/nba/playerChristianKoloko> <http://example.org/team> <http://example.org/TorontoRaptors> <NBA-CNN-0> .
+ <http://example.org/MasaiUjiri> <http://example.org/joinedRaptors> "2013"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NBA-CNN-0> .
+ <http://example.org/AmadouGalloFall> <http://example.org/involvedIn> <http://example.org/bwob/program> <NBA-CNN-0> .
+ <http://example.org/cnn/article> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Article> <NBA-CNN-0> .
+ <http://example.org/bal/league> <http://example.org/location> <http://example.org/Dakar> <NBA-CNN-0> .
+ <http://example.org/TorontoRaptors> <http://example.org/uniqueOpportunity> "team of the world"  <NBA-CNN-0> .
+ <http://example.org/nba/organization> <http://example.org/rosterIncludes> <http://NBA-CNN-0.com/blank#nd7d0357e3bfb4463977233dcbd5398b2b2>  <NBA-CNN-0> .
+ <http://example.org/nba/playerPascalSiakam> <http://example.org/countryOfBirth> "Cameroon"  <NBA-CNN-0> .
+ <http://example.org/AmadouGalloFall> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Person> <NBA-CNN-0> .
+ <http://example.org/bal/league> <http://example.org/continent> "Africa"  <NBA-CNN-0> .
+ <http://example.org/bal/league> <http://example.org/startDate> "2023-03-11"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-CNN-0> .
+ <http://example.org/nbaacademyafrica/center> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/TrainingCenter> <NBA-CNN-0> .
+ <http://example.org/nbaacademyafrica/center> <http://example.org/playersIncluded> "12"^^<http://www.w3.org/2001/XMLSchema#integer>  <NBA-CNN-0> .
+ <http://example.org/goa/nonProfit> <http://example.org/mission> "build 100 basketball courts across the continent"  <NBA-CNN-0> .
+ <http://example.org/goa/nonProfit> <http://example.org/since> "2003"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NBA-CNN-0> .
+ <http://example.org/bal/league> <http://example.org/name> "Basketball Africa League"  <NBA-CNN-0> .
+ <http://example.org/Siakam> <http://example.org/believes> "the future is bright for African talent"  <NBA-CNN-0> .
+ <http://example.org/MasaiUjiri> <http://example.org/title> "President"  <NBA-CNN-0> .
+ <http://example.org/goa/nonProfit> <http://example.org/foundedBy> <http://example.org/MasaiUjiri> <NBA-CNN-0> .
+ <http://example.org/nba/playerJoelEmbiid> <http://example.org/participatedIn> <http://example.org/bwob/program> <NBA-CNN-0> .
+ <http://example.org/MiamiHeat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/BasketballTeam> <NBA-CNN-0> .
+ <http://example.org/nbaafrica/office> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Office> <NBA-CNN-0> .
+ <http://example.org/AmadouGalloFall> <http://example.org/involvedIn> <http://example.org/seed/project> <NBA-CNN-0> .
+ <http://example.org/nba/playerJoelEmbiid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/BasketballPlayer> <NBA-CNN-0> .
+ <http://example.org/bal/league> <http://example.org/postponedDueTo> "Covid pandemic"  <NBA-CNN-0> .
+ <http://example.org/seed/project> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/NonProfitOrganization> <NBA-CNN-0> .
+ <http://example.org/nba/playerPascalSiakam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/BasketballPlayer> <NBA-CNN-0> .
+ <http://example.org/cnn/article> <http://example.org/topic> "Basketball Africa League"  <NBA-CNN-0> .
+ <http://example.org/nbaacademyafrica/center> <http://example.org/location> <http://example.org/Saly> <NBA-CNN-0> .
+ <http://NBA-CNN-0.com/blank#nd7d0357e3bfb4463977233dcbd5398b2b2> <http://example.org/playersBornInAfrica> "16"^^<http://www.w3.org/2001/XMLSchema#integer>  <NBA-CNN-0> .
+ <http://example.org/nba/organization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/SportsOrganization> <NBA-CNN-0> .
+ <http://example.org/AmadouGalloFall> <http://example.org/hometown> <http://example.org/Dakar> <NBA-CNN-0> .
+ <http://NBA-CNN-0.com/blank#nd7d0357e3bfb4463977233dcbd5398b2b1> <http://example.org/partner> <http://example.org/nba/organization> <NBA-CNN-0> .
+ <http://example.org/nbaafrica/office> <http://example.org/organization> <http://example.org/nba/organization> <NBA-CNN-0> .
+ <http://example.org/bwob/program> <http://example.org/focus> "develops players from outside the US"  <NBA-CNN-0> .
+ <http://example.org/Philadelphia76ers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/BasketballTeam> <NBA-CNN-0> .
+ <http://example.org/TorontoRaptors> <http://example.org/location> "Toronto"  <NBA-CNN-0> .
+ <http://example.org/bal/league> <http://example.org/duration> "three months"  <NBA-CNN-0> .
+ <http://example.org/seed/project> <http://example.org/foundedIn> "1998"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NBA-CNN-0> .
+ <http://example.org/bal/league> <http://example.org/numberOfTeams> "12"^^<http://www.w3.org/2001/XMLSchema#integer>  <NBA-CNN-0> .
+ <http://example.org/TorontoRaptors> <http://example.org/africanPlayers> "8"^^<http://www.w3.org/2001/XMLSchema#integer>  <NBA-CNN-0> .
+ <http://example.org/bal/league> <http://example.org/inauguralSeason> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NBA-CNN-0> .
+ <http://example.org/AmadouGalloFall> <http://example.org/title> "President"  <NBA-CNN-0> .
+ <http://example.org/seed/project> <http://example.org/foundedBy> <http://example.org/AmadouGalloFall> <NBA-CNN-0> .
+ <http://example.org/nba/playerPascalSiakam> <http://example.org/participatedIn> <http://example.org/bwob/program> <NBA-CNN-0> .
+ <http://example.org/nbaafrica/office> <http://example.org/openedIn> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NBA-CNN-0> .
+ <http://example.org/bal/league> <http://example.org/launchedIn> "2019"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NBA-CNN-0> .
+ <http://example.org/nba/playerChristianKoloko> <http://example.org/comment> "It was one of my first games in the NBA."  <NBA-CNN-0> .
+ <http://example.org/goa/nonProfit> <http://example.org/name> "Giants of Africa"  <NBA-CNN-0> .
+ <http://example.org/TorontoRaptors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/BasketballTeam> <NBA-CNN-0> .
+ <http://example.org/MasaiUjiri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Person> <NBA-CNN-0> .
+ <http://example.org/nba/playerChristianKoloko> <http://example.org/countryOfBirth> "Cameroon"  <NBA-CNN-0> .
+ <http://example.org/nba/playerJoelEmbiid> <http://example.org/team> <http://example.org/Philadelphia76ers> <NBA-CNN-0> .
+ <http://example.org/nbaacademyafrica/center> <http://example.org/country> "Senegal"  <NBA-CNN-0> .
+ <http://example.org/AmadouGalloFall> <http://example.org/involvedIn> <http://example.org/nbaafrica/office> <NBA-CNN-0> .
+ <http://example.org/seed/project> <http://example.org/purpose> "uses basketball as a platform to engage youth in academic, athletic and leadership programs"  <NBA-CNN-0> .
+ <http://example.org/MasaiUjiri> <http://example.org/firstAfricanGM> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NBA-CNN-0> .
+ <http://example.org/bwob/program> <http://example.org/name> "Basketball Without Borders"  <NBA-CNN-0> .
+ <http://example.org/nba/playerChristianKoloko> <http://example.org/participatedIn> <http://example.org/bwob/program> <NBA-CNN-0> .
+ <http://example.org/AmadouGalloFall> <http://example.org/comment> "It’s been an evolutive journey."  <NBA-CNN-0> .
+ <http://example.org/goa/nonProfit> <http://example.org/hostedCampsForChildren> "5000"^^<http://www.w3.org/2001/XMLSchema#integer>  <NBA-CNN-0> .
+ <http://example.org/Philadelphia76ers> <http://example.org/player> <http://example.org/JoelEmbiid> <NBA-CNN-0> .
+ <http://example.org/nba/playerJoelEmbiid> <http://example.org/countryOfBirth> "Cameroon"  <NBA-CNN-0> .
+ <http://example.org/nba/organization> <http://example.org/name> "NBA"  <NBA-CNN-0> .
+ <http://example.org/bal/league> <http://example.org/season> "third"  <NBA-CNN-0> .
+ <http://example.org/nbaacademyafrica/center> <http://example.org/associatedWith> <http://example.org/bal/league> <NBA-CNN-0> .
+ <http://example.org/cnn/article> <http://example.org/date> "2023-03-11"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-CNN-0> .
+ <http://example.org/nba/playerPascalSiakam> <http://example.org/team> <http://example.org/TorontoRaptors> <NBA-CNN-0> .
+ <http://example.org/MasaiUjiri> <http://example.org/nationality> "Nigerian"  <NBA-CNN-0> .
+ <http://NBA-CNN-0.com/blank#nd7d0357e3bfb4463977233dcbd5398b2b2> <http://example.org/playersWithAfricanParentage> "35"^^<http://www.w3.org/2001/XMLSchema#integer>  <NBA-CNN-0> .
+ <http://NBA-CNN-0.com/blank#nd7d0357e3bfb4463977233dcbd5398b2b1> <http://example.org/partner> <http://example.org/fiba/organization> <NBA-CNN-0> .
+ <http://example.org/goa/nonProfit> <http://example.org/countriesCovered> "16"^^<http://www.w3.org/2001/XMLSchema#integer>  <NBA-CNN-0> .
+ <http://example.org/bal/league> <http://example.org/partnership> <http://NBA-CNN-0.com/blank#nd7d0357e3bfb4463977233dcbd5398b2b1>  <NBA-CNN-0> .
+ <http://example.org/seed/project> <http://example.org/name> "SEED Project (Sports for Education and Economic Development)"  <NBA-CNN-0> .
+ <http://example.org/nba/playerJoelEmbiid> <http://example.org/rankedInMvpSurvey> "third"  <NBA-CNN-0> .
+ <http://example.org/AmadouGalloFall> <http://example.org/associatedWith> <http://example.org/bal/league> <NBA-CNN-0> .
+ <http://example.org/bal/league> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/BasketballCompetition> <NBA-CNN-0> .
+ <http://example.org/JoelEmbiid> <http://example.org/drivesPast> <http://example.org/BamAdebayo> <NBA-CNN-0> .
+ <http://example.org/nba/playerChristianKoloko> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/BasketballPlayer> <NBA-CNN-0> .
+ <http://example.org/MasaiUjiri> <http://example.org/associatedWith> <http://example.org/TorontoRaptors> <NBA-CNN-0> .
+ <http://example.org/MiamiHeat> <http://example.org/player> <http://example.org/BamAdebayo> <NBA-CNN-0> .
+ <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b4> <http://nba.com/players/firstEligibleGame> <http://nba.com/games/20231219Pelicans> <NBA-CNN-1> .
+ <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b5> <http://nba.com/players/suspensionDate> "May"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <NBA-CNN-1> .
+ <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b11>  <NBA-CNN-1> .
+ <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b5> <http://nba.com/players/suspensionPlatform> <http://instagram.com/InstagramLive> <NBA-CNN-1> .
+ <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b1> <http://nba.com/players/charitableContributions> "Historically Black Colleges"  <NBA-CNN-1> .
+ <http://nba.com/players/JaMorant> <http://nba.com/players/apologyStatement> <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b9>  <NBA-CNN-1> .
+ <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> "75th"  <NBA-CNN-1> .
+ <http://nba.com/players/CharlesBarkley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://nba.com/players/Person> <NBA-CNN-1> .
+ <http://nba.com/players/JaMorant> <http://nba.com/players/playsFor> <http://nba.com/teams/MemphisGrizzlies> <NBA-CNN-1> .
+ <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b8>  <NBA-CNN-1> .
+ <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b4> <http://nba.com/players/suspensionReason> "incidents involving firearms"  <NBA-CNN-1> .
+ <http://nba.com/players/JaMorant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://nba.com/players/Person> <NBA-CNN-1> .
+ <http://nba.com/teams/BostonCeltics> <http://nba.com/players/teamName> "Boston Celtics"  <NBA-CNN-1> .
+ <http://www.cnn.com/shows/KingCharles> <http://www.cnn.com/airingPeriod> "Fall 2023 to 2024"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-CNN-1> .
+ <http://nba.com/players/JaMorant> <http://nba.com/players/name> "Ja Morant"  <NBA-CNN-1> .
+ <http://www.cnn.com/shows/KingCharlesHost> <http://nba.com/players/coHosts> <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b12>  <NBA-CNN-1> .
+ <http://instagram.com/InstagramLive> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://instagram.com/SocialMediaPlatform> <NBA-CNN-1> .
+ <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b5>  <NBA-CNN-1> .
+ <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b1> <http://nba.com/players/allStarAppearances> "11"^^<http://www.w3.org/2001/XMLSchema#integer>  <NBA-CNN-1> .
+ <http://nba.com/players/CharlesBarkley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://nba.com/players/FormerPlayer> <NBA-CNN-1> .
+ <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b1> <http://nba.com/players/predictedChampion> <http://nba.com/teams/BostonCeltics> <NBA-CNN-1> .
+ <http://nba.com/players/CharlesBarkley> <http://nba.com/players/hasCareerHistory> <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b1>  <NBA-CNN-1> .
+ <http://nba.com/games/20231219Pelicans> <http://nba.com/players/date> "2023-12-19"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-CNN-1> .
+ <http://nba.com/teams/BostonCeltics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://nba.com/players/BasketballTeam> <NBA-CNN-1> .
+ <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> <NBA-CNN-1> .
+ <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> "50th"  <NBA-CNN-1> .
+ <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://nba.com/teams/NewOrleansPelicans> <NBA-CNN-1> .
+ <http://nba.com/players/CharlesBarkley> <http://nba.com/players/urges> <http://nba.com/players/JaMorant> <NBA-CNN-1> .
+ <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b1> <http://nba.com/players/mvpAwardYear> "1993"^^<http://www.w3.org/2001/XMLSchema#integer>  <NBA-CNN-1> .
+ <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b1> <http://nba.com/players/olympicGoldMedals> "2"^^<http://www.w3.org/2001/XMLSchema#integer>  <NBA-CNN-1> .
+ <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b3>  <NBA-CNN-1> .
+ <http://nba.com/teams/NewOrleansPelicans> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://nba.com/players/BasketballTeam> <NBA-CNN-1> .
+ <http://www.cnn.com/thisArticle> <http://www.cnn.com/hasSubject> <http://nba.com/players/JaMorant> <NBA-CNN-1> .
+ <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> <NBA-CNN-1> .
+ <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b4> <http://nba.com/players/suspensionLength> "25 games"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-CNN-1> .
+ <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://nba.com/teams/MemphisGrizzlies> <NBA-CNN-1> .
+ <http://www.cnn.com/thisArticle> <http://www.cnn.com/hasContributor> <http://nba.com/players/CharlesBarkley> <NBA-CNN-1> .
+ <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b4> <http://nba.com/players/suspensionStartDate> "2023-24 regular season"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-CNN-1> .
+ <http://nba.com/players/CharlesBarkley> <http://nba.com/players/name> "Charles Barkley"  <NBA-CNN-1> .
+ <http://nba.com/teams/NewOrleansPelicans> <http://nba.com/players/teamName> "New Orleans Pelicans"  <NBA-CNN-1> .
+ <http://www.cnn.com/shows/KingCharlesHost> <http://nba.com/players/show> <http://www.cnn.com/shows/KingCharles> <NBA-CNN-1> .
+ <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b12> <http://nba.com/players/name> "Gayle King"  <NBA-CNN-1> .
+ <http://nba.com/teams/MemphisGrizzlies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://nba.com/players/BasketballTeam> <NBA-CNN-1> .
+ <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b1> <http://nba.com/players/hallOfFameInductionYear> "2006"^^<http://www.w3.org/2001/XMLSchema#integer>  <NBA-CNN-1> .
+ <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b6> <http://nba.com/players/suspensionDate> "March"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <NBA-CNN-1> .
+ <http://nba.com/games/20231219Pelicans> <http://nba.com/players/teams> <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b10>  <NBA-CNN-1> .
+ <http://www.cnn.com/thisArticle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cnn.com/NewsArticle> <NBA-CNN-1> .
+ <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b6>  <NBA-CNN-1> .
+ <http://www.cnn.com/shows/KingCharles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cnn.com/TelevisionShow> <NBA-CNN-1> .
+ <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b6> <http://nba.com/players/suspensionLocation> "Glendale, Colorado"  <NBA-CNN-1> .
+ <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b1> <http://nba.com/players/politicalStance> "Independent"  <NBA-CNN-1> .
+ <http://nba.com/players/JaMorant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://nba.com/players/Player> <NBA-CNN-1> .
+ <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> <NBA-CNN-1> .
+ <http://nba.com/players/CharlesBarkley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://nba.com/players/Analyst> <NBA-CNN-1> .
+ <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b1> <http://nba.com/players/anniversaryTeams> <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b2>  <NBA-CNN-1> .
+ <http://nba.com/players/CharlesBarkley> <http://nba.com/players/hasRole> <http://www.cnn.com/shows/KingCharlesHost> <NBA-CNN-1> .
+ <http://nba.com/teams/MemphisGrizzlies> <http://nba.com/players/teamName> "Memphis Grizzlies"  <NBA-CNN-1> .
+ <http://nba.com/games/20231219Pelicans> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://nba.com/players/Game> <NBA-CNN-1> .
+ <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b4> <http://nba.com/players/previousSuspensions> <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b7>  <NBA-CNN-1> .
+ <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b1> <http://nba.com/players/playedSeasons> "16"^^<http://www.w3.org/2001/XMLSchema#integer>  <NBA-CNN-1> .
+ <http://nba.com/players/JaMorant> <http://nba.com/players/suspension> <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b4>  <NBA-CNN-1> .
+ <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b9> <http://nba.com/players/apologyTo> "kids, sponsors, fans"  <NBA-CNN-1> .
+ <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b9> <http://nba.com/players/commitment> "mental health and decision-making"  <NBA-CNN-1> .
+ <http://www.cnn.com/shows/KingCharlesHost> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://nba.com/players/TelevisionShowHost> <NBA-CNN-1> .
+ <http://NBA-CNN-1.com/blank#n984f0b84687645f28355b2a485fe6df5b1> <http://nba.com/players/politicalInterest> "Governor of Alabama"  <NBA-CNN-1> .
+ <http://NBA-CNN-2.com/blank#na65f61e20380432ca6c864680c6ea03cb2> <http://nba.com/players/withoutPay> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NBA-CNN-2> .
+ <http://NBA-CNN-2.com/blank#na65f61e20380432ca6c864680c6ea03cb3> <http://nba.com/players/withoutPay> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NBA-CNN-2> .
+ <http://nba.com/players/JaMorant> <http://nba.com/players/suspensions> <http://NBA-CNN-2.com/blank#na65f61e20380432ca6c864680c6ea03cb3>  <NBA-CNN-2> .
+ <http://instagram.com/JaMorantVideo1> <http://instagram.com/depicts> <http://nba.com/players/JaMorant> <NBA-CNN-2> .
+ <http://NBA-CNN-2.com/blank#na65f61e20380432ca6c864680c6ea03cb1> <http://nba.com/players/allStarAppearances> "11"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-2> .
+ <http://nba.com/games/20231219NewOrleansPelicans> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://nba.com/players/Game> <NBA-CNN-2> .
+ <http://NBA-CNN-2.com/blank#na65f61e20380432ca6c864680c6ea03cb3> <http://nba.com/players/reason> "Instagram Live video holding a gun in a nightclub"  <NBA-CNN-2> .
+ <http://www.cnn.com/thisArticle> <http://www.cnn.com/hasSubject> <http://nba.com/players/JaMorant> <NBA-CNN-2> .
+ <http://nba.com/games/20231219NewOrleansPelicans> <http://nba.com/players/date> "2023-12-19"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-CNN-2> .
+ <http://NBA-CNN-2.com/blank#na65f61e20380432ca6c864680c6ea03cb1> <http://nba.com/players/olympicMedals> "2"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-2> .
+ <http://NBA-CNN-2.com/blank#na65f61e20380432ca6c864680c6ea03cb1> <http://nba.com/players/anniversaryTeams> "50th, 75th"  <NBA-CNN-2> .
+ <http://nba.com/players/CharlesBarkley> <http://nba.com/players/politicalViews> "Independent"  <NBA-CNN-2> .
+ <http://nba.com/games/20231219NewOrleansPelicans> <http://nba.com/players/playerEligibility> <http://NBA-CNN-2.com/blank#na65f61e20380432ca6c864680c6ea03cb4>  <NBA-CNN-2> .
+ <http://www.cnn.com/shows/WhosTalkingToChrisWallace> <http://www.cnn.com/streamingPlatform> "Max"  <NBA-CNN-2> .
+ <http://nba.com/players/CharlesBarkley> <http://nba.com/players/name> "Charles Barkley"  <NBA-CNN-2> .
+ <http://nba.com/players/CharlesBarkley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://nba.com/players/Person> <NBA-CNN-2> .
+ <http://NBA-CNN-2.com/blank#na65f61e20380432ca6c864680c6ea03cb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://nba.com/players/Suspension> <NBA-CNN-2> .
+ <http://nba.com/players/JaMorant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://nba.com/players/Person> <NBA-CNN-2> .
+ <http://NBA-CNN-2.com/blank#na65f61e20380432ca6c864680c6ea03cb3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://nba.com/players/Suspension> <NBA-CNN-2> .
+ <http://nba.com/players/JaMorant> <http://nba.com/players/suspensions> <http://NBA-CNN-2.com/blank#na65f61e20380432ca6c864680c6ea03cb2>  <NBA-CNN-2> .
+ <http://instagram.com/JaMorantVideo1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://instagram.com/Video> <NBA-CNN-2> .
+ <http://NBA-CNN-2.com/blank#na65f61e20380432ca6c864680c6ea03cb2> <http://nba.com/players/startDate> "2023-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <NBA-CNN-2> .
+ <http://instagram.com/JaMorantVideo1> <http://instagram.com/contentDescription> "Ja Morant flashing a gun while in a vehicle"  <NBA-CNN-2> .
+ <http://nba.com/players/CharlesBarkley> <http://nba.com/players/mediaCareer> <http://www.cnn.com/shows/KingCharles> <NBA-CNN-2> .
+ <http://www.cnn.com/shows/KingCharles> <http://www.cnn.com/airDates> "Fall 2023 to 2024"  <NBA-CNN-2> .
+ <http://NBA-CNN-2.com/blank#na65f61e20380432ca6c864680c6ea03cb3> <http://nba.com/players/duration> "8 games"  <NBA-CNN-2> .
+ <http://www.cnn.com/shows/KingCharles> <http://www.cnn.com/host> <http://nba.com/players/CharlesBarkley> <NBA-CNN-2> .
+ <http://instagram.com/JaMorantVideo2> <http://instagram.com/location> "Glendale, Colorado"  <NBA-CNN-2> .
+ <http://nba.com/players/JaMorant> <http://nba.com/players/name> "Ja Morant"  <NBA-CNN-2> .
+ <http://NBA-CNN-2.com/blank#na65f61e20380432ca6c864680c6ea03cb2> <http://nba.com/players/duration> "25 games"  <NBA-CNN-2> .
+ <http://www.cnn.com/thisArticle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cnn.com/NewsArticle> <NBA-CNN-2> .
+ <http://instagram.com/JaMorantVideo2> <http://instagram.com/contentDescription> "Ja Morant holding a gun in a nightclub"  <NBA-CNN-2> .
+ <http://instagram.com/JaMorantVideo2> <http://instagram.com/date> "2023-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <NBA-CNN-2> .
+ <http://nba.com/players/JaMorant> <http://nba.com/players/apologyStatement> "I'm sorry for the harm I've done."  <NBA-CNN-2> .
+ <http://instagram.com/JaMorantVideo1> <http://instagram.com/date> "2023-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <NBA-CNN-2> .
+ <http://www.cnn.com/shows/KingCharles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cnn.com/TelevisionShow> <NBA-CNN-2> .
+ <http://nba.com/players/JaMorant> <http://nba.com/players/team> <http://nba.com/teams/MemphisGrizzlies> <NBA-CNN-2> .
+ <http://NBA-CNN-2.com/blank#na65f61e20380432ca6c864680c6ea03cb1> <http://nba.com/players/seasonsPlayed> "16"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-2> .
+ <http://www.cnn.com/shows/WhosTalkingToChrisWallace> <http://www.cnn.com/guest> <http://nba.com/players/CharlesBarkley> <NBA-CNN-2> .
+ <http://www.cnn.com/shows/KingCharles> <http://www.cnn.com/coHost> "Gayle King"  <NBA-CNN-2> .
+ <http://nba.com/players/JaMorant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://nba.com/players/Player> <NBA-CNN-2> .
+ <http://www.cnn.com/thisArticle> <http://www.cnn.com/hasAnalyst> <http://nba.com/players/CharlesBarkley> <NBA-CNN-2> .
+ <http://nba.com/players/CharlesBarkley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://nba.com/players/FormerPlayer> <NBA-CNN-2> .
+ <http://nba.com/players/CharlesBarkley> <http://nba.com/players/careerHighlights> <http://NBA-CNN-2.com/blank#na65f61e20380432ca6c864680c6ea03cb1>  <NBA-CNN-2> .
+ <http://nba.com/games/20231219NewOrleansPelicans> <http://nba.com/players/teams> <http://nba.com/teams/MemphisGrizzlies> <NBA-CNN-2> .
+ <http://instagram.com/JaMorantVideo2> <http://instagram.com/depicts> <http://nba.com/players/JaMorant> <NBA-CNN-2> .
+ <http://nba.com/players/CharlesBarkley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://nba.com/players/Analyst> <NBA-CNN-2> .
+ <http://NBA-CNN-2.com/blank#na65f61e20380432ca6c864680c6ea03cb4> <http://nba.com/players/player> <http://nba.com/players/JaMorant> <NBA-CNN-2> .
+ <http://nba.com/players/CharlesBarkley> <http://nba.com/players/charitableContributions> "Historically Black Colleges"  <NBA-CNN-2> .
+ <http://nba.com/players/JaMorant> <http://nba.com/players/commitment> "work on mental health and decision-making"  <NBA-CNN-2> .
+ <http://www.cnn.com/thisArticle> <http://www.cnn.com/mentions> <http://nba.com/games/20231219NewOrleansPelicans> <NBA-CNN-2> .
+ <http://NBA-CNN-2.com/blank#na65f61e20380432ca6c864680c6ea03cb1> <http://nba.com/players/hallOfFameInduction> "2006"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NBA-CNN-2> .
+ <http://NBA-CNN-2.com/blank#na65f61e20380432ca6c864680c6ea03cb3> <http://nba.com/players/location> "Glendale, Colorado"  <NBA-CNN-2> .
+ <http://NBA-CNN-2.com/blank#na65f61e20380432ca6c864680c6ea03cb1> <http://nba.com/players/mvpAward> "1993"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NBA-CNN-2> .
+ <http://NBA-CNN-2.com/blank#na65f61e20380432ca6c864680c6ea03cb2> <http://nba.com/players/endDate> "2023-12-19"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-CNN-2> .
+ <http://nba.com/games/20231219NewOrleansPelicans> <http://nba.com/players/teams> <http://nba.com/teams/NewOrleansPelicans> <NBA-CNN-2> .
+ <http://NBA-CNN-2.com/blank#na65f61e20380432ca6c864680c6ea03cb4> <http://nba.com/players/eligibleFrom> "2023-12-19"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-CNN-2> .
+ <http://NBA-CNN-2.com/blank#na65f61e20380432ca6c864680c6ea03cb2> <http://nba.com/players/reason> "incidents involving firearms"  <NBA-CNN-2> .
+ <http://www.cnn.com/shows/WhosTalkingToChrisWallace> <http://www.cnn.com/host> "Chris Wallace"  <NBA-CNN-2> .
+ <http://www.cnn.com/shows/WhosTalkingToChrisWallace> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cnn.com/TelevisionShow> <NBA-CNN-2> .
+ <http://instagram.com/JaMorantVideo2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://instagram.com/Video> <NBA-CNN-2> .
+ <http://nba.com/players/CharlesBarkley> <http://nba.com/players/urges> <http://nba.com/players/JaMorant> <NBA-CNN-2> .
+ <http://NBA-CNN-3.com/blank#n4b645911895e413a8641b4d734975069b1> <http://dbpedia.org/ontology/rebounds> "5"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-3> .
+ <http://example.org/LukaDoncic> <http://dbpedia.org/ontology/careerStation> <http://NBA-CNN-3.com/blank#n4b645911895e413a8641b4d734975069b2>  <NBA-CNN-3> .
+ <http://NBA-CNN-3.com/blank#n4b645911895e413a8641b4d734975069b2> <http://dbpedia.org/ontology/careerTripleDoubles> "57"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-3> .
+ <http://example.org/TimHardawayJr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballPlayer> <NBA-CNN-3> .
+ <http://example.org/GamePelicansVsGrizzlies> <http://dbpedia.org/ontology/homeTeam> <http://dbpedia.org/resource/New_Orleans_Pelicans> <NBA-CNN-3> .
+ <http://example.org/DereckLivelyII> <http://dbpedia.org/ontology/points> "16"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-3> .
+ <http://example.org/VictorWembanyama> <http://dbpedia.org/ontology/wingspan> "8ft"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-CNN-3> .
+ <http://example.org/GreggPopovich> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/San_Antonio_Spurs> <NBA-CNN-3> .
+ <http://example.org/GrantWilliams> <http://xmlns.com/foaf/0.1/name> "Grant Williams"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-CNN-3> .
+ <http://example.org/DevinVassell> <http://dbpedia.org/ontology/points> "23"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-3> .
+ <http://example.org/DoncicPerformance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <NBA-CNN-3> .
+ <http://NBA-CNN-3.com/blank#n4b645911895e413a8641b4d734975069b1> <http://dbpedia.org/ontology/blocks> "1"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-3> .
+ <http://NBA-CNN-3.com/blank#n4b645911895e413a8641b4d734975069b2> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Dallas_Mavericks> <NBA-CNN-3> .
+ <http://NBA-CNN-3.com/blank#n4b645911895e413a8641b4d734975069b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CareerStation> <NBA-CNN-3> .
+ <http://example.org/YaoMing> <http://dbpedia.org/ontology/height> "7ft 6in"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-CNN-3> .
+ <http://example.org/KyrieIrving> <http://dbpedia.org/ontology/points> "22"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-3> .
+ <http://example.org/DereckLivelyII> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballPlayer> <NBA-CNN-3> .
+ <http://NBA-CNN-3.com/blank#n4b645911895e413a8641b4d734975069b1> <http://dbpedia.org/ontology/fouls> "5"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-3> .
+ <http://example.org/GrantWilliams> <http://dbpedia.org/ontology/points> "17"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-3> .
+ <http://example.org/VictorWembanyama> <http://dbpedia.org/ontology/height> "7ft 4in"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-CNN-3> .
+ <http://NBA-CNN-3.com/blank#n4b645911895e413a8641b4d734975069b2> <http://dbpedia.org/ontology/assists> "10"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-3> .
+ <http://example.org/LukaDoncic> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Slovenia> <NBA-CNN-3> .
+ <http://example.org/GameSpursVsMavericks> <http://dbpedia.org/ontology/awayPoints> "126"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-3> .
+ <http://NBA-CNN-3.com/blank#n4b645911895e413a8641b4d734975069b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CareerStation> <NBA-CNN-3> .
+ <http://example.org/YaoMing> <http://dbpedia.org/ontology/careerStation> <http://NBA-CNN-3.com/blank#n4b645911895e413a8641b4d734975069b3>  <NBA-CNN-3> .
+ <http://example.org/DevinVassell> <http://xmlns.com/foaf/0.1/name> "Devin Vassell"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-CNN-3> .
+ <http://NBA-CNN-3.com/blank#n4b645911895e413a8641b4d734975069b1> <http://dbpedia.org/ontology/numberOfMinutesPlayed> "23"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-3> .
+ <http://NBA-CNN-3.com/blank#n4b645911895e413a8641b4d734975069b1> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/San_Antonio_Spurs> <NBA-CNN-3> .
+ <http://example.org/GameSpursVsMavericks> <http://dbpedia.org/ontology/awayTeam> <http://dbpedia.org/resource/Dallas_Mavericks> <NBA-CNN-3> .
+ <http://example.org/DoncicPerformance> <http://www.w3.org/2000/01/rdf-schema#comment> "Luka Dončić posted a triple-double in the victory."@en  <NBA-CNN-3> .
+ <http://example.org/GrantWilliams> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballPlayer> <NBA-CNN-3> .
+ <http://example.org/WembanyamaDebut> <http://dbpedia.org/ontology/participant> <http://example.org/VictorWembanyama> <NBA-CNN-3> .
+ <http://example.org/TimHardawayJr> <http://dbpedia.org/ontology/points> "17"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-3> .
+ <http://example.org/ZionWilliamson> <http://xmlns.com/foaf/0.1/name> "Zion Williamson"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-CNN-3> .
+ <http://example.org/VictorWembanyama> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/France> <NBA-CNN-3> .
+ <http://example.org/GreggPopovich> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballCoach> <NBA-CNN-3> .
+ <http://example.org/LukaDoncic> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Dallas_Mavericks> <NBA-CNN-3> .
+ <http://example.org/ZionWilliamson> <http://dbpedia.org/ontology/points> "23"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-3> .
+ <http://example.org/ZionWilliamson> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/New_Orleans_Pelicans> <NBA-CNN-3> .
+ <http://NBA-CNN-3.com/blank#n4b645911895e413a8641b4d734975069b1> <http://dbpedia.org/ontology/assists> "2"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-3> .
+ <http://NBA-CNN-3.com/blank#n4b645911895e413a8641b4d734975069b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CareerStation> <NBA-CNN-3> .
+ <http://NBA-CNN-3.com/blank#n4b645911895e413a8641b4d734975069b2> <http://dbpedia.org/ontology/points> "33"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-3> .
+ <http://example.org/WembanyamaDebut> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <NBA-CNN-3> .
+ <http://example.org/TimHardawayJr> <http://xmlns.com/foaf/0.1/name> "Tim Hardaway Jr."^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-CNN-3> .
+ <http://example.org/YaoMing> <http://xmlns.com/foaf/0.1/name> "Yao Ming"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-CNN-3> .
+ <http://example.org/GameSpursVsMavericks> <http://dbpedia.org/ontology/homeTeam> <http://dbpedia.org/resource/San_Antonio_Spurs> <NBA-CNN-3> .
+ <http://example.org/GamePelicansVsGrizzlies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballGame> <NBA-CNN-3> .
+ <http://example.org/GameSpursVsMavericks> <http://dbpedia.org/ontology/homePoints> "119"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-3> .
+ <http://example.org/WembanyamaDebut> <http://dbpedia.org/ontology/participant> <http://example.org/GameSpursVsMavericks> <NBA-CNN-3> .
+ <http://example.org/VictorWembanyama> <http://dbpedia.org/ontology/careerStation> <http://NBA-CNN-3.com/blank#n4b645911895e413a8641b4d734975069b1>  <NBA-CNN-3> .
+ <http://example.org/YaoMing> <http://dbpedia.org/ontology/allStarAppearances> "8"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-3> .
+ <http://example.org/VictorWembanyama> <http://dbpedia.org/ontology/position> "Player"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-CNN-3> .
+ <http://example.org/KyrieIrving> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballPlayer> <NBA-CNN-3> .
+ <http://example.org/WilliamsonReturn> <http://www.w3.org/2000/01/rdf-schema#comment> "Zion Williamson scored 23 points in the victory over the Memphis Grizzlies."@en  <NBA-CNN-3> .
+ <http://example.org/GamePelicansVsGrizzlies> <http://dbpedia.org/ontology/awayTeam> <http://dbpedia.org/resource/Memphis_Grizzlies> <NBA-CNN-3> .
+ <http://example.org/ZionWilliamson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballPlayer> <NBA-CNN-3> .
+ <http://example.org/GameSpursVsMavericks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballGame> <NBA-CNN-3> .
+ <http://example.org/LukaDoncic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballPlayer> <NBA-CNN-3> .
+ <http://example.org/ZionWilliamson> <http://dbpedia.org/ontology/numberOfMinutesPlayed> "32"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-3> .
+ <http://example.org/DevinVassell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballPlayer> <NBA-CNN-3> .
+ <http://example.org/GreggPopovich> <http://xmlns.com/foaf/0.1/name> "Gregg Popovich"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-CNN-3> .
+ <http://example.org/DereckLivelyII> <http://dbpedia.org/ontology/rebounds> "10"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-3> .
+ <http://NBA-CNN-3.com/blank#n4b645911895e413a8641b4d734975069b1> <http://dbpedia.org/ontology/points> "15"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-3> .
+ <http://example.org/DoncicPerformance> <http://dbpedia.org/ontology/participant> <http://example.org/GameSpursVsMavericks> <NBA-CNN-3> .
+ <http://example.org/WilliamsonReturn> <http://dbpedia.org/ontology/participant> <http://example.org/ZionWilliamson> <NBA-CNN-3> .
+ <http://example.org/DoncicPerformance> <http://dbpedia.org/ontology/participant> <http://example.org/LukaDoncic> <NBA-CNN-3> .
+ <http://example.org/GamePelicansVsGrizzlies> <http://dbpedia.org/ontology/awayPoints> "104"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-3> .
+ <http://NBA-CNN-3.com/blank#n4b645911895e413a8641b4d734975069b2> <http://dbpedia.org/ontology/rebounds> "14"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-3> .
+ <http://NBA-CNN-3.com/blank#n4b645911895e413a8641b4d734975069b2> <http://dbpedia.org/ontology/tripleDouble> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NBA-CNN-3> .
+ <http://example.org/DevinVassell> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/San_Antonio_Spurs> <NBA-CNN-3> .
+ <http://example.org/WilliamsonReturn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <NBA-CNN-3> .
+ <http://example.org/WembanyamaDebut> <http://www.w3.org/2000/01/rdf-schema#comment> "Victor Wembanyama made his official NBA debut."@en  <NBA-CNN-3> .
+ <http://example.org/WilliamsonReturn> <http://dbpedia.org/ontology/participant> <http://example.org/GamePelicansVsGrizzlies> <NBA-CNN-3> .
+ <http://NBA-CNN-3.com/blank#n4b645911895e413a8641b4d734975069b3> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Houston_Rockets> <NBA-CNN-3> .
+ <http://example.org/VictorWembanyama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballPlayer> <NBA-CNN-3> .
+ <http://example.org/VictorWembanyama> <http://dbpedia.org/ontology/age> "19"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-3> .
+ <http://example.org/LukaDoncic> <http://xmlns.com/foaf/0.1/name> "Luka Dončić"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-CNN-3> .
+ <http://example.org/VictorWembanyama> <http://xmlns.com/foaf/0.1/name> "Victor Wembanyama"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-CNN-3> .
+ <http://example.org/YaoMing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballPlayer> <NBA-CNN-3> .
+ <http://example.org/VictorWembanyama> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/San_Antonio_Spurs> <NBA-CNN-3> .
+ <http://example.org/DereckLivelyII> <http://xmlns.com/foaf/0.1/name> "Dereck Lively II"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-CNN-3> .
+ <http://NBA-CNN-3.com/blank#n4b645911895e413a8641b4d734975069b1> <http://dbpedia.org/ontology/steals> "2"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-3> .
+ <http://example.org/KyrieIrving> <http://xmlns.com/foaf/0.1/name> "Kyrie Irving"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-CNN-3> .
+ <http://example.org/GamePelicansVsGrizzlies> <http://dbpedia.org/ontology/homePoints> "111"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-3> .
+ <http://example.org/SanAntonioSpurs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballTeam> <NBA-CNN-4> .
+ <http://example.org/WembanyamaFamily> <http://xmlns.com/foaf/0.1/member> <http://example.org/OscarWembanyama> <NBA-CNN-4> .
+ <http://example.org/MichaëlAllard> <http://dbpedia.org/ontology/affiliation> <http://example.org/Nanterre92> <NBA-CNN-4> .
+ <http://example.org/ESPN> <http://xmlns.com/foaf/0.1/name> "ESPN"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-CNN-4> .
+ <http://example.org/MichaëlAllard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-CNN-4> .
+ <http://example.org/SpursVsMavericks> <http://schema.org/startDate> "2023-10-18T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <NBA-CNN-4> .
+ <http://example.org/VictorWembanyama> <http://dbpedia.org/ontology/wingspan> "8ft"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-CNN-4> .
+ <http://example.org/DallasMavericks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballTeam> <NBA-CNN-4> .
+ <http://example.org/GoldenStateWarriors> <http://dbpedia.org/ontology/league> <http://dbpedia.org/resource/National_Basketball_Association> <NBA-CNN-4> .
+ <http://example.org/VictorWembanyama> <http://dbpedia.org/ontology/birthDate> "2004-01-04"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-CNN-4> .
+ <http://example.org/AndrewWiggins> <http://dbpedia.org/ontology/team> <http://example.org/GoldenStateWarriors> <NBA-CNN-4> .
+ <http://example.org/StephCurry> <http://dbpedia.org/ontology/team> <http://example.org/GoldenStateWarriors> <NBA-CNN-4> .
+ <http://example.org/VictorWembanyama> <http://dbpedia.org/ontology/draftPick> "1"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-4> .
+ <http://example.org/NBA_League_Pass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Service> <NBA-CNN-4> .
+ <http://example.org/SpursVsMavericks> <http://dbpedia.org/ontology/broadcast> <http://dbpedia.org/ontology/NBA_League_Pass> <NBA-CNN-4> .
+ <http://example.org/MichaëlAllard> <http://xmlns.com/foaf/0.1/name> "Michaël Allard"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-CNN-4> .
+ <http://example.org/PreseasonGameHighlight> <http://schema.org/performer> <http://example.org/VictorWembanyama> <NBA-CNN-4> .
+ <http://example.org/PreseasonGameHighlight> <http://schema.org/competitor> <http://example.org/SanAntonioSpurs> <NBA-CNN-4> .
+ <http://example.org/NBA_League_Pass> <http://xmlns.com/foaf/0.1/name> "NBA League Pass"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-CNN-4> .
+ <http://example.org/SpursVsMavericks> <http://dbpedia.org/ontology/broadcast> <http://dbpedia.org/ontology/ESPN> <NBA-CNN-4> .
+ <http://example.org/MichelDeFautereau> <http://dbpedia.org/ontology/timePeriod> "1960s"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-CNN-4> .
+ <http://example.org/VictorWembanyama> <http://dbpedia.org/ontology/height> "7ft 4in"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-CNN-4> .
+ <http://example.org/SpursVsMavericks> <http://schema.org/competitor> <http://example.org/SanAntonioSpurs> <NBA-CNN-4> .
+ <http://example.org/EveWembanyama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballPlayer> <NBA-CNN-4> .
+ <http://example.org/MichelDeFautereau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-CNN-4> .
+ <http://example.org/OscarWembanyama> <http://xmlns.com/foaf/0.1/name> "Oscar Wembanyama"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-CNN-4> .
+ <http://example.org/OscarWembanyama> <http://dbpedia.org/ontology/sibling> <http://example.org/VictorWembanyama> <NBA-CNN-4> .
+ <http://example.org/WembanyamaFamily> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> <NBA-CNN-4> .
+ <http://example.org/VictorWembanyama> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/France> <NBA-CNN-4> .
+ <http://example.org/SanAntonioSpurs> <http://xmlns.com/foaf/0.1/name> "San Antonio Spurs"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-CNN-4> .
+ <http://example.org/SanAntonioSpurs> <http://dbpedia.org/ontology/league> <http://dbpedia.org/resource/National_Basketball_Association> <NBA-CNN-4> .
+ <http://example.org/OscarWembanyama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballPlayer> <NBA-CNN-4> .
+ <http://example.org/StephCurry> <http://xmlns.com/foaf/0.1/name> "Steph Curry"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-CNN-4> .
+ <http://example.org/PreseasonGameHighlight> <http://schema.org/competitor> <http://example.org/GoldenStateWarriors> <NBA-CNN-4> .
+ <http://example.org/EveWembanyama> <http://dbpedia.org/ontology/sibling> <http://example.org/VictorWembanyama> <NBA-CNN-4> .
+ <http://example.org/GoldenStateWarriors> <http://xmlns.com/foaf/0.1/name> "Golden State Warriors"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-CNN-4> .
+ <http://example.org/WembanyamaFamily> <http://xmlns.com/foaf/0.1/member> <http://example.org/VictorWembanyama> <NBA-CNN-4> .
+ <http://example.org/VictorWembanyama> <http://dbpedia.org/ontology/draftYear> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NBA-CNN-4> .
+ <http://example.org/WembanyamaFamily> <http://xmlns.com/foaf/0.1/member> <http://example.org/MichelDeFautereau> <NBA-CNN-4> .
+ <http://example.org/MichelDeFautereau> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Paris_University_Club> <NBA-CNN-4> .
+ <http://example.org/MichelDeFautereau> <http://xmlns.com/foaf/0.1/name> "Michel De Fautereau"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-CNN-4> .
+ <http://example.org/Nanterre92> <http://dbpedia.org/ontology/sport> <http://dbpedia.org/resource/Basketball> <NBA-CNN-4> .
+ <http://example.org/DallasMavericks> <http://xmlns.com/foaf/0.1/name> "Dallas Mavericks"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-CNN-4> .
+ <http://example.org/WembanyamaFamily> <http://xmlns.com/foaf/0.1/member> <http://example.org/EveWembanyama> <NBA-CNN-4> .
+ <http://example.org/SpursVsMavericks> <http://schema.org/name> "Spurs vs. Mavericks NBA Game"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-CNN-4> .
+ <http://example.org/VictorWembanyama> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Center_(basketball)> <NBA-CNN-4> .
+ <http://example.org/VictorWembanyama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballPlayer> <NBA-CNN-4> .
+ <http://example.org/SpursVsMavericks> <http://schema.org/competitor> <http://example.org/DallasMavericks> <NBA-CNN-4> .
+ <http://example.org/StephCurry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballPlayer> <NBA-CNN-4> .
+ <http://example.org/GoldenStateWarriors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballTeam> <NBA-CNN-4> .
+ <http://example.org/ESPN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Broadcaster> <NBA-CNN-4> .
+ <http://example.org/PreseasonGameHighlight> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NBA-CNN-4> .
+ <http://example.org/VictorWembanyama> <http://xmlns.com/foaf/0.1/name> "Victor Wembanyama"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-CNN-4> .
+ <http://example.org/PreseasonGameHighlight> <http://schema.org/name> "Spurs Preseason Game against Golden State Warriors"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-CNN-4> .
+ <http://example.org/SpursVsMavericks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NBA-CNN-4> .
+ <http://example.org/VictorWembanyama> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/San_Antonio_Spurs> <NBA-CNN-4> .
+ <http://example.org/DallasMavericks> <http://dbpedia.org/ontology/league> <http://dbpedia.org/resource/National_Basketball_Association> <NBA-CNN-4> .
+ <http://example.org/AndrewWiggins> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballPlayer> <NBA-CNN-4> .
+ <http://example.org/MichaëlAllard> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Coach> <NBA-CNN-4> .
+ <http://example.org/Nanterre92> <http://xmlns.com/foaf/0.1/name> "Nanterre 92"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-CNN-4> .
+ <http://example.org/Nanterre92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NBA-CNN-4> .
+ <http://example.org/EveWembanyama> <http://xmlns.com/foaf/0.1/name> "Eve Wembanyama"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-CNN-4> .
+ <http://example.org/AndrewWiggins> <http://xmlns.com/foaf/0.1/name> "Andrew Wiggins"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-CNN-4> .
+ <http://example.org/DenverNuggets> <http://schema.org/record> <http://NBA-CNN-5.com/blank#n1b94d8fae61040b38f078009a91935f4b2>  <NBA-CNN-5> .
+ <http://example.org/DevinBooker> <http://schema.org/statLine> <http://NBA-CNN-5.com/blank#n1b94d8fae61040b38f078009a91935f4b6>  <NBA-CNN-5> .
+ <http://NBA-CNN-5.com/blank#n1b94d8fae61040b38f078009a91935f4b6> <http://schema.org/points> "32"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-5> .
+ <http://example.org/NikolaJokic> <http://schema.org/memberOf> <http://example.org/DenverNuggets> <NBA-CNN-5> .
+ <http://NBA-CNN-5.com/blank#n1b94d8fae61040b38f078009a91935f4b5> <http://schema.org/points> "20"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-5> .
+ <http://example.org/DenverNuggets> <http://schema.org/name> "Denver Nuggets"  <NBA-CNN-5> .
+ <http://example.org/LeBronJames> <http://schema.org/memberOf> <http://example.org/LosAngelesLakers> <NBA-CNN-5> .
+ <http://example.org/KentaviousCaldwellPope> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-CNN-5> .
+ <http://NBA-CNN-5.com/blank#n1b94d8fae61040b38f078009a91935f4b8> <http://schema.org/points> "27"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-5> .
+ <http://example.org/PhoenixSuns> <http://schema.org/sport> "Basketball"  <NBA-CNN-5> .
+ <http://NBA-CNN-5.com/blank#n1b94d8fae61040b38f078009a91935f4b1> <http://schema.org/rebounds> "13"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-5> .
+ <http://example.org/LosAngelesLakers> <http://schema.org/memberOf> <http://example.org/NBA> <NBA-CNN-5> .
+ <http://example.org/DenverNuggets> <http://schema.org/location> <http://example.org/BallArena> <NBA-CNN-5> .
+ <http://example.org/KentaviousCaldwellPope> <http://schema.org/statLine> <http://NBA-CNN-5.com/blank#n1b94d8fae61040b38f078009a91935f4b5>  <NBA-CNN-5> .
+ <http://example.org/ChampionshipRingCeremony> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NBA-CNN-5> .
+ <http://NBA-CNN-5.com/blank#n1b94d8fae61040b38f078009a91935f4b2> <http://schema.org/loss> "107"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-5> .
+ <http://example.org/KevinDurant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-CNN-5> .
+ <http://example.org/GoldenStateWarriors> <http://schema.org/sport> "Basketball"  <NBA-CNN-5> .
+ <http://example.org/KevinDurant> <http://schema.org/statLine> <http://NBA-CNN-5.com/blank#n1b94d8fae61040b38f078009a91935f4b7>  <NBA-CNN-5> .
+ <http://NBA-CNN-5.com/blank#n1b94d8fae61040b38f078009a91935f4b4> <http://schema.org/points> "21"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-5> .
+ <http://example.org/PhoenixSuns> <http://schema.org/athlete> <http://example.org/KevinDurant> <NBA-CNN-5> .
+ <http://NBA-CNN-5.com/blank#n1b94d8fae61040b38f078009a91935f4b6> <http://schema.org/rebounds> "6"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-5> .
+ <http://example.org/BallArena> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <NBA-CNN-5> .
+ <http://example.org/LosAngelesLakers> <http://schema.org/athlete> <http://example.org/LeBronJames> <NBA-CNN-5> .
+ <http://NBA-CNN-5.com/blank#n1b94d8fae61040b38f078009a91935f4b2> <http://schema.org/win> "119"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-5> .
+ <http://example.org/LeBronJames> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-CNN-5> .
+ <http://example.org/LeBronJames> <http://schema.org/name> "LeBron James"  <NBA-CNN-5> .
+ <http://example.org/MichaelMalone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-CNN-5> .
+ <http://example.org/NBA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsOrganization> <NBA-CNN-5> .
+ <http://example.org/PhoenixSuns> <http://schema.org/athlete> <http://example.org/DevinBooker> <NBA-CNN-5> .
+ <http://example.org/ChampionshipRingCeremony> <http://schema.org/startDate> "2023-10-??T??:??:??"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <NBA-CNN-5> .
+ <http://example.org/NikolaJokic> <http://schema.org/award> "Two-time NBA MVP"  <NBA-CNN-5> .
+ <http://NBA-CNN-5.com/blank#n1b94d8fae61040b38f078009a91935f4b7> <http://schema.org/points> "18"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-5> .
+ <http://example.org/DenverNuggets> <http://schema.org/sport> "Basketball"  <NBA-CNN-5> .
+ <http://NBA-CNN-5.com/blank#n1b94d8fae61040b38f078009a91935f4b1> <http://schema.org/points> "29"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-5> .
+ <http://example.org/GoldenStateWarriors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <NBA-CNN-5> .
+ <http://NBA-CNN-5.com/blank#n1b94d8fae61040b38f078009a91935f4b3> <http://schema.org/minutesPlayed> "29"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-5> .
+ <http://example.org/StephCurry> <http://schema.org/name> "Steph Curry"  <NBA-CNN-5> .
+ <http://NBA-CNN-5.com/blank#n1b94d8fae61040b38f078009a91935f4b5> <http://schema.org/steals> "3"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-5> .
+ <http://example.org/JamalMurray> <http://schema.org/statLine> <http://NBA-CNN-5.com/blank#n1b94d8fae61040b38f078009a91935f4b4>  <NBA-CNN-5> .
+ <http://example.org/PhoenixSuns> <http://schema.org/memberOf> <http://example.org/NBA> <NBA-CNN-5> .
+ <http://NBA-CNN-5.com/blank#n1b94d8fae61040b38f078009a91935f4b7> <http://schema.org/rebounds> "10"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-5> .
+ <http://example.org/DenverNuggets> <http://schema.org/athlete> <http://example.org/JamalMurray> <NBA-CNN-5> .
+ <http://example.org/DenverNuggets> <http://schema.org/athlete> <http://example.org/KentaviousCaldwellPope> <NBA-CNN-5> .
+ <http://example.org/KevinDurant> <http://schema.org/name> "Kevin Durant"  <NBA-CNN-5> .
+ <http://NBA-CNN-5.com/blank#n1b94d8fae61040b38f078009a91935f4b3> <http://schema.org/points> "21"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-5> .
+ <http://example.org/LeBronJames> <http://schema.org/statLine> <http://NBA-CNN-5.com/blank#n1b94d8fae61040b38f078009a91935f4b3>  <NBA-CNN-5> .
+ <http://example.org/KentaviousCaldwellPope> <http://schema.org/memberOf> <http://example.org/DenverNuggets> <NBA-CNN-5> .
+ <http://example.org/DenverNuggets> <http://schema.org/event> <http://example.org/ChampionshipRingCeremony> <NBA-CNN-5> .
+ <http://NBA-CNN-5.com/blank#n1b94d8fae61040b38f078009a91935f4b6> <http://schema.org/assists> "8"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-5> .
+ <http://example.org/GoldenStateWarriors> <http://schema.org/memberOf> <http://example.org/NBA> <NBA-CNN-5> .
+ <http://example.org/JamalMurray> <http://schema.org/name> "Jamal Murray"  <NBA-CNN-5> .
+ <http://example.org/NikolaJokic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-CNN-5> .
+ <http://example.org/DenverNuggets> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <NBA-CNN-5> .
+ <http://example.org/StephCurry> <http://schema.org/statLine> <http://NBA-CNN-5.com/blank#n1b94d8fae61040b38f078009a91935f4b8>  <NBA-CNN-5> .
+ <http://example.org/ChampionshipRingCeremony> <http://schema.org/location> <http://example.org/BallArena> <NBA-CNN-5> .
+ <http://example.org/KentaviousCaldwellPope> <http://schema.org/name> "Kentavious Caldwell-Pope"  <NBA-CNN-5> .
+ <http://example.org/JamalMurray> <http://schema.org/memberOf> <http://example.org/DenverNuggets> <NBA-CNN-5> .
+ <http://example.org/DevinBooker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-CNN-5> .
+ <http://example.org/LosAngelesLakers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <NBA-CNN-5> .
+ <http://example.org/StephCurry> <http://schema.org/memberOf> <http://example.org/GoldenStateWarriors> <NBA-CNN-5> .
+ <http://example.org/BallArena> <http://schema.org/name> "Ball Arena"  <NBA-CNN-5> .
+ <http://example.org/DenverNuggets> <http://schema.org/coach> <http://example.org/MichaelMalone> <NBA-CNN-5> .
+ <http://example.org/DenverNuggets> <http://schema.org/memberOf> <http://example.org/NBA> <NBA-CNN-5> .
+ <http://example.org/NikolaJokic> <http://schema.org/name> "Nikola Jokić"  <NBA-CNN-5> .
+ <http://example.org/LosAngelesLakers> <http://schema.org/name> "Los Angeles Lakers"  <NBA-CNN-5> .
+ <http://example.org/MichaelMalone> <http://schema.org/memberOf> <http://example.org/DenverNuggets> <NBA-CNN-5> .
+ <http://example.org/KevinDurant> <http://schema.org/memberOf> <http://example.org/PhoenixSuns> <NBA-CNN-5> .
+ <http://example.org/NikolaJokic> <http://schema.org/statLine> <http://NBA-CNN-5.com/blank#n1b94d8fae61040b38f078009a91935f4b1>  <NBA-CNN-5> .
+ <http://NBA-CNN-5.com/blank#n1b94d8fae61040b38f078009a91935f4b4> <http://schema.org/assists> "6"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-5> .
+ <http://example.org/DevinBooker> <http://schema.org/memberOf> <http://example.org/PhoenixSuns> <NBA-CNN-5> .
+ <http://example.org/ChampionshipRingCeremony> <http://schema.org/name> "Championship Ring Ceremony"  <NBA-CNN-5> .
+ <http://example.org/PhoenixSuns> <http://schema.org/name> "Phoenix Suns"  <NBA-CNN-5> .
+ <http://NBA-CNN-5.com/blank#n1b94d8fae61040b38f078009a91935f4b2> <http://schema.org/season> "2023-24"  <NBA-CNN-5> .
+ <http://example.org/DenverNuggets> <http://schema.org/athlete> <http://example.org/NikolaJokic> <NBA-CNN-5> .
+ <http://example.org/PhoenixSuns> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <NBA-CNN-5> .
+ <http://example.org/MichaelMalone> <http://schema.org/name> "Michael Malone"  <NBA-CNN-5> .
+ <http://example.org/BallArena> <http://schema.org/location> "Colorado"  <NBA-CNN-5> .
+ <http://example.org/LosAngelesLakers> <http://schema.org/sport> "Basketball"  <NBA-CNN-5> .
+ <http://example.org/JamalMurray> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-CNN-5> .
+ <http://example.org/StephCurry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-CNN-5> .
+ <http://NBA-CNN-5.com/blank#n1b94d8fae61040b38f078009a91935f4b1> <http://schema.org/assists> "11"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-5> .
+ <http://example.org/MichaelMalone> <http://schema.org/jobTitle> "Head Coach"  <NBA-CNN-5> .
+ <http://example.org/NBA> <http://schema.org/name> "National Basketball Association"  <NBA-CNN-5> .
+ <http://example.org/DevinBooker> <http://schema.org/name> "Devin Booker"  <NBA-CNN-5> .
+ <http://example.org/GoldenStateWarriors> <http://schema.org/athlete> <http://example.org/StephCurry> <NBA-CNN-5> .
+ <http://example.org/GoldenStateWarriors> <http://schema.org/name> "Golden State Warriors"  <NBA-CNN-5> .
+ <http://NBA-CNN-5.com/blank#n1b94d8fae61040b38f078009a91935f4b8> <http://schema.org/rebounds> "5"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-5> .
+ <http://example.org/GiannisAntetokounmpo> <http://dbpedia.org/ontology/championship> "2021 NBA title"  <NBA-CNN-6> .
+ <http://NBA-CNN-6.com/blank#nce4475dc91c947b9ac384986ddfb3b2db1> <http://dbpedia.org/ontology/numberOfMatches> "11"^^<http://www.w3.org/2001/XMLSchema#integer>  <NBA-CNN-6> .
+ <http://example.org/GiannisAntetokounmpo> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Milwaukee_Bucks> <NBA-CNN-6> .
+ <http://example.org/GiannisAntetokounmpo> <http://xmlns.com/foaf/0.1/name> "Giannis Antetokounmpo"  <NBA-CNN-6> .
+ <http://NBA-CNN-6.com/blank#nce4475dc91c947b9ac384986ddfb3b2db1> <http://dbpedia.org/ontology/startDate> "2013-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-CNN-6> .
+ <http://NBA-CNN-6.com/blank#nce4475dc91c947b9ac384986ddfb3b2db2> <http://dbpedia.org/ontology/contractPeriod> "3"^^<http://www.w3.org/2001/XMLSchema#integer>  <NBA-CNN-6> .
+ <http://NBA-CNN-6.com/blank#nce4475dc91c947b9ac384986ddfb3b2db1> <http://dbpedia.org/ontology/endDate> "2024-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-CNN-6> .
+ <http://example.org/GiannisAntetokounmpo> <http://dbpedia.org/ontology/careerStation> <http://NBA-CNN-6.com/blank#nce4475dc91c947b9ac384986ddfb3b2db1>  <NBA-CNN-6> .
+ <http://example.org/AdrianWojnarowski> <http://dbpedia.org/ontology/employer> <http://example.org/ESPN> <NBA-CNN-6> .
+ <http://example.org/AdrianWojnarowski> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-CNN-6> .
+ <http://example.org/ContractExtensionAnnouncement> <http://schema.org/author> <http://example.org/GiannisAntetokounmpo> <NBA-CNN-6> .
+ <http://dbpedia.org/resource/Milwaukee_Bucks> <http://dbpedia.org/ontology/ground> <http://dbpedia.org/resource/Fiserv_Forum> <NBA-CNN-6> .
+ <http://example.org/AlexSaratsis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-CNN-6> .
+ <http://example.org/GiannisAntetokounmpo> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/NBA_Defensive_Player_of_the_Year_Award> <NBA-CNN-6> .
+ <http://dbpedia.org/resource/Milwaukee_Bucks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballTeam> <NBA-CNN-6> .
+ <http://example.org/ContractExtensionAnnouncement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPosting> <NBA-CNN-6> .
+ <http://example.org/CNN> <http://dbpedia.org/ontology/broadcastArea> <http://dbpedia.org/resource/United_States> <NBA-CNN-6> .
+ <http://example.org/GiannisAntetokounmpo> <http://dbpedia.org/ontology/birthDate> "1994-12-06"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-CNN-6> .
+ <http://NBA-CNN-6.com/blank#nce4475dc91c947b9ac384986ddfb3b2db1> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Milwaukee_Bucks> <NBA-CNN-6> .
+ <http://NBA-CNN-6.com/blank#nce4475dc91c947b9ac384986ddfb3b2db1> <http://dbpedia.org/ontology/contract> <http://NBA-CNN-6.com/blank#nce4475dc91c947b9ac384986ddfb3b2db2>  <NBA-CNN-6> .
+ <http://example.org/ESPN> <http://xmlns.com/foaf/0.1/name> "ESPN"  <NBA-CNN-6> .
+ <http://example.org/GiannisAntetokounmpo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-CNN-6> .
+ <http://example.org/CNN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Broadcaster> <NBA-CNN-6> .
+ <http://example.org/MilwaukeeBucksSeasonStart> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Milwaukee> <NBA-CNN-6> .
+ <http://dbpedia.org/resource/Damian_Lillard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-CNN-6> .
+ <http://example.org/CNN> <http://xmlns.com/foaf/0.1/name> "CNN"  <NBA-CNN-6> .
+ <http://example.org/GiannisAntetokounmpo> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/NBA_Most_Valuable_Player_Award> <NBA-CNN-6> .
+ <http://example.org/GiannisAntetokounmpo> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/NBA_Finals_MVP_Award> <NBA-CNN-6> .
+ <http://example.org/GiannisAntetokounmpo> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Power_forward_(basketball)> <NBA-CNN-6> .
+ <http://example.org/MilwaukeeBucksSeasonStart> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <NBA-CNN-6> .
+ <http://example.org/ContractExtensionAnnouncement> <http://schema.org/datePublished> "2023-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-CNN-6> .
+ <http://example.org/ContractExtensionAnnouncement> <http://schema.org/articleBody> "MILWAUKEEEEEEEEE!! Let's get it!!!! #BucksInSix #Extended"  <NBA-CNN-6> .
+ <http://example.org/MilwaukeeBucksSeasonStart> <http://dbpedia.org/ontology/startDate> "2023-10-19"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-CNN-6> .
+ <http://NBA-CNN-6.com/blank#nce4475dc91c947b9ac384986ddfb3b2db2> <http://dbpedia.org/ontology/option> "Player option for a fourth season"  <NBA-CNN-6> .
+ <http://example.org/AlexSaratsis> <http://dbpedia.org/ontology/agent> <http://example.org/GiannisAntetokounmpo> <NBA-CNN-6> .
+ <http://example.org/MilwaukeeBucksSeasonStart> <http://dbpedia.org/ontology/opponent> <http://dbpedia.org/resource/Philadelphia_76ers> <NBA-CNN-6> .
+ <http://example.org/ESPN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Broadcaster> <NBA-CNN-6> .
+ <http://NBA-CNN-6.com/blank#nce4475dc91c947b9ac384986ddfb3b2db1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CareerStation> <NBA-CNN-6> .
+ <http://dbpedia.org/resource/Milwaukee_Bucks> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Milwaukee> <NBA-CNN-6> .
+ <http://dbpedia.org/resource/Milwaukee_Bucks> <http://dbpedia.org/ontology/league> <http://dbpedia.org/resource/National_Basketball_Association> <NBA-CNN-6> .
+ <http://dbpedia.org/resource/Damian_Lillard> <http://xmlns.com/foaf/0.1/name> "Damian Lillard"  <NBA-CNN-6> .
+ <http://NBA-CNN-6.com/blank#nce4475dc91c947b9ac384986ddfb3b2db2> <http://dbpedia.org/ontology/contractValue> "186000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <NBA-CNN-6> .
+ <http://example.org/AlexSaratsis> <http://xmlns.com/foaf/0.1/name> "Alex Saratsis"  <NBA-CNN-6> .
+ <http://example.org/AdrianWojnarowski> <http://xmlns.com/foaf/0.1/name> "Adrian Wojnarowski"  <NBA-CNN-6> .
+ <http://NBA-CNN-6.com/blank#nce4475dc91c947b9ac384986ddfb3b2db2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Contract> <NBA-CNN-6> .
+ <http://dbpedia.org/resource/Damian_Lillard> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Milwaukee_Bucks> <NBA-CNN-6> .
+ <http://example.org/RegularSeason> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NBA-CNN-7> .
+ <http://example.org/BostonCeltics> <http://schema.org/sport> "Basketball"  <NBA-CNN-7> .
+ <http://example.org/NikolaJokic> <http://schema.org/award> "NBA Most Valuable Player"  <NBA-CNN-7> .
+ <http://example.org/ChetHolmgren> <http://schema.org/name> "Chet Holmgren"  <NBA-CNN-7> .
+ <http://example.org/NikolaJokic> <http://schema.org/memberOf> <http://example.org/DenverNuggets> <NBA-CNN-7> .
+ <http://example.org/PlayInTournament> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NBA-CNN-7> .
+ <http://example.org/GreggPopovich> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-CNN-7> .
+ <http://example.org/JrueHoliday> <http://schema.org/memberOf> <http://example.org/BostonCeltics> <NBA-CNN-7> .
+ <http://example.org/ScootHenderson> <http://schema.org/name> "Scoot Henderson"  <NBA-CNN-7> .
+ <http://example.org/DetroitPistons> <http://schema.org/name> "Detroit Pistons"  <NBA-CNN-7> .
+ <http://example.org/BostonCeltics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <NBA-CNN-7> .
+ <http://example.org/DenverNuggets> <http://schema.org/name> "Denver Nuggets"  <NBA-CNN-7> .
+ <http://example.org/RegularSeason> <http://schema.org/name> "78th NBA regular season"  <NBA-CNN-7> .
+ <http://example.org/ScootHenderson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-CNN-7> .
+ <http://example.org/VictorWembanyama> <http://schema.org/name> "Victor Wembanyama"  <NBA-CNN-7> .
+ <http://example.org/AmenThompson> <http://schema.org/name> "Amen Thompson"  <NBA-CNN-7> .
+ <http://example.org/Playoffs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NBA-CNN-7> .
+ <http://example.org/ScootHenderson> <http://schema.org/memberOf> <http://example.org/PortlandTrailBlazers> <NBA-CNN-7> .
+ <http://example.org/GreggPopovich> <http://schema.org/jobTitle> "Head Coach"  <NBA-CNN-7> .
+ <http://example.org/TNT> <http://schema.org/name> "TNT"  <NBA-CNN-7> .
+ <http://example.org/KristapsPorzingis> <http://schema.org/memberOf> <http://example.org/BostonCeltics> <NBA-CNN-7> .
+ <http://example.org/Playoffs> <http://schema.org/name> "NBA Playoffs"  <NBA-CNN-7> .
+ <http://example.org/DetroitPistons> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <NBA-CNN-7> .
+ <http://example.org/JoeMazzulla> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-CNN-7> .
+ <http://example.org/NBA_TV> <http://schema.org/name> "NBA TV"  <NBA-CNN-7> .
+ <http://example.org/InSeasonTournament> <http://schema.org/endDate> "2023-12-09"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-CNN-7> .
+ <http://example.org/LasVegas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <NBA-CNN-7> .
+ <http://example.org/InSeasonTournament> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NBA-CNN-7> .
+ <http://example.org/HoustonRockets> <http://schema.org/name> "Houston Rockets"  <NBA-CNN-7> .
+ <http://example.org/ESPN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <NBA-CNN-7> .
+ <http://example.org/RegularSeason> <http://schema.org/endDate> "2024-04-14"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-CNN-7> .
+ <http://example.org/NBAFinals> <http://schema.org/startDate> "2024-06-06"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-CNN-7> .
+ <http://example.org/ESPN_Radio> <http://schema.org/name> "ESPN Radio"  <NBA-CNN-7> .
+ <http://example.org/JoelEmbiid> <http://schema.org/memberOf> <http://example.org/Philadelphia76ers> <NBA-CNN-7> .
+ <http://example.org/OklahomaCityThunder> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <NBA-CNN-7> .
+ <http://example.org/JaysonTatum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-CNN-7> .
+ <http://example.org/NBAFinals> <http://schema.org/name> "2024 NBA Finals"  <NBA-CNN-7> .
+ <http://example.org/Philadelphia76ers> <http://schema.org/sport> "Basketball"  <NBA-CNN-7> .
+ <http://example.org/Philadelphia76ers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <NBA-CNN-7> .
+ <http://example.org/JoeMazzulla> <http://schema.org/jobTitle> "Head Coach"  <NBA-CNN-7> .
+ <http://example.org/NBA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsOrganization> <NBA-CNN-7> .
+ <http://example.org/NBA_Cup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <NBA-CNN-7> .
+ <http://example.org/GiannisAntetokounmpo> <http://schema.org/name> "Giannis Antetokounmpo"  <NBA-CNN-7> .
+ <http://example.org/JoelEmbiid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-CNN-7> .
+ <http://example.org/GreggPopovich> <http://schema.org/memberOf> <http://example.org/SanAntonioSpurs> <NBA-CNN-7> .
+ <http://example.org/NBA> <http://schema.org/startDate> "2023-10-24"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-CNN-7> .
+ <http://example.org/PlayInTournament> <http://schema.org/startDate> "2024-04-16"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-CNN-7> .
+ <http://example.org/DenverNuggets> <http://schema.org/sport> "Basketball"  <NBA-CNN-7> .
+ <http://example.org/ChetHolmgren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-CNN-7> .
+ <http://example.org/RegularSeason> <http://schema.org/startDate> "2023-10-24"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-CNN-7> .
+ <http://example.org/MilwaukeeBucks> <http://schema.org/sport> "Basketball"  <NBA-CNN-7> .
+ <http://example.org/HoustonRockets> <http://schema.org/sport> "Basketball"  <NBA-CNN-7> .
+ <http://example.org/HoustonRockets> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <NBA-CNN-7> .
+ <http://example.org/AusarThompson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-CNN-7> .
+ <http://example.org/InSeasonTournament> <http://schema.org/location> <http://example.org/LasVegas> <NBA-CNN-7> .
+ <http://example.org/TNT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <NBA-CNN-7> .
+ <http://example.org/AmenThompson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-CNN-7> .
+ <http://example.org/MilwaukeeBucks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <NBA-CNN-7> .
+ <http://example.org/GiannisAntetokounmpo> <http://schema.org/memberOf> <http://example.org/MilwaukeeBucks> <NBA-CNN-7> .
+ <http://example.org/DamianLillard> <http://schema.org/name> "Damian Lillard"  <NBA-CNN-7> .
+ <http://example.org/AusarThompson> <http://schema.org/name> "Ausar Thompson"  <NBA-CNN-7> .
+ <http://example.org/DamianLillard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-CNN-7> .
+ <http://example.org/SanAntonioSpurs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <NBA-CNN-7> .
+ <http://example.org/DetroitPistons> <http://schema.org/sport> "Basketball"  <NBA-CNN-7> .
+ <http://example.org/DamianLillard> <http://schema.org/previousTeam> <http://example.org/PortlandTrailBlazers> <NBA-CNN-7> .
+ <http://example.org/VictorWembanyama> <http://schema.org/memberOf> <http://example.org/SanAntonioSpurs> <NBA-CNN-7> .
+ <http://example.org/JrueHoliday> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-CNN-7> .
+ <http://example.org/JoelEmbiid> <http://schema.org/name> "Joel Embiid"  <NBA-CNN-7> .
+ <http://example.org/ESPN> <http://schema.org/name> "ESPN"  <NBA-CNN-7> .
+ <http://example.org/NBAFinals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NBA-CNN-7> .
+ <http://example.org/JamalMurray> <http://schema.org/name> "Jamal Murray"  <NBA-CNN-7> .
+ <http://example.org/SanAntonioSpurs> <http://schema.org/name> "San Antonio Spurs"  <NBA-CNN-7> .
+ <http://example.org/NikolaJokic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-CNN-7> .
+ <http://example.org/ABC> <http://schema.org/name> "ABC"  <NBA-CNN-7> .
+ <http://example.org/MilwaukeeBucks> <http://schema.org/name> "Milwaukee Bucks"  <NBA-CNN-7> .
+ <http://example.org/BostonCeltics> <http://schema.org/name> "Boston Celtics"  <NBA-CNN-7> .
+ <http://example.org/JrueHoliday> <http://schema.org/previousTeam> <http://example.org/PortlandTrailBlazers> <NBA-CNN-7> .
+ <http://example.org/LasVegas> <http://schema.org/name> "Las Vegas"  <NBA-CNN-7> .
+ <http://example.org/JamalMurray> <http://schema.org/memberOf> <http://example.org/DenverNuggets> <NBA-CNN-7> .
+ <http://example.org/JaylenBrown> <http://schema.org/name> "Jaylen Brown"  <NBA-CNN-7> .
+ <http://example.org/JoeMazzulla> <http://schema.org/memberOf> <http://example.org/BostonCeltics> <NBA-CNN-7> .
+ <http://example.org/DamianLillard> <http://schema.org/memberOf> <http://example.org/MilwaukeeBucks> <NBA-CNN-7> .
+ <http://example.org/NikolaJokic> <http://schema.org/name> "Nikola Jokić"  <NBA-CNN-7> .
+ <http://example.org/KristapsPorzingis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-CNN-7> .
+ <http://example.org/NBA_TV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <NBA-CNN-7> .
+ <http://example.org/OklahomaCityThunder> <http://schema.org/sport> "Basketball"  <NBA-CNN-7> .
+ <http://example.org/KristapsPorzingis> <http://schema.org/name> "Kristaps Porziņģis"  <NBA-CNN-7> .
+ <http://example.org/JoelEmbiid> <http://schema.org/award> "NBA Most Valuable Player"  <NBA-CNN-7> .
+ <http://example.org/NBA> <http://schema.org/endDate> "2024-04-14"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-CNN-7> .
+ <http://example.org/PlayInTournament> <http://schema.org/name> "Play-In tournament"  <NBA-CNN-7> .
+ <http://example.org/GiannisAntetokounmpo> <http://schema.org/award> "NBA Most Valuable Player"  <NBA-CNN-7> .
+ <http://example.org/JaysonTatum> <http://schema.org/memberOf> <http://example.org/BostonCeltics> <NBA-CNN-7> .
+ <http://example.org/ChetHolmgren> <http://schema.org/memberOf> <http://example.org/OklahomaCityThunder> <NBA-CNN-7> .
+ <http://example.org/PlayInTournament> <http://schema.org/endDate> "2024-04-19"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-CNN-7> .
+ <http://example.org/Philadelphia76ers> <http://schema.org/name> "Philadelphia 76ers"  <NBA-CNN-7> .
+ <http://example.org/GiannisAntetokounmpo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-CNN-7> .
+ <http://example.org/AmenThompson> <http://schema.org/memberOf> <http://example.org/HoustonRockets> <NBA-CNN-7> .
+ <http://example.org/JaysonTatum> <http://schema.org/name> "Jayson Tatum"  <NBA-CNN-7> .
+ <http://example.org/GreggPopovich> <http://schema.org/name> "Gregg Popovich"  <NBA-CNN-7> .
+ <http://example.org/OklahomaCityThunder> <http://schema.org/name> "Oklahoma City Thunder"  <NBA-CNN-7> .
+ <http://example.org/JaylenBrown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-CNN-7> .
+ <http://example.org/ABC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <NBA-CNN-7> .
+ <http://example.org/JamalMurray> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-CNN-7> .
+ <http://example.org/VictorWembanyama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-CNN-7> .
+ <http://example.org/JoeMazzulla> <http://schema.org/name> "Joe Mazzulla"  <NBA-CNN-7> .
+ <http://example.org/JrueHoliday> <http://schema.org/name> "Jrue Holiday"  <NBA-CNN-7> .
+ <http://example.org/SanAntonioSpurs> <http://schema.org/sport> "Basketball"  <NBA-CNN-7> .
+ <http://example.org/JaylenBrown> <http://schema.org/memberOf> <http://example.org/BostonCeltics> <NBA-CNN-7> .
+ <http://example.org/NBA> <http://schema.org/name> "National Basketball Association"  <NBA-CNN-7> .
+ <http://example.org/NBA_League_Pass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <NBA-CNN-7> .
+ <http://example.org/ESPN_Radio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <NBA-CNN-7> .
+ <http://example.org/NBA_League_Pass> <http://schema.org/name> "NBA League Pass"  <NBA-CNN-7> .
+ <http://example.org/InSeasonTournament> <http://schema.org/startDate> "2023-11-03"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-CNN-7> .
+ <http://example.org/InSeasonTournament> <http://schema.org/name> "In-Season tournament"  <NBA-CNN-7> .
+ <http://example.org/NBA_Cup> <http://schema.org/name> "NBA Cup"  <NBA-CNN-7> .
+ <http://example.org/AusarThompson> <http://schema.org/memberOf> <http://example.org/DetroitPistons> <NBA-CNN-7> .
+ <http://example.org/DamianLillard> <http://schema.org/age> "33"^^<http://www.w3.org/2001/XMLSchema#integer>  <NBA-CNN-7> .
+ <http://example.org/Playoffs> <http://schema.org/startDate> "2024-04-20"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-CNN-7> .
+ <http://example.org/DenverNuggets> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <NBA-CNN-7> .
+ <http://NBA-CNN-8.com/blank#nf99167a026a94da88fef4a7e98ed8f64b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> <NBA-CNN-8> .
+ <http://example.org/TNT> <http://schema.org/parentOrganization> <http://example.org/WarnerBrosDiscovery> <NBA-CNN-8> .
+ <http://example.org/HarperCollinsPublishers> <http://schema.org/publishes> <http://example.org/IAmMoreThan> <NBA-CNN-8> .
+ <http://example.org/NBASeason2023_24> <http://schema.org/competitor> <http://example.org/LosAngelesLakers> <NBA-CNN-8> .
+ <http://example.org/TNT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BroadcastService> <NBA-CNN-8> .
+ <http://example.org/IPromise> <http://schema.org/datePublished> "2020"  <NBA-CNN-8> .
+ <http://example.org/LeBronJames> <http://schema.org/athlete> "four-time NBA champion"  <NBA-CNN-8> .
+ <http://example.org/IPromise> <http://schema.org/name> "I Promise"  <NBA-CNN-8> .
+ <http://example.org/IAmMoreThan> <http://schema.org/isPartOf> <http://example.org/LeBronJamesFoundationBookDeal> <NBA-CNN-8> .
+ <http://example.org/IPromise> <http://schema.org/isPartOf> <http://example.org/LeBronJamesFoundationBookDeal> <NBA-CNN-8> .
+ <http://example.org/HarperCollinsPublishers> <http://schema.org/publishes> <http://example.org/IPromise> <NBA-CNN-8> .
+ <http://example.org/IAmMoreThan> <http://schema.org/illustrator> <http://example.org/NinaMata> <NBA-CNN-8> .
+ <http://example.org/DenverNuggets> <http://schema.org/name> "Denver Nuggets"  <NBA-CNN-8> .
+ <http://example.org/LeBronJames> <http://schema.org/memberOf> <http://example.org/LosAngelesLakers> <NBA-CNN-8> .
+ <http://example.org/IPromise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> <NBA-CNN-8> .
+ <http://example.org/IPromise> <http://schema.org/position> "No. 1 New York Times bestselling picture book"  <NBA-CNN-8> .
+ <http://example.org/NBASeason2023_24> <http://schema.org/competitor> <http://example.org/DenverNuggets> <NBA-CNN-8> .
+ <http://example.org/LuanaHorry> <http://schema.org/jobTitle> "Executive Editor"  <NBA-CNN-8> .
+ <http://example.org/IAmMoreThan> <http://schema.org/datePublished> "2024-04-02"  <NBA-CNN-8> .
+ <http://example.org/LeBronJames> <http://xmlns.com/foaf/0.1/depiction> <http://NBA-CNN-8.com/blank#nf99167a026a94da88fef4a7e98ed8f64b1>  <NBA-CNN-8> .
+ <http://example.org/LeBronJamesFoundationBookDeal> <http://schema.org/name> "LeBron James Foundation two-book deal"  <NBA-CNN-8> .
+ <http://example.org/NinaMata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-CNN-8> .
+ <http://example.org/LuanaHorry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-CNN-8> .
+ <http://example.org/TNT> <http://schema.org/name> "TNT"  <NBA-CNN-8> .
+ <http://example.org/WarnerBrosDiscovery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <NBA-CNN-8> .
+ <http://NBA-CNN-8.com/blank#nf99167a026a94da88fef4a7e98ed8f64b1> <http://schema.org/caption> "The book’s colorful cover shows three smiling children in a joyful mood holding up the book’s title."  <NBA-CNN-8> .
+ <http://example.org/IAmMoreThan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> <NBA-CNN-8> .
+ <http://example.org/LosAngelesLakers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <NBA-CNN-8> .
+ <http://example.org/LosAngelesLakers> <http://schema.org/name> "Los Angeles Lakers"  <NBA-CNN-8> .
+ <http://example.org/NBASeason2023_24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NBA-CNN-8> .
+ <http://example.org/LeBronJamesFoundationBookDeal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <NBA-CNN-8> .
+ <http://example.org/LeBronJames> <http://schema.org/jobTitle> "NBA superstar"  <NBA-CNN-8> .
+ <http://example.org/HarperCollinsPublishers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <NBA-CNN-8> .
+ <http://example.org/IPromise> <http://schema.org/bookFormat> <http://schema.org/PictureBook> <NBA-CNN-8> .
+ <http://example.org/HarperCollinsPublishers> <http://schema.org/name> "HarperCollins Publishers"  <NBA-CNN-8> .
+ <http://example.org/IAmMoreThan> <http://schema.org/bookFormat> <http://schema.org/PictureBook> <NBA-CNN-8> .
+ <http://example.org/LeBronJames> <http://schema.org/authorOf> <http://example.org/IAmMoreThan> <NBA-CNN-8> .
+ <http://example.org/NinaMata> <http://schema.org/name> "Niña Mata"  <NBA-CNN-8> .
+ <http://example.org/LosAngelesLakers> <http://schema.org/competesIn> <http://example.org/NBASeason2023_24> <NBA-CNN-8> .
+ <http://example.org/NBASeason2023_24> <http://schema.org/broadcastOn> <http://example.org/TNT> <NBA-CNN-8> .
+ <http://example.org/LeBronJames> <http://schema.org/name> "LeBron James"  <NBA-CNN-8> .
+ <http://example.org/LeBronJames> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-CNN-8> .
+ <http://example.org/IAmMoreThan> <http://schema.org/about> "believing in yourself and all the amazing things you’re capable of"  <NBA-CNN-8> .
+ <http://example.org/LosAngelesLakers> <http://schema.org/sport> "Basketball"  <NBA-CNN-8> .
+ <http://example.org/IAmMoreThan> <http://purl.org/dc/terms/description> "An empowering and inspirational picture book that shows young readers they are more than one label, trait, or interest – that they can do anything they set their minds to."  <NBA-CNN-8> .
+ <http://example.org/NBASeason2023_24> <http://schema.org/startDate> "2023-10-24"  <NBA-CNN-8> .
+ <http://example.org/LeBronJames> <http://schema.org/authorOf> <http://example.org/IPromise> <NBA-CNN-8> .
+ <http://example.org/NinaMata> <http://schema.org/illustratorOf> <http://example.org/IAmMoreThan> <NBA-CNN-8> .
+ <http://example.org/LeBronJamesFoundationBookDeal> <http://schema.org/offers> <http://example.org/IAmMoreThan> <NBA-CNN-8> .
+ <http://example.org/LuanaHorry> <http://schema.org/worksFor> <http://example.org/HarperCollinsPublishers> <NBA-CNN-8> .
+ <http://example.org/DenverNuggets> <http://schema.org/sport> "Basketball"  <NBA-CNN-8> .
+ <http://example.org/NBASeason2023_24> <http://schema.org/name> "2023-24 NBA season"  <NBA-CNN-8> .
+ <http://example.org/DenverNuggets> <http://schema.org/championOf> <http://example.org/NBASeason2023_24> <NBA-CNN-8> .
+ <http://example.org/LuanaHorry> <http://schema.org/name> "Luana Horry"  <NBA-CNN-8> .
+ <http://example.org/WarnerBrosDiscovery> <http://schema.org/name> "Warner Bros. Discovery"  <NBA-CNN-8> .
+ <http://example.org/IAmMoreThan> <http://schema.org/publisher> <http://example.org/HarperCollinsPublishers> <NBA-CNN-8> .
+ <http://example.org/IAmMoreThan> <http://schema.org/name> "I Am More Than"  <NBA-CNN-8> .
+ <http://example.org/IPromise> <http://schema.org/publisher> <http://example.org/HarperCollinsPublishers> <NBA-CNN-8> .
+ <http://example.org/LeBronJamesFoundationBookDeal> <http://schema.org/offers> <http://example.org/IPromise> <NBA-CNN-8> .
+ <http://example.org/NinaMata> <http://schema.org/illustratorOf> <http://example.org/IPromise> <NBA-CNN-8> .
+ <http://example.org/DenverNuggets> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <NBA-CNN-8> .
+ <http://example.org/WNBAFinals2023> <http://example.org/wnba/location> <http://example.org/BarclaysCenter> <NBA-CNN-9> .
+ <http://example.org/ChelseaGray> <http://example.org/wnba/sufferedInjury> <http://example.org/FootInjury> <NBA-CNN-9> .
+ <http://example.org/NewYorkLiberty> <http://example.org/wnba/hasPlayer> <http://example.org/BreannaStewart> <NBA-CNN-9> .
+ <http://example.org/BeckyHammon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/wnba/Coach> <NBA-CNN-9> .
+ <http://example.org/SabrinaIonescu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/wnba/Player> <NBA-CNN-9> .
+ <http://example.org/AjaWilson> <http://example.org/wnba/finalsMVP> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NBA-CNN-9> .
+ <http://example.org/AjaWilson> <http://example.org/wnba/playerName> "A'ja Wilson"  <NBA-CNN-9> .
+ <http://example.org/JackieYoung> <http://example.org/wnba/assists> "7"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-9> .
+ <http://example.org/KiahStokes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/wnba/Player> <NBA-CNN-9> .
+ <http://example.org/BreannaStewart> <http://example.org/wnba/team> <http://example.org/NewYorkLiberty> <NBA-CNN-9> .
+ <http://example.org/AjaWilson> <http://example.org/wnba/pointsScored> "24"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-9> .
+ <http://example.org/SabrinaIonescu> <http://example.org/wnba/team> <http://example.org/NewYorkLiberty> <NBA-CNN-9> .
+ <http://example.org/CourtneyVandersloot> <http://example.org/wnba/team> <http://example.org/NewYorkLiberty> <NBA-CNN-9> .
+ <http://example.org/NewYorkLiberty> <http://example.org/wnba/hasPlayer> <http://example.org/CourtneyVandersloot> <NBA-CNN-9> .
+ <http://example.org/ChelseaGray> <http://example.org/wnba/playerName> "Chelsea Gray"  <NBA-CNN-9> .
+ <http://example.org/LasVegasAces> <http://example.org/wnba/hasPlayer> <http://example.org/AjaWilson> <NBA-CNN-9> .
+ <http://example.org/LasVegasAces> <http://example.org/wnba/defeated> <http://example.org/NewYorkLiberty> <NBA-CNN-9> .
+ <http://example.org/WNBAFinals2023> <http://example.org/wnba/eventName> "2023 WNBA Finals"  <NBA-CNN-9> .
+ <http://example.org/BreannaStewart> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/wnba/Player> <NBA-CNN-9> .
+ <http://example.org/CourtneyVandersloot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/wnba/Player> <NBA-CNN-9> .
+ <http://example.org/AjaWilson> <http://example.org/wnba/rebounds> "16"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-9> .
+ <http://example.org/KiahStokes> <http://example.org/wnba/team> <http://example.org/LasVegasAces> <NBA-CNN-9> .
+ <http://example.org/BreannaStewart> <http://example.org/wnba/playerName> "Breanna Stewart"  <NBA-CNN-9> .
+ <http://example.org/LasVegasAces> <http://example.org/wnba/playedWithout> <http://example.org/ChelseaGray> <NBA-CNN-9> .
+ <http://example.org/NewYorkLiberty> <http://example.org/wnba/hasPlayer> <http://example.org/SabrinaIonescu> <NBA-CNN-9> .
+ <http://example.org/LasVegasAces> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/wnba/Team> <NBA-CNN-9> .
+ <http://example.org/BreannaStewart> <http://example.org/wnba/mvp> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NBA-CNN-9> .
+ <http://example.org/JackieYoung> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/wnba/Player> <NBA-CNN-9> .
+ <http://example.org/WNBAFinals2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/wnba/Event> <NBA-CNN-9> .
+ <http://example.org/AjaWilson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/wnba/Player> <NBA-CNN-9> .
+ <http://example.org/LasVegasAces> <http://example.org/wnba/playedWithout> <http://example.org/KiahStokes> <NBA-CNN-9> .
+ <http://example.org/BarclaysCenter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/wnba/Location> <NBA-CNN-9> .
+ <http://example.org/ChelseaGray> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/wnba/Player> <NBA-CNN-9> .
+ <http://example.org/JackieYoung> <http://example.org/wnba/playerName> "Jackie Young"  <NBA-CNN-9> .
+ <http://example.org/NewYorkLiberty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/wnba/Team> <NBA-CNN-9> .
+ <http://example.org/KiahStokes> <http://example.org/wnba/sufferedInjury> <http://example.org/FootInjury> <NBA-CNN-9> .
+ <http://example.org/FootInjury> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/wnba/Injury> <NBA-CNN-9> .
+ <http://example.org/WNBAFinals2023> <http://example.org/wnba/winner> <http://example.org/LasVegasAces> <NBA-CNN-9> .
+ <http://example.org/FootInjury> <http://example.org/wnba/injuryType> "foot injury"  <NBA-CNN-9> .
+ <http://example.org/WNBAFinals2023> <http://example.org/wnba/date> "2023-09-13"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-CNN-9> .
+ <http://example.org/BeckyHammon> <http://example.org/wnba/coachName> "Becky Hammon"  <NBA-CNN-9> .
+ <http://example.org/CourtneyVandersloot> <http://example.org/wnba/missedBuzzerBeater> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NBA-CNN-9> .
+ <http://example.org/WNBAFinals2023> <http://example.org/wnba/finalScore> "70-69"  <NBA-CNN-9> .
+ <http://example.org/KiahStokes> <http://example.org/wnba/playerName> "Kiah Stokes"  <NBA-CNN-9> .
+ <http://example.org/JackieYoung> <http://example.org/wnba/team> <http://example.org/LasVegasAces> <NBA-CNN-9> .
+ <http://example.org/JackieYoung> <http://example.org/wnba/pointsScored> "16"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-CNN-9> .
+ <http://example.org/WNBAFinals2023> <http://example.org/wnba/loser> <http://example.org/NewYorkLiberty> <NBA-CNN-9> .
+ <http://example.org/AjaWilson> <http://example.org/wnba/team> <http://example.org/LasVegasAces> <NBA-CNN-9> .
+ <http://example.org/WNBAFinals2023> <http://example.org/wnba/gameNumber> "Game 4"  <NBA-CNN-9> .
+ <http://example.org/LasVegasAces> <http://example.org/wnba/hasPlayer> <http://example.org/JackieYoung> <NBA-CNN-9> .
+ <http://example.org/NewYorkLiberty> <http://example.org/wnba/teamName> "New York Liberty"  <NBA-CNN-9> .
+ <http://example.org/SabrinaIonescu> <http://example.org/wnba/playerName> "Sabrina Ionescu"  <NBA-CNN-9> .
+ <http://example.org/BeckyHammon> <http://example.org/wnba/team> <http://example.org/LasVegasAces> <NBA-CNN-9> .
+ <http://example.org/CourtneyVandersloot> <http://example.org/wnba/playerName> "Courtney Vandersloot"  <NBA-CNN-9> .
+ <http://example.org/ChelseaGray> <http://example.org/wnba/team> <http://example.org/LasVegasAces> <NBA-CNN-9> .
+ <http://example.org/LasVegasAces> <http://example.org/wnba/wonTitle> <http://example.org/WNBAFinals2023> <NBA-CNN-9> .
+ <http://example.org/BarclaysCenter> <http://example.org/wnba/locationName> "Barclays Center"  <NBA-CNN-9> .
+ <http://example.org/BarclaysCenter> <http://example.org/wnba/city> "Brooklyn, New York"  <NBA-CNN-9> .
+ <http://example.org/LasVegasAces> <http://example.org/wnba/teamName> "Las Vegas Aces"  <NBA-CNN-9> .

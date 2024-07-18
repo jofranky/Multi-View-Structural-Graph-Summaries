@@ -1,0 +1,676 @@
+ <http://example.org/ontology#ATT> <http://xmlns.com/foaf/0.1/name> "AT&T"  <WarnerBros-CNN-0> .
+ <http://example.org/ontology#MovieTheaters> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <WarnerBros-CNN-0> .
+ <http://example.org/ontology#HBO_Max> <http://dbpedia.org/ontology/owner> <http://example.org/ontology#ATT> <WarnerBros-CNN-0> .
+ <http://example.org/ontology#WonderWoman1984> <http://dbpedia.org/ontology/distributor> <http://example.org/ontology#WarnerBros> <WarnerBros-CNN-0> .
+ <http://example.org/ontology#StreamingUniverse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Concept> <WarnerBros-CNN-0> .
+ <http://example.org/ontology#BoxOfficeRevenueSacrifice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WarnerBros-CNN-0> .
+ <http://example.org/ontology#Universal> <http://xmlns.com/foaf/0.1/name> "Universal"  <WarnerBros-CNN-0> .
+ <http://example.org/ontology#TheatricalModel> <http://schema.org/description> "Theatrical model potentially impacted by Warner Bros. decision"  <WarnerBros-CNN-0> .
+ <http://example.org/ontology#TheatricalRelease> <http://schema.org/description> "Theatrical release schedules derailed by coronavirus"  <WarnerBros-CNN-0> .
+ <http://example.org/ontology#CNN> <http://xmlns.com/foaf/0.1/name> "CNN"  <WarnerBros-CNN-0> .
+ <http://example.org/ontology#HBO_Max> <http://xmlns.com/foaf/0.1/name> "HBO Max"  <WarnerBros-CNN-0> .
+ <http://example.org/ontology#CNN> <http://dbpedia.org/ontology/owner> <http://example.org/ontology#WarnerMedia> <WarnerBros-CNN-0> .
+ <http://example.org/ontology#WarnerBros> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-CNN-0> .
+ <http://example.org/ontology#WarnerBros> <http://dbpedia.org/ontology/product> <http://example.org/ontology#Movies2021> <WarnerBros-CNN-0> .
+ <http://example.org/ontology#BoxOfficeRevenueSacrifice> <http://dbpedia.org/ontology/estimatedValue> "1200000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-CNN-0> .
+ <http://example.org/ontology#CNN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Broadcaster> <WarnerBros-CNN-0> .
+ <http://example.org/ontology#WonderWoman1984> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <WarnerBros-CNN-0> .
+ <http://example.org/ontology#TrollsWorldTour> <http://dbpedia.org/ontology/distributor> <http://example.org/ontology#Universal> <WarnerBros-CNN-0> .
+ <http://example.org/ontology#Movies2021> <http://dbpedia.org/ontology/distributor> <http://example.org/ontology#HBO_Max> <WarnerBros-CNN-0> .
+ <http://example.org/ontology#Disney> <http://xmlns.com/foaf/0.1/name> "Disney"  <WarnerBros-CNN-0> .
+ <http://example.org/ontology#Comcast> <http://xmlns.com/foaf/0.1/name> "Comcast"  <WarnerBros-CNN-0> .
+ <http://example.org/ontology#HBO_Max> <http://dbpedia.org/ontology/serviceType> <http://dbpedia.org/resource/Streaming_service> <WarnerBros-CNN-0> .
+ <http://example.org/ontology#StreamingTheatricalCombination> <http://schema.org/description> "Inauguration of streaming-theatrical combination with 'Wonder Woman 1984' on Christmas day"  <WarnerBros-CNN-0> .
+ <http://example.org/ontology#StreamingTheatricalCombination> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WarnerBros-CNN-0> .
+ <http://example.org/ontology#JasonKilar> <http://dbpedia.org/ontology/employer> <http://example.org/ontology#WarnerMedia> <WarnerBros-CNN-0> .
+ <http://example.org/ontology#WarnerBros> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Entertainment_industry> <WarnerBros-CNN-0> .
+ <http://example.org/ontology#WarnerMedia> <http://dbpedia.org/ontology/owner> <http://example.org/ontology#ATT> <WarnerBros-CNN-0> .
+ <http://example.org/ontology#MoffettNathanson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <WarnerBros-CNN-0> .
+ <http://example.org/ontology#ATT> <http://dbpedia.org/ontology/stockTicker> "T"  <WarnerBros-CNN-0> .
+ <http://example.org/ontology#Comcast> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-CNN-0> .
+ <http://example.org/ontology#Universal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-CNN-0> .
+ <http://example.org/ontology#TheatricalModel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Concept> <WarnerBros-CNN-0> .
+ <http://example.org/ontology#StreamingUniverse> <http://schema.org/description> "Warner Bros. steps into the streaming universe"  <WarnerBros-CNN-0> .
+ <http://example.org/ontology#WonderWoman1984> <http://dbpedia.org/ontology/releaseDate> "2020-12-25"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-CNN-0> .
+ <http://example.org/ontology#WarnerBrosDecision> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WarnerBros-CNN-0> .
+ <http://example.org/ontology#ReleaseWindowShrinkage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WarnerBros-CNN-0> .
+ <http://example.org/ontology#ConsumerPreference> <http://schema.org/description> "Consumer preference will determine the future of movie consumption"  <WarnerBros-CNN-0> .
+ <http://example.org/ontology#MoffettNathanson> <http://xmlns.com/foaf/0.1/name> "MoffettNathanson"  <WarnerBros-CNN-0> .
+ <http://example.org/ontology#JasonKilar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-CNN-0> .
+ <http://example.org/ontology#TheatricalRelease> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WarnerBros-CNN-0> .
+ <http://example.org/ontology#WarnerBros> <http://dbpedia.org/ontology/owner> <http://example.org/ontology#WarnerMedia> <WarnerBros-CNN-0> .
+ <http://example.org/ontology#DuneRemake> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <WarnerBros-CNN-0> .
+ <http://example.org/ontology#Disney> <http://dbpedia.org/ontology/stockTicker> "DIS"  <WarnerBros-CNN-0> .
+ <http://example.org/ontology#Comcast> <http://dbpedia.org/ontology/stockTicker> "CCZ"  <WarnerBros-CNN-0> .
+ <http://example.org/ontology#Disney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-CNN-0> .
+ <http://example.org/ontology#ReleaseWindowShrinkage> <http://schema.org/description> "Shrinking release windows for movies"  <WarnerBros-CNN-0> .
+ <http://example.org/ontology#TrollsWorldTour> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <WarnerBros-CNN-0> .
+ <http://example.org/ontology#MovieTheaters> <http://schema.org/description> "Movie theaters facing challenges due to Warner Bros. decision and consumer behavior"  <WarnerBros-CNN-0> .
+ <http://example.org/ontology#Universal> <http://dbpedia.org/ontology/parentCompany> <http://example.org/ontology#Comcast> <WarnerBros-CNN-0> .
+ <http://example.org/ontology#WarnerBros> <http://xmlns.com/foaf/0.1/name> "Warner Bros."  <WarnerBros-CNN-0> .
+ <http://example.org/ontology#WarnerBrosDecision> <http://schema.org/description> "The Warner Bros. decision to make its 2021 movies available on streaming service HBO Max the same day they hit theaters"  <WarnerBros-CNN-0> .
+ <http://example.org/ontology#Movies2021> <http://schema.org/availabilityStarts> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WarnerBros-CNN-0> .
+ <http://example.org/ontology#WarnerMedia> <http://xmlns.com/foaf/0.1/name> "WarnerMedia"  <WarnerBros-CNN-0> .
+ <http://example.org/ontology#BoxOfficeRevenueSacrifice> <http://schema.org/description> "WarnerMedia could be sacrificing $1.2 billion in box-office revenue annually"  <WarnerBros-CNN-0> .
+ <http://example.org/ontology#MoffettNathanson> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Media_analysis> <WarnerBros-CNN-0> .
+ <http://example.org/ontology#DuneRemake> <http://dbpedia.org/ontology/distributor> <http://example.org/ontology#WarnerBros> <WarnerBros-CNN-0> .
+ <http://example.org/ontology#WarnerMedia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-CNN-0> .
+ <http://example.org/ontology#Movies2021> <http://dbpedia.org/ontology/releaseDate> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WarnerBros-CNN-0> .
+ <http://example.org/ontology#JasonKilar> <http://xmlns.com/foaf/0.1/name> "Jason Kilar"  <WarnerBros-CNN-0> .
+ <http://example.org/ontology#Movies2021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <WarnerBros-CNN-0> .
+ <http://example.org/ontology#HBO_Max> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Service> <WarnerBros-CNN-0> .
+ <http://example.org/ontology#ConsumerPreference> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Concept> <WarnerBros-CNN-0> .
+ <http://example.org/ontology#JasonKilar> <http://schema.org/jobTitle> "WarnerMedia CEO"  <WarnerBros-CNN-0> .
+ <http://example.org/ontology#ATT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-CNN-0> .
+ <http://example.org/ontology#WarnerMedia> <http://schema.org/parentOrganization> <http://example.org/ontology#CNN> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#AnnSarnoff> <http://schema.org/departureDate> "2023-04-08"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-CNN-1> .
+ <http://example.org/ontology#JenniferMaas> <http://schema.org/reporter> <http://example.org/ontology#Article> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#CaseyBloys> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#ReliableSourcesNewsletter> <http://purl.org/dc/terms/isFormatOf> <http://example.org/ontology#Article> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#ReliableSourcesNewsletter> <http://schema.org/name> "Reliable Sources newsletter"  <WarnerBros-CNN-1> .
+ <http://example.org/ontology#HBO> <http://schema.org/name> "HBO"  <WarnerBros-CNN-1> .
+ <http://example.org/ontology#AnnSarnoff> <http://xmlns.com/foaf/0.1/name> "Ann Sarnoff"  <WarnerBros-CNN-1> .
+ <http://example.org/ontology#DavidZaslav> <http://xmlns.com/foaf/0.1/name> "David Zaslav"  <WarnerBros-CNN-1> .
+ <http://example.org/ontology#JenniferMaas> <http://schema.org/employee> <http://example.org/ontology#Variety> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#Variety> <http://schema.org/name> "Variety"  <WarnerBros-CNN-1> .
+ <http://example.org/ontology#HBO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#WarnerBros> <http://schema.org/name> "Warner Bros."  <WarnerBros-CNN-1> .
+ <http://example.org/ontology#JBPerrette> <http://xmlns.com/foaf/0.1/name> "JB Perrette"  <WarnerBros-CNN-1> .
+ <http://example.org/ontology#JessicaReif> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#WarnerMedia> <http://schema.org/name> "WarnerMedia"  <WarnerBros-CNN-1> .
+ <http://example.org/ontology#AndyForssell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#ATnT> <http://schema.org/spinOff> <http://example.org/ontology#WarnerMedia> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#WarnerBrosDiscovery> <http://schema.org/name> "Warner Bros. Discovery"  <WarnerBros-CNN-1> .
+ <http://example.org/ontology#Article> <http://schema.org/name> "Article about the formation of Warner Bros. Discovery"  <WarnerBros-CNN-1> .
+ <http://example.org/ontology#AnnSarnoff> <http://schema.org/role> "CEO"  <WarnerBros-CNN-1> .
+ <http://example.org/ontology#BrianStelter> <http://schema.org/employee> <http://example.org/ontology#CNN> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#JenniferMaas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#WarnerMedia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#JessicaReif> <http://schema.org/employee> <http://example.org/ontology#YahooFinance> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#BrianStelter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#AndyForssell> <http://schema.org/departureDate> "2023-04-08"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-CNN-1> .
+ <http://example.org/ontology#Discovery> <http://schema.org/name> "Discovery"  <WarnerBros-CNN-1> .
+ <http://example.org/ontology#CNN> <http://schema.org/parentOrganization> <http://example.org/ontology#WarnerMedia> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#JessicaReif> <http://schema.org/industryAnalyst> <http://example.org/ontology#WarnerBrosDiscovery> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#YahooFinance> <http://schema.org/name> "Yahoo Finance"  <WarnerBros-CNN-1> .
+ <http://example.org/ontology#CaseyBloys> <http://schema.org/memberOf> <http://example.org/ontology#HBO> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#JBPerrette> <http://schema.org/role> "Streaming Head"  <WarnerBros-CNN-1> .
+ <http://example.org/ontology#DavidZaslav> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#CNN> <http://schema.org/name> "CNN"  <WarnerBros-CNN-1> .
+ <http://example.org/ontology#HBO_Max> <http://schema.org/name> "HBO Max"  <WarnerBros-CNN-1> .
+ <http://example.org/ontology#BrianStelter> <http://xmlns.com/foaf/0.1/name> "Brian Stelter"  <WarnerBros-CNN-1> .
+ <http://example.org/ontology#JasonKilar> <http://schema.org/departureDate> "2023-04-08"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-CNN-1> .
+ <http://example.org/ontology#JasonKilar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#YahooFinance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#WarnerBros> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#JBPerrette> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#CNN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#AndyForssell> <http://schema.org/role> "Chief"  <WarnerBros-CNN-1> .
+ <http://example.org/ontology#JenniferMaas> <http://xmlns.com/foaf/0.1/name> "Jennifer Maas"  <WarnerBros-CNN-1> .
+ <http://example.org/ontology#Variety> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#DavidZaslav> <http://schema.org/memberOf> <http://example.org/ontology#WarnerBrosDiscovery> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#Article> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#WarnerMedia> <http://schema.org/mergeInto> <http://example.org/ontology#WarnerBrosDiscovery> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#JasonKilar> <http://schema.org/memberOf> <http://example.org/ontology#WarnerMedia> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#CaseyBloys> <http://xmlns.com/foaf/0.1/name> "Casey Bloys"  <WarnerBros-CNN-1> .
+ <http://example.org/ontology#Discovery> <http://schema.org/mergeInto> <http://example.org/ontology#WarnerBrosDiscovery> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#ReliableSourcesNewsletter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#AndyForssell> <http://xmlns.com/foaf/0.1/name> "Andy Forssell"  <WarnerBros-CNN-1> .
+ <http://example.org/ontology#WarnerBrosDiscovery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#JBPerrette> <http://schema.org/memberOf> <http://example.org/ontology#Discovery> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#ATnT> <http://schema.org/name> "AT&T"  <WarnerBros-CNN-1> .
+ <http://example.org/ontology#JasonKilar> <http://schema.org/role> "CEO"  <WarnerBros-CNN-1> .
+ <http://example.org/ontology#AndyForssell> <http://schema.org/memberOf> <http://example.org/ontology#HBO_Max> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#Discovery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#AnnSarnoff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#AnnSarnoff> <http://schema.org/memberOf> <http://example.org/ontology#WarnerBros> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#HBO_Max> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#JasonKilar> <http://xmlns.com/foaf/0.1/name> "Jason Kilar"  <WarnerBros-CNN-1> .
+ <http://example.org/ontology#ATnT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-CNN-1> .
+ <http://example.org/ontology#JessicaReif> <http://xmlns.com/foaf/0.1/name> "Jessica Reif"  <WarnerBros-CNN-1> .
+ <http://example.org/ontology#AdFreeContent> <http://schema.org/name> "Ad-Free Content"  <WarnerBros-CNN-2> .
+ <http://example.org/ontology#MaxUltimatePlan> <http://schema.org/priceCurrency> "USD"  <WarnerBros-CNN-2> .
+ <http://example.org/ontology#Max> <http://schema.org/releaseDate> "2023-05-23"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-CNN-2> .
+ <http://example.org/ontology#Max> <http://schema.org/manufacturer> <http://example.org/ontology#WarnerBrosDiscovery> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#Max> <http://schema.org/audience> <http://schema.org/household> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#Max> <http://schema.org/offers> <http://example.org/ontology#MaxAdFree> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#HBO> <http://schema.org/name> "HBO"  <WarnerBros-CNN-2> .
+ <http://example.org/ontology#ReliableSourcesNewsletter> <http://schema.org/name> "Reliable Sources newsletter"  <WarnerBros-CNN-2> .
+ <http://example.org/ontology#HGTV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#ZaslavQuote2> <http://schema.org/text> "It’s our superpower."  <WarnerBros-CNN-2> .
+ <http://example.org/ontology#MaxAdSupported> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#MaxAdFree> <http://schema.org/price> "15.99"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-CNN-2> .
+ <http://example.org/ontology#HBO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#ZaslavQuote1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#WarnerBros> <http://schema.org/name> "Warner Bros."  <WarnerBros-CNN-2> .
+ <http://example.org/ontology#VernaQuote> <http://schema.org/text> "WBD has clearly decided on the opposite approach."  <WarnerBros-CNN-2> .
+ <http://example.org/ontology#FoodNetwork> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#WarnerBrosDiscovery> <http://schema.org/subOrganization> <http://example.org/ontology#TLC> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#WarnerBrosDiscovery> <http://schema.org/name> "Warner Bros. Discovery"  <WarnerBros-CNN-2> .
+ <http://example.org/ontology#TLC> <http://schema.org/name> "TLC"  <WarnerBros-CNN-2> .
+ <http://example.org/ontology#AdSupport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#MaxAdFree> <http://schema.org/priceCurrency> "USD"  <WarnerBros-CNN-2> .
+ <http://example.org/ontology#MaxAdSupported> <http://schema.org/price> "9.99"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-CNN-2> .
+ <http://example.org/ontology#CartoonNetwork> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#MaxAdSupported> <http://schema.org/priceCurrency> "USD"  <WarnerBros-CNN-2> .
+ <http://example.org/ontology#PaulVerna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#DavidZaslav> <http://schema.org/jobTitle> "Chief Executive"  <WarnerBros-CNN-2> .
+ <http://example.org/ontology#ZaslavQuote3> <http://schema.org/text> "Max positions the company for the next century."  <WarnerBros-CNN-2> .
+ <http://example.org/ontology#Max> <http://schema.org/offers> <http://example.org/ontology#MaxAdSupported> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#TurnerSports> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#WarnerBrosDiscovery> <http://schema.org/subOrganization> <http://example.org/ontology#CNN> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#VernaQuote> <http://schema.org/author> <http://example.org/ontology#PaulVerna> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#AdFreeContent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#WarnerBrosDiscovery> <http://schema.org/subOrganization> <http://example.org/ontology#TurnerSports> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#ZaslavQuote1> <http://schema.org/author> <http://example.org/ontology#DavidZaslav> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#PressEvent> <http://schema.org/description> "Press event for unveiling Max"  <WarnerBros-CNN-2> .
+ <http://example.org/ontology#FoodNetwork> <http://schema.org/name> "Food Network"  <WarnerBros-CNN-2> .
+ <http://example.org/ontology#Max> <http://schema.org/offers> <http://example.org/ontology#MaxUltimatePlan> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#ZaslavQuote3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#TLC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#CNN> <http://schema.org/name> "CNN"  <WarnerBros-CNN-2> .
+ <http://example.org/ontology#FourKContent> <http://schema.org/name> "4K Content"  <WarnerBros-CNN-2> .
+ <http://example.org/ontology#MaxAdFree> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#MaxAdFree> <http://schema.org/includesObject> <http://example.org/ontology#AdFreeContent> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#MaxAdSupported> <http://schema.org/includesObject> <http://example.org/ontology#AdSupport> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#PressEvent> <http://schema.org/organizer> <http://example.org/ontology#DavidZaslav> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#AdSupport> <http://schema.org/name> "Ad-Supported Content"  <WarnerBros-CNN-2> .
+ <http://example.org/ontology#PaulVerna> <http://schema.org/jobTitle> "Insider Intelligence analyst"  <WarnerBros-CNN-2> .
+ <http://example.org/ontology#WarnerBros> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#VernaQuote> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#DavidZaslav> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#WarnerBrosDiscovery> <http://schema.org/subOrganization> <http://example.org/ontology#CartoonNetwork> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#CNN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#Max> <http://schema.org/serviceType> "streaming service"  <WarnerBros-CNN-2> .
+ <http://example.org/ontology#WarnerBrosDiscovery> <http://schema.org/subOrganization> <http://example.org/ontology#HBO> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#Max> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#WarnerBrosDiscovery> <http://schema.org/subOrganization> <http://example.org/ontology#FoodNetwork> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#ZaslavQuote1> <http://schema.org/text> "It’s the one to watch because we have so many of the world’s iconic and globally recognized franchises."  <WarnerBros-CNN-2> .
+ <http://example.org/ontology#CartoonNetwork> <http://schema.org/name> "Cartoon Network"  <WarnerBros-CNN-2> .
+ <http://example.org/ontology#WarnerBrosDiscovery> <http://schema.org/subOrganization> <http://example.org/ontology#WarnerBros> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#TurnerSports> <http://schema.org/name> "Turner Sports"  <WarnerBros-CNN-2> .
+ <http://example.org/ontology#PressEvent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#ZaslavQuote2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#ZaslavQuote3> <http://schema.org/author> <http://example.org/ontology#DavidZaslav> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#MaxUltimatePlan> <http://schema.org/price> "19.99"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-CNN-2> .
+ <http://example.org/ontology#ReliableSourcesNewsletter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#MaxUltimatePlan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#ReliableSourcesNewsletter> <http://schema.org/publisher> <http://example.org/ontology#CNN> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#WarnerBrosDiscovery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#HGTV> <http://schema.org/name> "HGTV"  <WarnerBros-CNN-2> .
+ <http://example.org/ontology#MaxUltimatePlan> <http://schema.org/includesObject> <http://example.org/ontology#FourKContent> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#FourKContent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#DavidZaslav> <http://schema.org/worksFor> <http://example.org/ontology#WarnerBrosDiscovery> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#ZaslavQuote2> <http://schema.org/author> <http://example.org/ontology#DavidZaslav> <WarnerBros-CNN-2> .
+ <http://example.org/ontology#WarnerBrosDiscovery> <http://schema.org/subOrganization> <http://example.org/ontology#HGTV> <WarnerBros-CNN-2> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b1> <http://dbpedia.org/ontology/amount> "-1200000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-CNN-3> .
+ <http://example.org/SAG_AFTRA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WarnerBros-CNN-3> .
+ <http://example.org/DavidZaslav> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b5> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/United_States_dollar> <WarnerBros-CNN-3> .
+ <http://example.org/WarnerBrosDiscovery> <http://xmlns.com/foaf/0.1/name> "Warner Bros. Discovery"  <WarnerBros-CNN-3> .
+ <http://example.org/GunnarWiedenfels> <http://schema.org/jobTitle> "CFO"  <WarnerBros-CNN-3> .
+ <http://example.org/DavidZaslav> <http://xmlns.com/foaf/0.1/name> "David Zaslav"  <WarnerBros-CNN-3> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/streamingSubscriberPeriod> "end of quarter"  <WarnerBros-CNN-3> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/netIncome> <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b1>  <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b8> <http://dbpedia.org/ontology/participant> <http://example.org/SAG_AFTRA> <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b1> <http://dbpedia.org/ontology/comparedTo> <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b2>  <WarnerBros-CNN-3> .
+ <http://example.org/DiscoveryPlus> <http://xmlns.com/foaf/0.1/name> "Discovery+"  <WarnerBros-CNN-3> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/strike> <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b8>  <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b3> <http://dbpedia.org/ontology/growthRate> "0.05"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Earnings> <WarnerBros-CNN-3> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/adjustedEBITDA> <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b5>  <WarnerBros-CNN-3> .
+ <http://example.org/SAG_AFTRA> <http://dbpedia.org/ontology/numberOfEmployees> "160000"^^<http://www.w3.org/2001/XMLSchema#integer>  <WarnerBros-CNN-3> .
+ <http://example.org/GunnarWiedenfels> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b4> <http://dbpedia.org/ontology/amount> "-2200000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-CNN-3> .
+ <http://example.org/GunnarWiedenfels> <http://xmlns.com/foaf/0.1/name> "Gunnar Wiedenfels"  <WarnerBros-CNN-3> .
+ <http://example.org/WritersGuildOfAmerica> <http://dbpedia.org/ontology/numberOfEmployees> "11000"^^<http://www.w3.org/2001/XMLSchema#integer>  <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b8> <http://dbpedia.org/ontology/startDate> "2023-07-12"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b6> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/United_States_dollar> <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b6> <http://dbpedia.org/ontology/period> "a year earlier"  <WarnerBros-CNN-3> .
+ <http://example.org/CNN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-CNN-3> .
+ <http://example.org/CNN> <http://xmlns.com/foaf/0.1/name> "CNN"  <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/NetIncome> <WarnerBros-CNN-3> .
+ <http://example.org/MaxStreamingService> <http://dbpedia.org/ontology/rebrandFrom> <http://example.org/HBO_Max> <WarnerBros-CNN-3> .
+ <http://example.org/WarnerBrosDiscovery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-CNN-3> .
+ <http://example.org/DiscoveryPlus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b1> <http://schema.org/unitText> "per share"  <WarnerBros-CNN-3> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/studioUnit> <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b7>  <WarnerBros-CNN-3> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/product> <http://example.org/MaxStreamingService> <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b2> <http://dbpedia.org/ontology/period> "the same period a year ago"  <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b3> <http://dbpedia.org/ontology/comparedTo> "Wall Street forecasts"  <WarnerBros-CNN-3> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/streamingSubscriberChange> "-1800000"^^<http://www.w3.org/2001/XMLSchema#integer>  <WarnerBros-CNN-3> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/streamingSubscriberComparedTo> "end of the first quarter"  <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b1> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/United_States_dollar> <WarnerBros-CNN-3> .
+ <http://example.org/DavidZaslav> <http://schema.org/jobTitle> "CEO"  <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <WarnerBros-CNN-3> .
+ <http://example.org/MaxStreamingService> <http://dbpedia.org/ontology/contentProvider> <http://example.org/DiscoveryPlus> <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b8> <http://dbpedia.org/ontology/organizer> <http://example.org/WritersGuildOfAmerica> <WarnerBros-CNN-3> .
+ <http://example.org/MaxStreamingService> <http://xmlns.com/foaf/0.1/name> "Max streaming service"  <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/NetIncome> <WarnerBros-CNN-3> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/financialOfficer> <http://example.org/GunnarWiedenfels> <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b9> <http://dbpedia.org/ontology/assumption> "return to work date in early September"  <WarnerBros-CNN-3> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/adjustedEBITDAFirstQuarter> "50000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-CNN-3> .
+ <http://example.org/HBO_Max> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b4> <http://dbpedia.org/ontology/percentage> "0.16"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b4> <http://dbpedia.org/ontology/comparedTo> "a year ago"  <WarnerBros-CNN-3> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/revenue> <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b3>  <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b5> <http://dbpedia.org/ontology/amount> "-3000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cost> <WarnerBros-CNN-3> .
+ <http://example.org/WritersGuildOfAmerica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WarnerBros-CNN-3> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/stockChange> "-0.01"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b2> <http://schema.org/unitText> "per share"  <WarnerBros-CNN-3> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/financialModeling> <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b9>  <WarnerBros-CNN-3> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/owner> <http://example.org/CNN> <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FinancialModeling> <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b1> <http://schema.org/value> "-0.51"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b8> <http://dbpedia.org/ontology/comment> "Production of television shows and movies for studios and streaming services have ground to a halt."  <WarnerBros-CNN-3> .
+ <http://example.org/SAG_AFTRA> <http://xmlns.com/foaf/0.1/name> "SAG-AFTRA"  <WarnerBros-CNN-3> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/cashFlow> "100000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-CNN-3> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/cost> <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b4>  <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b2> <http://schema.org/value> "-1.50"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b2> <http://dbpedia.org/ontology/amount> "-3400000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b5> <http://dbpedia.org/ontology/comparedTo> <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b6>  <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b7> <http://dbpedia.org/ontology/comment> "clearly under-earned their potential in the second quarter"  <WarnerBros-CNN-3> .
+ <http://example.org/MaxStreamingService> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <WarnerBros-CNN-3> .
+ <http://example.org/HBO_Max> <http://xmlns.com/foaf/0.1/name> "HBO Max"  <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b4> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/United_States_dollar> <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b6> <http://dbpedia.org/ontology/amount> "-518000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Earnings> <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b3> <http://dbpedia.org/ontology/amount> "10400000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Revenue> <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b3> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/United_States_dollar> <WarnerBros-CNN-3> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/streamingSubscriberCount> "95800000"^^<http://www.w3.org/2001/XMLSchema#integer>  <WarnerBros-CNN-3> .
+ <http://example.org/WritersGuildOfAmerica> <http://xmlns.com/foaf/0.1/name> "Writers Guild of America"  <WarnerBros-CNN-3> .
+ <http://WarnerBros-CNN-3.com/blank#n065004b790a0431b85056f04350ccb65b7> <http://xmlns.com/foaf/0.1/name> "studio unit of Warner Bros. Discovery"  <WarnerBros-CNN-3> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/ceo> <http://example.org/DavidZaslav> <WarnerBros-CNN-3> .
+ <http://example.org/ontology#HarryPotterSeries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FilmSeries> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#LeavesdenStudios> <http://dbpedia.org/ontology/product> <http://example.org/ontology#HarryPotterSeries> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#HarryPotterAndTheDeathlyHallowsPart2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#WarnerBrosDiscovery> <http://dbpedia.org/ontology/product> <http://example.org/ontology#HarryPotterSeries> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#LeavesdenStudiosExpansion> <http://schema.org/endDate> "2027"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WarnerBros-CNN-4> .
+ <http://example.org/ontology#TheDarkKnight> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#LeavesdenStudios> <http://dbpedia.org/ontology/product> <http://example.org/ontology#HouseOfTheDragonShow> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#WarnerBrosDiscovery> <http://dbpedia.org/ontology/revenue> <http://example.org/ontology#BarbieMovieRevenue> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#TheDarkKnight> <http://dbpedia.org/ontology/releaseDate> "2008"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WarnerBros-CNN-4> .
+ <http://example.org/ontology#WarnerBrosDiscovery> <http://dbpedia.org/ontology/product> <http://example.org/ontology#HouseOfTheDragonShow> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#BarbieMovie> <http://dbpedia.org/ontology/previousRecordHolder> <http://example.org/ontology#TheDarkKnight> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#USActorsAndWritersStrikes> <http://dbpedia.org/ontology/affected> <http://example.org/ontology#WarnerBrosDiscovery> <WarnerBros-CNN-4> .
+ <http://WarnerBros-CNN-4.com/blank#n264697589a5c4773a11007b65d988a27b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#CNN> <http://dbpedia.org/ontology/owner> <http://example.org/ontology#WarnerBrosDiscovery> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#UKFilmIndustryStatistics> <http://schema.org/datePublished> "2023-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <WarnerBros-CNN-4> .
+ <http://example.org/ontology#DCStudiosFranchise> <http://dbpedia.org/ontology/studio> <http://example.org/ontology#LeavesdenStudios> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#USActorsAndWritersStrikes> <http://dbpedia.org/ontology/affected> <http://dbpedia.org/resource/Disney> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#BarbieMovieRevenue> <http://dbpedia.org/ontology/pointInTime> "2023-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <WarnerBros-CNN-4> .
+ <http://example.org/ontology#LeavesdenStudiosExpansion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#UKFilmIndustryStatistics> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/British_pound> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#USActorsAndWritersStrikes> <http://dbpedia.org/ontology/estimatedCost> "500"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-CNN-4> .
+ <http://WarnerBros-CNN-4.com/blank#n264697589a5c4773a11007b65d988a27b1> <http://schema.org/containedInPlace> <http://dbpedia.org/resource/London> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#WarnerBrosDiscovery> <http://dbpedia.org/ontology/product> <http://example.org/ontology#DCStudiosFranchise> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#HouseOfTheDragonShow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#LeavesdenStudiosExpansion> <http://dbpedia.org/ontology/resultingCapacityIncrease> "50%"^^<http://www.w3.org/2001/XMLSchema#string>  <WarnerBros-CNN-4> .
+ <http://example.org/ontology#USActorsAndWritersStrikes> <http://dbpedia.org/ontology/affected> <http://dbpedia.org/resource/Netflix> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#CNN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Broadcaster> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#BarbieMovie> <http://dbpedia.org/ontology/studio> <http://example.org/ontology#LeavesdenStudios> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#LeavesdenStudios> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FilmStudio> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#USActorsAndWritersStrikes> <http://dbpedia.org/ontology/year> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WarnerBros-CNN-4> .
+ <http://example.org/ontology#USActorsAndWritersStrikes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#LeavesdenStudios> <http://dbpedia.org/ontology/expansion> <http://example.org/ontology#LeavesdenStudiosExpansion> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#HarryPotterSeries> <http://dbpedia.org/ontology/studio> <http://example.org/ontology#LeavesdenStudios> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#BarbieMovieRevenue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EconomicEvent> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#DCStudiosFranchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FilmSeries> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#WarnerBrosDiscovery> <http://dbpedia.org/ontology/related> <http://example.org/ontology#USActorsAndWritersStrikes> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#BarbieMovie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#TheDarkKnight> <http://dbpedia.org/ontology/title> "The Dark Knight"  <WarnerBros-CNN-4> .
+ <http://example.org/ontology#LeavesdenStudios> <http://dbpedia.org/ontology/location> <http://WarnerBros-CNN-4.com/blank#n264697589a5c4773a11007b65d988a27b1>  <WarnerBros-CNN-4> .
+ <http://example.org/ontology#LeavesdenStudios> <http://dbpedia.org/ontology/product> <http://example.org/ontology#BarbieMovie> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#UKFilmIndustryStatistics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/StatisticalData> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#WarnerBrosDiscovery> <http://dbpedia.org/ontology/product> <http://example.org/ontology#BarbieMovie> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#WarnerBrosDiscovery> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Entertainment> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#WarnerBrosDiscovery> <http://dbpedia.org/ontology/related> <http://example.org/ontology#UKFilmIndustryStatistics> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#USActorsAndWritersStrikes> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/United_States_dollar> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#HarryPotterAndTheDeathlyHallowsPart2> <http://dbpedia.org/ontology/releaseDate> "2011"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WarnerBros-CNN-4> .
+ <http://example.org/ontology#BarbieMovieRevenue> <http://dbpedia.org/ontology/amount> "1.36"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-CNN-4> .
+ <http://example.org/ontology#HouseOfTheDragonShow> <http://dbpedia.org/ontology/studio> <http://example.org/ontology#LeavesdenStudios> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#BarbieMovie> <http://dbpedia.org/ontology/gross> <http://example.org/ontology#BarbieMovieRevenue> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#LeavesdenStudiosExpansion> <http://dbpedia.org/ontology/related> <http://example.org/ontology#DCStudiosFranchise> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#USActorsAndWritersStrikes> <http://dbpedia.org/ontology/affected> <http://dbpedia.org/resource/NBCUniversal> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#WarnerBrosDiscovery> <http://dbpedia.org/ontology/location> <http://example.org/ontology#LeavesdenStudios> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#LeavesdenStudiosExpansion> <http://dbpedia.org/ontology/jobCreation> "4000"^^<http://www.w3.org/2001/XMLSchema#integer>  <WarnerBros-CNN-4> .
+ <http://WarnerBros-CNN-4.com/blank#n264697589a5c4773a11007b65d988a27b1> <http://schema.org/name> "Leavesden area"  <WarnerBros-CNN-4> .
+ <http://example.org/ontology#BarbieMovieRevenue> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/United_States_dollar> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#WarnerBrosDiscovery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#WarnerBrosDiscovery> <http://dbpedia.org/ontology/subsidiary> <http://example.org/ontology#CNN> <WarnerBros-CNN-4> .
+ <http://example.org/ontology#UKFilmIndustryStatistics> <http://schema.org/value> "6.27"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-CNN-4> .
+ <http://example.org/ontology#LeavesdenStudiosExpansion> <http://schema.org/startDate> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WarnerBros-CNN-4> .
+ <http://example.org/WarnerBrosDiscoveryNameAnnouncement> <http://purl.org/dc/terms/date> "Tuesday"  <WarnerBros-CNN-5> .
+ <http://example.org/JasonKilar> <http://schema.org/statement> <http://example.org/JasonKilarFutureStatement> <WarnerBros-CNN-5> .
+ <http://example.org/ATnT> <http://schema.org/tickerSymbol> "T"  <WarnerBros-CNN-5> .
+ <http://example.org/ViacomCBS> <http://schema.org/tickerSymbol> "VIACA"  <WarnerBros-CNN-5> .
+ <http://example.org/Discovery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-CNN-5> .
+ <http://example.org/JasonKilar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-CNN-5> .
+ <http://example.org/JasonKilarFutureStatement> <http://purl.org/dc/terms/date> "last week"  <WarnerBros-CNN-5> .
+ <http://example.org/DavidZaslav> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-CNN-5> .
+ <http://example.org/WarnerBrosMovie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <WarnerBros-CNN-5> .
+ <http://example.org/WarnerMediaDiscoveryMergerPlan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <WarnerBros-CNN-5> .
+ <http://example.org/CNN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-CNN-5> .
+ <http://example.org/CNN> <http://schema.org/name> "CNN"  <WarnerBros-CNN-5> .
+ <http://example.org/ViacomCBS> <http://schema.org/name> "ViacomCBS"  <WarnerBros-CNN-5> .
+ <http://example.org/WarnerMedia> <http://schema.org/name> "WarnerMedia"  <WarnerBros-CNN-5> .
+ <http://example.org/ATnT> <http://schema.org/announcement> <http://example.org/WarnerMediaDiscoveryMergerPlan> <WarnerBros-CNN-5> .
+ <http://example.org/Discovery> <http://schema.org/name> "Discovery, Inc."  <WarnerBros-CNN-5> .
+ <http://example.org/WarnerBrosDiscovery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-CNN-5> .
+ <http://example.org/WarnerMediaDiscoveryMergerPlan> <http://purl.org/dc/terms/description> "AT&T announced its plans to spin off WarnerMedia and combine it with Discovery."  <WarnerBros-CNN-5> .
+ <http://example.org/WarnerBrosDiscovery> <http://purl.org/dc/terms/description> "The company formed by the merger of WarnerMedia and Discovery, Inc."  <WarnerBros-CNN-5> .
+ <http://example.org/JasonKilar> <http://schema.org/worksFor> <http://example.org/WarnerMedia> <WarnerBros-CNN-5> .
+ <http://example.org/WarnerBrosDiscovery> <http://schema.org/parentOrganization> <http://example.org/WarnerMedia> <WarnerBros-CNN-5> .
+ <http://example.org/WarnerBrosDiscoveryNameAnnouncement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <WarnerBros-CNN-5> .
+ <http://example.org/DavidZaslav> <http://schema.org/announcement> <http://example.org/WarnerBrosDiscoveryNameAnnouncement> <WarnerBros-CNN-5> .
+ <http://example.org/CNN> <http://schema.org/parentOrganization> <http://example.org/WarnerMedia> <WarnerBros-CNN-5> .
+ <http://example.org/WarnerBrosDiscovery> <http://schema.org/slogan> "The Stuff That Dreams Are Made Of"  <WarnerBros-CNN-5> .
+ <http://example.org/ViacomCBS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-CNN-5> .
+ <http://example.org/WarnerBrosDiscovery> <http://schema.org/subOrganization> <http://example.org/CNN> <WarnerBros-CNN-5> .
+ <http://example.org/WarnerBrosDiscovery> <http://schema.org/founder> <http://example.org/DavidZaslav> <WarnerBros-CNN-5> .
+ <http://example.org/ATnT> <http://schema.org/name> "AT&T"  <WarnerBros-CNN-5> .
+ <http://example.org/WarnerMedia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-CNN-5> .
+ <http://example.org/JasonKilar> <http://schema.org/name> "Jason Kilar"  <WarnerBros-CNN-5> .
+ <http://example.org/ATnT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-CNN-5> .
+ <http://example.org/JasonKilarFutureStatement> <http://purl.org/dc/terms/description> "Jason Kilar planned to remain in his job until at least 2022."  <WarnerBros-CNN-5> .
+ <http://example.org/WarnerMediaDiscoveryMergerPlan> <http://schema.org/organizer> <http://example.org/ATnT> <WarnerBros-CNN-5> .
+ <http://example.org/JasonKilar> <http://schema.org/jobTitle> "CEO"  <WarnerBros-CNN-5> .
+ <http://example.org/WarnerBrosDiscovery> <http://schema.org/name> "Warner Bros. Discovery"  <WarnerBros-CNN-5> .
+ <http://example.org/WarnerBrosDiscoveryNameAnnouncement> <http://schema.org/description> "David Zaslav announced the name 'Warner Bros. Discovery' to WarnerMedia employees."  <WarnerBros-CNN-5> .
+ <http://example.org/WarnerBrosMovie> <http://schema.org/name> "The Maltese Falcon"  <WarnerBros-CNN-5> .
+ <http://example.org/WarnerBrosDiscovery> <http://purl.org/dc/terms/description> "Owns one of the deepest libraries in the world with nearly 200,000 hours of iconic programming and brings together more than 100 brands."  <WarnerBros-CNN-5> .
+ <http://example.org/WarnerBrosDiscoveryNameAnnouncement> <http://schema.org/organizer> <http://example.org/DavidZaslav> <WarnerBros-CNN-5> .
+ <http://example.org/DavidZaslav> <http://schema.org/name> "David Zaslav"  <WarnerBros-CNN-5> .
+ <http://example.org/WarnerBrosDiscovery> <http://schema.org/owns> <http://example.org/WarnerBrosMovie> <WarnerBros-CNN-5> .
+ <http://example.org/DavidZaslav> <http://schema.org/worksFor> <http://example.org/Discovery> <WarnerBros-CNN-5> .
+ <http://example.org/WarnerBrosDiscoveryNameAnnouncement> <http://schema.org/attendee> <http://example.org/JasonKilar> <WarnerBros-CNN-5> .
+ <http://example.org/DavidZaslav> <http://schema.org/jobTitle> "CEO"  <WarnerBros-CNN-5> .
+ <http://example.org/WarnerMediaDiscoveryMergerPlan> <http://schema.org/resultingOrganization> <http://example.org/WarnerBrosDiscovery> <WarnerBros-CNN-5> .
+ <http://example.org/JasonKilarFutureStatement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <WarnerBros-CNN-5> .
+ <http://example.org/WarnerBrosDiscovery> <http://schema.org/parentOrganization> <http://example.org/Discovery> <WarnerBros-CNN-5> .
+ <http://example.org/MaxBasicPlan> <http://schema.org/priceCurrency> "USD"  <WarnerBros-CNN-6> .
+ <http://example.org/MaxUltimatePlan> <http://schema.org/priceCurrency> "USD"  <WarnerBros-CNN-6> .
+ <http://example.org/MaxUltimatePlan> <http://dbpedia.org/ontology/productFeature> "Ad-free"  <WarnerBros-CNN-6> .
+ <http://example.org/MaxStreamingService> <http://schema.org/launchDate> "2023-05-23"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-CNN-6> .
+ <http://example.org/HBO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-CNN-6> .
+ <http://example.org/DavidZaslav> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-CNN-6> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/product> <http://example.org/HBO> <WarnerBros-CNN-6> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/product> <http://example.org/HGTV> <WarnerBros-CNN-6> .
+ <http://example.org/MaxStreamingService> <http://schema.org/offers> <http://example.org/MaxAdFreePlan> <WarnerBros-CNN-6> .
+ <http://example.org/JeanBriacPerrette> <http://schema.org/jobTitle> "Streaming Chief"  <WarnerBros-CNN-6> .
+ <http://example.org/MaxStreamingService> <http://schema.org/offers> <http://example.org/MaxBasicPlan> <WarnerBros-CNN-6> .
+ <http://example.org/Succession> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <WarnerBros-CNN-6> .
+ <http://example.org/CartoonNetwork> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-CNN-6> .
+ <http://example.org/MaxUltimatePlan> <http://dbpedia.org/ontology/productFeature> "Stream on four devices"  <WarnerBros-CNN-6> .
+ <http://example.org/Succession> <http://schema.org/producer> <http://example.org/HBO> <WarnerBros-CNN-6> .
+ <http://example.org/HouseOfTheDragon> <http://schema.org/producer> <http://example.org/HBO> <WarnerBros-CNN-6> .
+ <http://example.org/MaxStreamingService> <http://dbpedia.org/ontology/serviceType> "super-streamer"  <WarnerBros-CNN-6> .
+ <http://example.org/HGTV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-CNN-6> .
+ <http://example.org/CNN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-CNN-6> .
+ <http://example.org/FoodNetwork> <http://schema.org/name> "FoodNetwork"  <WarnerBros-CNN-6> .
+ <http://example.org/CartoonNetwork> <http://schema.org/name> "CartoonNetwork"  <WarnerBros-CNN-6> .
+ <http://example.org/MaxUltimatePlan> <http://dbpedia.org/ontology/productFeature> "100 title downloads"  <WarnerBros-CNN-6> .
+ <http://example.org/MaxAdFreePlan> <http://dbpedia.org/ontology/productFeature> "Ad-free"  <WarnerBros-CNN-6> .
+ <http://example.org/JeanBriacPerrette> <http://dbpedia.org/ontology/employer> <http://example.org/WarnerBrosDiscovery> <WarnerBros-CNN-6> .
+ <http://example.org/NinetyDayFiance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <WarnerBros-CNN-6> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/mergerYear> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WarnerBros-CNN-6> .
+ <http://example.org/WarnerBrosDiscovery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-CNN-6> .
+ <http://example.org/MaxUltimatePlan> <http://dbpedia.org/ontology/productFeature> "Dolby Atmos sound"  <WarnerBros-CNN-6> .
+ <http://example.org/FoodNetwork> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-CNN-6> .
+ <http://example.org/MaxAdFreePlan> <http://dbpedia.org/ontology/productFeature> "HD content"  <WarnerBros-CNN-6> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/product> <http://example.org/CartoonNetwork> <WarnerBros-CNN-6> .
+ <http://example.org/MaxStreamingService> <http://schema.org/name> "Max"  <WarnerBros-CNN-6> .
+ <http://example.org/MaxAdFreePlan> <http://dbpedia.org/ontology/productFeature> "30 title downloads"  <WarnerBros-CNN-6> .
+ <http://example.org/MaxStreamingService> <http://dbpedia.org/ontology/founder> <http://example.org/DavidZaslav> <WarnerBros-CNN-6> .
+ <http://example.org/DavidZaslav> <http://schema.org/name> "David Zaslav"  <WarnerBros-CNN-6> .
+ <http://example.org/DavidZaslav> <http://schema.org/jobTitle> "CEO"  <WarnerBros-CNN-6> .
+ <http://example.org/TurnerSports> <http://schema.org/name> "Turner Sports"  <WarnerBros-CNN-6> .
+ <http://example.org/MaxBasicPlan> <http://dbpedia.org/ontology/productFeature> "Ads"  <WarnerBros-CNN-6> .
+ <http://example.org/HGTV> <http://schema.org/name> "HGTV"  <WarnerBros-CNN-6> .
+ <http://example.org/DavidZaslav> <http://dbpedia.org/ontology/employer> <http://example.org/WarnerBrosDiscovery> <WarnerBros-CNN-6> .
+ <http://example.org/FixerUpper> <http://schema.org/producer> <http://example.org/HGTV> <WarnerBros-CNN-6> .
+ <http://example.org/MaxBasicPlan> <http://schema.org/price> "9.99"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-CNN-6> .
+ <http://example.org/MaxAdFreePlan> <http://schema.org/price> "15.99"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-CNN-6> .
+ <http://example.org/HouseOfTheDragon> <http://schema.org/name> "House of the Dragon"  <WarnerBros-CNN-6> .
+ <http://example.org/NinetyDayFiance> <http://schema.org/name> "90 Day Fiancé"  <WarnerBros-CNN-6> .
+ <http://example.org/MaxAdFreePlan> <http://dbpedia.org/ontology/productFeature> "Stream on two devices"  <WarnerBros-CNN-6> .
+ <http://example.org/Succession> <http://schema.org/name> "Succession"  <WarnerBros-CNN-6> .
+ <http://example.org/CNN> <http://schema.org/name> "CNN"  <WarnerBros-CNN-6> .
+ <http://example.org/HouseOfTheDragon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <WarnerBros-CNN-6> .
+ <http://example.org/MaxBasicPlan> <http://dbpedia.org/ontology/productFeature> "HD content"  <WarnerBros-CNN-6> .
+ <http://example.org/TLC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-CNN-6> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/product> <http://example.org/TLC> <WarnerBros-CNN-6> .
+ <http://example.org/MaxStreamingService> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <WarnerBros-CNN-6> .
+ <http://example.org/MaxAdFreePlan> <http://schema.org/priceCurrency> "USD"  <WarnerBros-CNN-6> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/parentCompany> <http://example.org/CNN> <WarnerBros-CNN-6> .
+ <http://example.org/MaxStreamingService> <http://schema.org/offers> <http://example.org/MaxUltimatePlan> <WarnerBros-CNN-6> .
+ <http://example.org/MaxUltimatePlan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> <WarnerBros-CNN-6> .
+ <http://example.org/JeanBriacPerrette> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-CNN-6> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/owner> <http://example.org/CNN> <WarnerBros-CNN-6> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/subsidiary> <http://example.org/MaxStreamingService> <WarnerBros-CNN-6> .
+ <http://example.org/TLC> <http://schema.org/name> "TLC"  <WarnerBros-CNN-6> .
+ <http://example.org/TurnerSports> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-CNN-6> .
+ <http://example.org/FixerUpper> <http://schema.org/name> "Fixer Upper"  <WarnerBros-CNN-6> .
+ <http://example.org/MaxBasicPlan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> <WarnerBros-CNN-6> .
+ <http://example.org/MaxUltimatePlan> <http://schema.org/price> "19.99"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-CNN-6> .
+ <http://example.org/MaxStreamingService> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Streaming_media> <WarnerBros-CNN-6> .
+ <http://example.org/NinetyDayFiance> <http://schema.org/producer> <http://example.org/TLC> <WarnerBros-CNN-6> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/product> <http://example.org/FoodNetwork> <WarnerBros-CNN-6> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/owner> <http://example.org/TurnerSports> <WarnerBros-CNN-6> .
+ <http://example.org/FixerUpper> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <WarnerBros-CNN-6> .
+ <http://example.org/MaxAdFreePlan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> <WarnerBros-CNN-6> .
+ <http://example.org/MaxUltimatePlan> <http://dbpedia.org/ontology/productFeature> "4K content"  <WarnerBros-CNN-6> .
+ <http://example.org/HBO> <http://schema.org/name> "HBO"  <WarnerBros-CNN-6> .
+ <http://example.org/JeanBriacPerrette> <http://schema.org/name> "Jean-Briac Perrette"  <WarnerBros-CNN-6> .
+ <http://example.org/person/ChrisLicht> <http://xmlns.com/foaf/0.1/title> "Chairman and CEO"  <WarnerBros-CNN-7> .
+ <http://example.org/organization/WarnerBrosDiscovery> <http://schema.org/name> "Warner Bros. Discovery"  <WarnerBros-CNN-7> .
+ <http://example.org/person/ChanningDungey> <http://xmlns.com/foaf/0.1/title> "Chairman"  <WarnerBros-CNN-7> .
+ <http://example.org/person/DavidLeavy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-CNN-7> .
+ <http://example.org/person/JBPerrette> <http://schema.org/name> "JB Perrette"  <WarnerBros-CNN-7> .
+ <http://example.org/organization/USNetworksGroup> <http://schema.org/name> "US Networks Group"  <WarnerBros-CNN-7> .
+ <http://example.org/organization/HBO> <http://schema.org/employee> <http://example.org/person/CaseyBloys> <WarnerBros-CNN-7> .
+ <http://example.org/person/ChrisLicht> <http://schema.org/name> "Chris Licht"  <WarnerBros-CNN-7> .
+ <http://example.org/person/KathleenFinch> <http://xmlns.com/foaf/0.1/title> "Chairman and Chief Content Officer"  <WarnerBros-CNN-7> .
+ <http://example.org/person/ChrisLicht> <http://schema.org/worksFor> <http://example.org/organization/CNNGlobal> <WarnerBros-CNN-7> .
+ <http://example.org/person/ChanningDungey> <http://schema.org/name> "Channing Dungey"  <WarnerBros-CNN-7> .
+ <http://example.org/organization/WarnerBrosPictureGroup> <http://schema.org/name> "Warner Bros. Picture Group"  <WarnerBros-CNN-7> .
+ <http://example.org/person/ChanningDungey> <http://schema.org/worksFor> <http://example.org/organization/WarnerBrosTelevisionGroup> <WarnerBros-CNN-7> .
+ <http://example.org/organization/WarnerBrosTelevisionGroup> <http://schema.org/name> "Warner Bros. Television Group"  <WarnerBros-CNN-7> .
+ <http://example.org/person/JBPerrette> <http://schema.org/worksFor> <http://example.org/organization/WarnerBrosDiscoveryGlobalStreamingInteractiveEntertainment> <WarnerBros-CNN-7> .
+ <http://example.org/organization/ATT> <http://schema.org/name> "AT&T"  <WarnerBros-CNN-7> .
+ <http://example.org/person/GerhardZeiler> <http://xmlns.com/foaf/0.1/title> "President of International"  <WarnerBros-CNN-7> .
+ <http://example.org/person/DavidLeavy> <http://xmlns.com/foaf/0.1/title> "Chief Corporate Affairs Officer"  <WarnerBros-CNN-7> .
+ <http://example.org/organization/CNNGlobal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-CNN-7> .
+ <http://example.org/organization/WarnerBrosPictureGroup> <http://schema.org/employee> <http://example.org/person/TobyEmmerich> <WarnerBros-CNN-7> .
+ <http://example.org/organization/WarnerBrosDiscoveryGlobalStreamingInteractiveEntertainment> <http://schema.org/employee> <http://example.org/person/JBPerrette> <WarnerBros-CNN-7> .
+ <http://example.org/person/DavidZaslav> <http://schema.org/worksFor> <http://example.org/organization/Discovery> <WarnerBros-CNN-7> .
+ <http://example.org/person/DavidZaslav> <http://schema.org/name> "David Zaslav"  <WarnerBros-CNN-7> .
+ <http://example.org/organization/WarnerBrosTelevisionGroup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-CNN-7> .
+ <http://example.org/organization/CNNGlobal> <http://schema.org/name> "CNN Global"  <WarnerBros-CNN-7> .
+ <http://example.org/person/KathleenFinch> <http://schema.org/name> "Kathleen Finch"  <WarnerBros-CNN-7> .
+ <http://example.org/person/JBPerrette> <http://xmlns.com/foaf/0.1/title> "CEO and President"  <WarnerBros-CNN-7> .
+ <http://example.org/organization/USNetworksGroup> <http://schema.org/employee> <http://example.org/person/KathleenFinch> <WarnerBros-CNN-7> .
+ <http://example.org/person/BruceCampbell> <http://schema.org/name> "Bruce Campbell"  <WarnerBros-CNN-7> .
+ <http://example.org/person/CaseyBloys> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-CNN-7> .
+ <http://example.org/person/BruceCampbell> <http://xmlns.com/foaf/0.1/title> "Chief Revenue and Strategy Officer"  <WarnerBros-CNN-7> .
+ <http://example.org/person/BruceCampbell> <http://schema.org/worksFor> <http://example.org/organization/WarnerBrosDiscovery> <WarnerBros-CNN-7> .
+ <http://example.org/organization/Discovery> <http://schema.org/name> "Discovery"  <WarnerBros-CNN-7> .
+ <http://example.org/person/JasonKilar> <http://xmlns.com/foaf/0.1/title> "CEO"  <WarnerBros-CNN-7> .
+ <http://example.org/CNNBusiness> <http://schema.org/name> "CNN Business"  <WarnerBros-CNN-7> .
+ <http://example.org/organization/HBO> <http://schema.org/name> "HBO"  <WarnerBros-CNN-7> .
+ <http://example.org/organization/CNNGlobal> <http://schema.org/employee> <http://example.org/person/ChrisLicht> <WarnerBros-CNN-7> .
+ <http://example.org/organization/WarnerMedia> <http://schema.org/employee> <http://example.org/person/JasonKilar> <WarnerBros-CNN-7> .
+ <http://example.org/organization/Discovery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-CNN-7> .
+ <http://example.org/organization/ATT> <http://purl.org/dc/terms/description> "Commenced its spinoff of WarnerMedia, including CNN."  <WarnerBros-CNN-7> .
+ <http://example.org/organization/WarnerBrosTelevisionGroup> <http://schema.org/employee> <http://example.org/person/ChanningDungey> <WarnerBros-CNN-7> .
+ <http://example.org/person/ChanningDungey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-CNN-7> .
+ <http://example.org/person/BruceCampbell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-CNN-7> .
+ <http://example.org/person/KathleenFinch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-CNN-7> .
+ <http://example.org/organization/WarnerBrosPictureGroup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-CNN-7> .
+ <http://example.org/organization/WarnerMedia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-CNN-7> .
+ <http://example.org/person/DavidZaslav> <http://xmlns.com/foaf/0.1/title> "Chief Executive"  <WarnerBros-CNN-7> .
+ <http://example.org/organization/Discovery> <http://schema.org/employee> <http://example.org/person/DavidZaslav> <WarnerBros-CNN-7> .
+ <http://example.org/person/JasonKilar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-CNN-7> .
+ <http://example.org/organization/WarnerBrosDiscoveryGlobalStreamingInteractiveEntertainment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-CNN-7> .
+ <http://example.org/person/DavidLeavy> <http://schema.org/name> "David Leavy"  <WarnerBros-CNN-7> .
+ <http://example.org/organization/ATT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-CNN-7> .
+ <http://example.org/organization/WarnerBrosDiscovery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-CNN-7> .
+ <http://example.org/person/TobyEmmerich> <http://schema.org/name> "Toby Emmerich"  <WarnerBros-CNN-7> .
+ <http://example.org/person/ChrisLicht> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-CNN-7> .
+ <http://example.org/organization/WarnerBrosDiscovery> <http://purl.org/dc/terms/description> "The media conglomerate that will be formed when Discovery’s acquisition of WarnerMedia is completed."  <WarnerBros-CNN-7> .
+ <http://example.org/person/KathleenFinch> <http://schema.org/worksFor> <http://example.org/organization/USNetworksGroup> <WarnerBros-CNN-7> .
+ <http://example.org/person/GerhardZeiler> <http://schema.org/worksFor> <http://example.org/organization/WarnerBrosDiscovery> <WarnerBros-CNN-7> .
+ <http://example.org/person/DavidLeavy> <http://schema.org/worksFor> <http://example.org/organization/WarnerBrosDiscovery> <WarnerBros-CNN-7> .
+ <http://example.org/person/GerhardZeiler> <http://schema.org/name> "Gerhard Zeiler"  <WarnerBros-CNN-7> .
+ <http://example.org/person/JBPerrette> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-CNN-7> .
+ <http://example.org/person/CaseyBloys> <http://xmlns.com/foaf/0.1/title> "Chief Content Officer"  <WarnerBros-CNN-7> .
+ <http://example.org/person/JasonKilar> <http://schema.org/memberOf> <http://example.org/organization/WarnerMedia> <WarnerBros-CNN-7> .
+ <http://example.org/person/CaseyBloys> <http://schema.org/name> "Casey Bloys"  <WarnerBros-CNN-7> .
+ <http://example.org/organization/WarnerBrosDiscovery> <http://schema.org/founder> <http://example.org/person/DavidZaslav> <WarnerBros-CNN-7> .
+ <http://example.org/person/TobyEmmerich> <http://xmlns.com/foaf/0.1/title> "Chairman"  <WarnerBros-CNN-7> .
+ <http://example.org/person/CaseyBloys> <http://schema.org/worksFor> <http://example.org/organization/HBO> <WarnerBros-CNN-7> .
+ <http://example.org/organization/WarnerBrosDiscoveryGlobalStreamingInteractiveEntertainment> <http://schema.org/name> "Warner Bros. Discovery Global Streaming and Interactive Entertainment"  <WarnerBros-CNN-7> .
+ <http://example.org/person/JasonKilar> <http://schema.org/name> "Jason Kilar"  <WarnerBros-CNN-7> .
+ <http://example.org/person/GerhardZeiler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-CNN-7> .
+ <http://example.org/organization/WarnerMedia> <http://schema.org/name> "WarnerMedia"  <WarnerBros-CNN-7> .
+ <http://example.org/person/TobyEmmerich> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-CNN-7> .
+ <http://example.org/person/DavidZaslav> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-CNN-7> .
+ <http://example.org/person/TobyEmmerich> <http://schema.org/worksFor> <http://example.org/organization/WarnerBrosPictureGroup> <WarnerBros-CNN-7> .
+ <http://example.org/CNNBusiness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-CNN-7> .
+ <http://example.org/organization/USNetworksGroup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-CNN-7> .
+ <http://example.org/organization/HBO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-CNN-7> .
+ <http://example.org/DavidZaslav> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-CNN-8> .
+ <http://example.org/HarryPotterStudioTourTokyo> <http://dbpedia.org/ontology/feature> <http://example.org/OriginalProps> <WarnerBros-CNN-8> .
+ <http://example.org/WarnerBrosDiscovery> <http://xmlns.com/foaf/0.1/name> "Warner Bros. Discovery"  <WarnerBros-CNN-8> .
+ <http://example.org/DavidZaslav> <http://xmlns.com/foaf/0.1/name> "David Zaslav"  <WarnerBros-CNN-8> .
+ <http://example.org/HarryPotterStudioTourTokyo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TouristAttraction> <WarnerBros-CNN-8> .
+ <http://example.org/JeffNagler> <http://xmlns.com/foaf/0.1/name> "Jeff Nagler"  <WarnerBros-CNN-8> .
+ <http://example.org/HarryPotterFranchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FilmSeries> <WarnerBros-CNN-8> .
+ <http://example.org/HarryAndHermioneMannequinsPhoto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Photograph> <WarnerBros-CNN-8> .
+ <http://example.org/HogwartsLegacyVideoGame> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> <WarnerBros-CNN-8> .
+ <http://example.org/HogwartsLegacyVideoGame> <http://dbpedia.org/ontology/theme> <http://example.org/HarryPotterFranchise> <WarnerBros-CNN-8> .
+ <http://example.org/HarryPotterFranchise> <http://dbpedia.org/ontology/film> <http://example.org/HarryPotterFilms> <WarnerBros-CNN-8> .
+ <http://example.org/PlatformNineAndThreeQuartersSet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <WarnerBros-CNN-8> .
+ <http://example.org/WarnerBros> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-CNN-8> .
+ <http://example.org/DiagonAlleySet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <WarnerBros-CNN-8> .
+ <http://example.org/WarnerBros> <http://dbpedia.org/ontology/subsidiary> <http://example.org/CNN> <WarnerBros-CNN-8> .
+ <http://example.org/HermioneGrangerMannequin> <http://xmlns.com/foaf/0.1/name> "Hermione Granger Mannequin"  <WarnerBros-CNN-8> .
+ <http://example.org/WarnerBros> <http://dbpedia.org/ontology/product> <http://example.org/HogwartsLegacyVideoGame> <WarnerBros-CNN-8> .
+ <http://example.org/WarnerBros> <http://dbpedia.org/ontology/parentCompany> <http://example.org/WarnerBrosDiscovery> <WarnerBros-CNN-8> .
+ <http://example.org/WarnerBros> <http://dbpedia.org/ontology/revenue> "850000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-CNN-8> .
+ <http://example.org/HogwartsExpressTrainModelPhoto> <http://xmlns.com/foaf/0.1/depiction> <http://example.org/HogwartsExpressTrainModel> <WarnerBros-CNN-8> .
+ <http://example.org/DanielCampisi> <http://schema.org/authorOf> <http://example.org/HogwartsExpressTrainModelPhoto> <WarnerBros-CNN-8> .
+ <http://example.org/HogwartsExpressTrainModelPhoto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Photograph> <WarnerBros-CNN-8> .
+ <http://example.org/HarryPotterFranchise> <http://xmlns.com/foaf/0.1/name> "Harry Potter"  <WarnerBros-CNN-8> .
+ <http://example.org/WarnerBrosDiscovery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-CNN-8> .
+ <http://example.org/DiagonAlleySet> <http://xmlns.com/foaf/0.1/name> "Diagon Alley Set"  <WarnerBros-CNN-8> .
+ <http://example.org/DanielCampisi> <http://schema.org/authorOf> <http://example.org/HarryAndHermioneMannequinsPhoto> <WarnerBros-CNN-8> .
+ <http://example.org/HarryPotterMannequin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ProductModel> <WarnerBros-CNN-8> .
+ <http://example.org/OriginalCostumes> <http://xmlns.com/foaf/0.1/name> "Original Costumes from the Harry Potter films"  <WarnerBros-CNN-8> .
+ <http://example.org/WarnerBros> <http://dbpedia.org/ontology/president> <http://example.org/JeffNagler> <WarnerBros-CNN-8> .
+ <http://example.org/HarryPotterStudioTourTokyo> <http://dbpedia.org/ontology/theme> <http://example.org/HarryPotterFranchise> <WarnerBros-CNN-8> .
+ <http://example.org/WarnerBros> <http://dbpedia.org/ontology/product> <http://example.org/HarryPotterStudioTourTokyo> <WarnerBros-CNN-8> .
+ <http://example.org/HarryPotterMannequin> <http://xmlns.com/foaf/0.1/name> "Harry Potter Mannequin"  <WarnerBros-CNN-8> .
+ <http://example.org/HermioneGrangerMannequin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ProductModel> <WarnerBros-CNN-8> .
+ <http://example.org/JeffNagler> <http://xmlns.com/foaf/0.1/title> "President of Worldwide Studio Operations"  <WarnerBros-CNN-8> .
+ <http://example.org/DanielCampisi> <http://schema.org/employee> <http://example.org/CNN> <WarnerBros-CNN-8> .
+ <http://example.org/HogwartsExpressTrainModel> <http://xmlns.com/foaf/0.1/name> "Hogwarts Express Train Model"  <WarnerBros-CNN-8> .
+ <http://example.org/HarryPotterStudioTourTokyo> <http://dbpedia.org/ontology/attractionOf> <http://example.org/PlatformNineAndThreeQuartersSet> <WarnerBros-CNN-8> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/chiefExecutiveOfficer> <http://example.org/DavidZaslav> <WarnerBros-CNN-8> .
+ <http://example.org/HarryAndHermioneMannequinsPhoto> <http://schema.org/provider> <http://example.org/CNN> <WarnerBros-CNN-8> .
+ <http://example.org/HarryPotterStudioTourTokyo> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Tokyo> <WarnerBros-CNN-8> .
+ <http://example.org/DavidZaslav> <http://dbpedia.org/ontology/employer> <http://example.org/WarnerBrosDiscovery> <WarnerBros-CNN-8> .
+ <http://example.org/OriginalProps> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <WarnerBros-CNN-8> .
+ <http://example.org/HarryPotterFilms> <http://xmlns.com/foaf/0.1/name> "Harry Potter Films"  <WarnerBros-CNN-8> .
+ <http://example.org/OriginalProps> <http://xmlns.com/foaf/0.1/name> "Original Props from the Harry Potter films"  <WarnerBros-CNN-8> .
+ <http://example.org/HarryPotterFilms> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MovieSeries> <WarnerBros-CNN-8> .
+ <http://example.org/WarnerBros> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Tokyo> <WarnerBros-CNN-8> .
+ <http://example.org/HogwartsExpressTrainModel> <http://dbpedia.org/ontology/origin> <http://dbpedia.org/resource/London> <WarnerBros-CNN-8> .
+ <http://example.org/HogwartsExpressTrainModelPhoto> <http://schema.org/provider> <http://example.org/CNN> <WarnerBros-CNN-8> .
+ <http://example.org/HarryPotterFranchise> <http://dbpedia.org/ontology/creator> <http://dbpedia.org/resource/J._K._Rowling> <WarnerBros-CNN-8> .
+ <http://example.org/JeffNagler> <http://dbpedia.org/ontology/employer> <http://example.org/WarnerBros> <WarnerBros-CNN-8> .
+ <http://example.org/WarnerBros> <http://xmlns.com/foaf/0.1/name> "Warner Bros."  <WarnerBros-CNN-8> .
+ <http://example.org/DanielCampisi> <http://xmlns.com/foaf/0.1/name> "Daniel Campisi"  <WarnerBros-CNN-8> .
+ <http://example.org/HogwartsExpressTrainModel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Locomotive> <WarnerBros-CNN-8> .
+ <http://example.org/HarryPotterStudioTourTokyo> <http://dbpedia.org/ontology/openingDate> "2023-06-21"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-CNN-8> .
+ <http://example.org/HarryPotterStudioTourTokyo> <http://dbpedia.org/ontology/attractionOf> <http://example.org/DiagonAlleySet> <WarnerBros-CNN-8> .
+ <http://example.org/HogwartsExpressTrainModel> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Tokyo> <WarnerBros-CNN-8> .
+ <http://example.org/PlatformNineAndThreeQuartersSet> <http://xmlns.com/foaf/0.1/name> "Platform 9 3/4 Set"  <WarnerBros-CNN-8> .
+ <http://example.org/DavidZaslav> <http://xmlns.com/foaf/0.1/title> "CEO"  <WarnerBros-CNN-8> .
+ <http://example.org/WarnerBros> <http://dbpedia.org/ontology/numberOfVisitors> "17000000"^^<http://www.w3.org/2001/XMLSchema#int>  <WarnerBros-CNN-8> .
+ <http://example.org/HogwartsLegacyVideoGame> <http://dbpedia.org/ontology/releaseDate> "2023-02-10"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-CNN-8> .
+ <http://example.org/DanielCampisi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-CNN-8> .
+ <http://example.org/HarryAndHermioneMannequinsPhoto> <http://xmlns.com/foaf/0.1/depiction> <http://example.org/HarryPotterMannequin> <WarnerBros-CNN-8> .
+ <http://example.org/WarnerBros> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/London> <WarnerBros-CNN-8> .
+ <http://example.org/HarryAndHermioneMannequinsPhoto> <http://xmlns.com/foaf/0.1/depiction> <http://example.org/HermioneGrangerMannequin> <WarnerBros-CNN-8> .
+ <http://example.org/HarryPotterStudioTourTokyo> <http://dbpedia.org/ontology/feature> <http://example.org/OriginalCostumes> <WarnerBros-CNN-8> .
+ <http://example.org/HogwartsLegacyVideoGame> <http://dbpedia.org/ontology/revenue> "850000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-CNN-8> .
+ <http://example.org/OriginalCostumes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <WarnerBros-CNN-8> .
+ <http://example.org/JeffNagler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-CNN-8> .
+ <http://example.org/DavidZaslav> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-CNN-9> .
+ <http://example.org/WarnerBrosDiscovery> <http://xmlns.com/foaf/0.1/name> "Warner Bros. Discovery"  <WarnerBros-CNN-9> .
+ <http://example.org/DavidZaslav> <http://xmlns.com/foaf/0.1/name> "David Zaslav"  <WarnerBros-CNN-9> .
+ <http://example.org/HBO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Broadcaster> <WarnerBros-CNN-9> .
+ <http://example.org/GunnarWiedenfels> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-CNN-9> .
+ <http://example.org/RichGreenfield> <http://xmlns.com/foaf/0.1/name> "Rich Greenfield"  <WarnerBros-CNN-9> .
+ <http://example.org/GunnarWiedenfels> <http://xmlns.com/foaf/0.1/name> "Gunnar Wiedenfels"  <WarnerBros-CNN-9> .
+ <http://example.org/DavidZaslav> <http://dbpedia.org/ontology/employer> <http://example.org/WarnerMedia> <WarnerBros-CNN-9> .
+ <http://example.org/DiscoveryPlus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <WarnerBros-CNN-9> .
+ <http://example.org/WarnerBrosStudio> <http://dbpedia.org/ontology/owner> <http://example.org/WarnerBrosDiscovery> <WarnerBros-CNN-9> .
+ <http://example.org/CNNPlus> <http://schema.org/name> "CNN+"  <WarnerBros-CNN-9> .
+ <http://example.org/DiscoveryInc> <http://xmlns.com/foaf/0.1/name> "Discovery, Inc."  <WarnerBros-CNN-9> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/product> <http://example.org/TheatricalMovieReleases> <WarnerBros-CNN-9> .
+ <http://example.org/GunnarWiedenfels> <http://dbpedia.org/ontology/title> "Chief Financial Officer"  <WarnerBros-CNN-9> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/product> <http://example.org/Gaming> <WarnerBros-CNN-9> .
+ <http://example.org/Gaming> <http://schema.org/name> "gaming"  <WarnerBros-CNN-9> .
+ <http://example.org/CNN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Broadcaster> <WarnerBros-CNN-9> .
+ <http://example.org/HBO> <http://dbpedia.org/ontology/owner> <http://example.org/WarnerBrosDiscovery> <WarnerBros-CNN-9> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/foundingDate> "2022-04-11"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-CNN-9> .
+ <http://example.org/CNN> <http://xmlns.com/foaf/0.1/name> "CNN"  <WarnerBros-CNN-9> .
+ <http://example.org/ATT> <http://dbpedia.org/ontology/stockTicker> "T"  <WarnerBros-CNN-9> .
+ <http://example.org/HBOMax> <http://schema.org/name> "HBO Max"  <WarnerBros-CNN-9> .
+ <http://example.org/WarnerBrosDiscovery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-CNN-9> .
+ <http://example.org/WarnerMedia> <http://xmlns.com/foaf/0.1/name> "WarnerMedia"  <WarnerBros-CNN-9> .
+ <http://example.org/RichGreenfield> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-CNN-9> .
+ <http://example.org/LightshedPartners> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-CNN-9> .
+ <http://example.org/CNN> <http://dbpedia.org/ontology/owner> <http://example.org/WarnerBrosDiscovery> <WarnerBros-CNN-9> .
+ <http://example.org/WarnerMedia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-CNN-9> .
+ <http://example.org/TheatricalMovieReleases> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <WarnerBros-CNN-9> .
+ <http://example.org/LightshedPartners> <http://xmlns.com/foaf/0.1/name> "Lightshed Partners"  <WarnerBros-CNN-9> .
+ <http://example.org/Netflix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-CNN-9> .
+ <http://example.org/Netflix> <http://dbpedia.org/ontology/stockTicker> "NFLX"  <WarnerBros-CNN-9> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/owner> <http://example.org/ATT> <WarnerBros-CNN-9> .
+ <http://example.org/RichGreenfield> <http://dbpedia.org/ontology/employer> <http://example.org/LightshedPartners> <WarnerBros-CNN-9> .
+ <http://example.org/DavidZaslav> <http://xmlns.com/foaf/0.1/page> <https://www.discovery.com/general/leadership-team> <WarnerBros-CNN-9> .
+ <http://example.org/SatelliteChannels> <http://schema.org/name> "satellite channels"  <WarnerBros-CNN-9> .
+ <http://example.org/CNNPlus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <WarnerBros-CNN-9> .
+ <http://example.org/Netflix> <http://xmlns.com/foaf/0.1/name> "Netflix"  <WarnerBros-CNN-9> .
+ <http://example.org/DavidZaslav> <http://dbpedia.org/ontology/employer> <http://example.org/DiscoveryInc> <WarnerBros-CNN-9> .
+ <http://example.org/CableChannels> <http://schema.org/name> "cable channels"  <WarnerBros-CNN-9> .
+ <http://example.org/CableChannels> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <WarnerBros-CNN-9> .
+ <http://example.org/DiscoveryInc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-CNN-9> .
+ <http://example.org/SatelliteChannels> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <WarnerBros-CNN-9> .
+ <http://example.org/HBO> <http://xmlns.com/foaf/0.1/name> "HBO"  <WarnerBros-CNN-9> .
+ <http://example.org/StreamingService> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <WarnerBros-CNN-9> .
+ <http://example.org/DavidZaslav> <http://dbpedia.org/ontology/title> "CEO"  <WarnerBros-CNN-9> .
+ <http://example.org/Gaming> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <WarnerBros-CNN-9> .
+ <http://example.org/RichGreenfield> <http://dbpedia.org/ontology/title> "Analyst"  <WarnerBros-CNN-9> .
+ <http://example.org/CNNPlus> <http://dbpedia.org/ontology/closingDate> "2022-04-01"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-CNN-9> .
+ <http://example.org/WarnerBrosStudio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WarnerBros-CNN-9> .
+ <http://example.org/GunnarWiedenfels> <http://dbpedia.org/ontology/employer> <http://example.org/WarnerBrosDiscovery> <WarnerBros-CNN-9> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/foundedBy> <http://example.org/DavidZaslav> <WarnerBros-CNN-9> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/product> <http://example.org/StreamingService> <WarnerBros-CNN-9> .
+ <http://example.org/TheatricalMovieReleases> <http://schema.org/name> "theatrical movie releases"  <WarnerBros-CNN-9> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/product> <http://example.org/CableChannels> <WarnerBros-CNN-9> .
+ <http://example.org/DiscoveryPlus> <http://schema.org/name> "discovery+"  <WarnerBros-CNN-9> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Mass_media> <WarnerBros-CNN-9> .
+ <http://example.org/StreamingService> <http://schema.org/name> "streaming service"  <WarnerBros-CNN-9> .
+ <http://example.org/ATT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-CNN-9> .
+ <http://example.org/ATT> <http://xmlns.com/foaf/0.1/name> "AT&T"  <WarnerBros-CNN-9> .
+ <http://example.org/WarnerBrosDiscovery> <http://dbpedia.org/ontology/product> <http://example.org/SatelliteChannels> <WarnerBros-CNN-9> .
+ <http://example.org/CNNPlus> <http://dbpedia.org/ontology/launchDate> "2022-03-01"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-CNN-9> .
+ <http://example.org/WarnerBrosStudio> <http://xmlns.com/foaf/0.1/name> "Warner Bros. studio"  <WarnerBros-CNN-9> .
+ <http://example.org/HBOMax> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <WarnerBros-CNN-9> .

@@ -1,0 +1,692 @@
+ <http://example.org/SundayNightFootball> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> <NFL-euronews-0> .
+ <http://example.org/HughJackman> <http://xmlns.com/foaf/0.1/name> "Hugh Jackman"  <NFL-euronews-0> .
+ <http://example.org/ChiefsVsJetsGame> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <NFL-euronews-0> .
+ <http://example.org/FriendshipBracelet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Object> <NFL-euronews-0> .
+ <http://example.org/TravisKelce> <http://xmlns.com/foaf/0.1/name> "Travis Kelce"  <NFL-euronews-0> .
+ <http://example.org/ErasTour> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Buenos_Aires> <NFL-euronews-0> .
+ <http://example.org/TaylorSwift> <http://dbpedia.org/ontology/appearance> <http://example.org/ChiefsVsJetsGame> <NFL-euronews-0> .
+ <http://example.org/MidnightsAlbum> <http://dbpedia.org/ontology/artist> <http://example.org/TaylorSwift> <NFL-euronews-0> .
+ <http://example.org/TaylorSwift> <http://xmlns.com/foaf/0.1/knows> <http://example.org/RyanReynolds> <NFL-euronews-0> .
+ <http://example.org/TravisKelce> <http://dbpedia.org/ontology/jerseySalesIncrease> "400 percent"  <NFL-euronews-0> .
+ <http://example.org/SundayNightFootball> <http://dbpedia.org/ontology/format> "Primetime show"  <NFL-euronews-0> .
+ <http://example.org/TaylorSwift> <http://dbpedia.org/ontology/activeYearsStartYear> "2006"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NFL-euronews-0> .
+ <http://example.org/AdamHunger> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Photographer> <NFL-euronews-0> .
+ <http://example.org/SundayNightFootball> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow> <NFL-euronews-0> .
+ <http://example.org/RyanReynolds> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-euronews-0> .
+ <http://example.org/SundayNightFootball> <http://dbpedia.org/ontology/mostWatched> "Primetime show in the US"  <NFL-euronews-0> .
+ <http://example.org/TaylorSwift> <http://dbpedia.org/ontology/award> "12-time Grammy award winner"  <NFL-euronews-0> .
+ <http://example.org/ChiefsVsJetsGame> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/New_York_City> <NFL-euronews-0> .
+ <http://example.org/HughJackman> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Actor> <NFL-euronews-0> .
+ <http://example.org/YoureOnYourOwnKid> <http://dbpedia.org/ontology/album> <http://example.org/MidnightsAlbum> <NFL-euronews-0> .
+ <http://example.org/ChiefsVsJetsGame> <http://dbpedia.org/ontology/competitor> <http://example.org/KansasCityChiefs> <NFL-euronews-0> .
+ <http://example.org/TravisKelce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-euronews-0> .
+ <http://example.org/FriendshipBracelet> <http://dbpedia.org/ontology/tradition> <http://example.org/ErasTour> <NFL-euronews-0> .
+ <http://example.org/TaylorSwift> <http://dbpedia.org/ontology/interest> <http://example.org/NFL> <NFL-euronews-0> .
+ <http://example.org/ErasTour> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <NFL-euronews-0> .
+ <http://example.org/TravisKelce> <http://dbpedia.org/ontology/comment> "looked amazing"  <NFL-euronews-0> .
+ <http://example.org/ChrisPizzello> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Photographer> <NFL-euronews-0> .
+ <http://example.org/TravisKelce> <http://xmlns.com/foaf/0.1/knows> <http://example.org/TaylorSwift> <NFL-euronews-0> .
+ <http://example.org/TaylorSwift> <http://dbpedia.org/ontology/nextTourDate> "2023-11-09"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-euronews-0> .
+ <http://example.org/RedditUser_wordtomytimbsB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-euronews-0> .
+ <http://example.org/TaylorSwift> <http://dbpedia.org/ontology/nextTourLocation> <http://dbpedia.org/resource/Buenos_Aires> <NFL-euronews-0> .
+ <http://example.org/TaylorSwift> <http://xmlns.com/foaf/0.1/knows> <http://example.org/TravisKelce> <NFL-euronews-0> .
+ <http://example.org/YoureOnYourOwnKid> <http://dbpedia.org/ontology/inspiration> "friendship bracelets"  <NFL-euronews-0> .
+ <http://example.org/NewYorkJets> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NFL-euronews-0> .
+ <http://example.org/NFL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsLeague> <NFL-euronews-0> .
+ <http://example.org/DonnaKelce> <http://xmlns.com/foaf/0.1/name> "Donna Kelce"  <NFL-euronews-0> .
+ <http://example.org/FriendshipBracelet> <http://dbpedia.org/ontology/associatedWith> <http://example.org/TravisKelce> <NFL-euronews-0> .
+ <http://example.org/Reddit> <http://xmlns.com/foaf/0.1/name> "Reddit"  <NFL-euronews-0> .
+ <http://example.org/DonnaKelce> <http://xmlns.com/foaf/0.1/knows> <http://example.org/TravisKelce> <NFL-euronews-0> .
+ <http://example.org/RyanReynolds> <http://xmlns.com/foaf/0.1/name> "Ryan Reynolds"  <NFL-euronews-0> .
+ <http://example.org/YoureOnYourOwnKid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalWork> <NFL-euronews-0> .
+ <http://example.org/StubHub> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <NFL-euronews-0> .
+ <http://example.org/KansasCityChiefs> <http://dbpedia.org/ontology/championships> "Super Bowl"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-euronews-0> .
+ <http://example.org/ChiefsVsJetsGame> <http://dbpedia.org/ontology/attendanceIncrease> "63 percent among women aged 18 to 49"  <NFL-euronews-0> .
+ <http://example.org/RedditUser_Dingos8mybaby2> <http://xmlns.com/foaf/0.1/member> <http://example.org/Reddit> <NFL-euronews-0> .
+ <http://example.org/BlakeLively> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Actor> <NFL-euronews-0> .
+ <http://example.org/BlakeLively> <http://xmlns.com/foaf/0.1/name> "Blake Lively"  <NFL-euronews-0> .
+ <http://example.org/ChiefsVsJetsGame> <http://dbpedia.org/ontology/date> "2023-10-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-euronews-0> .
+ <http://example.org/TravisKelce> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/American_football_player> <NFL-euronews-0> .
+ <http://example.org/TaylorSwift> <http://xmlns.com/foaf/0.1/knows> <http://example.org/BlakeLively> <NFL-euronews-0> .
+ <http://example.org/MidnightsAlbum> <http://dbpedia.org/ontology/releaseDate> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NFL-euronews-0> .
+ <http://example.org/ChrisPizzello> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-euronews-0> .
+ <http://example.org/ErasTour> <http://schema.org/startDate> "2023-11-09"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-euronews-0> .
+ <http://example.org/RedditUser_wordtomytimbsB> <http://xmlns.com/foaf/0.1/member> <http://example.org/Reddit> <NFL-euronews-0> .
+ <http://example.org/BlakeLively> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-euronews-0> .
+ <http://example.org/TravisKelce> <http://dbpedia.org/ontology/position> "Tight end"  <NFL-euronews-0> .
+ <http://example.org/RedditUser_Dingos8mybaby2> <http://xmlns.com/foaf/0.1/accountName> "Dingos8mybaby2"  <NFL-euronews-0> .
+ <http://example.org/MidnightsAlbum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalWork> <NFL-euronews-0> .
+ <http://example.org/NFL> <http://dbpedia.org/ontology/abbreviation> "NFL"  <NFL-euronews-0> .
+ <http://example.org/RyanReynolds> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Actor> <NFL-euronews-0> .
+ <http://example.org/SundayNightFootball> <http://xmlns.com/foaf/0.1/name> "Sunday Night Football"  <NFL-euronews-0> .
+ <http://example.org/AdamHunger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-euronews-0> .
+ <http://example.org/TaylorSwift> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Singer-songwriter> <NFL-euronews-0> .
+ <http://example.org/TravisKelce> <http://dbpedia.org/ontology/team> <http://example.org/KansasCityChiefs> <NFL-euronews-0> .
+ <http://example.org/RedditUser_Dingos8mybaby2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-euronews-0> .
+ <http://example.org/KansasCityChiefs> <http://dbpedia.org/ontology/championships> "Super Bowl"  <NFL-euronews-0> .
+ <http://example.org/StubHub> <http://dbpedia.org/ontology/industry> "Ticket resale"  <NFL-euronews-0> .
+ <http://example.org/HughJackman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-euronews-0> .
+ <http://example.org/EdZurga> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Photographer> <NFL-euronews-0> .
+ <http://example.org/Reddit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Website> <NFL-euronews-0> .
+ <http://example.org/TaylorSwift> <http://dbpedia.org/property/interest> <http://dbpedia.org/resource/American_football> <NFL-euronews-0> .
+ <http://example.org/StubHub> <http://dbpedia.org/ontology/singleDaySalesRecord> "doubling the previous record for this season"  <NFL-euronews-0> .
+ <http://example.org/RedditUser_wordtomytimbsB> <http://xmlns.com/foaf/0.1/accountName> "wordtomytimbsB"  <NFL-euronews-0> .
+ <http://example.org/KansasCityChiefs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NFL-euronews-0> .
+ <http://example.org/KansasCityChiefs> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Kansas_City_Missouri> <NFL-euronews-0> .
+ <http://example.org/TaylorSwift> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-euronews-0> .
+ <http://example.org/FriendshipBracelet> <http://dbpedia.org/ontology/associatedWith> <http://example.org/TaylorSwift> <NFL-euronews-0> .
+ <http://example.org/TaylorSwift> <http://xmlns.com/foaf/0.1/name> "Taylor Swift"  <NFL-euronews-0> .
+ <http://example.org/EdZurga> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-euronews-0> .
+ <http://example.org/TravisKelce> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Kansas_City_Chiefs> <NFL-euronews-0> .
+ <http://example.org/DonnaKelce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-euronews-0> .
+ <http://example.org/YoureOnYourOwnKid> <http://dbpedia.org/ontology/artist> <http://example.org/TaylorSwift> <NFL-euronews-0> .
+ <http://example.org/ChiefsVsJetsGame> <http://dbpedia.org/ontology/result> "Chiefs beat the Jets 23-20"  <NFL-euronews-0> .
+ <http://example.org/NFL> <http://xmlns.com/foaf/0.1/name> "National Football League"  <NFL-euronews-0> .
+ <http://example.org/KansasCityChiefs> <http://dbpedia.org/ontology/location> <http://example.org/KansasCityMissouri> <NFL-euronews-0> .
+ <http://example.org/KansasCityChiefs> <http://dbpedia.org/ontology/teamName> "Kansas City Chiefs"  <NFL-euronews-0> .
+ <http://example.org/NewYorkJets> <http://dbpedia.org/ontology/teamName> "New York Jets"  <NFL-euronews-0> .
+ <http://example.org/ErasTour> <http://dbpedia.org/ontology/organizer> <http://example.org/TaylorSwift> <NFL-euronews-0> .
+ <http://example.org/ChiefsVsJetsGame> <http://dbpedia.org/ontology/competitor> <http://example.org/NewYorkJets> <NFL-euronews-0> .
+ <http://example.org/TaylorSwift> <http://xmlns.com/foaf/0.1/knows> <http://example.org/HughJackman> <NFL-euronews-0> .
+ <http://example.org/ontology/LawsuitAgainstTheTuohys> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Lawsuit> <NFL-euronews-1> .
+ <http://example.org/ontology/TheBlindSide> <http://example.org/ontology/depictionClaim> <http://example.org/ontology/UnintelligentDepiction> <NFL-euronews-1> .
+ <http://example.org/ontology/FinancialExploitation> <http://example.org/ontology/claimDetail> "Deal to earn millions from film for Tuohys' birth children, nothing for Oher"  <NFL-euronews-1> .
+ <http://example.org/ontology/FinancialExploitation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Allegation> <NFL-euronews-1> .
+ <http://example.org/ontology/MichaelOherStory> <http://example.org/ontology/format> "Motivational Speaking"  <NFL-euronews-1> .
+ <http://example.org/ontology/TheBlindSide> <http://example.org/ontology/portrays> <http://example.org/ontology/MichaelOher> <NFL-euronews-1> .
+ <http://example.org/ontology/SeanTuohy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-euronews-1> .
+ <http://example.org/ontology/DailyMemphianStatement> <http://example.org/ontology/containsResponseFrom> <http://example.org/ontology/SeanTuohy> <NFL-euronews-1> .
+ <http://example.org/ontology/TheBlindSide> <http://schema.org/criticism> <http://example.org/ontology/WhiteSaviourNarrative> <NFL-euronews-1> .
+ <http://example.org/ontology/ConservatorshipLie> <http://example.org/ontology/claimedBy> <http://example.org/ontology/MichaelOher> <NFL-euronews-1> .
+ <http://example.org/ontology/WhiteSaviourNarrative> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Criticism> <NFL-euronews-1> .
+ <http://example.org/ontology/MichaelOherStory> <http://example.org/ontology/toldBy> <http://example.org/ontology/LeighAnneTuohy> <NFL-euronews-1> .
+ <http://example.org/ontology/SeanTuohy> <http://example.org/ontology/respondedToAllegations> <http://example.org/ontology/DailyMemphianStatement> <NFL-euronews-1> .
+ <http://example.org/ontology/FinancialExploitation> <http://example.org/ontology/against> <http://example.org/ontology/SeanTuohy> <NFL-euronews-1> .
+ <http://example.org/ontology/MichaelOherStory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <NFL-euronews-1> .
+ <http://example.org/ontology/MichaelOher> <http://example.org/ontology/filed> <http://example.org/ontology/LawsuitAgainstTheTuohys> <NFL-euronews-1> .
+ <http://example.org/ontology/SandraBullock> <http://xmlns.com/foaf/0.1/name> "Sandra Bullock"  <NFL-euronews-1> .
+ <http://example.org/ontology/MichaelOher> <http://example.org/ontology/claims> <http://example.org/ontology/FinancialExploitation> <NFL-euronews-1> .
+ <http://example.org/ontology/TheBlindSide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <NFL-euronews-1> .
+ <http://example.org/ontology/LawsuitAgainstTheTuohys> <http://example.org/ontology/asksFor> <http://example.org/ontology/EndOfConservatorship> <NFL-euronews-1> .
+ <http://example.org/ontology/LeighAnneTuohy> <http://xmlns.com/foaf/0.1/name> "Leigh Anne Tuohy"  <NFL-euronews-1> .
+ <http://example.org/ontology/OscarBestActress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Award> <NFL-euronews-1> .
+ <http://example.org/ontology/OscarBestActress> <http://schema.org/name> "Oscar for Best Actress"  <NFL-euronews-1> .
+ <http://example.org/ontology/ConservatorshipLie> <http://example.org/ontology/against> <http://example.org/ontology/SeanTuohy> <NFL-euronews-1> .
+ <http://example.org/ontology/LeighAnneTuohy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-euronews-1> .
+ <http://example.org/ontology/DailyMemphianStatement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> <NFL-euronews-1> .
+ <http://example.org/ontology/UnintelligentDepiction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Criticism> <NFL-euronews-1> .
+ <http://example.org/ontology/UnintelligentDepiction> <http://example.org/ontology/criticized> <http://example.org/ontology/TheBlindSide> <NFL-euronews-1> .
+ <http://example.org/ontology/TheBlindSide> <http://schema.org/actor> <http://example.org/ontology/SandraBullock> <NFL-euronews-1> .
+ <http://example.org/ontology/LeighAnneTuohy> <http://example.org/ontology/respondedToAllegations> <http://example.org/ontology/DailyMemphianStatement> <NFL-euronews-1> .
+ <http://example.org/ontology/InjunctionAgainstTuohys> <http://example.org/ontology/details> "Injunction against using Michael Oher's name and likeness"  <NFL-euronews-1> .
+ <http://example.org/ontology/UnintelligentDepiction> <http://example.org/ontology/claimedBy> <http://example.org/ontology/MichaelOher> <NFL-euronews-1> .
+ <http://example.org/ontology/MichaelOher> <http://example.org/ontology/discoveredConservatorship> "February 2023"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <NFL-euronews-1> .
+ <http://example.org/ontology/LawsuitAgainstTheTuohys> <http://example.org/ontology/filedBy> <http://example.org/ontology/MichaelOher> <NFL-euronews-1> .
+ <http://example.org/ontology/SandraBullock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-euronews-1> .
+ <http://example.org/ontology/LawsuitAgainstTheTuohys> <http://example.org/ontology/petitionFiledOn> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NFL-euronews-1> .
+ <http://example.org/ontology/MichaelOher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-euronews-1> .
+ <http://example.org/ontology/FullAccountingAndDamages> <http://example.org/ontology/details> "Full accounting of money made in Oher's name with damages paid"  <NFL-euronews-1> .
+ <http://example.org/ontology/TheBlindSide> <http://schema.org/boxOfficeEarnings> "€275 million"^^<http://www.w3.org/2001/XMLSchema#decimal>  <NFL-euronews-1> .
+ <http://example.org/ontology/MichaelOher> <http://example.org/ontology/depictedIn> <http://example.org/ontology/TheBlindSide> <NFL-euronews-1> .
+ <http://example.org/ontology/DailyMemphianStatement> <http://example.org/ontology/containsResponseFrom> <http://example.org/ontology/LeighAnneTuohy> <NFL-euronews-1> .
+ <http://example.org/ontology/WhiteSaviourNarrative> <http://example.org/ontology/criticized> <http://example.org/ontology/TheBlindSide> <NFL-euronews-1> .
+ <http://example.org/ontology/LawsuitAgainstTheTuohys> <http://example.org/ontology/asksFor> <http://example.org/ontology/InjunctionAgainstTuohys> <NFL-euronews-1> .
+ <http://example.org/ontology/SeanTuohy> <http://xmlns.com/foaf/0.1/name> "Sean Tuohy"  <NFL-euronews-1> .
+ <http://example.org/ontology/TheBlindSide> <http://schema.org/name> "The Blind Side"  <NFL-euronews-1> .
+ <http://example.org/ontology/InjunctionAgainstTuohys> <http://example.org/ontology/requestedBy> <http://example.org/ontology/MichaelOher> <NFL-euronews-1> .
+ <http://example.org/ontology/ConservatorshipLie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Allegation> <NFL-euronews-1> .
+ <http://example.org/ontology/FinancialExploitation> <http://example.org/ontology/against> <http://example.org/ontology/LeighAnneTuohy> <NFL-euronews-1> .
+ <http://example.org/ontology/SandraBullock> <http://schema.org/award> <http://example.org/ontology/OscarBestActress> <NFL-euronews-1> .
+ <http://example.org/ontology/LawsuitAgainstTheTuohys> <http://example.org/ontology/asksFor> <http://example.org/ontology/FullAccountingAndDamages> <NFL-euronews-1> .
+ <http://example.org/ontology/InjunctionAgainstTuohys> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/LegalRequest> <NFL-euronews-1> .
+ <http://example.org/ontology/FullAccountingAndDamages> <http://example.org/ontology/requestedBy> <http://example.org/ontology/MichaelOher> <NFL-euronews-1> .
+ <http://example.org/ontology/MichaelOher> <http://example.org/ontology/allegation> <http://example.org/ontology/ConservatorshipLie> <NFL-euronews-1> .
+ <http://example.org/ontology/FinancialExploitation> <http://example.org/ontology/claimedBy> <http://example.org/ontology/MichaelOher> <NFL-euronews-1> .
+ <http://example.org/ontology/LawsuitAgainstTheTuohys> <http://example.org/ontology/petitionFiledIn> "Tennessee"  <NFL-euronews-1> .
+ <http://example.org/ontology/TheBlindSide> <http://schema.org/datePublished> "2009"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NFL-euronews-1> .
+ <http://example.org/ontology/DailyMemphianStatement> <http://schema.org/sourceName> "Daily Memphian"  <NFL-euronews-1> .
+ <http://example.org/ontology/EndOfConservatorship> <http://example.org/ontology/requestedBy> <http://example.org/ontology/MichaelOher> <NFL-euronews-1> .
+ <http://example.org/ontology/ConservatorshipLie> <http://example.org/ontology/against> <http://example.org/ontology/LeighAnneTuohy> <NFL-euronews-1> .
+ <http://example.org/ontology/ConservatorshipLie> <http://example.org/ontology/claimDetail> "Tricked into conservatorship after turning 18 in 2004"  <NFL-euronews-1> .
+ <http://example.org/ontology/FullAccountingAndDamages> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/LegalRequest> <NFL-euronews-1> .
+ <http://example.org/ontology/MichaelOher> <http://xmlns.com/foaf/0.1/name> "Michael Oher"  <NFL-euronews-1> .
+ <http://example.org/ontology/LeighAnneTuohy> <http://example.org/ontology/continuedMotivationalSpeaking> <http://example.org/ontology/MichaelOherStory> <NFL-euronews-1> .
+ <http://example.org/ontology/EndOfConservatorship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/LegalRequest> <NFL-euronews-1> .
+ <http://example.org/NFL> <http://dbpedia.org/ontology/partnerWith> <http://dbpedia.org/resource/Roblox> <NFL-euronews-2> .
+ <http://example.org/Vans> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <NFL-euronews-2> .
+ <http://example.org/HamiltonSimulator> <http://dbpedia.org/ontology/theme> "Revolutionary War"  <NFL-euronews-2> .
+ <http://example.org/Roblox> <http://dbpedia.org/ontology/numberOfUsers> "66 million"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-euronews-2> .
+ <http://example.org/CirqueDuSoleil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <NFL-euronews-2> .
+ <http://example.org/Givenchy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <NFL-euronews-2> .
+ <http://NFL-euronews-2.com/blank#n898cab8e12ff4416a75538add287990ab3> <http://xmlns.com/foaf/0.1/name> "Lin-Manuel Miranda"  <NFL-euronews-2> .
+ <http://example.org/HamiltonGame> <http://dbpedia.org/ontology/platform> <http://dbpedia.org/resource/Roblox> <NFL-euronews-2> .
+ <http://example.org/Mattel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <NFL-euronews-2> .
+ <http://example.org/HamiltonSimulator> <http://dbpedia.org/ontology/objective> "Liberating the city from British rule"  <NFL-euronews-2> .
+ <http://NFL-euronews-2.com/blank#n898cab8e12ff4416a75538add287990ab9> <http://dbpedia.org/ontology/setting> "Battle of Yorktown"  <NFL-euronews-2> .
+ <http://example.org/Roblox> <http://dbpedia.org/ontology/releaseDate> "2006-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-euronews-2> .
+ <http://NFL-euronews-2.com/blank#n898cab8e12ff4416a75538add287990ab2> <http://dbpedia.org/ontology/ageGroup> "under 13"  <NFL-euronews-2> .
+ <http://example.org/HamiltonSimulator> <http://dbpedia.org/ontology/level> <http://NFL-euronews-2.com/blank#n898cab8e12ff4416a75538add287990ab7>  <NFL-euronews-2> .
+ <http://example.org/HamiltonSimulator> <http://dbpedia.org/ontology/level> <http://NFL-euronews-2.com/blank#n898cab8e12ff4416a75538add287990ab9>  <NFL-euronews-2> .
+ <http://NFL-euronews-2.com/blank#n898cab8e12ff4416a75538add287990ab4> <http://xmlns.com/foaf/0.1/name> "Lin-Manuel Miranda"  <NFL-euronews-2> .
+ <http://example.org/HamiltonSimulator> <http://dbpedia.org/ontology/level> <http://NFL-euronews-2.com/blank#n898cab8e12ff4416a75538add287990ab8>  <NFL-euronews-2> .
+ <http://NFL-euronews-2.com/blank#n898cab8e12ff4416a75538add287990ab7> <http://dbpedia.org/ontology/setting> "town squares"  <NFL-euronews-2> .
+ <http://NFL-euronews-2.com/blank#n898cab8e12ff4416a75538add287990ab1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <NFL-euronews-2> .
+ <http://example.org/HamiltonSimulator> <http://dbpedia.org/ontology/platform> <http://dbpedia.org/resource/Roblox> <NFL-euronews-2> .
+ <http://NFL-euronews-2.com/blank#n898cab8e12ff4416a75538add287990ab5> <http://dbpedia.org/ontology/setting> "tavern"  <NFL-euronews-2> .
+ <http://example.org/NFL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <NFL-euronews-2> .
+ <http://example.org/HamiltonSimulator> <http://dbpedia.org/ontology/contributor> <http://NFL-euronews-2.com/blank#n898cab8e12ff4416a75538add287990ab10>  <NFL-euronews-2> .
+ <http://example.org/DavidKorins> <http://xmlns.com/foaf/0.1/name> "David Korins"  <NFL-euronews-2> .
+ <http://example.org/RobloxCorporation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <NFL-euronews-2> .
+ <http://example.org/HamiltonSimulator> <http://dbpedia.org/ontology/startingPoint> "New York's docks"  <NFL-euronews-2> .
+ <http://example.org/Roblox> <http://dbpedia.org/ontology/numberOfGames> "over 40 million"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-euronews-2> .
+ <http://NFL-euronews-2.com/blank#n898cab8e12ff4416a75538add287990ab10> <http://xmlns.com/foaf/0.1/name> "David Korins"  <NFL-euronews-2> .
+ <http://example.org/Nike> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <NFL-euronews-2> .
+ <http://example.org/Roblox> <http://dbpedia.org/ontology/demographics> <http://NFL-euronews-2.com/blank#n898cab8e12ff4416a75538add287990ab2>  <NFL-euronews-2> .
+ <http://example.org/SmallWorldGames> <http://xmlns.com/foaf/0.1/name> "Small World Games"  <NFL-euronews-2> .
+ <http://example.org/MattEdelman> <http://xmlns.com/foaf/0.1/title> "President and Chief Commercial Officer"  <NFL-euronews-2> .
+ <http://NFL-euronews-2.com/blank#n898cab8e12ff4416a75538add287990ab8> <http://dbpedia.org/ontology/setting> "ballroom"  <NFL-euronews-2> .
+ <http://NFL-euronews-2.com/blank#n898cab8e12ff4416a75538add287990ab4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-euronews-2> .
+ <http://example.org/Nike> <http://dbpedia.org/ontology/partnerWith> <http://dbpedia.org/resource/Roblox> <NFL-euronews-2> .
+ <http://example.org/HamiltonGame> <http://dbpedia.org/ontology/subject> <http://dbpedia.org/resource/Alexander_Hamilton> <NFL-euronews-2> .
+ <http://example.org/TommyHilfiger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <NFL-euronews-2> .
+ <http://NFL-euronews-2.com/blank#n898cab8e12ff4416a75538add287990ab2> <http://dbpedia.org/ontology/percentage> "over half"^^<http://www.w3.org/2001/XMLSchema#float>  <NFL-euronews-2> .
+ <http://example.org/HamiltonSimulator> <http://dbpedia.org/ontology/level> <http://NFL-euronews-2.com/blank#n898cab8e12ff4416a75538add287990ab5>  <NFL-euronews-2> .
+ <http://example.org/HamiltonSimulator> <http://dbpedia.org/ontology/endorsedBy> <http://NFL-euronews-2.com/blank#n898cab8e12ff4416a75538add287990ab3>  <NFL-euronews-2> .
+ <http://example.org/HamiltonGame> <http://dbpedia.org/ontology/genre> "Immersive online environment"  <NFL-euronews-2> .
+ <http://example.org/TommyHilfiger> <http://dbpedia.org/ontology/partnerWith> <http://dbpedia.org/resource/Roblox> <NFL-euronews-2> .
+ <http://example.org/Mattel> <http://dbpedia.org/ontology/partnerWith> <http://dbpedia.org/resource/Roblox> <NFL-euronews-2> .
+ <http://example.org/HamiltonSimulator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> <NFL-euronews-2> .
+ <http://example.org/MattEdelman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-euronews-2> .
+ <http://example.org/HamiltonSimulator> <http://dbpedia.org/ontology/developer> <http://example.org/SuperLeague> <NFL-euronews-2> .
+ <http://NFL-euronews-2.com/blank#n898cab8e12ff4416a75538add287990ab10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-euronews-2> .
+ <http://example.org/CirqueDuSoleil> <http://dbpedia.org/ontology/partnerWith> <http://dbpedia.org/resource/Roblox> <NFL-euronews-2> .
+ <http://example.org/HamiltonGame> <http://dbpedia.org/ontology/numberOfLevels> "10"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-euronews-2> .
+ <http://example.org/DavidKorins> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Hamilton_(musical)> <NFL-euronews-2> .
+ <http://example.org/HamiltonSimulator> <http://dbpedia.org/ontology/composer> <http://NFL-euronews-2.com/blank#n898cab8e12ff4416a75538add287990ab4>  <NFL-euronews-2> .
+ <http://NFL-euronews-2.com/blank#n898cab8e12ff4416a75538add287990ab6> <http://dbpedia.org/ontology/setting> "George Washington's office"  <NFL-euronews-2> .
+ <http://example.org/SuperLeague> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <NFL-euronews-2> .
+ <http://example.org/SmallWorldGames> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <NFL-euronews-2> .
+ <http://example.org/RalphLauren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <NFL-euronews-2> .
+ <http://example.org/HamiltonGame> <http://dbpedia.org/ontology/license> "Free to play"  <NFL-euronews-2> .
+ <http://example.org/RalphLauren> <http://dbpedia.org/ontology/partnerWith> <http://dbpedia.org/resource/Roblox> <NFL-euronews-2> .
+ <http://example.org/Givenchy> <http://dbpedia.org/ontology/partnerWith> <http://dbpedia.org/resource/Roblox> <NFL-euronews-2> .
+ <http://NFL-euronews-2.com/blank#n898cab8e12ff4416a75538add287990ab3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-euronews-2> .
+ <http://example.org/HamiltonGame> <http://dbpedia.org/ontology/collaboratedWith> <http://example.org/SmallWorldGames> <NFL-euronews-2> .
+ <http://example.org/HamiltonSimulator> <http://dbpedia.org/ontology/basedOn> <http://dbpedia.org/resource/Hamilton_(musical)> <NFL-euronews-2> .
+ <http://example.org/DaveAndBusters> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <NFL-euronews-2> .
+ <http://example.org/SuperLeague> <http://xmlns.com/foaf/0.1/name> "Super League"  <NFL-euronews-2> .
+ <http://example.org/DaveAndBusters> <http://dbpedia.org/ontology/partnerWith> <http://dbpedia.org/resource/Roblox> <NFL-euronews-2> .
+ <http://example.org/MattEdelman> <http://xmlns.com/foaf/0.1/memberOf> <http://example.org/SuperLeague> <NFL-euronews-2> .
+ <http://example.org/Roblox> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/Roblox_Corporation> <NFL-euronews-2> .
+ <http://NFL-euronews-2.com/blank#n898cab8e12ff4416a75538add287990ab1> <http://xmlns.com/foaf/0.1/name> "Super League"  <NFL-euronews-2> .
+ <http://example.org/Gucci> <http://dbpedia.org/ontology/partnerWith> <http://dbpedia.org/resource/Roblox> <NFL-euronews-2> .
+ <http://example.org/DavidKorins> <http://dbpedia.org/ontology/profession> "Stage designer"  <NFL-euronews-2> .
+ <http://example.org/DavidKorins> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-euronews-2> .
+ <http://example.org/HamiltonGame> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> <NFL-euronews-2> .
+ <http://example.org/Vans> <http://dbpedia.org/ontology/partnerWith> <http://dbpedia.org/resource/Roblox> <NFL-euronews-2> .
+ <http://example.org/HamiltonGame> <http://dbpedia.org/ontology/developer> <http://NFL-euronews-2.com/blank#n898cab8e12ff4416a75538add287990ab1>  <NFL-euronews-2> .
+ <http://example.org/Gucci> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <NFL-euronews-2> .
+ <http://example.org/Roblox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <NFL-euronews-2> .
+ <http://example.org/HamiltonSimulator> <http://dbpedia.org/ontology/level> <http://NFL-euronews-2.com/blank#n898cab8e12ff4416a75538add287990ab6>  <NFL-euronews-2> .
+ <http://example.org/RobloxCorporation> <http://xmlns.com/foaf/0.1/name> "Roblox Corporation"  <NFL-euronews-2> .
+ <http://example.org/Photographers> <http://schema.org/memberOf> <http://example.org/WorldSportsPhotographyAwards2023> <NFL-euronews-3> .
+ <http://example.org/Photographers> <http://xmlns.com/foaf/0.1/member> <http://example.org/PatrickSmith> <NFL-euronews-3> .
+ <http://example.org/Photographers> <http://xmlns.com/foaf/0.1/member> <http://example.org/VinceMignott> <NFL-euronews-3> .
+ <http://example.org/WorldArtisticGymnasticsChampionshipsLiverpool> <http://schema.org/location> "Liverpool"  <NFL-euronews-3> .
+ <http://example.org/WorldArtisticGymnasticsChampionshipsLiverpool> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsEvent> <NFL-euronews-3> .
+ <http://example.org/TeamKazakhstanArtisticSwimming> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsEvent> <NFL-euronews-3> .
+ <http://example.org/WorldSportsPhotographyAwards2023> <http://schema.org/name> "World Sports Photography Awards 2023"  <NFL-euronews-3> .
+ <http://example.org/MajesticksGC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <NFL-euronews-3> .
+ <http://example.org/MainWinner> <http://schema.org/publisher> <http://example.org/LIVGolfGettyImages> <NFL-euronews-3> .
+ <http://example.org/LIVGolfInvitationalMiami> <http://schema.org/location> "Miami"  <NFL-euronews-3> .
+ <http://example.org/Photographers> <http://xmlns.com/foaf/0.1/member> <http://example.org/AnnaSzilagyi> <NFL-euronews-3> .
+ <http://example.org/TeamKazakhstanArtisticSwimming> <http://schema.org/competitor> <http://example.org/TeamKazakhstan> <NFL-euronews-3> .
+ <http://example.org/LeeWestwood> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NFL-euronews-3> .
+ <http://example.org/FinaWorldChampionships19thBudapest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsEvent> <NFL-euronews-3> .
+ <http://example.org/SupermanCategoryWinner> <http://schema.org/about> <http://example.org/DonnellWhittenburgHighBar> <NFL-euronews-3> .
+ <http://example.org/SupermanCategoryWinner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Photograph> <NFL-euronews-3> .
+ <http://example.org/Photographers> <http://xmlns.com/foaf/0.1/member> <http://example.org/PhilNoble> <NFL-euronews-3> .
+ <http://example.org/AquaticCategoryWinner> <http://schema.org/about> <http://example.org/TeamKazakhstanArtisticSwimming> <NFL-euronews-3> .
+ <http://example.org/WorldSportsPhotographyAwards2023> <http://schema.org/competitor> <http://example.org/Photographers> <NFL-euronews-3> .
+ <http://example.org/LeeWestwood> <http://schema.org/jobTitle> "Team captain"  <NFL-euronews-3> .
+ <http://example.org/DonnellWhittenburgHighBar> <http://schema.org/athlete> <http://example.org/DonnellWhittenburg> <NFL-euronews-3> .
+ <http://example.org/WorldSportsPhotographyAwards2023> <http://schema.org/award> <http://example.org/CricketCategoryWinner> <NFL-euronews-3> .
+ <http://example.org/TeamKazakhstanArtisticSwimming> <http://schema.org/event> <http://example.org/FinaWorldChampionships19thBudapest> <NFL-euronews-3> .
+ <http://example.org/WorldSportsPhotographyAwards2023> <http://schema.org/eventDate> "2023"  <NFL-euronews-3> .
+ <http://example.org/SupermanCategoryWinner> <http://schema.org/publisher> <http://example.org/TheGuardian> <NFL-euronews-3> .
+ <http://example.org/DonnellWhittenburgHighBar> <http://schema.org/event> <http://example.org/WorldArtisticGymnasticsChampionshipsLiverpool> <NFL-euronews-3> .
+ <http://example.org/MainWinner> <http://schema.org/creator> <http://example.org/PatrickSmith> <NFL-euronews-3> .
+ <http://example.org/WorldSportsPhotographyAwards2023> <http://schema.org/award> <http://example.org/MartialArtsCategoryWinner> <NFL-euronews-3> .
+ <http://example.org/WorldSportsPhotographyAwards2023> <http://schema.org/award> <http://example.org/MainWinner> <NFL-euronews-3> .
+ <http://example.org/WorldSportsPhotographyAwards2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Competition> <NFL-euronews-3> .
+ <http://example.org/Countries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <NFL-euronews-3> .
+ <http://example.org/Photographers> <http://xmlns.com/foaf/0.1/member> <http://example.org/DarrenBurns> <NFL-euronews-3> .
+ <http://example.org/WorldSportsPhotographyAwards2023> <http://schema.org/numberOfParticipants> "700"  <NFL-euronews-3> .
+ <http://example.org/Photographers> <http://xmlns.com/foaf/0.1/member> <http://example.org/JamesWardBreen> <NFL-euronews-3> .
+ <http://example.org/SkyDrive> <http://schema.org/athlete> <http://example.org/LeeWestwood> <NFL-euronews-3> .
+ <http://example.org/DonnellWhittenburgHighBar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsEvent> <NFL-euronews-3> .
+ <http://example.org/Photographers> <http://schema.org/nationality> <http://example.org/Countries> <NFL-euronews-3> .
+ <http://example.org/SkyDrive> <http://schema.org/eventStatus> "semi-finals"  <NFL-euronews-3> .
+ <http://example.org/SkyDrive> <http://schema.org/sportsEvent> <http://example.org/LIVGolfInvitationalMiami> <NFL-euronews-3> .
+ <http://example.org/Photographers> <http://xmlns.com/foaf/0.1/member> <http://example.org/TomJenkins> <NFL-euronews-3> .
+ <http://example.org/Photographers> <http://xmlns.com/foaf/0.1/member> <http://example.org/OctávioPassos> <NFL-euronews-3> .
+ <http://example.org/WorldSportsPhotographyAwards2023> <http://schema.org/award> <http://example.org/AmericanFootballCategoryWinner> <NFL-euronews-3> .
+ <http://example.org/SkyDrive> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NFL-euronews-3> .
+ <http://example.org/AquaticCategoryWinner> <http://schema.org/creator> <http://example.org/AnnaSzilagyi> <NFL-euronews-3> .
+ <http://example.org/TeamKazakhstan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <NFL-euronews-3> .
+ <http://example.org/MainWinner> <http://schema.org/about> <http://example.org/SkyDrive> <NFL-euronews-3> .
+ <http://example.org/WorldSportsPhotographyAwards2023> <http://schema.org/location> <http://example.org/Global> <NFL-euronews-3> .
+ <http://example.org/Photographers> <http://xmlns.com/foaf/0.1/member> <http://example.org/ScottBarbour> <NFL-euronews-3> .
+ <http://example.org/WorldSportsPhotographyAwards2023> <http://schema.org/award> <http://example.org/WaterCategoryWinner> <NFL-euronews-3> .
+ <http://example.org/WorldSportsPhotographyAwards2023> <http://schema.org/award> <http://example.org/SupermanCategoryWinner> <NFL-euronews-3> .
+ <http://example.org/WorldSportsPhotographyAwards2023> <http://schema.org/award> <http://example.org/AthleticsCategoryWinner> <NFL-euronews-3> .
+ <http://example.org/MainWinner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Photograph> <NFL-euronews-3> .
+ <http://example.org/LeeWestwood> <http://schema.org/memberOf> <http://example.org/MajesticksGC> <NFL-euronews-3> .
+ <http://example.org/Photographers> <http://xmlns.com/foaf/0.1/member> <http://example.org/KevinSabitus> <NFL-euronews-3> .
+ <http://example.org/Countries> <http://schema.org/numberOfItems> "70"  <NFL-euronews-3> .
+ <http://example.org/WorldSportsPhotographyAwards2023> <http://schema.org/award> <http://example.org/AquaticCategoryWinner> <NFL-euronews-3> .
+ <http://example.org/LIVGolfInvitationalMiami> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsEvent> <NFL-euronews-3> .
+ <http://example.org/Photographers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> <NFL-euronews-3> .
+ <http://example.org/AquaticCategoryWinner> <http://schema.org/publisher> <http://example.org/APPhoto> <NFL-euronews-3> .
+ <http://example.org/WorldSportsPhotographyAwards2023> <http://schema.org/award> <http://example.org/TennisCategoryWinner> <NFL-euronews-3> .
+ <http://example.org/DonnellWhittenburg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NFL-euronews-3> .
+ <http://example.org/FinaWorldChampionships19thBudapest> <http://schema.org/location> "Budapest, Hungary"  <NFL-euronews-3> .
+ <http://example.org/DonnellWhittenburg> <http://schema.org/nationality> "USA"  <NFL-euronews-3> .
+ <http://example.org/Photographers> <http://xmlns.com/foaf/0.1/member> <http://example.org/PhilipBrown> <NFL-euronews-3> .
+ <http://example.org/WorldSportsPhotographyAwards2023> <http://schema.org/award> <http://example.org/Formula1CategoryWinner> <NFL-euronews-3> .
+ <http://example.org/WorldSportsPhotographyAwards2023> <http://schema.org/award> <http://example.org/BoxingCategoryWinner> <NFL-euronews-3> .
+ <http://example.org/WorldSportsPhotographyAwards2023> <http://schema.org/award> <http://example.org/BaseballCategoryWinner> <NFL-euronews-3> .
+ <http://example.org/Photographers> <http://xmlns.com/foaf/0.1/member> <http://example.org/HowardLo> <NFL-euronews-3> .
+ <http://example.org/SupermanCategoryWinner> <http://schema.org/creator> <http://example.org/TomJenkins> <NFL-euronews-3> .
+ <http://example.org/AquaticCategoryWinner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Photograph> <NFL-euronews-3> .
+ <http://example.org/ontology#Football> <http://example.org/ontology#hasChange> <http://NFL-euronews-4.com/blank#nc6f44728fe7a4374b5c96ee893f93570b1>  <NFL-euronews-4> .
+ <http://example.org/ontology#Bournemouth> <http://example.org/ontology#canSpend> "more than 100 million euros"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-euronews-4> .
+ <http://example.org/ontology#PremierLeague> <http://example.org/ontology#describedAs> "most competitive league"  <NFL-euronews-4> .
+ <http://NFL-euronews-4.com/blank#nc6f44728fe7a4374b5c96ee893f93570b3> <http://example.org/ontology#bringsJoyTo> <http://example.org/ontology#Fans> <NFL-euronews-4> .
+ <http://example.org/ontology#FootballStrategy> <http://example.org/ontology#mayNeedRethinking> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NFL-euronews-4> .
+ <http://example.org/ontology#Formula1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Sport> <NFL-euronews-4> .
+ <http://NFL-euronews-4.com/blank#nc6f44728fe7a4374b5c96ee893f93570b6> <http://example.org/ontology#achievement> "winning La Liga since Valencia did in 2004"  <NFL-euronews-4> .
+ <http://NFL-euronews-4.com/blank#nc6f44728fe7a4374b5c96ee893f93570b6> <http://example.org/ontology#team> <http://example.org/ontology#AtleticoMadrid> <NFL-euronews-4> .
+ <http://example.org/ontology#NeilMellor> <http://example.org/ontology#isFormer> <http://example.org/ontology#PremierLeagueFootballer> <NFL-euronews-4> .
+ <http://example.org/ontology#Liverpool> <http://example.org/ontology#hasStruggled> <http://example.org/ontology#ThisSeason> <NFL-euronews-4> .
+ <http://example.org/ontology#MediaCityQatar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Organization> <NFL-euronews-4> .
+ <http://example.org/ontology#ExceptionToRule> <http://example.org/ontology#relatedTo> <http://example.org/ontology#FootballFansLoveForSport> <NFL-euronews-4> .
+ <http://example.org/ontology#PredictabilityInFootball> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Issue> <NFL-euronews-4> .
+ <http://example.org/ontology#FIFA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Organization> <NFL-euronews-4> .
+ <http://example.org/ontology#NFL> <http://example.org/ontology#operates> <http://example.org/ontology#DraftSystem> <NFL-euronews-4> .
+ <http://example.org/ontology#Chelsea> <http://example.org/ontology#hasStruggled> <http://example.org/ontology#ThisSeason> <NFL-euronews-4> .
+ <http://example.org/ontology#FIFA> <http://example.org/ontology#potentialForChange> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NFL-euronews-4> .
+ <http://example.org/ontology#Football> <http://example.org/ontology#hasTimeframe> "last 30 years"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-euronews-4> .
+ <http://NFL-euronews-4.com/blank#nc6f44728fe7a4374b5c96ee893f93570b6> <http://example.org/ontology#team> <http://example.org/ontology#RealMadrid> <NFL-euronews-4> .
+ <http://example.org/ontology#PredictabilityInFootball> <http://example.org/ontology#example> <http://NFL-euronews-4.com/blank#nc6f44728fe7a4374b5c96ee893f93570b6>  <NFL-euronews-4> .
+ <http://example.org/ontology#ModernDayFootball> <http://example.org/ontology#raisesQuestion> "Is the sport becoming less competitive?"  <NFL-euronews-4> .
+ <http://NFL-euronews-4.com/blank#nc6f44728fe7a4374b5c96ee893f93570b6> <http://example.org/ontology#team> <http://example.org/ontology#Barcelona> <NFL-euronews-4> .
+ <http://example.org/ontology#DraftSystem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#System> <NFL-euronews-4> .
+ <http://example.org/ontology#GilbertoSilva> <http://example.org/ontology#memberOf> <http://example.org/ontology#ArsenalsInvincibleTeam> <NFL-euronews-4> .
+ <http://example.org/ontology#NeilMellor> <http://example.org/ontology#explains> "Football goes in cycles in terms of who's at the top."  <NFL-euronews-4> .
+ <http://NFL-euronews-4.com/blank#nc6f44728fe7a4374b5c96ee893f93570b3> <http://example.org/ontology#activity> "scoring goals"  <NFL-euronews-4> .
+ <http://example.org/ontology#DesireToWin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Concept> <NFL-euronews-4> .
+ <http://example.org/ontology#UEFA> <http://example.org/ontology#potentialForChange> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NFL-euronews-4> .
+ <http://NFL-euronews-4.com/blank#nc6f44728fe7a4374b5c96ee893f93570b5> <http://example.org/ontology#achievement> "winning their 11th Bundesliga title in a row"  <NFL-euronews-4> .
+ <http://example.org/ontology#GilbertoSilva> <http://example.org/ontology#isFormer> <http://example.org/ontology#BrazilDefender> <NFL-euronews-4> .
+ <http://NFL-euronews-4.com/blank#nc6f44728fe7a4374b5c96ee893f93570b5> <http://example.org/ontology#team> <http://example.org/ontology#BayernMunich> <NFL-euronews-4> .
+ <http://example.org/ontology#Football> <http://example.org/ontology#hasChange> <http://NFL-euronews-4.com/blank#nc6f44728fe7a4374b5c96ee893f93570b2>  <NFL-euronews-4> .
+ <http://example.org/ontology#DraftSystem> <http://example.org/ontology#ensuresFairness> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NFL-euronews-4> .
+ <http://example.org/ontology#Bournemouth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FootballTeam> <NFL-euronews-4> .
+ <http://NFL-euronews-4.com/blank#nc6f44728fe7a4374b5c96ee893f93570b8> <http://example.org/ontology#implements> "cost cap"  <NFL-euronews-4> .
+ <http://example.org/ontology#DesireToWin> <http://example.org/ontology#resultsIn> <http://NFL-euronews-4.com/blank#nc6f44728fe7a4374b5c96ee893f93570b3>  <NFL-euronews-4> .
+ <http://example.org/ontology#ModernDayFootball> <http://example.org/ontology#associatedWith> <http://example.org/ontology#Finance> <NFL-euronews-4> .
+ <http://example.org/ontology#PremierLeague> <http://example.org/ontology#reason> "generates a lot of money"  <NFL-euronews-4> .
+ <http://example.org/ontology#AlexBatt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Person> <NFL-euronews-4> .
+ <http://example.org/ontology#PredictabilityInFootball> <http://example.org/ontology#example> <http://NFL-euronews-4.com/blank#nc6f44728fe7a4374b5c96ee893f93570b4>  <NFL-euronews-4> .
+ <http://NFL-euronews-4.com/blank#nc6f44728fe7a4374b5c96ee893f93570b1> <http://example.org/ontology#type> "tactical advancements"  <NFL-euronews-4> .
+ <http://example.org/ontology#AlexBatt> <http://example.org/ontology#isJournalistFor> <http://example.org/ontology#GiveMeSport> <NFL-euronews-4> .
+ <http://example.org/ontology#ModernDayFootball> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Concept> <NFL-euronews-4> .
+ <http://example.org/ontology#NeilMellor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Person> <NFL-euronews-4> .
+ <http://example.org/ontology#AlexBatt> <http://example.org/ontology#concern> "predictability of the season's outcome"  <NFL-euronews-4> .
+ <http://NFL-euronews-4.com/blank#nc6f44728fe7a4374b5c96ee893f93570b4> <http://example.org/ontology#achievement> "winning four out of the last five Premier League titles"  <NFL-euronews-4> .
+ <http://example.org/ontology#GilbertoSilva> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Person> <NFL-euronews-4> .
+ <http://example.org/ontology#Formula1> <http://example.org/ontology#innovation> <http://NFL-euronews-4.com/blank#nc6f44728fe7a4374b5c96ee893f93570b7>  <NFL-euronews-4> .
+ <http://example.org/ontology#NFL> <http://example.org/ontology#hasSalaryCap> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NFL-euronews-4> .
+ <http://example.org/ontology#Liverpool> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FootballTeam> <NFL-euronews-4> .
+ <http://example.org/ontology#FootballStrategy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Concept> <NFL-euronews-4> .
+ <http://NFL-euronews-4.com/blank#nc6f44728fe7a4374b5c96ee893f93570b7> <http://example.org/ontology#allows> "more wind tunnel time for lower finishing teams"  <NFL-euronews-4> .
+ <http://example.org/ontology#PredictabilityInFootball> <http://example.org/ontology#example> <http://NFL-euronews-4.com/blank#nc6f44728fe7a4374b5c96ee893f93570b5>  <NFL-euronews-4> .
+ <http://example.org/ontology#Formula1> <http://example.org/ontology#innovation> <http://NFL-euronews-4.com/blank#nc6f44728fe7a4374b5c96ee893f93570b8>  <NFL-euronews-4> .
+ <http://example.org/ontology#Bournemouth> <http://example.org/ontology#position> "towards the bottom of the table"  <NFL-euronews-4> .
+ <http://example.org/ontology#ExceptionToRule> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Concept> <NFL-euronews-4> .
+ <http://NFL-euronews-4.com/blank#nc6f44728fe7a4374b5c96ee893f93570b3> <http://example.org/ontology#bringsJoyTo> <http://example.org/ontology#Players> <NFL-euronews-4> .
+ <http://example.org/ontology#GilbertoSilva> <http://example.org/ontology#commentsOnChangesInFootball> "It was really, really competitive when I was there."  <NFL-euronews-4> .
+ <http://NFL-euronews-4.com/blank#nc6f44728fe7a4374b5c96ee893f93570b4> <http://example.org/ontology#team> <http://example.org/ontology#ManchesterCity> <NFL-euronews-4> .
+ <http://example.org/ontology#PremierLeague> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FootballLeague> <NFL-euronews-4> .
+ <http://example.org/ontology#Football> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Sport> <NFL-euronews-4> .
+ <http://example.org/ontology#DesireToWin> <http://example.org/ontology#sharedBy> <http://example.org/ontology#AllTeams> <NFL-euronews-4> .
+ <http://example.org/ontology#UEFA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Organization> <NFL-euronews-4> .
+ <http://example.org/ontology#NFL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Sport> <NFL-euronews-4> .
+ <http://NFL-euronews-4.com/blank#nc6f44728fe7a4374b5c96ee893f93570b2> <http://example.org/ontology#type> "increased global exposure"  <NFL-euronews-4> .
+ <http://example.org/ontology#Chelsea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FootballTeam> <NFL-euronews-4> .
+ <http://example.org/ontology/AirJordanPartnership> <http://www.w3.org/2000/01/rdf-schema#label> "Partnership with Air Jordan"  <NFL-euronews-5> .
+ <http://example.org/ontology/DavePowell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-euronews-5> .
+ <http://example.org/ontology/Reelgood> <http://xmlns.com/foaf/0.1/name> "Reelgood"  <NFL-euronews-5> .
+ <http://example.org/ontology/LiverpoolFC> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Liverpool> <NFL-euronews-5> .
+ <http://example.org/ontology/ManchesterCity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <NFL-euronews-5> .
+ <http://example.org/ontology/Vision2030> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Saudi_Arabia> <NFL-euronews-5> .
+ <http://example.org/ontology/AFCWrexham> <http://dbpedia.org/ontology/owner> <http://NFL-euronews-5.com/blank#n710ec9bef2e94d66821bdbc652651912b2>  <NFL-euronews-5> .
+ <http://example.org/ontology/AFCWrexham> <http://dbpedia.org/ontology/documentary> <http://example.org/ontology/WelcomeToWrexham> <NFL-euronews-5> .
+ <http://example.org/ontology/FootballClubDocumentaries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Concept> <NFL-euronews-5> .
+ <http://example.org/ontology/FootballClubDocumentaries> <http://www.w3.org/2000/01/rdf-schema#label> "Football club documentaries"  <NFL-euronews-5> .
+ <http://example.org/ontology/RealMadrid> <http://dbpedia.org/ontology/nickname> "Galacticos"  <NFL-euronews-5> .
+ <http://example.org/ontology/ClubBranding> <http://www.w3.org/2000/01/rdf-schema#comment> "In the modern world, growing a club's brand has become paramount."  <NFL-euronews-5> .
+ <http://example.org/ontology/DavePowell> <http://xmlns.com/foaf/0.1/name> "Dave Powell"  <NFL-euronews-5> .
+ <http://example.org/ontology/AirJordanPartnership> <http://www.w3.org/2000/01/rdf-schema#comment> "Resulting in highly sought-after kits."  <NFL-euronews-5> .
+ <http://example.org/ontology/RealMadrid> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Madrid> <NFL-euronews-5> .
+ <http://example.org/ontology/DavePowell> <http://dbpedia.org/ontology/occupation> "Business of Football writer for The Liverpool Echo"  <NFL-euronews-5> .
+ <http://example.org/ontology/Reelgood> <http://dbpedia.org/ontology/serviceType> "streaming aggregator"  <NFL-euronews-5> .
+ <http://example.org/ontology/MohammedHamdi> <http://dbpedia.org/ontology/occupation> "Former Ado Den Haag CEO"  <NFL-euronews-5> .
+ <http://NFL-euronews-5.com/blank#n710ec9bef2e94d66821bdbc652651912b1> <http://xmlns.com/foaf/0.1/name> "Ryan Reynolds"  <NFL-euronews-5> .
+ <http://example.org/ontology/AFCWrexham> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Wrexham> <NFL-euronews-5> .
+ <http://example.org/ontology/AlNassr> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Saudi_Arabia> <NFL-euronews-5> .
+ <http://example.org/ontology/Vision2030> <http://www.w3.org/2000/01/rdf-schema#label> "Vision 2030"  <NFL-euronews-5> .
+ <http://example.org/ontology/WelcomeToWrexham> <http://dbpedia.org/ontology/broadcaster> "Disney+"  <NFL-euronews-5> .
+ <http://example.org/ontology/ClubBranding> <http://www.w3.org/2000/01/rdf-schema#label> "Growing a club's brand"  <NFL-euronews-5> .
+ <http://example.org/ontology/MohammedHamdi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-euronews-5> .
+ <http://example.org/ontology/LiverpoolFC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <NFL-euronews-5> .
+ <http://example.org/ontology/MohammedHamdi> <http://xmlns.com/foaf/0.1/name> "Mohammed Hamdi"  <NFL-euronews-5> .
+ <http://NFL-euronews-5.com/blank#n710ec9bef2e94d66821bdbc652651912b2> <http://xmlns.com/foaf/0.1/name> "Rob McElhenney"  <NFL-euronews-5> .
+ <http://example.org/ontology/WelcomeToWrexham> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow> <NFL-euronews-5> .
+ <http://example.org/ontology/AlNassr> <http://dbpedia.org/ontology/player> <http://dbpedia.org/resource/Cristiano_Ronaldo> <NFL-euronews-5> .
+ <http://example.org/ontology/RealMadrid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <NFL-euronews-5> .
+ <http://example.org/ontology/BarcelonaFC> <http://dbpedia.org/ontology/nickname> "Mes Que Un Club"@en  <NFL-euronews-5> .
+ <http://example.org/ontology/Vision2030> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Initiative> <NFL-euronews-5> .
+ <http://example.org/ontology/BarcelonaFC> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Barcelona> <NFL-euronews-5> .
+ <http://example.org/ontology/LiverpoolFC> <http://dbpedia.org/ontology/nickname> "This Means More"@en  <NFL-euronews-5> .
+ <http://example.org/ontology/AFCWrexham> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <NFL-euronews-5> .
+ <http://example.org/ontology/AFCWrexham> <http://dbpedia.org/ontology/owner> <http://NFL-euronews-5.com/blank#n710ec9bef2e94d66821bdbc652651912b1>  <NFL-euronews-5> .
+ <http://example.org/ontology/MediaCityQatarFootball> <http://dbpedia.org/ontology/partner> <http://example.org/ontology/FootballIndustry> <NFL-euronews-5> .
+ <http://example.org/ontology/NouCamp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Stadium> <NFL-euronews-5> .
+ <http://dbpedia.org/resource/Cristiano_Ronaldo> <http://dbpedia.org/ontology/team> <http://example.org/ontology/AlNassr> <NFL-euronews-5> .
+ <http://example.org/ontology/ParisSaintGermainFC> <http://dbpedia.org/ontology/partnership> <http://example.org/ontology/AirJordanPartnership> <NFL-euronews-5> .
+ <http://example.org/ontology/FootballClubDocumentaries> <http://www.w3.org/2000/01/rdf-schema#comment> "Provide a behind-the-scenes glimpse into football clubs."  <NFL-euronews-5> .
+ <http://example.org/ontology/AlNassr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <NFL-euronews-5> .
+ <http://example.org/ontology/FootballIndustry> <http://dbpedia.org/ontology/product> "Football"  <NFL-euronews-5> .
+ <http://example.org/ontology/FootballIndustry> <http://dbpedia.org/ontology/revenue> "multi-billion euro"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-euronews-5> .
+ <http://example.org/ontology/ManchesterCity> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Manchester> <NFL-euronews-5> .
+ <http://example.org/ontology/WelcomeToWrexham> <http://dbpedia.org/ontology/popularity> "7th most watched programme upon all streaming platforms on the week it launched"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-euronews-5> .
+ <http://dbpedia.org/resource/Cristiano_Ronaldo> <http://xmlns.com/foaf/0.1/name> "Cristiano Ronaldo"  <NFL-euronews-5> .
+ <http://example.org/ontology/BarcelonaFC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <NFL-euronews-5> .
+ <http://example.org/ontology/NouCamp> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Barcelona> <NFL-euronews-5> .
+ <http://example.org/ontology/MediaCityQatarFootball> <http://xmlns.com/foaf/0.1/name> "Media City Qatar - Football"  <NFL-euronews-5> .
+ <http://example.org/ontology/AirJordanPartnership> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Concept> <NFL-euronews-5> .
+ <http://dbpedia.org/resource/Cristiano_Ronaldo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerPlayer> <NFL-euronews-5> .
+ <http://example.org/ontology/ClubBranding> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Concept> <NFL-euronews-5> .
+ <http://example.org/ontology/MediaCityQatarFootball> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <NFL-euronews-5> .
+ <http://example.org/ontology/Reelgood> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Service> <NFL-euronews-5> .
+ <http://example.org/ontology/ParisSaintGermainFC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <NFL-euronews-5> .
+ <http://example.org/ontology/BusinessSideOfFootball> <http://www.w3.org/2000/01/rdf-schema#label> "Business aspect of football"  <NFL-euronews-5> .
+ <http://example.org/ontology/BusinessSideOfFootball> <http://www.w3.org/2000/01/rdf-schema#comment> "The business aspect of football now wields a significant influence."  <NFL-euronews-5> .
+ <http://example.org/ontology/NouCamp> <http://xmlns.com/foaf/0.1/depiction> <http://example.org/image/nou_camp.jpg> <NFL-euronews-5> .
+ <http://example.org/ontology/FootballIndustry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Industry> <NFL-euronews-5> .
+ <http://example.org/ontology/BusinessSideOfFootball> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Concept> <NFL-euronews-5> .
+ <http://example.org/PortraitOfOJSimpson> <http://schema.org/dateCreated> "1977"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NFL-euronews-6> .
+ <http://example.org/RichardWeisman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NFL-euronews-6> .
+ <http://example.org/OhioState> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <NFL-euronews-6> .
+ <http://example.org/PortraitOfOJSimpson> <http://schema.org/subject> <http://example.org/OJSimpson> <NFL-euronews-6> .
+ <http://example.org/AndyWarhol> <http://schema.org/birthDate> "1928-08-06"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-euronews-6> .
+ <http://example.org/WarholDiaryEntry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <NFL-euronews-6> .
+ <http://example.org/WarholDiaryEntry> <http://schema.org/text> "He had a five-day beard and I thought the pictures would be awful."  <NFL-euronews-6> .
+ <http://example.org/PortraitOfOJSimpson> <http://schema.org/creator> <http://example.org/AndyWarhol> <NFL-euronews-6> .
+ <http://example.org/RichardWeisman> <http://schema.org/name> "Richard Weisman"  <NFL-euronews-6> .
+ <http://example.org/WarholDiaryEntry> <http://schema.org/datePublished> "1977"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NFL-euronews-6> .
+ <http://example.org/OhioState> <http://schema.org/name> "Ohio"  <NFL-euronews-6> .
+ <http://example.org/DoubleMurderCase> <http://schema.org/name> "O.J. Simpson's double murder case"  <NFL-euronews-6> .
+ <http://example.org/OJSimpsonParole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NFL-euronews-6> .
+ <http://example.org/AndyWarhol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NFL-euronews-6> .
+ <http://example.org/LosAngelesCourt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GovernmentBuilding> <NFL-euronews-6> .
+ <http://example.org/AndyWarhol> <http://schema.org/deathDate> "1987-02-22"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-euronews-6> .
+ <http://example.org/OJSimpson> <http://schema.org/name> "O.J. Simpson"  <NFL-euronews-6> .
+ <http://example.org/PortraitAuction2019> <http://schema.org/offers> <http://example.org/AuctionOffer2019> <NFL-euronews-6> .
+ <http://example.org/ArmedRobberyCase> <http://schema.org/location> <http://example.org/LasVegasCasinoHotel> <NFL-euronews-6> .
+ <http://example.org/AndyWarhol> <http://schema.org/name> "Andy Warhol"  <NFL-euronews-6> .
+ <http://example.org/Christies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <NFL-euronews-6> .
+ <http://example.org/PhillipsAuctionHouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <NFL-euronews-6> .
+ <http://example.org/Christies> <http://schema.org/name> "Christie’s"  <NFL-euronews-6> .
+ <http://example.org/AthletesSeries> <http://schema.org/creator> <http://example.org/AndyWarhol> <NFL-euronews-6> .
+ <http://example.org/AndyWarhol> <http://schema.org/jobTitle> "American pop art icon"  <NFL-euronews-6> .
+ <http://example.org/PortraitAuction2019> <http://schema.org/location> <http://example.org/Christies> <NFL-euronews-6> .
+ <http://example.org/ArmedRobberyCase> <http://schema.org/startDate> "2007"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NFL-euronews-6> .
+ <http://example.org/ProFootballHallofFame> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Museum> <NFL-euronews-6> .
+ <http://example.org/OJSimpsonParole> <http://schema.org/startDate> "2021-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <NFL-euronews-6> .
+ <http://example.org/OJSimpson> <http://schema.org/jobTitle> "US football superstar"  <NFL-euronews-6> .
+ <http://example.org/PortraitOfOJSimpson> <http://schema.org/isSignedBy> <http://example.org/AndyWarhol> <NFL-euronews-6> .
+ <http://example.org/OJSimpsonParole> <http://schema.org/name> "O.J. Simpson's parole discharge"  <NFL-euronews-6> .
+ <http://example.org/PortraitOfOJSimpson> <http://schema.org/material> "silkscreen"  <NFL-euronews-6> .
+ <http://example.org/PortraitAuction2019> <http://schema.org/name> "Auction of Warhol's Simpson portrait"  <NFL-euronews-6> .
+ <http://example.org/ArmedRobberyCase> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NFL-euronews-6> .
+ <http://example.org/ProFootballHallofFame> <http://schema.org/location> <http://example.org/OhioState> <NFL-euronews-6> .
+ <http://example.org/PortraitOfOJSimpson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/VisualArtwork> <NFL-euronews-6> .
+ <http://example.org/DoubleMurderCase> <http://schema.org/startDate> "1995"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NFL-euronews-6> .
+ <http://example.org/AuctionOffer2019> <http://schema.org/price> "687000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <NFL-euronews-6> .
+ <http://example.org/AthletesSeries> <http://schema.org/name> "Athletes"  <NFL-euronews-6> .
+ <http://example.org/PortraitAuctionUpcoming> <http://schema.org/startDate> "2023-05-16"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-euronews-6> .
+ <http://example.org/AuctionOfferUpcoming> <http://schema.org/priceCurrency> "USD"  <NFL-euronews-6> .
+ <http://example.org/LasVegasCasinoHotel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Hotel> <NFL-euronews-6> .
+ <http://example.org/AuctionOffer2019> <http://schema.org/priceCurrency> "USD"  <NFL-euronews-6> .
+ <http://example.org/ArmedRobberyCase> <http://schema.org/name> "O.J. Simpson's armed robbery case"  <NFL-euronews-6> .
+ <http://example.org/PortraitOfOJSimpson> <http://schema.org/auction> <http://example.org/PhillipsAuctionHouse> <NFL-euronews-6> .
+ <http://example.org/PortraitAuctionUpcoming> <http://schema.org/location> <http://example.org/PhillipsAuctionHouse> <NFL-euronews-6> .
+ <http://example.org/RichardWeisman> <http://schema.org/friend> <http://example.org/AndyWarhol> <NFL-euronews-6> .
+ <http://example.org/AthletesSeries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWorkSeries> <NFL-euronews-6> .
+ <http://example.org/OJSimpson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NFL-euronews-6> .
+ <http://example.org/PhillipsAuctionHouse> <http://schema.org/name> "Phillips auction house"  <NFL-euronews-6> .
+ <http://example.org/DoubleMurderCase> <http://schema.org/location> <http://example.org/LosAngelesCourt> <NFL-euronews-6> .
+ <http://example.org/PortraitAuction2019> <http://schema.org/startDate> "2019"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NFL-euronews-6> .
+ <http://example.org/LasVegas> <http://schema.org/name> "Las Vegas"  <NFL-euronews-6> .
+ <http://example.org/ProFootballHallofFame> <http://schema.org/name> "Pro Football Hall of Fame"  <NFL-euronews-6> .
+ <http://example.org/PortraitAuctionUpcoming> <http://schema.org/name> "Upcoming auction of Warhol's Simpson portrait"  <NFL-euronews-6> .
+ <http://example.org/PortraitOfOJSimpson> <http://schema.org/artEdition> "11"  <NFL-euronews-6> .
+ <http://example.org/AuctionOfferUpcoming> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> <NFL-euronews-6> .
+ <http://example.org/AthletesSeries> <http://schema.org/about> <http://schema.org/SportsPerson> <NFL-euronews-6> .
+ <http://example.org/PortraitAuction2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NFL-euronews-6> .
+ <http://example.org/OJSimpsonParole> <http://schema.org/location> <http://example.org/LasVegas> <NFL-euronews-6> .
+ <http://example.org/AuctionOffer2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> <NFL-euronews-6> .
+ <http://example.org/WarholDiaryEntry> <http://schema.org/creator> <http://example.org/AndyWarhol> <NFL-euronews-6> .
+ <http://example.org/DoubleMurderCase> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NFL-euronews-6> .
+ <http://example.org/AuctionOfferUpcoming> <http://schema.org/priceRange> "300000-500000"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-euronews-6> .
+ <http://example.org/LosAngelesCourt> <http://schema.org/name> "Los Angeles court"  <NFL-euronews-6> .
+ <http://example.org/PortraitAuctionUpcoming> <http://schema.org/offers> <http://example.org/AuctionOfferUpcoming> <NFL-euronews-6> .
+ <http://example.org/OJSimpson> <http://schema.org/birthDate> "1947-07-09"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-euronews-6> .
+ <http://example.org/PortraitOfOJSimpson> <http://schema.org/isSignedBy> <http://example.org/OJSimpson> <NFL-euronews-6> .
+ <http://example.org/PortraitAuctionUpcoming> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NFL-euronews-6> .
+ <http://example.org/LasVegas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/City> <NFL-euronews-6> .
+ <http://example.org/LasVegasCasinoHotel> <http://schema.org/name> "off-strip Las Vegas casino hotel"  <NFL-euronews-6> .
+ <http://pulitzer.org/terms/Lori_Hinnant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-euronews-7> .
+ <http://pulitzer.org/terms/Mstyslav_Chernov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-euronews-7> .
+ <http://pulitzer.org/terms/PulitzerPrizes> <http://dbpedia.org/ontology/awardDiscipline> "journalism"  <NFL-euronews-7> .
+ <http://pulitzer.org/terms/AP_Mariupol_Team> <http://xmlns.com/foaf/0.1/member> <http://pulitzer.org/terms/Vasilisa_Stepanenko> <NFL-euronews-7> .
+ <http://pulitzer.org/terms/Lori_Hinnant> <http://xmlns.com/foaf/0.1/name> "Lori Hinnant"  <NFL-euronews-7> .
+ <http://pulitzer.org/terms/BreakingNewsReporting2022> <http://dbpedia.org/ontology/awardWinner> <http://dbpedia.org/resource/Los_Angeles_Times> <NFL-euronews-7> .
+ <http://pulitzer.org/terms/Omar_Opera> <http://dbpedia.org/ontology/award> <http://pulitzer.org/terms/PulitzerPrizes> <NFL-euronews-7> .
+ <http://pulitzer.org/terms/Omar_Opera> <http://dbpedia.org/ontology/awardCategory> "MUSIC"  <NFL-euronews-7> .
+ <http://pulitzer.org/terms/AP_Mariupol_Team> <http://xmlns.com/foaf/0.1/member> <http://pulitzer.org/terms/Mstyslav_Chernov> <NFL-euronews-7> .
+ <http://pulitzer.org/terms/DemonCopperhead> <http://dbpedia.org/ontology/literaryGenre> "class-conscious novel"  <NFL-euronews-7> .
+ <http://pulitzer.org/terms/PublicService2022> <http://dbpedia.org/ontology/awardCategory> "PUBLIC SERVICE"  <NFL-euronews-7> .
+ <http://pulitzer.org/terms/BreakingNewsReporting2022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> <NFL-euronews-7> .
+ <http://pulitzer.org/terms/2022> <http://dbpedia.org/ontology/award> <http://pulitzer.org/terms/PulitzerPrizes> <NFL-euronews-7> .
+ <http://pulitzer.org/terms/DemonCopperhead> <http://dbpedia.org/ontology/awardYear> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NFL-euronews-7> .
+ <http://pulitzer.org/terms/Lori_Hinnant> <http://schema.org/jobTitle> "reporter"  <NFL-euronews-7> .
+ <http://pulitzer.org/terms/BreakingNewsReporting2022> <http://dbpedia.org/ontology/awardCategory> "BREAKING NEWS REPORTING"  <NFL-euronews-7> .
+ <http://pulitzer.org/terms/AP_Mariupol_Team> <http://xmlns.com/foaf/0.1/member> <http://pulitzer.org/terms/Evgeniy_Maloletka> <NFL-euronews-7> .
+ <http://pulitzer.org/terms/Vasilisa_Stepanenko> <http://xmlns.com/foaf/0.1/name> "Vasilisa Stepanenko"  <NFL-euronews-7> .
+ <http://pulitzer.org/terms/PublicService2022> <http://dbpedia.org/ontology/awardPrizeMoney> "gold medal"  <NFL-euronews-7> .
+ <http://pulitzer.org/terms/Mstyslav_Chernov> <http://schema.org/jobTitle> "videojournalist"  <NFL-euronews-7> .
+ <http://pulitzer.org/terms/PublicService2022> <http://dbpedia.org/ontology/awardReason> "courageous reporting from the besieged city of Mariupol about the slaughter of civilians in Russia’s invasion of Ukraine"  <NFL-euronews-7> .
+ <http://pulitzer.org/terms/Omar_Opera> <http://dbpedia.org/ontology/composer> <http://dbpedia.org/resource/Michael_Abel> <NFL-euronews-7> .
+ <http://pulitzer.org/terms/PulitzerPrizes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> <NFL-euronews-7> .
+ <http://pulitzer.org/terms/PublicService2022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> <NFL-euronews-7> .
+ <http://pulitzer.org/terms/DemonCopperhead> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Book> <NFL-euronews-7> .
+ <http://pulitzer.org/terms/2022> <http://schema.org/description> "The 2022 Pulitzer Prize winners have been announced."  <NFL-euronews-7> .
+ <http://pulitzer.org/terms/Evgeniy_Maloletka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-euronews-7> .
+ <http://pulitzer.org/terms/Omar_Opera> <http://dbpedia.org/ontology/abstract> "An innovative and compelling opera about enslaved people brought to North America from Muslim countries."  <NFL-euronews-7> .
+ <http://pulitzer.org/terms/Omar_Opera> <http://dbpedia.org/ontology/awardYear> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NFL-euronews-7> .
+ <http://pulitzer.org/terms/BreakingNewsReporting2022> <http://dbpedia.org/ontology/awardPrizeMoney> "15000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <NFL-euronews-7> .
+ <http://pulitzer.org/terms/Vasilisa_Stepanenko> <http://schema.org/jobTitle> "video producer"  <NFL-euronews-7> .
+ <http://pulitzer.org/terms/PublicService2022> <http://dbpedia.org/ontology/awardWinner> <http://pulitzer.org/terms/AP_Mariupol_Team> <NFL-euronews-7> .
+ <http://pulitzer.org/terms/2022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <NFL-euronews-7> .
+ <http://pulitzer.org/terms/DemonCopperhead> <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/Barbara_Kingsolver> <NFL-euronews-7> .
+ <http://pulitzer.org/terms/2022> <http://schema.org/startDate> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NFL-euronews-7> .
+ <http://pulitzer.org/terms/DemonCopperhead> <http://dbpedia.org/ontology/award> <http://pulitzer.org/terms/PulitzerPrizes> <NFL-euronews-7> .
+ <http://pulitzer.org/terms/Evgeniy_Maloletka> <http://xmlns.com/foaf/0.1/name> "Evgeniy Maloletka"  <NFL-euronews-7> .
+ <http://pulitzer.org/terms/DemonCopperhead> <http://dbpedia.org/ontology/abstract> "A masterful recasting of ‘David Copperfield,’ set in Appalachia."  <NFL-euronews-7> .
+ <http://pulitzer.org/terms/Evgeniy_Maloletka> <http://schema.org/jobTitle> "photographer"  <NFL-euronews-7> .
+ <http://pulitzer.org/terms/Lori_Hinnant> <http://dbpedia.org/ontology/workLocation> <http://dbpedia.org/resource/Paris> <NFL-euronews-7> .
+ <http://pulitzer.org/terms/AP_Mariupol_Team> <http://xmlns.com/foaf/0.1/name> "The Associated Press Mariupol team"  <NFL-euronews-7> .
+ <http://pulitzer.org/terms/DemonCopperhead> <http://dbpedia.org/ontology/awardCategory> "FICTION"  <NFL-euronews-7> .
+ <http://pulitzer.org/terms/PulitzerPrizes> <http://dbpedia.org/ontology/awardDate> "1917"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NFL-euronews-7> .
+ <http://pulitzer.org/terms/AP_Mariupol_Team> <http://xmlns.com/foaf/0.1/member> <http://pulitzer.org/terms/Lori_Hinnant> <NFL-euronews-7> .
+ <http://pulitzer.org/terms/Omar_Opera> <http://dbpedia.org/ontology/composer> <http://dbpedia.org/resource/Rhiannon_Giddens> <NFL-euronews-7> .
+ <http://pulitzer.org/terms/Omar_Opera> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalWork> <NFL-euronews-7> .
+ <http://pulitzer.org/terms/PulitzerPrizes> <http://dbpedia.org/ontology/awardDiscipline> "arts"  <NFL-euronews-7> .
+ <http://pulitzer.org/terms/AP_Mariupol_Team> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> <NFL-euronews-7> .
+ <http://pulitzer.org/terms/Vasilisa_Stepanenko> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-euronews-7> .
+ <http://pulitzer.org/terms/Mstyslav_Chernov> <http://xmlns.com/foaf/0.1/name> "Mstyslav Chernov"  <NFL-euronews-7> .
+ <http://example.org/ontology/RaynellMorris> <http://example.org/ontology/boardMembership> <http://example.org/ontology/FriendsOfToki> <NFL-euronews-8> .
+ <http://example.org/ontology/JimIrsay> <http://example.org/ontology/philanthropicInvolvement> <http://example.org/ontology/LolitasJourneyToFreedom> <NFL-euronews-8> .
+ <http://example.org/ontology/WorldsSmallestOrcaTank> <http://example.org/ontology/width> "10 metres"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-euronews-8> .
+ <http://example.org/ontology/CharlesVinick> <http://example.org/ontology/role> <http://NFL-euronews-8.com/blank#nd4a29981d4a946479b7517817990bb29b10>  <NFL-euronews-8> .
+ <http://NFL-euronews-8.com/blank#nd4a29981d4a946479b7517817990bb29b8> <http://example.org/ontology/objective> "release of Lolita"  <NFL-euronews-8> .
+ <http://example.org/ontology/FriendsOfToki> <http://example.org/ontology/name> "Friends of Toki"  <NFL-euronews-8> .
+ <http://NFL-euronews-8.com/blank#nd4a29981d4a946479b7517817990bb29b3> <http://example.org/ontology/position> "elder"  <NFL-euronews-8> .
+ <http://example.org/ontology/OceanSun> <http://example.org/ontology/name> "Ocean Sun"  <NFL-euronews-8> .
+ <http://example.org/ontology/TheDolphinCompany> <http://example.org/ontology/parkCount> "27"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-euronews-8> .
+ <http://example.org/ontology/Lolita> <http://example.org/ontology/captivityDuration> "more than 50 years"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-euronews-8> .
+ <http://example.org/ontology/JaredGoodman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Person> <NFL-euronews-8> .
+ <http://NFL-euronews-8.com/blank#nd4a29981d4a946479b7517817990bb29b3> <http://example.org/ontology/tribe> <http://example.org/ontology/LummiIndianTribe> <NFL-euronews-8> .
+ <http://example.org/ontology/ReleasePlan> <http://example.org/ontology/regulatoryApprovalRequired> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NFL-euronews-8> .
+ <http://example.org/ontology/CharlesVinick> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Person> <NFL-euronews-8> .
+ <http://example.org/ontology/Lolita> <http://example.org/ontology/livingCondition> <http://example.org/ontology/WorldsSmallestOrcaTank> <NFL-euronews-8> .
+ <http://NFL-euronews-8.com/blank#nd4a29981d4a946479b7517817990bb29b6> <http://example.org/ontology/destination> <http://example.org/ontology/OceanSanctuary> <NFL-euronews-8> .
+ <http://example.org/ontology/RaynellMorris> <http://example.org/ontology/name> "Raynell Morris"  <NFL-euronews-8> .
+ <http://example.org/ontology/MiamiSeaquarium> <http://example.org/ontology/yearOpened> "1970"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-euronews-8> .
+ <http://example.org/ontology/WhaleSanctuaryProject> <http://example.org/ontology/executiveDirector> <http://example.org/ontology/CharlesVinick> <NFL-euronews-8> .
+ <http://example.org/ontology/Lolita> <http://example.org/ontology/age> "57"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-euronews-8> .
+ <http://example.org/ontology/OceanSanctuary> <http://example.org/ontology/location> "waters between Washington and Canada"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-euronews-8> .
+ <http://example.org/ontology/ReleasePlan> <http://example.org/ontology/preparation> <http://NFL-euronews-8.com/blank#nd4a29981d4a946479b7517817990bb29b7>  <NFL-euronews-8> .
+ <http://example.org/ontology/PETA> <http://example.org/ontology/campaigns> <http://NFL-euronews-8.com/blank#nd4a29981d4a946479b7517817990bb29b8>  <NFL-euronews-8> .
+ <http://example.org/ontology/Lolita> <http://example.org/ontology/associatedTribe> <http://example.org/ontology/LummiIndianTribe> <NFL-euronews-8> .
+ <http://NFL-euronews-8.com/blank#nd4a29981d4a946479b7517817990bb29b1> <http://example.org/ontology/timePeriod> "last year"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-euronews-8> .
+ <http://example.org/ontology/ReleasePlan> <http://example.org/ontology/careLevel> "24-hour care"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-euronews-8> .
+ <http://example.org/ontology/TheDolphinCompany> <http://example.org/ontology/name> "The Dolphin Company"  <NFL-euronews-8> .
+ <http://example.org/ontology/IndianapolisColts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/SportsTeam> <NFL-euronews-8> .
+ <http://example.org/ontology/Lolita> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Orca> <NFL-euronews-8> .
+ <http://example.org/ontology/MiamiSeaquarium> <http://example.org/ontology/visitorCount> "huge numbers"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-euronews-8> .
+ <http://example.org/ontology/Lolita> <http://example.org/ontology/name> "Lolita"  <NFL-euronews-8> .
+ <http://NFL-euronews-8.com/blank#nd4a29981d4a946479b7517817990bb29b2> <http://example.org/ontology/mother> <http://example.org/ontology/OceanSun> <NFL-euronews-8> .
+ <http://example.org/ontology/LummiIndianTribe> <http://example.org/ontology/tribeName> "Lummi Indian Tribe"  <NFL-euronews-8> .
+ <http://example.org/ontology/JaredGoodman> <http://example.org/ontology/name> "Jared Goodman"  <NFL-euronews-8> .
+ <http://example.org/ontology/WorldsSmallestOrcaTank> <http://example.org/ontology/length> "24 metres"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-euronews-8> .
+ <http://example.org/ontology/Lolita> <http://example.org/ontology/associatedNonProfit> <http://example.org/ontology/FriendsOfToki> <NFL-euronews-8> .
+ <http://example.org/ontology/RaynellMorris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Person> <NFL-euronews-8> .
+ <http://example.org/ontology/Lolita> <http://example.org/ontology/plannedReleaseLocation> <http://example.org/ontology/PacificOcean> <NFL-euronews-8> .
+ <http://example.org/ontology/ReleasePlan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Plan> <NFL-euronews-8> .
+ <http://example.org/ontology/Lolita> <http://example.org/ontology/healthStatus> <http://NFL-euronews-8.com/blank#nd4a29981d4a946479b7517817990bb29b1>  <NFL-euronews-8> .
+ <http://example.org/ontology/CharlesVinick> <http://example.org/ontology/name> "Charles Vinick"  <NFL-euronews-8> .
+ <http://example.org/ontology/JaredGoodman> <http://example.org/ontology/role> <http://NFL-euronews-8.com/blank#nd4a29981d4a946479b7517817990bb29b9>  <NFL-euronews-8> .
+ <http://example.org/ontology/OceanSanctuary> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Sanctuary> <NFL-euronews-8> .
+ <http://example.org/ontology/ReleasePlan> <http://example.org/ontology/cost> "€18.4m"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-euronews-8> .
+ <http://NFL-euronews-8.com/blank#nd4a29981d4a946479b7517817990bb29b6> <http://example.org/ontology/transportation> "plane"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-euronews-8> .
+ <http://example.org/ontology/Lolita> <http://example.org/ontology/performingLocation> <http://example.org/ontology/MiamiSeaquarium> <NFL-euronews-8> .
+ <http://example.org/ontology/LPod> <http://example.org/ontology/name> "L pod"  <NFL-euronews-8> .
+ <http://example.org/ontology/FriendsOfToki> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/AnimalRightsGroup> <NFL-euronews-8> .
+ <http://example.org/ontology/RaynellMorris> <http://example.org/ontology/role> <http://NFL-euronews-8.com/blank#nd4a29981d4a946479b7517817990bb29b3>  <NFL-euronews-8> .
+ <http://example.org/ontology/LummiIndianTribe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Tribe> <NFL-euronews-8> .
+ <http://example.org/ontology/MiamiSeaquarium> <http://example.org/ontology/name> "The Miami Seaquarium"  <NFL-euronews-8> .
+ <http://example.org/ontology/PETA> <http://example.org/ontology/name> "PETA"  <NFL-euronews-8> .
+ <http://example.org/ontology/PETA> <http://example.org/ontology/vicePresident> <http://example.org/ontology/JaredGoodman> <NFL-euronews-8> .
+ <http://example.org/ontology/Lolita> <http://example.org/ontology/family> <http://NFL-euronews-8.com/blank#nd4a29981d4a946479b7517817990bb29b2>  <NFL-euronews-8> .
+ <http://example.org/ontology/OceanSun> <http://example.org/ontology/clan> <http://example.org/ontology/LPod> <NFL-euronews-8> .
+ <http://example.org/ontology/WhaleSanctuaryProject> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Project> <NFL-euronews-8> .
+ <http://NFL-euronews-8.com/blank#nd4a29981d4a946479b7517817990bb29b5> <http://example.org/ontology/team> <http://example.org/ontology/IndianapolisColts> <NFL-euronews-8> .
+ <http://NFL-euronews-8.com/blank#nd4a29981d4a946479b7517817990bb29b9> <http://example.org/ontology/organization> <http://example.org/ontology/PETA> <NFL-euronews-8> .
+ <http://example.org/ontology/LummiIndianTribe> <http://example.org/ontology/location> "Washington"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-euronews-8> .
+ <http://NFL-euronews-8.com/blank#nd4a29981d4a946479b7517817990bb29b7> <http://example.org/ontology/location> <http://example.org/ontology/OceanSanctuary> <NFL-euronews-8> .
+ <http://example.org/ontology/OceanSun> <http://example.org/ontology/estimatedAge> "more than 90 years old"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-euronews-8> .
+ <http://example.org/ontology/JimIrsay> <http://example.org/ontology/role> <http://NFL-euronews-8.com/blank#nd4a29981d4a946479b7517817990bb29b5>  <NFL-euronews-8> .
+ <http://example.org/ontology/LPod> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/OrcaClan> <NFL-euronews-8> .
+ <http://NFL-euronews-8.com/blank#nd4a29981d4a946479b7517817990bb29b4> <http://example.org/ontology/countries> "Mexico, Argentina, the Caribbean, Italy"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-euronews-8> .
+ <http://NFL-euronews-8.com/blank#nd4a29981d4a946479b7517817990bb29b10> <http://example.org/ontology/position> "Executive Director"  <NFL-euronews-8> .
+ <http://example.org/ontology/ReleasePlan> <http://example.org/ontology/timeFrame> "18 to 24 months"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-euronews-8> .
+ <http://example.org/ontology/JimIrsay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Person> <NFL-euronews-8> .
+ <http://example.org/ontology/ReleasePlan> <http://example.org/ontology/method> <http://NFL-euronews-8.com/blank#nd4a29981d4a946479b7517817990bb29b6>  <NFL-euronews-8> .
+ <http://example.org/ontology/PETA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/AnimalRightsOrganization> <NFL-euronews-8> .
+ <http://example.org/ontology/JimIrsay> <http://example.org/ontology/name> "Jim Irsay"  <NFL-euronews-8> .
+ <http://NFL-euronews-8.com/blank#nd4a29981d4a946479b7517817990bb29b10> <http://example.org/ontology/project> <http://example.org/ontology/WhaleSanctuaryProject> <NFL-euronews-8> .
+ <http://NFL-euronews-8.com/blank#nd4a29981d4a946479b7517817990bb29b9> <http://example.org/ontology/position> "Vice President and Deputy General Counsel"  <NFL-euronews-8> .
+ <http://example.org/ontology/OceanSun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Orca> <NFL-euronews-8> .
+ <http://NFL-euronews-8.com/blank#nd4a29981d4a946479b7517817990bb29b7> <http://example.org/ontology/activity> "teaching how to catch fish"  <NFL-euronews-8> .
+ <http://example.org/ontology/MiamiSeaquarium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Aquarium> <NFL-euronews-8> .
+ <http://NFL-euronews-8.com/blank#nd4a29981d4a946479b7517817990bb29b1> <http://example.org/ontology/condition> "ill"  <NFL-euronews-8> .
+ <http://example.org/ontology/LummiIndianTribe> <http://example.org/ontology/boardMember> <http://example.org/ontology/RaynellMorris> <NFL-euronews-8> .
+ <http://example.org/ontology/WorldsSmallestOrcaTank> <http://example.org/ontology/comparisonToInhabitant> "four times Lolita's size"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-euronews-8> .
+ <http://example.org/ontology/Lolita> <http://example.org/ontology/capturedAtAge> "4"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-euronews-8> .
+ <http://example.org/ontology/TheDolphinCompany> <http://example.org/ontology/operatingLocations> <http://NFL-euronews-8.com/blank#nd4a29981d4a946479b7517817990bb29b4>  <NFL-euronews-8> .
+ <http://example.org/ontology/MiamiSeaquarium> <http://example.org/ontology/newOwner> <http://example.org/ontology/TheDolphinCompany> <NFL-euronews-8> .
+ <http://example.org/ontology/Lolita> <http://example.org/ontology/purchasePrice> "€5,500"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-euronews-8> .
+ <http://example.org/ontology/TheDolphinCompany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Company> <NFL-euronews-8> .
+ <http://example.org/ontology/MiamiSeaquarium> <http://example.org/ontology/acquisitionYear> "2021"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-euronews-8> .
+ <http://example.org/ontology/WorldsSmallestOrcaTank> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Tank> <NFL-euronews-8> .
+ <http://NFL-euronews-8.com/blank#nd4a29981d4a946479b7517817990bb29b5> <http://example.org/ontology/position> "owner"  <NFL-euronews-8> .
+ <http://NFL-euronews-8.com/blank#nd4a29981d4a946479b7517817990bb29b2> <http://example.org/ontology/siblings> "7"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-euronews-8> .
+ <http://example.org/ontology/IndianapolisColts> <http://example.org/ontology/name> "Indianapolis Colts"  <NFL-euronews-8> .
+ <http://example.org/ontology#TheRedmenTV> <http://xmlns.com/foaf/0.1/homepage> <https://www.youtube.com/user/WeAreTheRedmen> <NFL-euronews-9> .
+ <http://example.org/ontology#PaulMachin> <http://xmlns.com/foaf/0.1/knows> <http://example.org/ontology#FanMedia> <NFL-euronews-9> .
+ <http://example.org/ontology#Formula1AbuDhabi2021> <http://dbpedia.org/ontology/date> "2021-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-euronews-9> .
+ <http://example.org/ontology#Football> <http://dbpedia.org/ontology/popularity> "Over 40% of the world's eight billion-plus population claim to be a fan."@en  <NFL-euronews-9> .
+ <http://example.org/ontology#SuperBowl2022> <http://dbpedia.org/ontology/competitor> <http://dbpedia.org/resource/Los_Angeles_Rams> <NFL-euronews-9> .
+ <http://example.org/ontology#Football> <http://dbpedia.org/ontology/broadcastDistribution> "Broadcast into an average of 643 million homes annually."@en  <NFL-euronews-9> .
+ <http://example.org/ontology#CinziaRizzi> <http://xmlns.com/foaf/0.1/knows> <http://example.org/ontology#Football> <NFL-euronews-9> .
+ <http://example.org/ontology#FanMedia> <http://dbpedia.org/ontology/influence> "Covid-19 pandemic"  <NFL-euronews-9> .
+ <http://example.org/ontology#WorldCupFinal2022> <http://dbpedia.org/ontology/competitor> <http://dbpedia.org/resource/France> <NFL-euronews-9> .
+ <http://example.org/ontology#AppleMLSStreaming> <http://dbpedia.org/ontology/provider> <http://dbpedia.org/resource/Apple_Inc> <NFL-euronews-9> .
+ <http://example.org/ontology#CinziaRizzi> <http://xmlns.com/foaf/0.1/name> "Cinzia Rizzi"  <NFL-euronews-9> .
+ <http://example.org/ontology#Masters2022> <http://dbpedia.org/ontology/date> "2022-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-euronews-9> .
+ <http://example.org/ontology#OnlineStreamingRights> <http://dbpedia.org/ontology/provider> <http://dbpedia.org/resource/Amazon> <NFL-euronews-9> .
+ <http://example.org/ontology#Formula1AbuDhabi2021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <NFL-euronews-9> .
+ <http://example.org/ontology#WorldCupFinal2022> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Qatar> <NFL-euronews-9> .
+ <http://example.org/ontology#CinziaRizzi> <http://rdfs.org/sioc/ns#role> "Euronews journalist"  <NFL-euronews-9> .
+ <http://example.org/ontology#OnlineStreamingRights> <http://dbpedia.org/ontology/service> "Prime website and applications"  <NFL-euronews-9> .
+ <http://example.org/ontology#FanMedia> <http://dbpedia.org/ontology/change> "Rise of fan media"  <NFL-euronews-9> .
+ <http://example.org/ontology#CinziaRizzi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-euronews-9> .
+ <http://example.org/ontology#TheRedmenTV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/sioc/ns#Usergroup> <NFL-euronews-9> .
+ <http://example.org/ontology#PremierLeague> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_Kingdom> <NFL-euronews-9> .
+ <http://example.org/ontology#SuperBowl2022> <http://dbpedia.org/ontology/audience> "Global reach of 153 million."@en  <NFL-euronews-9> .
+ <http://example.org/ontology#Football> <http://dbpedia.org/ontology/abstract> "The world's most popular sport."@en  <NFL-euronews-9> .
+ <http://example.org/ontology#WorldCupFinal2022> <http://dbpedia.org/ontology/audience> "Record global audience in 2022."@en  <NFL-euronews-9> .
+ <http://example.org/ontology#AppleMLSStreaming> <http://dbpedia.org/ontology/service> "MLS Pass"  <NFL-euronews-9> .
+ <http://example.org/ontology#PaulMachin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-euronews-9> .
+ <http://example.org/ontology#OnlineStreamingRights> <http://dbpedia.org/ontology/expectedBidDate> "2024-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-euronews-9> .
+ <http://example.org/ontology#Football> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Sport> <NFL-euronews-9> .
+ <http://example.org/ontology#SuperBowl2022> <http://dbpedia.org/ontology/competitor> <http://dbpedia.org/resource/Cincinnati_Bengals> <NFL-euronews-9> .
+ <http://example.org/ontology#PremierLeague> <http://dbpedia.org/ontology/product> <http://example.org/ontology#OnlineStreamingRights> <NFL-euronews-9> .
+ <http://example.org/ontology#AppleMLSStreaming> <http://dbpedia.org/ontology/price> "99 USD per season"^^<http://www.w3.org/2001/XMLSchema#decimal>  <NFL-euronews-9> .
+ <http://example.org/ontology#Masters2022> <http://dbpedia.org/ontology/audience> "Seen by 13.1 million."@en  <NFL-euronews-9> .
+ <http://example.org/ontology#WorldCupFinal2022> <http://schema.org/numberOfParticipants> "1.5 billion"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-euronews-9> .
+ <http://example.org/ontology#AppleMLSStreaming> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <NFL-euronews-9> .
+ <http://example.org/ontology#FanMedia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MediaObject> <NFL-euronews-9> .
+ <http://example.org/ontology#WorldCupFinal2022> <http://dbpedia.org/ontology/winner> <http://dbpedia.org/resource/Argentina> <NFL-euronews-9> .
+ <http://example.org/ontology#FanMedia> <http://dbpedia.org/ontology/industry> "Fan media"  <NFL-euronews-9> .
+ <http://example.org/ontology#PaulMachin> <http://rdfs.org/sioc/ns#role> "Co-founder of The Redmen TV"  <NFL-euronews-9> .
+ <http://example.org/ontology#WorldCupFinal2022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <NFL-euronews-9> .
+ <http://example.org/ontology#PaulMachin> <http://xmlns.com/foaf/0.1/name> "Paul Machin"  <NFL-euronews-9> .
+ <http://example.org/ontology#SuperBowl2022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <NFL-euronews-9> .
+ <http://example.org/ontology#Masters2022> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Augusta_National_Golf_Club> <NFL-euronews-9> .
+ <http://example.org/ontology#OnlineStreamingRights> <http://dbpedia.org/ontology/startDate> "2019-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-euronews-9> .
+ <http://example.org/ontology#SuperBowl2022> <http://dbpedia.org/ontology/date> "2022-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-euronews-9> .
+ <http://example.org/ontology#OnlineStreamingRights> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <NFL-euronews-9> .
+ <http://example.org/ontology#AppleMLSStreaming> <http://dbpedia.org/ontology/startDate> "2023-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-euronews-9> .
+ <http://example.org/ontology#Formula1AbuDhabi2021> <http://dbpedia.org/ontology/audience> "Audience of 108.7 million."@en  <NFL-euronews-9> .
+ <http://example.org/ontology#Formula1AbuDhabi2021> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Abu_Dhabi> <NFL-euronews-9> .
+ <http://example.org/ontology#TheRedmenTV> <http://dbpedia.org/ontology/founder> <http://example.org/ontology#PaulMachin> <NFL-euronews-9> .
+ <http://example.org/ontology#WorldCupFinal2022> <http://dbpedia.org/ontology/date> "2022-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-euronews-9> .
+ <http://example.org/ontology#Masters2022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <NFL-euronews-9> .
+ <http://example.org/ontology#PremierLeague> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsLeague> <NFL-euronews-9> .
+ <http://example.org/ontology#Football> <http://dbpedia.org/ontology/inception> "1863-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-euronews-9> .

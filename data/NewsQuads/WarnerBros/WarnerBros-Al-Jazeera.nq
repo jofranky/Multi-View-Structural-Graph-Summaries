@@ -1,0 +1,601 @@
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb9> <http://dbpedia.org/ontology/company> <http://dbpedia.org/resource/Warner_Bros_Discovery> <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb3> <http://schema.org/estimatedRevenue> "10.44bn"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Barbie> <http://dbpedia.org/ontology/studio> <http://dbpedia.org/resource/Warner_Bros_Discovery> <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb8> <http://dbpedia.org/ontology/amount> "4bn"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb2> <http://dbpedia.org/ontology/organiser> <http://dbpedia.org/resource/Alliance_of_Motion_Picture_and_Television_Producers> <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Writers_Guild_of_America> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb5> <http://schema.org/estimatedSubscribers> "1.1"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb6> <http://schema.org/estimatedRevenue> "2.48bn"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Warner_Bros_Discovery> <http://dbpedia.org/ontology/subsidiary> <http://dbpedia.org/resource/WarnerMedia> <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Barbie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/DiscoveryPlus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BroadcastingNetwork> <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Hasbro> <http://xmlns.com/foaf/0.1/name> "Hasbro"  <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Barbie> <http://dbpedia.org/ontology/gross> "Huge box office success"  <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ExpenseReduction> <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/The_Flash> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/FinancialForecast> <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/FinancialForecast> <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb7> <http://dbpedia.org/ontology/stockSharePrice> "12.89"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb3> <http://schema.org/estimatedFreeCashFlow> "987m"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb9> <http://dbpedia.org/ontology/percentage> "16"^^<http://www.w3.org/2001/XMLSchema#percent>  <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Warner_Bros_Discovery> <http://dbpedia.org/ontology/netIncome> "-1.24bn"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/The_Flash> <http://dbpedia.org/ontology/gross> "Underperformance"  <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb7> <http://dbpedia.org/ontology/stockSharePriceChange> "2.7"^^<http://www.w3.org/2001/XMLSchema#percent>  <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb1> <http://dbpedia.org/ontology/organiser> <http://dbpedia.org/resource/Writers_Guild_of_America> <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb3> <http://schema.org/about> <http://dbpedia.org/resource/Warner_Bros_Discovery> <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Alliance_of_Motion_Picture_and_Television_Producers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Warner_Bros_Discovery> <http://dbpedia.org/ontology/product> "Film"  <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/David_Zaslav> <http://xmlns.com/foaf/0.1/name> "David Zaslav"  <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/DiscoveryPlus> <http://dbpedia.org/ontology/subscriberCount> "95.8"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb5> <http://schema.org/about> <http://dbpedia.org/resource/Warner_Bros_Discovery> <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/FinancialForecast> <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb5> <http://schema.org/actualSubscribersLost> "1.8"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Warner_Bros_Discovery> <http://dbpedia.org/ontology/revenue> "10.36bn"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Warner_Bros_Discovery> <http://dbpedia.org/ontology/product> "Television content"  <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Warner_Bros_Discovery> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Entertainment> <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb8> <http://dbpedia.org/ontology/company> <http://dbpedia.org/resource/Warner_Bros_Discovery> <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb6> <http://schema.org/actualRevenue> "2.73bn"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/HBO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BroadcastingNetwork> <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Fran_Drescher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Screen_Actors_Guild> <http://xmlns.com/foaf/0.1/name> "Screen Actors Guild"  <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Max> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BroadcastingNetwork> <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Screen_Actors_Guild> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/The_Flash> <http://dbpedia.org/ontology/studio> <http://dbpedia.org/resource/Warner_Bros_Discovery> <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Warner_Bros_Discovery> <http://xmlns.com/foaf/0.1/name> "Warner Bros Discovery"  <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Warner_Bros_Discovery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/StockMarketValue> <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Warner_Bros_Discovery> <http://dbpedia.org/ontology/subsidiary> <http://dbpedia.org/resource/Discovery_Inc> <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/David_Zaslav> <http://schema.org/jobTitle> "CEO"  <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb1> <http://dbpedia.org/ontology/startDate> "2023-07-14"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Warner_Bros_Discovery> <http://dbpedia.org/ontology/ceo> <http://dbpedia.org/resource/David_Zaslav> <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/HBO> <http://dbpedia.org/ontology/subscriberCount> "95.8"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Jamie_Lumley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Hasbro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb8> <http://dbpedia.org/ontology/timePeriod> "2024"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/FinancialForecast> <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb3> <http://schema.org/actualRevenue> "10.36bn"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/David_Zaslav> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Alliance_of_Motion_Picture_and_Television_Producers> <http://xmlns.com/foaf/0.1/name> "Alliance of Motion Picture and Television Producers"  <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Fran_Drescher> <http://xmlns.com/foaf/0.1/name> "Fran Drescher"  <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Writers_Guild_of_America> <http://xmlns.com/foaf/0.1/name> "Writers Guild of America"  <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb4> <http://schema.org/about> <http://dbpedia.org/resource/Warner_Bros_Discovery> <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Max> <http://dbpedia.org/ontology/subscriberCount> "95.8"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/David_Zaslav> <http://xmlns.com/foaf/0.1/member> <http://dbpedia.org/resource/Warner_Bros_Discovery> <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Warner_Bros_Discovery> <http://dbpedia.org/ontology/stockSharePrice> "12.89"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Third_Bridge> <http://xmlns.com/foaf/0.1/name> "Third Bridge"  <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Warner_Bros_Discovery> <http://dbpedia.org/ontology/stockSharePriceChange> "2.7"^^<http://www.w3.org/2001/XMLSchema#percent>  <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Warner_Bros_Discovery> <http://dbpedia.org/ontology/loss> "3.42bn"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb1> <http://dbpedia.org/ontology/organiser> <http://dbpedia.org/resource/Screen_Actors_Guild> <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb3> <http://schema.org/actualFreeCashFlow> "1.72bn"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb4> <http://schema.org/estimatedRevenue> "3.21bn"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Third_Bridge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb2> <http://dbpedia.org/ontology/startDate> "2023-07-14"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Synergy> <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Warner_Bros_Discovery> <http://dbpedia.org/ontology/freeCashFlow> "1.72bn"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Jamie_Lumley> <http://schema.org/jobTitle> "Third Bridge Analyst"  <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb4> <http://schema.org/actualRevenue> "2.58bn"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb7> <http://dbpedia.org/ontology/stockSharePriceChangeDate> "2023-07-14"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb6> <http://schema.org/about> <http://dbpedia.org/resource/Warner_Bros_Discovery> <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb7> <http://dbpedia.org/ontology/company> <http://dbpedia.org/resource/Warner_Bros_Discovery> <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Jamie_Lumley> <http://xmlns.com/foaf/0.1/name> "Jamie Lumley"  <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb8> <http://dbpedia.org/ontology/amount> "5bn"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Fran_Drescher> <http://schema.org/jobTitle> "SAG-AFTRA President"  <WarnerBros-Al-Jazeera-0> .
+ <http://WarnerBros-Al-Jazeera-0.com/blank#nbe8e4e994051417a9e31a80a2455d72cb1> <http://dbpedia.org/ontology/startDate> "2023-05-02"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-Al-Jazeera-0> .
+ <http://example.org/ontology#BarbieFilm> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Greta_Gerwig> <WarnerBros-Al-Jazeera-1> .
+ <http://example.org/ontology#BarbieFilm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <WarnerBros-Al-Jazeera-1> .
+ <http://example.org/ontology#AbominableFilm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <WarnerBros-Al-Jazeera-1> .
+ <http://example.org/ontology#UnchartedFilm> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Tom_Holland> <WarnerBros-Al-Jazeera-1> .
+ <http://example.org/ontology#Blackpink> <http://dbpedia.org/ontology/website> <http://example.org/ontology#BlackpinkTourOrganiserWebsite> <WarnerBros-Al-Jazeera-1> .
+ <http://example.org/ontology#BarbieFilm> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Margot_Robbie> <WarnerBros-Al-Jazeera-1> .
+ <http://example.org/ontology#VietnamDepartmentOfCinema> <http://dbpedia.org/ontology/decision> "Deny licence for Barbie film"  <WarnerBros-Al-Jazeera-1> .
+ <http://example.org/ontology#BarbieFilm> <http://dbpedia.org/ontology/releaseDate> "2023-07-21"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-Al-Jazeera-1> .
+ <http://example.org/ontology#BlackpinkTourOrganiserWebsite> <http://dbpedia.org/ontology/probeBy> "Vietnamese authorities"  <WarnerBros-Al-Jazeera-1> .
+ <http://example.org/ontology#VietnamDepartmentOfCinema> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WarnerBros-Al-Jazeera-1> .
+ <http://example.org/ontology#Blackpink> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalArtist> <WarnerBros-Al-Jazeera-1> .
+ <http://example.org/ontology#BarbieFilm> <http://dbpedia.org/ontology/title> "Barbie"  <WarnerBros-Al-Jazeera-1> .
+ <http://example.org/ontology#VietnamDepartmentOfCinema> <http://dbpedia.org/ontology/dateAnnounced> "2023-07-21"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-Al-Jazeera-1> .
+ <http://example.org/ontology#SouthChinaSeaMap> <http://example.org/ontology#depicts> "South China Sea"  <WarnerBros-Al-Jazeera-1> .
+ <http://example.org/ontology#SouthChinaSeaMap> <http://example.org/ontology#features> "China’s controversial nine-dash line"  <WarnerBros-Al-Jazeera-1> .
+ <http://example.org/ontology#VietnamDepartmentOfCinema> <http://dbpedia.org/ontology/reason> "Scene featuring map with China's expansive claims over the South China Sea"  <WarnerBros-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Warner_Bros> <http://dbpedia.org/ontology/statement> "The map in Barbie Land is a whimsical, child-like crayon drawing. The doodles depict Barbie's make-believe journey from Barbie Land to the real world. It was not intended to make any type of statement."  <WarnerBros-Al-Jazeera-1> .
+ <http://example.org/ontology#InternationalTribunalTheHague> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WarnerBros-Al-Jazeera-1> .
+ <http://example.org/ontology#AbominableFilm> <http://dbpedia.org/ontology/title> "Abominable"  <WarnerBros-Al-Jazeera-1> .
+ <http://example.org/ontology#BarbieFilm> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Warner_Bros> <WarnerBros-Al-Jazeera-1> .
+ <http://example.org/ontology#BlackpinkTourOrganiserWebsite> <http://dbpedia.org/ontology/reason> "Map of the South China Sea showing China's claims"  <WarnerBros-Al-Jazeera-1> .
+ <http://example.org/ontology#UnchartedFilm> <http://dbpedia.org/ontology/title> "Uncharted"  <WarnerBros-Al-Jazeera-1> .
+ <http://example.org/ontology#InternationalTribunalTheHague> <http://dbpedia.org/ontology/ruling> "China’s sweeping claims over the South China Sea have no basis in law"  <WarnerBros-Al-Jazeera-1> .
+ <http://example.org/ontology#InternationalTribunalTheHague> <http://dbpedia.org/ontology/date> "2016"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WarnerBros-Al-Jazeera-1> .
+ <http://example.org/ontology#UnchartedFilm> <http://dbpedia.org/ontology/controversy> "Banned in Vietnam over scene featuring the nine-dash line"  <WarnerBros-Al-Jazeera-1> .
+ <http://example.org/ontology#BlackpinkTourOrganiserWebsite> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Website> <WarnerBros-Al-Jazeera-1> .
+ <http://example.org/ontology#SouthChinaSeaMap> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Map> <WarnerBros-Al-Jazeera-1> .
+ <http://example.org/ontology#UnchartedFilm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <WarnerBros-Al-Jazeera-1> .
+ <http://example.org/ontology#BarbieFilm> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Ryan_Gosling> <WarnerBros-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Warner_Bros> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WarnerBros-Al-Jazeera-1> .
+ <http://example.org/ontology#AbominableFilm> <http://dbpedia.org/ontology/controversy> "Banned in Vietnam over scene featuring the nine-dash line"  <WarnerBros-Al-Jazeera-1> .
+ <http://WarnerBros-Al-Jazeera-2.com/blank#n0efe8e239d92404da5076c0e133d06e6b1> <http://schema.org/workFeatured> <http://example.org/ontology#MortalKombat> <WarnerBros-Al-Jazeera-2> .
+ <http://WarnerBros-Al-Jazeera-2.com/blank#n0efe8e239d92404da5076c0e133d06e6b1> <http://schema.org/workFeatured> <http://example.org/ontology#MatrixSequel> <WarnerBros-Al-Jazeera-2> .
+ <http://example.org/ontology#AMCEntertainment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-Al-Jazeera-2> .
+ <http://example.org/ontology#AMCTheatres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MovieTheater> <WarnerBros-Al-Jazeera-2> .
+ <http://example.org/ontology#TheSuicideSquad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <WarnerBros-Al-Jazeera-2> .
+ <http://example.org/ontology#AnnSarnoff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-Al-Jazeera-2> .
+ <http://WarnerBros-Al-Jazeera-2.com/blank#n0efe8e239d92404da5076c0e133d06e6b1> <http://schema.org/startDate> "2021-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-Al-Jazeera-2> .
+ <http://example.org/ontology#AMCShareFall> <http://schema.org/value> "4.14"  <WarnerBros-Al-Jazeera-2> .
+ <http://WarnerBros-Al-Jazeera-2.com/blank#n0efe8e239d92404da5076c0e133d06e6b1> <http://schema.org/endDate> "2021-12-31"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-Al-Jazeera-2> .
+ <http://example.org/ontology#WarnerBrosStudio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MovieTheater> <WarnerBros-Al-Jazeera-2> .
+ <http://example.org/ontology#WarnerBrosStudio> <http://schema.org/name> "AT&T Inc’s Warner Bros studio"  <WarnerBros-Al-Jazeera-2> .
+ <http://WarnerBros-Al-Jazeera-2.com/blank#n0efe8e239d92404da5076c0e133d06e6b1> <http://schema.org/location> <http://WarnerBros-Al-Jazeera-2.com/blank#n0efe8e239d92404da5076c0e133d06e6b2>  <WarnerBros-Al-Jazeera-2> .
+ <http://WarnerBros-Al-Jazeera-2.com/blank#n0efe8e239d92404da5076c0e133d06e6b1> <http://schema.org/workFeatured> <http://example.org/ontology#GodzillaVsKong> <WarnerBros-Al-Jazeera-2> .
+ <http://example.org/ontology#MatrixSequel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <WarnerBros-Al-Jazeera-2> .
+ <http://example.org/ontology#WarnerMediaStudiosAndNetworksGroup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WarnerBros-Al-Jazeera-2> .
+ <http://example.org/ontology#DuneNewVersion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <WarnerBros-Al-Jazeera-2> .
+ <http://WarnerBros-Al-Jazeera-2.com/blank#n0efe8e239d92404da5076c0e133d06e6b1> <http://schema.org/name> "2021 films release"  <WarnerBros-Al-Jazeera-2> .
+ <http://example.org/ontology#MortalKombat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <WarnerBros-Al-Jazeera-2> .
+ <http://example.org/ontology#AMCShareFall> <http://schema.org/name> "AMC Entertainment share fall"  <WarnerBros-Al-Jazeera-2> .
+ <http://example.org/ontology#MatrixSequel> <http://schema.org/name> "Matrix sequel"  <WarnerBros-Al-Jazeera-2> .
+ <http://example.org/ontology#AnnSarnoff> <http://schema.org/jobTitle> "Chair and CEO"  <WarnerBros-Al-Jazeera-2> .
+ <http://example.org/ontology#AMCShareFall> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <WarnerBros-Al-Jazeera-2> .
+ <http://example.org/ontology#AMCEntertainment> <http://schema.org/owns> <http://example.org/ontology#AMCTheatres> <WarnerBros-Al-Jazeera-2> .
+ <http://WarnerBros-Al-Jazeera-2.com/blank#n0efe8e239d92404da5076c0e133d06e6b2> <http://schema.org/additionalType> "StreamingService"  <WarnerBros-Al-Jazeera-2> .
+ <http://WarnerBros-Al-Jazeera-2.com/blank#n0efe8e239d92404da5076c0e133d06e6b1> <http://schema.org/workFeatured> <http://example.org/ontology#DuneNewVersion> <WarnerBros-Al-Jazeera-2> .
+ <http://example.org/ontology#AMCShareFall> <http://schema.org/observationDate> "2021-01-01T12:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <WarnerBros-Al-Jazeera-2> .
+ <http://example.org/ontology#WarnerBrosStudio> <http://schema.org/event> <http://WarnerBros-Al-Jazeera-2.com/blank#n0efe8e239d92404da5076c0e133d06e6b1>  <WarnerBros-Al-Jazeera-2> .
+ <http://WarnerBros-Al-Jazeera-2.com/blank#n0efe8e239d92404da5076c0e133d06e6b1> <http://schema.org/workFeatured> <http://example.org/ontology#TheSuicideSquad> <WarnerBros-Al-Jazeera-2> .
+ <http://example.org/ontology#GodzillaVsKong> <http://schema.org/name> "Godzilla vs. Kong"  <WarnerBros-Al-Jazeera-2> .
+ <http://WarnerBros-Al-Jazeera-2.com/blank#n0efe8e239d92404da5076c0e133d06e6b1> <http://schema.org/description> "All 2021 films available in theatres and on HBO Max on the same day for one month."  <WarnerBros-Al-Jazeera-2> .
+ <http://example.org/ontology#GodzillaVsKong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <WarnerBros-Al-Jazeera-2> .
+ <http://example.org/ontology#DuneNewVersion> <http://schema.org/name> "Dune"  <WarnerBros-Al-Jazeera-2> .
+ <http://example.org/ontology#AMCShareFall> <http://schema.org/unitCode> "USD"  <WarnerBros-Al-Jazeera-2> .
+ <http://example.org/ontology#AnnSarnoff> <http://schema.org/worksFor> <http://example.org/ontology#WarnerMediaStudiosAndNetworksGroup> <WarnerBros-Al-Jazeera-2> .
+ <http://example.org/ontology#AMCEntertainment> <http://schema.org/name> "AMC Entertainment"  <WarnerBros-Al-Jazeera-2> .
+ <http://example.org/ontology#AMCTheatres> <http://schema.org/name> "world’s largest theatre operator"  <WarnerBros-Al-Jazeera-2> .
+ <http://example.org/ontology#AMCShareFall> <http://schema.org/amount> "4 percent"  <WarnerBros-Al-Jazeera-2> .
+ <http://example.org/ontology#MortalKombat> <http://schema.org/name> "Mortal Kombat"  <WarnerBros-Al-Jazeera-2> .
+ <http://WarnerBros-Al-Jazeera-2.com/blank#n0efe8e239d92404da5076c0e133d06e6b2> <http://schema.org/name> "HBO Max"  <WarnerBros-Al-Jazeera-2> .
+ <http://example.org/ontology#AnnSarnoff> <http://schema.org/name> "Ann Sarnoff"  <WarnerBros-Al-Jazeera-2> .
+ <http://example.org/ontology#TheSuicideSquad> <http://schema.org/name> "The Suicide Squad"  <WarnerBros-Al-Jazeera-2> .
+ <http://example.org/ontology#WarnerMediaStudiosAndNetworksGroup> <http://schema.org/name> "WarnerMedia Studios and Networks Group"  <WarnerBros-Al-Jazeera-2> .
+ <http://dbpedia.org/resource/Warner_Bros_Discovery_Inc> <http://dbpedia.org/ontology/subsidiary> <http://dbpedia.org/resource/CNNPlus> <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/ATandT_Inc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-Al-Jazeera-3> .
+ <http://WarnerBros-Al-Jazeera-3.com/blank#n853cd04c69ed42e3939a670d4fc9ba05b4> <http://dbpedia.org/ontology/with> <http://dbpedia.org/resource/ATandT_Inc> <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Alex_MacCallum> <http://schema.org/jobTitle> "Head of digital operations at CNN"  <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/CNNPlus> <http://schema.org/name> "CNN+"  <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Warner_Bros_Discovery_Inc> <http://dbpedia.org/ontology/costCutting> "3000000000"^^<http://www.w3.org/2001/XMLSchema#int>  <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/CNNPlus> <http://dbpedia.org/ontology/product> <http://WarnerBros-Al-Jazeera-3.com/blank#n853cd04c69ed42e3939a670d4fc9ba05b3>  <WarnerBros-Al-Jazeera-3> .
+ <http://WarnerBros-Al-Jazeera-3.com/blank#n853cd04c69ed42e3939a670d4fc9ba05b4> <http://dbpedia.org/ontology/completionDate> "2022-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Warner_Bros_Discovery_Inc> <http://dbpedia.org/ontology/chiefExecutiveOfficer> <http://dbpedia.org/resource/David_Zaslav> <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Chris_Licht> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/CNN> <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/David_Zaslav> <http://schema.org/jobTitle> "Chief Executive Officer"  <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Andrew_Morse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Jeff_Zucker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/CNN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Broadcaster> <WarnerBros-Al-Jazeera-3> .
+ <http://WarnerBros-Al-Jazeera-3.com/blank#n853cd04c69ed42e3939a670d4fc9ba05b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PriceSpecification> <WarnerBros-Al-Jazeera-3> .
+ <http://WarnerBros-Al-Jazeera-3.com/blank#n853cd04c69ed42e3939a670d4fc9ba05b6> <http://dbpedia.org/ontology/declineDate> "2022-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Alex_MacCallum> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/CNN> <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Chris_Licht> <http://schema.org/jobTitle> "CEO of CNN"  <WarnerBros-Al-Jazeera-3> .
+ <http://WarnerBros-Al-Jazeera-3.com/blank#n853cd04c69ed42e3939a670d4fc9ba05b1> <http://schema.org/price> "5.99"^^<http://www.w3.org/2001/XMLSchema#float>  <WarnerBros-Al-Jazeera-3> .
+ <http://WarnerBros-Al-Jazeera-3.com/blank#n853cd04c69ed42e3939a670d4fc9ba05b2> <http://schema.org/contributor> <http://dbpedia.org/resource/Chris_Wallace> <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Discovery_Inc> <http://dbpedia.org/ontology/merger> <http://dbpedia.org/resource/Warner_Bros_Discovery_Inc> <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/CNNPlus> <http://dbpedia.org/ontology/owner> <http://dbpedia.org/resource/Warner_Bros_Discovery_Inc> <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/CNNPlus> <http://schema.org/offers> <http://WarnerBros-Al-Jazeera-3.com/blank#n853cd04c69ed42e3939a670d4fc9ba05b1>  <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/David_Zaslav> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/Warner_Bros_Discovery_Inc> <WarnerBros-Al-Jazeera-3> .
+ <http://WarnerBros-Al-Jazeera-3.com/blank#n853cd04c69ed42e3939a670d4fc9ba05b3> <http://schema.org/contributor> <http://dbpedia.org/resource/Eva_Longoria> <WarnerBros-Al-Jazeera-3> .
+ <http://WarnerBros-Al-Jazeera-3.com/blank#n853cd04c69ed42e3939a670d4fc9ba05b6> <http://schema.org/price> "21.01"^^<http://www.w3.org/2001/XMLSchema#float>  <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Warner_Bros_Discovery_Inc> <http://schema.org/parentOrganization> <http://dbpedia.org/resource/Discovery_Inc> <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/CNN> <http://dbpedia.org/ontology/foundingYear> "1980"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WarnerBros-Al-Jazeera-3> .
+ <http://WarnerBros-Al-Jazeera-3.com/blank#n853cd04c69ed42e3939a670d4fc9ba05b3> <http://schema.org/name> "food and travel series"  <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Warner_Bros_Discovery_Inc> <http://dbpedia.org/ontology/stockShare> <http://WarnerBros-Al-Jazeera-3.com/blank#n853cd04c69ed42e3939a670d4fc9ba05b6>  <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Warner_Bros_Discovery_Inc> <http://dbpedia.org/ontology/merger> <http://WarnerBros-Al-Jazeera-3.com/blank#n853cd04c69ed42e3939a670d4fc9ba05b4>  <WarnerBros-Al-Jazeera-3> .
+ <http://WarnerBros-Al-Jazeera-3.com/blank#n853cd04c69ed42e3939a670d4fc9ba05b1> <http://schema.org/description> "monthly subscription fee for CNN+"  <WarnerBros-Al-Jazeera-3> .
+ <http://WarnerBros-Al-Jazeera-3.com/blank#n853cd04c69ed42e3939a670d4fc9ba05b1> <http://schema.org/priceCurrency> "USD"  <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Alex_MacCallum> <http://schema.org/jobTitle> "General Manager of CNN+"  <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Jeff_Zucker> <http://dbpedia.org/ontology/departureDate> "2022-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <WarnerBros-Al-Jazeera-3> .
+ <http://WarnerBros-Al-Jazeera-3.com/blank#n853cd04c69ed42e3939a670d4fc9ba05b4> <http://dbpedia.org/ontology/with> <http://dbpedia.org/resource/Discovery_Inc> <WarnerBros-Al-Jazeera-3> .
+ <http://WarnerBros-Al-Jazeera-3.com/blank#n853cd04c69ed42e3939a670d4fc9ba05b7> <http://dbpedia.org/ontology/declineDate> "2022-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/ATandT_Inc> <http://dbpedia.org/ontology/subsidiary> <http://dbpedia.org/resource/CNN> <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Discovery_Inc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Andrew_Morse> <http://schema.org/jobTitle> "Head of CNN+"  <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/CNN> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/CNNPlus> <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/CNNPlus> <http://dbpedia.org/ontology/product> <http://WarnerBros-Al-Jazeera-3.com/blank#n853cd04c69ed42e3939a670d4fc9ba05b2>  <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Warner_Bros_Discovery_Inc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Alex_MacCallum> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/CNNPlus> <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/CNNPlus> <http://dbpedia.org/ontology/foundingDate> "2022-03-29"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-Al-Jazeera-3> .
+ <http://WarnerBros-Al-Jazeera-3.com/blank#n853cd04c69ed42e3939a670d4fc9ba05b2> <http://schema.org/name> "daily interview program"  <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/David_Zaslav> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-Al-Jazeera-3> .
+ <http://WarnerBros-Al-Jazeera-3.com/blank#n853cd04c69ed42e3939a670d4fc9ba05b6> <http://schema.org/priceCurrency> "USD"  <WarnerBros-Al-Jazeera-3> .
+ <http://WarnerBros-Al-Jazeera-3.com/blank#n853cd04c69ed42e3939a670d4fc9ba05b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> <WarnerBros-Al-Jazeera-3> .
+ <http://WarnerBros-Al-Jazeera-3.com/blank#n853cd04c69ed42e3939a670d4fc9ba05b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Andrew_Morse> <http://schema.org/leaves> <http://WarnerBros-Al-Jazeera-3.com/blank#n853cd04c69ed42e3939a670d4fc9ba05b5>  <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Jeff_Zucker> <http://schema.org/affiliation> <http://dbpedia.org/resource/CNN> <WarnerBros-Al-Jazeera-3> .
+ <http://WarnerBros-Al-Jazeera-3.com/blank#n853cd04c69ed42e3939a670d4fc9ba05b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WarnerBros-Al-Jazeera-3> .
+ <http://WarnerBros-Al-Jazeera-3.com/blank#n853cd04c69ed42e3939a670d4fc9ba05b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/CNNPlus> <http://dbpedia.org/ontology/shutdownDate> "2022-04-30"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-Al-Jazeera-3> .
+ <http://WarnerBros-Al-Jazeera-3.com/blank#n853cd04c69ed42e3939a670d4fc9ba05b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Chris_Licht> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Netflix_Inc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Netflix_Inc> <http://dbpedia.org/ontology/subscriber> <http://WarnerBros-Al-Jazeera-3.com/blank#n853cd04c69ed42e3939a670d4fc9ba05b7>  <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Jeff_Zucker> <http://dbpedia.org/ontology/position> "longtime media executive"  <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/CNNPlus> <http://dbpedia.org/ontology/numberOfSubscribers> "100000"^^<http://www.w3.org/2001/XMLSchema#int>  <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/CNN> <http://dbpedia.org/ontology/parentCompany> <http://dbpedia.org/resource/Warner_Bros_Discovery_Inc> <WarnerBros-Al-Jazeera-3> .
+ <http://WarnerBros-Al-Jazeera-3.com/blank#n853cd04c69ed42e3939a670d4fc9ba05b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Alex_MacCallum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-Al-Jazeera-3> .
+ <http://WarnerBros-Al-Jazeera-3.com/blank#n853cd04c69ed42e3939a670d4fc9ba05b6> <http://dbpedia.org/ontology/stockExchange> <http://dbpedia.org/resource/New_York_Stock_Exchange> <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Andrew_Morse> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/CNNPlus> <WarnerBros-Al-Jazeera-3> .
+ <http://WarnerBros-Al-Jazeera-3.com/blank#n853cd04c69ed42e3939a670d4fc9ba05b5> <http://schema.org/startDate> "2022-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <WarnerBros-Al-Jazeera-3> .
+ <http://WarnerBros-Al-Jazeera-3.com/blank#n853cd04c69ed42e3939a670d4fc9ba05b5> <http://schema.org/employee> <http://dbpedia.org/resource/Andrew_Morse> <WarnerBros-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/CNNPlus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Service> <WarnerBros-Al-Jazeera-3> .
+ <http://example.org/TheBatman> <http://xmlns.com/foaf/0.1/name> "The Batman"  <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/Russia> <http://dbpedia.org/ontology/currency> <http://example.org/Ruble> <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/Ruble> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Currency> <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/Morbius> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Russia> <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/WarnerBros> <http://example.org/madeStatementOn> "2022-02-28"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/Ruble> <http://xmlns.com/foaf/0.1/name> "Russian ruble"  <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/MPA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/SpiderManNoWayHome> <http://dbpedia.org/ontology/gross> "46700000"^^<http://www.w3.org/2001/XMLSchema#integer>  <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/Russia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/resource/Country> <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/TheBatman> <http://schema.org/contentRating> "anticipated"  <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/Morbius> <http://xmlns.com/foaf/0.1/name> "Morbius"  <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/WaltDisneyCo> <http://example.org/statementContent> "Given the unprovoked invasion of Ukraine and the tragic humanitarian crisis, we are pausing the release of theatrical films in Russia, including the upcoming ‘Turning Red’ from Pixar."  <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/TurningRed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/WarnerBros> <http://example.org/statementContent> "In light of the humanitarian crisis in Ukraine, WarnerMedia is pausing the release of its feature film ‘The Batman’ in Russia."  <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/UkrainianFilmAcademy> <http://example.org/calledFor> <http://example.org/Boycott> <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/SonyPictures> <http://xmlns.com/foaf/0.1/name> "Sony Pictures"  <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/MPA> <http://xmlns.com/foaf/0.1/name> "Motion Picture Association"  <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/SonyPictures> <http://example.org/statementContent> "Given the ongoing military action in Ukraine and the resulting uncertainty and humanitarian crisis unfolding in that region, we will be pausing our planned theatrical releases in Russia, including the upcoming release of ‘Morbius’."  <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/TheBatman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/MPA> <http://example.org/madeStatementOn> "2022-02-28"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/TurningRed> <http://dbpedia.org/ontology/releaseDate> "2022-03-10"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/Uncharted> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Russia> <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/UkrainianFilmAcademy> <http://xmlns.com/foaf/0.1/name> "Ukrainian Film Academy"  <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/Ruble> <http://example.org/plummetedOn> "2022-02-28"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/SpiderManNoWayHome> <http://xmlns.com/foaf/0.1/name> "Spider-Man: No Way Home"  <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/MPA> <http://example.org/statementContent> "The Motion Picture Association (MPA) said on Monday that it ‘stands with the international community in upholding the rule of law and condemning Russia’s invasion of Ukraine’."  <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/UkrainianFilmAcademy> <http://example.org/calledOn> "2022-02-26"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/SpiderManNoWayHome> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Russia> <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/DisneyPlus> <http://xmlns.com/foaf/0.1/name> "Disney+"  <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/WarnerBros> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/Uncharted> <http://dbpedia.org/ontology/gross> "20000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/SonyPictures> <http://example.org/pausesRelease> <http://example.org/Morbius> <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/UkrainianFilmAcademy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/SonyPictures> <http://example.org/madeStatementOn> "2022-02-28"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/SonyPictures> <http://example.org/pausesRelease> <http://example.org/Uncharted> <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/Uncharted> <http://xmlns.com/foaf/0.1/name> "Uncharted"  <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/WarnerBros> <http://xmlns.com/foaf/0.1/name> "Warner Bros"  <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/Morbius> <http://dbpedia.org/ontology/releaseDate> "2022-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/Boycott> <http://xmlns.com/foaf/0.1/name> "international boycott of the Russian film industry"  <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/WaltDisneyCo> <http://example.org/madeStatementOn> "2022-02-28"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/Morbius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/TurningRed> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Russia> <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/WaltDisneyCo> <http://example.org/pausesRelease> <http://example.org/TurningRed> <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/WarnerBros> <http://example.org/released> <http://example.org/TheBatman> <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/Boycott> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/TurningRed> <http://xmlns.com/foaf/0.1/name> "Turning Red"  <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/TheBatman> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Russia> <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/DisneyPlus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/StreamingService> <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/WaltDisneyCo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/SonyPictures> <http://example.org/pausesRelease> <http://example.org/SpiderManNoWayHome> <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/SonyPictures> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/WaltDisneyCo> <http://xmlns.com/foaf/0.1/name> "The Walt Disney Co"  <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/TheBatman> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/North_America> <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/SpiderManNoWayHome> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/TurningRed> <http://example.org/streamingOn> <http://example.org/DisneyPlus> <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/WarnerBros> <http://example.org/pausesRelease> <http://example.org/TheBatman> <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/TheBatman> <http://dbpedia.org/ontology/releaseDate> "2022-03-04"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/Uncharted> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <WarnerBros-Al-Jazeera-4> .
+ <http://example.org/entities/DonaldTrump> <http://dbpedia.org/ontology/office> "Former President of the United States"  <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/KaitlanCollins> <http://dbpedia.org/ontology/occupation> "CNN Moderator"  <WarnerBros-Al-Jazeera-5> .
+ <http://WarnerBros-Al-Jazeera-5.com/blank#n7c4d749d5bae49a6b24d98a03b58bdeeb1> <http://schema.org/member> <http://example.org/entities/EricSherling> <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/DavidLeavy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/ChrisLicht> <http://dbpedia.org/ontology/tenure> "1 year"  <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/KaitlanCollins> <http://schema.org/employee> <http://example.org/entities/CNN> <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/VirginiaMoseley> <http://xmlns.com/foaf/0.1/name> "Virginia Moseley"  <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/FoxNewsChannel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/EricSherling> <http://xmlns.com/foaf/0.1/name> "Eric Sherling"  <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/ChrisLicht> <http://xmlns.com/foaf/0.1/name> "Chris Licht"  <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/AmyEntelis> <http://xmlns.com/foaf/0.1/name> "Amy Entelis"  <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/WarnerBrosDiscovery> <http://xmlns.com/foaf/0.1/name> "Warner Bros Discovery"  <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/AmyEntelis> <http://schema.org/employee> <http://example.org/entities/CNN> <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/VirginiaMoseley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-Al-Jazeera-5> .
+ <http://WarnerBros-Al-Jazeera-5.com/blank#n7c4d749d5bae49a6b24d98a03b58bdeeb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/OrganizationRole> <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/DonaldTrump> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/KaitlanCollins> <http://xmlns.com/foaf/0.1/name> "Kaitlan Collins"  <WarnerBros-Al-Jazeera-5> .
+ <http://WarnerBros-Al-Jazeera-5.com/blank#n7c4d749d5bae49a6b24d98a03b58bdeeb1> <http://schema.org/member> <http://example.org/entities/AmyEntelis> <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/ChrisLicht> <http://schema.org/employee> <http://example.org/entities/CNN> <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/RepublicanParty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalParty> <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/EricSherling> <http://schema.org/employee> <http://example.org/entities/CNN> <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/WarnerBrosDiscovery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/AmyEntelis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/TheAtlanticMagazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Magazine> <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/ChrisLicht> <http://dbpedia.org/ontology/successor> <http://WarnerBros-Al-Jazeera-5.com/blank#n7c4d749d5bae49a6b24d98a03b58bdeeb1>  <WarnerBros-Al-Jazeera-5> .
+ <http://WarnerBros-Al-Jazeera-5.com/blank#n7c4d749d5bae49a6b24d98a03b58bdeeb1> <http://schema.org/roleName> "Interim Leadership Team"  <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/TheAtlanticMagazine> <http://xmlns.com/foaf/0.1/name> "The Atlantic"  <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/JeffZucker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/DavidLeavy> <http://schema.org/employee> <http://example.org/entities/CNN> <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/KaitlanCollins> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/MSNBC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/JeffZucker> <http://dbpedia.org/ontology/office> "Chief Executive of CNN"  <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/DavidZaslav> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-Al-Jazeera-5> .
+ <http://WarnerBros-Al-Jazeera-5.com/blank#n7c4d749d5bae49a6b24d98a03b58bdeeb1> <http://schema.org/member> <http://example.org/entities/VirginiaMoseley> <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/EricSherling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/DavidLeavy> <http://xmlns.com/foaf/0.1/name> "David Leavy"  <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/MSNBC> <http://xmlns.com/foaf/0.1/name> "MSNBC"  <WarnerBros-Al-Jazeera-5> .
+ <http://WarnerBros-Al-Jazeera-5.com/blank#n7c4d749d5bae49a6b24d98a03b58bdeeb1> <http://schema.org/member> <http://example.org/entities/DavidLeavy> <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/ChrisLicht> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/CNN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/VirginiaMoseley> <http://schema.org/employee> <http://example.org/entities/CNN> <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/DonaldTrump> <http://xmlns.com/foaf/0.1/name> "Donald Trump"  <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/RepublicanParty> <http://xmlns.com/foaf/0.1/name> "Republican Party"  <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/CNN> <http://xmlns.com/foaf/0.1/name> "CNN"  <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/DavidZaslav> <http://xmlns.com/foaf/0.1/name> "David Zaslav"  <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/JeffZucker> <http://xmlns.com/foaf/0.1/name> "Jeff Zucker"  <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/ChrisLicht> <http://dbpedia.org/ontology/predecessor> <http://example.org/entities/JeffZucker> <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/CNN> <http://dbpedia.org/ontology/parentCompany> <http://example.org/entities/WarnerBrosDiscovery> <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/FoxNewsChannel> <http://xmlns.com/foaf/0.1/name> "Fox News Channel"  <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/DavidZaslav> <http://schema.org/employee> <http://example.org/entities/WarnerBrosDiscovery> <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/WarnerBrosDiscovery> <http://dbpedia.org/ontology/subsidiary> <http://example.org/entities/CNN> <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/ChrisLicht> <http://dbpedia.org/ontology/office> "Chief Executive of CNN"  <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/DonaldTrump> <http://dbpedia.org/ontology/politicalParty> <http://example.org/entities/RepublicanParty> <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/entities/DavidZaslav> <http://dbpedia.org/ontology/office> "CEO of Warner Bros Discovery"  <WarnerBros-Al-Jazeera-5> .
+ <http://example.org/ontology#TimeWarnerAcquisition> <http://schema.org/description> "AT&T bought the former Time Warner for $85 billion in 2018."  <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#StreamingBusinessIntroduction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#JasonKilar> <http://dbpedia.org/ontology/formerCompany> <http://example.org/ontology#Hulu> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#WarnerMedia_DiscoveryMerger> <http://schema.org/description> "AT&T decided to jettison its media business via a $43 billion merger of WarnerMedia with Discovery."  <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#NCAAMensNationalChampionshipGame> <http://schema.org/location> <http://example.org/ontology#NewOrleans> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#MergerWBHBO_Discovery> <http://schema.org/startDate> "2023-04-08"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#JasonKilar> <http://dbpedia.org/ontology/position> <http://example.org/ontology#CEOOfWarnerMedia> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#AmazonComInc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#KilarAppointment> <http://schema.org/description> "AT&T appointed Kilar to run WarnerMedia in April 2020."  <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#TimeWarnerAcquisition> <http://dbpedia.org/ontology/amount> "85000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#TimeWarnerAcquisition> <http://dbpedia.org/ontology/product> <http://example.org/ontology#TimeWarner> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#DavidZaslav> <http://xmlns.com/foaf/0.1/name> "David Zaslav"  <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#WarnerMediaDiversityGains> <http://schema.org/endDate> "2021-12-31"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#ATTInc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#HBO_Max> <http://xmlns.com/foaf/0.1/name> "HBO Max"  <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#DavidZaslav> <http://dbpedia.org/ontology/position> <http://example.org/ontology#CEOOfDiscovery> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#DiscoveryInc> <http://xmlns.com/foaf/0.1/name> "Discovery Inc."  <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#WarnerMedia_DiscoveryMerger> <http://dbpedia.org/ontology/amount> "43000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#TimeWarnerAcquisition> <http://dbpedia.org/ontology/organizer> <http://example.org/ontology#ATTInc> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#NCAAMensNationalChampionshipGame> <http://dbpedia.org/ontology/date> "2023-04-03"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#WarnerBrosStudios> <http://xmlns.com/foaf/0.1/name> "Warner Bros. studios"  <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#WarnerBrosStudios> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#DepartureJasonKilar> <http://schema.org/description> "Jason Kilar is departing as chief executive officer of WarnerMedia"  <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#MergerWBHBO_Discovery> <http://dbpedia.org/ontology/organizer> <http://example.org/ontology#HBO> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#WarnerMediaDiversityGains> <http://dbpedia.org/ontology/organizer> <http://example.org/ontology#WarnerMedia> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#JasonKilar> <http://dbpedia.org/ontology/almaMater> <http://example.org/ontology#UniversityOfNorthCarolina> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#KilarAppointment> <http://dbpedia.org/ontology/date> "2020-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#ATTInc> <http://xmlns.com/foaf/0.1/name> "AT&T Inc."  <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#NCAAMensNationalChampionshipGame> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#StreamingBusinessIntroduction> <http://dbpedia.org/ontology/date> "2020-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#Hulu> <http://xmlns.com/foaf/0.1/name> "Hulu"  <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#NewOrleans> <http://xmlns.com/foaf/0.1/name> "New Orleans"  <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#WarnerMedia_DiscoveryMerger> <http://dbpedia.org/ontology/date> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#KilarAppointment> <http://dbpedia.org/ontology/organizer> <http://example.org/ontology#ATTInc> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#StreamingBusinessIntroduction> <http://dbpedia.org/ontology/product> <http://example.org/ontology#HBO_Max> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#UniversityOfNorthCarolina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#KilarAppointment> <http://dbpedia.org/ontology/participant> <http://example.org/ontology#JasonKilar> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#WarnerMedia_DiscoveryMerger> <http://dbpedia.org/ontology/organizer> <http://example.org/ontology#ATTInc> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#NCAAMensNationalChampionshipGame> <http://dbpedia.org/ontology/participant> <http://example.org/ontology#JasonKilar> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#WarnerMediaDiversityGains> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#DavidZaslav> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#DiscoveryInc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#StreamingBusinessIntroduction> <http://dbpedia.org/ontology/organizer> <http://example.org/ontology#ATTInc> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#WarnerMedia_DiscoveryMerger> <http://dbpedia.org/ontology/product> <http://example.org/ontology#WarnerMedia> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#StreamingBusinessIntroduction> <http://schema.org/description> "AT&T was on the verge of introducing a streaming business, HBO Max."  <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#WarnerMediaDiversityGains> <http://schema.org/description> "The number of employees of color at WarnerMedia in the U.S. increased by 3 percentage points to 41%."  <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#JasonKilar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#NewOrleans> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#JasonKilar> <http://schema.org/memberOf> <http://example.org/ontology#WarnerBrosStudios> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#DepartureJasonKilar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#UniversityOfNorthCarolina> <http://xmlns.com/foaf/0.1/name> "University of North Carolina"  <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#DepartureJasonKilar> <http://dbpedia.org/ontology/date> "2023-04-05"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#TimeWarnerAcquisition> <http://dbpedia.org/ontology/date> "2018"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#HBO> <http://xmlns.com/foaf/0.1/name> "HBO"  <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#TimeWarnerAcquisition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#AmazonComInc> <http://xmlns.com/foaf/0.1/name> "Amazon.com Inc."  <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#JasonKilar> <http://dbpedia.org/ontology/departure> <http://example.org/ontology#DepartureJasonKilar> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#HBO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#WarnerMedia> <http://xmlns.com/foaf/0.1/name> "WarnerMedia"  <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#WarnerMedia_DiscoveryMerger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#KilarAppointment> <http://dbpedia.org/ontology/position> <http://example.org/ontology#CEOOfWarnerMedia> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#MergerWBHBO_Discovery> <http://dbpedia.org/ontology/organizer> <http://example.org/ontology#DiscoveryInc> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#JasonKilar> <http://xmlns.com/foaf/0.1/age> "50"^^<http://www.w3.org/2001/XMLSchema#int>  <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#WarnerMedia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#WarnerMedia_DiscoveryMerger> <http://dbpedia.org/ontology/organizer> <http://example.org/ontology#DiscoveryInc> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#WarnerMediaDiversityGains> <http://schema.org/startDate> "2019-12-31"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#MergerWBHBO_Discovery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#JasonKilar> <http://schema.org/memberOf> <http://example.org/ontology#HBO> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#KilarAppointment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#HBO_Max> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#JasonKilar> <http://xmlns.com/foaf/0.1/name> "Jason Kilar"  <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#MergerWBHBO_Discovery> <http://schema.org/description> "The Warner Bros studios and HBO merger with Discovery Inc."  <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#Hulu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#JasonKilar> <http://dbpedia.org/ontology/formerCompany> <http://example.org/ontology#AmazonComInc> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#NCAAMensNationalChampionshipGame> <http://schema.org/description> "Jason Kilar was courtside at the NCAA men's national championship game."  <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/ontology#MergerWBHBO_Discovery> <http://dbpedia.org/ontology/organizer> <http://example.org/ontology#WarnerBrosStudios> <WarnerBros-Al-Jazeera-6> .
+ <http://example.org/corporation/timeWarner#TimeWarner> <http://example.org/ontology#includes> <http://WarnerBros-Al-Jazeera-7.com/blank#n6350d3cfcd994ba5968dc99e5cf1ddbfb2>  <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/corporation/timeWarner#HBO> <http://example.org/ontology#name> "HBO"  <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/ontology#Google> <http://example.org/ontology#name> "Google"  <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/corporation/atandt#RandallStephenson> <http://example.org/ontology#quote> "This is a perfect match of two companies with complementary strengths who can bring a fresh approach to how the media and communications industry works for customers, content creators, distributors and advertisers."  <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/ontology#Comcast> <http://example.org/ontology#owns> <http://dbpedia.org/resource/NBCUniversal> <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/corporation/atandt#MergerWithTimeWarner> <http://example.org/ontology#valueIncludesDebt> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/corporation/atandt#MergerWithTimeWarner> <http://example.org/ontology#status> "approved by regulators"^^<http://www.w3.org/2001/XMLSchema#string>  <WarnerBros-Al-Jazeera-7> .
+ <http://WarnerBros-Al-Jazeera-7.com/blank#n6350d3cfcd994ba5968dc99e5cf1ddbfb3> <http://example.org/ontology#title> "Chairman"  <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/ontology#Google> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Company> <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/corporation/atandt#ATandT> <http://example.org/ontology#position> "second-largest US wireless carrier"  <WarnerBros-Al-Jazeera-7> .
+ <http://WarnerBros-Al-Jazeera-7.com/blank#n6350d3cfcd994ba5968dc99e5cf1ddbfb1> <http://example.org/ontology#acquisitionValue> "$50bn"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/corporation/atandt#MergerWithTimeWarner> <http://example.org/ontology#valueTo> <http://example.org/corporation/timeWarner#TimeWarner> <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/corporation/timeWarner#TimeWarner> <http://example.org/ontology#revenueYear> "2015"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/corporation/timeWarner#TimeWarner> <http://example.org/ontology#name> "Time Warner"  <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/ontology#Verizon> <http://example.org/ontology#name> "Verizon"  <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/ontology#Verizon> <http://example.org/ontology#acquisitionActivity> <http://WarnerBros-Al-Jazeera-7.com/blank#n6350d3cfcd994ba5968dc99e5cf1ddbfb4>  <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/ontology#Amazon> <http://example.org/ontology#name> "Amazon"  <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/corporation/timeWarner#TimeWarner> <http://example.org/ontology#revenue> "$28bn"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-7> .
+ <http://WarnerBros-Al-Jazeera-7.com/blank#n6350d3cfcd994ba5968dc99e5cf1ddbfb1> <http://example.org/ontology#acquisitionYear> "2015"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/corporation/timeWarner#CNN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#NewsChannel> <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/corporation/atandt#MergerWithTimeWarner> <http://example.org/ontology#valueAmount> "$84.5bn"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/corporation/timeWarner#WarnerBrosStudios> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Studio> <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/ontology#Netflix> <http://example.org/ontology#name> "Netflix"  <WarnerBros-Al-Jazeera-7> .
+ <http://WarnerBros-Al-Jazeera-7.com/blank#n6350d3cfcd994ba5968dc99e5cf1ddbfb2> <http://example.org/ontology#tvProductionGroup> <http://example.org/corporation/timeWarner#HBO> <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/corporation/atandt#RandallStephenson> <http://example.org/ontology#role> <http://WarnerBros-Al-Jazeera-7.com/blank#n6350d3cfcd994ba5968dc99e5cf1ddbfb3>  <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/corporation/atandt#ATandT> <http://example.org/ontology#revenueYear> "2015"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WarnerBros-Al-Jazeera-7> .
+ <http://WarnerBros-Al-Jazeera-7.com/blank#n6350d3cfcd994ba5968dc99e5cf1ddbfb3> <http://example.org/ontology#title> "Chief Executive"  <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/corporation/timeWarner#WarnerBrosStudios> <http://example.org/ontology#location> "Hollywood"  <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/corporation/atandt#RandallStephenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Person> <WarnerBros-Al-Jazeera-7> .
+ <http://WarnerBros-Al-Jazeera-7.com/blank#n6350d3cfcd994ba5968dc99e5cf1ddbfb3> <http://example.org/ontology#organization> <http://example.org/corporation/atandt#ATandT> <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/corporation/timeWarner#TimeWarner> <http://example.org/ontology#industry> "Media and Entertainment"  <WarnerBros-Al-Jazeera-7> .
+ <http://WarnerBros-Al-Jazeera-7.com/blank#n6350d3cfcd994ba5968dc99e5cf1ddbfb1> <http://example.org/ontology#acquisition> <http://example.org/corporation/atandt#DirecTV> <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/corporation/atandt#MergerWithTimeWarner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Merger> <WarnerBros-Al-Jazeera-7> .
+ <http://WarnerBros-Al-Jazeera-7.com/blank#n6350d3cfcd994ba5968dc99e5cf1ddbfb4> <http://example.org/ontology#acquisition> <http://dbpedia.org/resource/AOL> <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/ontology#Netflix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#OnlineService> <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/corporation/atandt#ATandT> <http://example.org/ontology#industry> "Telecommunications"  <WarnerBros-Al-Jazeera-7> .
+ <http://WarnerBros-Al-Jazeera-7.com/blank#n6350d3cfcd994ba5968dc99e5cf1ddbfb2> <http://example.org/ontology#studio> <http://example.org/corporation/timeWarner#WarnerBrosStudios> <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/corporation/timeWarner#CNN> <http://example.org/ontology#name> "CNN"  <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/corporation/atandt#MergerWithTimeWarner> <http://example.org/ontology#announcementDate> "Saturday"^^<http://www.w3.org/2001/XMLSchema#string>  <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/corporation/atandt#ATandT> <http://example.org/ontology#name> "ATandT"  <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/corporation/atandt#MergerWithTimeWarner> <http://example.org/ontology#statement> "the world’s best premium content with the networks to deliver it to every screen, however customers want it"  <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/corporation/atandt#MergerWithTimeWarner> <http://example.org/ontology#value> "$108.7bn"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/corporation/atandt#MergerWithTimeWarner> <http://example.org/ontology#transformativeEffect> "media-entertainment powerhouse"  <WarnerBros-Al-Jazeera-7> .
+ <http://WarnerBros-Al-Jazeera-7.com/blank#n6350d3cfcd994ba5968dc99e5cf1ddbfb4> <http://example.org/ontology#inProcessOfAcquiring> <http://dbpedia.org/resource/Yahoo> <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/corporation/atandt#ATandT> <http://example.org/ontology#revenue> "$147bn"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/corporation/atandt#MergerWithTimeWarner> <http://example.org/ontology#with> <http://example.org/corporation/timeWarner#TimeWarner> <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/corporation/timeWarner#TimeWarner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#MediaEntertainmentCompany> <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/corporation/timeWarner#HBO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#TVProductionGroup> <WarnerBros-Al-Jazeera-7> .
+ <http://WarnerBros-Al-Jazeera-7.com/blank#n6350d3cfcd994ba5968dc99e5cf1ddbfb2> <http://example.org/ontology#cableChannels> "TBS"  <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/corporation/atandt#RandallStephenson> <http://example.org/ontology#name> "Randall Stephenson"  <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/corporation/atandt#ATandT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#TelecomCompany> <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/corporation/timeWarner#WarnerBrosStudios> <http://example.org/ontology#name> "Warner Bros studios"  <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/ontology#Comcast> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Company> <WarnerBros-Al-Jazeera-7> .
+ <http://WarnerBros-Al-Jazeera-7.com/blank#n6350d3cfcd994ba5968dc99e5cf1ddbfb2> <http://example.org/ontology#cableChannels> "TNT"  <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/ontology#Verizon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Company> <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/corporation/atandt#ATandT> <http://example.org/ontology#expansionActivity> <http://WarnerBros-Al-Jazeera-7.com/blank#n6350d3cfcd994ba5968dc99e5cf1ddbfb1>  <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/ontology#Comcast> <http://example.org/ontology#name> "Comcast"  <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/ontology#Amazon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#OnlineService> <WarnerBros-Al-Jazeera-7> .
+ <http://example.org/corporation/atandt#ATandT> <http://example.org/ontology#position> "third-largest cable TV provider in the US"  <WarnerBros-Al-Jazeera-7> .
+ <http://WarnerBros-Al-Jazeera-7.com/blank#n6350d3cfcd994ba5968dc99e5cf1ddbfb2> <http://example.org/ontology#newsChannel> <http://example.org/corporation/timeWarner#CNN> <WarnerBros-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/ATandT_Inc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Ashton_Kutcher> <http://xmlns.com/foaf/0.1/name> "Ashton Kutcher"  <WarnerBros-Al-Jazeera-8> .
+ <http://WarnerBros-Al-Jazeera-8.com/blank#n631a45cde57d42a498e1e579d9c196bbb2> <http://schema.org/object> <http://dbpedia.org/resource/Fantastic_Beasts_(film_series)> <WarnerBros-Al-Jazeera-8> .
+ <http://WarnerBros-Al-Jazeera-8.com/blank#n631a45cde57d42a498e1e579d9c196bbb4> <http://schema.org/mentions> "appeal judgement"  <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Warner_Bros> <http://dbpedia.org/ontology/owner> <http://dbpedia.org/resource/ATandT_Inc> <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Charlie_Sheen> <http://xmlns.com/foaf/0.1/name> "Charlie Sheen"  <WarnerBros-Al-Jazeera-8> .
+ <http://WarnerBros-Al-Jazeera-8.com/blank#n631a45cde57d42a498e1e579d9c196bbb5> <http://dbpedia.org/ontology/comment> "circumstances of the divorce were a private matter"  <WarnerBros-Al-Jazeera-8> .
+ <http://WarnerBros-Al-Jazeera-8.com/blank#n631a45cde57d42a498e1e579d9c196bbb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Christopher_Plummer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/JK_Rowling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-Al-Jazeera-8> .
+ <http://WarnerBros-Al-Jazeera-8.com/blank#n631a45cde57d42a498e1e579d9c196bbb2> <http://schema.org/agent> <http://dbpedia.org/resource/Johnny_Depp> <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Fantastic_Beasts_(film_series)> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/David_Yates> <WarnerBros-Al-Jazeera-8> .
+ <http://WarnerBros-Al-Jazeera-8.com/blank#n631a45cde57d42a498e1e579d9c196bbb2> <http://schema.org/result> "recast"  <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Fantastic_Beasts_(film_series)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FilmSeries> <WarnerBros-Al-Jazeera-8> .
+ <http://WarnerBros-Al-Jazeera-8.com/blank#n631a45cde57d42a498e1e579d9c196bbb6> <http://dbpedia.org/ontology/date> "2017"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/The_Sun_(United_Kingdom)> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_Kingdom> <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Johnny_Depp> <http://dbpedia.org/ontology/birthDate> "1963-06-09"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Fantastic_Beasts_(film_series)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Johnny_Depp> <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/All_the_Money_in_the_World> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Christopher_Plummer> <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/JK_Rowling> <http://xmlns.com/foaf/0.1/name> "JK Rowling"  <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Warner_Bros> <http://xmlns.com/foaf/0.1/name> "Warner Bros"  <WarnerBros-Al-Jazeera-8> .
+ <http://WarnerBros-Al-Jazeera-8.com/blank#n631a45cde57d42a498e1e579d9c196bbb1> <http://schema.org/eventType> "libel case"  <WarnerBros-Al-Jazeera-8> .
+ <http://WarnerBros-Al-Jazeera-8.com/blank#n631a45cde57d42a498e1e579d9c196bbb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <WarnerBros-Al-Jazeera-8> .
+ <http://WarnerBros-Al-Jazeera-8.com/blank#n631a45cde57d42a498e1e579d9c196bbb6> <http://dbpedia.org/ontology/comment> "supported to decision to keep Depp"  <WarnerBros-Al-Jazeera-8> .
+ <http://WarnerBros-Al-Jazeera-8.com/blank#n631a45cde57d42a498e1e579d9c196bbb4> <http://schema.org/about> "domestic violence allegations"  <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/JK_Rowling> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Author> <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Fantastic_Beasts_(film_series)> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Warner_Bros> <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Ashton_Kutcher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/The_Sun_(United_Kingdom)> <http://schema.org/publisher> <http://dbpedia.org/resource/News_UK> <WarnerBros-Al-Jazeera-8> .
+ <http://WarnerBros-Al-Jazeera-8.com/blank#n631a45cde57d42a498e1e579d9c196bbb1> <http://dbpedia.org/ontology/result> "lost"  <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Gellert_Grindelwald> <http://dbpedia.org/ontology/characterRole> "Villain"  <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Two_and_a_Half_Men> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow> <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Johnny_Depp> <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Amber_Heard> <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Johnny_Depp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Johnny_Depp> <http://schema.org/workExample> <http://dbpedia.org/resource/Fantastic_Beasts:_The_Crimes_of_Grindelwald> <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Amber_Heard> <http://dbpedia.org/ontology/birthDate> "1986-04-22"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/JK_Rowling> <http://dbpedia.org/ontology/creatorOf> <http://dbpedia.org/resource/Harry_Potter> <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Amber_Heard> <http://xmlns.com/foaf/0.1/name> "Amber Heard"  <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Gellert_Grindelwald> <http://schema.org/actor> <http://dbpedia.org/resource/Johnny_Depp> <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Fantastic_Beasts_(film_series)> <http://dbpedia.org/ontology/releaseDate> "2022-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Fantastic_Beasts_(film_series)> <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/JK_Rowling> <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Fantastic_Beasts_(film_series)> <http://dbpedia.org/ontology/revenue> "1500000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Johnny_Depp> <http://schema.org/alumniOf> <http://dbpedia.org/resource/Pirates_of_the_Caribbean_(film_series)> <WarnerBros-Al-Jazeera-8> .
+ <http://WarnerBros-Al-Jazeera-8.com/blank#n631a45cde57d42a498e1e579d9c196bbb3> <http://dbpedia.org/ontology/comment> "declined to comment on Depp’s departure"  <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/The_Sun_(United_Kingdom)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Newspaper> <WarnerBros-Al-Jazeera-8> .
+ <http://WarnerBros-Al-Jazeera-8.com/blank#n631a45cde57d42a498e1e579d9c196bbb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Johnny_Depp> <http://schema.org/memberOf> <http://dbpedia.org/resource/Fantastic_Beasts_(film_series)> <WarnerBros-Al-Jazeera-8> .
+ <http://WarnerBros-Al-Jazeera-8.com/blank#n631a45cde57d42a498e1e579d9c196bbb2> <http://dbpedia.org/ontology/cause> "libel case loss"  <WarnerBros-Al-Jazeera-8> .
+ <http://WarnerBros-Al-Jazeera-8.com/blank#n631a45cde57d42a498e1e579d9c196bbb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LeaveAction> <WarnerBros-Al-Jazeera-8> .
+ <http://WarnerBros-Al-Jazeera-8.com/blank#n631a45cde57d42a498e1e579d9c196bbb4> <http://dbpedia.org/ontology/comment> "false"  <WarnerBros-Al-Jazeera-8> .
+ <http://WarnerBros-Al-Jazeera-8.com/blank#n631a45cde57d42a498e1e579d9c196bbb5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Amber_Heard> <http://xmlns.com/foaf/0.1/age> "34"^^<http://www.w3.org/2001/XMLSchema#int>  <WarnerBros-Al-Jazeera-8> .
+ <http://WarnerBros-Al-Jazeera-8.com/blank#n631a45cde57d42a498e1e579d9c196bbb3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/ATandT_Inc> <http://xmlns.com/foaf/0.1/name> "ATandT Inc."  <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Kevin_Spacey> <http://xmlns.com/foaf/0.1/name> "Kevin Spacey"  <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Kevin_Spacey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-Al-Jazeera-8> .
+ <http://WarnerBros-Al-Jazeera-8.com/blank#n631a45cde57d42a498e1e579d9c196bbb5> <http://schema.org/author> <http://dbpedia.org/resource/JK_Rowling> <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/All_the_Money_in_the_World> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Johnny_Depp> <http://xmlns.com/foaf/0.1/age> "57"^^<http://www.w3.org/2001/XMLSchema#int>  <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Amber_Heard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Two_and_a_Half_Men> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Ashton_Kutcher> <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/The_Sun_(United_Kingdom)> <http://xmlns.com/foaf/0.1/name> "The Sun"  <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Johnny_Depp> <http://schema.org/alumniOf> <http://dbpedia.org/resource/Edward_Scissorhands> <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Warner_Bros> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Kevin_Spacey> <http://dbpedia.org/ontology/accusation> "sexual misconduct"  <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Gellert_Grindelwald> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FictionalCharacter> <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Charlie_Sheen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WarnerBros-Al-Jazeera-8> .
+ <http://WarnerBros-Al-Jazeera-8.com/blank#n631a45cde57d42a498e1e579d9c196bbb3> <http://schema.org/author> <http://dbpedia.org/resource/JK_Rowling> <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Christopher_Plummer> <http://xmlns.com/foaf/0.1/name> "Christopher Plummer"  <WarnerBros-Al-Jazeera-8> .
+ <http://WarnerBros-Al-Jazeera-8.com/blank#n631a45cde57d42a498e1e579d9c196bbb4> <http://schema.org/author> <http://dbpedia.org/resource/Johnny_Depp> <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Johnny_Depp> <http://xmlns.com/foaf/0.1/name> "Johnny Depp"  <WarnerBros-Al-Jazeera-8> .
+ <http://WarnerBros-Al-Jazeera-8.com/blank#n631a45cde57d42a498e1e579d9c196bbb6> <http://schema.org/author> <http://dbpedia.org/resource/Warner_Bros> <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Johnny_Depp> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Actor> <WarnerBros-Al-Jazeera-8> .
+ <http://WarnerBros-Al-Jazeera-8.com/blank#n631a45cde57d42a498e1e579d9c196bbb1> <http://schema.org/actor> <http://dbpedia.org/resource/Johnny_Depp> <WarnerBros-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Johnny_Depp> <http://schema.org/workExample> <http://dbpedia.org/resource/Fantastic_Beasts_and_Where_to_Find_Them_(film)> <WarnerBros-Al-Jazeera-8> .
+ <http://WarnerBros-Al-Jazeera-8.com/blank#n631a45cde57d42a498e1e579d9c196bbb5> <http://dbpedia.org/ontology/date> "2017"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WarnerBros-Al-Jazeera-8> .
+ <http://WarnerBros-Al-Jazeera-8.com/blank#n631a45cde57d42a498e1e579d9c196bbb1> <http://schema.org/against> <http://dbpedia.org/resource/The_Sun_(United_Kingdom)> <WarnerBros-Al-Jazeera-8> .
+ <http://WarnerBros-Al-Jazeera-9.com/blank#n5038948a0f91426d96dce6fbe31a29adb5> <http://schema.org/name> "Hollywood strike and sluggish start to the summer"  <WarnerBros-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Barbenheimer> <http://dbpedia.org/ontology/revenue> "300000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-9> .
+ <http://WarnerBros-Al-Jazeera-9.com/blank#n5038948a0f91426d96dce6fbe31a29adb2> <http://schema.org/ratingValue> "90"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Hollywood> <http://dbpedia.org/ontology/strike> "biggest strike in decades"  <WarnerBros-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Michael_O'Leary> <http://schema.org/jobTitle> "CEO"  <WarnerBros-Al-Jazeera-9> .
+ <http://WarnerBros-Al-Jazeera-9.com/blank#n5038948a0f91426d96dce6fbe31a29adb5> <http://schema.org/startDate> "2023-06-01"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Jeff_Goldstein> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-Al-Jazeera-9> .
+ <http://WarnerBros-Al-Jazeera-9.com/blank#n5038948a0f91426d96dce6fbe31a29adb5> <http://schema.org/endDate> "2023-07-27"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/The_Super_Mario_Bros_Movie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <WarnerBros-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Mission:_Impossible_–_Dead_Reckoning_Part_One> <http://dbpedia.org/ontology/openingWeekendRevenue> "19500000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Barbie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <WarnerBros-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Jeff_Goldstein> <http://schema.org/affiliation> <http://dbpedia.org/resource/Warner_Bros> <WarnerBros-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Jeff_Goldstein> <http://schema.org/name> "Jeff Goldstein"  <WarnerBros-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Barbenheimer> <http://schema.org/description> "The same-day release of Barbie and Oppenheimer films."  <WarnerBros-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Hollywood> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Film_industry> <WarnerBros-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Oppenheimer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <WarnerBros-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/The_Flash> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <WarnerBros-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Sound_of_Freedom> <http://dbpedia.org/ontology/openingWeekendRevenue> "20140000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Barbie> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Warner_Bros> <WarnerBros-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Barbenheimer> <http://schema.org/endDate> "2023-07-30"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Michael_O'Leary> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WarnerBros-Al-Jazeera-9> .
+ <http://WarnerBros-Al-Jazeera-9.com/blank#n5038948a0f91426d96dce6fbe31a29adb1> <http://dbpedia.org/ontology/openingWeekendNorthAmerica> "155000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Hollywood> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <WarnerBros-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Sound_of_Freedom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <WarnerBros-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Oppenheimer> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Christopher_Nolan> <WarnerBros-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Barbenheimer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <WarnerBros-Al-Jazeera-9> .
+ <http://WarnerBros-Al-Jazeera-9.com/blank#n5038948a0f91426d96dce6fbe31a29adb6> <http://schema.org/endDate> "2023-07-30"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Oppenheimer> <http://dbpedia.org/ontology/subject> <http://dbpedia.org/resource/J_Robert_Oppenheimer> <WarnerBros-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Barbie> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Greta_Gerwig> <WarnerBros-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Barbenheimer> <http://schema.org/startDate> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Barbie> <http://dbpedia.org/ontology/openingWeekendRevenue> "155000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Oppenheimer> <http://dbpedia.org/ontology/openingWeekendRevenue> "80500000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-9> .
+ <http://WarnerBros-Al-Jazeera-9.com/blank#n5038948a0f91426d96dce6fbe31a29adb5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <WarnerBros-Al-Jazeera-9> .
+ <http://WarnerBros-Al-Jazeera-9.com/blank#n5038948a0f91426d96dce6fbe31a29adb3> <http://dbpedia.org/ontology/openingWeekendNorthAmerica> "80500000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Barbie> <http://dbpedia.org/ontology/runtime> <http://WarnerBros-Al-Jazeera-9.com/blank#n5038948a0f91426d96dce6fbe31a29adb1>  <WarnerBros-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Mission:_Impossible_–_Dead_Reckoning_Part_One> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <WarnerBros-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Mission:_Impossible_–_Dead_Reckoning_Part_One> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Paramount_Pictures> <WarnerBros-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Michael_O'Leary> <http://schema.org/affiliation> <http://dbpedia.org/resource/National_Association_of_Theatre_Owners> <WarnerBros-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Oppenheimer> <http://dbpedia.org/ontology/runtime> <http://WarnerBros-Al-Jazeera-9.com/blank#n5038948a0f91426d96dce6fbe31a29adb3>  <WarnerBros-Al-Jazeera-9> .
+ <http://WarnerBros-Al-Jazeera-9.com/blank#n5038948a0f91426d96dce6fbe31a29adb6> <http://schema.org/name> "Barbie and Oppenheimer boost Hollywood box office"  <WarnerBros-Al-Jazeera-9> .
+ <http://WarnerBros-Al-Jazeera-9.com/blank#n5038948a0f91426d96dce6fbe31a29adb6> <http://schema.org/startDate> "2023-07-28"^^<http://www.w3.org/2001/XMLSchema#date>  <WarnerBros-Al-Jazeera-9> .
+ <http://WarnerBros-Al-Jazeera-9.com/blank#n5038948a0f91426d96dce6fbe31a29adb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <WarnerBros-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Oppenheimer> <http://schema.org/aggregateRating> <http://WarnerBros-Al-Jazeera-9.com/blank#n5038948a0f91426d96dce6fbe31a29adb4>  <WarnerBros-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Jeff_Goldstein> <http://schema.org/jobTitle> "President of Domestic Distribution"  <WarnerBros-Al-Jazeera-9> .
+ <http://WarnerBros-Al-Jazeera-9.com/blank#n5038948a0f91426d96dce6fbe31a29adb6> <http://dbpedia.org/ontology/revenue> "235500000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Michael_O'Leary> <http://schema.org/name> "Michael O'Leary"  <WarnerBros-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Indiana_Jones_and_the_Dial_of_Destiny> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <WarnerBros-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Barbie> <http://schema.org/aggregateRating> <http://WarnerBros-Al-Jazeera-9.com/blank#n5038948a0f91426d96dce6fbe31a29adb2>  <WarnerBros-Al-Jazeera-9> .
+ <http://WarnerBros-Al-Jazeera-9.com/blank#n5038948a0f91426d96dce6fbe31a29adb4> <http://schema.org/ratingValue> "94"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WarnerBros-Al-Jazeera-9> .

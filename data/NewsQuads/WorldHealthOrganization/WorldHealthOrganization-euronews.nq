@@ -1,0 +1,811 @@
+ <http://example.org/ontology#EULeadersSummit> <http://dbpedia.org/ontology/conclusion> <http://example.org/ontology#EULeadersConclusions> <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#RussianAssetsInEU> <http://dbpedia.org/ontology/location> <http://example.org/ontology#EU> <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#EuroclearCosts> <http://dbpedia.org/ontology/managementCosts> "34000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#EuroclearRevenue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FinancialAsset> <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#EuroclearRevenue> <http://dbpedia.org/ontology/timePeriod> "first nine months of this year"  <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#AssetsFrozenEvent> <http://dbpedia.org/ontology/associatedWith> <http://example.org/ontology#RussianCentralBank> <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#G7> <http://xmlns.com/foaf/0.1/name> "G7"  <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#EU> <http://xmlns.com/foaf/0.1/name> "European Union"  <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#G7> <http://dbpedia.org/ontology/taskForce> <http://example.org/ontology#G7TaskForce> <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#EuroclearRevenue> <http://dbpedia.org/ontology/interestEarned> "3000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#G7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#G7TaskForce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TaskForce> <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#UkraineReconstruction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Project> <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#Euroclear> <http://dbpedia.org/ontology/revenue> <http://example.org/ontology#EuroclearRevenue> <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#AssetsFrozenEvent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#Proposal> <http://dbpedia.org/ontology/about> <http://example.org/ontology#WindfallProfits> <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#ECB> <http://xmlns.com/foaf/0.1/name> "European Central Bank"  <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#UrsulaVonDerLeyen> <http://dbpedia.org/ontology/office> "President of the European Commission"  <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#EULeadersSummit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#Proposal> <http://dbpedia.org/ontology/author> <http://example.org/ontology#UrsulaVonDerLeyen> <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#AssetsFrozenEvent> <http://dbpedia.org/ontology/location> <http://example.org/ontology#EU> <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#EU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#SanctionsRound12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#EULeadersSummit> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Brussels> <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#RussianCentralBank> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#AssetsFrozenEvent> <http://dbpedia.org/ontology/cause> <http://example.org/ontology#WesternSanctions> <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#WesternSanctions> <http://dbpedia.org/ontology/purpose> "Cripple Russia's ability to finance the war against Ukraine"  <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#AssetsFrozenEvent> <http://dbpedia.org/ontology/startDate> "2022-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#UkraineReconstruction> <http://dbpedia.org/ontology/associatedWith> <http://dbpedia.org/resource/Ukraine> <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#RussianAssetsInEU> <http://dbpedia.org/ontology/value> "211000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#G7TaskForce> <http://dbpedia.org/ontology/objective> "Examine possible ways to tap into the extraordinary revenues from Russian assets"  <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#WindfallProfits> <http://dbpedia.org/ontology/description> "Proceeds from immobilised assets of the Russian Central Bank"  <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#ECB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#EuroclearCosts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FinancialAsset> <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#Euroclear> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#RussianAssetsInEuroclear> <http://dbpedia.org/ontology/heldBy> <http://example.org/ontology#Euroclear> <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#WesternSanctions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#RussianAssetsInEuroclear> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FinancialAsset> <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#UrsulaVonDerLeyen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#WesternSanctions> <http://dbpedia.org/ontology/target> <http://example.org/ontology#RussianCentralBank> <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#RussianAssetsInEuroclear> <http://dbpedia.org/ontology/value> "180000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#Euroclear> <http://xmlns.com/foaf/0.1/name> "Euroclear"  <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#UrsulaVonDerLeyen> <http://xmlns.com/foaf/0.1/name> "Ursula von der Leyen"  <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#UkraineReconstruction> <http://dbpedia.org/ontology/estimatedCost> "411000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#SanctionsRound12> <http://dbpedia.org/ontology/number> "12"^^<http://www.w3.org/2001/XMLSchema#integer>  <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#WindfallProfits> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FinancialAsset> <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#RussianCentralBank> <http://xmlns.com/foaf/0.1/name> "Russian Central Bank"  <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#Euroclear> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Brussels> <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#RussianAssetsInEU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FinancialAsset> <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#SanctionsRound12> <http://dbpedia.org/ontology/startDate> "2022-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#Proposal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Document> <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#Proposal> <http://dbpedia.org/ontology/purpose> "Pay for Ukraine's reconstruction"  <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#SanctionsRound12> <http://dbpedia.org/ontology/purpose> "Ban imports of Russian diamonds and crack down on circumvention"  <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#Euroclear> <http://dbpedia.org/ontology/cost> <http://example.org/ontology#EuroclearCosts> <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#EULeadersConclusions> <http://dbpedia.org/ontology/content> "Russia is responsible for the massive damage caused by its war of aggression against Ukraine"  <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#EULeadersConclusions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Document> <WorldHealthOrganization-euronews-0> .
+ <http://example.org/ontology#SanctionsRound12> <http://dbpedia.org/ontology/target> <http://dbpedia.org/resource/Russia> <WorldHealthOrganization-euronews-0> .
+ <http://example.org/photos/Moscow_Sep2023_AlexanderZemlianichenko> <http://schema.org/location> "Moscow"  <WorldHealthOrganization-euronews-1> .
+ <http://example.org/photographers/AlexanderZemlianichenko> <http://xmlns.com/foaf/0.1/name> "Alexander Zemlianichenko"  <WorldHealthOrganization-euronews-1> .
+ <http://example.org/organizations/Euronews> <http://schema.org/name> "Euronews"  <WorldHealthOrganization-euronews-1> .
+ <http://example.org/authors/KirillMartynov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-euronews-1> .
+ <http://example.org/universities/RUDNUniversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EducationalOrganization> <WorldHealthOrganization-euronews-1> .
+ <http://example.org/photographers/DmitriLovetsky> <http://xmlns.com/foaf/0.1/depiction> <http://example.org/photos/StPetersburg_Oct2023_DmitriLovetsky> <WorldHealthOrganization-euronews-1> .
+ <http://example.org/photos/Moscow_Sep2023_AlexanderZemlianichenko> <http://schema.org/datePublished> "2023-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <WorldHealthOrganization-euronews-1> .
+ <http://example.org/authors/AleksandarĐokić> <http://xmlns.com/foaf/0.1/name> "Aleksandar Đokić"  <WorldHealthOrganization-euronews-1> .
+ <http://example.org/photos/Moscow_Aug2023_AlexanderZemlianichenko> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> <WorldHealthOrganization-euronews-1> .
+ <http://example.org/photos/Moscow_Aug2023_AlexanderZemlianichenko> <http://schema.org/location> "Moscow"  <WorldHealthOrganization-euronews-1> .
+ <http://example.org/organizations/NovayaGazetaEurope> <http://schema.org/employee> <http://example.org/authors/KirillMartynov> <WorldHealthOrganization-euronews-1> .
+ <http://example.org/authors/AleksandarĐokić> <http://xmlns.com/foaf/0.1/title> "Political scientist and analyst"  <WorldHealthOrganization-euronews-1> .
+ <http://example.org/organizations/Euronews> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WorldHealthOrganization-euronews-1> .
+ <http://WorldHealthOrganization-euronews-1.com/blank#nfcf3c1079f034bd6b36d763adf59b239b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ContactPoint> <WorldHealthOrganization-euronews-1> .
+ <http://example.org/article> <http://purl.org/dc/elements/1.1/language> "en"  <WorldHealthOrganization-euronews-1> .
+ <http://example.org/organizations/Euronews> <http://schema.org/contactPoint> <http://WorldHealthOrganization-euronews-1.com/blank#nfcf3c1079f034bd6b36d763adf59b239b1>  <WorldHealthOrganization-euronews-1> .
+ <http://example.org/photos/Moscow_Sep2023_AlexanderZemlianichenko> <http://schema.org/author> <http://example.org/photographers/AlexanderZemlianichenko> <WorldHealthOrganization-euronews-1> .
+ <http://example.org/photos/StPetersburg_Oct2023_DmitriLovetsky> <http://schema.org/location> "St. Petersburg"  <WorldHealthOrganization-euronews-1> .
+ <http://example.org/authors/AleksandarĐokić> <http://schema.org/jobTitle> "Political scientist and analyst"  <WorldHealthOrganization-euronews-1> .
+ <http://example.org/photographers/DmitriLovetsky> <http://xmlns.com/foaf/0.1/name> "Dmitri Lovetsky"  <WorldHealthOrganization-euronews-1> .
+ <http://example.org/photos/StPetersburg_Oct2023_DmitriLovetsky> <http://schema.org/datePublished> "2023-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <WorldHealthOrganization-euronews-1> .
+ <http://example.org/photographers/AlexanderZemlianichenko> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-euronews-1> .
+ <http://example.org/photographers/AlexanderZemlianichenko> <http://xmlns.com/foaf/0.1/depiction> <http://example.org/photos/Moscow_Aug2023_AlexanderZemlianichenko> <WorldHealthOrganization-euronews-1> .
+ <http://example.org/photos/Moscow_Aug2023_AlexanderZemlianichenko> <http://schema.org/author> <http://example.org/photographers/AlexanderZemlianichenko> <WorldHealthOrganization-euronews-1> .
+ <http://example.org/photographers/AlexanderZemlianichenko> <http://xmlns.com/foaf/0.1/depiction> <http://example.org/photos/Moscow_Sep2023_AlexanderZemlianichenko> <WorldHealthOrganization-euronews-1> .
+ <http://example.org/photographers/DmitriLovetsky> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-euronews-1> .
+ <http://example.org/authors/KirillMartynov> <http://schema.org/jobTitle> "Editor-in-chief"  <WorldHealthOrganization-euronews-1> .
+ <http://example.org/organizations/NovayaGazetaEurope> <http://schema.org/name> "Novaya Gazeta Europe"  <WorldHealthOrganization-euronews-1> .
+ <http://example.org/organizations/NovayaGazetaEurope> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WorldHealthOrganization-euronews-1> .
+ <http://example.org/authors/KirillMartynov> <http://xmlns.com/foaf/0.1/name> "Kirill Martynov"  <WorldHealthOrganization-euronews-1> .
+ <http://example.org/universities/RUDNUniversity> <http://schema.org/alumni> <http://example.org/authors/AleksandarĐokić> <WorldHealthOrganization-euronews-1> .
+ <http://WorldHealthOrganization-euronews-1.com/blank#nfcf3c1079f034bd6b36d763adf59b239b1> <http://schema.org/contactType> "editorial"  <WorldHealthOrganization-euronews-1> .
+ <http://example.org/article> <http://purl.org/dc/elements/1.1/description> "The article discusses the current political climate in Russia, comparing it to the Stalinist era and the repression experienced then. It suggests that the freedoms in Russia are now completely gone and advises people to leave the country."  <WorldHealthOrganization-euronews-1> .
+ <http://example.org/photographers/AlexanderZemlianichenko> <http://schema.org/jobTitle> "Photographer"  <WorldHealthOrganization-euronews-1> .
+ <http://example.org/authors/AleksandarĐokić> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-euronews-1> .
+ <http://example.org/article> <http://purl.org/dc/elements/1.1/date> "2023-10-23"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-euronews-1> .
+ <http://example.org/universities/RUDNUniversity> <http://schema.org/name> "RUDN University"  <WorldHealthOrganization-euronews-1> .
+ <http://example.org/authors/KirillMartynov> <http://xmlns.com/foaf/0.1/currentProject> <http://example.org/organizations/NovayaGazetaEurope> <WorldHealthOrganization-euronews-1> .
+ <http://example.org/photos/Moscow_Aug2023_AlexanderZemlianichenko> <http://schema.org/datePublished> "2023-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <WorldHealthOrganization-euronews-1> .
+ <http://example.org/photos/Moscow_Sep2023_AlexanderZemlianichenko> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> <WorldHealthOrganization-euronews-1> .
+ <http://WorldHealthOrganization-euronews-1.com/blank#nfcf3c1079f034bd6b36d763adf59b239b1> <http://schema.org/email> "view@euronews.com"  <WorldHealthOrganization-euronews-1> .
+ <http://example.org/photographers/DmitriLovetsky> <http://schema.org/jobTitle> "Photographer"  <WorldHealthOrganization-euronews-1> .
+ <http://example.org/article> <http://purl.org/dc/elements/1.1/title> "Leave, and if you haven’t yet, make plans to do so. In Russia, all of the previously eroded freedoms are now completely gone"  <WorldHealthOrganization-euronews-1> .
+ <http://example.org/article> <http://purl.org/dc/elements/1.1/creator> <http://example.org/authors/AleksandarĐokić> <WorldHealthOrganization-euronews-1> .
+ <http://example.org/photos/StPetersburg_Oct2023_DmitriLovetsky> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> <WorldHealthOrganization-euronews-1> .
+ <http://example.org/authors/AleksandarĐokić> <http://xmlns.com/foaf/0.1/publications> <http://example.org/article> <WorldHealthOrganization-euronews-1> .
+ <http://example.org/photos/StPetersburg_Oct2023_DmitriLovetsky> <http://schema.org/author> <http://example.org/photographers/DmitriLovetsky> <WorldHealthOrganization-euronews-1> .
+ <http://example.org/ontology#StephenChbosky> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#DragonSlayersUnited> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#DrJamesPartridge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#SupportGroups> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/OrganisationType> <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#DrJamesPartridge> <http://dbpedia.org/ontology/title> "OBE"  <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#BritishFilmInstitute> <http://example.org/ontology#policy> <http://example.org/ontology#NoFundingForFilmsWithFacialScarringVillains> <WorldHealthOrganization-euronews-2> .
+ <http://faceequalityinternational.org/ontology#PhyllidaSwift> <http://example.org/ontology#associatedWith> <http://faceequalityinternational.org/ontology#ChangingFaces> <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#CallToHollywood> <http://dbpedia.org/ontology/author> <http://faceequalityinternational.org/ontology#FaceEqualityInternational> <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#CallToHollywood> <http://www.w3.org/2000/01/rdf-schema#label> "Position Paper and Call To Hollywood"  <WorldHealthOrganization-euronews-2> .
+ <http://faceequalityinternational.org/ontology#FaceEqualityInternational> <http://example.org/ontology#allianceWith> <http://example.org/ontology#Charities> <WorldHealthOrganization-euronews-2> .
+ <http://faceequalityinternational.org/ontology#FaceEqualityInternational> <http://dbpedia.org/ontology/industry> <http://example.org/ontology#Charity> <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#IAmNotYourVillainCampaign> <http://dbpedia.org/ontology/launchYear> "2018"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#DragonSlayersUnited> <http://dbpedia.org/ontology/festival> <http://example.org/ontology#LondonFilmFestival> <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#NoFundingForFilmsWithFacialScarringVillains> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Policy> <WorldHealthOrganization-euronews-2> .
+ <http://faceequalityinternational.org/ontology#PhyllidaSwift> <http://example.org/ontology#focus> <http://example.org/ontology#GlobalCampaignForFaceEquality> <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#GlobalCampaignForFaceEquality> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Campaign> <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#DragonSlayersUnited> <http://dbpedia.org/ontology/producer> <http://example.org/ontology#Disney> <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#AdamPearson> <http://xmlns.com/foaf/0.1/name> "Adam Pearson"  <WorldHealthOrganization-euronews-2> .
+ <http://faceequalityinternational.org/ontology#PhyllidaSwift> <http://example.org/ontology#associatedWith> <http://faceequalityinternational.org/ontology#FaceEqualityInternational> <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#AdamPearson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-euronews-2> .
+ <http://faceequalityinternational.org/ontology#PhyllidaSwift> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-euronews-2> .
+ <http://faceequalityinternational.org/ontology#PhyllidaSwift> <http://example.org/ontology#involvedSince> "2015"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#DrJamesPartridge> <http://xmlns.com/foaf/0.1/name> "Dr. James Partridge"  <WorldHealthOrganization-euronews-2> .
+ <http://faceequalityinternational.org/ontology#FaceEqualityInternational> <http://dbpedia.org/ontology/foundationYear> "2018"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WorldHealthOrganization-euronews-2> .
+ <http://faceequalityinternational.org/ontology#PhyllidaSwift> <http://dbpedia.org/ontology/employer> <http://faceequalityinternational.org/ontology#FaceEqualityInternational> <WorldHealthOrganization-euronews-2> .
+ <http://faceequalityinternational.org/ontology#PhyllidaSwift> <http://example.org/ontology#accidentType> <http://example.org/ontology#CarAccident> <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#BoyWithTreacherCollinsSyndrome> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Character> <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#DragonSlayersUnited> <http://dbpedia.org/ontology/starring> <http://faceequalityinternational.org/ontology#PhyllidaSwift> <WorldHealthOrganization-euronews-2> .
+ <http://faceequalityinternational.org/ontology#PhyllidaSwift> <http://example.org/ontology#activismStartYear> "2015"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#GlobalCampaignForFaceEquality> <http://www.w3.org/2000/01/rdf-schema#label> "global campaign for face equality"  <WorldHealthOrganization-euronews-2> .
+ <http://faceequalityinternational.org/ontology#FaceEqualityInternational> <http://dbpedia.org/ontology/location> <http://example.org/ontology#Global> <WorldHealthOrganization-euronews-2> .
+ <http://faceequalityinternational.org/ontology#ChangingFaces> <http://dbpedia.org/ontology/location> <http://example.org/ontology#UK> <WorldHealthOrganization-euronews-2> .
+ <http://faceequalityinternational.org/ontology#FaceEqualityInternational> <http://dbpedia.org/ontology/founder> <http://example.org/ontology#DrJamesPartridge> <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#Entertainment> <http://www.w3.org/2000/01/rdf-schema#label> "entertainment industry"  <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#Disney> <http://dbpedia.org/ontology/industry> <http://example.org/ontology#Entertainment> <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#JuliaRoberts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-euronews-2> .
+ <http://faceequalityinternational.org/ontology#FaceEqualityInternational> <http://example.org/ontology#allianceWith> <http://example.org/ontology#SupportGroups> <WorldHealthOrganization-euronews-2> .
+ <http://faceequalityinternational.org/ontology#FaceEqualityInternational> <http://example.org/ontology#representedBy> <http://faceequalityinternational.org/ontology#ChangingFacesUK> <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#IAmNotYourVillainCampaign> <http://dbpedia.org/ontology/supporter> <http://example.org/ontology#BritishFilmInstitute> <WorldHealthOrganization-euronews-2> .
+ <http://faceequalityinternational.org/ontology#PhyllidaSwift> <http://xmlns.com/foaf/0.1/name> "Phyllida Swift"  <WorldHealthOrganization-euronews-2> .
+ <http://faceequalityinternational.org/ontology#FaceEqualityInternational> <http://dbpedia.org/ontology/product> <http://example.org/ontology#FaceEqualityCampaign> <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#CarAccident> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#Global> <http://www.w3.org/2000/01/rdf-schema#label> "Global"  <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#FacialScarring> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Injury> <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#Wonder> <http://dbpedia.org/ontology/director> <http://example.org/ontology#StephenChbosky> <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#Wonder> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#Charities> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/OrganisationType> <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#CarAccident> <http://www.w3.org/2000/01/rdf-schema#label> "car accident"  <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#LondonFilmFestival> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#IAmNotYourVillainCampaign> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Campaign> <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#CallToHollywood> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Document> <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#DrJamesPartridge> <http://dbpedia.org/ontology/occupation> <http://example.org/ontology#BurnSurvivor> <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#JuliaRoberts> <http://xmlns.com/foaf/0.1/name> "Julia Roberts"  <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#Disney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#DragonSlayersUnited> <http://dbpedia.org/ontology/starring> <http://example.org/ontology#AdamPearson> <WorldHealthOrganization-euronews-2> .
+ <http://faceequalityinternational.org/ontology#FaceEqualityInternational> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-euronews-2> .
+ <http://faceequalityinternational.org/ontology#FaceEqualityInternational> <http://example.org/ontology#allianceWith> <http://example.org/ontology#NGOs> <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#Wonder> <http://example.org/ontology#character> <http://example.org/ontology#BoyWithTreacherCollinsSyndrome> <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#BritishFilmInstitute> <http://dbpedia.org/ontology/abbreviation> "BFI"  <WorldHealthOrganization-euronews-2> .
+ <http://faceequalityinternational.org/ontology#PhyllidaSwift> <http://dbpedia.org/ontology/occupation> <http://faceequalityinternational.org/ontology#CEO> <WorldHealthOrganization-euronews-2> .
+ <http://faceequalityinternational.org/ontology#ChangingFaces> <http://dbpedia.org/ontology/industry> <http://example.org/ontology#Charity> <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#LondonFilmFestival> <http://www.w3.org/2000/01/rdf-schema#label> "London Film Festival"  <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#NoFundingForFilmsWithFacialScarringVillains> <http://www.w3.org/2000/01/rdf-schema#label> "no longer fund films in which villains appear with facial scaring"  <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#StephenChbosky> <http://xmlns.com/foaf/0.1/name> "Stephen Chbosky"  <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#Charities> <http://www.w3.org/2000/01/rdf-schema#label> "Charities"  <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#Global> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <WorldHealthOrganization-euronews-2> .
+ <http://faceequalityinternational.org/ontology#ChangingFaces> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#NGOs> <http://www.w3.org/2000/01/rdf-schema#label> "Non-Governmental Organisations"  <WorldHealthOrganization-euronews-2> .
+ <http://faceequalityinternational.org/ontology#FaceEqualityInternational> <http://dbpedia.org/ontology/abbreviation> "FEI"  <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#Wonder> <http://dbpedia.org/ontology/starring> <http://example.org/ontology#JuliaRoberts> <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#BoyWithTreacherCollinsSyndrome> <http://www.w3.org/2000/01/rdf-schema#label> "boy with Treacher Collins syndrome"  <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#SupportGroups> <http://www.w3.org/2000/01/rdf-schema#label> "Support Groups"  <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#Entertainment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Industry> <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#FacialScarring> <http://www.w3.org/2000/01/rdf-schema#label> "facial scarring"  <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#BritishFilmInstitute> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-euronews-2> .
+ <http://faceequalityinternational.org/ontology#PhyllidaSwift> <http://example.org/ontology#outcome> <http://example.org/ontology#FacialScarring> <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#NGOs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/OrganisationType> <WorldHealthOrganization-euronews-2> .
+ <http://example.org/ontology#CompleteGardenRecipe> <http://schema.org/recipeIngredient> <http://example.org/ontology#Carrots> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#Tomatoes> <http://schema.org/description> "Tomatoes"  <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#UniversityOfWageningen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#CompleteGardenRecipe> <http://schema.org/recipeIngredient> <http://example.org/ontology#GroundCricketPowder> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#LaurentVeyet> <http://xmlns.com/foaf/0.1/based_near> <http://example.org/ontology#Paris> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#DriedWholeMealworms> <http://schema.org/description> "Dried whole mealworms"  <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#UniversityOfWageningen> <http://dbpedia.org/ontology/location> <http://example.org/ontology#Netherlands> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#Inoveat> <http://dbpedia.org/ontology/theme> <http://example.org/ontology#InsectsAsFood> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#FermeDuTiret> <http://dbpedia.org/ontology/location> <http://example.org/ontology#France> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#LaurentVeyet> <http://dbpedia.org/ontology/associatedMusicalArtist> <http://example.org/ontology#Inoveat> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#Tomatoes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Food> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#DriedWholeCrickets> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Food> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#Inoveat> <http://dbpedia.org/ontology/cuisine> <http://example.org/ontology#HauteCuisine> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#CompleteGardenRecipe> <http://schema.org/recipeIngredient> <http://example.org/ontology#Thyme> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#HauteCuisine> <http://schema.org/description> "High-quality, elaborate and artfully prepared food"  <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#Netherlands> <http://dbpedia.org/ontology/name> "Netherlands"  <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#Hummus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Food> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#Euronews> <http://xmlns.com/foaf/0.1/name> "Euronews"  <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#HauteCuisine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cuisine> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#FAO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#FermeDuTiret> <http://dbpedia.org/ontology/product> <http://example.org/ontology#InsectsAsFood> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#Cheese> <http://schema.org/description> "Finely grated cheese of your choosing"  <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#FAO> <http://xmlns.com/foaf/0.1/name> "Food and Agriculture Organization"  <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#InsectsAsFood> <http://schema.org/description> "Insects used as a sustainable food source"  <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#CompleteGardenRecipe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Recipe> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#Thyme> <http://schema.org/description> "Thyme"  <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#CompleteGardenRecipe> <http://schema.org/recipeIngredient> <http://example.org/ontology#Honey> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#LaurentVeyet> <http://xmlns.com/foaf/0.1/name> "Laurent Veyet"  <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#CompleteGardenRecipe> <http://schema.org/recipeInstructions> "Mix ground crickets and cheese, flatten, and bake to make sablé base. Roast carrots and tomatoes with honey and thyme. Add hummus, roasted vegetables, and dried insects to sablé base. Garnish with mesclun."  <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#Carrots> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Food> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#ArnoldVanHuis> <http://dbpedia.org/ontology/workplace> <http://example.org/ontology#UniversityOfWageningen> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#DriedWholeMealworms> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Food> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#LaurentVeyet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#Honey> <http://schema.org/description> "Honey"  <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#FermeDuTiret> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Farm> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#France> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#CompleteGardenRecipe> <http://schema.org/recipeIngredient> <http://example.org/ontology#Hummus> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#CompleteGardenRecipe> <http://schema.org/recipeIngredient> <http://example.org/ontology#DriedWholeCrickets> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#CompleteGardenRecipe> <http://schema.org/recipeIngredient> <http://example.org/ontology#Tomatoes> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#FAO> <http://dbpedia.org/ontology/estimate> "Increase food production by 70% to meet the demand by 2050"^^<http://www.w3.org/2001/XMLSchema#string>  <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#InsectsAsFood> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Food> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#Hummus> <http://schema.org/description> "Apple-flavoured hummus"  <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#Inoveat> <http://dbpedia.org/ontology/founder> <http://example.org/ontology#LaurentVeyet> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#Inoveat> <http://schema.org/location> <http://example.org/ontology#Paris2ndArrondissement> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#TheStarIngredient> <http://dbpedia.org/ontology/funder> <http://example.org/ontology#EuropeanJournalismCentre> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#GroundCricketPowder> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Food> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#ArnoldVanHuis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#Inoveat> <http://dbpedia.org/ontology/address> "Paris’ 2nd arrondissement"  <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#Inoveat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Restaurant> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#Cheese> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Food> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#France> <http://dbpedia.org/ontology/name> "France"  <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#DriedWholeCrickets> <http://schema.org/description> "Dried whole crickets"  <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#TheStarIngredient> <http://dbpedia.org/ontology/topic> <http://example.org/ontology#EdibleInsects> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#ArnoldVanHuis> <http://dbpedia.org/ontology/occupation> <http://example.org/ontology#Professor> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#EuropeanJournalismCentre> <http://xmlns.com/foaf/0.1/name> "European Journalism Centre"  <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#Thyme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Food> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#Paris2ndArrondissement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#Honey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Food> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#CompleteGardenRecipe> <http://schema.org/recipeIngredient> <http://example.org/ontology#Cheese> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#Euronews> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Broadcaster> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#Carrots> <http://schema.org/description> "Carrots"  <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#EuropeanJournalismCentre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#BillAndMelindaGatesFoundation> <http://xmlns.com/foaf/0.1/name> "Bill & Melinda Gates Foundation"  <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#Netherlands> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#ArnoldVanHuis> <http://xmlns.com/foaf/0.1/name> "Arnold Van Huis"  <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#Mesclun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Food> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#TheStarIngredient> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/RadioProgram> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#BillAndMelindaGatesFoundation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#CompleteGardenRecipe> <http://schema.org/recipeIngredient> <http://example.org/ontology#Mesclun> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#GroundCricketPowder> <http://schema.org/description> "Powder made from ground crickets"  <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#LaurentVeyet> <http://dbpedia.org/ontology/profession> <http://dbpedia.org/resource/Chef> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#Mesclun> <http://schema.org/description> "Mesclun"  <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#UniversityOfWageningen> <http://xmlns.com/foaf/0.1/name> "University of Wageningen"  <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#CompleteGardenRecipe> <http://schema.org/recipeIngredient> <http://example.org/ontology#DriedWholeMealworms> <WorldHealthOrganization-euronews-3> .
+ <http://example.org/ontology#Paris2ndArrondissement> <http://schema.org/name> "Paris’ 2nd arrondissement"  <WorldHealthOrganization-euronews-3> .
+ <http://example.org/Silicate> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Climate_change_mitigation> <WorldHealthOrganization-euronews-4> .
+ <http://example.org/ConcreteDust> <http://dbpedia.org/ontology/applicationArea> "50 hectares of farmland"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WorldHealthOrganization-euronews-4> .
+ <http://example.org/ChemicalWeathering> <http://dbpedia.org/ontology/description> "A natural process where rocks are eroded by rainwater over millions of years, sequestering carbon dioxide from the atmosphere and becoming bicarbonate."@en  <WorldHealthOrganization-euronews-4> .
+ <http://example.org/ConcreteDust> <http://dbpedia.org/ontology/quantity> "500 tonnes"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WorldHealthOrganization-euronews-4> .
+ <http://example.org/Silicate> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Sligo> <WorldHealthOrganization-euronews-4> .
+ <http://example.org/THRIVE_ShellClimateSmartAgricultureChallenge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> <WorldHealthOrganization-euronews-4> .
+ <http://example.org/EnhancedWeathering> <http://dbpedia.org/ontology/related> <http://example.org/ChemicalWeathering> <WorldHealthOrganization-euronews-4> .
+ <http://example.org/ConcreteDustSequestration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EnvironmentalTechnology> <WorldHealthOrganization-euronews-4> .
+ <http://example.org/MauriceBryson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WorldHealthOrganization-euronews-4> .
+ <http://example.org/EnhancedWeatheringTechnology> <http://dbpedia.org/ontology/developer> <http://example.org/Silicate> <WorldHealthOrganization-euronews-4> .
+ <http://example.org/Silicate> <http://dbpedia.org/ontology/trial> <http://example.org/US_Trial> <WorldHealthOrganization-euronews-4> .
+ <http://example.org/US_Trial> <http://dbpedia.org/ontology/participant> <http://example.org/Silicate> <WorldHealthOrganization-euronews-4> .
+ <http://example.org/EnhancedWeatheringTechnology> <http://dbpedia.org/ontology/purpose> "to permanently remove millions of tonnes of carbon dioxide from the atmosphere"  <WorldHealthOrganization-euronews-4> .
+ <http://example.org/CarCarbonDioxideEmission> <http://dbpedia.org/ontology/averageEmission> "4.6 tonnes of carbon dioxide annually"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WorldHealthOrganization-euronews-4> .
+ <http://example.org/ConcreteDustSequestration> <http://dbpedia.org/ontology/abstract> "Concrete dust could permanently sequester up to 100 tonnes of carbon dioxide from the atmosphere."@en  <WorldHealthOrganization-euronews-4> .
+ <http://example.org/CarbonRemovalCredits> <http://dbpedia.org/ontology/issuer> <http://example.org/Silicate> <WorldHealthOrganization-euronews-4> .
+ <http://example.org/US_Trial> <http://dbpedia.org/ontology/outcome> "The first trial could permanently sequester up to 100 tonnes of carbon dioxide from the atmosphere."@en  <WorldHealthOrganization-euronews-4> .
+ <http://example.org/CarbonRemovalCredits> <http://dbpedia.org/ontology/purpose> "to allow large businesses and corporations to reduce their climate footprint"  <WorldHealthOrganization-euronews-4> .
+ <http://example.org/Silicate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <WorldHealthOrganization-euronews-4> .
+ <http://example.org/US_Trial> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-4> .
+ <http://example.org/MidwestCarbonDioxideRemovalPotential> <http://dbpedia.org/ontology/estimatedAmount> "50 to 100 million tonnes of carbon dioxide per year"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WorldHealthOrganization-euronews-4> .
+ <http://example.org/ChemicalWeathering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ChemicalProcess> <WorldHealthOrganization-euronews-4> .
+ <http://example.org/MauriceBryson> <http://dbpedia.org/ontology/associatedCompany> <http://example.org/Silicate> <WorldHealthOrganization-euronews-4> .
+ <http://example.org/EnhancedWeatheringTechnology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Technology> <WorldHealthOrganization-euronews-4> .
+ <http://example.org/Silicate> <http://dbpedia.org/ontology/foundationPlace> <http://dbpedia.org/resource/Ireland> <WorldHealthOrganization-euronews-4> .
+ <http://example.org/Silicate> <http://dbpedia.org/ontology/founder> <http://example.org/MauriceBryson> <WorldHealthOrganization-euronews-4> .
+ <http://example.org/MauriceBryson> <http://dbpedia.org/ontology/position> "CEO and co-founder"  <WorldHealthOrganization-euronews-4> .
+ <http://example.org/ConcreteDust> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <WorldHealthOrganization-euronews-4> .
+ <http://example.org/EnhancedWeathering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ChemicalProcess> <WorldHealthOrganization-euronews-4> .
+ <http://example.org/US_Trial> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Chicago> <WorldHealthOrganization-euronews-4> .
+ <http://example.org/EnhancedWeathering> <http://dbpedia.org/ontology/description> "An accelerated form of chemical weathering where rocks are eroded by rainwater over millions of years, sequestering carbon dioxide from the atmosphere and becoming bicarbonate."@en  <WorldHealthOrganization-euronews-4> .
+ <http://example.org/MidwestCarbonDioxideRemovalPotential> <http://dbpedia.org/ontology/related> <http://example.org/Silicate> <WorldHealthOrganization-euronews-4> .
+ <http://example.org/US_Trial> <http://dbpedia.org/ontology/product> <http://example.org/ConcreteDust> <WorldHealthOrganization-euronews-4> .
+ <http://example.org/MidwestCarbonDioxideRemovalPotential> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Midwest_United_States> <WorldHealthOrganization-euronews-4> .
+ <http://example.org/Silicate> <http://dbpedia.org/ontology/product> <http://example.org/EnhancedWeatheringTechnology> <WorldHealthOrganization-euronews-4> .
+ <http://example.org/THRIVE_ShellClimateSmartAgricultureChallenge> <http://dbpedia.org/ontology/award> <http://example.org/Silicate> <WorldHealthOrganization-euronews-4> .
+ <http://example.org/CarbonRemovalCredits> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FinancialProduct> <WorldHealthOrganization-euronews-4> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/Syria> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/CyclicalEquities> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FinancialProduct> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/IranBackedMilitias> <http://dbpedia.org/ontology/affiliation> <http://dbpedia.org/resource/Iran> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/HezbollahInvolvement> <http://dbpedia.org/ontology/agent> <http://dbpedia.org/resource/Hezbollah> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/IranConflictRisk> <http://dbpedia.org/ontology/agent> <http://dbpedia.org/resource/Iran> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/HedgeFundInvestmentShift> <http://dbpedia.org/ontology/result> "Major hedge funds move away from oil"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/GlobalGDPRecessionRisk> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/SupplyChainConstraints> <http://dbpedia.org/ontology/result> "Push oil prices up"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/USInterestInOilFlow> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/IsraelRetaliation> <http://dbpedia.org/ontology/combatant> <http://dbpedia.org/resource/Israel> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/USUnemploymentRateIndicator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/IranConflictRisk> <http://dbpedia.org/ontology/probability> "33%"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/DollarInvestmentSafety> <http://dbpedia.org/ontology/result> "Considered to be a safe haven"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/MattGertken> <http://xmlns.com/foaf/0.1/name> "Matt Gertken"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/LebanonConflict> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/GoldInvestment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FinancialProduct> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/IranBackedMilitias> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/HezbollahInvolvement> <http://dbpedia.org/ontology/time> "2023-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/USDefenceSpendingIncrease> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/HezbollahInvolvement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/USUnemploymentRateIndicator> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/United_States> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/CommodityInvestments> <http://dbpedia.org/ontology/result> "Could bring good yields"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/USDefenceSpendingIncrease> <http://dbpedia.org/ontology/agent> <http://example.org/USFederalReserve> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/MattGertken> <http://dbpedia.org/ontology/occupation> "Chief Geopolitical Strategist"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/OilShockForecast> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/GoldInvestment> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/BrentOilPriceRise> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/BrentOilPriceRise> <http://dbpedia.org/ontology/result> "$3-4 rise in Brent oil prices"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/USMilitaryStrike> <http://dbpedia.org/ontology/agent> "US military"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/IranProxyWarRisk> <http://dbpedia.org/ontology/agent> <http://dbpedia.org/resource/Iran> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/GlobalGDPRecessionRisk> <http://dbpedia.org/ontology/result> "Potential to wipe out $1 trillion from global GDP"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/IsraelRetaliation> <http://dbpedia.org/ontology/result> "Fierce retaliation"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/IranProxyWarRisk> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/IranConflictRisk> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/EuropeDefenceFunding> <http://dbpedia.org/ontology/result> "More funds to defence"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/SilverInvestment> <http://dbpedia.org/ontology/result> "Potential good investment"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/GlobalEconomySlowing> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/IsraelRetaliation> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/JapaneseYen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Currency> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/OilContractsReduction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/HamasAttack> <http://dbpedia.org/ontology/result> "Devastating attack"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/USElectionImpact> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/United_States> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/OilMarketStability> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/ChinaGoldStockpile> <http://dbpedia.org/ontology/agent> <http://dbpedia.org/resource/China> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/GazaHumanitarianDisaster> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/SafeHavenInvestments> <http://dbpedia.org/ontology/result> "Investors move towards gold and US treasury bonds"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/EuropeDefenceFunding> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Europe> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/GoldPriceResistance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/SwissFranc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Currency> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/USUnemploymentRateIndicator> <http://dbpedia.org/ontology/result> "Indicator of recession"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/IMFGDPGrowthPrediction> <http://dbpedia.org/ontology/result> "Slowing GDP growth prediction"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/about> <http://example.org/DefenceRelatedInvestments> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/RussiaGoldStockpile> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/GlobalStability> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/USRecessionRisk> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/United_States> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/GoldPriceResistance> <http://dbpedia.org/ontology/result> "Gold remains highly-priced"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/LebanonConflict> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/RealInterestRates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/USTreasuryYields> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FinancialProduct> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/USFederalReserve> <http://xmlns.com/foaf/0.1/name> "US Federal Reserve"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/USInterestInOilFlow> <http://dbpedia.org/ontology/result> "Avoid full-scale confrontation with Iran"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/OilContractsReduction> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/USMilitaryStrike> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/IranInterest> <http://dbpedia.org/ontology/agent> <http://dbpedia.org/resource/Iran> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/MiddleEastInstability> <http://dbpedia.org/ontology/result> "Impact on global economy"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/GoldInvestment> <http://dbpedia.org/ontology/result> "Resistant to geopolitical shocks"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/GazaHumanitarianDisaster> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/CyclicalEquities> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/USUnemploymentRateIndicator> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/USTreasuryBonds> <http://dbpedia.org/ontology/result> "Safe haven investment"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/IsraelRetaliation> <http://dbpedia.org/ontology/target> <http://dbpedia.org/resource/Gaza> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/SupplyChainConstraints> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/ChinaGoldStockpile> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/USFederalReserve> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/IranInterest> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/USMilitaryStrike> <http://dbpedia.org/ontology/target> <http://example.org/IranBackedMilitias> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/RussiaGoldStockpile> <http://dbpedia.org/ontology/result> "Stocking up on gold"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/USTreasuryYields> <http://dbpedia.org/ontology/result> "Attracting more money flows"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/CommodityInvestments> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FinancialProduct> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/PrimaryVisionNetwork> <http://xmlns.com/foaf/0.1/name> "Primary Vision Network"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/GlobalEconomicOutlook> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/CyclicalEquities> <http://dbpedia.org/ontology/result> "Weaker performance compared to 2023"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/BCAResearch> <http://xmlns.com/foaf/0.1/name> "BCA Research"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/BrentOilPriceRise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/USDefenceSpendingIncrease> <http://dbpedia.org/ontology/result> "Increase in defence spending"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/USRecessionRisk> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/EconomicRecovery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/MiddleEastInstability> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/MattGertken> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/RussiaOilProductionCut> <http://dbpedia.org/ontology/agent> <http://dbpedia.org/resource/Russia> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/IranProxyWarRisk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/OilPrice150Scenario> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/BondMarketSellOff> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/HedgeFundInvestmentShift> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/EuropeDefenceFunding> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/USElectionImpact> <http://dbpedia.org/ontology/result> "Impact on election results and global stability"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/EconomicRecovery> <http://dbpedia.org/ontology/result> "Unwind at some point in 2024 or 2025"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/OilMarketStability> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/FedMonetaryPolicyUnwind> <http://dbpedia.org/ontology/result> "Start to unwind their monetary policy"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/OilPriceSpikeRisk> <http://dbpedia.org/ontology/time> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/USMilitaryStrike> <http://dbpedia.org/ontology/result> "Act of self-defence"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/IMFGDPGrowthPrediction> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/CopperInvestment> <http://dbpedia.org/ontology/result> "Increasing demand and rising prices"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/IranInterest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/HezbollahInvolvement> <http://dbpedia.org/ontology/probability> "45%"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/SupplyChainConstraints> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/IranConflictRisk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/USTreasuryBonds> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/HamasAttack> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/HamasAttack> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/USMilitaryStrike> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Syria> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/OsamaRizvi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/GazaHumanitarianDisaster> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Gaza> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/RussiaGoldStockpile> <http://dbpedia.org/ontology/agent> <http://dbpedia.org/resource/Russia> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/HamasAttack> <http://dbpedia.org/ontology/combatant> <http://dbpedia.org/resource/Hamas> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/LebanonConflict> <http://dbpedia.org/ontology/result> "Strikes by Israeli Defense Forces"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/OilContractsReduction> <http://dbpedia.org/ontology/result> "Contracts to purchase oil slashed"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/OsamaRizvi> <http://dbpedia.org/ontology/occupation> "Energy and Economic Analyst"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/DollarInvestmentSafety> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/JapaneseYen> <http://dbpedia.org/ontology/result> "Solid choice in a crisis"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/about> <http://example.org/EnergyInvestments> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/HezbollahInvolvement> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/USTreasuryBonds> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FinancialProduct> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/ChinaGoldStockpile> <http://dbpedia.org/ontology/result> "Stocking up on gold"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/DollarInvestmentSafety> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/OilPriceDecrease> <http://dbpedia.org/ontology/result> "On the verge of decreasing"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/GlobalEconomySlowing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/RussiaOilProductionCut> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/RealInterestRates> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/USMilitaryStrike> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/RussiaGoldStockpile> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/MiddleEastInstability> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Middle_East> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/SafeHavenInvestments> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/OilShockForecast> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/RussiaOilProductionCut> <http://dbpedia.org/ontology/result> "Likely to cut oil production"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/IranNuclearBreakoutCapacity> <http://dbpedia.org/ontology/agent> <http://dbpedia.org/resource/Iran> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/IMFGDPGrowthPrediction> <http://dbpedia.org/ontology/agent> <http://dbpedia.org/resource/International_Monetary_Fund> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/OilMarketStability> <http://dbpedia.org/ontology/result> "Moderate impact on financial markets"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/USElectionImpact> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/OilPriceSpikeRisk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/GlobalEconomicOutlook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/USDefenceSpendingIncrease> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/LebanonConflict> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Lebanon> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/datePublished> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/IranNuclearBreakoutCapacity> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/USRecessionRisk> <http://dbpedia.org/ontology/result> "Recession in the next 12-18 months"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/CopperInvestment> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/SilverInvestment> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/GazaHumanitarianDisaster> <http://dbpedia.org/ontology/result> "Fears of a humanitarian disaster"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/OilPriceSpikeRisk> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/MattGertken> <http://dbpedia.org/ontology/employer> <http://example.org/BCAResearch> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/FedMonetaryPolicyUnwind> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/GlobalEconomicOutlook> <http://dbpedia.org/ontology/result> "Slowing GDP growth"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/IMFGDPGrowthPrediction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/CopperInvestment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FinancialProduct> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/OilPrice150Scenario> <http://dbpedia.org/ontology/result> "Oil prices to hit $150 or beyond"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/SwissFranc> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/IranNuclearBreakoutCapacity> <http://dbpedia.org/ontology/result> "Achieved nuclear breakout capacity"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/EconomicRecovery> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/ChinaGoldStockpile> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/USTreasuryYields> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/USInterestInOilFlow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/BCAResearch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/RealInterestRates> <http://dbpedia.org/ontology/result> "Increase in real interest rates"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/MiddleEastInstability> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/USElectionImpact> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/USInterestInOilFlow> <http://dbpedia.org/ontology/agent> <http://example.org/USFederalReserve> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/BondMarketSellOff> <http://dbpedia.org/ontology/result> "Big sell-off recently"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/OsamaRizvi> <http://xmlns.com/foaf/0.1/name> "Osama Rizvi"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/SilverInvestment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FinancialProduct> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/OilShockForecast> <http://dbpedia.org/ontology/result> "Significant oil shock"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/PrimaryVisionNetwork> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/GoldPriceResistance> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/OilPriceDecrease> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/RussiaOilProductionCut> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/author> <http://example.org/BCAResearch> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/OilPrice150Scenario> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/CommodityInvestments> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/BondMarketSellOff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/IranBackedMilitias> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Syria> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/FedMonetaryPolicyUnwind> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/OilPriceDecrease> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/SafeHavenInvestments> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FinancialProduct> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/FedMonetaryPolicyUnwind> <http://dbpedia.org/ontology/agent> <http://example.org/USFederalReserve> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/BCAResearch> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Investment_strategy> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/IranNuclearBreakoutCapacity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/HamasAttack> <http://dbpedia.org/ontology/target> <http://dbpedia.org/resource/Israel> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/OsamaRizvi> <http://dbpedia.org/ontology/employer> <http://example.org/PrimaryVisionNetwork> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/EuropeDefenceFunding> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/USRecessionRisk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/GlobalGDPRecessionRisk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/SwissFranc> <http://dbpedia.org/ontology/result> "Solid choice in a crisis"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/JapaneseYen> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/HedgeFundInvestmentShift> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/IsraelRetaliation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/OilShockForecast> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Middle_East> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/OilPriceSpikeRisk> <http://dbpedia.org/ontology/result> "Major spike in oil prices"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/IranProxyWarRisk> <http://dbpedia.org/ontology/result> "Seals off access to oil"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/GlobalEconomySlowing> <http://dbpedia.org/ontology/result> "Reduced demand for oil"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/IranInterest> <http://dbpedia.org/ontology/result> "Shared interest with US"  <WorldHealthOrganization-euronews-5> .
+ <http://example.org/InvestmentAnalysis> <http://schema.org/mentions> <http://example.org/IranBackedMilitias> <WorldHealthOrganization-euronews-5> .
+ <http://example.org/entities/NinaMetayer> <http://schema.org/followerCount> "220000"^^<http://www.w3.org/2001/XMLSchema#integer>  <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/NinaMetayer> <http://schema.org/award> <http://example.org/entities/PastryChefOfTheYear2017> <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/Munich> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/City> <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/Delicatesserie> <http://schema.org/location> <http://example.org/entities/IleDeFranceRegion> <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/NinaMetayer> <http://schema.org/alumniOf> <http://example.org/entities/FerrandiSchool> <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/FerrandiSchool> <http://schema.org/location> <http://example.org/entities/Paris> <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/GrandRestaurant> <http://schema.org/location> <http://example.org/entities/Paris> <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/YannickAllenoTeam> <http://schema.org/location> <http://example.org/entities/LeMeurice> <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/Paris> <http://schema.org/name> "Paris"  <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/PastryChefOfTheYear2016> <http://schema.org/awardedBy> <http://example.org/entities/LeChefMagazine> <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/NinaMetayer> <http://schema.org/jobTitle> "Head Pastry Chef"  <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/France> <http://schema.org/name> "France"  <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/WorldPastryChefOfTheYear2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Award> <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/PastryChefOfTheYear2017> <http://schema.org/awardedBy> <http://example.org/entities/GaultEtMillauGuide> <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/LeMeurice> <http://schema.org/name> "Le Meurice"  <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/NinaMetayer> <http://schema.org/subscriberCount> "25000"^^<http://www.w3.org/2001/XMLSchema#integer>  <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/NinaMetayer> <http://schema.org/memberOf> <http://example.org/entities/YannickAllenoTeam> <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/NinaMetayer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/YannickAllenoTeam> <http://schema.org/name> "Yannick Alleno’s team"  <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/PastryChefOfTheYear2016> <http://schema.org/name> "Pastry Chef of the Year 2016"  <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/NinaMetayer> <http://schema.org/owns> <http://example.org/entities/Delicatesserie> <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/YannickAllenoTeam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/GrandRestaurant> <http://schema.org/starRating> "2"^^<http://www.w3.org/2001/XMLSchema#integer>  <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/IleDeFranceRegion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/WorldPastryChefOfTheYear2023> <http://schema.org/name> "World Pastry Chef of the Year 2023"  <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/Paris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/City> <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/LeChefMagazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/GaultEtMillauGuide> <http://schema.org/name> "Gault et Millau guide"  <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/Delicatesserie> <http://schema.org/name> "Delicatesserie"  <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/PastryChefOfTheYear2017> <http://schema.org/name> "Pastry Chef of the Year 2017"  <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/UBIC> <http://schema.org/name> "International Union of Bakers and Pastry Chefs (UBIC)"  <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/UBIC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/NinaMetayer> <http://schema.org/award> <http://example.org/entities/PastryChefOfTheYear2016> <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/IleDeFranceRegion> <http://schema.org/name> "Île-de-France region"  <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/Delicatesserie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/FoodEstablishment> <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/WorldPastryChefOfTheYear2023> <http://schema.org/location> <http://example.org/entities/Munich> <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/NinaMetayer> <http://schema.org/jobTitle> "World's Best Pastry Chef"  <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/WorldPastryChefOfTheYear2023> <http://schema.org/awardedBy> <http://example.org/entities/UBIC> <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/GrandRestaurant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Restaurant> <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/NinaMetayer> <http://schema.org/nationality> <http://example.org/entities/France> <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/FerrandiSchool> <http://schema.org/name> "Ferrandi School"  <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/LeMeurice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Hotel> <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/PastryChefOfTheYear2016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Award> <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/LeChefMagazine> <http://schema.org/name> "Le Chef magazine"  <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/LeMeurice> <http://schema.org/location> <http://example.org/entities/Paris> <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/NinaMetayer> <http://schema.org/birthDate> "1988-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/JeanFrancoisPiegeTeam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/NinaMetayer> <http://schema.org/name> "Nina Métayer"  <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/France> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/JeanFrancoisPiegeTeam> <http://schema.org/location> <http://example.org/entities/GrandRestaurant> <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/WorldPastryChefOfTheYear2023> <http://schema.org/dateAwarded> "2023-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/GrandRestaurant> <http://schema.org/name> "Grand Restaurant"  <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/GaultEtMillauGuide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/Munich> <http://schema.org/name> "Munich"  <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/FerrandiSchool> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EducationalOrganization> <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/JeanFrancoisPiegeTeam> <http://schema.org/name> "Jean-François Piège’s team"  <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/NinaMetayer> <http://schema.org/gender> <http://schema.org/Female> <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/PastryChefOfTheYear2017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Award> <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/NinaMetayer> <http://schema.org/memberOf> <http://example.org/entities/JeanFrancoisPiegeTeam> <WorldHealthOrganization-euronews-6> .
+ <http://example.org/entities/NinaMetayer> <http://schema.org/award> <http://example.org/entities/WorldPastryChefOfTheYear2023> <WorldHealthOrganization-euronews-6> .
+ <http://example.org/AbortionStatistics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statistic> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/PresidentOfRussia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/BeginningOfConflict2022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TimePeriod> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/AbortionStatistics2021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statistic> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/GynaecologistsReconsiderationProject> <http://dbpedia.org/ontology/location> "Seven regions across Russia"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/PriestConsultation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Service> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/EmergencyContraceptivesRestrictions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/AbortionRestrictionPlan> <http://dbpedia.org/ontology/context> <http://example.org/ConflictWithUkraine> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/StoppingAbortionServices> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Activity> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/SovietUnion> <http://dbpedia.org/ontology/dissolutionDate> "1991-12-26"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/MikhailMurashko> <http://dbpedia.org/ontology/position> <http://example.org/HealthMinister> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/EmergencyContraceptivesRestrictions> <http://www.w3.org/2000/01/rdf-schema#label> "Making emergency contraceptives virtually unavailable"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/WarInUkraine> <http://www.w3.org/2000/01/rdf-schema#label> "War in Ukraine"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/SovietUnionAbortionLaws> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Legislation> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/AbortionRights> <http://www.w3.org/2000/01/rdf-schema#label> "Abortion rights in Russia"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/MifepristoneAndMisoprostol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Drug> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/StockPhrasesDocument> <http://dbpedia.org/ontology/creator> <http://example.org/HealthMinistry> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/DraftingTalkingPoints> <http://www.w3.org/2000/01/rdf-schema#label> "Drafting talking points to discourage abortions"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/MultipleAbortionsDueToContraceptiveDifficulties> <http://www.w3.org/2000/01/rdf-schema#label> "Women having multiple abortions due to contraceptive difficulties"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/StockPhrasesForAbortionConsultations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Content> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/ProtestAgainstAbortionLawChange> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/HealthMinister> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/MikhailMurashko> <http://xmlns.com/foaf/0.1/name> "Mikhail Murashko"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/VladimirPutin> <http://dbpedia.org/ontology/promotionOf> <http://example.org/TraditionalValues> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/MicheleRivkinFish> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/PsychologicalConsultations> <http://dbpedia.org/ontology/purpose> <http://example.org/DiscourageAbortions> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/RussianActivists> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Group> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/AbortionRestrictionPlan> <http://dbpedia.org/ontology/impact> <http://example.org/DecisionOnChildbearing> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/BeginningOfConflict2022> <http://dbpedia.org/ontology/startDate> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/HealthMinister> <http://www.w3.org/2000/01/rdf-schema#label> "Health Minister"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/ShiftInAbortionPolicy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/AntiAbortionPush> <http://dbpedia.org/ontology/context> <http://example.org/EconomicUncertainty> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/HealthMinistry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/USSupremeCourtDecision> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/UniversityOfNorthCarolinaAtChapelHill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/ConflictWithUkraine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/AbortionStatistics> <http://dbpedia.org/ontology/year> "1990"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/SovietUnionAbortionLaws> <http://dbpedia.org/ontology/timePeriod> <http://example.org/SovietUnion> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/AbortionRestrictionPlan> <http://www.w3.org/2000/01/rdf-schema#label> "Plan to restrict access to abortion and emergency contraceptives"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/StoppingAbortionServices> <http://www.w3.org/2000/01/rdf-schema#label> "Stopping providing abortions"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/OnlinePetition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Document> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/AbortionStatistics2021> <http://dbpedia.org/ontology/quantity> "Number of abortions in Russia"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/StockPhrasesDocument> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Document> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/HealthMinistryDecree> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Legislation> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/MultipleAbortionsDueToContraceptiveDifficulties> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/MotivationalQuestionnaire> <http://dbpedia.org/ontology/purpose> <http://example.org/StateSupportForContinuingPregnancy> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/AbortionProcedure> <http://dbpedia.org/ontology/requirement> <http://example.org/WaitingPeriod> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/MorningAfterPills> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Drug> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/PrivateClinics> <http://dbpedia.org/ontology/activity> <http://example.org/StoppingAbortionServices> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/PushForAbortionBan> <http://www.w3.org/2000/01/rdf-schema#label> "Push for an outright nationwide ban on abortion in private clinics"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/OrthodoxChurchService> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/GynaecologistsReconsiderationProject> <http://dbpedia.org/ontology/objective> <http://example.org/ReconsideringAbortionDecision> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/WaitingPeriod> <http://www.w3.org/2000/01/rdf-schema#label> "Mandatory waiting period before abortion"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/VladimirPutin> <http://dbpedia.org/ontology/position> <http://example.org/PresidentOfRussia> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/AbortionProcedure> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Procedure> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/ControlledSubstanceRegulation> <http://www.w3.org/2000/01/rdf-schema#label> "Regulation of controlled substances"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/EconomicUncertainty> <http://www.w3.org/2000/01/rdf-schema#label> "Economic uncertainty"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/MicheleRivkinFish> <http://dbpedia.org/ontology/affiliation> <http://example.org/UniversityOfNorthCarolinaAtChapelHill> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/SeniorLawmakers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Group> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/StockPhrasesDocument> <http://dbpedia.org/ontology/content> <http://example.org/StockPhrasesForAbortionConsultations> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/MifepristoneAndMisoprostol> <http://www.w3.org/2000/01/rdf-schema#label> "Mifepristone and Misoprostol"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/DiscourageAbortions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Activity> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/PriestConsultation> <http://dbpedia.org/ontology/requirementFor> <http://example.org/AbortionPermission> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/MicheleRivkinFish> <http://xmlns.com/foaf/0.1/name> "Michele Rivkin-Fish"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/VladimirPutin> <http://xmlns.com/foaf/0.1/name> "Vladimir Putin"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/SeniorLawmakers> <http://dbpedia.org/ontology/activity> <http://example.org/PushForAbortionBan> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/WaitingPeriod> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TimePeriod> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/DecisionOnChildbearing> <http://www.w3.org/2000/01/rdf-schema#label> "Women deciding not to have children"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/StateSupportForContinuingPregnancy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Concept> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/AbortionPillsRestrictions> <http://dbpedia.org/ontology/substances> <http://example.org/MifepristoneAndMisoprostol> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/MicheleRivkinFish> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Anthropologist> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/AntiAbortionService> <http://www.w3.org/2000/01/rdf-schema#label> "Anti-abortion service"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/AbortionPillsRestrictions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/WarInUkraine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/MorningAfterPillsRestrictions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/StateSupportForContinuingPregnancy> <http://www.w3.org/2000/01/rdf-schema#label> "State support for continuing pregnancy"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/AbortionProcedure> <http://dbpedia.org/ontology/legalStatus> "Legally allowed between 12 and 22 weeks in instances of rape"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/AbortionRestrictionPlan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Plan> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/PushForAbortionBan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Activity> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/AbortionPermission> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Permission> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/AbortionBan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Legislation> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/AbortionStatistics2021> <http://dbpedia.org/ontology/year> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/MotivationalQuestionnaire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Document> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/MorningAfterPillsRestrictions> <http://www.w3.org/2000/01/rdf-schema#label> "Restrictions on morning-after pills"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/AntiAbortionPush> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/USSupremeCourtDecision> <http://dbpedia.org/ontology/date> "Last year"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/ReconsideringAbortionDecision> <http://www.w3.org/2000/01/rdf-schema#label> "Getting women to reconsider having an abortion"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/AbortionPillsSalesRise> <http://dbpedia.org/ontology/timePeriod> <http://example.org/BeginningOfConflict2022> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/ProtestAgainstAbortionLawChange> <http://www.w3.org/2000/01/rdf-schema#label> "Protests against potential change to abortion law"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/PrivateClinics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/PresidentOfRussia> <http://www.w3.org/2000/01/rdf-schema#label> "President of Russia"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/MorningAfterPills> <http://dbpedia.org/ontology/availabilityChange> <http://example.org/MorningAfterPillsRestrictions> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/CondemningWomenForPrioritizingCareers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/VladimirPutin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/AbortionStatistics> <http://dbpedia.org/ontology/value> "4.1 million"^^<http://www.w3.org/2001/XMLSchema#integer>  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/GynaecologistsReconsiderationProject> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Project> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/KaliningradBanConsideration> <http://dbpedia.org/ontology/subject> <http://example.org/AbortionBan> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/AbortionStatistics> <http://dbpedia.org/ontology/quantity> "Number of abortions in Russia"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/OrthodoxChurchService> <http://dbpedia.org/ontology/location> <http://example.org/Vladivostok> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/AbortionRights> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Right> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/OnlinePetition> <http://dbpedia.org/ontology/signatures> "Nearly 27,000 signatures"^^<http://www.w3.org/2001/XMLSchema#string>  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/AbortionBan> <http://www.w3.org/2000/01/rdf-schema#label> "Ban on abortion"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/OrthodoxChurchService> <http://dbpedia.org/ontology/associatedWith> <http://example.org/AntiAbortionService> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/AntiAbortionService> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/NewRegulations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Legislation> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/DraftingTalkingPoints> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Activity> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/PsychologicalConsultations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Service> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/MikhailMurashko> <http://dbpedia.org/ontology/criticism> <http://example.org/CondemningWomenForPrioritizingCareers> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/RussianActivists> <http://dbpedia.org/ontology/activity> <http://example.org/ProtestAgainstAbortionLawChange> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/SovietUnionAbortionLaws> <http://dbpedia.org/ontology/effect> <http://example.org/MultipleAbortionsDueToContraceptiveDifficulties> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/AntiAbortionPush> <http://dbpedia.org/ontology/context> <http://example.org/WarInUkraine> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/USSupremeCourtDecision> <http://dbpedia.org/ontology/effect> <http://example.org/ShiftInAbortionPolicy> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/AbortionRights> <http://dbpedia.org/ontology/status> "Legal but increasingly restricted"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/SovietUnion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/HistoricalCountry> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/EconomicUncertainty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/VladimirPutin> <http://dbpedia.org/ontology/alliance> <http://example.org/RussianOrthodoxChurch> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/TraditionalValues> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Concept> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/USSupremeCourtDecision> <http://www.w3.org/2000/01/rdf-schema#label> "US Supreme Court decision on abortion"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/KaliningradBanConsideration> <http://dbpedia.org/ontology/location> <http://example.org/Kaliningrad> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/NewRegulations> <http://dbpedia.org/ontology/effect> <http://example.org/EmergencyContraceptivesRestrictions> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/MotivationalQuestionnaire> <http://dbpedia.org/ontology/creator> <http://example.org/HealthMinistry> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/AbortionPermission> <http://www.w3.org/2000/01/rdf-schema#label> "Permission to go through with abortion procedure"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/AbortionPillsRestrictions> <http://dbpedia.org/ontology/effect> <http://example.org/ControlledSubstanceRegulation> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/ReconsideringAbortionDecision> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Activity> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/StockPhrasesForAbortionConsultations> <http://www.w3.org/2000/01/rdf-schema#label> "Stock phrases for abortion consultations"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/ConflictWithUkraine> <http://www.w3.org/2000/01/rdf-schema#label> "Conflict with Ukraine"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/DecisionOnChildbearing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/CondemningWomenForPrioritizingCareers> <http://www.w3.org/2000/01/rdf-schema#label> "Condemning women for prioritizing careers over childbearing"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/ShiftInAbortionPolicy> <http://www.w3.org/2000/01/rdf-schema#label> "Shift of abortion policy power to states in the US"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/ControlledSubstanceRegulation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Regulation> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/HealthMinistryDecree> <http://dbpedia.org/ontology/effect> <http://example.org/AbortionPillsRestrictions> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/RussianOrthodoxChurch> <http://www.w3.org/2000/01/rdf-schema#label> "Russian Orthodox Church"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/AbortionPillsSalesRise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/RussianGovernment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/OnlinePetition> <http://dbpedia.org/ontology/subject> <http://example.org/KaliningradBanConsideration> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/TraditionalValues> <http://www.w3.org/2000/01/rdf-schema#label> "Traditional values"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/DiscourageAbortions> <http://www.w3.org/2000/01/rdf-schema#label> "Discouraging abortions"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/AbortionPillsSalesRise> <http://www.w3.org/2000/01/rdf-schema#label> "Rise in sales of abortion pills"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/UniversityOfNorthCarolinaAtChapelHill> <http://www.w3.org/2000/01/rdf-schema#label> "University of North Carolina at Chapel Hill"@en  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/RussianOrthodoxChurch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ReligiousOrganization> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/KaliningradBanConsideration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/RussianGovernment> <http://dbpedia.org/ontology/policy> <http://example.org/AbortionRestrictionPlan> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/HealthMinistry> <http://dbpedia.org/ontology/activity> <http://example.org/DraftingTalkingPoints> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/AbortionStatistics2021> <http://dbpedia.org/ontology/value> "517,000"^^<http://www.w3.org/2001/XMLSchema#integer>  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/MorningAfterPillsRestrictions> <http://dbpedia.org/ontology/startDate> "2024-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <WorldHealthOrganization-euronews-7> .
+ <http://example.org/MikhailMurashko> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-euronews-7> .
+ <http://example.org/ThierryBreton> <http://dbpedia.org/ontology/occupation> <http://schema.org/DigitalRightsChief> <WorldHealthOrganization-euronews-8> .
+ <http://example.org/Threads> <http://dbpedia.org/ontology/userCount> "100000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <WorldHealthOrganization-euronews-8> .
+ <http://example.org/Twitter> <http://dbpedia.org/ontology/acquisitionDate> "2022-10-27"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-euronews-8> .
+ <http://example.org/ElonMusk> <http://xmlns.com/foaf/0.1/name> "Elon Musk"  <WorldHealthOrganization-euronews-8> .
+ <http://example.org/VerificationSystem> <http://dbpedia.org/ontology/status> "deprecated"  <WorldHealthOrganization-euronews-8> .
+ <http://example.org/Bluesky> <http://dbpedia.org/ontology/industry> <http://schema.org/SocialMedia> <WorldHealthOrganization-euronews-8> .
+ <http://dbpedia.org/resource/Meta_Platforms> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WorldHealthOrganization-euronews-8> .
+ <http://example.org/Threads> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <WorldHealthOrganization-euronews-8> .
+ <http://example.org/LindaYaccarino> <http://dbpedia.org/ontology/employer> <http://example.org/X> <WorldHealthOrganization-euronews-8> .
+ <http://example.org/X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WorldHealthOrganization-euronews-8> .
+ <http://example.org/X> <http://dbpedia.org/ontology/product> <http://schema.org/SocialNetworkingService> <WorldHealthOrganization-euronews-8> .
+ <http://dbpedia.org/resource/Jack_Dorsey> <http://xmlns.com/foaf/0.1/name> "Jack Dorsey"  <WorldHealthOrganization-euronews-8> .
+ <http://example.org/ElonMusk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-euronews-8> .
+ <http://example.org/ThierryBreton> <http://xmlns.com/foaf/0.1/name> "Thierry Breton"  <WorldHealthOrganization-euronews-8> .
+ <http://example.org/Bluesky> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WorldHealthOrganization-euronews-8> .
+ <http://example.org/X> <http://dbpedia.org/ontology/industry> <http://schema.org/SocialMedia> <WorldHealthOrganization-euronews-8> .
+ <http://example.org/MattNavarra> <http://dbpedia.org/ontology/occupation> <http://schema.org/SocialMediaStrategist> <WorldHealthOrganization-euronews-8> .
+ <http://example.org/EU> <http://dbpedia.org/ontology/regulator> <http://example.org/X> <WorldHealthOrganization-euronews-8> .
+ <http://example.org/X> <http://schema.org/description> "everything app"  <WorldHealthOrganization-euronews-8> .
+ <http://example.org/BlueTick> <http://dbpedia.org/ontology/status> "available for purchase"  <WorldHealthOrganization-euronews-8> .
+ <http://example.org/X> <http://schema.org/CEO> <http://example.org/LindaYaccarino> <WorldHealthOrganization-euronews-8> .
+ <http://example.org/MattNavarra> <http://dbpedia.org/ontology/occupation> <http://schema.org/Commentator> <WorldHealthOrganization-euronews-8> .
+ <http://example.org/Twitter> <http://schema.org/founder> <http://example.org/ElonMusk> <WorldHealthOrganization-euronews-8> .
+ <http://example.org/MattNavarra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-euronews-8> .
+ <http://example.org/LindaYaccarino> <http://xmlns.com/foaf/0.1/name> "Linda Yaccarino"  <WorldHealthOrganization-euronews-8> .
+ <http://dbpedia.org/resource/Jack_Dorsey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-euronews-8> .
+ <http://example.org/ThierryBreton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-euronews-8> .
+ <http://example.org/LindaYaccarino> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Chief_Executive_Officer> <WorldHealthOrganization-euronews-8> .
+ <http://example.org/ElonMusk> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/Tesla_Inc> <WorldHealthOrganization-euronews-8> .
+ <http://example.org/LindaYaccarino> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-euronews-8> .
+ <http://dbpedia.org/resource/Jack_Dorsey> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Entrepreneur> <WorldHealthOrganization-euronews-8> .
+ <http://example.org/Twitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WorldHealthOrganization-euronews-8> .
+ <http://example.org/BlueTick> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> <WorldHealthOrganization-euronews-8> .
+ <http://example.org/VerificationSystem> <http://schema.org/description> "Twitter's original account verification system"  <WorldHealthOrganization-euronews-8> .
+ <http://dbpedia.org/resource/Meta_Platforms> <http://dbpedia.org/ontology/product> <http://example.org/Threads> <WorldHealthOrganization-euronews-8> .
+ <http://example.org/VerificationSystem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> <WorldHealthOrganization-euronews-8> .
+ <http://example.org/MattNavarra> <http://xmlns.com/foaf/0.1/name> "Matt Navarra"  <WorldHealthOrganization-euronews-8> .
+ <http://example.org/ThierryBreton> <http://dbpedia.org/ontology/employer> <http://example.org/EU> <WorldHealthOrganization-euronews-8> .
+ <http://example.org/Threads> <http://dbpedia.org/ontology/industry> <http://schema.org/SocialMedia> <WorldHealthOrganization-euronews-8> .
+ <http://example.org/EU> <http://schema.org/name> "European Union"  <WorldHealthOrganization-euronews-8> .
+ <http://example.org/EU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WorldHealthOrganization-euronews-8> .
+ <http://example.org/Twitter> <http://dbpedia.org/ontology/rebrandingDate> "2023-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <WorldHealthOrganization-euronews-8> .
+ <http://example.org/Twitter> <http://schema.org/owns> <http://example.org/X> <WorldHealthOrganization-euronews-8> .
+ <http://example.org/Bluesky> <http://dbpedia.org/ontology/product> <http://schema.org/SocialNetworkingService> <WorldHealthOrganization-euronews-8> .
+ <http://example.org/BlueTick> <http://schema.org/description> "Symbol of account verification on Twitter"  <WorldHealthOrganization-euronews-8> .
+ <http://example.org/Bluesky> <http://dbpedia.org/ontology/boardMember> <http://dbpedia.org/resource/Jack_Dorsey> <WorldHealthOrganization-euronews-8> .
+ <http://example.org/Twitter> <http://dbpedia.org/ontology/acquisitionPrice> "44000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WorldHealthOrganization-euronews-8> .
+ <http://dbpedia.org/resource/Jack_Dorsey> <http://dbpedia.org/ontology/boardMember> <http://example.org/Bluesky> <WorldHealthOrganization-euronews-8> .
+ <http://example.org/Twitter> <http://dbpedia.org/ontology/rebrandingNewName> "X"  <WorldHealthOrganization-euronews-8> .
+ <http://example.org/Threads> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/Meta_Platforms> <WorldHealthOrganization-euronews-8> .
+ <http://example.org/ElonMusk> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/SpaceX> <WorldHealthOrganization-euronews-8> .
+ <http://example.org/ElonMusk> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Chief_Executive_Officer> <WorldHealthOrganization-euronews-8> .
+ <http://example.org/ontology#EuropeanCommission> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Organization> <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#KajaKallas> <http://xmlns.com/foaf/0.1/name> "Kaja Kallas"  <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#Pending> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#ApprovalStatus> <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#EUCommonBudgetRevision> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#BudgetPlan> <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#BrusselsSummit> <http://example.org/ontology#startDate> "2023-03-23"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#ViktorOrban> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#ViktorOrban> <http://example.org/ontology#position> "Prime Minister of Hungary"  <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#RobertFico> <http://example.org/ontology#concerns> <http://example.org/ontology#CorruptionInUkraine> <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#BrusselsSummit> <http://example.org/ontology#discussionTopic> <http://example.org/ontology#UkraineFacility> <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#MilitaryAidToUkraine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#AidType> <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#RobertFico> <http://example.org/ontology#stance> <http://example.org/ontology#ConditionalSupportForUkraineFacility> <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#EuropeanUnion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Organization> <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#RussianInvasion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Event> <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#FicoFacebookPost> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Communication> <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#KajaKallas> <http://example.org/ontology#supports> <http://example.org/ontology#UkraineSupport> <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#FicoFacebookPost> <http://example.org/ontology#author> <http://example.org/ontology#RobertFico> <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#CorruptionInUkraine> <http://www.transparency.org/cpi/rank> "116"^^<http://www.w3.org/2001/XMLSchema#int>  <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#UkraineSupport> <http://example.org/ontology#excludes> <http://WorldHealthOrganization-euronews-9.com/blank#n231a622ea3b7404eabb2b645a41f21c6b2>  <WorldHealthOrganization-euronews-9> .
+ <http://WorldHealthOrganization-euronews-9.com/blank#n231a622ea3b7404eabb2b645a41f21c6b2> <http://example.org/ontology#type> <http://example.org/ontology#MilitaryAid> <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#BrusselsSummit> <http://example.org/ontology#endDate> "2023-03-24"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#UkraineFacility> <http://example.org/ontology#components> <http://WorldHealthOrganization-euronews-9.com/blank#n231a622ea3b7404eabb2b645a41f21c6b1>  <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#MacroFinancialSupport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#SupportType> <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#Slovakia> <http://example.org/ontology#willNotSupply> <http://example.org/ontology#MilitaryAidToUkraine> <WorldHealthOrganization-euronews-9> .
+ <http://WorldHealthOrganization-euronews-9.com/blank#n231a622ea3b7404eabb2b645a41f21c6b1> <http://example.org/ontology#loanAmount> "33000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#UkraineFacility> <http://example.org/ontology#partOf> <http://example.org/ontology#EUCommonBudgetRevision> <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#KajaKallas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-euronews-9> .
+ <http://WorldHealthOrganization-euronews-9.com/blank#n231a622ea3b7404eabb2b645a41f21c6b2> <http://example.org/ontology#type> <http://example.org/ontology#HumanitarianAid> <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#EuropeanCommission> <http://example.org/ontology#proposed> <http://example.org/ontology#UkraineFacility> <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#Slovakia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Country> <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#RobertFico> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#CorruptionInUkraine> <http://www.transparency.org/cpi/outOf> "180"^^<http://www.w3.org/2001/XMLSchema#int>  <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#UkraineSupport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Policy> <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#UkraineSupport> <http://example.org/ontology#focus> <http://example.org/ontology#MacroFinancialSupport> <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#Ukraine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Country> <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#EUCommonBudgetRevision> <http://example.org/ontology#totalAmount> "100000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#AntiCorruptionSafeguards> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Measure> <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#FicoFacebookPost> <http://example.org/ontology#medium> "Facebook"  <WorldHealthOrganization-euronews-9> .
+ <http://WorldHealthOrganization-euronews-9.com/blank#n231a622ea3b7404eabb2b645a41f21c6b1> <http://example.org/ontology#grantAmount> "17000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#CorruptionInUkraine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Issue> <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#UkraineFacility> <http://example.org/ontology#approvalStatus> <http://example.org/ontology#Pending> <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#FicoFacebookPost> <http://example.org/ontology#date> "2023-03-24T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#RobertFico> <http://example.org/ontology#position> "Prime Minister of Slovakia"  <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#UkraineFacility> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FinancialPlan> <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#BrusselsSummit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Event> <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#ConditionalSupportForUkraineFacility> <http://example.org/ontology#requires> <http://example.org/ontology#AntiCorruptionSafeguards> <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#MacroFinancialSupport> <http://example.org/ontology#purpose> <http://example.org/ontology#sustainServices> <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#Ukraine> <http://example.org/ontology#fighting> <http://example.org/ontology#RussianInvasion> <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#ViktorOrban> <http://example.org/ontology#opposes> <http://example.org/ontology#UkraineFacility> <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#KajaKallas> <http://example.org/ontology#position> "Prime Minister of Estonia"  <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#ConditionalSupportForUkraineFacility> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Stance> <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#MacroFinancialSupport> <http://example.org/ontology#purpose> <http://example.org/ontology#fillBudgetGaps> <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#Brussels> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Location> <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#MacroFinancialSupport> <http://example.org/ontology#purpose> <http://example.org/ontology#rebuildInfrastructure> <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#MacroFinancialSupport> <http://example.org/ontology#purpose> <http://example.org/ontology#speedUpReforms> <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#ViktorOrban> <http://xmlns.com/foaf/0.1/name> "Viktor Orbán"  <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#EuropeanUnion> <http://example.org/ontology#memberCount> "27"^^<http://www.w3.org/2001/XMLSchema#int>  <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#UkraineFacility> <http://example.org/ontology#totalAmount> "50000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WorldHealthOrganization-euronews-9> .
+ <http://example.org/ontology#RobertFico> <http://xmlns.com/foaf/0.1/name> "Robert Fico"  <WorldHealthOrganization-euronews-9> .

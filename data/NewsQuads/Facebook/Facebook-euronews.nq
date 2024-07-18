@@ -1,0 +1,756 @@
+ <http://example.org/ontology#Microsoft> <http://dbpedia.org/ontology/investmentIn> <http://example.org/ontology#OpenAI> <Facebook-euronews-0> .
+ <http://example.org/ontology#AndyJassy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-euronews-0> .
+ <http://example.org/ontology#Microsoft> <http://dbpedia.org/ontology/investmentEquivalent> "9.4"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Facebook-euronews-0> .
+ <http://example.org/ontology#Google> <http://dbpedia.org/ontology/product> <http://example.org/ontology#SearchGenerativeExperience> <Facebook-euronews-0> .
+ <http://example.org/ontology#Alphabet> <http://dbpedia.org/ontology/revenuePeriod> "Q4"  <Facebook-euronews-0> .
+ <http://example.org/ontology#SearchGenerativeExperience> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Facebook-euronews-0> .
+ <http://example.org/ontology#Amazon> <http://dbpedia.org/ontology/profit> "9.9"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Facebook-euronews-0> .
+ <http://example.org/ontology#SearchGenerativeExperience> <http://dbpedia.org/ontology/relatedTo> <http://example.org/ontology#GenerativeAI> <Facebook-euronews-0> .
+ <http://example.org/ontology#Microsoft> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Facebook-euronews-0> .
+ <http://example.org/ontology#Meta> <http://dbpedia.org/ontology/revenuePeriod> "Q4"  <Facebook-euronews-0> .
+ <http://example.org/ontology#Azure> <http://dbpedia.org/ontology/producer> <http://example.org/ontology#Microsoft> <Facebook-euronews-0> .
+ <http://example.org/ontology#Alphabet> <http://dbpedia.org/ontology/revenueCurrency> "billion USD"  <Facebook-euronews-0> .
+ <http://example.org/ontology#CloudServices> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Industry> <Facebook-euronews-0> .
+ <http://example.org/ontology#Alphabet> <http://dbpedia.org/ontology/cloudRevenueEquivalent> "18"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Facebook-euronews-0> .
+ <http://example.org/ontology#OpenAI> <http://dbpedia.org/ontology/investmentFrom> <http://example.org/ontology#Microsoft> <Facebook-euronews-0> .
+ <http://example.org/ontology#SundarPichai> <http://xmlns.com/foaf/0.1/title> "CEO"  <Facebook-euronews-0> .
+ <http://example.org/ontology#Amazon> <http://xmlns.com/foaf/0.1/homepage> <https://www.amazon.com/> <Facebook-euronews-0> .
+ <http://example.org/ontology#Facebook> <http://dbpedia.org/ontology/producer> <http://example.org/ontology#Meta> <Facebook-euronews-0> .
+ <http://example.org/ontology#CloudServices> <http://dbpedia.org/ontology/product> <http://example.org/ontology#CloudServiceRace> <Facebook-euronews-0> .
+ <http://example.org/ontology#Amazon> <http://dbpedia.org/ontology/industry> <http://example.org/ontology#ECommerce> <Facebook-euronews-0> .
+ <http://example.org/ontology#MarkZuckerberg> <http://xmlns.com/foaf/0.1/organization> <http://example.org/ontology#Meta> <Facebook-euronews-0> .
+ <http://example.org/ontology#EuropeanSovereignCloud> <http://dbpedia.org/ontology/targetSector> "highly regulated companies, public sector"  <Facebook-euronews-0> .
+ <http://example.org/ontology#Microsoft> <http://dbpedia.org/ontology/investmentAmount> "10"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Facebook-euronews-0> .
+ <http://example.org/ontology#Alphabet> <http://dbpedia.org/ontology/cloudRevenueBelowExpectation> "20"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Facebook-euronews-0> .
+ <http://example.org/ontology#SundarPichai> <http://xmlns.com/foaf/0.1/organization> <http://example.org/ontology#Alphabet> <Facebook-euronews-0> .
+ <http://example.org/ontology#Amazon> <http://dbpedia.org/ontology/profitPeriod> "Q4"  <Facebook-euronews-0> .
+ <http://example.org/ontology#Alphabet> <http://dbpedia.org/ontology/revenueEquivalent> "72"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Facebook-euronews-0> .
+ <http://example.org/ontology#EuropeanSovereignCloud> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/European_Union> <Facebook-euronews-0> .
+ <http://example.org/ontology#AndyJassy> <http://xmlns.com/foaf/0.1/organization> <http://example.org/ontology#Amazon> <Facebook-euronews-0> .
+ <http://example.org/ontology#SatyaNadella> <http://xmlns.com/foaf/0.1/organization> <http://example.org/ontology#Microsoft> <Facebook-euronews-0> .
+ <http://example.org/ontology#Microsoft> <http://dbpedia.org/ontology/investmentCurrencyEquivalent> "billion EUR"  <Facebook-euronews-0> .
+ <http://example.org/ontology#Microsoft> <http://xmlns.com/foaf/0.1/homepage> <https://www.microsoft.com/> <Facebook-euronews-0> .
+ <http://example.org/ontology#Alphabet> <http://dbpedia.org/ontology/stockChangeDate> "2023-02-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-euronews-0> .
+ <http://example.org/ontology#Amazon> <http://dbpedia.org/ontology/layoffsYear> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-euronews-0> .
+ <http://example.org/ontology#Azure> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Facebook-euronews-0> .
+ <http://example.org/ontology#Microsoft> <http://dbpedia.org/ontology/revenuePeriod> "Q4"  <Facebook-euronews-0> .
+ <http://example.org/ontology#Amazon> <http://dbpedia.org/ontology/profitCurrencyEquivalent> "billion EUR"  <Facebook-euronews-0> .
+ <http://example.org/ontology#TechCompanies> <http://dbpedia.org/ontology/product> <http://example.org/ontology#CloudServiceRace> <Facebook-euronews-0> .
+ <http://example.org/ontology#AmazonWebServices> <http://dbpedia.org/ontology/announcement> "2023-02-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-euronews-0> .
+ <http://example.org/ontology#SatyaNadella> <http://xmlns.com/foaf/0.1/title> "Chairman and CEO"  <Facebook-euronews-0> .
+ <http://example.org/ontology#Google> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Facebook-euronews-0> .
+ <http://example.org/ontology#Microsoft> <http://dbpedia.org/ontology/revenueYear> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-euronews-0> .
+ <http://example.org/ontology#Amazon> <http://dbpedia.org/ontology/profitYear> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-euronews-0> .
+ <http://example.org/ontology#CloudServices> <http://dbpedia.org/ontology/product> <http://example.org/ontology#GenerativeAI> <Facebook-euronews-0> .
+ <http://example.org/ontology#OpenAI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Facebook-euronews-0> .
+ <http://example.org/ontology#Meta> <http://dbpedia.org/ontology/revenueYear> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-euronews-0> .
+ <http://example.org/ontology#TechCompanies> <http://dbpedia.org/ontology/industry> <http://example.org/ontology#CloudServices> <Facebook-euronews-0> .
+ <http://example.org/ontology#Alphabet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Facebook-euronews-0> .
+ <http://example.org/ontology#SatyaNadella> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-euronews-0> .
+ <http://example.org/ontology#Alphabet> <http://dbpedia.org/ontology/parentCompany> <http://example.org/ontology#Google> <Facebook-euronews-0> .
+ <http://example.org/ontology#AmazonWebServices> <http://dbpedia.org/ontology/announcementDetail> "independent cloud service in Europe"  <Facebook-euronews-0> .
+ <http://example.org/ontology#Meta> <http://xmlns.com/foaf/0.1/homepage> <https://www.meta.com/> <Facebook-euronews-0> .
+ <http://example.org/ontology#Microsoft> <http://dbpedia.org/ontology/revenue> "56.5"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Facebook-euronews-0> .
+ <http://example.org/ontology#Meta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Facebook-euronews-0> .
+ <http://example.org/ontology#Alphabet> <http://dbpedia.org/ontology/revenueYear> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-euronews-0> .
+ <http://example.org/ontology#Amazon> <http://dbpedia.org/ontology/profitEquivalent> "9.3"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Facebook-euronews-0> .
+ <http://example.org/ontology#AmazonWebServices> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Facebook-euronews-0> .
+ <http://example.org/ontology#Alphabet> <http://dbpedia.org/ontology/stockChange> "-8.5"^^<http://www.w3.org/2001/XMLSchema#percent>  <Facebook-euronews-0> .
+ <http://example.org/ontology#Amazon> <http://dbpedia.org/ontology/profitCurrency> "billion USD"  <Facebook-euronews-0> .
+ <http://example.org/ontology#Alphabet> <http://dbpedia.org/ontology/cloudRevenueCurrency> "million USD"  <Facebook-euronews-0> .
+ <http://example.org/ontology#EuropeanSovereignCloud> <http://dbpedia.org/ontology/producer> <http://example.org/ontology#AmazonWebServices> <Facebook-euronews-0> .
+ <http://example.org/ontology#Alphabet> <http://dbpedia.org/ontology/cloudRevenueCurrencyEquivalent> "million EUR"  <Facebook-euronews-0> .
+ <http://example.org/ontology#SundarPichai> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-euronews-0> .
+ <http://example.org/ontology#Microsoft> <http://dbpedia.org/ontology/revenueGrowth> "13"^^<http://www.w3.org/2001/XMLSchema#percent>  <Facebook-euronews-0> .
+ <http://example.org/ontology#SearchGenerativeExperience> <http://dbpedia.org/ontology/producer> <http://example.org/ontology#Google> <Facebook-euronews-0> .
+ <http://example.org/ontology#Microsoft> <http://dbpedia.org/ontology/revenueCurrencyEquivalent> "billion EUR"  <Facebook-euronews-0> .
+ <http://example.org/ontology#MarkZuckerberg> <http://xmlns.com/foaf/0.1/title> "CEO"  <Facebook-euronews-0> .
+ <http://example.org/ontology#Meta> <http://dbpedia.org/ontology/revenueGrowth> "23"^^<http://www.w3.org/2001/XMLSchema#percent>  <Facebook-euronews-0> .
+ <http://example.org/ontology#Google> <http://dbpedia.org/ontology/parentCompany> <http://example.org/ontology#Alphabet> <Facebook-euronews-0> .
+ <http://example.org/ontology#TechCompanies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Facebook-euronews-0> .
+ <http://example.org/ontology#Alphabet> <http://dbpedia.org/ontology/revenue> "76.69"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Facebook-euronews-0> .
+ <http://example.org/ontology#EuropeanSovereignCloud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Facebook-euronews-0> .
+ <http://example.org/ontology#Microsoft> <http://dbpedia.org/ontology/investmentCurrency> "billion USD"  <Facebook-euronews-0> .
+ <http://example.org/ontology#AndyJassy> <http://xmlns.com/foaf/0.1/title> "CEO"  <Facebook-euronews-0> .
+ <http://example.org/ontology#Facebook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Facebook-euronews-0> .
+ <http://example.org/ontology#Alphabet> <http://dbpedia.org/ontology/revenueCurrencyEquivalent> "billion EUR"  <Facebook-euronews-0> .
+ <http://example.org/ontology#Amazon> <http://dbpedia.org/ontology/layoffs> "27000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Facebook-euronews-0> .
+ <http://example.org/ontology#Amazon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Facebook-euronews-0> .
+ <http://example.org/ontology#Google> <http://dbpedia.org/ontology/product> <http://example.org/ontology#GoogleAds> <Facebook-euronews-0> .
+ <http://example.org/ontology#Microsoft> <http://dbpedia.org/ontology/revenueCurrency> "billion USD"  <Facebook-euronews-0> .
+ <http://example.org/ontology#TechCompanies> <http://dbpedia.org/ontology/product> <http://example.org/ontology#GenerativeAI> <Facebook-euronews-0> .
+ <http://example.org/ontology#AmazonWebServices> <http://dbpedia.org/ontology/producer> <http://example.org/ontology#Amazon> <Facebook-euronews-0> .
+ <http://example.org/ontology#MarkZuckerberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-euronews-0> .
+ <http://example.org/ontology#Microsoft> <http://dbpedia.org/ontology/revenueEquivalent> "53"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Facebook-euronews-0> .
+ <http://example.org/ontology#Alphabet> <http://dbpedia.org/ontology/revenueGrowth> "11"^^<http://www.w3.org/2001/XMLSchema#percent>  <Facebook-euronews-0> .
+ <http://example.org/XAsEverythingApp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> <Facebook-euronews-1> .
+ <http://example.org/ThierryBreton> <http://dbpedia.org/ontology/occupation> <http://schema.org/DigitalRightsChief> <Facebook-euronews-1> .
+ <http://example.org/Twitter> <http://dbpedia.org/ontology/acquisitionDate> "2022-10-27"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-euronews-1> .
+ <http://example.org/TwitterVerificationSystem> <http://schema.org/description> "Verification system where accounts with blue ticks had been vetted by humans based on Twitter’s assessment of who was 'notable'."  <Facebook-euronews-1> .
+ <http://example.org/ElonMusk> <http://xmlns.com/foaf/0.1/name> "Elon Musk"  <Facebook-euronews-1> .
+ <http://example.org/ElonMusk> <http://dbpedia.org/ontology/company> <http://dbpedia.org/resource/Tesla_Inc> <Facebook-euronews-1> .
+ <http://example.org/Twitter> <http://dbpedia.org/ontology/acquisitionPrice> "44 billion"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Facebook-euronews-1> .
+ <http://example.org/Threads> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <Facebook-euronews-1> .
+ <http://example.org/XVerificationSystem> <http://schema.org/description> "Verification system where a monthly payment can get you a blue tick, signifying a paying customer."  <Facebook-euronews-1> .
+ <http://example.org/TwitterAsNewsPlatform> <http://schema.org/description> "Twitter was the breaking news platform, the place people went to find out what was going on in the world in near real-time."  <Facebook-euronews-1> .
+ <http://example.org/TwitterVerificationSystem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> <Facebook-euronews-1> .
+ <http://example.org/JackDorsey> <http://xmlns.com/foaf/0.1/name> "Jack Dorsey"  <Facebook-euronews-1> .
+ <http://example.org/ElonMusk> <http://dbpedia.org/ontology/netWorth> "44 billion"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Facebook-euronews-1> .
+ <http://example.org/LindaYaccarino> <http://schema.org/worksFor> <http://example.org/Twitter> <Facebook-euronews-1> .
+ <http://example.org/XAsEverythingApp> <http://schema.org/description> "Plan for X to become an 'everything app' - a global marketplace for ideas, goods, services, and opportunities, centered in audio, video, messaging, payments/banking."  <Facebook-euronews-1> .
+ <http://example.org/ElonMusk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-euronews-1> .
+ <http://example.org/MattNavarra> <http://schema.org/affiliation> <http://schema.org/EuronewsNext> <Facebook-euronews-1> .
+ <http://example.org/ThierryBreton> <http://xmlns.com/foaf/0.1/name> "Thierry Breton"  <Facebook-euronews-1> .
+ <http://example.org/JackDorsey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-euronews-1> .
+ <http://Facebook-euronews-1.com/blank#n254171ed01a2495591915d1f31475f97b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Occupation> <Facebook-euronews-1> .
+ <http://Facebook-euronews-1.com/blank#n254171ed01a2495591915d1f31475f97b1> <http://schema.org/name> "Social media strategist and commentator"  <Facebook-euronews-1> .
+ <http://example.org/ElonMusk> <http://dbpedia.org/ontology/company> <http://dbpedia.org/resource/SpaceX> <Facebook-euronews-1> .
+ <http://example.org/Threads> <http://schema.org/numberOfUsers> "100 million"^^<http://www.w3.org/2001/XMLSchema#integer>  <Facebook-euronews-1> .
+ <http://example.org/Twitter> <http://schema.org/founder> <http://example.org/ElonMusk> <Facebook-euronews-1> .
+ <http://example.org/MattNavarra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-euronews-1> .
+ <http://example.org/LindaYaccarino> <http://xmlns.com/foaf/0.1/name> "Linda Yaccarino"  <Facebook-euronews-1> .
+ <http://example.org/Threads> <http://schema.org/description> "App by Meta Platforms' parent company, positioned as an alternative to X."  <Facebook-euronews-1> .
+ <http://example.org/Bluesky> <http://schema.org/description> "A social media platform similar to Twitter, with a waitlist and invite codes system for new users."  <Facebook-euronews-1> .
+ <http://example.org/ThierryBreton> <http://schema.org/affiliation> <http://schema.org/EuropeanUnion> <Facebook-euronews-1> .
+ <http://example.org/ThierryBreton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-euronews-1> .
+ <http://example.org/LindaYaccarino> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-euronews-1> .
+ <http://example.org/JackDorsey> <http://dbpedia.org/ontology/boardMember> <http://example.org/Bluesky> <Facebook-euronews-1> .
+ <http://example.org/Twitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-euronews-1> .
+ <http://example.org/Bluesky> <http://schema.org/founder> <http://dbpedia.org/resource/JackDorsey> <Facebook-euronews-1> .
+ <http://example.org/Twitter> <http://schema.org/CEO> <http://example.org/LindaYaccarino> <Facebook-euronews-1> .
+ <http://example.org/MattNavarra> <http://xmlns.com/foaf/0.1/name> "Matt Navarra"  <Facebook-euronews-1> .
+ <http://example.org/MattNavarra> <http://dbpedia.org/ontology/occupation> <http://Facebook-euronews-1.com/blank#n254171ed01a2495591915d1f31475f97b1>  <Facebook-euronews-1> .
+ <http://example.org/TwitterAsNewsPlatform> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> <Facebook-euronews-1> .
+ <http://example.org/XVerificationSystem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> <Facebook-euronews-1> .
+ <http://example.org/Twitter> <http://schema.org/rebrandingDate> "2023-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Facebook-euronews-1> .
+ <http://example.org/ElonMusk> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/CEO> <Facebook-euronews-1> .
+ <http://example.org/Threads> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/Meta_Platforms> <Facebook-euronews-1> .
+ <http://example.org/LindaYaccarino> <http://dbpedia.org/ontology/occupation> <http://schema.org/CEO> <Facebook-euronews-1> .
+ <http://example.org/Twitter> <http://schema.org/rebrandingName> "X"  <Facebook-euronews-1> .
+ <http://example.org/Bluesky> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-euronews-1> .
+ <http://example.org/UkraineFacility> <http://dbpedia.org/ontology/amount> "50000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Facebook-euronews-2> .
+ <http://example.org/UkraineFacilitySupport> <http://dbpedia.org/ontology/participant> <http://example.org/KajaKallas> <Facebook-euronews-2> .
+ <http://example.org/UkraineFacility> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/FinancialPlan> <Facebook-euronews-2> .
+ <http://example.org/ViktorOrban> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-euronews-2> .
+ <http://example.org/LowInterestLoans> <http://dbpedia.org/ontology/amount> "33000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Facebook-euronews-2> .
+ <http://example.org/ViktorOrban> <http://xmlns.com/foaf/0.1/name> "Viktor Orbán"  <Facebook-euronews-2> .
+ <http://example.org/EU> <http://xmlns.com/foaf/0.1/name> "European Union"  <Facebook-euronews-2> .
+ <http://example.org/UkraineFacilitySupport> <http://dbpedia.org/ontology/date> "2023-03-31"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-euronews-2> .
+ <http://example.org/UkraineFacilityConcerns> <http://dbpedia.org/ontology/date> "2023-03-31"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-euronews-2> .
+ <http://example.org/UkraineFacilityOpposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Event> <Facebook-euronews-2> .
+ <http://example.org/UkraineFacilitySupport> <http://dbpedia.org/ontology/description> "Estonian Prime Minister Kaja Kallas speaks in support of Ukraine and questions the alternatives if Ukraine is not helped."  <Facebook-euronews-2> .
+ <http://example.org/EUUkraineSupport> <http://dbpedia.org/ontology/description> "EU intends to provide long-term support for Ukraine through the Ukraine Facility."  <Facebook-euronews-2> .
+ <http://example.org/UkraineFacilitySupport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Event> <Facebook-euronews-2> .
+ <http://example.org/UkraineFacilityConcerns> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Event> <Facebook-euronews-2> .
+ <http://example.org/EUCommonLongTermBudgetRevision> <http://dbpedia.org/ontology/amount> "100000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Facebook-euronews-2> .
+ <http://example.org/UkraineFacilityOpposition> <http://dbpedia.org/ontology/description> "Hungarian Prime Minister Viktor Orbán opposes the Ukraine Facility during a summit in Brussels."  <Facebook-euronews-2> .
+ <http://example.org/UkraineFacilityOpposition> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Brussels> <Facebook-euronews-2> .
+ <http://example.org/EuropeanUnion> <http://dbpedia.org/ontology/membership> "27"^^<http://www.w3.org/2001/XMLSchema#integer>  <Facebook-euronews-2> .
+ <http://example.org/HungaryEUTrancheWithholding> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Event> <Facebook-euronews-2> .
+ <http://example.org/LowInterestLoans> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Funding> <Facebook-euronews-2> .
+ <http://example.org/UkraineFacilityConcerns> <http://dbpedia.org/ontology/description> "Slovak Prime Minister Robert Fico expresses concerns about corruption in Ukraine and the need for safeguards regarding the Ukraine Facility."  <Facebook-euronews-2> .
+ <http://example.org/RobertFico> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-euronews-2> .
+ <http://example.org/UkraineFacility> <http://dbpedia.org/ontology/fundingType> <http://example.org/LowInterestLoans> <Facebook-euronews-2> .
+ <http://example.org/EU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Facebook-euronews-2> .
+ <http://example.org/UkraineMilitaryAidStop> <http://dbpedia.org/ontology/participant> <http://example.org/RobertFico> <Facebook-euronews-2> .
+ <http://example.org/UkraineFacilityOpposition> <http://dbpedia.org/ontology/participant> <http://example.org/ViktorOrban> <Facebook-euronews-2> .
+ <http://example.org/HungaryEUTrancheWithholding> <http://dbpedia.org/ontology/date> "2023-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Facebook-euronews-2> .
+ <http://example.org/Ukraine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <Facebook-euronews-2> .
+ <http://example.org/ViktorOrban> <http://dbpedia.org/ontology/office> "Prime Minister of Hungary"  <Facebook-euronews-2> .
+ <http://example.org/UkraineFacility> <http://dbpedia.org/ontology/partOf> <http://example.org/EUCommonLongTermBudgetRevision> <Facebook-euronews-2> .
+ <http://example.org/UkraineMilitaryAidStop> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Event> <Facebook-euronews-2> .
+ <http://example.org/UkraineFacilityOpposition> <http://dbpedia.org/ontology/date> "2023-03-30"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-euronews-2> .
+ <http://example.org/HungaryEUTrancheWithholding> <http://dbpedia.org/ontology/participant> <http://example.org/ViktorOrban> <Facebook-euronews-2> .
+ <http://example.org/EUUkraineSupport> <http://dbpedia.org/ontology/beneficiary> <http://example.org/Ukraine> <Facebook-euronews-2> .
+ <http://example.org/KajaKallas> <http://dbpedia.org/ontology/office> "Prime Minister of Estonia"  <Facebook-euronews-2> .
+ <http://example.org/EUUkraineSupport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/FinancialSupport> <Facebook-euronews-2> .
+ <http://example.org/Ukraine> <http://www.transparency.org/cpi/corruptionPerceptionIndex> "116"^^<http://www.w3.org/2001/XMLSchema#integer>  <Facebook-euronews-2> .
+ <http://example.org/EUCommonLongTermBudgetRevision> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/BudgetRevision> <Facebook-euronews-2> .
+ <http://example.org/KajaKallas> <http://xmlns.com/foaf/0.1/name> "Kaja Kallas"  <Facebook-euronews-2> .
+ <http://example.org/UkraineFacility> <http://dbpedia.org/ontology/fundingType> <http://example.org/NonRepayableGrants> <Facebook-euronews-2> .
+ <http://example.org/EUUkraineSupport> <http://dbpedia.org/ontology/provider> <http://example.org/EU> <Facebook-euronews-2> .
+ <http://example.org/RobertFico> <http://xmlns.com/foaf/0.1/name> "Robert Fico"  <Facebook-euronews-2> .
+ <http://example.org/RobertFico> <http://dbpedia.org/ontology/office> "Prime Minister of Slovakia"  <Facebook-euronews-2> .
+ <http://example.org/NonRepayableGrants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Funding> <Facebook-euronews-2> .
+ <http://example.org/UkraineMilitaryAidStop> <http://dbpedia.org/ontology/date> "2023-03-30"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-euronews-2> .
+ <http://example.org/NonRepayableGrants> <http://dbpedia.org/ontology/amount> "17000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Facebook-euronews-2> .
+ <http://example.org/HungaryEUTrancheWithholding> <http://dbpedia.org/ontology/description> "Hungary withholds a tranche of €500 million in EU military aid for Ukraine."  <Facebook-euronews-2> .
+ <http://example.org/UkraineMilitaryAidStop> <http://dbpedia.org/ontology/description> "Slovakia announces it will no longer supply military assistance to Ukraine on a bilateral basis."  <Facebook-euronews-2> .
+ <http://example.org/KajaKallas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-euronews-2> .
+ <http://example.org/EuropeanUnion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Facebook-euronews-2> .
+ <http://example.org/UkraineFacilityConcerns> <http://dbpedia.org/ontology/participant> <http://example.org/RobertFico> <Facebook-euronews-2> .
+ <http://example.org/ModerationPolicy> <http://schema.org/mentions> <http://example.org/UserReports> <Facebook-euronews-3> .
+ <http://example.org/LanguageCoverage> <http://schema.org/mentions> <http://example.org/TurkishLanguage> <Facebook-euronews-3> .
+ <http://example.org/ClarificationRequest> <http://schema.org/name> "Clarification on measures against false information and illegal content"  <Facebook-euronews-3> .
+ <http://example.org/ByteDance> <http://schema.org/owns> <http://example.org/TikTok> <Facebook-euronews-3> .
+ <http://example.org/FrenchSpeakers> <http://schema.org/quantity> "650"^^<http://www.w3.org/2001/XMLSchema#integer>  <Facebook-euronews-3> .
+ <http://example.org/ArabicLanguage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> <Facebook-euronews-3> .
+ <http://example.org/EuropeanCommission> <http://schema.org/actionStatus> <http://example.org/Investigations> <Facebook-euronews-3> .
+ <http://example.org/FrenchLanguage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> <Facebook-euronews-3> .
+ <http://example.org/GlobalContentModerationTeam> <http://schema.org/employeeCount> "40000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Facebook-euronews-3> .
+ <http://example.org/ActionTaken> <http://schema.org/name> "Action Taken"  <Facebook-euronews-3> .
+ <http://example.org/X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-euronews-3> .
+ <http://example.org/Videos> <http://schema.org/mentions> <http://example.org/ActionTaken> <Facebook-euronews-3> .
+ <http://example.org/TurkishLanguage> <http://schema.org/name> "Turkish"  <Facebook-euronews-3> .
+ <http://example.org/Instagram> <http://schema.org/name> "Instagram"  <Facebook-euronews-3> .
+ <http://example.org/IllegalContent> <http://schema.org/name> "Illegal Content"  <Facebook-euronews-3> .
+ <http://example.org/FrenchSpeakers> <http://schema.org/jobTitle> "Content Moderator"  <Facebook-euronews-3> .
+ <http://example.org/Meta> <http://schema.org/owns> <http://example.org/Facebook> <Facebook-euronews-3> .
+ <http://example.org/TikTokReport> <http://purl.org/dc/terms/creator> <http://example.org/TikTok> <Facebook-euronews-3> .
+ <http://example.org/FrenchSpeakers> <http://schema.org/knowsLanguage> <http://example.org/FrenchLanguage> <Facebook-euronews-3> .
+ <http://example.org/GermanLanguage> <http://schema.org/name> "German"  <Facebook-euronews-3> .
+ <http://example.org/UserReportStatistics> <http://schema.org/contentSize> "35000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Facebook-euronews-3> .
+ <http://example.org/GermanSpeakers> <http://schema.org/jobTitle> "Content Moderator"  <Facebook-euronews-3> .
+ <http://example.org/TurkishLanguage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> <Facebook-euronews-3> .
+ <http://example.org/LanguageCoverage> <http://schema.org/mentions> <http://example.org/ArabicLanguage> <Facebook-euronews-3> .
+ <http://example.org/HarmfulContent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Facebook-euronews-3> .
+ <http://example.org/ByteDance> <http://schema.org/name> "ByteDance"  <Facebook-euronews-3> .
+ <http://example.org/TikTok> <http://schema.org/employee> <http://example.org/GlobalContentModerationTeam> <Facebook-euronews-3> .
+ <http://example.org/OfficialEULanguages> <http://schema.org/name> "24 official languages of the EU"  <Facebook-euronews-3> .
+ <http://example.org/ProactiveActions> <http://schema.org/name> "Proactive Actions"  <Facebook-euronews-3> .
+ <http://example.org/IllegalContentReporting> <http://schema.org/name> "Illegal Content Reporting"  <Facebook-euronews-3> .
+ <http://example.org/X> <http://schema.org/name> "X"  <Facebook-euronews-3> .
+ <http://example.org/TikTokReport> <http://schema.org/numberOfItems> "4000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Facebook-euronews-3> .
+ <http://example.org/GermanSpeakers> <http://schema.org/knowsLanguage> <http://example.org/GermanLanguage> <Facebook-euronews-3> .
+ <http://example.org/Facebook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPlatform> <Facebook-euronews-3> .
+ <http://example.org/GermanLanguage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> <Facebook-euronews-3> .
+ <http://example.org/TikTok> <http://schema.org/parentOrganization> <http://example.org/ByteDance> <Facebook-euronews-3> .
+ <http://example.org/Investigations> <http://schema.org/result> <http://example.org/ClarificationRequest> <Facebook-euronews-3> .
+ <http://example.org/TikTokReport> <http://schema.org/about> <http://example.org/EuropeanUnion> <Facebook-euronews-3> .
+ <http://example.org/Investigations> <http://schema.org/target> <http://example.org/Meta> <Facebook-euronews-3> .
+ <http://example.org/Videos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> <Facebook-euronews-3> .
+ <http://example.org/EuropeanDigitalServicesAct> <http://purl.org/dc/terms/effective> "2022-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Facebook-euronews-3> .
+ <http://example.org/Meta> <http://schema.org/name> "Meta"  <Facebook-euronews-3> .
+ <http://example.org/ContentModerationTool> <http://schema.org/creator> <http://example.org/TikTok> <Facebook-euronews-3> .
+ <http://example.org/UserReports> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Facebook-euronews-3> .
+ <http://example.org/FrenchSpeakers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Facebook-euronews-3> .
+ <http://example.org/TikTokReport> <http://purl.org/dc/terms/description> "TikTok published a report regarding its moderation policy, a requirement imposed by the new European legislation on digital services (DSA)."  <Facebook-euronews-3> .
+ <http://example.org/EuropeanCommission> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GovernmentOrganization> <Facebook-euronews-3> .
+ <http://example.org/MedianResponseTime> <http://schema.org/value> "13"^^<http://www.w3.org/2001/XMLSchema#integer>  <Facebook-euronews-3> .
+ <http://example.org/GermanSpeakers> <http://schema.org/quantity> "860"^^<http://www.w3.org/2001/XMLSchema#integer>  <Facebook-euronews-3> .
+ <http://example.org/FrenchSpeakers> <http://schema.org/memberOf> <http://example.org/TikTok> <Facebook-euronews-3> .
+ <http://example.org/EuropeanDigitalServicesAct> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Legislation> <Facebook-euronews-3> .
+ <http://example.org/MedianResponseTime> <http://schema.org/unitCode> "HUR"^^<http://schema.org/unitText>  <Facebook-euronews-3> .
+ <http://example.org/LanguageCoverage> <http://schema.org/name> "Language Coverage"  <Facebook-euronews-3> .
+ <http://example.org/ByteDance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-euronews-3> .
+ <http://example.org/TikTok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-euronews-3> .
+ <http://example.org/HarmfulContent> <http://schema.org/name> "Harmful Content"  <Facebook-euronews-3> .
+ <http://example.org/ModerationPolicy> <http://schema.org/about> <http://example.org/IllegalContent> <Facebook-euronews-3> .
+ <http://example.org/ActionTaken> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Facebook-euronews-3> .
+ <http://example.org/ProactiveActions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Facebook-euronews-3> .
+ <http://example.org/UserReportStatistics> <http://schema.org/creator> <http://example.org/TikTok> <Facebook-euronews-3> .
+ <http://example.org/ActionTaken> <http://schema.org/percent> "16"^^<http://www.w3.org/2001/XMLSchema#integer>  <Facebook-euronews-3> .
+ <http://example.org/LanguageCoverage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Facebook-euronews-3> .
+ <http://example.org/GermanSpeakers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Facebook-euronews-3> .
+ <http://example.org/UserReportStatistics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Dataset> <Facebook-euronews-3> .
+ <http://example.org/GermanSpeakers> <http://schema.org/memberOf> <http://example.org/TikTok> <Facebook-euronews-3> .
+ <http://example.org/TikTokReport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Report> <Facebook-euronews-3> .
+ <http://example.org/Meta> <http://schema.org/owns> <http://example.org/Instagram> <Facebook-euronews-3> .
+ <http://example.org/ContentModerationTool> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <Facebook-euronews-3> .
+ <http://example.org/UserReportStatistics> <http://schema.org/measurementTechnique> "User Reports"  <Facebook-euronews-3> .
+ <http://example.org/Investigations> <http://schema.org/target> <http://example.org/X> <Facebook-euronews-3> .
+ <http://example.org/UserReports> <http://schema.org/name> "User Reports"  <Facebook-euronews-3> .
+ <http://example.org/EUContentModerationTeam> <http://schema.org/employeeCount> "5000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Facebook-euronews-3> .
+ <http://example.org/Investigations> <http://schema.org/target> <http://example.org/TikTok> <Facebook-euronews-3> .
+ <http://example.org/OfficialEULanguages> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Language> <Facebook-euronews-3> .
+ <http://example.org/Instagram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPlatform> <Facebook-euronews-3> .
+ <http://example.org/TikTok> <http://schema.org/name> "TikTok"  <Facebook-euronews-3> .
+ <http://example.org/Investigations> <http://schema.org/agent> <http://example.org/EuropeanCommission> <Facebook-euronews-3> .
+ <http://example.org/UserReportStatistics> <http://schema.org/about> <http://example.org/Videos> <Facebook-euronews-3> .
+ <http://example.org/ClarificationRequest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Facebook-euronews-3> .
+ <http://example.org/FrenchLanguage> <http://schema.org/name> "French"  <Facebook-euronews-3> .
+ <http://example.org/TikTok> <http://schema.org/employee> <http://example.org/EUContentModerationTeam> <Facebook-euronews-3> .
+ <http://example.org/LanguageCoverage> <http://schema.org/mentions> <http://example.org/OfficialEULanguages> <Facebook-euronews-3> .
+ <http://example.org/EUContentModerationTeam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-euronews-3> .
+ <http://example.org/EuropeanDigitalServicesAct> <http://schema.org/name> "European Digital Services Act (DSA)"  <Facebook-euronews-3> .
+ <http://example.org/TikTokReport> <http://purl.org/dc/terms/issued> "2023-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Facebook-euronews-3> .
+ <http://example.org/EuropeanCommission> <http://schema.org/name> "European Commission"  <Facebook-euronews-3> .
+ <http://example.org/ContentModerationTool> <http://schema.org/softwareHelp> <http://example.org/IllegalContentReporting> <Facebook-euronews-3> .
+ <http://example.org/ModerationPolicy> <http://schema.org/mentions> <http://example.org/ProactiveActions> <Facebook-euronews-3> .
+ <http://example.org/IllegalContent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Facebook-euronews-3> .
+ <http://example.org/IllegalContentReporting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Facebook-euronews-3> .
+ <http://example.org/Meta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-euronews-3> .
+ <http://example.org/GlobalContentModerationTeam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-euronews-3> .
+ <http://example.org/MedianResponseTime> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/QuantitativeValue> <Facebook-euronews-3> .
+ <http://example.org/ArabicLanguage> <http://schema.org/name> "Arabic"  <Facebook-euronews-3> .
+ <http://example.org/ModerationPolicy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Facebook-euronews-3> .
+ <http://example.org/Investigations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Action> <Facebook-euronews-3> .
+ <http://example.org/Videos> <http://schema.org/quantity> "24000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Facebook-euronews-3> .
+ <http://example.org/Facebook> <http://schema.org/name> "Facebook"  <Facebook-euronews-3> .
+ <http://example.org/TikTokReport> <http://purl.org/dc/terms/subject> <http://example.org/ModerationPolicy> <Facebook-euronews-3> .
+ <http://example.org/TikTokReport> <http://purl.org/dc/terms/title> "TikTok Moderation Policy Report"  <Facebook-euronews-3> .
+ <http://example.org/ModerationPolicy> <http://schema.org/about> <http://example.org/HarmfulContent> <Facebook-euronews-3> .
+ <http://example.org/KurtSteiss> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Facebook-euronews-4> .
+ <http://example.org/PicketersStrikeAtGMArlington> <http://schema.org/organizer> <http://example.org/UnitedAutoWorkers> <Facebook-euronews-4> .
+ <http://example.org/TentativeContractAgreement> <http://schema.org/organizer> <http://example.org/UnitedAutoWorkers> <Facebook-euronews-4> .
+ <http://example.org/PicketersStrikeAtGMArlington> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Facebook-euronews-4> .
+ <http://example.org/PicketersStrikeAtGMArlington> <http://schema.org/startDate> "2023-10-24"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-euronews-4> .
+ <http://example.org/JoeBiden> <http://schema.org/name> "Joe Biden"  <Facebook-euronews-4> .
+ <http://example.org/UAWNationalLeadershipCouncilMeeting> <http://schema.org/location> "Detroit"  <Facebook-euronews-4> .
+ <http://example.org/StrikeAtStellantisToledoAssemblyComplex> <http://schema.org/location> <http://example.org/Stellantis> <Facebook-euronews-4> .
+ <http://example.org/WalterReuther> <http://schema.org/deathDate> "1970-05-09"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-euronews-4> .
+ <http://Facebook-euronews-4.com/blank#na90a9b416aa847c6bf884162d0359bf7b1> <http://schema.org/name> "United Auto Workers Local 12"  <Facebook-euronews-4> .
+ <http://example.org/TentativeContractAgreement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Facebook-euronews-4> .
+ <http://example.org/StrikeEndAnnouncement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Facebook-euronews-4> .
+ <http://example.org/StrikeAtStellantisToledoAssemblyComplex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Facebook-euronews-4> .
+ <http://example.org/TentativeContractAgreement> <http://schema.org/description> "Tentative contract agreement reached with Ford that could end the nearly 6-week-old strikes against Detroit automakers."  <Facebook-euronews-4> .
+ <http://example.org/UnitedAutoWorkers> <http://schema.org/memberCount> "57000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Facebook-euronews-4> .
+ <http://example.org/WalterReuther> <http://schema.org/name> "Walter Reuther"  <Facebook-euronews-4> .
+ <http://example.org/KeithJurgelewicz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Facebook-euronews-4> .
+ <http://example.org/GeneralMotors> <http://schema.org/name> "General Motors"  <Facebook-euronews-4> .
+ <http://example.org/ChuckBrowning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Facebook-euronews-4> .
+ <http://example.org/PresidentialPraise> <http://schema.org/description> "President Joe Biden praised the settlement of the tentative contract agreement."  <Facebook-euronews-4> .
+ <http://example.org/FacebookLiveVideoAppearance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Facebook-euronews-4> .
+ <http://example.org/BrianHeppner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Facebook-euronews-4> .
+ <http://example.org/UAWNationalLeadershipCouncilMeeting> <http://schema.org/startDate> "2023-10-29"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-euronews-4> .
+ <http://example.org/TentativeContractAgreement> <http://schema.org/startDate> "2023-10-25"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-euronews-4> .
+ <http://example.org/StrikeEndAnnouncement> <http://schema.org/startDate> "2023-10-25"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-euronews-4> .
+ <http://example.org/TentativeContractAgreement> <http://schema.org/offers> <http://example.org/ContractTerms> <Facebook-euronews-4> .
+ <http://example.org/ChuckBrowning> <http://schema.org/name> "Chuck Browning"  <Facebook-euronews-4> .
+ <http://example.org/ChicagoAssemblyPlant> <http://schema.org/name> "Chicago Assembly Plant"  <Facebook-euronews-4> .
+ <http://example.org/WageIncreaseSpecification> <http://schema.org/valueAddedTaxIncluded> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <Facebook-euronews-4> .
+ <http://example.org/ContractTerms> <http://schema.org/availabilityStarts> "2023-09-15"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-euronews-4> .
+ <http://example.org/ChicagoAssemblyPlant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <Facebook-euronews-4> .
+ <http://example.org/KeithJurgelewicz> <http://schema.org/name> "Keith Jurgelewicz"  <Facebook-euronews-4> .
+ <http://example.org/BrianHeppner> <http://schema.org/name> "Brian 'Rooster' Heppner"  <Facebook-euronews-4> .
+ <http://example.org/KentuckyTruckPlant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <Facebook-euronews-4> .
+ <http://example.org/PresidentialPraise> <http://schema.org/organizer> <http://example.org/JoeBiden> <Facebook-euronews-4> .
+ <http://example.org/ContractTerms> <http://schema.org/eligibleCustomerType> "union members"  <Facebook-euronews-4> .
+ <http://example.org/FacebookLiveVideoAppearance> <http://schema.org/startDate> "2023-10-29T20:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <Facebook-euronews-4> .
+ <http://example.org/JoeBiden> <http://schema.org/jobTitle> "President"  <Facebook-euronews-4> .
+ <http://example.org/GeneralMotors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-euronews-4> .
+ <http://example.org/MichiganAssemblyPlant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <Facebook-euronews-4> .
+ <http://example.org/Ford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-euronews-4> .
+ <http://example.org/MichiganAssemblyPlant> <http://schema.org/name> "Michigan Assembly Plant"  <Facebook-euronews-4> .
+ <http://example.org/WageIncreaseSpecification> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PriceSpecification> <Facebook-euronews-4> .
+ <http://example.org/WageIncreaseSpecification> <http://schema.org/priceCurrency> "EUR"  <Facebook-euronews-4> .
+ <http://example.org/Ford> <http://schema.org/name> "Ford"  <Facebook-euronews-4> .
+ <http://example.org/WageIncreaseSpecification> <http://schema.org/validThrough> "2027"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-euronews-4> .
+ <http://example.org/JoeBiden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Facebook-euronews-4> .
+ <http://example.org/StrikeEndAnnouncement> <http://schema.org/location> <http://example.org/MichiganAssemblyPlant> <Facebook-euronews-4> .
+ <http://example.org/PicketersStrikeAtGMArlington> <http://schema.org/location> <http://example.org/GeneralMotorsArlingtonAssemblyPlant> <Facebook-euronews-4> .
+ <http://example.org/UAWNationalLeadershipCouncilMeeting> <http://schema.org/organizer> <http://example.org/UnitedAutoWorkers> <Facebook-euronews-4> .
+ <http://example.org/FacebookLiveVideoAppearance> <http://schema.org/organizer> <http://example.org/UnitedAutoWorkers> <Facebook-euronews-4> .
+ <http://example.org/StrikeEndAnnouncement> <http://schema.org/participant> <http://example.org/KeithJurgelewicz> <Facebook-euronews-4> .
+ <http://example.org/UnitedAutoWorkers> <http://schema.org/name> "United Auto Workers"  <Facebook-euronews-4> .
+ <http://example.org/ShawnFain> <http://schema.org/affiliation> <http://example.org/UnitedAutoWorkers> <Facebook-euronews-4> .
+ <http://example.org/KentuckyTruckPlant> <http://schema.org/address> "Louisville, Kentucky"  <Facebook-euronews-4> .
+ <http://example.org/UAWNationalLeadershipCouncilMeeting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Facebook-euronews-4> .
+ <http://example.org/ShawnFain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Facebook-euronews-4> .
+ <http://example.org/KentuckyTruckPlant> <http://schema.org/name> "Kentucky Truck Plant"  <Facebook-euronews-4> .
+ <http://example.org/ChuckBrowning> <http://schema.org/jobTitle> "Vice President"  <Facebook-euronews-4> .
+ <http://example.org/ChuckBrowning> <http://schema.org/affiliation> <http://example.org/UnitedAutoWorkers> <Facebook-euronews-4> .
+ <http://example.org/KurtSteiss> <http://schema.org/name> "Kurt Steiss"  <Facebook-euronews-4> .
+ <http://example.org/WageIncreaseSpecification> <http://schema.org/minPrice> "38.0"^^<http://www.w3.org/2001/XMLSchema#float>  <Facebook-euronews-4> .
+ <http://example.org/WalterReuther> <http://schema.org/affiliation> <http://example.org/UnitedAutoWorkers> <Facebook-euronews-4> .
+ <http://example.org/ShawnFain> <http://schema.org/name> "Shawn Fain"  <Facebook-euronews-4> .
+ <http://example.org/ContractTerms> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> <Facebook-euronews-4> .
+ <http://example.org/StrikeAtStellantisToledoAssemblyComplex> <http://schema.org/startDate> "2023-10-25"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-euronews-4> .
+ <http://example.org/WalterReuther> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Facebook-euronews-4> .
+ <http://example.org/PresidentialPraise> <http://schema.org/about> <http://example.org/TentativeContractAgreement> <Facebook-euronews-4> .
+ <http://example.org/Stellantis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-euronews-4> .
+ <http://example.org/KentuckyTruckPlant> <http://schema.org/numberOfEmployees> "8700"^^<http://www.w3.org/2001/XMLSchema#integer>  <Facebook-euronews-4> .
+ <http://example.org/StrikeAtStellantisToledoAssemblyComplex> <http://schema.org/participant> <http://example.org/BrianHeppner> <Facebook-euronews-4> .
+ <http://example.org/PresidentialPraise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Facebook-euronews-4> .
+ <http://example.org/ContractTerms> <http://schema.org/priceSpecification> <http://example.org/WageIncreaseSpecification> <Facebook-euronews-4> .
+ <http://example.org/UnitedAutoWorkers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-euronews-4> .
+ <http://example.org/GeneralMotorsArlingtonAssemblyPlant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <Facebook-euronews-4> .
+ <http://example.org/ShawnFain> <http://schema.org/jobTitle> "President"  <Facebook-euronews-4> .
+ <http://example.org/Stellantis> <http://schema.org/name> "Stellantis"  <Facebook-euronews-4> .
+ <http://example.org/WageIncreaseSpecification> <http://schema.org/priceCurrency> "USD"  <Facebook-euronews-4> .
+ <http://example.org/GeneralMotorsArlingtonAssemblyPlant> <http://schema.org/name> "General Motors Arlington Assembly Plant"  <Facebook-euronews-4> .
+ <http://Facebook-euronews-4.com/blank#na90a9b416aa847c6bf884162d0359bf7b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-euronews-4> .
+ <http://example.org/BrianHeppner> <http://schema.org/memberOf> <http://Facebook-euronews-4.com/blank#na90a9b416aa847c6bf884162d0359bf7b1>  <Facebook-euronews-4> .
+ <http://example.org/TentativeContractAgreement> <http://schema.org/location> <http://example.org/Ford> <Facebook-euronews-4> .
+ <http://example.org/WalterReuther> <http://schema.org/jobTitle> "President"  <Facebook-euronews-4> .
+ <http://example.org/WageIncreaseSpecification> <http://schema.org/price> "40.0"^^<http://www.w3.org/2001/XMLSchema#float>  <Facebook-euronews-4> .
+ <http://example.org/StrikeEndAnnouncement> <http://schema.org/organizer> <http://example.org/UnitedAutoWorkers> <Facebook-euronews-4> .
+ <http://example.org/StrikeAtStellantisToledoAssemblyComplex> <http://schema.org/organizer> <http://example.org/UnitedAutoWorkers> <Facebook-euronews-4> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b3> <http://dbpedia.org/ontology/number> "thousands"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b9> <http://dbpedia.org/ontology/name> "Quest 3 headset"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-5> .
+ <http://example.org/meta/Meta> <http://dbpedia.org/ontology/investmentArea> "AI"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b2> <http://dbpedia.org/ontology/rateOfGrowth> "fastest"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-5> .
+ <http://example.org/meta/SusanLi> <http://xmlns.com/foaf/0.1/organization> <http://example.org/meta/Meta> <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b11> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/Euro> <Facebook-euronews-5> .
+ <http://example.org/meta/GodofredoAVasquez> <http://purl.org/dc/elements/1.1/rightsHolder> "The AP"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-5> .
+ <http://example.org/meta/Meta> <http://dbpedia.org/ontology/lawsuit> <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b6>  <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b6> <http://dbpedia.org/ontology/plaintiff> "41 states plus the District of Columbia"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b9> <http://dbpedia.org/ontology/releaseYear> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b4> <http://dbpedia.org/ontology/previousYear> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-euronews-5> .
+ <http://example.org/meta/Meta> <http://dbpedia.org/ontology/investment> <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b7>  <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b12> <http://dbpedia.org/ontology/year> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-euronews-5> .
+ <http://example.org/meta/GodofredoAVasquez> <http://purl.org/dc/elements/1.1/date> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b1> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/Euro> <Facebook-euronews-5> .
+ <http://example.org/meta/Meta> <http://dbpedia.org/ontology/revenue> <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b2>  <Facebook-euronews-5> .
+ <http://example.org/meta/Meta> <http://dbpedia.org/ontology/advertisingRevenue> <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b4>  <Facebook-euronews-5> .
+ <http://example.org/meta/MarkZuckerberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-euronews-5> .
+ <http://example.org/meta/ConnectConference> <http://dbpedia.org/ontology/date> "2023-09-27"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-euronews-5> .
+ <http://example.org/meta/Meta> <http://dbpedia.org/ontology/profit> <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b1>  <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b14> <http://dbpedia.org/ontology/period> "beginning of Q4"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-5> .
+ <http://example.org/meta/SusanLi> <http://schema.org/jobTitle> "Finance Chief"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b14> <http://dbpedia.org/ontology/aspect> "ad spending"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-5> .
+ <http://example.org/meta/Facebook> <http://xmlns.com/foaf/0.1/name> "Facebook"  <Facebook-euronews-5> .
+ <http://example.org/meta/Meta> <http://dbpedia.org/ontology/totalLoss> <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b11>  <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b12> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/Euro> <Facebook-euronews-5> .
+ <http://example.org/meta/SusanLi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-euronews-5> .
+ <http://example.org/meta/ConnectConference> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Facebook-euronews-5> .
+ <http://example.org/meta/Meta> <http://dbpedia.org/ontology/employeeReduction> <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b3>  <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b2> <http://dbpedia.org/ontology/amount> "23"^^<http://www.w3.org/2001/XMLSchema#percent>  <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b8> <http://dbpedia.org/ontology/year> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b10> <http://dbpedia.org/ontology/releaseYear> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-euronews-5> .
+ <http://example.org/meta/RealityLabs> <http://dbpedia.org/ontology/investment> <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b13>  <Facebook-euronews-5> .
+ <http://example.org/meta/RealityLabs> <http://dbpedia.org/ontology/focus> "augmented and virtual reality technologies"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b1> <http://dbpedia.org/ontology/amount> "11.58"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b14> <http://dbpedia.org/ontology/entity> <http://example.org/meta/Meta> <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b6> <http://dbpedia.org/ontology/reason> "harming young people's mental health"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-5> .
+ <http://example.org/meta/RealityLabs> <http://dbpedia.org/ontology/parentCompany> <http://example.org/meta/Meta> <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b8> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/Euro> <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b11> <http://dbpedia.org/ontology/sinceYear> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-euronews-5> .
+ <http://example.org/meta/MarkZuckerberg> <http://xmlns.com/foaf/0.1/name> "Mark Zuckerberg"  <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b7> <http://dbpedia.org/ontology/sector> "metaverse"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b11> <http://dbpedia.org/ontology/amount> "25"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b4> <http://dbpedia.org/ontology/duration> "three straight quarters"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b13> <http://dbpedia.org/ontology/sector> "augmented reality/virtual reality"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-5> .
+ <http://example.org/meta/RealityLabs> <http://dbpedia.org/ontology/operatingLossIncrease> "meaningful"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b13> <http://dbpedia.org/ontology/purpose> "product development and ecosystem scaling"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b5> <http://dbpedia.org/ontology/asOfDate> "2023-09-30"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-euronews-5> .
+ <http://example.org/meta/Meta> <http://dbpedia.org/ontology/parentCompany> <http://example.org/meta/Facebook> <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b2> <http://dbpedia.org/ontology/period> "Q3"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b1> <http://dbpedia.org/ontology/year> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-euronews-5> .
+ <http://example.org/meta/ConnectConference> <http://dbpedia.org/ontology/relatedProduct> "Meta Quest 3"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b5> <http://dbpedia.org/ontology/increase> "3"^^<http://www.w3.org/2001/XMLSchema#percent>  <Facebook-euronews-5> .
+ <http://example.org/meta/GodofredoAVasquez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b14> <http://dbpedia.org/ontology/year> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-euronews-5> .
+ <http://example.org/meta/Meta> <http://xmlns.com/foaf/0.1/name> "Meta"  <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b12> <http://dbpedia.org/ontology/maximum> "40"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Facebook-euronews-5> .
+ <http://example.org/meta/RealityLabs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Division> <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b2> <http://dbpedia.org/ontology/year> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b3> <http://dbpedia.org/ontology/previousYear> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b4> <http://dbpedia.org/ontology/trend> "plummeted"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-5> .
+ <http://example.org/meta/ConnectConference> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Menlo_Park_California> <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b5> <http://dbpedia.org/ontology/comparedTo> "previous year"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-5> .
+ <http://example.org/meta/SusanLi> <http://xmlns.com/foaf/0.1/name> "Susan Li"  <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b8> <http://dbpedia.org/ontology/period> "Q3"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b5> <http://dbpedia.org/ontology/unit> "billion"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-5> .
+ <http://example.org/meta/Meta> <http://dbpedia.org/ontology/loss> <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b8>  <Facebook-euronews-5> .
+ <http://example.org/meta/Facebook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b2> <http://dbpedia.org/ontology/sinceYear> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-euronews-5> .
+ <http://dbpedia.org/resource/Israel-Hamas_conflict> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Facebook-euronews-5> .
+ <http://example.org/meta/Meta> <http://dbpedia.org/ontology/division> <http://example.org/meta/RealityLabs> <Facebook-euronews-5> .
+ <http://example.org/meta/Meta> <http://dbpedia.org/ontology/product> <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b9>  <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b8> <http://dbpedia.org/ontology/amount> "3.74"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b7> <http://dbpedia.org/ontology/result> "not paid off"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-5> .
+ <http://example.org/meta/Meta> <http://dbpedia.org/ontology/product> <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b10>  <Facebook-euronews-5> .
+ <http://example.org/meta/Meta> <http://dbpedia.org/ontology/revenueForecast> <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b12>  <Facebook-euronews-5> .
+ <http://example.org/meta/GodofredoAVasquez> <http://xmlns.com/foaf/0.1/name> "Godofredo A. Vasquez"  <Facebook-euronews-5> .
+ <http://example.org/meta/MarkZuckerberg> <http://schema.org/jobTitle> "CEO"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b12> <http://dbpedia.org/ontology/minimum> "36.5"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Facebook-euronews-5> .
+ <http://example.org/meta/Meta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Facebook-euronews-5> .
+ <http://dbpedia.org/resource/Israel-Hamas_conflict> <http://dbpedia.org/ontology/influenceOn> <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b14>  <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b5> <http://dbpedia.org/ontology/number> "3.05"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b10> <http://dbpedia.org/ontology/name> "Ray-Ban Meta Smart Glasses"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-5> .
+ <http://example.org/meta/Meta> <http://dbpedia.org/ontology/activeUsers> <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b5>  <Facebook-euronews-5> .
+ <http://example.org/meta/MarkZuckerberg> <http://xmlns.com/foaf/0.1/organization> <http://example.org/meta/Meta> <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b12> <http://dbpedia.org/ontology/nextPeriod> "Q4"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-5> .
+ <http://Facebook-euronews-5.com/blank#n5ed3557dd2b046bd9b5f992a03fe5126b1> <http://dbpedia.org/ontology/period> "Q3"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-5> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b2> <http://dbpedia.org/ontology/amount> "23"^^<http://www.w3.org/2001/XMLSchema#percent>  <Facebook-euronews-6> .
+ <http://dbpedia.org/resource/Israel-Hamas_conflict> <http://dbpedia.org/ontology/impactOn> <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b11>  <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b11> <http://dbpedia.org/ontology/company> <http://example.org/meta/Meta> <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b1> <http://dbpedia.org/ontology/period> "Q3"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-6> .
+ <http://example.org/meta/SusanLi> <http://xmlns.com/foaf/0.1/organization> <http://example.org/meta/Meta> <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b4> <http://dbpedia.org/ontology/plaintiff> "41 states plus the District of Columbia"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b3> <http://dbpedia.org/ontology/increase> "3"^^<http://www.w3.org/2001/XMLSchema#percent>  <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b8> <http://xmlns.com/foaf/0.1/name> "Ray-Ban Meta Smart Glasses"  <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b3> <http://dbpedia.org/ontology/amount> "3.05"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Facebook-euronews-6> .
+ <http://example.org/meta/MarkZuckerberg> <http://schema.org/jobTitle> "CEO"  <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b10> <http://dbpedia.org/ontology/minimumAmount> "36.5"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Facebook-euronews-6> .
+ <http://example.org/meta/Meta> <http://dbpedia.org/ontology/profit> <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b1>  <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b11> <http://dbpedia.org/ontology/aspect> "ad spending"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-6> .
+ <http://example.org/meta/Meta> <http://dbpedia.org/ontology/revenue> <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b2>  <Facebook-euronews-6> .
+ <http://example.org/meta/RealityLabs> <http://dbpedia.org/ontology/operatingLossIncrease> "meaningfully"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b3> <http://dbpedia.org/ontology/unit> <http://dbpedia.org/resource/Billion> <Facebook-euronews-6> .
+ <http://example.org/meta/MarkZuckerberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-euronews-6> .
+ <http://dbpedia.org/resource/Israel-Hamas_conflict> <http://purl.org/dc/elements/1.1/date> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-euronews-6> .
+ <http://example.org/meta/Facebook> <http://xmlns.com/foaf/0.1/name> "Facebook"  <Facebook-euronews-6> .
+ <http://example.org/meta/Meta> <http://dbpedia.org/ontology/staffCuts> "massive"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b10> <http://dbpedia.org/ontology/nextPeriod> "Q4"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-6> .
+ <http://example.org/meta/SusanLi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-euronews-6> .
+ <http://example.org/meta/ConnectDeveloperConference> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Facebook-euronews-6> .
+ <http://example.org/meta/ConnectDeveloperConference> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Menlo_Park_California> <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b9> <http://dbpedia.org/ontology/sinceYear> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b2> <http://dbpedia.org/ontology/rateOfGrowth> "fastest"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-6> .
+ <http://example.org/meta/Meta> <http://dbpedia.org/ontology/loss> <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b9>  <Facebook-euronews-6> .
+ <http://example.org/meta/Meta> <http://dbpedia.org/ontology/product> <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b8>  <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b8> <http://dbpedia.org/ontology/releaseYear> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-euronews-6> .
+ <http://example.org/meta/Meta> <http://dbpedia.org/ontology/lawsuit> <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b4>  <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b4> <http://dbpedia.org/ontology/accusation> "harming young people's mental health"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b6> <http://dbpedia.org/ontology/period> "Q3"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-6> .
+ <http://example.org/meta/Meta> <http://dbpedia.org/ontology/layoffs> "thousands"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b9> <http://dbpedia.org/ontology/amount> "25"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b2> <http://dbpedia.org/ontology/year> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b1> <http://dbpedia.org/ontology/amount> "11.58"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Facebook-euronews-6> .
+ <http://example.org/meta/MarkZuckerberg> <http://xmlns.com/foaf/0.1/name> "Mark Zuckerberg"  <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b3> <http://dbpedia.org/ontology/asOfDate> "2023-09-30"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b6> <http://dbpedia.org/ontology/amount> "3.74"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b5> <http://dbpedia.org/ontology/division> <http://example.org/meta/RealityLabs> <Facebook-euronews-6> .
+ <http://example.org/meta/ConnectDeveloperConference> <http://purl.org/dc/elements/1.1/date> "2023-09-27"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b7> <http://xmlns.com/foaf/0.1/name> "Quest 3 headset"  <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b12> <http://xmlns.com/foaf/0.1/activity> "tries the Meta Quest 3 in a demonstration room"  <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b6> <http://dbpedia.org/ontology/year> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-euronews-6> .
+ <http://example.org/meta/Meta> <http://dbpedia.org/ontology/parentCompany> <http://example.org/meta/Facebook> <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b3> <http://dbpedia.org/ontology/comparedToYear> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b11> <http://dbpedia.org/ontology/effect> "soften"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b7> <http://dbpedia.org/ontology/releaseYear> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b13> <http://schema.org/copyrightYear> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b6> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/Euro> <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b1> <http://dbpedia.org/ontology/year> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-euronews-6> .
+ <http://example.org/meta/Meta> <http://xmlns.com/foaf/0.1/name> "Meta"  <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b2> <http://dbpedia.org/ontology/sinceYear> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b10> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/Euro> <Facebook-euronews-6> .
+ <http://example.org/meta/RealityLabs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Division> <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b5> <http://dbpedia.org/ontology/loss> <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b6>  <Facebook-euronews-6> .
+ <http://example.org/meta/Meta> <http://dbpedia.org/ontology/revenueForecast> <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b10>  <Facebook-euronews-6> .
+ <http://example.org/meta/Meta> <http://dbpedia.org/ontology/advertisingRevenue> "plummeted"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b1> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/Euro> <Facebook-euronews-6> .
+ <http://example.org/meta/ConnectDeveloperConference> <http://dbpedia.org/ontology/participant> <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b12>  <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b5> <http://dbpedia.org/ontology/sector> "metaverse"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-6> .
+ <http://example.org/meta/SusanLi> <http://xmlns.com/foaf/0.1/name> "Susan Li"  <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b13> <http://xmlns.com/foaf/0.1/name> "Godofredo A. Vasquez"  <Facebook-euronews-6> .
+ <http://example.org/meta/Meta> <http://dbpedia.org/ontology/activeUsers> <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b3>  <Facebook-euronews-6> .
+ <http://example.org/meta/Facebook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Facebook-euronews-6> .
+ <http://example.org/meta/MarkZuckerberg> <http://dbpedia.org/ontology/statement> "I’m proud of the work our teams have done to advance AI and mixed reality with the launch of Quest 3, Ray-Ban Meta Smart Glasses and our AI studio"  <Facebook-euronews-6> .
+ <http://dbpedia.org/resource/Israel-Hamas_conflict> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b13> <http://schema.org/copyrightHolder> "The AP"  <Facebook-euronews-6> .
+ <http://example.org/meta/Meta> <http://dbpedia.org/ontology/product> <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b7>  <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b5> <http://dbpedia.org/ontology/outcome> "not paid off"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b2> <http://dbpedia.org/ontology/period> "Q3"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-6> .
+ <http://example.org/meta/SusanLi> <http://schema.org/jobTitle> "Finance Chief"  <Facebook-euronews-6> .
+ <http://example.org/meta/RealityLabs> <http://dbpedia.org/ontology/investmentFocus> "augmented reality/virtual reality"^^<http://www.w3.org/2001/XMLSchema#string>  <Facebook-euronews-6> .
+ <http://example.org/meta/Meta> <http://dbpedia.org/ontology/investment> <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b5>  <Facebook-euronews-6> .
+ <http://example.org/meta/Meta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b10> <http://dbpedia.org/ontology/maximumAmount> "40"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Facebook-euronews-6> .
+ <http://example.org/meta/ConnectDeveloperConference> <http://dbpedia.org/ontology/photographer> <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b13>  <Facebook-euronews-6> .
+ <http://example.org/meta/MarkZuckerberg> <http://xmlns.com/foaf/0.1/organization> <http://example.org/meta/Meta> <Facebook-euronews-6> .
+ <http://example.org/meta/SusanLi> <http://dbpedia.org/ontology/statement> "We have observed softer ads in the beginning of the fourth quarter, correlating with the start of the conflict, which is captured in our Q4 revenue outlook. It’s hard for us to attribute demand softness directly to any specific geopolitical event"  <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b10> <http://dbpedia.org/ontology/year> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-euronews-6> .
+ <http://Facebook-euronews-6.com/blank#n5424eb09126b403083cf703038d058d7b9> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/Euro> <Facebook-euronews-6> .
+ <http://example.org/Report> <http://schema.org/mentions> <http://example.org/GazaCity> <Facebook-euronews-7> .
+ <http://example.org/Russia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <Facebook-euronews-7> .
+ <http://example.org/Study> <http://schema.org/mentions> <http://example.org/China> <Facebook-euronews-7> .
+ <http://example.org/Study> <http://schema.org/mentions> <http://example.org/Facebook> <Facebook-euronews-7> .
+ <http://example.org/AlAhliHospital> <http://schema.org/location> <http://example.org/GazaCity> <Facebook-euronews-7> .
+ <http://example.org/MarchInToronto> <http://schema.org/reportedBy> <http://example.org/ArlynMcAdorey> <Facebook-euronews-7> .
+ <http://example.org/JuliaSmirnova> <http://xmlns.com/foaf/0.1/name> "Julia Smirnova"  <Facebook-euronews-7> .
+ <http://example.org/Report> <http://schema.org/mentions> <http://example.org/China> <Facebook-euronews-7> .
+ <http://example.org/Toronto> <http://schema.org/name> "Toronto"  <Facebook-euronews-7> .
+ <http://example.org/ISD> <http://xmlns.com/foaf/0.1/name> "Institute for Strategic Dialogue"  <Facebook-euronews-7> .
+ <http://example.org/Report> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Facebook-euronews-7> .
+ <http://example.org/Report> <http://schema.org/mentions> <http://example.org/Russia> <Facebook-euronews-7> .
+ <http://example.org/JuliaSmirnova> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Facebook-euronews-7> .
+ <http://example.org/InformationChaos> <http://schema.org/name> "Information chaos around the Israel-Hamas war"  <Facebook-euronews-7> .
+ <http://example.org/ArlynMcAdorey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Facebook-euronews-7> .
+ <http://example.org/Russia> <http://schema.org/name> "Russia"  <Facebook-euronews-7> .
+ <http://example.org/UnitedKingdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <Facebook-euronews-7> .
+ <http://example.org/AlAhliHospital> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Hospital> <Facebook-euronews-7> .
+ <http://example.org/InformationChaos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Facebook-euronews-7> .
+ <http://example.org/JuliaSmirnova> <http://schema.org/worksFor> <http://example.org/ISD> <Facebook-euronews-7> .
+ <http://example.org/Iran> <http://schema.org/relatedTo> <http://example.org/InformationChaos> <Facebook-euronews-7> .
+ <http://example.org/Report> <http://schema.org/mentions> <http://example.org/Hamas> <Facebook-euronews-7> .
+ <http://example.org/Ukraine> <http://schema.org/name> "Ukraine"  <Facebook-euronews-7> .
+ <http://example.org/Toronto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/City> <Facebook-euronews-7> .
+ <http://example.org/Study> <http://schema.org/author> <http://example.org/ISD> <Facebook-euronews-7> .
+ <http://example.org/MarchInToronto> <http://schema.org/eventDate> "2023-10-09"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-euronews-7> .
+ <http://example.org/ISD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-euronews-7> .
+ <http://example.org/US> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <Facebook-euronews-7> .
+ <http://example.org/Ukraine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <Facebook-euronews-7> .
+ <http://example.org/CCP> <http://schema.org/name> "Chinese Communist Party"  <Facebook-euronews-7> .
+ <http://example.org/Hamas> <http://schema.org/name> "Hamas"  <Facebook-euronews-7> .
+ <http://example.org/X> <http://schema.org/name> "X (formerly Twitter)"  <Facebook-euronews-7> .
+ <http://example.org/MarchInToronto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Facebook-euronews-7> .
+ <http://example.org/China> <http://schema.org/relatedTo> <http://example.org/InformationChaos> <Facebook-euronews-7> .
+ <http://example.org/TheCanadianPress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-euronews-7> .
+ <http://example.org/Report> <http://schema.org/mentions> <http://example.org/PalestinianIslamicJihad> <Facebook-euronews-7> .
+ <http://example.org/Report> <http://schema.org/mentions> <http://example.org/SocialMediaPlatforms> <Facebook-euronews-7> .
+ <http://example.org/UnitedKingdom> <http://schema.org/name> "United Kingdom"  <Facebook-euronews-7> .
+ <http://example.org/ArlynMcAdorey> <http://xmlns.com/foaf/0.1/name> "Arlyn McAdorey"  <Facebook-euronews-7> .
+ <http://example.org/Report> <http://schema.org/mentions> <http://example.org/Ukraine> <Facebook-euronews-7> .
+ <http://example.org/CCP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-euronews-7> .
+ <http://example.org/Iran> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <Facebook-euronews-7> .
+ <http://example.org/Study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Facebook-euronews-7> .
+ <http://example.org/Report> <http://schema.org/mentions> <http://example.org/Facebook> <Facebook-euronews-7> .
+ <http://example.org/Study> <http://schema.org/mentions> <http://example.org/Russia> <Facebook-euronews-7> .
+ <http://example.org/Facebook> <http://schema.org/name> "Facebook"  <Facebook-euronews-7> .
+ <http://example.org/SocialMediaPlatforms> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-euronews-7> .
+ <http://example.org/Report> <http://schema.org/mentions> <http://example.org/AlAhliHospital> <Facebook-euronews-7> .
+ <http://example.org/Russia> <http://schema.org/relatedTo> <http://example.org/InformationChaos> <Facebook-euronews-7> .
+ <http://example.org/PalestinianIslamicJihad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-euronews-7> .
+ <http://example.org/Report> <http://schema.org/mentions> <http://example.org/CCP> <Facebook-euronews-7> .
+ <http://example.org/Report> <http://schema.org/mentions> <http://example.org/US> <Facebook-euronews-7> .
+ <http://example.org/Report> <http://schema.org/mentions> <http://example.org/Israel> <Facebook-euronews-7> .
+ <http://example.org/PalestinianFlag> <http://schema.org/name> "Palestinian flag"  <Facebook-euronews-7> .
+ <http://example.org/Israel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <Facebook-euronews-7> .
+ <http://example.org/JuliaSmirnova> <http://schema.org/jobTitle> "Senior Analyst"  <Facebook-euronews-7> .
+ <http://example.org/Report> <http://schema.org/about> <http://example.org/InformationChaos> <Facebook-euronews-7> .
+ <http://example.org/Israel> <http://schema.org/name> "Israel"  <Facebook-euronews-7> .
+ <http://example.org/MarchInToronto> <http://schema.org/about> <http://example.org/PalestinianFlag> <Facebook-euronews-7> .
+ <http://example.org/Study> <http://schema.org/mentions> <http://example.org/X> <Facebook-euronews-7> .
+ <http://example.org/Iran> <http://schema.org/name> "Iran"  <Facebook-euronews-7> .
+ <http://example.org/Report> <http://purl.org/dc/elements/1.1/title> "Report on Information Chaos around Israel-Hamas War"  <Facebook-euronews-7> .
+ <http://example.org/Facebook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebSite> <Facebook-euronews-7> .
+ <http://example.org/US> <http://schema.org/name> "United States"  <Facebook-euronews-7> .
+ <http://example.org/AlAhliHospital> <http://schema.org/name> "Al-Ahli Hospital"  <Facebook-euronews-7> .
+ <http://example.org/ArlynMcAdorey> <http://schema.org/affiliation> <http://example.org/TheCanadianPress> <Facebook-euronews-7> .
+ <http://example.org/Report> <http://schema.org/datePublished> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-euronews-7> .
+ <http://example.org/GazaCity> <http://schema.org/name> "Gaza City"  <Facebook-euronews-7> .
+ <http://example.org/TheCanadianPress> <http://schema.org/name> "The Canadian Press"  <Facebook-euronews-7> .
+ <http://example.org/Study> <http://schema.org/mentions> <http://example.org/Iran> <Facebook-euronews-7> .
+ <http://example.org/Hamas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Facebook-euronews-7> .
+ <http://example.org/SocialMediaPlatforms> <http://schema.org/name> "Social Media Platforms"  <Facebook-euronews-7> .
+ <http://example.org/China> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <Facebook-euronews-7> .
+ <http://example.org/PalestinianIslamicJihad> <http://schema.org/name> "Palestinian Islamic Jihad"  <Facebook-euronews-7> .
+ <http://example.org/Report> <http://schema.org/mentions> <http://example.org/X> <Facebook-euronews-7> .
+ <http://example.org/MarchInToronto> <http://schema.org/location> <http://example.org/Toronto> <Facebook-euronews-7> .
+ <http://example.org/Report> <http://schema.org/author> <http://example.org/ISD> <Facebook-euronews-7> .
+ <http://example.org/ISD> <http://schema.org/location> <http://example.org/UnitedKingdom> <Facebook-euronews-7> .
+ <http://example.org/X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebSite> <Facebook-euronews-7> .
+ <http://example.org/PalestinianFlag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Facebook-euronews-7> .
+ <http://example.org/China> <http://schema.org/name> "China"  <Facebook-euronews-7> .
+ <http://example.org/Report> <http://schema.org/mentions> <http://example.org/Iran> <Facebook-euronews-7> .
+ <http://example.org/Study> <http://purl.org/dc/elements/1.1/title> "Study by ISD on Misinformation and Extremism Online"  <Facebook-euronews-7> .
+ <http://example.org/GazaCity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/City> <Facebook-euronews-7> .
+ <http://example.org/Angel> <http://www.w3.org/2000/01/rdf-schema#label> "Angel"  <Facebook-euronews-8> .
+ <http://example.org/AngeloBruschini> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalArtist> <Facebook-euronews-8> .
+ <http://example.org/Guitar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalInstrument> <Facebook-euronews-8> .
+ <http://example.org/Bristol> <http://www.w3.org/2000/01/rdf-schema#label> "Bristol"  <Facebook-euronews-8> .
+ <http://example.org/AngeloBruschini> <http://dbpedia.org/ontology/associatedMusicalArtist> <http://example.org/Strangelove> <Facebook-euronews-8> .
+ <http://example.org/Angel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Single> <Facebook-euronews-8> .
+ <http://example.org/TheBlueAeroplanes> <http://www.w3.org/2000/01/rdf-schema#label> "The Blue Aeroplanes"  <Facebook-euronews-8> .
+ <http://example.org/Angel> <http://dbpedia.org/ontology/contributor> <http://example.org/AngeloBruschini> <Facebook-euronews-8> .
+ <http://example.org/AngeloBruschini> <http://dbpedia.org/ontology/deathDate> "2023-10-23T00:15:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <Facebook-euronews-8> .
+ <http://example.org/AngeloBruschini> <http://dbpedia.org/ontology/associatedMusicalArtist> <http://example.org/TheBlueAeroplanes> <Facebook-euronews-8> .
+ <http://example.org/AngeloBruschini> <http://www.w3.org/2000/01/rdf-schema#label> "Angelo Bruschini"  <Facebook-euronews-8> .
+ <http://example.org/TheBlueAeroplanes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalGroup> <Facebook-euronews-8> .
+ <http://example.org/Bristol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <Facebook-euronews-8> .
+ <http://example.org/MassiveAttack> <http://xmlns.com/foaf/0.1/member> <http://example.org/AngeloBruschini> <Facebook-euronews-8> .
+ <http://example.org/AngeloBruschini> <http://dbpedia.org/ontology/instrument> <http://example.org/Guitar> <Facebook-euronews-8> .
+ <http://example.org/TheBlueAeroplanes> <http://xmlns.com/foaf/0.1/member> <http://example.org/AngeloBruschini> <Facebook-euronews-8> .
+ <http://example.org/MassiveAttack> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalGroup> <Facebook-euronews-8> .
+ <http://example.org/TripHop> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Genre> <Facebook-euronews-8> .
+ <http://example.org/MassiveAttack> <http://dbpedia.org/ontology/formationYear> "1988"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-euronews-8> .
+ <http://example.org/AngeloBruschini> <http://dbpedia.org/ontology/birthPlace> <http://example.org/Bristol> <Facebook-euronews-8> .
+ <http://example.org/MassiveAttack> <http://www.w3.org/2000/01/rdf-schema#label> "Massive Attack"  <Facebook-euronews-8> .
+ <http://example.org/Angel> <http://dbpedia.org/ontology/artist> <http://example.org/MassiveAttack> <Facebook-euronews-8> .
+ <http://example.org/Guitar> <http://www.w3.org/2000/01/rdf-schema#label> "Guitar"  <Facebook-euronews-8> .
+ <http://example.org/Strangelove> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalGroup> <Facebook-euronews-8> .
+ <http://example.org/AngeloBruschini> <http://dbpedia.org/ontology/associatedMusicalArtist> <http://example.org/MassiveAttack> <Facebook-euronews-8> .
+ <http://example.org/Strangelove> <http://www.w3.org/2000/01/rdf-schema#label> "Strangelove"  <Facebook-euronews-8> .
+ <http://example.org/MassiveAttack> <http://dbpedia.org/ontology/genre> <http://example.org/TripHop> <Facebook-euronews-8> .
+ <http://example.org/AngeloBruschini> <http://dbpedia.org/ontology/causeOfDeath> <http://example.org/LungCancer> <Facebook-euronews-8> .
+ <http://example.org/Strangelove> <http://xmlns.com/foaf/0.1/member> <http://example.org/AngeloBruschini> <Facebook-euronews-8> .
+ <http://example.org/TripHop> <http://www.w3.org/2000/01/rdf-schema#label> "Trip hop"  <Facebook-euronews-8> .
+ <http://example.org/LungCancer> <http://www.w3.org/2000/01/rdf-schema#label> "Lung cancer"  <Facebook-euronews-8> .
+ <http://example.org/Angel> <http://dbpedia.org/ontology/releaseDate> "1998"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Facebook-euronews-8> .
+ <http://example.org/LungCancer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Disease> <Facebook-euronews-8> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://example.org/ontology#Likes> <Facebook-euronews-9> .
+ <http://example.org/ontology/bumble#App> <http://example.org/ontology#features> <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b15>  <Facebook-euronews-9> .
+ <http://example.org/ontology/meetic#App> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#DatingApp> <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> <Facebook-euronews-9> .
+ <http://example.org/ontology/hinge#App> <http://example.org/ontology#matchingCriteria> <http://example.org/ontology#FacebookFriends> <Facebook-euronews-9> .
+ <http://example.org/ontology/techcrunch#Report> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Report> <Facebook-euronews-9> .
+ <http://example.org/ontology/happn#App> <http://example.org/ontology#name> "Happn"  <Facebook-euronews-9> .
+ <http://example.org/ontology/tinder#App> <http://example.org/ontology#launchDate> "2012-09-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-euronews-9> .
+ <http://example.org/ontology/badoo#App> <http://example.org/ontology#launchDate> "2006-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b20>  <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://example.org/ontology#Scores> <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b7>  <Facebook-euronews-9> .
+ <http://example.org/ontology/bumble#App> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#DatingApp> <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://example.org/ontology#StillFiguringOut> <Facebook-euronews-9> .
+ <http://example.org/ontology/apptweak#Website> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Website> <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> <Facebook-euronews-9> .
+ <http://example.org/ontology#MelissaHobley> <http://example.org/ontology#affiliation> <http://example.org/ontology/tinder#App> <Facebook-euronews-9> .
+ <http://example.org/ontology/bumble#App> <http://example.org/ontology#partOf> <http://example.org/ontology/badoo#Empire> <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b14>  <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://example.org/ontology#SendASong> <Facebook-euronews-9> .
+ <http://example.org/ontology/tinder#User> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#User> <Facebook-euronews-9> .
+ <http://example.org/ontology/tinder#MatchmakerFeature> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Feature> <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://example.org/ontology#Monogamy> <Facebook-euronews-9> .
+ <http://example.org/ontology/lovoo#App> <http://example.org/ontology#focus> <http://example.org/ontology#MatchingBasedOnPersonalityAndLocation> <Facebook-euronews-9> .
+ <http://example.org/ontology#MelissaHobley> <http://example.org/ontology#title> "Chief Marketing Officer"  <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://example.org/ontology#FriendFindingApps> <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b19>  <Facebook-euronews-9> .
+ <http://example.org/ontology#PopularDatingAppsEurope> <http://example.org/ontology#timeframe> "2021-08-08"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://example.org/ontology#WomenFirstContact> <Facebook-euronews-9> .
+ <http://example.org/ontology/lovoo#App> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#DatingApp> <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b5>  <Facebook-euronews-9> .
+ <http://example.org/ontology/tinder#MatchmakerFeature> <http://example.org/ontology#limitation> "Matchmakers can't reject anyone, only make recommendations"  <Facebook-euronews-9> .
+ <http://example.org/ontology/techcrunch#Report> <http://example.org/ontology#mentions> <http://example.org/ontology#SwipingBasedDatingAppFatigue> <Facebook-euronews-9> .
+ <http://example.org/ontology#PopularDatingAppsEurope> <http://example.org/ontology#source> <http://example.org/ontology/apptweak#Website> <Facebook-euronews-9> .
+ <http://example.org/ontology/meetic#App> <http://example.org/ontology#focus> <http://example.org/ontology#LongTermRelationships> <Facebook-euronews-9> .
+ <http://example.org/ontology/tinder#MatchmakerFeature> <http://example.org/ontology#purpose> "To make dating a team sport"  <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b2>  <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://example.org/ontology#ShortTerm> <Facebook-euronews-9> .
+ <http://example.org/ontology/apptweak#Website> <http://example.org/ontology#name> "apptweak.com"  <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://example.org/ontology#Happn> <Facebook-euronews-9> .
+ <http://example.org/ontology/tinder#App> <http://example.org/ontology#options> <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b1>  <Facebook-euronews-9> .
+ <http://example.org/ontology/tinder#MatchmakerFeature> <http://example.org/ontology#description> "Allows users to grant others access to their accounts for 24 hours to suggest likes"  <Facebook-euronews-9> .
+ <http://example.org/ontology/meetic#App> <http://example.org/ontology#type> <http://example.org/ontology#PaidApp> <Facebook-euronews-9> .
+ <http://example.org/ontology/badoo#App> <http://example.org/ontology#location> "Moscow"  <Facebook-euronews-9> .
+ <http://example.org/ontology/hinge#App> <http://example.org/ontology#focus> <http://example.org/ontology#Relationships> <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b9>  <Facebook-euronews-9> .
+ <http://example.org/ontology/meetic#App> <http://example.org/ontology#growth> "Fastest-growing in January 2022"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> <Facebook-euronews-9> .
+ <http://example.org/ontology/badoo#App> <http://example.org/ontology#audience> <http://example.org/ontology#YoungerAudience> <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://example.org/ontology#Badoo> <Facebook-euronews-9> .
+ <http://example.org/ontology/badoo#App> <http://example.org/ontology#name> "Badoo"  <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b12>  <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://example.org/ontology#Tinder> <Facebook-euronews-9> .
+ <http://example.org/ontology/tinder#App> <http://example.org/ontology#name> "Tinder"  <Facebook-euronews-9> .
+ <http://example.org/ontology/bumble#App> <http://example.org/ontology#name> "Bumble"  <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://example.org/ontology#Hinge> <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://example.org/ontology#FriendshipSeeking> <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://example.org/ontology#OpenRelationships> <Facebook-euronews-9> .
+ <http://example.org/ontology#PopularDatingAppsEurope> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Report> <Facebook-euronews-9> .
+ <http://example.org/ontology#MelissaHobley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Person> <Facebook-euronews-9> .
+ <http://example.org/ontology/hinge#App> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#DatingApp> <Facebook-euronews-9> .
+ <http://example.org/ontology/techcrunch#Report> <http://example.org/ontology#alternativePlatforms> <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b6>  <Facebook-euronews-9> .
+ <http://example.org/ontology#PopularDatingAppsEurope> <http://example.org/ontology#mentions> <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b8>  <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b4>  <Facebook-euronews-9> .
+ <http://example.org/ontology/badoo#App> <http://example.org/ontology#features> <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b17>  <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://example.org/ontology#TraditionalSocialMedia> <Facebook-euronews-9> .
+ <http://example.org/ontology/tinder#App> <http://example.org/ontology#changedLandscape> <http://example.org/ontology#OnlineDating> <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b11>  <Facebook-euronews-9> .
+ <http://example.org/ontology/tinder#App> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#DatingApp> <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b10>  <Facebook-euronews-9> .
+ <http://example.org/ontology/bumble#App> <http://example.org/ontology#launchDate> "2014-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://example.org/ontology#ProfileVisits> <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b13>  <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b21>  <Facebook-euronews-9> .
+ <http://example.org/ontology/tinder#App> <http://example.org/ontology#taboosEvaporated> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b16>  <Facebook-euronews-9> .
+ <http://example.org/ontology/techcrunch#Report> <http://example.org/ontology#audience> <http://example.org/ontology#GenZ> <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://example.org/ontology#LongTerm> <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> <Facebook-euronews-9> .
+ <http://example.org/ontology/happn#App> <http://example.org/ontology#matchingCriteria> <http://example.org/ontology#CrossedPaths> <Facebook-euronews-9> .
+ <http://example.org/ontology#MelissaHobley> <http://example.org/ontology#noted> <http://example.org/ontology/tinder#MatchmakerFeature> <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://example.org/ontology#Meetic> <Facebook-euronews-9> .
+ <http://example.org/ontology/tinder#MatchmakerFeature> <http://example.org/ontology#name> "Matchmaker"  <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://example.org/ontology#VideoChat> <Facebook-euronews-9> .
+ <http://example.org/ontology/lovoo#App> <http://example.org/ontology#name> "Lovoo"  <Facebook-euronews-9> .
+ <http://example.org/ontology/tinder#User> <http://example.org/ontology#canReview> <http://example.org/ontology#Profiles> <Facebook-euronews-9> .
+ <http://example.org/ontology/tinder#User> <http://example.org/ontology#canUse> <http://example.org/ontology/tinder#MatchmakerFeature> <Facebook-euronews-9> .
+ <http://example.org/ontology/happn#App> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#DatingApp> <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://example.org/ontology#Bumble> <Facebook-euronews-9> .
+ <http://example.org/ontology/badoo#App> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#DatingApp> <Facebook-euronews-9> .
+ <http://example.org/ontology/tinder#MatchmakerFeature> <http://example.org/ontology#duration> "24 hours"  <Facebook-euronews-9> .
+ <http://example.org/ontology/badoo#App> <http://example.org/ontology#partOf> <http://example.org/ontology/bumble#Empire> <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#first> <http://example.org/ontology#Lovoo> <Facebook-euronews-9> .
+ <http://example.org/ontology/tinder#User> <http://example.org/ontology#decisionTimeframe> "After 24 hours"  <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b3>  <Facebook-euronews-9> .
+ <http://example.org/ontology/meetic#App> <http://example.org/ontology#name> "Meetic"  <Facebook-euronews-9> .
+ <http://example.org/ontology/hinge#App> <http://example.org/ontology#name> "Hinge"  <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b18>  <Facebook-euronews-9> .
+ <http://Facebook-euronews-9.com/blank#nc5a76e6cc6b149a5b00f84388c629f57b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#rest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#nil> <Facebook-euronews-9> .

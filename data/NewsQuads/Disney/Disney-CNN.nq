@@ -1,0 +1,637 @@
+ <http://example.org/resource#audioOnAdWasTooLoud> <http://www.w3.org/2000/01/rdf-schema#label> "Audio on ad was too loud"  <Disney-CNN-0> .
+ <http://example.org/resource#adFrozeOrDidNotFinishLoading> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/vocab#FeedbackOption> <Disney-CNN-0> .
+ <http://example.org/resource#adFrozeOrDidNotFinishLoading> <http://www.w3.org/2000/01/rdf-schema#label> "Ad froze or did not finish loading"  <Disney-CNN-0> .
+ <http://example.org/resource#audioOnAdWasTooLoud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/vocab#FeedbackOption> <Disney-CNN-0> .
+ <http://example.org/vocab#FeedbackOption> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> <Disney-CNN-0> .
+ <http://example.org/resource#videoContentNeverLoaded> <http://www.w3.org/2000/01/rdf-schema#label> "Video content never loaded"  <Disney-CNN-0> .
+ <http://example.org/resource#videoPlayerSlowToLoad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/vocab#FeedbackOption> <Disney-CNN-0> .
+ <http://example.org/resource#otherIssues> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/vocab#FeedbackOption> <Disney-CNN-0> .
+ <http://example.org/resource#videoPlayerSlowToLoad> <http://www.w3.org/2000/01/rdf-schema#label> "Video player was slow to load content"  <Disney-CNN-0> .
+ <http://example.org/resource#otherIssues> <http://www.w3.org/2000/01/rdf-schema#label> "Other issues"  <Disney-CNN-0> .
+ <http://example.org/resource#videoContentDidNotStartAfterAd> <http://www.w3.org/2000/01/rdf-schema#label> "Video content did not start after ad"  <Disney-CNN-0> .
+ <http://example.org/resource#videoContentNeverLoaded> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/vocab#FeedbackOption> <Disney-CNN-0> .
+ <http://example.org/resource#videoContentDidNotStartAfterAd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/vocab#FeedbackOption> <Disney-CNN-0> .
+ <http://Disney-CNN-1.com/blank#n8927ba1bdfe142fbb2af9e53d76cc770b2> <http://dbpedia.org/ontology/speed> "124 mph"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-CNN-1> .
+ <http://example.org/entities/MaxManow> <http://dbpedia.org/ontology/profession> <http://example.org/entities/ProfessionalSkydiver> <Disney-CNN-1> .
+ <http://example.org/entities/MaxManow> <http://dbpedia.org/ontology/birthPlace> <http://Disney-CNN-1.com/blank#n8927ba1bdfe142fbb2af9e53d76cc770b1>  <Disney-CNN-1> .
+ <http://Disney-CNN-1.com/blank#n8927ba1bdfe142fbb2af9e53d76cc770b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <Disney-CNN-1> .
+ <http://Disney-CNN-1.com/blank#n8927ba1bdfe142fbb2af9e53d76cc770b2> <http://dbpedia.org/ontology/location> <http://example.org/entities/NeuschwansteinCastle> <Disney-CNN-1> .
+ <http://example.org/entities/JoergMitter> <http://xmlns.com/foaf/0.1/depiction> <http://Disney-CNN-1.com/blank#n8927ba1bdfe142fbb2af9e53d76cc770b3>  <Disney-CNN-1> .
+ <http://Disney-CNN-1.com/blank#n8927ba1bdfe142fbb2af9e53d76cc770b2> <http://www.w3.org/2000/01/rdf-schema#label> "First person to detach from a paraglider mid-air and fly past Neuschwanstein Castle wearing just a wingsuit."@en  <Disney-CNN-1> .
+ <http://example.org/entities/MaxManow> <http://dbpedia.org/ontology/age> "34"^^<http://www.w3.org/2001/XMLSchema#integer>  <Disney-CNN-1> .
+ <http://example.org/entities/NeuschwansteinCastle> <http://www.w3.org/2000/01/rdf-schema#label> "Neuschwanstein Castle"@en  <Disney-CNN-1> .
+ <http://example.org/entities/MaxManow> <http://xmlns.com/foaf/0.1/name> "Max Manow"  <Disney-CNN-1> .
+ <http://Disney-CNN-1.com/blank#n8927ba1bdfe142fbb2af9e53d76cc770b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Broadcast> <Disney-CNN-1> .
+ <http://example.org/entities/WingsuitFlight> <http://www.w3.org/2000/01/rdf-schema#label> "Wingsuit flight"@en  <Disney-CNN-1> .
+ <http://example.org/entities/NeuschwansteinCastle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Castle> <Disney-CNN-1> .
+ <http://Disney-CNN-1.com/blank#n8927ba1bdfe142fbb2af9e53d76cc770b4> <http://dbpedia.org/ontology/date> "September"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Disney-CNN-1> .
+ <http://example.org/entities/NeuschwansteinCastle> <http://dbpedia.org/ontology/location> <http://example.org/entities/Bavaria> <Disney-CNN-1> .
+ <http://Disney-CNN-1.com/blank#n8927ba1bdfe142fbb2af9e53d76cc770b2> <http://dbpedia.org/ontology/activity> <http://example.org/entities/WingsuitFlight> <Disney-CNN-1> .
+ <http://Disney-CNN-1.com/blank#n8927ba1bdfe142fbb2af9e53d76cc770b1> <http://dbpedia.org/ontology/isPartOf> <http://example.org/entities/Bavaria> <Disney-CNN-1> .
+ <http://example.org/entities/Bavaria> <http://www.w3.org/2000/01/rdf-schema#label> "Bavaria"@en  <Disney-CNN-1> .
+ <http://Disney-CNN-1.com/blank#n8927ba1bdfe142fbb2af9e53d76cc770b3> <http://xmlns.com/foaf/0.1/maker> <http://example.org/entities/JoergMitter> <Disney-CNN-1> .
+ <http://example.org/entities/Bavaria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <Disney-CNN-1> .
+ <http://Disney-CNN-1.com/blank#n8927ba1bdfe142fbb2af9e53d76cc770b4> <http://dbpedia.org/ontology/subject> <http://example.org/entities/MaxManow> <Disney-CNN-1> .
+ <http://example.org/entities/MaxManow> <http://dbpedia.org/ontology/achievement> <http://Disney-CNN-1.com/blank#n8927ba1bdfe142fbb2af9e53d76cc770b2>  <Disney-CNN-1> .
+ <http://Disney-CNN-1.com/blank#n8927ba1bdfe142fbb2af9e53d76cc770b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Image> <Disney-CNN-1> .
+ <http://example.org/entities/ProfessionalSkydiver> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <Disney-CNN-1> .
+ <http://example.org/entities/NeuschwansteinCastle> <http://dbpedia.org/ontology/touristAttraction> "1.4 million people per year"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-CNN-1> .
+ <http://example.org/entities/MaxManow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-CNN-1> .
+ <http://Disney-CNN-1.com/blank#n8927ba1bdfe142fbb2af9e53d76cc770b3> <http://www.w3.org/2000/01/rdf-schema#label> "Photograph of Max Manow's wingsuit flight past Neuschwanstein Castle"@en  <Disney-CNN-1> .
+ <http://example.org/entities/JoergMitter> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Photographer> <Disney-CNN-1> .
+ <http://example.org/entities/ProfessionalSkydiver> <http://www.w3.org/2000/01/rdf-schema#label> "Professional skydiver"@en  <Disney-CNN-1> .
+ <http://example.org/entities/CNN> <http://www.w3.org/2000/01/rdf-schema#label> "CNN"@en  <Disney-CNN-1> .
+ <http://example.org/entities/CNN> <http://dbpedia.org/ontology/broadcast> <http://Disney-CNN-1.com/blank#n8927ba1bdfe142fbb2af9e53d76cc770b4>  <Disney-CNN-1> .
+ <http://example.org/entities/CNN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Broadcaster> <Disney-CNN-1> .
+ <http://example.org/entities/MaxManow> <http://dbpedia.org/ontology/childhoodMemory> <http://example.org/entities/NeuschwansteinCastle> <Disney-CNN-1> .
+ <http://Disney-CNN-1.com/blank#n8927ba1bdfe142fbb2af9e53d76cc770b2> <http://dbpedia.org/ontology/distance> "328-foot free fall"^^<http://www.w3.org/2001/XMLSchema#string>  <Disney-CNN-1> .
+ <http://Disney-CNN-1.com/blank#n8927ba1bdfe142fbb2af9e53d76cc770b4> <http://www.w3.org/2000/01/rdf-schema#label> "CNN Sport interview with Max Manow"@en  <Disney-CNN-1> .
+ <http://example.org/entities/WingsuitFlight> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Activity> <Disney-CNN-1> .
+ <http://example.org/entities/JoergMitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-CNN-1> .
+ <http://Disney-CNN-1.com/blank#n8927ba1bdfe142fbb2af9e53d76cc770b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Disney-CNN-1> .
+ <http://example.org/entities/JoergMitter> <http://xmlns.com/foaf/0.1/name> "Joerg Mitter"  <Disney-CNN-1> .
+ <http://example.org/popmart/PopLand> <http://schema.org/comboTicketPrice> "31"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-CNN-2> .
+ <http://example.org/popmart/PopMartPartnershipWithDisney> <http://dbpedia.org/ontology/partner> <http://dbpedia.org/resource/Disney> <Disney-CNN-2> .
+ <http://example.org/popmart/PopMart> <http://dbpedia.org/ontology/numberOfLocationsOutsideMainlandChina> "55"^^<http://www.w3.org/2001/XMLSchema#integer>  <Disney-CNN-2> .
+ <http://example.org/popmart/Molly> <http://www.w3.org/2000/01/rdf-schema#comment> "Molly is one of the flagship characters of Pop Mart."  <Disney-CNN-2> .
+ <http://example.org/popmart/Pucky> <http://www.w3.org/2000/01/rdf-schema#comment> "Pucky is featured in the recently opened theme park Pop Land in Beijing."  <Disney-CNN-2> .
+ <http://example.org/popmart/PopMart> <http://dbpedia.org/ontology/marketCapitalization> "3800000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-CNN-2> .
+ <http://example.org/popmart/AnimeStyleFigurines> <http://dbpedia.org/ontology/manufacturer> <http://example.org/popmart/PopMart> <Disney-CNN-2> .
+ <http://example.org/popmart/Skullpanda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/popmart/Character> <Disney-CNN-2> .
+ <http://example.org/popmart/PopLand> <http://schema.org/ticketPriceWeekdays> "20"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-CNN-2> .
+ <http://example.org/popmart/PopMart> <http://dbpedia.org/ontology/subsidiary> <http://example.org/popmart/PopLand> <Disney-CNN-2> .
+ <http://example.org/popmart/PopMart> <http://dbpedia.org/ontology/product> <http://example.org/popmart/AnimeStyleFigurines> <Disney-CNN-2> .
+ <http://example.org/popmart/PopLand> <http://schema.org/ticketPricePeak> "25"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-CNN-2> .
+ <http://example.org/popmart/AnimeStyleFigurines> <http://www.w3.org/2000/01/rdf-schema#label> "Anime-style figurines"  <Disney-CNN-2> .
+ <http://example.org/popmart/Dimoo> <http://xmlns.com/foaf/0.1/name> "Dimoo"  <Disney-CNN-2> .
+ <http://example.org/popmart/Molly> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://example.org/popmart/PopMart> <Disney-CNN-2> .
+ <http://example.org/popmart/EstablishmentOfAmusementParks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> <Disney-CNN-2> .
+ <http://example.org/popmart/ShenzhenOverseasChineseTownEnterprises> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Amusement_park> <Disney-CNN-2> .
+ <http://example.org/popmart/Pucky> <http://xmlns.com/foaf/0.1/name> "Pucky"  <Disney-CNN-2> .
+ <http://example.org/popmart/PopMartPartnershipWithSanrio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Partnership> <Disney-CNN-2> .
+ <http://example.org/popmart/AnimeStyleFigurines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Disney-CNN-2> .
+ <http://example.org/popmart/PopLand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AmusementPark> <Disney-CNN-2> .
+ <http://example.org/popmart/PopMart> <http://www.w3.org/2000/01/rdf-schema#comment> "Pop Mart is known for its palm-sized figurines with big, round eyes and bulky heads."  <Disney-CNN-2> .
+ <http://example.org/popmart/HappyValleyThemeParks> <http://dbpedia.org/ontology/owner> <http://example.org/popmart/ShenzhenOverseasChineseTownEnterprises> <Disney-CNN-2> .
+ <http://example.org/popmart/TheMonsters> <http://xmlns.com/foaf/0.1/name> "The Monsters"  <Disney-CNN-2> .
+ <http://example.org/popmart/PopMart> <http://dbpedia.org/ontology/numberOfLocations> "340"^^<http://www.w3.org/2001/XMLSchema#integer>  <Disney-CNN-2> .
+ <http://example.org/popmart/EstablishmentOfAmusementParks> <http://www.w3.org/2000/01/rdf-schema#label> "Establishment of amusement parks"  <Disney-CNN-2> .
+ <http://example.org/popmart/PopMartPartnershipWithWarnerBros> <http://dbpedia.org/ontology/partner> <http://dbpedia.org/resource/Warner_Bros> <Disney-CNN-2> .
+ <http://example.org/popmart/PopLand> <http://www.w3.org/2000/01/rdf-schema#comment> "The park offers a chance for fans to take pictures with the toy maker’s flagship characters – Molly, Dimoo and The Monsters – in different settings."  <Disney-CNN-2> .
+ <http://example.org/popmart/PopLand> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Chaoyang_Park> <Disney-CNN-2> .
+ <http://example.org/popmart/PopMart> <http://xmlns.com/foaf/0.1/name> "Pop Mart"  <Disney-CNN-2> .
+ <http://example.org/popmart/PopMart> <http://dbpedia.org/ontology/revenueIncreasePercentage> "19.3"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-CNN-2> .
+ <http://example.org/popmart/ShenzhenOverseasChineseTownEnterprises> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-CNN-2> .
+ <http://example.org/popmart/PopLand> <http://dbpedia.org/ontology/owner> <http://example.org/popmart/PopMart> <Disney-CNN-2> .
+ <http://example.org/popmart/PopMartPartnershipWithDisney> <http://dbpedia.org/ontology/partner> <http://example.org/popmart/PopMart> <Disney-CNN-2> .
+ <http://example.org/popmart/HappyValleyThemeParks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AmusementPark> <Disney-CNN-2> .
+ <http://example.org/popmart/PopMart> <http://dbpedia.org/ontology/strategy> <http://example.org/popmart/EstablishmentOfAmusementParks> <Disney-CNN-2> .
+ <http://example.org/popmart/PopMartPartnershipWithWarnerBros> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Partnership> <Disney-CNN-2> .
+ <http://example.org/popmart/PopMart> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Beijing> <Disney-CNN-2> .
+ <http://example.org/popmart/PopMartPartnershipWithSanrio> <http://dbpedia.org/ontology/partner> <http://dbpedia.org/resource/Sanrio> <Disney-CNN-2> .
+ <http://example.org/popmart/Molly> <http://xmlns.com/foaf/0.1/name> "Molly"  <Disney-CNN-2> .
+ <http://example.org/popmart/PopLand> <http://dbpedia.org/ontology/areaTotal> "40000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-CNN-2> .
+ <http://example.org/popmart/ChimelongGroup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-CNN-2> .
+ <http://example.org/popmart/EstablishmentOfAmusementParks> <http://www.w3.org/2000/01/rdf-schema#comment> "Facilitating the establishment of amusement parks is among Pop Mart's latest strategies."  <Disney-CNN-2> .
+ <http://example.org/popmart/TheMonsters> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/popmart/Character> <Disney-CNN-2> .
+ <http://example.org/popmart/PopMart> <http://dbpedia.org/ontology/listingYear> "2020"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Disney-CNN-2> .
+ <http://example.org/popmart/PopMartPartnershipWithDisney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Partnership> <Disney-CNN-2> .
+ <http://example.org/popmart/PopMart> <http://dbpedia.org/ontology/stockExchange> <http://dbpedia.org/resource/Hong_Kong_Stock_Exchange> <Disney-CNN-2> .
+ <http://example.org/popmart/Pucky> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://example.org/popmart/PopMart> <Disney-CNN-2> .
+ <http://example.org/popmart/ChimelongGroup> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Guangdong> <Disney-CNN-2> .
+ <http://example.org/popmart/PopMartPartnershipWithWarnerBros> <http://dbpedia.org/ontology/partner> <http://example.org/popmart/PopMart> <Disney-CNN-2> .
+ <http://example.org/popmart/Dimoo> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://example.org/popmart/PopMart> <Disney-CNN-2> .
+ <http://example.org/popmart/PopMart> <http://dbpedia.org/ontology/revenueYear> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Disney-CNN-2> .
+ <http://example.org/popmart/PopMart> <http://dbpedia.org/ontology/foundedYear> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Disney-CNN-2> .
+ <http://example.org/popmart/PopLand> <http://dbpedia.org/ontology/openingDate> "2023-09-26"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-CNN-2> .
+ <http://example.org/popmart/Pucky> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/popmart/Character> <Disney-CNN-2> .
+ <http://example.org/popmart/PopMart> <http://dbpedia.org/ontology/revenue> "385000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-CNN-2> .
+ <http://example.org/popmart/PopLand> <http://dbpedia.org/ontology/theme> <http://example.org/popmart/CollectibleFigurines> <Disney-CNN-2> .
+ <http://example.org/popmart/AnimeStyleFigurines> <http://www.w3.org/2000/01/rdf-schema#comment> "These characters come in a range of themed costumes, forming different series."  <Disney-CNN-2> .
+ <http://example.org/popmart/Molly> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/popmart/Character> <Disney-CNN-2> .
+ <http://example.org/popmart/Dimoo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/popmart/Character> <Disney-CNN-2> .
+ <http://example.org/popmart/ChimelongGroup> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Amusement_park> <Disney-CNN-2> .
+ <http://example.org/popmart/Skullpanda> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://example.org/popmart/PopMart> <Disney-CNN-2> .
+ <http://example.org/popmart/TheMonsters> <http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://example.org/popmart/PopMart> <Disney-CNN-2> .
+ <http://example.org/popmart/Skullpanda> <http://xmlns.com/foaf/0.1/name> "Skullpanda"  <Disney-CNN-2> .
+ <http://example.org/popmart/ShenzhenOverseasChineseTownEnterprises> <http://dbpedia.org/ontology/product> <http://example.org/popmart/HappyValleyThemeParks> <Disney-CNN-2> .
+ <http://example.org/popmart/PopMart> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Toy> <Disney-CNN-2> .
+ <http://example.org/popmart/PopMartPartnershipWithSanrio> <http://dbpedia.org/ontology/partner> <http://example.org/popmart/PopMart> <Disney-CNN-2> .
+ <http://example.org/popmart/PopMart> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-CNN-2> .
+ <http://example.org/disney#DisneyPlusDay> <http://schema.org/startDate> "2021-11-12"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-CNN-3> .
+ <http://example.org/disney#DisneySharesDrop> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Disney-CNN-3> .
+ <http://example.org/disney#MsMarvel> <http://dbpedia.org/ontology/creator> <http://dbpedia.org/resource/Marvel_Studios> <Disney-CNN-3> .
+ <http://example.org/disney#SheHulk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow> <Disney-CNN-3> .
+ <http://example.org/disney#Star> <http://xmlns.com/foaf/0.1/name> "Star"  <Disney-CNN-3> .
+ <http://example.org/disney#SheHulk> <http://dbpedia.org/ontology/network> <http://example.org/disney#DisneyPlus> <Disney-CNN-3> .
+ <http://example.org/disney#SheHulk> <http://dbpedia.org/ontology/creator> <http://dbpedia.org/resource/Marvel_Studios> <Disney-CNN-3> .
+ <http://example.org/disney#Pinocchio> <http://dbpedia.org/ontology/network> <http://example.org/disney#DisneyPlus> <Disney-CNN-3> .
+ <http://example.org/disney#MickeyMouseClubhouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow> <Disney-CNN-3> .
+ <http://example.org/disney#TheMandalorian> <http://dbpedia.org/ontology/network> <http://example.org/disney#DisneyPlus> <Disney-CNN-3> .
+ <http://example.org/disney#MsMarvel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow> <Disney-CNN-3> .
+ <http://example.org/disney#MsMarvel> <http://dbpedia.org/ontology/network> <http://example.org/disney#DisneyPlus> <Disney-CNN-3> .
+ <http://example.org/disney#ObiWanKenobi> <http://dbpedia.org/ontology/creator> <http://dbpedia.org/resource/Lucasfilm> <Disney-CNN-3> .
+ <http://example.org/disney#DisneyFilms> <http://dbpedia.org/ontology/owner> <http://example.org/disney#Disney> <Disney-CNN-3> .
+ <http://example.org/disney#TheBookOfBobaFett> <http://dbpedia.org/ontology/creator> <http://dbpedia.org/resource/Lucasfilm> <Disney-CNN-3> .
+ <http://example.org/disney#TheMandalorian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow> <Disney-CNN-3> .
+ <http://example.org/disney#Disney> <http://xmlns.com/foaf/0.1/name> "Disney"  <Disney-CNN-3> .
+ <http://example.org/disney#ShangChiAndTheLegendOfTheTenRings> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Walt_Disney_Studios_Motion_Pictures> <Disney-CNN-3> .
+ <http://example.org/disney#TheFalconAndTheWinterSoldier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow> <Disney-CNN-3> .
+ <http://example.org/disney#ObiWanKenobi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow> <Disney-CNN-3> .
+ <http://example.org/disney#TheFalconAndTheWinterSoldier> <http://dbpedia.org/ontology/network> <http://example.org/disney#DisneyPlus> <Disney-CNN-3> .
+ <http://example.org/disney#DisneyCableNetworks> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Cable_television> <Disney-CNN-3> .
+ <http://example.org/disney#TheFalconAndTheWinterSoldier> <http://dbpedia.org/ontology/creator> <http://dbpedia.org/resource/Marvel_Studios> <Disney-CNN-3> .
+ <http://example.org/disney#TheBookOfBobaFett> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow> <Disney-CNN-3> .
+ <http://example.org/disney#ObiWanKenobi> <http://dbpedia.org/ontology/network> <http://example.org/disney#DisneyPlus> <Disney-CNN-3> .
+ <http://example.org/disney#DisneyFilms> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Film> <Disney-CNN-3> .
+ <http://example.org/disney#TheBookOfBobaFett> <http://dbpedia.org/ontology/network> <http://example.org/disney#DisneyPlus> <Disney-CNN-3> .
+ <http://example.org/disney#Disney> <http://dbpedia.org/ontology/product> <http://example.org/disney#DisneyPlus> <Disney-CNN-3> .
+ <http://example.org/disney#Encanto> <http://dbpedia.org/ontology/releaseDate> "2021-12-25"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-CNN-3> .
+ <http://example.org/disney#ShangChiAndTheLegendOfTheTenRings> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Marvel_Studios> <Disney-CNN-3> .
+ <http://example.org/disney#DisneyPlus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Disney-CNN-3> .
+ <http://example.org/disney#Pinocchio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <Disney-CNN-3> .
+ <http://example.org/disney#DisneyPlusDay> <http://schema.org/eventStatus> <http://schema.org/EventScheduled> <Disney-CNN-3> .
+ <http://example.org/disney#DisneyParks> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Amusement_park> <Disney-CNN-3> .
+ <http://example.org/disney#Encanto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <Disney-CNN-3> .
+ <http://example.org/disney#Hawkeye> <http://dbpedia.org/ontology/creator> <http://dbpedia.org/resource/Marvel_Studios> <Disney-CNN-3> .
+ <http://example.org/disney#Star> <http://dbpedia.org/ontology/availableIn> <http://dbpedia.org/resource/United_States> <Disney-CNN-3> .
+ <http://example.org/disney#WandaVision> <http://dbpedia.org/ontology/network> <http://example.org/disney#DisneyPlus> <Disney-CNN-3> .
+ <http://example.org/disney#DisneyParks> <http://dbpedia.org/ontology/owner> <http://example.org/disney#Disney> <Disney-CNN-3> .
+ <http://example.org/disney#Star> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Disney-CNN-3> .
+ <http://example.org/disney#Disney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-CNN-3> .
+ <http://example.org/disney#Encanto> <http://dbpedia.org/ontology/musicComposer> <http://dbpedia.org/resource/Lin-Manuel_Miranda> <Disney-CNN-3> .
+ <http://example.org/disney#Eternals> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Walt_Disney_Studios_Motion_Pictures> <Disney-CNN-3> .
+ <http://example.org/disney#Hawkeye> <http://dbpedia.org/ontology/network> <http://example.org/disney#DisneyPlus> <Disney-CNN-3> .
+ <http://example.org/disney#Disney> <http://dbpedia.org/ontology/stockTicker> "DIS"  <Disney-CNN-3> .
+ <http://example.org/disney#DisneyCableNetworks> <http://dbpedia.org/ontology/owner> <http://example.org/disney#Disney> <Disney-CNN-3> .
+ <http://example.org/disney#MickeyMouseClubhouse> <http://dbpedia.org/ontology/network> <http://example.org/disney#DisneyPlus> <Disney-CNN-3> .
+ <http://example.org/disney#Disney> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Mass_media> <Disney-CNN-3> .
+ <http://example.org/disney#DisneyStreamingGrowth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Disney-CNN-3> .
+ <http://example.org/disney#TheMandalorian> <http://dbpedia.org/ontology/creator> <http://dbpedia.org/resource/Lucasfilm> <Disney-CNN-3> .
+ <http://example.org/disney#TheBookOfBobaFett> <http://dbpedia.org/ontology/releaseDate> "2021-12-29"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-CNN-3> .
+ <http://example.org/disney#Eternals> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Marvel_Studios> <Disney-CNN-3> .
+ <http://example.org/disney#DisneyStreamingGrowth> <http://schema.org/startDate> "2023-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-CNN-3> .
+ <http://example.org/disney#Deadpool> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <Disney-CNN-3> .
+ <http://example.org/disney#Eternals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <Disney-CNN-3> .
+ <http://example.org/disney#DisneyPlus> <http://dbpedia.org/ontology/serviceType> <http://dbpedia.org/resource/Streaming_service> <Disney-CNN-3> .
+ <http://example.org/disney#DisneySharesDrop> <http://schema.org/eventStatus> <http://schema.org/EventPostponed> <Disney-CNN-3> .
+ <http://example.org/disney#DisneyStreamingGrowth> <http://schema.org/eventStatus> <http://schema.org/EventCancelled> <Disney-CNN-3> .
+ <http://example.org/disney#DisneyPlusDay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Disney-CNN-3> .
+ <http://example.org/disney#Encanto> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Walt_Disney_Studios_Motion_Pictures> <Disney-CNN-3> .
+ <http://example.org/disney#ShangChiAndTheLegendOfTheTenRings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <Disney-CNN-3> .
+ <http://example.org/disney#DisneyStreamingGrowth> <http://schema.org/endDate> "2023-03-31"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-CNN-3> .
+ <http://example.org/disney#Loki> <http://dbpedia.org/ontology/creator> <http://dbpedia.org/resource/Marvel_Studios> <Disney-CNN-3> .
+ <http://example.org/disney#DisneyPlus> <http://xmlns.com/foaf/0.1/name> "Disney+"  <Disney-CNN-3> .
+ <http://example.org/disney#WandaVision> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow> <Disney-CNN-3> .
+ <http://example.org/disney#Loki> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow> <Disney-CNN-3> .
+ <http://example.org/disney#DisneySharesDrop> <http://schema.org/startDate> "2023-04-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-CNN-3> .
+ <http://example.org/disney#Pinocchio> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Tom_Hanks> <Disney-CNN-3> .
+ <http://example.org/disney#Loki> <http://dbpedia.org/ontology/network> <http://example.org/disney#DisneyPlus> <Disney-CNN-3> .
+ <http://example.org/disney#WandaVision> <http://dbpedia.org/ontology/creator> <http://dbpedia.org/resource/Marvel_Studios> <Disney-CNN-3> .
+ <http://example.org/disney#Hawkeye> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow> <Disney-CNN-3> .
+ <http://example.org/disney#Hawkeye> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Jeremy_Renner> <Disney-CNN-3> .
+ <http://example.org/disney#Encanto> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Walt_Disney_Animation_Studios> <Disney-CNN-3> .
+ <http://example.org/disney#Deadpool> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/20th_Century_Fox> <Disney-CNN-3> .
+ <http://example.org/disney#Star> <http://dbpedia.org/ontology/serviceType> <http://dbpedia.org/resource/Streaming_service> <Disney-CNN-3> .
+ <http://Disney-CNN-4.com/blank#n2973ea87f2684ec1990ea5b9b8b02659b1> <http://example.org/ontology#type> "single-family homes"  <Disney-CNN-4> .
+ <http://Disney-CNN-4.com/blank#n2973ea87f2684ec1990ea5b9b8b02659b2> <http://example.org/ontology#amenityType> "entertainment"  <Disney-CNN-4> .
+ <http://example.org/ontology#WaltDisney> <http://xmlns.com/foaf/0.1/name> "Walt Disney"  <Disney-CNN-4> .
+ <http://example.org/ontology#GoldenOak> <http://example.org/ontology#targetAudience> "Disney fans"  <Disney-CNN-4> .
+ <http://example.org/ontology#DisneyCastMembers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Role> <Disney-CNN-4> .
+ <http://example.org/ontology#Cotino> <http://example.org/ontology#hasGrandOasis> <http://Disney-CNN-4.com/blank#n2973ea87f2684ec1990ea5b9b8b02659b3>  <Disney-CNN-4> .
+ <http://example.org/ontology#MichaelHundgen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-CNN-4> .
+ <http://Disney-CNN-4.com/blank#n2973ea87f2684ec1990ea5b9b8b02659b3> <http://example.org/ontology#size> "24"^^<http://www.w3.org/2001/XMLSchema#int>  <Disney-CNN-4> .
+ <http://example.org/ontology#DisneyCastMembers> <http://xmlns.com/foaf/0.1/name> "cast members"  <Disney-CNN-4> .
+ <http://example.org/ontology#GoldenOak> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#ResidentialCommunity> <Disney-CNN-4> .
+ <http://example.org/ontology#Cotino> <http://example.org/ontology#partOf> <http://example.org/ontology#StorylivingByDisney> <Disney-CNN-4> .
+ <http://example.org/ontology#Cotino> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#ResidentialProject> <Disney-CNN-4> .
+ <http://example.org/ontology#GoldenOak> <http://example.org/ontology#location> <http://dbpedia.org/resource/Walt_Disney_World_Resort> <Disney-CNN-4> .
+ <http://example.org/ontology#WaltDisney> <http://example.org/ontology#fondOf> <http://dbpedia.org/resource/Palm_Springs_California> <Disney-CNN-4> .
+ <http://example.org/ontology#MichaelHundgen> <http://example.org/ontology#role> "executive producer"  <Disney-CNN-4> .
+ <http://example.org/ontology#MichaelHundgen> <http://xmlns.com/foaf/0.1/name> "Michael Hundgen"  <Disney-CNN-4> .
+ <http://example.org/ontology#Cotino> <http://example.org/ontology#ageRestrictedAreas> "55 and older"^^<http://www.w3.org/2001/XMLSchema#string>  <Disney-CNN-4> .
+ <http://Disney-CNN-4.com/blank#n2973ea87f2684ec1990ea5b9b8b02659b2> <http://example.org/ontology#amenityType> "dining"  <Disney-CNN-4> .
+ <http://Disney-CNN-4.com/blank#n2973ea87f2684ec1990ea5b9b8b02659b3> <http://example.org/ontology#feature> "water activities"  <Disney-CNN-4> .
+ <http://example.org/ontology#Celebration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#ResidentialCommunity> <Disney-CNN-4> .
+ <http://example.org/ontology#Cotino> <http://example.org/ontology#unitTypes> <http://Disney-CNN-4.com/blank#n2973ea87f2684ec1990ea5b9b8b02659b1>  <Disney-CNN-4> .
+ <http://example.org/ontology#Cotino> <http://example.org/ontology#name> "Cotino"  <Disney-CNN-4> .
+ <http://example.org/ontology#DisneyCompany> <http://xmlns.com/foaf/0.1/name> "The Disney company"  <Disney-CNN-4> .
+ <http://example.org/ontology#Cotino> <http://example.org/ontology#propertySize> "618"^^<http://www.w3.org/2001/XMLSchema#int>  <Disney-CNN-4> .
+ <http://example.org/ontology#MichaelHundgen> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Walt_Disney_Imagineering> <Disney-CNN-4> .
+ <http://example.org/ontology#StorylivingByDisney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Venture> <Disney-CNN-4> .
+ <http://example.org/ontology#Cotino> <http://example.org/ontology#location> <http://dbpedia.org/resource/Rancho_Mirage_California> <Disney-CNN-4> .
+ <http://example.org/ontology#Cotino> <http://example.org/ontology#developer> <http://dbpedia.org/resource/DMB_Associates> <Disney-CNN-4> .
+ <http://example.org/ontology#JoshDAmaro> <http://xmlns.com/foaf/0.1/name> "Josh D’Amaro"  <Disney-CNN-4> .
+ <http://example.org/ontology#Cotino> <http://example.org/ontology#amenities> <http://Disney-CNN-4.com/blank#n2973ea87f2684ec1990ea5b9b8b02659b2>  <Disney-CNN-4> .
+ <http://Disney-CNN-4.com/blank#n2973ea87f2684ec1990ea5b9b8b02659b1> <http://example.org/ontology#type> "condominiums"  <Disney-CNN-4> .
+ <http://Disney-CNN-4.com/blank#n2973ea87f2684ec1990ea5b9b8b02659b3> <http://example.org/ontology#feature> "professionally managed beach park"  <Disney-CNN-4> .
+ <http://Disney-CNN-4.com/blank#n2973ea87f2684ec1990ea5b9b8b02659b2> <http://example.org/ontology#amenityType> "shopping"  <Disney-CNN-4> .
+ <http://example.org/ontology#DisneyCompany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-CNN-4> .
+ <http://Disney-CNN-4.com/blank#n2973ea87f2684ec1990ea5b9b8b02659b2> <http://example.org/ontology#amenityType> "beach park"  <Disney-CNN-4> .
+ <http://example.org/ontology#Celebration> <http://example.org/ontology#previousOwnership> <http://example.org/ontology#DisneyCompany> <Disney-CNN-4> .
+ <http://example.org/ontology#GoldenOak> <http://xmlns.com/foaf/0.1/name> "Golden Oak"  <Disney-CNN-4> .
+ <http://example.org/ontology#StorylivingByDisney> <http://example.org/ontology#name> "Storyliving by Disney"  <Disney-CNN-4> .
+ <http://example.org/ontology#WaltDisney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-CNN-4> .
+ <http://example.org/ontology#Celebration> <http://example.org/ontology#soldYear> "2004"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Disney-CNN-4> .
+ <http://example.org/ontology#Cotino> <http://example.org/ontology#managedBy> <http://example.org/ontology#DisneyCastMembers> <Disney-CNN-4> .
+ <http://example.org/ontology#Celebration> <http://example.org/ontology#issues> "units and buildings falling into disrepair"  <Disney-CNN-4> .
+ <http://example.org/ontology#Cotino> <http://example.org/ontology#residentialUnits> "1900"^^<http://www.w3.org/2001/XMLSchema#int>  <Disney-CNN-4> .
+ <http://example.org/ontology#JoshDAmaro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-CNN-4> .
+ <http://example.org/ontology#JoshDAmaro> <http://example.org/ontology#role> "chairman of Disney Parks, Experiences and Products"  <Disney-CNN-4> .
+ <http://example.org/ontology#GoldenOak> <http://example.org/ontology#proximity> "close access to the Walt Disney World Resort"  <Disney-CNN-4> .
+ <http://example.org/ontology#JoshDAmaro> <http://example.org/ontology#statement> "Disney company has been known for strong storytelling for nearly 100 years."  <Disney-CNN-4> .
+ <http://example.org/ontology#Celebration> <http://xmlns.com/foaf/0.1/name> "Celebration, Florida"  <Disney-CNN-4> .
+ <http://Disney-CNN-4.com/blank#n2973ea87f2684ec1990ea5b9b8b02659b2> <http://example.org/ontology#amenityType> "hotel"  <Disney-CNN-4> .
+ <http://example.org/PartialClosure> <http://example.org/affectedAttractions> <http://example.org/CountryBearJamboree> <Disney-CNN-5> .
+ <http://example.org/Disney> <http://xmlns.com/foaf/0.1/name> "Disney"  <Disney-CNN-5> .
+ <http://example.org/PartialClosure> <http://example.org/affectedAttractions> <http://example.org/PiratesOfTheCaribbean> <Disney-CNN-5> .
+ <http://example.org/ReportContribution> <http://purl.org/dc/terms/contributor> <http://example.org/KateConerly> <Disney-CNN-5> .
+ <http://example.org/ShawnNottingham> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-CNN-5> .
+ <http://example.org/ReportContribution> <http://purl.org/dc/terms/contributor> <http://example.org/ShawnNottingham> <Disney-CNN-5> .
+ <http://example.org/MagicKingdom> <http://example.org/hasAttraction> <http://example.org/LibertySquareRiverboat> <Disney-CNN-5> .
+ <http://example.org/WaltDisneyWorldRailroad> <http://xmlns.com/foaf/0.1/name> "Walt Disney World Railroad"  <Disney-CNN-5> .
+ <http://example.org/AerialFootage> <http://purl.org/dc/terms/description> "Aerial footage showing FWC personnel removing the bear"  <Disney-CNN-5> .
+ <http://example.org/ReopeningDecision> <http://example.org/concerns> <http://example.org/LibertySquare> <Disney-CNN-5> .
+ <http://example.org/MagicKingdom> <http://example.org/hasAttraction> <http://example.org/SwissFamilyTreehouse> <Disney-CNN-5> .
+ <http://example.org/JungleCruise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Attraction> <Disney-CNN-5> .
+ <http://example.org/FWC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Organization> <Disney-CNN-5> .
+ <http://example.org/OcalaNationalForest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Forest> <Disney-CNN-5> .
+ <http://example.org/CountryBearJamboree> <http://xmlns.com/foaf/0.1/name> "Country Bear Jamboree"  <Disney-CNN-5> .
+ <http://example.org/BearIncident> <http://example.org/resultedIn> <http://example.org/PartialClosure> <Disney-CNN-5> .
+ <http://example.org/AnimalKingdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ThemePark> <Disney-CNN-5> .
+ <http://example.org/AerialFootage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/MediaObject> <Disney-CNN-5> .
+ <http://example.org/LibertySquare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Land> <Disney-CNN-5> .
+ <http://example.org/TomSawyerIsland> <http://xmlns.com/foaf/0.1/name> "Tom Sawyer Island"  <Disney-CNN-5> .
+ <http://example.org/MagicCarpetsOfAladdin> <http://xmlns.com/foaf/0.1/name> "Magic Carpets of Aladdin"  <Disney-CNN-5> .
+ <http://example.org/CaptureLocation> <http://example.org/nearAttraction> <http://example.org/itsASmallWorld> <Disney-CNN-5> .
+ <http://example.org/Frontierland> <http://xmlns.com/foaf/0.1/name> "Frontierland"  <Disney-CNN-5> .
+ <http://example.org/LibertySquareRiverboat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Attraction> <Disney-CNN-5> .
+ <http://example.org/SwissFamilyTreehouse> <http://xmlns.com/foaf/0.1/name> "Swiss Family Treehouse"  <Disney-CNN-5> .
+ <http://example.org/EnchantedTikiRoom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Attraction> <Disney-CNN-5> .
+ <http://example.org/CountryBearJamboree> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Attraction> <Disney-CNN-5> .
+ <http://example.org/ReportContribution> <http://purl.org/dc/terms/contributor> <http://example.org/MelissaAlonso> <Disney-CNN-5> .
+ <http://example.org/ReportContribution> <http://purl.org/dc/terms/contributor> <http://example.org/CarlosSuarez> <Disney-CNN-5> .
+ <http://example.org/CarlosSuarez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-CNN-5> .
+ <http://example.org/MagicKingdom> <http://example.org/hasAttraction> <http://example.org/HauntedMansion> <Disney-CNN-5> .
+ <http://example.org/PartialClosure> <http://schema.org/startTime> "2023-04-10T11:17:00-04:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <Disney-CNN-5> .
+ <http://example.org/BearIncident> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Event> <Disney-CNN-5> .
+ <http://example.org/ReopeningDecision> <http://example.org/madeBy> <http://example.org/Disney> <Disney-CNN-5> .
+ <http://example.org/PartialClosure> <http://example.org/affectedAttractions> <http://example.org/MagicCarpetsOfAladdin> <Disney-CNN-5> .
+ <http://example.org/LibertySquare> <http://xmlns.com/foaf/0.1/name> "Liberty Square"  <Disney-CNN-5> .
+ <http://example.org/HallOfPresidents> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Attraction> <Disney-CNN-5> .
+ <http://example.org/MagicKingdom> <http://example.org/hasAttraction> <http://example.org/CountryBearJamboree> <Disney-CNN-5> .
+ <http://example.org/EPCOT> <http://xmlns.com/foaf/0.1/name> "EPCOT"  <Disney-CNN-5> .
+ <http://example.org/ReopeningDecision> <http://example.org/concerns> <http://example.org/Frontierland> <Disney-CNN-5> .
+ <http://example.org/PiratesOfTheCaribbean> <http://xmlns.com/foaf/0.1/name> "Pirates of the Caribbean"  <Disney-CNN-5> .
+ <http://example.org/LibertySquareRiverboat> <http://xmlns.com/foaf/0.1/name> "Liberty Square Riverboat"  <Disney-CNN-5> .
+ <http://example.org/JungleCruise> <http://xmlns.com/foaf/0.1/name> "Jungle Cruise"  <Disney-CNN-5> .
+ <http://example.org/MagicKingdom> <http://example.org/hasAttraction> <http://example.org/EnchantedTikiRoom> <Disney-CNN-5> .
+ <http://example.org/CaptureLocation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Location> <Disney-CNN-5> .
+ <http://example.org/BearIncident> <http://example.org/managedBy> <http://example.org/FWC> <Disney-CNN-5> .
+ <http://example.org/ReopeningDecision> <http://example.org/concerns> <http://example.org/Adventureland> <Disney-CNN-5> .
+ <http://example.org/BearRelocation> <http://purl.org/dc/terms/description> "Relocation of the captured bear"  <Disney-CNN-5> .
+ <http://example.org/PartialClosure> <http://example.org/affectedAttractions> <http://example.org/EnchantedTikiRoom> <Disney-CNN-5> .
+ <http://example.org/TomSawyerIsland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Attraction> <Disney-CNN-5> .
+ <http://example.org/PartialClosure> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Closure> <Disney-CNN-5> .
+ <http://example.org/BearIncident> <http://example.org/occurredAt> <http://example.org/MagicKingdom> <Disney-CNN-5> .
+ <http://example.org/BearRelocation> <http://example.org/relocatedTo> <http://example.org/OcalaNationalForest> <Disney-CNN-5> .
+ <http://example.org/MelissaAlonso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-CNN-5> .
+ <http://example.org/BearIncident> <http://example.org/resultedIn> <http://example.org/BearRelocation> <Disney-CNN-5> .
+ <http://example.org/WESH> <http://xmlns.com/foaf/0.1/name> "WESH"  <Disney-CNN-5> .
+ <http://example.org/MelissaAlonso> <http://xmlns.com/foaf/0.1/name> "Melissa Alonso"  <Disney-CNN-5> .
+ <http://example.org/MagicKingdom> <http://example.org/hasAttraction> <http://example.org/HallOfPresidents> <Disney-CNN-5> .
+ <http://example.org/ReopeningDecision> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Decision> <Disney-CNN-5> .
+ <http://example.org/OcalaNationalForest> <http://xmlns.com/foaf/0.1/name> "Ocala National Forest"  <Disney-CNN-5> .
+ <http://example.org/PartialClosure> <http://example.org/affectedAttractions> <http://example.org/HallOfPresidents> <Disney-CNN-5> .
+ <http://example.org/KateConerly> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-CNN-5> .
+ <http://example.org/HauntedMansion> <http://xmlns.com/foaf/0.1/name> "Haunted Mansion"  <Disney-CNN-5> .
+ <http://example.org/PartialClosure> <http://example.org/affectedAttractions> <http://example.org/LibertySquareRiverboat> <Disney-CNN-5> .
+ <http://example.org/PartialClosure> <http://purl.org/dc/terms/description> "Partial closures at Walt Disney World’s Magic Kingdom"  <Disney-CNN-5> .
+ <http://example.org/AdultFemaleBear> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Bear> <Disney-CNN-5> .
+ <http://example.org/itsASmallWorld> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Attraction> <Disney-CNN-5> .
+ <http://example.org/PartialClosure> <http://example.org/affectedAttractions> <http://example.org/SwissFamilyTreehouse> <Disney-CNN-5> .
+ <http://example.org/HallOfPresidents> <http://xmlns.com/foaf/0.1/name> "Hall of Presidents"  <Disney-CNN-5> .
+ <http://example.org/BearIncident> <http://example.org/involvedAnimal> <http://example.org/AdultFemaleBear> <Disney-CNN-5> .
+ <http://example.org/SwissFamilyTreehouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Attraction> <Disney-CNN-5> .
+ <http://example.org/AdultFemaleBear> <http://xmlns.com/foaf/0.1/gender> "female"  <Disney-CNN-5> .
+ <http://example.org/Adventureland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Land> <Disney-CNN-5> .
+ <http://example.org/BearIncident> <http://purl.org/dc/terms/date> "2023-04-10"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-CNN-5> .
+ <http://example.org/AerialFootage> <http://purl.org/dc/terms/creator> <http://example.org/WESH> <Disney-CNN-5> .
+ <http://example.org/MagicCarpetsOfAladdin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Attraction> <Disney-CNN-5> .
+ <http://example.org/HauntedMansion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Attraction> <Disney-CNN-5> .
+ <http://example.org/ReportContribution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Contribution> <Disney-CNN-5> .
+ <http://example.org/MagicKingdom> <http://example.org/hasAttraction> <http://example.org/WaltDisneyWorldRailroad> <Disney-CNN-5> .
+ <http://example.org/BearRelocation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Relocation> <Disney-CNN-5> .
+ <http://example.org/WaltDisneyWorldRailroad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Attraction> <Disney-CNN-5> .
+ <http://example.org/HollywoodStudios> <http://xmlns.com/foaf/0.1/name> "Hollywood Studios"  <Disney-CNN-5> .
+ <http://example.org/ShawnNottingham> <http://xmlns.com/foaf/0.1/name> "Shawn Nottingham"  <Disney-CNN-5> .
+ <http://example.org/AerialFootage> <http://schema.org/contentLocation> <http://example.org/CaptureLocation> <Disney-CNN-5> .
+ <http://example.org/PartialClosure> <http://example.org/affectedAttractions> <http://example.org/WaltDisneyWorldRailroad> <Disney-CNN-5> .
+ <http://example.org/CaptureLocation> <http://example.org/within> <http://example.org/MagicKingdom> <Disney-CNN-5> .
+ <http://example.org/itsASmallWorld> <http://xmlns.com/foaf/0.1/name> "it's a small world"  <Disney-CNN-5> .
+ <http://example.org/MagicKingdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ThemePark> <Disney-CNN-5> .
+ <http://example.org/EPCOT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ThemePark> <Disney-CNN-5> .
+ <http://example.org/MagicKingdom> <http://example.org/hasAttraction> <http://example.org/MagicCarpetsOfAladdin> <Disney-CNN-5> .
+ <http://example.org/MagicKingdom> <http://example.org/hasAttraction> <http://example.org/JungleCruise> <Disney-CNN-5> .
+ <http://example.org/AnimalKingdom> <http://xmlns.com/foaf/0.1/name> "Animal Kingdom"  <Disney-CNN-5> .
+ <http://example.org/PartialClosure> <http://example.org/affectedAttractions> <http://example.org/JungleCruise> <Disney-CNN-5> .
+ <http://example.org/HollywoodStudios> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ThemePark> <Disney-CNN-5> .
+ <http://example.org/KateConerly> <http://xmlns.com/foaf/0.1/name> "Kate Conerly"  <Disney-CNN-5> .
+ <http://example.org/PiratesOfTheCaribbean> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Attraction> <Disney-CNN-5> .
+ <http://example.org/EnchantedTikiRoom> <http://xmlns.com/foaf/0.1/name> "Enchanted Tiki Room"  <Disney-CNN-5> .
+ <http://example.org/PartialClosure> <http://example.org/affectedAttractions> <http://example.org/HauntedMansion> <Disney-CNN-5> .
+ <http://example.org/Adventureland> <http://xmlns.com/foaf/0.1/name> "Adventureland"  <Disney-CNN-5> .
+ <http://example.org/WESH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/NewsOrganization> <Disney-CNN-5> .
+ <http://example.org/AdultFemaleBear> <http://schema.org/adult> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <Disney-CNN-5> .
+ <http://example.org/Frontierland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Land> <Disney-CNN-5> .
+ <http://example.org/CarlosSuarez> <http://xmlns.com/foaf/0.1/name> "Carlos Suarez"  <Disney-CNN-5> .
+ <http://example.org/MagicKingdom> <http://example.org/hasAttraction> <http://example.org/TomSawyerIsland> <Disney-CNN-5> .
+ <http://example.org/MagicKingdom> <http://xmlns.com/foaf/0.1/name> "Walt Disney World’s Magic Kingdom"  <Disney-CNN-5> .
+ <http://example.org/MagicKingdom> <http://example.org/hasAttraction> <http://example.org/PiratesOfTheCaribbean> <Disney-CNN-5> .
+ <http://example.org/PartialClosure> <http://example.org/affectedAttractions> <http://example.org/TomSawyerIsland> <Disney-CNN-5> .
+ <http://example.org/FWC> <http://xmlns.com/foaf/0.1/name> "Florida Fish & Wildlife Conservation Commission"  <Disney-CNN-5> .
+ <http://example.org/Disney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Organization> <Disney-CNN-5> .
+ <http://example.org/SnapchatLensesForDisneyPhotoPass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <Disney-CNN-6> .
+ <http://example.org/DisneyParksBlogPost> <http://schema.org/datePublished> "2023-03-30"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-CNN-6> .
+ <http://example.org/Disney> <http://xmlns.com/foaf/0.1/name> "Disney"  <Disney-CNN-6> .
+ <http://example.org/DisneyParksARExperience> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Disney-CNN-6> .
+ <http://example.org/ARLenses> <http://schema.org/manufacturer> <http://example.org/Snap> <Disney-CNN-6> .
+ <http://example.org/GaryDaniels> <http://xmlns.com/foaf/0.1/familyName> "Daniels"  <Disney-CNN-6> .
+ <http://example.org/DisneyWorld50thAnniversary> <http://schema.org/name> "Walt Disney World 50th Anniversary"  <Disney-CNN-6> .
+ <http://example.org/DisneyParksAndSnapPartnership> <http://schema.org/startDate> "2023-06-03"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-CNN-6> .
+ <http://example.org/WaltDisneyWorld> <http://xmlns.com/foaf/0.1/name> "Walt Disney World Resort"  <Disney-CNN-6> .
+ <http://example.org/DisneyParksBlogPost> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> <Disney-CNN-6> .
+ <http://example.org/DisneyPhotoPass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Service> <Disney-CNN-6> .
+ <http://example.org/MagicKingdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AmusementParkAttraction> <Disney-CNN-6> .
+ <http://example.org/DisneyParksAndSnapPartnership> <http://schema.org/organizer> <http://example.org/Disney> <Disney-CNN-6> .
+ <http://example.org/BenSchwerin> <http://xmlns.com/foaf/0.1/title> "Senior Vice President of Content and Partnerships"  <Disney-CNN-6> .
+ <http://example.org/DisneyParksBlogPost> <http://schema.org/about> <http://example.org/DisneyParksAndSnapPartnership> <Disney-CNN-6> .
+ <http://example.org/DisneyParksARExperience> <http://schema.org/about> <http://example.org/ARLenses> <Disney-CNN-6> .
+ <http://example.org/DisneyWorld50thAnniversary> <http://schema.org/startDate> "2023-10-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-CNN-6> .
+ <http://example.org/SnapchatLensesForDisneyPhotoPass> <http://schema.org/manufacturer> <http://example.org/Snap> <Disney-CNN-6> .
+ <http://example.org/MyDisneyExperience> <http://xmlns.com/foaf/0.1/name> "My Disney Experience"  <Disney-CNN-6> .
+ <http://example.org/JoshDAmaro> <http://xmlns.com/foaf/0.1/familyName> "D'Amaro"  <Disney-CNN-6> .
+ <http://example.org/SnapchatLensesForDisneyPhotoPass> <http://schema.org/isRelatedTo> <http://example.org/DisneyPhotoPass> <Disney-CNN-6> .
+ <http://example.org/WaltDisneyWorld> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Orlando_Florida> <Disney-CNN-6> .
+ <http://example.org/GaryDaniels> <http://schema.org/worksFor> <http://example.org/Disney> <Disney-CNN-6> .
+ <http://example.org/WaltDisneyWorld> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AmusementPark> <Disney-CNN-6> .
+ <http://example.org/MagicKingdom> <http://dbpedia.org/ontology/partOf> <http://example.org/WaltDisneyWorld> <Disney-CNN-6> .
+ <http://example.org/DisneyParksAndSnapPartnership> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Disney-CNN-6> .
+ <http://example.org/Snapchat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MobileApplication> <Disney-CNN-6> .
+ <http://example.org/Snapchat> <http://xmlns.com/foaf/0.1/name> "Snapchat"  <Disney-CNN-6> .
+ <http://example.org/SnapchatLensesForDisneyPhotoPass> <http://schema.org/name> "New Disney PhotoPass Snapchat Lenses"  <Disney-CNN-6> .
+ <http://example.org/JoshDAmaro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-CNN-6> .
+ <http://example.org/Disney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-CNN-6> .
+ <http://example.org/MyDisneyExperience> <http://schema.org/about> <http://example.org/WaltDisneyWorld> <Disney-CNN-6> .
+ <http://example.org/DisneyParksAndSnapPartnership> <http://schema.org/organizer> <http://example.org/Snap> <Disney-CNN-6> .
+ <http://example.org/DisneyWorld50thAnniversary> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Disney-CNN-6> .
+ <http://example.org/DisneyPhotoPass> <http://xmlns.com/foaf/0.1/name> "Disney PhotoPass"  <Disney-CNN-6> .
+ <http://example.org/Disney> <http://dbpedia.org/ontology/stockTicker> "DIS"  <Disney-CNN-6> .
+ <http://example.org/Snap> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-CNN-6> .
+ <http://example.org/DisneyWorld50thAnniversary> <http://schema.org/location> <http://example.org/WaltDisneyWorld> <Disney-CNN-6> .
+ <http://example.org/DisneyParksARExperience> <http://schema.org/author> <http://example.org/GaryDaniels> <Disney-CNN-6> .
+ <http://example.org/DisneyParksAndSnapPartnership> <http://schema.org/description> "Partnership to bring augmented reality to Disney World with new Snap lenses."  <Disney-CNN-6> .
+ <http://example.org/Snap> <http://dbpedia.org/ontology/stockTicker> "SNAP"  <Disney-CNN-6> .
+ <http://example.org/MyDisneyExperience> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MobileApplication> <Disney-CNN-6> .
+ <http://example.org/GaryDaniels> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-CNN-6> .
+ <http://example.org/BenSchwerin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-CNN-6> .
+ <http://example.org/MagicKingdom> <http://xmlns.com/foaf/0.1/name> "Magic Kingdom's Cinderella Castle"  <Disney-CNN-6> .
+ <http://example.org/BenSchwerin> <http://xmlns.com/foaf/0.1/familyName> "Schwerin"  <Disney-CNN-6> .
+ <http://example.org/ARLenses> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <Disney-CNN-6> .
+ <http://example.org/ARLenses> <http://schema.org/isRelatedTo> <http://example.org/DisneyParksAndSnapPartnership> <Disney-CNN-6> .
+ <http://example.org/Snap> <http://xmlns.com/foaf/0.1/name> "Snap"  <Disney-CNN-6> .
+ <http://example.org/DisneyParksAndSnapPartnership> <http://schema.org/location> <http://example.org/WaltDisneyWorld> <Disney-CNN-6> .
+ <http://example.org/DisneyParksARExperience> <http://schema.org/isPartOf> <http://example.org/DisneyParksAndSnapPartnership> <Disney-CNN-6> .
+ <http://example.org/JoshDAmaro> <http://xmlns.com/foaf/0.1/title> "Chairman"  <Disney-CNN-6> .
+ <http://example.org/BenSchwerin> <http://schema.org/worksFor> <http://example.org/Snap> <Disney-CNN-6> .
+ <http://example.org/JoshDAmaro> <http://schema.org/worksFor> <http://example.org/DisneyParks> <Disney-CNN-6> .
+ <http://example.org/GaryDaniels> <http://xmlns.com/foaf/0.1/title> "Vice President"  <Disney-CNN-6> .
+ <http://example.org/ARLenses> <http://schema.org/name> "Augmented Reality Lenses"  <Disney-CNN-6> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b5> <http://dbpedia.org/ontology/timeframe> "quarter"  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b7> <http://xmlns.com/foaf/0.1/name> "Netflix"  <Disney-CNN-7> .
+ <http://example.org/Disney> <http://xmlns.com/foaf/0.1/name> "Disney"  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b6> <http://dbpedia.org/ontology/share> "20%"  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b19> <http://dbpedia.org/ontology/unionMember> "32000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Disney-CNN-7> .
+ <http://example.org/MoffettNathanson> <http://xmlns.com/foaf/0.1/name> "MoffettNathanson"  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b16> <http://dbpedia.org/ontology/loss> <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b17>  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b18> <http://xmlns.com/foaf/0.1/name> "Media and Entertainment Division"  <Disney-CNN-7> .
+ <http://example.org/Jessica_Reif_Ehrlich> <http://dbpedia.org/ontology/occupation> "Analyst"  <Disney-CNN-7> .
+ <http://example.org/Bob_Chapek> <http://dbpedia.org/ontology/endDate> "2022-11-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b20> <http://dbpedia.org/ontology/negotiation> <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b21>  <Disney-CNN-7> .
+ <http://example.org/Jeff_Vahle> <http://xmlns.com/foaf/0.1/name> "Jeff Vahle"  <Disney-CNN-7> .
+ <http://example.org/Dan_Loeb> <http://xmlns.com/foaf/0.1/name> "Dan Loeb"  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Issue> <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Sales> <Disney-CNN-7> .
+ <http://example.org/Dan_Loeb> <http://dbpedia.org/ontology/occupation> "Activist investor"  <Disney-CNN-7> .
+ <http://example.org/Steven_Contorno> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Conflict> <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Issue> <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Shareholder> <Disney-CNN-7> .
+ <http://example.org/Reedy_Creek_Improvement_District> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/GovernmentOrganization> <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b1> <http://dbpedia.org/ontology/startDate> "2020-11-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-CNN-7> .
+ <http://example.org/Nelson_Peltz> <http://dbpedia.org/ontology/occupation> "Activist investor"  <Disney-CNN-7> .
+ <http://example.org/Reedy_Creek_Improvement_District> <http://dbpedia.org/ontology/debt> "1000000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b23> <http://dbpedia.org/ontology/change> <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b24>  <Disney-CNN-7> .
+ <http://example.org/Jeff_Vahle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b1> <http://dbpedia.org/ontology/activity> <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b2>  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b4> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Avatar:_The_Way_of_Water> <Disney-CNN-7> .
+ <http://example.org/Disney> <http://dbpedia.org/ontology/revenue> <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b3>  <Disney-CNN-7> .
+ <http://example.org/Nelson_Peltz> <http://xmlns.com/foaf/0.1/name> "Nelson Peltz"  <Disney-CNN-7> .
+ <http://example.org/Disney> <http://dbpedia.org/ontology/issue> <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b11>  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b1> <http://xmlns.com/foaf/0.1/name> "Bob Iger"  <Disney-CNN-7> .
+ <http://example.org/Disney> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Media> <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b13> <http://dbpedia.org/ontology/topic> "Possible reorganization and layoffs"  <Disney-CNN-7> .
+ <http://example.org/Dan_Loeb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Negotiation> <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b9> <http://dbpedia.org/ontology/topic> "Media industry turmoil"  <Disney-CNN-7> .
+ <http://example.org/Disney> <http://dbpedia.org/ontology/issue> <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b13>  <Disney-CNN-7> .
+ <http://example.org/Disney> <http://dbpedia.org/ontology/politicalAffiliation> <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b22>  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Disney-CNN-7> .
+ <http://example.org/Central_Florida_Tourism_Oversight_District> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/GovernmentOrganization> <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b17> <http://dbpedia.org/ontology/amount> "4000000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Disney-CNN-7> .
+ <http://example.org/Steven_Contorno> <http://dbpedia.org/ontology/occupation> "Contributor"  <Disney-CNN-7> .
+ <http://example.org/Disney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b15> <http://dbpedia.org/ontology/topic> "Culture war battle"  <Disney-CNN-7> .
+ <http://example.org/MoffettNathanson> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Wall_Street_research_firm> <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b18> <http://dbpedia.org/ontology/reorganization> "expected"  <Disney-CNN-7> .
+ <http://example.org/Disney> <http://dbpedia.org/ontology/governmentEntity> <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b23>  <Disney-CNN-7> .
+ <http://example.org/Dan_Loeb> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/Third_Point> <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b4> <http://dbpedia.org/ontology/amount> "400000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b2> <http://schema.org/name> "Earnings call with Wall Street investors"  <Disney-CNN-7> .
+ <http://example.org/Steven_Contorno> <http://xmlns.com/foaf/0.1/name> "Steven Contorno"  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b24> <http://dbpedia.org/ontology/startDate> "2023-06-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b12> <http://dbpedia.org/ontology/topic> "Activist shareholders"  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FinancialResult> <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b14> <http://dbpedia.org/ontology/topic> "Growing labor disputes with employees"  <Disney-CNN-7> .
+ <http://example.org/Disney> <http://dbpedia.org/ontology/competitor> <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b8>  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b17> <http://dbpedia.org/ontology/timeframe> "fiscal year"  <Disney-CNN-7> .
+ <http://example.org/Steven_Contorno> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/CNN> <Disney-CNN-7> .
+ <http://example.org/Bob_Chapek> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Service> <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b8> <http://xmlns.com/foaf/0.1/name> "Warner Bros. Discovery"  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b1> <http://dbpedia.org/ontology/position> "CEO"  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b7> <http://dbpedia.org/ontology/stockTicker> "NFLX"  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b21> <http://dbpedia.org/ontology/proposal> "Contract offer"  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b21> <http://dbpedia.org/ontology/voteAgainst> "96%"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b23> <http://xmlns.com/foaf/0.1/name> "Reedy Creek Improvement District"  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b22> <http://dbpedia.org/ontology/opposition> "Disney employees"  <Disney-CNN-7> .
+ <http://example.org/Disney> <http://dbpedia.org/ontology/owner> <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b1>  <Disney-CNN-7> .
+ <http://example.org/Disney> <http://dbpedia.org/ontology/issue> <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b9>  <Disney-CNN-7> .
+ <http://example.org/Nelson_Peltz> <http://dbpedia.org/ontology/proposal> "Proxy fight"  <Disney-CNN-7> .
+ <http://example.org/Disney> <http://dbpedia.org/ontology/employee> <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b19>  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Issue> <Disney-CNN-7> .
+ <http://example.org/MoffettNathanson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-CNN-7> .
+ <http://example.org/Disney> <http://dbpedia.org/ontology/competitor> <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b7>  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalAffiliation> <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b20> <http://dbpedia.org/ontology/unionName> "Disney World unions"  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b16> <http://xmlns.com/foaf/0.1/name> "Disney+"  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b8> <http://dbpedia.org/ontology/owner> <http://dbpedia.org/resource/CNN> <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b2> <http://schema.org/location> <http://dbpedia.org/resource/New_York> <Disney-CNN-7> .
+ <http://example.org/Disney> <http://dbpedia.org/ontology/issue> <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b12>  <Disney-CNN-7> .
+ <http://example.org/Disney> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Florida> <Disney-CNN-7> .
+ <http://example.org/Nelson_Peltz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b2> <http://schema.org/startDate> "2023-02-08T16:30:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Employee> <Disney-CNN-7> .
+ <http://example.org/Jeff_Vahle> <http://dbpedia.org/ontology/position> "President, Walt Disney World Resort"  <Disney-CNN-7> .
+ <http://example.org/Jessica_Reif_Ehrlich> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/Bank_of_America> <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b3> <http://dbpedia.org/ontology/reason> <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b4>  <Disney-CNN-7> .
+ <http://example.org/Disney> <http://dbpedia.org/ontology/shareholder> <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b6>  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b4> <http://dbpedia.org/ontology/timeframe> "two weeks"  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b5> <http://dbpedia.org/ontology/amount> "1500000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Disney-CNN-7> .
+ <http://example.org/Jessica_Reif_Ehrlich> <http://xmlns.com/foaf/0.1/name> "Jessica Reif Ehrlich"  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Issue> <Disney-CNN-7> .
+ <http://example.org/Disney> <http://dbpedia.org/ontology/division> <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b18>  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Issue> <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b15> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Ron_DeSantis> <Disney-CNN-7> .
+ <http://example.org/Disney> <http://dbpedia.org/ontology/conflict> <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b15>  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b24> <http://dbpedia.org/ontology/action> "Dissolution"  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b16> <http://dbpedia.org/ontology/subscriberGrowth> "better-than-expected"  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b3> <http://dbpedia.org/ontology/increase> "higher revenue"  <Disney-CNN-7> .
+ <http://example.org/Disney> <http://dbpedia.org/ontology/issue> <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b14>  <Disney-CNN-7> .
+ <http://example.org/Central_Florida_Tourism_Oversight_District> <http://dbpedia.org/ontology/appointedBy> <http://dbpedia.org/resource/Ron_DeSantis> <Disney-CNN-7> .
+ <http://example.org/Bob_Chapek> <http://xmlns.com/foaf/0.1/name> "Bob Chapek"  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/GovernmentOrganization> <Disney-CNN-7> .
+ <http://example.org/Disney> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Disney_World> <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Issue> <Disney-CNN-7> .
+ <http://example.org/Disney> <http://dbpedia.org/ontology/issue> <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b10>  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b11> <http://dbpedia.org/ontology/topic> "Massive streaming losses"  <Disney-CNN-7> .
+ <http://example.org/Bob_Chapek> <http://dbpedia.org/ontology/startDate> "2020-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b10> <http://dbpedia.org/ontology/topic> "Plunging cable subscriptions"  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b19> <http://dbpedia.org/ontology/union> <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b20>  <Disney-CNN-7> .
+ <http://example.org/Jessica_Reif_Ehrlich> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FinancialResult> <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b22> <http://dbpedia.org/ontology/legislation> "Parental Rights in Education law"  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b6> <http://dbpedia.org/ontology/startDate> "2020-11-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-CNN-7> .
+ <http://example.org/Disney> <http://dbpedia.org/ontology/streamingService> <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b16>  <Disney-CNN-7> .
+ <http://example.org/Bob_Chapek> <http://dbpedia.org/ontology/position> "CEO"  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Disney-CNN-7> .
+ <http://example.org/Disney> <http://dbpedia.org/ontology/loss> <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b5>  <Disney-CNN-7> .
+ <http://Disney-CNN-7.com/blank#n9040f9dff73e4380b497160e4be2a6a6b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FinancialResult> <Disney-CNN-7> .
+ <http://example.org/people/JoshDAmaro> <http://xmlns.com/foaf/0.1/member> <http://example.org/business/WaltDisneyWorld> <Disney-CNN-8> .
+ <http://example.org/people/JoshDAmaro> <http://xmlns.com/foaf/0.1/name> "Josh D’Amaro"  <Disney-CNN-8> .
+ <http://example.org/business/DisneyParks/MobileOrder> <http://purl.org/dc/terms/description> "Facilitates finding places to eat and enhances park experience"  <Disney-CNN-8> .
+ <http://example.org/business/DisneyParks/Layoffs> <http://schema.org/name> "Disney Parks layoffs"  <Disney-CNN-8> .
+ <http://example.org/business/Disneyland> <http://schema.org/name> "Disneyland"  <Disney-CNN-8> .
+ <http://example.org/business/DisneyParks/CastMembers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-CNN-8> .
+ <http://example.org/business/DisneyParks/MobileOrder> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <Disney-CNN-8> .
+ <http://example.org/business/AvengersCampus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <Disney-CNN-8> .
+ <http://example.org/business/DisneyParks/Vaccinations> <http://purl.org/dc/terms/description> "Impacts on Disney Parks operations and future outlook"  <Disney-CNN-8> .
+ <http://example.org/people/JoshDAmaro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-CNN-8> .
+ <http://example.org/business/DisneyPlus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Service> <Disney-CNN-8> .
+ <http://example.org/business/DisneyParks/Vaccinations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Disney-CNN-8> .
+ <http://example.org/business/WaltDisneyWorld> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AmusementPark> <Disney-CNN-8> .
+ <http://example.org/concept/Metaverse> <http://schema.org/name> "metaverse"  <Disney-CNN-8> .
+ <http://example.org/business/DisneyParks/ReservationSystem> <http://schema.org/name> "New reservation system"  <Disney-CNN-8> .
+ <http://example.org/people/JoshDAmaro> <http://xmlns.com/foaf/0.1/member> <http://example.org/business/Disneyland> <Disney-CNN-8> .
+ <http://example.org/business/Disneyland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AmusementPark> <Disney-CNN-8> .
+ <http://example.org/business/DisneyParks/ReservationSystem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <Disney-CNN-8> .
+ <http://example.org/business/DisneyParks/CastMembers> <http://schema.org/name> "Disney Parks cast members"  <Disney-CNN-8> .
+ <http://example.org/business/DisneyPlus> <http://schema.org/name> "Disney+"  <Disney-CNN-8> .
+ <http://example.org/business/AvengersCampus> <http://schema.org/name> "Avengers Campus"  <Disney-CNN-8> .
+ <http://example.org/business/CNN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Disney-CNN-8> .
+ <http://example.org/business/Disneyland> <http://purl.org/dc/terms/description> "Plans to reopen later this month"  <Disney-CNN-8> .
+ <http://example.org/business/DisneyParks/CastMembers> <http://purl.org/dc/terms/description> "More than 10,000 cast members being brought back at the Disneyland Resort, Walt Disney World continues to bring cast members back"  <Disney-CNN-8> .
+ <http://example.org/business/DisneyParks/ReservationSystem> <http://purl.org/dc/terms/description> "Implemented during the Covid situation"  <Disney-CNN-8> .
+ <http://example.org/business/DisneyParks/MobileOrder> <http://schema.org/name> "Mobile order"  <Disney-CNN-8> .
+ <http://example.org/business/DisneyParks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Disney-CNN-8> .
+ <http://example.org/business/CNN> <http://schema.org/name> "CNN Business"  <Disney-CNN-8> .
+ <http://example.org/business/AvengersCampus> <http://purl.org/dc/terms/description> "A campus that will never be done, as new stories and characters from Marvel continue to emerge"  <Disney-CNN-8> .
+ <http://example.org/business/WaltDisneyWorld> <http://schema.org/name> "Walt Disney World"  <Disney-CNN-8> .
+ <http://example.org/concept/Metaverse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> <Disney-CNN-8> .
+ <http://example.org/business/DisneyParks> <http://schema.org/name> "Disney Parks and Resorts"  <Disney-CNN-8> .
+ <http://example.org/business/WaltDisneyWorld> <http://purl.org/dc/terms/description> "Celebrating its 50th anniversary this year"  <Disney-CNN-8> .
+ <http://example.org/business/DisneyParks> <http://purl.org/dc/terms/description> "Thinking about the next 50 years"  <Disney-CNN-8> .
+ <http://example.org/business/DisneyPlus> <http://purl.org/dc/terms/description> "Streaming service, primary focus for Disney"  <Disney-CNN-8> .
+ <http://example.org/business/DisneyParks/Layoffs> <http://purl.org/dc/terms/description> "Roughly 30,000 employees laid off in September"  <Disney-CNN-8> .
+ <http://example.org/concept/Metaverse> <http://purl.org/dc/terms/description> "An opportunity to bring assets into a digital framework"  <Disney-CNN-8> .
+ <http://example.org/business/DisneyParks/Vaccinations> <http://schema.org/name> "Vaccinations ramping up"  <Disney-CNN-8> .
+ <http://example.org/business/DisneyParks/Layoffs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Disney-CNN-8> .
+ <http://example.org/people/JoshDAmaro> <http://schema.org/jobTitle> "Disney Parks Chairman"  <Disney-CNN-8> .
+ <http://example.org/people/JoshDAmaro> <http://purl.org/dc/terms/description> "Became chairman last May"  <Disney-CNN-8> .
+ <http://example.org/ns#AliciaStella> <http://example.org/ns#blogName> "Orlando Park Stop"  <Disney-CNN-9> .
+ <http://example.org/ns#Disney> <http://schema.org/description> "Disney is greatly expanding its investment into theme parks and cruises."  <Disney-CNN-9> .
+ <http://example.org/ns#Disney> <http://example.org/ns#investmentPeriod> "Over the next 10 years"^^<http://www.w3.org/2001/XMLSchema#string>  <Disney-CNN-9> .
+ <http://example.org/ns#Disney> <http://example.org/ns#revenueChallenges> "facing revenue challenges in its streaming services, movie and television assets"  <Disney-CNN-9> .
+ <http://example.org/ns#Disney> <http://example.org/ns#IPuse> "relies on its formidable trove of intellectual property"  <Disney-CNN-9> .
+ <http://example.org/ns#Disney> <http://example.org/ns#legalConflict> "ongoing legal conflict with Florida Governor Ron DeSantis"  <Disney-CNN-9> .
+ <http://example.org/ns#UniversalEpicUniverse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AmusementPark> <Disney-CNN-9> .
+ <http://example.org/ns#AliciaStella> <http://schema.org/jobTitle> "Blogger"  <Disney-CNN-9> .
+ <http://example.org/ns#KevinLansberry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-CNN-9> .
+ <http://example.org/ns#Disney> <http://example.org/ns#investorSummitDate> "this week"^^<http://www.w3.org/2001/XMLSchema#string>  <Disney-CNN-9> .
+ <http://example.org/ns#HoracioVillalobos> <http://xmlns.com/foaf/0.1/name> "Horacio Villalobos"  <Disney-CNN-9> .
+ <http://example.org/ns#BobIger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-CNN-9> .
+ <http://example.org/ns#RicardoRamirezBuxeda> <http://example.org/ns#photoDate> "Aug. 16, 2022"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-CNN-9> .
+ <http://example.org/ns#JoshDAmaro> <http://schema.org/jobTitle> "Chairman of Disney Parks, Experiences and Products"  <Disney-CNN-9> .
+ <http://example.org/ns#RicardoRamirezBuxeda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-CNN-9> .
+ <http://example.org/ns#Disney> <http://example.org/ns#investmentAmount> "$60 billion"^^<http://www.w3.org/2001/XMLSchema#string>  <Disney-CNN-9> .
+ <http://example.org/ns#DisneyDreamCruiseShip> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Ship> <Disney-CNN-9> .
+ <http://example.org/ns#BobIger> <http://schema.org/comment> "CEO Bob Iger said, during the same call, that parks in Asia are doing 'exceptionally well'."  <Disney-CNN-9> .
+ <http://example.org/ns#Disney> <http://example.org/ns#characterExamples> "Avengers, Star Wars, Frozen, Wakanda, Coco"  <Disney-CNN-9> .
+ <http://example.org/ns#UniversalEpicUniverse> <http://dbpedia.org/ontology/location> <http://example.org/ns#OrlandoFlorida> <Disney-CNN-9> .
+ <http://example.org/ns#Disney> <http://example.org/ns#cruiseShipExpansion> "expansion of its fleet of cruise ships"  <Disney-CNN-9> .
+ <http://example.org/ns#OrlandoFlorida> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <Disney-CNN-9> .
+ <http://example.org/ns#HoracioVillalobos> <http://schema.org/jobTitle> "Photographer"  <Disney-CNN-9> .
+ <http://example.org/ns#JoshDAmaro> <http://xmlns.com/foaf/0.1/name> "Josh D’Amaro"  <Disney-CNN-9> .
+ <http://example.org/ns#KevinLansberry> <http://schema.org/jobTitle> "Interim CFO"  <Disney-CNN-9> .
+ <http://example.org/ns#KevinLansberry> <http://xmlns.com/foaf/0.1/name> "Kevin Lansberry"  <Disney-CNN-9> .
+ <http://example.org/ns#DisneyStock> <http://schema.org/name> "Disney stock"  <Disney-CNN-9> .
+ <http://example.org/ns#AliciaStella> <http://xmlns.com/foaf/0.1/name> "Alicia Stella"  <Disney-CNN-9> .
+ <http://example.org/ns#Disney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Disney-CNN-9> .
+ <http://example.org/ns#RicardoRamirezBuxeda> <http://example.org/ns#photoLocation> <http://example.org/ns#OrlandoFlorida> <Disney-CNN-9> .
+ <http://example.org/ns#DisneyDreamCruiseShip> <http://schema.org/name> "The Disney Dream cruise ship"  <Disney-CNN-9> .
+ <http://example.org/ns#UniversalEpicUniverse> <http://example.org/ns#parkNumber> "third theme park within the Universal Orlando Resort"  <Disney-CNN-9> .
+ <http://example.org/ns#Disney> <http://example.org/ns#streamingBusinessLosses> "working to stem losses in particular in its streaming business"  <Disney-CNN-9> .
+ <http://example.org/ns#UniversalEpicUniverse> <http://dbpedia.org/ontology/openingYear> "2025"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Disney-CNN-9> .
+ <http://example.org/ns#Disney> <http://example.org/ns#themeParkStrategy> "expanding and enhancing"  <Disney-CNN-9> .
+ <http://example.org/ns#RicardoRamirezBuxeda> <http://schema.org/jobTitle> "Photographer"  <Disney-CNN-9> .
+ <http://example.org/ns#Disney> <http://example.org/ns#AsiaParksPerformance> "exceptionally well"  <Disney-CNN-9> .
+ <http://example.org/ns#RicardoRamirezBuxeda> <http://xmlns.com/foaf/0.1/name> "Ricardo Ramirez Buxeda"  <Disney-CNN-9> .
+ <http://example.org/ns#Disney> <http://example.org/ns#DisneylandForwardProject> "Disneyland Forward"  <Disney-CNN-9> .
+ <http://example.org/ns#KevinLansberry> <http://example.org/ns#earningsCallDate> "August"^^<http://www.w3.org/2001/XMLSchema#gMonth>  <Disney-CNN-9> .
+ <http://example.org/ns#UniversalEpicUniverse> <http://example.org/ns#features> "restaurants, hotels, rides"  <Disney-CNN-9> .
+ <http://example.org/ns#Disney> <http://example.org/ns#WaltDisneyWorldPerformance> "softer performance"  <Disney-CNN-9> .
+ <http://example.org/ns#AliciaStella> <http://schema.org/comment> "noted Alicia Stella, who runs the theme park blog Orlando Park Stop."  <Disney-CNN-9> .
+ <http://example.org/ns#UniversalEpicUniverse> <http://example.org/ns#announcementYear> "2019"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Disney-CNN-9> .
+ <http://example.org/ns#JoshDAmaro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-CNN-9> .
+ <http://example.org/ns#JoshDAmaro> <http://schema.org/comment> "noted Josh D’Amaro, chairman of Disney Parks, Experiences and Products."  <Disney-CNN-9> .
+ <http://example.org/ns#DisneyStock> <http://example.org/ns#tradingPerformance> "slumped about 3% during trading hours Tuesday"  <Disney-CNN-9> .
+ <http://example.org/ns#Disney> <http://schema.org/name> "Disney"  <Disney-CNN-9> .
+ <http://example.org/ns#OrlandoFlorida> <http://schema.org/name> "Orlando, Florida"  <Disney-CNN-9> .
+ <http://example.org/ns#BobIger> <http://xmlns.com/foaf/0.1/name> "Bob Iger"  <Disney-CNN-9> .
+ <http://example.org/ns#BobIger> <http://example.org/ns#earningsCallDate> "August"^^<http://www.w3.org/2001/XMLSchema#gMonth>  <Disney-CNN-9> .
+ <http://example.org/ns#RicardoRamirezBuxeda> <http://example.org/ns#photoSubject> <http://example.org/ns#UniversalEpicUniverse> <Disney-CNN-9> .
+ <http://example.org/ns#Disney> <http://example.org/ns#SECfilingDate> "Tuesday"^^<http://www.w3.org/2001/XMLSchema#string>  <Disney-CNN-9> .
+ <http://example.org/ns#UniversalEpicUniverse> <http://schema.org/description> "Universal Epic Universe is slated to open in Orlando, Florida in 2025."  <Disney-CNN-9> .
+ <http://example.org/ns#AliciaStella> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-CNN-9> .
+ <http://example.org/ns#KevinLansberry> <http://schema.org/comment> "Interim CFO Kevin Lansberry said during the company’s third-quarter earnings call in August."  <Disney-CNN-9> .
+ <http://example.org/ns#Disney> <http://example.org/ns#ticketPriceIncrease> "increased some ticket prices twice last year"  <Disney-CNN-9> .
+ <http://example.org/ns#Disney> <http://example.org/ns#investmentSegment> "Disney Parks, Experiences and Products"  <Disney-CNN-9> .
+ <http://example.org/ns#DisneyStock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Disney-CNN-9> .
+ <http://example.org/ns#Disney> <http://example.org/ns#landForDevelopment> "over 1,000 acres of land for possible future development"  <Disney-CNN-9> .
+ <http://example.org/ns#BobIger> <http://schema.org/jobTitle> "CEO"  <Disney-CNN-9> .
+ <http://example.org/ns#HoracioVillalobos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-CNN-9> .

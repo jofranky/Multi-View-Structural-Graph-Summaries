@@ -1,0 +1,633 @@
+ <http://example.org/XVerificationSystem> <http://schema.org/description> "Verification system based on monthly payment for blue tick"  <Twitter-euronews-0> .
+ <http://example.org/Twitter> <http://dbpedia.org/ontology/acquisitionDate> "2022-10-27"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-euronews-0> .
+ <http://example.org/Bluesky> <http://dbpedia.org/ontology/foundingDate> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Twitter-euronews-0> .
+ <http://example.org/ElonMusk> <http://xmlns.com/foaf/0.1/name> "Elon Musk"  <Twitter-euronews-0> .
+ <http://example.org/ThierryBreton> <http://dbpedia.org/ontology/occupation> "EU’s digital rights chief"  <Twitter-euronews-0> .
+ <http://example.org/Threads> <http://dbpedia.org/ontology/numberOfUsers> "100000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-euronews-0> .
+ <http://example.org/TwitterRebranding> <http://schema.org/description> "Plan to become an 'everything app'"  <Twitter-euronews-0> .
+ <http://example.org/ElonMusk> <http://dbpedia.org/ontology/company> <http://dbpedia.org/resource/Tesla_Inc> <Twitter-euronews-0> .
+ <http://example.org/TwitterRebranding> <http://schema.org/name> "Twitter becomes X"  <Twitter-euronews-0> .
+ <http://example.org/Threads> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <Twitter-euronews-0> .
+ <http://example.org/Twitter> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Social_media> <Twitter-euronews-0> .
+ <http://example.org/TwitterVerificationSystem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> <Twitter-euronews-0> .
+ <http://example.org/Threads> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/Meta_Platforms> <Twitter-euronews-0> .
+ <http://example.org/Twitter> <http://schema.org/legalName> "X"  <Twitter-euronews-0> .
+ <http://example.org/JackDorsey> <http://xmlns.com/foaf/0.1/name> "Jack Dorsey"  <Twitter-euronews-0> .
+ <http://example.org/TwitterVerificationSystem> <http://schema.org/description> "Verification system based on human vetting and assessment of notability"  <Twitter-euronews-0> .
+ <http://example.org/ElonMusk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-euronews-0> .
+ <http://example.org/EURegulation> <http://schema.org/author> "European Union"  <Twitter-euronews-0> .
+ <http://example.org/ThierryBreton> <http://xmlns.com/foaf/0.1/name> "Thierry Breton"  <Twitter-euronews-0> .
+ <http://example.org/Bluesky> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-euronews-0> .
+ <http://example.org/EURegulation> <http://schema.org/name> "EU's new digital rules"  <Twitter-euronews-0> .
+ <http://example.org/JackDorsey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-euronews-0> .
+ <http://example.org/Threads> <http://schema.org/dateCreated> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Twitter-euronews-0> .
+ <http://example.org/ElonMusk> <http://dbpedia.org/ontology/company> <http://dbpedia.org/resource/SpaceX> <Twitter-euronews-0> .
+ <http://example.org/Twitter> <http://dbpedia.org/ontology/acquisitionPrice> "44000000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-euronews-0> .
+ <http://example.org/Twitter> <http://schema.org/founder> <http://example.org/ElonMusk> <Twitter-euronews-0> .
+ <http://example.org/Bluesky> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Social_media> <Twitter-euronews-0> .
+ <http://example.org/MattNavarra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-euronews-0> .
+ <http://example.org/JackDorsey> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Entrepreneur> <Twitter-euronews-0> .
+ <http://example.org/LindaYaccarino> <http://xmlns.com/foaf/0.1/name> "Linda Yaccarino"  <Twitter-euronews-0> .
+ <http://example.org/EURegulation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Legislation> <Twitter-euronews-0> .
+ <http://example.org/ThierryBreton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-euronews-0> .
+ <http://example.org/LindaYaccarino> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Chief_Executive_Officer> <Twitter-euronews-0> .
+ <http://example.org/LindaYaccarino> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-euronews-0> .
+ <http://example.org/LindaYaccarino> <http://dbpedia.org/ontology/company> <http://example.org/Twitter> <Twitter-euronews-0> .
+ <http://example.org/JackDorsey> <http://dbpedia.org/ontology/boardMember> <http://example.org/Bluesky> <Twitter-euronews-0> .
+ <http://example.org/Twitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-euronews-0> .
+ <http://example.org/TwitterRebranding> <http://schema.org/startDate> "2023-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Twitter-euronews-0> .
+ <http://example.org/MattNavarra> <http://xmlns.com/foaf/0.1/name> "Matt Navarra"  <Twitter-euronews-0> .
+ <http://example.org/XVerificationSystem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> <Twitter-euronews-0> .
+ <http://example.org/TwitterRebranding> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Twitter-euronews-0> .
+ <http://example.org/MattNavarra> <http://dbpedia.org/ontology/occupation> "Social media strategist and commentator"  <Twitter-euronews-0> .
+ <http://example.org/ElonMusk> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Chief_Executive_Officer> <Twitter-euronews-0> .
+ <http://example.org/ontology#EstimatedCosts> <http://example.org/ontology#amount> "10800000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Twitter-euronews-1> .
+ <http://example.org/ontology#AustrianMinistryOfJustice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#GovernmentOrganization> <Twitter-euronews-1> .
+ <http://example.org/ontology#ConvictionDisregardAndPardon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Action> <Twitter-euronews-1> .
+ <http://example.org/ontology#AlmaZadic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-euronews-1> .
+ <http://example.org/ontology#EstimatedCosts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FinancialEstimation> <Twitter-euronews-1> .
+ <http://example.org/ontology#CompensationAct> <http://example.org/ontology#estimatedApplications> "11000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-euronews-1> .
+ <http://example.org/ontology#Spain> <http://example.org/ontology#action> <http://example.org/ontology#WipedCriminalRecords> <Twitter-euronews-1> .
+ <http://example.org/ontology#Scotland> <http://example.org/ontology#action> <http://example.org/ontology#AutomaticPardon> <Twitter-euronews-1> .
+ <http://example.org/ontology#Germany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Country> <Twitter-euronews-1> .
+ <http://example.org/ontology#WipedConvictionsAndCompensated> <http://www.w3.org/2000/01/rdf-schema#label> "Wiped convictions and financially compensated"  <Twitter-euronews-1> .
+ <http://example.org/ontology#CompensationAct> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Legislation> <Twitter-euronews-1> .
+ <http://example.org/ontology#UK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Country> <Twitter-euronews-1> .
+ <http://example.org/ontology#EstimatedCosts> <http://example.org/ontology#year> "2024"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Twitter-euronews-1> .
+ <http://example.org/ontology#WipedConvictionsAndCompensated> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Action> <Twitter-euronews-1> .
+ <http://example.org/ontology#CompensationAct> <http://example.org/ontology#estimatedCosts> <http://example.org/ontology#EstimatedCosts> <Twitter-euronews-1> .
+ <http://example.org/ontology#ConvictedIndividuals> <http://www.w3.org/2000/01/rdf-schema#label> "Individuals wrongly convicted for homosexual acts"  <Twitter-euronews-1> .
+ <http://example.org/ontology#Germany> <http://example.org/ontology#action> <http://example.org/ontology#WipedConvictionsAndCompensated> <Twitter-euronews-1> .
+ <http://example.org/ontology#UK> <http://example.org/ontology#action> <http://example.org/ontology#ConvictionDisregardAndPardon> <Twitter-euronews-1> .
+ <http://example.org/ontology#WipedCriminalRecords> <http://www.w3.org/2000/01/rdf-schema#label> "Wiped the criminal records"  <Twitter-euronews-1> .
+ <http://example.org/ontology#AnnSophieOtte> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-euronews-1> .
+ <http://example.org/ontology#Rechtskomitee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#LGBTQRightsOrganization> <Twitter-euronews-1> .
+ <http://example.org/ontology#ConvictedIndividuals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Group> <Twitter-euronews-1> .
+ <http://example.org/ontology#CompensationAct> <http://purl.org/dc/terms/title> "Rehabilitation and Compensation Act"  <Twitter-euronews-1> .
+ <http://example.org/ontology#Rechtskomitee> <http://www.w3.org/2000/01/rdf-schema#label> "Rechtskomitee"  <Twitter-euronews-1> .
+ <http://example.org/ontology#Spain> <http://www.w3.org/2000/01/rdf-schema#label> "Spain"  <Twitter-euronews-1> .
+ <http://example.org/ontology#AutomaticPardon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Action> <Twitter-euronews-1> .
+ <http://example.org/ontology#InstrumentalRole> <http://www.w3.org/2000/01/rdf-schema#label> "Instrumental role in repealing criminal codes up until 2002"  <Twitter-euronews-1> .
+ <http://example.org/ontology#AlmaZadic> <http://example.org/ontology#worksFor> <http://example.org/ontology#AustrianMinistryOfJustice> <Twitter-euronews-1> .
+ <http://example.org/ontology#InstrumentalRole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Role> <Twitter-euronews-1> .
+ <http://example.org/ontology#UK> <http://www.w3.org/2000/01/rdf-schema#label> "United Kingdom"  <Twitter-euronews-1> .
+ <http://example.org/ontology#AnnSophieOtte> <http://xmlns.com/foaf/0.1/name> "Ann-Sophie Otte"  <Twitter-euronews-1> .
+ <http://example.org/ontology#WipedCriminalRecords> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Action> <Twitter-euronews-1> .
+ <http://example.org/ontology#AustrianGovernment> <http://www.w3.org/2000/01/rdf-schema#label> "Austrian government"  <Twitter-euronews-1> .
+ <http://example.org/ontology#AlmaZadic> <http://xmlns.com/foaf/0.1/title> "Minister of Justice"  <Twitter-euronews-1> .
+ <http://example.org/ontology#CompensationAct> <http://example.org/ontology#totalFund> "33000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Twitter-euronews-1> .
+ <http://example.org/ontology#AustrianGovernment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#GovernmentOrganization> <Twitter-euronews-1> .
+ <http://example.org/ontology#EuropeanCourtOfHumanRights> <http://www.w3.org/2000/01/rdf-schema#label> "European Court of Human Rights"  <Twitter-euronews-1> .
+ <http://example.org/ontology#Germany> <http://www.w3.org/2000/01/rdf-schema#label> "Germany"  <Twitter-euronews-1> .
+ <http://example.org/ontology#NationalBudget2024> <http://example.org/ontology#includes> <http://example.org/ontology#CompensationAct> <Twitter-euronews-1> .
+ <http://example.org/ontology#Scotland> <http://www.w3.org/2000/01/rdf-schema#label> "Scotland"  <Twitter-euronews-1> .
+ <http://example.org/ontology#EuropeanCourtOfHumanRights> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Court> <Twitter-euronews-1> .
+ <http://example.org/ontology#HomosexualInitiativeVienna> <http://www.w3.org/2000/01/rdf-schema#label> "Homosexual Initiative in Vienna"  <Twitter-euronews-1> .
+ <http://example.org/ontology#CompensationAct> <http://example.org/ontology#compensationPerYearInJail> "1500"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Twitter-euronews-1> .
+ <http://example.org/ontology#AlmaZadic> <http://xmlns.com/foaf/0.1/name> "Alma Zadic"  <Twitter-euronews-1> .
+ <http://example.org/ontology#EstimatedCosts> <http://example.org/ontology#followingYearsAmount> "3000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Twitter-euronews-1> .
+ <http://example.org/ontology#Rechtskomitee> <http://example.org/ontology#roleInRepeal> <http://example.org/ontology#InstrumentalRole> <Twitter-euronews-1> .
+ <http://example.org/ontology#AustrianMinistryOfJustice> <http://www.w3.org/2000/01/rdf-schema#label> "Austrian Ministry of Justice"  <Twitter-euronews-1> .
+ <http://example.org/ontology#Spain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Country> <Twitter-euronews-1> .
+ <http://example.org/ontology#AutomaticPardon> <http://www.w3.org/2000/01/rdf-schema#label> "Automatic pardon"  <Twitter-euronews-1> .
+ <http://example.org/ontology#CompensationAct> <http://example.org/ontology#partOfBudget> <http://example.org/ontology#NationalBudget2024> <Twitter-euronews-1> .
+ <http://example.org/ontology#CompensationAct> <http://example.org/ontology#compensationPerInvestigation> "500"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Twitter-euronews-1> .
+ <http://example.org/ontology#AnnSophieOtte> <http://example.org/ontology#position> "Chairwoman"  <Twitter-euronews-1> .
+ <http://example.org/ontology#ConvictionDisregardAndPardon> <http://www.w3.org/2000/01/rdf-schema#label> "Conviction disregard and pardon"  <Twitter-euronews-1> .
+ <http://example.org/ontology#NationalBudget2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FinancialPlan> <Twitter-euronews-1> .
+ <http://example.org/ontology#HomosexualInitiativeVienna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Organization> <Twitter-euronews-1> .
+ <http://example.org/ontology#CompensationAct> <http://purl.org/dc/terms/description> "A legislation to compensate those wrongly convicted for homosexual acts"  <Twitter-euronews-1> .
+ <http://example.org/ontology#CompensationAct> <http://example.org/ontology#appliesTo> <http://example.org/ontology#ConvictedIndividuals> <Twitter-euronews-1> .
+ <http://example.org/ontology#CompensationAct> <http://example.org/ontology#compensationAmount> "3000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Twitter-euronews-1> .
+ <http://example.org/ontology#AnnSophieOtte> <http://example.org/ontology#memberOf> <http://example.org/ontology#HomosexualInitiativeVienna> <Twitter-euronews-1> .
+ <http://example.org/ontology#Scotland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Country> <Twitter-euronews-1> .
+ <http://example.org/ontology#CompensationAct> <http://example.org/ontology#flatRateCompensation> "1500"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Twitter-euronews-1> .
+ <http://example.org/ontology#NationalBudget2024> <http://purl.org/dc/terms/title> "National budget for the year 2024"  <Twitter-euronews-1> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb10> <http://example.org/focus> "illegal content"  <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb5> <http://example.org/report> <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb6>  <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb9> <http://example.org/inLineWith> "DSA obligations"  <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb4> <http://schema.org/worksFor> <http://example.org/TikTok> <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb10> <http://example.org/focus> "false information"  <Twitter-euronews-2> .
+ <http://example.org/TikTok> <http://example.org/languageCoverage> <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb8>  <Twitter-euronews-2> .
+ <http://example.org/TikTok> <http://schema.org/employee> <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb4>  <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb4> <http://schema.org/additionalName> "650 French speakers"  <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb5> <http://example.org/contentModerationWorkforceEU> "5000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb7> <http://example.org/unit> "hours"  <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-euronews-2> .
+ <http://example.org/EuropeanCommission> <http://example.org/investigation> <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb10>  <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb6> <http://purl.org/dc/terms/issued> "2023-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb10> <http://example.org/targets> "TikTok"  <Twitter-euronews-2> .
+ <http://example.org/EuropeanDigitalServicesAct> <http://example.org/reportingFrequency> "every six months"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/LanguageCoverage> <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb8> <http://example.org/officialLanguagesEU> "24"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb3> <http://schema.org/knowsLanguage> "German"  <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb6> <http://example.org/userReportsReceived> "35000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb10> <http://example.org/targets> "Meta (Facebook and Instagram)"  <Twitter-euronews-2> .
+ <http://example.org/TikTok> <http://schema.org/parentOrganization> <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb1>  <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Twitter-euronews-2> .
+ <http://example.org/EuropeanDigitalServicesAct> <http://example.org/includes> <http://example.org/TikTok> <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb10> <http://example.org/targets> "X (formerly Twitter)"  <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb2> <http://schema.org/jobTitle> "Content Moderator"  <Twitter-euronews-2> .
+ <http://example.org/TikTok> <http://example.org/reportingTool> <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb9>  <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb6> <http://example.org/percentageOfActionsTaken> "16"^^<http://www.w3.org/2001/XMLSchema#percent>  <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb8> <http://example.org/additionalLanguages> "Arabic"  <Twitter-euronews-2> .
+ <http://example.org/EuropeanDigitalServicesAct> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Legislation> <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb2> <http://schema.org/worksFor> <http://example.org/TikTok> <Twitter-euronews-2> .
+ <http://example.org/TikTok> <http://example.org/moderationPolicy> <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb5>  <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb2> <http://schema.org/knowsLanguage> "English"  <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb3> <http://schema.org/additionalName> "860 German speakers"  <Twitter-euronews-2> .
+ <http://example.org/TikTok> <http://schema.org/numberOfEmployees> "40000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb6> <http://example.org/videosRemoved> "4000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb6> <http://example.org/region> "European Union"  <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb10> <http://example.org/context> "attacks by Hamas on Israel"  <Twitter-euronews-2> .
+ <http://example.org/TikTok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb8> <http://example.org/additionalLanguages> "Turkish"  <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Report> <Twitter-euronews-2> .
+ <http://example.org/TikTok> <http://schema.org/employee> <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb3>  <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb1> <http://schema.org/location> "China"  <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb4> <http://schema.org/knowsLanguage> "French"  <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb9> <http://example.org/purpose> "Report illegal content"  <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb7> <http://example.org/median> "13"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb6> <http://example.org/userReportedVideos> "24000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb6> <http://example.org/proactiveRemovals> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <Twitter-euronews-2> .
+ <http://example.org/EuropeanDigitalServicesAct> <http://example.org/affectsPlatforms> "19 very large tech platforms"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-euronews-2> .
+ <http://example.org/TikTok> <http://schema.org/name> "TikTok"  <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/TimePeriod> <Twitter-euronews-2> .
+ <http://example.org/EuropeanDigitalServicesAct> <http://schema.org/name> "European Digital Services Act (DSA)"  <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Investigation> <Twitter-euronews-2> .
+ <http://example.org/EuropeanCommission> <http://schema.org/name> "European Commission"  <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ReportingTool> <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb6> <http://example.org/medianResponseTime> <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb7>  <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb3> <http://schema.org/jobTitle> "Content Moderator"  <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ModerationPolicy> <Twitter-euronews-2> .
+ <http://example.org/TikTok> <http://schema.org/employee> <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb2>  <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb4> <http://schema.org/jobTitle> "Content Moderator"  <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb3> <http://schema.org/worksFor> <http://example.org/TikTok> <Twitter-euronews-2> .
+ <http://Twitter-euronews-2.com/blank#nb523c72ad22248b887a018bdc7d86faeb1> <http://schema.org/name> "ByteDance"  <Twitter-euronews-2> .
+ <http://example.org/EuropeanCommission> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-euronews-2> .
+ <http://example.org/EuropeanDigitalServicesAct> <http://purl.org/dc/terms/effective> "2022-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Twitter-euronews-2> .
+ <http://example.org/ai101#NicholasERochester> <http://dbpedia.org/ontology/affiliation> <http://example.org/ai101#DartmouthConference> <Twitter-euronews-3> .
+ <http://example.org/ai101#SecondGoldenAgeAI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Twitter-euronews-3> .
+ <http://example.org/ai101#AlanTuring> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/England> <Twitter-euronews-3> .
+ <http://example.org/ai101#OpenAI> <http://dbpedia.org/ontology/founder> <http://example.org/ai101#SamAltman> <Twitter-euronews-3> .
+ <http://example.org/ai101#AlanTuring> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-euronews-3> .
+ <http://example.org/ai101#ChatGPT> <http://dbpedia.org/ontology/developer> <http://example.org/ai101#OpenAI> <Twitter-euronews-3> .
+ <http://example.org/ai101#AlanTuring> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Twitter-euronews-3> .
+ <http://example.org/ai101#OpenAI> <http://dbpedia.org/ontology/founder> <http://example.org/ai101#ElonMusk> <Twitter-euronews-3> .
+ <http://example.org/ai101#X> <http://dbpedia.org/ontology/formerName> "Twitter"  <Twitter-euronews-3> .
+ <http://example.org/ai101#CEO_X> <http://dbpedia.org/ontology/company> <http://example.org/ai101#X> <Twitter-euronews-3> .
+ <http://example.org/ai101#FirstGoldenAgeAI> <http://dbpedia.org/ontology/date> "1956"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Twitter-euronews-3> .
+ <http://example.org/ai101#AlanTuring> <http://dbpedia.org/ontology/knownFor> <http://example.org/ai101#TuringTest> <Twitter-euronews-3> .
+ <http://example.org/ai101#TuringTest> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/England> <Twitter-euronews-3> .
+ <http://example.org/ai101#DartmouthConference> <http://dbpedia.org/ontology/date> "1956"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Twitter-euronews-3> .
+ <http://example.org/ai101#TuringTest> <http://dbpedia.org/ontology/date> "1950"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Twitter-euronews-3> .
+ <http://example.org/ai101#DartmouthConference> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Dartmouth_College> <Twitter-euronews-3> .
+ <http://example.org/ai101#OpenAI> <http://dbpedia.org/ontology/product> <http://example.org/ai101#ChatGPT> <Twitter-euronews-3> .
+ <http://example.org/ai101#CEO_X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <Twitter-euronews-3> .
+ <http://example.org/ai101#NicholasERochester> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-euronews-3> .
+ <http://example.org/ai101#NicholasERochester> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Twitter-euronews-3> .
+ <http://example.org/ai101#ElonMusk> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Entrepreneur> <Twitter-euronews-3> .
+ <http://example.org/ai101#TuringTest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Twitter-euronews-3> .
+ <http://example.org/ai101#ChatGPT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <Twitter-euronews-3> .
+ <http://example.org/ai101#ChatGPT> <http://www.w3.org/2000/01/rdf-schema#label> "ChatGPT"  <Twitter-euronews-3> .
+ <http://example.org/ai101#OpenAI> <http://dbpedia.org/ontology/foundingYear> "2015"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Twitter-euronews-3> .
+ <http://example.org/ai101#ElonMusk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-euronews-3> .
+ <http://example.org/ai101#ElonMusk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Twitter-euronews-3> .
+ <http://example.org/ai101#X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Twitter-euronews-3> .
+ <http://example.org/ai101#X> <http://dbpedia.org/ontology/keyPerson> <http://example.org/ai101#ElonMusk> <Twitter-euronews-3> .
+ <http://example.org/ai101#NicholasERochester> <http://xmlns.com/foaf/0.1/name> "Nicholas E. Rochester"  <Twitter-euronews-3> .
+ <http://example.org/ai101#ElonMusk> <http://xmlns.com/foaf/0.1/name> "Elon Musk"  <Twitter-euronews-3> .
+ <http://example.org/ai101#FirstGoldenAgeAI> <http://dbpedia.org/ontology/abstract> "The first golden age of AI, marked by investments in research."  <Twitter-euronews-3> .
+ <http://example.org/ai101#AlanTuring> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Mathematician> <Twitter-euronews-3> .
+ <http://example.org/ai101#SamAltman> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Entrepreneur> <Twitter-euronews-3> .
+ <http://example.org/ai101#OpenAI> <http://dbpedia.org/ontology/keyPerson> <http://example.org/ai101#SamAltman> <Twitter-euronews-3> .
+ <http://example.org/ai101#DartmouthConference> <http://dbpedia.org/ontology/abstract> "Conference where AI became a scientific field."  <Twitter-euronews-3> .
+ <http://example.org/ai101#SamAltman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-euronews-3> .
+ <http://example.org/ai101#AlanTuring> <http://dbpedia.org/ontology/birthDate> "1912-06-23"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-euronews-3> .
+ <http://example.org/ai101#SecondGoldenAgeAI> <http://dbpedia.org/ontology/abstract> "The second golden age of AI, marked by the era of Big Data."  <Twitter-euronews-3> .
+ <http://example.org/ai101#SamAltman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Twitter-euronews-3> .
+ <http://example.org/ai101#Episode1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionEpisode> <Twitter-euronews-3> .
+ <http://example.org/ai101#SamAltman> <http://xmlns.com/foaf/0.1/name> "Sam Altman"  <Twitter-euronews-3> .
+ <http://example.org/ai101#DartmouthConference> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Twitter-euronews-3> .
+ <http://example.org/ai101#OpenAI> <http://dbpedia.org/ontology/keyPerson> <http://example.org/ai101#ElonMusk> <Twitter-euronews-3> .
+ <http://example.org/ai101#TuringTest> <http://dbpedia.org/ontology/abstract> "A game to demonstrate that a machine could simulate human intelligence."  <Twitter-euronews-3> .
+ <http://example.org/ai101#Episode1> <http://dbpedia.org/ontology/abstract> "Explore the history of AI from Alan Turing's test to the advent of ChatGPT."  <Twitter-euronews-3> .
+ <http://example.org/ai101#SecondGoldenAgeAI> <http://dbpedia.org/ontology/date> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Twitter-euronews-3> .
+ <http://example.org/ai101#OpenAI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Twitter-euronews-3> .
+ <http://example.org/ai101#FirstGoldenAgeAI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Twitter-euronews-3> .
+ <http://example.org/ai101#CEO_X> <http://dbpedia.org/ontology/title> "CEO of X"  <Twitter-euronews-3> .
+ <http://example.org/ai101#AlanTuring> <http://xmlns.com/foaf/0.1/name> "Alan Turing"  <Twitter-euronews-3> .
+ <http://example.org/ai101#AlanTuring> <http://dbpedia.org/ontology/deathDate> "1954-06-07"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-euronews-3> .
+ <http://example.org/ai101#ElonMusk> <http://dbpedia.org/ontology/position> <http://example.org/ai101#CEO_X> <Twitter-euronews-3> .
+ <http://example.org/ai101#NicholasERochester> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Scientist> <Twitter-euronews-3> .
+ <http://example.org/ai101#Episode1> <http://dbpedia.org/ontology/title> "AI 101 series: Episode 1"  <Twitter-euronews-3> .
+ <http://example.org/Russia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <Twitter-euronews-4> .
+ <http://example.org/SurgeInMisinformation> <http://schema.org/name> "Surge in misinformation online"  <Twitter-euronews-4> .
+ <http://example.org/SocialMedia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/DigitalPlatform> <Twitter-euronews-4> .
+ <http://example.org/InstituteForStrategicDialogue> <http://schema.org/location> <http://example.org/UnitedKingdom> <Twitter-euronews-4> .
+ <http://example.org/GlorificationOfViolence> <http://schema.org/name> "Glorification of violence by Iranian state-affiliated accounts"  <Twitter-euronews-4> .
+ <http://example.org/GlorificationOfViolence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Twitter-euronews-4> .
+ <http://example.org/InstituteForStrategicDialogue> <http://schema.org/description> "UK-based think tank that monitors the spread of extremism and misinformation online"  <Twitter-euronews-4> .
+ <http://example.org/AlAhliHospital> <http://schema.org/location> <http://example.org/GazaCity> <Twitter-euronews-4> .
+ <http://example.org/ChineseStateAgents> <http://schema.org/affiliation> <http://example.org/China> <Twitter-euronews-4> .
+ <http://example.org/RussianStateAgents> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-euronews-4> .
+ <http://example.org/Report> <http://purl.org/dc/elements/1.1/title> "Geopolitical Agenda Advancement by China, Russia, and Iran"  <Twitter-euronews-4> .
+ <http://example.org/Report> <http://schema.org/mentions> <http://example.org/China> <Twitter-euronews-4> .
+ <http://example.org/Toronto> <http://schema.org/name> "Toronto"  <Twitter-euronews-4> .
+ <http://example.org/Report> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Report> <Twitter-euronews-4> .
+ <http://example.org/HamasAttack> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Twitter-euronews-4> .
+ <http://example.org/PromotionOfHate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Twitter-euronews-4> .
+ <http://example.org/IranianStateAgents> <http://schema.org/affiliation> <http://example.org/Iran> <Twitter-euronews-4> .
+ <http://example.org/NeutralPostsOnFacebook> <http://schema.org/name> "Neutral posts on Facebook by Chinese state media accounts"  <Twitter-euronews-4> .
+ <http://example.org/JuliaSmirnova> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Twitter-euronews-4> .
+ <http://example.org/Report> <http://schema.org/mentions> <http://example.org/Russia> <Twitter-euronews-4> .
+ <http://example.org/AntiWesternNarrative> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Twitter-euronews-4> .
+ <http://example.org/InformationChaos> <http://schema.org/name> "Information chaos around the Israel-Hamas war"  <Twitter-euronews-4> .
+ <http://example.org/ArlynMcAdorey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Twitter-euronews-4> .
+ <http://example.org/Russia> <http://schema.org/name> "Russia"  <Twitter-euronews-4> .
+ <http://example.org/AlAhliHospital> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Hospital> <Twitter-euronews-4> .
+ <http://example.org/Facebook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/DigitalPlatform> <Twitter-euronews-4> .
+ <http://example.org/InformationChaos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Twitter-euronews-4> .
+ <http://example.org/AntiWesternNarrative> <http://schema.org/name> "Russian state-affiliated accounts pushing anti-Western narrative"  <Twitter-euronews-4> .
+ <http://example.org/HospitalDestruction> <http://schema.org/description> "Hospital in Gaza City destroyed on 17 October, with hundreds of civilian casualties"  <Twitter-euronews-4> .
+ <http://example.org/AlAhliHospital> <http://schema.org/event> <http://example.org/HospitalDestruction> <Twitter-euronews-4> .
+ <http://example.org/HospitalDestruction> <http://schema.org/startDate> "2023-10-17"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-euronews-4> .
+ <http://example.org/Report> <http://schema.org/about> <http://example.org/IsraelHamasWar> <Twitter-euronews-4> .
+ <http://example.org/Russia> <http://example.org/uses> <http://example.org/InformationChaos> <Twitter-euronews-4> .
+ <http://example.org/InstituteForStrategicDialogue> <http://schema.org/name> "Institute for Strategic Dialogue (ISD)"  <Twitter-euronews-4> .
+ <http://example.org/TorontoMarch> <http://schema.org/startDate> "2023-10-09"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-euronews-4> .
+ <http://example.org/Toronto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/City> <Twitter-euronews-4> .
+ <http://example.org/RussianStateAgents> <http://schema.org/affiliation> <http://example.org/Russia> <Twitter-euronews-4> .
+ <http://example.org/Iran> <http://example.org/uses> <http://example.org/InformationChaos> <Twitter-euronews-4> .
+ <http://example.org/HospitalDestruction> <http://schema.org/name> "Destruction of Al-Ahli Hospital"  <Twitter-euronews-4> .
+ <http://example.org/HamasAttack> <http://schema.org/name> "Hamas attack on Israel"  <Twitter-euronews-4> .
+ <http://example.org/TorontoMarch> <http://schema.org/publisher> <http://example.org/TheCanadianPress> <Twitter-euronews-4> .
+ <http://example.org/X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/DigitalPlatform> <Twitter-euronews-4> .
+ <http://example.org/UnitedKingdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <Twitter-euronews-4> .
+ <http://example.org/InstituteForStrategicDialogue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-euronews-4> .
+ <http://example.org/TorontoMarch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Twitter-euronews-4> .
+ <http://example.org/TorontoMarch> <http://schema.org/location> <http://example.org/Toronto> <Twitter-euronews-4> .
+ <http://example.org/X> <http://schema.org/name> "X (formerly Twitter)"  <Twitter-euronews-4> .
+ <http://example.org/ChineseStateAgents> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-euronews-4> .
+ <http://example.org/SurgeInHateSpeech> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Twitter-euronews-4> .
+ <http://example.org/PromotionOfHate> <http://schema.org/name> "Promotion of hate by state agents"  <Twitter-euronews-4> .
+ <http://example.org/TheCanadianPress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-euronews-4> .
+ <http://example.org/JuliaSmirnova> <http://schema.org/name> "Julia Smirnova"  <Twitter-euronews-4> .
+ <http://example.org/SurgeInMisinformation> <http://schema.org/relatedTo> <http://example.org/IsraelHamasWar> <Twitter-euronews-4> .
+ <http://example.org/HamasAttack> <http://schema.org/startDate> "2023-10-07"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-euronews-4> .
+ <http://example.org/UnitedKingdom> <http://schema.org/name> "United Kingdom"  <Twitter-euronews-4> .
+ <http://example.org/HospitalDestruction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Twitter-euronews-4> .
+ <http://example.org/TorontoMarch> <http://schema.org/contributor> <http://example.org/ArlynMcAdorey> <Twitter-euronews-4> .
+ <http://example.org/CCP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-euronews-4> .
+ <http://example.org/Iran> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <Twitter-euronews-4> .
+ <http://example.org/SurgeInHateSpeech> <http://schema.org/name> "Surge in hate and violent speech"  <Twitter-euronews-4> .
+ <http://example.org/China> <http://example.org/uses> <http://example.org/InformationChaos> <Twitter-euronews-4> .
+ <http://example.org/IsraelHamasWar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Twitter-euronews-4> .
+ <http://example.org/PalestinianIslamicJihad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-euronews-4> .
+ <http://example.org/IranianStateAgents> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-euronews-4> .
+ <http://example.org/SurgeInHateSpeech> <http://schema.org/relatedTo> <http://example.org/IsraelHamasWar> <Twitter-euronews-4> .
+ <http://example.org/SurgeInMisinformation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Twitter-euronews-4> .
+ <http://example.org/JuliaSmirnova> <http://schema.org/jobTitle> "Senior Analyst"  <Twitter-euronews-4> .
+ <http://example.org/IsraelHamasWar> <http://schema.org/name> "Israel-Hamas war"  <Twitter-euronews-4> .
+ <http://example.org/FalseClaimsSpread> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Twitter-euronews-4> .
+ <http://example.org/FalseInformationSpreadByRussianMedia> <http://schema.org/name> "Russian state media spreading false information"  <Twitter-euronews-4> .
+ <http://example.org/Iran> <http://schema.org/name> "Iran"  <Twitter-euronews-4> .
+ <http://example.org/AlAhliHospital> <http://schema.org/name> "Al-Ahli Hospital"  <Twitter-euronews-4> .
+ <http://example.org/DenouncementOnX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Twitter-euronews-4> .
+ <http://example.org/SocialMedia> <http://schema.org/name> "Social media"  <Twitter-euronews-4> .
+ <http://example.org/Report> <http://schema.org/datePublished> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Twitter-euronews-4> .
+ <http://example.org/GazaCity> <http://schema.org/name> "Gaza City"  <Twitter-euronews-4> .
+ <http://example.org/TheCanadianPress> <http://schema.org/name> "The Canadian Press"  <Twitter-euronews-4> .
+ <http://example.org/Report> <http://schema.org/author> <http://example.org/InstituteForStrategicDialogue> <Twitter-euronews-4> .
+ <http://example.org/NeutralPostsOnFacebook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Twitter-euronews-4> .
+ <http://example.org/China> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <Twitter-euronews-4> .
+ <http://example.org/PalestinianIslamicJihad> <http://schema.org/name> "Palestinian Islamic Jihad"  <Twitter-euronews-4> .
+ <http://example.org/China> <http://schema.org/name> "China"  <Twitter-euronews-4> .
+ <http://example.org/FalseInformationSpreadByRussianMedia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Twitter-euronews-4> .
+ <http://example.org/JuliaSmirnova> <http://schema.org/affiliation> <http://example.org/InstituteForStrategicDialogue> <Twitter-euronews-4> .
+ <http://example.org/CCP> <http://schema.org/name> "Chinese Communist Party (CCP)"  <Twitter-euronews-4> .
+ <http://example.org/ArlynMcAdorey> <http://schema.org/name> "Arlyn McAdorey"  <Twitter-euronews-4> .
+ <http://example.org/DenouncementOnX> <http://schema.org/name> "Denouncement of US by Chinese state media accounts on X"  <Twitter-euronews-4> .
+ <http://example.org/FalseClaimsSpread> <http://schema.org/name> "Spread of false claims"  <Twitter-euronews-4> .
+ <http://example.org/TorontoMarch> <http://schema.org/name> "Supporters wave the Palestinian flag at a march in Toronto"  <Twitter-euronews-4> .
+ <http://example.org/Report> <http://schema.org/mentions> <http://example.org/Iran> <Twitter-euronews-4> .
+ <http://example.org/Facebook> <http://schema.org/name> "Facebook"  <Twitter-euronews-4> .
+ <http://example.org/GazaCity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/City> <Twitter-euronews-4> .
+ <http://example.org/FalseClaimsSpread> <http://schema.org/relatedTo> <http://example.org/IsraelHamasWar> <Twitter-euronews-4> .
+ <http://example.org/ontology#Offer1> <http://dbpedia.org/ontology/priceCurrencyEquivalentCurrency> "EUR"  <Twitter-euronews-5> .
+ <http://example.org/ontology#Offer1> <http://dbpedia.org/ontology/price> "1 billion"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Twitter-euronews-5> .
+ <http://example.org/ontology#JimmyWales> <http://dbpedia.org/ontology/conflict> <http://example.org/ontology#MuskWalesFeud> <Twitter-euronews-5> .
+ <http://example.org/ontology#Wikipedia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Website> <Twitter-euronews-5> .
+ <http://example.org/ontology#NameChange> <http://dbpedia.org/ontology/newName> "Dickipedia"  <Twitter-euronews-5> .
+ <http://example.org/ontology#MuskWalesFeud> <http://schema.org/datePosted> "2022-10-17"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-euronews-5> .
+ <http://example.org/ontology#ElonMusk> <http://xmlns.com/foaf/0.1/name> "Elon Musk"  <Twitter-euronews-5> .
+ <http://example.org/ontology#Offer1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Offer> <Twitter-euronews-5> .
+ <http://example.org/ontology#CommunityNotes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Twitter-euronews-5> .
+ <http://example.org/ontology#WikipediaStatement> <http://dbpedia.org/ontology/content> "Wikipedia is the only website in the top-ten most-visited global websites to be run by a nonprofit – and at a fraction of the budget and staffing. We are not funded by advertising, we don’t charge a subscription fee, and we don’t sell your data."  <Twitter-euronews-5> .
+ <http://example.org/ontology#Offer1> <http://dbpedia.org/ontology/priceCurrency> "USD"  <Twitter-euronews-5> .
+ <http://example.org/ontology#MuskWalesFeud> <http://dbpedia.org/ontology/context> "Israel-Palestine conflict"  <Twitter-euronews-5> .
+ <http://example.org/ontology#Offer1> <http://www.w3.org/2000/01/rdf-schema#label> "stiff & firm offer"  <Twitter-euronews-5> .
+ <http://example.org/ontology#Wikipedia> <http://dbpedia.org/ontology/statement> <http://example.org/ontology#WikipediaStatement> <Twitter-euronews-5> .
+ <http://example.org/ontology#WikimediaFoundation> <http://dbpedia.org/ontology/operates> <http://dbpedia.org/resource/Wikipedia> <Twitter-euronews-5> .
+ <http://example.org/ontology#Offer1> <http://dbpedia.org/ontology/proposedAcquisition> <http://example.org/ontology#NameChange> <Twitter-euronews-5> .
+ <http://example.org/ontology#ElonMuskTweets> <http://schema.org/articleBody> "Have you ever wondered why the Wikimedia Foundation wants so much money? It certainly isn’t needed to operate Wikipedia. You can literally fit a copy of the entire text on your phone! So, what’s the money for? Inquiring minds want to know…"  <Twitter-euronews-5> .
+ <http://example.org/ontology#MuskWalesFeud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Conflict> <Twitter-euronews-5> .
+ <http://example.org/ontology#ElonMusk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-euronews-5> .
+ <http://example.org/ontology#WikimediaFoundation> <http://dbpedia.org/ontology/revenue> "154M"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Twitter-euronews-5> .
+ <http://example.org/ontology#MuskWalesFeud> <http://dbpedia.org/ontology/participant> <http://example.org/ontology#JimmyWales> <Twitter-euronews-5> .
+ <http://example.org/ontology#ElonMuskTweets> <http://schema.org/author> <http://example.org/ontology#ElonMusk> <Twitter-euronews-5> .
+ <http://example.org/ontology#JimmyWales> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/British-American> <Twitter-euronews-5> .
+ <http://example.org/ontology#ElonMusk> <http://dbpedia.org/ontology/offer> <http://example.org/ontology#Offer1> <Twitter-euronews-5> .
+ <http://example.org/ontology#MuskWalesFeud> <http://dbpedia.org/ontology/participant> <http://example.org/ontology#ElonMusk> <Twitter-euronews-5> .
+ <http://example.org/ontology#WikimediaFoundation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Twitter-euronews-5> .
+ <http://example.org/ontology#CommunityNotes> <http://schema.org/text> "The Wikimedia Foundation is a charitable non-profit, providing free access to Wikipedia. While a text & English-only copy of Wikipedia is about 51GB, adding all media + supported languages brings it to 428TB. In 2022 Wikimedia had $154M in revenue with $145M in expenses."  <Twitter-euronews-5> .
+ <http://example.org/ontology#WikimediaFoundation> <http://dbpedia.org/ontology/expense> "145M"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Twitter-euronews-5> .
+ <http://example.org/ontology#WikipediaStatement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statement> <Twitter-euronews-5> .
+ <http://example.org/ontology#MuskWalesFeud> <http://schema.org/about> <http://example.org/ontology#VerificationOfJournalists> <Twitter-euronews-5> .
+ <http://example.org/ontology#WikipediaStatement> <http://dbpedia.org/ontology/issuedBy> <http://example.org/ontology#Wikipedia> <Twitter-euronews-5> .
+ <http://example.org/ontology#ElonMusk> <http://schema.org/netWorth> "1 billion"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Twitter-euronews-5> .
+ <http://example.org/ontology#VerificationOfJournalists> <http://schema.org/text> "Fast moving claims and counter claims, and @elonmusk has removed all the core features that made it even remotely possible to tell real journalists from fakes"  <Twitter-euronews-5> .
+ <http://example.org/ontology#Offer1> <http://dbpedia.org/ontology/priceCurrencyEquivalent> "946 million"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Twitter-euronews-5> .
+ <http://example.org/ontology#Offer1> <http://dbpedia.org/ontology/offeredTo> <http://dbpedia.org/resource/Wikipedia> <Twitter-euronews-5> .
+ <http://example.org/ontology#JimmyWales> <http://xmlns.com/foaf/0.1/name> "Jimmy Wales"  <Twitter-euronews-5> .
+ <http://example.org/ontology#JimmyWales> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-euronews-5> .
+ <http://example.org/ontology#NameChange> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/NameChange> <Twitter-euronews-5> .
+ <http://example.org/ontology#NameChange> <http://dbpedia.org/ontology/oldName> "Wikipedia"  <Twitter-euronews-5> .
+ <http://example.org/ontology#VerificationOfJournalists> <http://schema.org/author> <http://example.org/ontology#JimmyWales> <Twitter-euronews-5> .
+ <http://example.org/ontology#ElonMuskTweets> <http://schema.org/datePublished> "2022-10-22"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-euronews-5> .
+ <http://example.org/ontology#ElonMuskTweets> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPosting> <Twitter-euronews-5> .
+ <http://example.org/ontology#CommunityNotes> <http://schema.org/author> <http://example.org/ontology#WikimediaFoundation> <Twitter-euronews-5> .
+ <http://example.org/ontology#JimmyWales> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Entrepreneur> <Twitter-euronews-5> .
+ <http://example.org/ontology#Wikipedia> <http://dbpedia.org/ontology/owner> <http://example.org/ontology#WikimediaFoundation> <Twitter-euronews-5> .
+ <http://example.org/ontology#VerificationOfJournalists> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Twitter-euronews-5> .
+ <http://example.org/ontology#Offer1> <http://dbpedia.org/ontology/offeredBy> <http://example.org/ontology#ElonMusk> <Twitter-euronews-5> .
+ <http://example.org/EuronewsNext> <http://schema.org/name> "Euronews Next"  <Twitter-euronews-6> .
+ <http://example.org/CommentOnIsraelHamasWar> <http://schema.org/mentions> <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b6>  <Twitter-euronews-6> .
+ <http://example.org/MoniqueWoodard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-euronews-6> .
+ <http://example.org/DavidMarcus> <http://schema.org/affiliation> <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b9>  <Twitter-euronews-6> .
+ <http://example.org/CommentByKeithRabois> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPosting> <Twitter-euronews-6> .
+ <http://example.org/DorShapira> <http://xmlns.com/foaf/0.1/name> "Dor Shapira"  <Twitter-euronews-6> .
+ <http://example.org/CommentOnIsraelHamasWar> <http://schema.org/mentions> <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b7>  <Twitter-euronews-6> .
+ <http://example.org/CommentOnIsraelHamasWar> <http://schema.org/isPartOf> <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b8>  <Twitter-euronews-6> .
+ <http://example.org/DavidMarcus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-euronews-6> .
+ <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPlatform> <Twitter-euronews-6> .
+ <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPlatform> <Twitter-euronews-6> .
+ <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-euronews-6> .
+ <http://example.org/CommentByDavidMarcus> <http://schema.org/isPartOf> <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b10>  <Twitter-euronews-6> .
+ <http://example.org/MoniqueWoodard> <http://xmlns.com/foaf/0.1/made> <http://example.org/CommentByMoniqueWoodard> <Twitter-euronews-6> .
+ <http://example.org/CommentByKeithRabois> <http://schema.org/author> <http://example.org/KeithRabois> <Twitter-euronews-6> .
+ <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b4> <http://schema.org/name> "Israel-Hamas war"  <Twitter-euronews-6> .
+ <http://example.org/CommentByDavidMarcus> <http://schema.org/author> <http://example.org/DavidMarcus> <Twitter-euronews-6> .
+ <http://example.org/CommentOnIsraelHamasWar> <http://schema.org/mentions> <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b5>  <Twitter-euronews-6> .
+ <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b2> <http://schema.org/location> <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b3>  <Twitter-euronews-6> .
+ <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b5> <http://schema.org/name> "Israel"  <Twitter-euronews-6> .
+ <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b2> <http://schema.org/name> "Web Summit's Lisbon event"  <Twitter-euronews-6> .
+ <http://example.org/PaddyCosgrave> <http://schema.org/jobTitle> "CEO"  <Twitter-euronews-6> .
+ <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b10> <http://schema.org/name> "X"  <Twitter-euronews-6> .
+ <http://example.org/PaddyCosgrave> <http://schema.org/alumniOf> <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b1>  <Twitter-euronews-6> .
+ <http://example.org/DavidMarcus> <http://xmlns.com/foaf/0.1/made> <http://example.org/CommentByDavidMarcus> <Twitter-euronews-6> .
+ <http://example.org/Google> <http://schema.org/name> "Google"  <Twitter-euronews-6> .
+ <http://example.org/MoniqueWoodard> <http://xmlns.com/foaf/0.1/name> "Monique Woodard"  <Twitter-euronews-6> .
+ <http://example.org/WebSummit> <http://schema.org/founder> <http://example.org/PaddyCosgrave> <Twitter-euronews-6> .
+ <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-euronews-6> .
+ <http://example.org/KeithRabois> <http://schema.org/affiliation> <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b11>  <Twitter-euronews-6> .
+ <http://example.org/CommentOnIsraelHamasWar> <http://schema.org/author> <http://example.org/PaddyCosgrave> <Twitter-euronews-6> .
+ <http://example.org/MoniqueWoodard> <http://schema.org/affiliation> <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b14>  <Twitter-euronews-6> .
+ <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b9> <http://schema.org/name> "Meta"  <Twitter-euronews-6> .
+ <http://example.org/MoniqueWoodard> <http://schema.org/jobTitle> "Founding partner"  <Twitter-euronews-6> .
+ <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Twitter-euronews-6> .
+ <http://example.org/CommentByMoniqueWoodard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPosting> <Twitter-euronews-6> .
+ <http://example.org/Intel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-euronews-6> .
+ <http://example.org/KeithRabois> <http://xmlns.com/foaf/0.1/made> <http://example.org/CommentByKeithRabois> <Twitter-euronews-6> .
+ <http://example.org/Siemens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-euronews-6> .
+ <http://example.org/PaddyCosgrave> <http://xmlns.com/foaf/0.1/made> <http://example.org/CommentOnIsraelHamasWar> <Twitter-euronews-6> .
+ <http://example.org/PaddyCosgrave> <http://schema.org/affiliation> <http://example.org/WebSummit> <Twitter-euronews-6> .
+ <http://example.org/KeithRabois> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-euronews-6> .
+ <http://example.org/KeithRabois> <http://schema.org/jobTitle> "Founders Fund partner"  <Twitter-euronews-6> .
+ <http://example.org/WebSummit> <http://schema.org/name> "Web Summit"  <Twitter-euronews-6> .
+ <http://example.org/TechCrunch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-euronews-6> .
+ <http://example.org/Intel> <http://schema.org/name> "Intel"  <Twitter-euronews-6> .
+ <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b12> <http://schema.org/name> "X"  <Twitter-euronews-6> .
+ <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-euronews-6> .
+ <http://example.org/Meta> <http://schema.org/name> "Meta"  <Twitter-euronews-6> .
+ <http://example.org/DorShapira> <http://xmlns.com/foaf/0.1/made> <http://example.org/CommentByDorShapira> <Twitter-euronews-6> .
+ <http://example.org/CommentOnIsraelHamasWar> <http://schema.org/about> <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b4>  <Twitter-euronews-6> .
+ <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b11> <http://schema.org/name> "Founders Fund"  <Twitter-euronews-6> .
+ <http://example.org/DavidMarcus> <http://schema.org/jobTitle> "Fintech entrepreneur"  <Twitter-euronews-6> .
+ <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b8> <http://schema.org/name> "X"  <Twitter-euronews-6> .
+ <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPlatform> <Twitter-euronews-6> .
+ <http://example.org/DorShapira> <http://schema.org/jobTitle> "Israeli ambassador to Portugal"  <Twitter-euronews-6> .
+ <http://example.org/Google> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-euronews-6> .
+ <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Twitter-euronews-6> .
+ <http://example.org/CommentOnIsraelHamasWar> <http://schema.org/datePublished> "2023-10-15"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-euronews-6> .
+ <http://example.org/PaddyCosgrave> <http://schema.org/resignationDate> "2023-10-15"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-euronews-6> .
+ <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b1> <http://schema.org/name> "Web Summit"  <Twitter-euronews-6> .
+ <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-euronews-6> .
+ <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Twitter-euronews-6> .
+ <http://example.org/WebSummit> <http://schema.org/event> <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b2>  <Twitter-euronews-6> .
+ <http://example.org/CommentByDorShapira> <http://schema.org/isPartOf> <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b13>  <Twitter-euronews-6> .
+ <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b13> <http://schema.org/name> "LinkedIn"  <Twitter-euronews-6> .
+ <http://example.org/WebSummit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-euronews-6> .
+ <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b14> <http://schema.org/name> "Cake Ventures"  <Twitter-euronews-6> .
+ <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <Twitter-euronews-6> .
+ <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <Twitter-euronews-6> .
+ <http://example.org/EuronewsNext> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-euronews-6> .
+ <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b2> <http://schema.org/startDate> "2023-11-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-euronews-6> .
+ <http://example.org/CommentByKeithRabois> <http://schema.org/isPartOf> <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b12>  <Twitter-euronews-6> .
+ <http://example.org/CommentByDorShapira> <http://schema.org/author> <http://example.org/DorShapira> <Twitter-euronews-6> .
+ <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPlatform> <Twitter-euronews-6> .
+ <http://example.org/CommentByMoniqueWoodard> <http://schema.org/isPartOf> <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b15>  <Twitter-euronews-6> .
+ <http://example.org/PaddyCosgrave> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-euronews-6> .
+ <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-euronews-6> .
+ <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b3> <http://schema.org/name> "Lisbon"  <Twitter-euronews-6> .
+ <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPlatform> <Twitter-euronews-6> .
+ <http://example.org/DorShapira> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-euronews-6> .
+ <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b7> <http://schema.org/name> "the Troubles in Ireland"  <Twitter-euronews-6> .
+ <http://example.org/DavidMarcus> <http://xmlns.com/foaf/0.1/name> "David Marcus"  <Twitter-euronews-6> .
+ <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b2> <http://schema.org/duration> "P3D"^^<http://www.w3.org/2001/XMLSchema#duration>  <Twitter-euronews-6> .
+ <http://example.org/KeithRabois> <http://xmlns.com/foaf/0.1/name> "Keith Rabois"  <Twitter-euronews-6> .
+ <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b15> <http://schema.org/name> "X"  <Twitter-euronews-6> .
+ <http://example.org/CommentByDorShapira> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPosting> <Twitter-euronews-6> .
+ <http://example.org/CommentByDavidMarcus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPosting> <Twitter-euronews-6> .
+ <http://example.org/CommentByMoniqueWoodard> <http://schema.org/author> <http://example.org/MoniqueWoodard> <Twitter-euronews-6> .
+ <http://example.org/Meta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-euronews-6> .
+ <http://example.org/PaddyCosgrave> <http://xmlns.com/foaf/0.1/name> "Paddy Cosgrave"  <Twitter-euronews-6> .
+ <http://example.org/CommentOnIsraelHamasWar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPosting> <Twitter-euronews-6> .
+ <http://example.org/Siemens> <http://schema.org/name> "Siemens"  <Twitter-euronews-6> .
+ <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b2> <http://schema.org/attendeeCount> "70000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-euronews-6> .
+ <http://example.org/TechCrunch> <http://schema.org/name> "TechCrunch"  <Twitter-euronews-6> .
+ <http://Twitter-euronews-6.com/blank#n9258c270922e4f958dfac431ccb27a07b6> <http://schema.org/name> "Hamas"  <Twitter-euronews-6> .
+ <http://example.org/entities/SilvioBerlusconi> <http://xmlns.com/foaf/0.1/name> "Silvio Berlusconi"  <Twitter-euronews-7> .
+ <http://example.org/entities/Ginevra> <http://xmlns.com/foaf/0.1/age> "7"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-euronews-7> .
+ <http://example.org/entities/Twitter> <http://schema.org/name> "X"  <Twitter-euronews-7> .
+ <http://example.org/entities/BreakupAnnouncement> <http://schema.org/author> <http://example.org/entities/GiorgiaMeloni> <Twitter-euronews-7> .
+ <http://example.org/entities/Ginevra> <http://schema.org/childOf> <http://example.org/entities/AndreaGiambruno> <Twitter-euronews-7> .
+ <http://example.org/entities/AndreaGiambruno> <http://schema.org/spouse> <http://example.org/entities/GiorgiaMeloni> <Twitter-euronews-7> .
+ <http://example.org/entities/BreakupAnnouncement> <http://schema.org/about> <http://example.org/entities/GiorgiaMeloni> <Twitter-euronews-7> .
+ <http://example.org/entities/StrisciaLaNotizia> <http://schema.org/name> "Striscia la Notizia"  <Twitter-euronews-7> .
+ <http://example.org/entities/BreakupAnnouncement> <http://schema.org/text> "My relationship with Andrea Giambruno, which lasted nearly ten years, ends here."@en  <Twitter-euronews-7> .
+ <http://example.org/entities/AndreaGiambruno> <http://xmlns.com/foaf/0.1/familyName> "Giambruno"  <Twitter-euronews-7> .
+ <http://example.org/entities/Mediaset> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-euronews-7> .
+ <http://example.org/entities/StrisciaLaNotizia> <http://schema.org/producer> <http://example.org/entities/SilvioBerlusconi> <Twitter-euronews-7> .
+ <http://example.org/entities/GiorgiaMeloni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-euronews-7> .
+ <http://example.org/entities/BreakupAnnouncement> <http://schema.org/datePosted> "2023-03-31"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-euronews-7> .
+ <http://example.org/entities/Mediaset> <http://schema.org/name> "Mediaset"  <Twitter-euronews-7> .
+ <http://example.org/entities/AndreaGiambruno> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <https://apnews.com> <Twitter-euronews-7> .
+ <http://example.org/entities/BreakupAnnouncement> <http://schema.org/sharedContent> <http://example.org/entities/Twitter> <Twitter-euronews-7> .
+ <http://example.org/entities/Twitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPlatform> <Twitter-euronews-7> .
+ <http://example.org/entities/GiorgiaMeloni> <http://schema.org/parentOf> <http://example.org/entities/Ginevra> <Twitter-euronews-7> .
+ <http://example.org/entities/AndreaGiambruno> <http://xmlns.com/foaf/0.1/name> "Andrea Giambruno"  <Twitter-euronews-7> .
+ <http://example.org/entities/SilvioBerlusconi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-euronews-7> .
+ <http://example.org/entities/AndreaGiambruno> <http://xmlns.com/foaf/0.1/gender> "male"  <Twitter-euronews-7> .
+ <http://example.org/entities/StrisciaLaNotizia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/TelevisionShow> <Twitter-euronews-7> .
+ <http://example.org/entities/GiorgiaMeloni> <http://purl.org/dc/elements/1.1/title> "Italy’s prime minister"  <Twitter-euronews-7> .
+ <http://example.org/entities/Ginevra> <http://schema.org/childOf> <http://example.org/entities/GiorgiaMeloni> <Twitter-euronews-7> .
+ <http://example.org/entities/AndreaGiambruno> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-euronews-7> .
+ <http://example.org/entities/Mediaset> <http://schema.org/founder> <http://example.org/entities/SilvioBerlusconi> <Twitter-euronews-7> .
+ <http://example.org/entities/BreakupAnnouncement> <http://schema.org/about> <http://example.org/entities/AndreaGiambruno> <Twitter-euronews-7> .
+ <http://example.org/entities/GiorgiaMeloni> <http://schema.org/colleague> <http://example.org/entities/AndreaGiambruno> <Twitter-euronews-7> .
+ <http://example.org/entities/AndreaGiambruno> <http://schema.org/parentOf> <http://example.org/entities/Ginevra> <Twitter-euronews-7> .
+ <http://example.org/entities/StrisciaLaNotizia> <http://schema.org/broadcastOn> <http://example.org/entities/Mediaset> <Twitter-euronews-7> .
+ <http://example.org/entities/SilvioBerlusconi> <http://schema.org/founder> <http://example.org/entities/Mediaset> <Twitter-euronews-7> .
+ <http://example.org/entities/GiorgiaMeloni> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <https://euronews.com> <Twitter-euronews-7> .
+ <http://example.org/entities/GiorgiaMeloni> <http://xmlns.com/foaf/0.1/name> "Giorgia Meloni"  <Twitter-euronews-7> .
+ <http://example.org/entities/GiorgiaMeloni> <http://xmlns.com/foaf/0.1/gender> "female"  <Twitter-euronews-7> .
+ <http://example.org/entities/GiorgiaMeloni> <http://xmlns.com/foaf/0.1/familyName> "Meloni"  <Twitter-euronews-7> .
+ <http://example.org/entities/SilvioBerlusconi> <http://schema.org/deathDate> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Twitter-euronews-7> .
+ <http://example.org/entities/Ginevra> <http://xmlns.com/foaf/0.1/name> "Ginevra"  <Twitter-euronews-7> .
+ <http://example.org/entities/Ginevra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-euronews-7> .
+ <http://example.org/entities/AndreaGiambruno> <http://schema.org/jobTitle> "journalist"  <Twitter-euronews-7> .
+ <http://example.org/entities/BreakupAnnouncement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPosting> <Twitter-euronews-7> .
+ <http://example.org/ontology#Posting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Function> <Twitter-euronews-8> .
+ <http://example.org/ontology#PaidTierOne> <http://example.org/ontology#featuresIncluded> "all the features"  <Twitter-euronews-8> .
+ <http://example.org/ontology#PaidTierTwo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#ServiceTier> <Twitter-euronews-8> .
+ <http://example.org/ontology#SocialMediaPlatformX> <http://example.org/ontology#equivalentEuroValue> "41 billion"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Twitter-euronews-8> .
+ <http://example.org/ontology#SocialMediaPlatformX> <http://example.org/ontology#featuresToInclude> <http://example.org/ontology#SocialNetworking> <Twitter-euronews-8> .
+ <http://example.org/ontology#NewAnnualService> <http://example.org/ontology#duration> "annual"  <Twitter-euronews-8> .
+ <http://example.org/ontology#Unreduced> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#AdFrequency> <Twitter-euronews-8> .
+ <http://example.org/ontology#NewAnnualService> <http://example.org/ontology#price> "€1"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Twitter-euronews-8> .
+ <http://example.org/ontology#NewAnnualService> <http://example.org/ontology#includesFunctions> <http://example.org/ontology#Posting> <Twitter-euronews-8> .
+ <http://example.org/ontology#ElonMusk> <http://xmlns.com/foaf/0.1/name> "Elon Musk"  <Twitter-euronews-8> .
+ <http://example.org/ontology#NoAds> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#AdFrequency> <Twitter-euronews-8> .
+ <http://example.org/ontology#IncreaseRevenue> <http://example.org/ontology#method> <http://example.org/ontology#TailoredService> <Twitter-euronews-8> .
+ <http://example.org/ontology#SocialMediaPlatformX> <http://example.org/ontology#undergoingTransformation> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <Twitter-euronews-8> .
+ <http://example.org/ontology#PaidTierOne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#ServiceTier> <Twitter-euronews-8> .
+ <http://example.org/ontology#PremiumSubscriptionService> <http://example.org/ontology#hasTiers> <http://example.org/ontology#PaidTierOne> <Twitter-euronews-8> .
+ <http://example.org/ontology#NewAnnualService> <http://example.org/ontology#includesFunctions> <http://example.org/ontology#Reposting> <Twitter-euronews-8> .
+ <http://example.org/ontology#CheaperThanCurrentPlan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#PriceComparison> <Twitter-euronews-8> .
+ <http://example.org/ontology#SocialMediaPlatformX> <http://example.org/ontology#valuePlummeted> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <Twitter-euronews-8> .
+ <http://example.org/ontology#SocialMediaPlatformX> <http://example.org/ontology#formerlyKnownAs> "Twitter"  <Twitter-euronews-8> .
+ <http://example.org/ontology#SocialMediaPlatformX> <http://example.org/ontology#providesService> <http://example.org/ontology#TailoredService> <Twitter-euronews-8> .
+ <http://example.org/ontology#NotIncreaseProfit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Objective> <Twitter-euronews-8> .
+ <http://example.org/ontology#NewAnnualService> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Service> <Twitter-euronews-8> .
+ <http://example.org/ontology#ElonMusk> <http://example.org/ontology#owns> <http://example.org/ontology#SpaceX> <Twitter-euronews-8> .
+ <http://example.org/ontology#ElonMusk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-euronews-8> .
+ <http://example.org/ontology#PaidTierOne> <http://example.org/ontology#adFrequency> <http://example.org/ontology#Unreduced> <Twitter-euronews-8> .
+ <http://example.org/ontology#SocialMediaPlatformX> <http://example.org/ontology#revenueFromAdvertisingReducedBy> "50%"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Twitter-euronews-8> .
+ <http://example.org/ontology#NewAnnualService> <http://example.org/ontology#purpose> <http://example.org/ontology#NotIncreaseProfit> <Twitter-euronews-8> .
+ <http://example.org/ontology#PaidTierTwo> <http://example.org/ontology#adFrequency> <http://example.org/ontology#NoAds> <Twitter-euronews-8> .
+ <http://example.org/ontology#SocialMediaPlatformX> <http://example.org/ontology#rebrandedWhen> "July"  <Twitter-euronews-8> .
+ <http://example.org/ontology#NewAnnualService> <http://example.org/ontology#purpose> <http://example.org/ontology#ReduceBots> <Twitter-euronews-8> .
+ <http://example.org/ontology#PremiumSubscriptionService> <http://example.org/ontology#hasTiers> <http://example.org/ontology#PaidTierTwo> <Twitter-euronews-8> .
+ <http://example.org/ontology#SocialMediaPlatformX> <http://example.org/ontology#advertisingRevenueFallAsOf> "July"  <Twitter-euronews-8> .
+ <http://example.org/ontology#ElonMusk> <http://example.org/ontology#owns> <http://example.org/ontology#Tesla> <Twitter-euronews-8> .
+ <http://example.org/ontology#Liking> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Function> <Twitter-euronews-8> .
+ <http://example.org/ontology#PaidTierOne> <http://example.org/ontology#currentPlanPrice> "€11"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Twitter-euronews-8> .
+ <http://example.org/ontology#SocialMediaPlatformX> <http://example.org/ontology#featuresToInclude> <http://example.org/ontology#PaymentServices> <Twitter-euronews-8> .
+ <http://example.org/ontology#TailoredService> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Service> <Twitter-euronews-8> .
+ <http://example.org/ontology#SocialMediaPlatformX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#SocialMediaPlatform> <Twitter-euronews-8> .
+ <http://example.org/ontology#PremiumSubscriptionService> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Service> <Twitter-euronews-8> .
+ <http://example.org/ontology#SocialMediaPlatformX> <http://xmlns.com/foaf/0.1/name> "X"  <Twitter-euronews-8> .
+ <http://example.org/ontology#SocialMediaPlatformX> <http://example.org/ontology#acquisitionCurrency> "USD"  <Twitter-euronews-8> .
+ <http://example.org/ontology#SocialMediaPlatformX> <http://example.org/ontology#acquisitionCost> "44 billion"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Twitter-euronews-8> .
+ <http://example.org/ontology#SocialMediaPlatformX> <http://example.org/ontology#rebrandedAs> "X"  <Twitter-euronews-8> .
+ <http://example.org/ontology#PaidTierOne> <http://example.org/ontology#priceComparison> <http://example.org/ontology#CheaperThanCurrentPlan> <Twitter-euronews-8> .
+ <http://example.org/ontology#TailoredService> <http://example.org/ontology#includes> <http://example.org/ontology#PremiumSubscriptionService> <Twitter-euronews-8> .
+ <http://example.org/ontology#ReduceBots> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Objective> <Twitter-euronews-8> .
+ <http://example.org/ontology#IncreaseRevenue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Objective> <Twitter-euronews-8> .
+ <http://example.org/ontology#PaidTierTwo> <http://example.org/ontology#comparedToCurrentService> "50% fewer ads"  <Twitter-euronews-8> .
+ <http://example.org/ontology#SocialMediaPlatformX> <http://example.org/ontology#transformationInitiatedBy> <http://example.org/ontology#ElonMusk> <Twitter-euronews-8> .
+ <http://example.org/ontology#SocialMediaPlatformX> <http://example.org/ontology#ownedBy> <http://example.org/ontology#ElonMusk> <Twitter-euronews-8> .
+ <http://example.org/ontology#SocialMediaPlatformX> <http://example.org/ontology#intendedTransformationTo> "everything app"  <Twitter-euronews-8> .
+ <http://example.org/ontology#SocialMediaPlatformX> <http://example.org/ontology#isTryingTo> <http://example.org/ontology#IncreaseRevenue> <Twitter-euronews-8> .
+ <http://example.org/ontology#SocialMediaPlatformX> <http://example.org/ontology#advertisingRevenueFallPercentage> "50%"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Twitter-euronews-8> .
+ <http://example.org/ontology#NewAnnualService> <http://example.org/ontology#includesFunctions> <http://example.org/ontology#Liking> <Twitter-euronews-8> .
+ <http://example.org/ontology#Reposting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Function> <Twitter-euronews-8> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b6> <http://schema.org/priceCurrency> "EUR"  <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Service> <Twitter-euronews-9> .
+ <http://example.org/corendon#KLM> <http://dbpedia.org/ontology/statement> "No current plans for child-free zones"  <Twitter-euronews-9> .
+ <http://example.org/corendon#Corendon> <http://xmlns.com/foaf/0.1/name> "Corendon Airlines"  <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b5> <http://schema.org/quantity> "9"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b3> <http://dbpedia.org/ontology/departure> "Amsterdam"  <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b9> <http://dbpedia.org/ontology/ageRange> <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b10>  <Twitter-euronews-9> .
+ <http://example.org/corendon#X> <http://xmlns.com/foaf/0.1/accountServiceHomepage> <https://www.twitter.com> <Twitter-euronews-9> .
+ <http://example.org/corendon#Corendon> <http://dbpedia.org/ontology/owner> <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b1>  <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b5> <http://schema.org/name> "Extra legroom seats"  <Twitter-euronews-9> .
+ <http://example.org/corendon#AirAsia> <http://dbpedia.org/ontology/product> <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b7>  <Twitter-euronews-9> .
+ <http://example.org/corendon#Survey> <http://schema.org/result> <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b13>  <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b2> <http://dbpedia.org/ontology/price> <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b6>  <Twitter-euronews-9> .
+ <http://example.org/corendon#Survey> <http://schema.org/provider> "Redfield and Wilton Strategies"  <Twitter-euronews-9> .
+ <http://example.org/corendon#AirAsia> <http://xmlns.com/foaf/0.1/name> "AirAsia"  <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b2> <http://schema.org/startDate> "2023-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Twitter-euronews-9> .
+ <http://example.org/corendon#Survey> <http://schema.org/result> <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b14>  <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b7> <http://dbpedia.org/ontology/ageRange> <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b8>  <Twitter-euronews-9> .
+ <http://example.org/corendon#KLM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Airline> <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b6> <http://schema.org/valueAddedTaxIncluded> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <Twitter-euronews-9> .
+ <http://example.org/corendon#TUI> <http://dbpedia.org/ontology/statement> "No current plans for child-free zones"  <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b11> <http://schema.org/memberOf> "American adults"  <Twitter-euronews-9> .
+ <http://example.org/corendon#Corendon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Airline> <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b13> <http://schema.org/outcome> "Negative view on adult-only zones"  <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b4> <http://schema.org/minimumAge> "16"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b9> <http://dbpedia.org/ontology/aircraft> "787"  <Twitter-euronews-9> .
+ <http://example.org/corendon#KLM> <http://xmlns.com/foaf/0.1/name> "KLM"  <Twitter-euronews-9> .
+ <http://example.org/corendon#Transavia> <http://xmlns.com/foaf/0.1/name> "Transavia"  <Twitter-euronews-9> .
+ <http://example.org/corendon#Corendon> <http://dbpedia.org/ontology/industry> "Aviation"  <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b2> <http://dbpedia.org/ontology/ageRange> <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b4>  <Twitter-euronews-9> .
+ <http://example.org/corendon#Scoot> <http://xmlns.com/foaf/0.1/name> "Scoot"  <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b7> <http://dbpedia.org/ontology/serviceType> "Adult-only flight zone"  <Twitter-euronews-9> .
+ <http://example.org/corendon#Survey> <http://schema.org/about> "Child-free areas on public transport"  <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b2> <http://dbpedia.org/ontology/numberOfSeats> "93"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-euronews-9> .
+ <http://example.org/corendon#Survey> <http://schema.org/result> <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b12>  <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b9> <http://dbpedia.org/ontology/name> "ScootinSilence"  <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b8> <http://schema.org/minimumAge> "12"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b2> <http://dbpedia.org/ontology/additionalProperty> <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b5>  <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b7> <http://dbpedia.org/ontology/aircraft> "A330"  <Twitter-euronews-9> .
+ <http://example.org/corendon#Corendon> <http://dbpedia.org/ontology/locationCountry> "Turkey"  <Twitter-euronews-9> .
+ <http://example.org/corendon#TUI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Airline> <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b2> <http://dbpedia.org/ontology/name> "Only Adult zone"  <Twitter-euronews-9> .
+ <http://example.org/corendon#Scoot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Airline> <Twitter-euronews-9> .
+ <http://example.org/corendon#Transavia> <http://dbpedia.org/ontology/statement> "No current plans for child-free zones"  <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b2> <http://dbpedia.org/ontology/serviceType> "Adult-only flight zone"  <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b10> <http://schema.org/minimumAge> "12"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b9> <http://dbpedia.org/ontology/serviceType> "Adult-only flight zone"  <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b12> <http://schema.org/outcome> "Positive view on adult-only zones"  <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b2> <http://dbpedia.org/ontology/serviceArea> <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b3>  <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b5> <http://schema.org/price> "100"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-euronews-9> .
+ <http://example.org/corendon#Survey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Survey> <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b3> <http://dbpedia.org/ontology/destination> "Curaçao"  <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b6> <http://schema.org/price> "45"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-euronews-9> .
+ <http://example.org/corendon#X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/OnlineAccount> <Twitter-euronews-9> .
+ <http://example.org/corendon#X> <http://xmlns.com/foaf/0.1/accountName> "X"  <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b5> <http://schema.org/priceCurrency> "EUR"  <Twitter-euronews-9> .
+ <http://example.org/corendon#Scoot> <http://dbpedia.org/ontology/product> <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b9>  <Twitter-euronews-9> .
+ <http://example.org/corendon#Survey> <http://schema.org/participant> <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b11>  <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Service> <Twitter-euronews-9> .
+ <http://example.org/corendon#Corendon> <http://dbpedia.org/ontology/product> <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b2>  <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b14> <http://schema.org/percent> "14"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-euronews-9> .
+ <http://example.org/corendon#Transavia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Airline> <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b11> <http://schema.org/numberOfItems> "1500"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Route> <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Service> <Twitter-euronews-9> .
+ <http://example.org/corendon#TUI> <http://xmlns.com/foaf/0.1/name> "TUI"  <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b12> <http://schema.org/percent> "60"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-euronews-9> .
+ <http://example.org/corendon#X> <http://dbpedia.org/ontology/formerName> "Twitter"  <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b7> <http://dbpedia.org/ontology/name> "Quiet Zone"  <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b5> <http://schema.org/valueAddedTaxIncluded> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <Twitter-euronews-9> .
+ <http://example.org/corendon#AirAsia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Airline> <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b1> <http://xmlns.com/foaf/0.1/name> "Atilay Uslu"  <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b13> <http://schema.org/percent> "27"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b14> <http://schema.org/outcome> "Unsure about adult-only zones"  <Twitter-euronews-9> .
+ <http://Twitter-euronews-9.com/blank#n2e5e82e3dd7547949a6e79d15df52619b11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Twitter-euronews-9> .

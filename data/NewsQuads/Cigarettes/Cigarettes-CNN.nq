@@ -1,0 +1,644 @@
+ <http://example.org/CigaretteSmokingWarnings> <http://schema.org/inLanguage> "en"  <Cigarettes-CNN-0> .
+ <http://example.org/BigTobaccoLawsuit> <http://dbpedia.org/ontology/defendant> <http://example.org/ITGBrands> <Cigarettes-CNN-0> .
+ <http://example.org/CigaretteSmokingWarnings> <http://schema.org/inLanguage> "es"  <Cigarettes-CNN-0> .
+ <http://Cigarettes-CNN-0.com/blank#nf758638911a643e2bcdda132b2e95ab7b1> <http://schema.org/name> "Number of Stores"  <Cigarettes-CNN-0> .
+ <http://example.org/JudgeGladysKessler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Cigarettes-CNN-0> .
+ <http://example.org/PublicHealthAdvocates> <http://xmlns.com/foaf/0.1/name> "Consortium of anti-smoking groups"  <Cigarettes-CNN-0> .
+ <http://example.org/AltriaStatement> <http://schema.org/text> "Altria is transitioning adult smokers to potentially less harmful products."  <Cigarettes-CNN-0> .
+ <http://example.org/RJReynoldsTobaccoCompany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Cigarettes-CNN-0> .
+ <http://example.org/RJReynoldsStatement> <http://schema.org/text> "The tobacco industry has evolved considerably since this lawsuit was filed nearly 25 years ago, back in 1999."  <Cigarettes-CNN-0> .
+ <http://example.org/UnitedStatesOfAmerica> <http://xmlns.com/foaf/0.1/name> "United States of America"  <Cigarettes-CNN-0> .
+ <http://example.org/BigTobaccoLawsuitJudgement> <http://schema.org/description> "The landmark judgment found the industry defendants guilty of lying about the dangers of cigarettes and secondhand smoke."  <Cigarettes-CNN-0> .
+ <http://example.org/CigaretteSmokingWarnings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Cigarettes-CNN-0> .
+ <http://example.org/AltriaGroup> <http://xmlns.com/foaf/0.1/name> "Altria Group"  <Cigarettes-CNN-0> .
+ <http://example.org/BigTobaccoLawsuit> <http://schema.org/about> <http://example.org/CigaretteSmokingWarnings> <Cigarettes-CNN-0> .
+ <http://example.org/BigTobaccoLawsuitJudgement> <http://dbpedia.org/ontology/judge> <http://example.org/JudgeGladysKessler> <Cigarettes-CNN-0> .
+ <http://example.org/JudgeGladysKessler> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Judge> <Cigarettes-CNN-0> .
+ <http://example.org/ITGBrands> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Cigarettes-CNN-0> .
+ <http://example.org/StoreSignageCampaign> <http://schema.org/startDate> "2023-07-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-CNN-0> .
+ <http://example.org/BigTobaccoLawsuitJudgement> <http://dbpedia.org/ontology/date> "2006"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-CNN-0> .
+ <http://example.org/BigTobaccoLawsuit> <http://dbpedia.org/ontology/defendant> <http://example.org/AltriaGroup> <Cigarettes-CNN-0> .
+ <http://example.org/RJReynoldsStatement> <http://schema.org/datePublished> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-CNN-0> .
+ <http://example.org/StoreSignageCampaign> <http://dbpedia.org/ontology/location> <http://example.org/RetailStores> <Cigarettes-CNN-0> .
+ <http://example.org/JudgeGladysKessler> <http://xmlns.com/foaf/0.1/name> "Gladys Kessler"  <Cigarettes-CNN-0> .
+ <http://example.org/CigaretteSmokingWarnings> <http://schema.org/contentLocation> <http://example.org/UnitedStatesOfAmerica> <Cigarettes-CNN-0> .
+ <http://example.org/CigaretteSmokingWarnings> <http://schema.org/datePosted> "2023-07-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-CNN-0> .
+ <http://example.org/RetailStores> <http://schema.org/address> <http://example.org/UnitedStatesOfAmerica> <Cigarettes-CNN-0> .
+ <http://example.org/UnitedStatesOfAmerica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <Cigarettes-CNN-0> .
+ <http://example.org/AltriaGroup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Cigarettes-CNN-0> .
+ <http://example.org/JudgeGladysKessler> <http://dbpedia.org/ontology/judgement> <http://example.org/BigTobaccoLawsuitJudgement> <Cigarettes-CNN-0> .
+ <http://example.org/ITGBrands> <http://xmlns.com/foaf/0.1/name> "ITG Brands"  <Cigarettes-CNN-0> .
+ <http://example.org/RJReynoldsTobaccoCompany> <http://xmlns.com/foaf/0.1/name> "RJ Reynolds Tobacco Company"  <Cigarettes-CNN-0> .
+ <http://example.org/PublicHealthAdvocates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Cigarettes-CNN-0> .
+ <http://example.org/AltriaGroup> <http://dbpedia.org/ontology/subsidiary> <http://example.org/PhillipMorrisUSA> <Cigarettes-CNN-0> .
+ <http://example.org/AltriaStatement> <http://schema.org/author> <http://example.org/AltriaGroup> <Cigarettes-CNN-0> .
+ <http://example.org/CigaretteSmokingWarnings> <http://schema.org/about> <http://example.org/CigaretteSmoking> <Cigarettes-CNN-0> .
+ <http://example.org/RetailStores> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <Cigarettes-CNN-0> .
+ <http://example.org/CigaretteSmokingWarnings> <http://schema.org/dateModified> "2023-09-30"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-CNN-0> .
+ <http://example.org/StoreSignageCampaign> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Cigarettes-CNN-0> .
+ <http://example.org/BigTobaccoLawsuit> <http://dbpedia.org/ontology/plaintiff> <http://dbpedia.org/resource/United_States_Department_of_Justice> <Cigarettes-CNN-0> .
+ <http://example.org/BigTobaccoLawsuit> <http://dbpedia.org/ontology/defendant> <http://example.org/RJReynoldsTobaccoCompany> <Cigarettes-CNN-0> .
+ <http://example.org/BigTobaccoLawsuit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/LegalCase> <Cigarettes-CNN-0> .
+ <http://example.org/PhillipMorrisUSA> <http://xmlns.com/foaf/0.1/name> "Phillip Morris USA"  <Cigarettes-CNN-0> .
+ <http://example.org/RetailStores> <http://schema.org/additionalProperty> <http://Cigarettes-CNN-0.com/blank#nf758638911a643e2bcdda132b2e95ab7b1>  <Cigarettes-CNN-0> .
+ <http://example.org/CorrectiveStatements> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Cigarettes-CNN-0> .
+ <http://example.org/AltriaStatement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Cigarettes-CNN-0> .
+ <http://example.org/BigTobaccoLawsuit> <http://dbpedia.org/ontology/defendant> <http://example.org/PhillipMorrisUSA> <Cigarettes-CNN-0> .
+ <http://example.org/AltriaStatement> <http://schema.org/datePublished> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-CNN-0> .
+ <http://example.org/BigTobaccoLawsuit> <http://dbpedia.org/ontology/caseNumber> "CV-99-2496"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-CNN-0> .
+ <http://example.org/StoreSignageCampaign> <http://schema.org/endDate> "2025-06-30"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-CNN-0> .
+ <http://example.org/CigaretteSmokingWarnings> <http://schema.org/expires> "2025-06-30"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-CNN-0> .
+ <http://example.org/CorrectiveStatements> <http://dbpedia.org/ontology/author> <http://example.org/JudgeGladysKessler> <Cigarettes-CNN-0> .
+ <http://example.org/CorrectiveStatements> <http://schema.org/datePublished> "2017"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-CNN-0> .
+ <http://example.org/RJReynoldsStatement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Cigarettes-CNN-0> .
+ <http://example.org/CorrectiveStatements> <http://schema.org/about> <http://example.org/CigaretteSmokingWarnings> <Cigarettes-CNN-0> .
+ <http://example.org/BigTobaccoLawsuitJudgement> <http://dbpedia.org/ontology/case> <http://example.org/BigTobaccoLawsuit> <Cigarettes-CNN-0> .
+ <http://example.org/BigTobaccoLawsuitJudgement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/LegalDecision> <Cigarettes-CNN-0> .
+ <http://example.org/BigTobaccoLawsuit> <http://dbpedia.org/ontology/dateFiled> "1999"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-CNN-0> .
+ <http://example.org/CigaretteSmokingWarnings> <http://dbpedia.org/ontology/isPartOf> <http://example.org/StoreSignageCampaign> <Cigarettes-CNN-0> .
+ <http://example.org/StoreSignageCampaign> <http://schema.org/workPerformed> <http://example.org/CigaretteSmokingWarnings> <Cigarettes-CNN-0> .
+ <http://Cigarettes-CNN-0.com/blank#nf758638911a643e2bcdda132b2e95ab7b1> <http://schema.org/value> "200000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Cigarettes-CNN-0> .
+ <http://example.org/CigaretteSmokingWarnings> <http://dbpedia.org/ontology/numberOfItems> "17"^^<http://www.w3.org/2001/XMLSchema#integer>  <Cigarettes-CNN-0> .
+ <http://example.org/PhillipMorrisUSA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Cigarettes-CNN-0> .
+ <http://example.org/RJReynoldsStatement> <http://schema.org/author> <http://example.org/RJReynoldsTobaccoCompany> <Cigarettes-CNN-0> .
+ <http://example.org/ontology/americanLungAssociation#StateOfTobaccoControlReport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Report> <Cigarettes-CNN-1> .
+ <http://example.org/ontology#Georgia> <http://example.org/ontology#grades> "Fs"  <Cigarettes-CNN-1> .
+ <http://example.org/ontology#AlaskaNatives> <http://example.org/ontology#smokingRates> "alarmingly high"  <Cigarettes-CNN-1> .
+ <http://example.org/ontology/americanLungAssociation#StateOfTobaccoControlReport> <http://example.org/ontology#grade> "A"  <Cigarettes-CNN-1> .
+ <http://example.org/ontology#Adults> <http://example.org/ontology#trend> "decreasing"  <Cigarettes-CNN-1> .
+ <http://example.org/ontology#NativeAmericans> <http://example.org/ontology#smokingRates> "alarmingly high"  <Cigarettes-CNN-1> .
+ <http://example.org/ontology#PuffBarLoophole> <http://example.org/ontology#closureBy> <http://example.org/ontology#Congress> <Cigarettes-CNN-1> .
+ <http://example.org/ontology#EightStates> <http://example.org/ontology#comparisonWithCDCRecommendation> "below"  <Cigarettes-CNN-1> .
+ <http://example.org/ontology/cdc#MiddleSchoolStudents> <http://example.org/ontology#timeframe> "past 30 days"  <Cigarettes-CNN-1> .
+ <http://example.org/ontology#FederalGovernment> <http://example.org/ontology#cigaretteTax> "$1.01"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-CNN-1> .
+ <http://example.org/ontology/fda#ProposedRule> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Regulation> <Cigarettes-CNN-1> .
+ <http://example.org/ontology/americanLungAssociation#StateOfTobaccoControlReport> <http://example.org/ontology#publicationDate> "2023-01-25"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-CNN-1> .
+ <http://example.org/ontology/government#BidenAdministration> <http://example.org/ontology#criticism> "inaction"  <Cigarettes-CNN-1> .
+ <http://example.org/ontology#Adults> <http://example.org/ontology#timeframe> "2019-2020"  <Cigarettes-CNN-1> .
+ <http://example.org/ontology#PublicPlaces> <http://example.org/ontology#smokingRestriction> "none"  <Cigarettes-CNN-1> .
+ <http://example.org/ontology/fda#MentholRule> <http://example.org/ontology#status> "pending finalization"  <Cigarettes-CNN-1> .
+ <http://example.org/ontology/fda#IndependentReview> <http://example.org/ontology#commissionedBy> <http://example.org/ontology#USFoodAndDrugAdministration> <Cigarettes-CNN-1> .
+ <http://example.org/ontology#EightStates> <http://example.org/ontology#increaseFundingFor> <http://example.org/ontology#TobaccoControlPrograms> <Cigarettes-CNN-1> .
+ <http://example.org/ontology#FederalGovernment> <http://example.org/ontology#hasEffectiveness> "high"  <Cigarettes-CNN-1> .
+ <http://example.org/ontology/fda#ReviewOfPremarketApplications> <http://example.org/ontology#submissionDeadline> "2020-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Cigarettes-CNN-1> .
+ <http://example.org/ontology/fda#ProposedRule> <http://example.org/ontology#proposalDate> "2022-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Cigarettes-CNN-1> .
+ <http://example.org/ontology#PublicPlaces> <http://example.org/ontology#timeframe> "last decade"  <Cigarettes-CNN-1> .
+ <http://example.org/ontology#Menthol> <http://example.org/ontology#effect> <http://example.org/ontology#AttractivenessToNewUsers> <Cigarettes-CNN-1> .
+ <http://example.org/ontology#SecondhandSmoke> <http://example.org/ontology#exposureIn> <http://example.org/ontology#SouthUS> <Cigarettes-CNN-1> .
+ <http://example.org/ontology#FederalGovernment> <http://example.org/ontology#taxVariation> <http://example.org/ontology#OtherTobaccoProducts> <Cigarettes-CNN-1> .
+ <http://example.org/ontology#CigaretteSmokingRates> <http://example.org/ontology#recordStatus> "lowest ever"  <Cigarettes-CNN-1> .
+ <http://example.org/ontology/fda#IndependentReview> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Activity> <Cigarettes-CNN-1> .
+ <http://example.org/ontology#Alabama> <http://example.org/ontology#grades> "Fs"  <Cigarettes-CNN-1> .
+ <http://example.org/ontology#NoState> <http://example.org/ontology#increaseCigaretteTax> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-CNN-1> .
+ <http://example.org/ontology/cdc#HighSchoolStudents> <http://example.org/ontology#currentUseOf> <http://example.org/ontology#ECigarettes> <Cigarettes-CNN-1> .
+ <http://example.org/ontology/fda#ProposedRule> <http://example.org/ontology#targets> <http://example.org/ontology#MentholCigarettes> <Cigarettes-CNN-1> .
+ <http://example.org/ontology#Adults> <http://example.org/ontology#useOf> <http://example.org/ontology#ECigarettes> <Cigarettes-CNN-1> .
+ <http://example.org/ontology#NorthCarolina> <http://example.org/ontology#grades> "Fs"  <Cigarettes-CNN-1> .
+ <http://example.org/ontology/americanLungAssociation#ResourcesToPreventYouthVapingAct> <http://example.org/ontology#proposalBy> <http://example.org/ontology#Congress> <Cigarettes-CNN-1> .
+ <http://example.org/ontology/americanLungAssociation#ResourcesToPreventYouthVapingAct> <http://example.org/ontology#fundingIncreaseFor> <http://example.org/ontology#FDACenterForTobaccoProducts> <Cigarettes-CNN-1> .
+ <http://example.org/ontology#ErikaSward> <http://example.org/ontology#statement> "There is still much room for improvement."  <Cigarettes-CNN-1> .
+ <http://example.org/ontology#StateGovernments> <http://example.org/ontology#review> "mixed"  <Cigarettes-CNN-1> .
+ <http://example.org/ontology#Workplaces> <http://example.org/ontology#timeframe> "last decade"  <Cigarettes-CNN-1> .
+ <http://example.org/ontology#Texas> <http://example.org/ontology#grades> "Fs"  <Cigarettes-CNN-1> .
+ <http://example.org/ontology/cdc#HighSchoolStudents> <http://example.org/ontology#percentage> "17"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-CNN-1> .
+ <http://example.org/ontology#AntiTobaccoPolicies> <http://example.org/ontology#effect> "save lives"  <Cigarettes-CNN-1> .
+ <http://example.org/ontology/fda#ReviewOfPremarketApplications> <http://example.org/ontology#targets> <http://example.org/ontology#SyntheticNicotineProducts> <Cigarettes-CNN-1> .
+ <http://example.org/ontology#ErikaSward> <http://example.org/ontology#position> <http://example.org/ontology/americanLungAssociation#AssistantVicePresidentOfNationalAdvocacy> <Cigarettes-CNN-1> .
+ <http://example.org/ontology#CigaretteSmokingRates> <http://example.org/ontology#timeframe> "2022"  <Cigarettes-CNN-1> .
+ <http://example.org/ontology#WestVirginia> <http://example.org/ontology#grades> "Fs"  <Cigarettes-CNN-1> .
+ <http://example.org/ontology/americanLungAssociation#StateOfTobaccoControlReport> <http://example.org/ontology#grade> <http://example.org/ontology#FederalGovernment> <Cigarettes-CNN-1> .
+ <http://example.org/ontology#Mississippi> <http://example.org/ontology#grades> "Fs"  <Cigarettes-CNN-1> .
+ <http://example.org/ontology/americanLungAssociation#ResourcesToPreventYouthVapingAct> <http://example.org/ontology#fundingIncreaseFor> <http://example.org/ontology#CDCCOfficeOnSmokingAndHealth> <Cigarettes-CNN-1> .
+ <http://example.org/ontology/fda#IndependentReview> <http://example.org/ontology#finding> "need for proactive tobacco tackling"  <Cigarettes-CNN-1> .
+ <http://example.org/ontology/americanLungAssociation#LawEnforcementActions> <http://example.org/ontology#goal> "end youth vaping epidemic"  <Cigarettes-CNN-1> .
+ <http://example.org/ontology#FederalGovernment> <http://example.org/ontology#tobaccoTaxPolicy> <http://example.org/ontology#Taxes> <Cigarettes-CNN-1> .
+ <http://example.org/ontology#Virginia> <http://example.org/ontology#grades> "Fs"  <Cigarettes-CNN-1> .
+ <http://example.org/ontology#ElevenStates> <http://example.org/ontology#refusalToExpand> <http://example.org/ontology#Medicaid> <Cigarettes-CNN-1> .
+ <http://example.org/ontology/cdc#MiddleSchoolStudents> <http://example.org/ontology#useOf> <http://example.org/ontology#ECigarette> <Cigarettes-CNN-1> .
+ <http://example.org/ontology#EightStates> <http://example.org/ontology#amount> "$1 million or more"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-CNN-1> .
+ <http://example.org/ontology/americanLungAssociation#LawEnforcementActions> <http://example.org/ontology#requirement> "significant"  <Cigarettes-CNN-1> .
+ <http://example.org/ontology#Menthol> <http://example.org/ontology#effect> <http://example.org/ontology#DifficultyToQuit> <Cigarettes-CNN-1> .
+ <http://example.org/ontology#FederalGovernment> <http://example.org/ontology#lastTaxRaise> "2009"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-CNN-1> .
+ <http://example.org/ontology/cdc#MiddleSchoolStudents> <http://example.org/ontology#percentage> "3.3"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-CNN-1> .
+ <http://example.org/ontology/fda#ProposedRule> <http://example.org/ontology#potentialLawsuitRisk> <http://example.org/ontology#High> <Cigarettes-CNN-1> .
+ <http://example.org/ontology/cdc#HighSchoolStudents> <http://example.org/ontology#ratio> "1 in 7"  <Cigarettes-CNN-1> .
+ <http://example.org/ontology#SecondhandSmoke> <http://example.org/ontology#exposureIn> <http://example.org/ontology#Appalachia> <Cigarettes-CNN-1> .
+ <http://example.org/ontology#Workplaces> <http://example.org/ontology#smokingRestriction> "none"  <Cigarettes-CNN-1> .
+ <http://example.org/ontology/americanLungAssociation#StateOfTobaccoControlReport> <http://example.org/ontology#grade> <http://example.org/ontology#MediaCampaigns> <Cigarettes-CNN-1> .
+ <http://example.org/ontology/fda#IndependentReview> <http://example.org/ontology#year> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-CNN-1> .
+ <http://example.org/ontology#LGBTQCommunity> <http://example.org/ontology#smokingRates> "alarmingly high"  <Cigarettes-CNN-1> .
+ <http://example.org/ontology/americanLungAssociation#StateOfTobaccoControlReport> <http://example.org/ontology#grade> <http://example.org/ontology#TobaccoTaxPolicy> <Cigarettes-CNN-1> .
+ <http://example.org/ontology/fda#ReviewOfPremarketApplications> <http://example.org/ontology#targets> <http://example.org/ontology#TobaccoDerivedProducts> <Cigarettes-CNN-1> .
+ <http://example.org/ontology#StatesWithFailingGrades> <http://example.org/ontology#correlationWith> <http://example.org/ontology#HighRatesOfDeathAndDiseaseByTobacco> <Cigarettes-CNN-1> .
+ <http://example.org/ontology/fda#ProposedRule> <http://example.org/ontology#targets> <http://example.org/ontology#FlavoredCigars> <Cigarettes-CNN-1> .
+ <http://example.org/ontology#USAdults> <http://example.org/ontology#smokingStatus> "decreasing"  <Cigarettes-CNN-1> .
+ <http://example.org/ontology/americanLungAssociation#StateOfTobaccoControlReport> <http://example.org/ontology#grade> "F"  <Cigarettes-CNN-1> .
+ <http://example.org/ontology#Menthol> <http://example.org/ontology#useInTobaccoProducts> <http://example.org/ontology#MaskingUnpleasantFlavors> <Cigarettes-CNN-1> .
+ <http://example.org/ontology/cdc#HighSchoolStudents> <http://example.org/ontology#equivalentNumber> "2.14 million"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-CNN-1> .
+ <http://example.org/ontology#Smoking> <http://example.org/ontology#causeOf> <http://example.org/ontology#PreventableDisabilityAndDeath> <Cigarettes-CNN-1> .
+ <http://example.org/ontology/cdc#HighSchoolStudents> <http://example.org/ontology#timeframe> "past 30 days"  <Cigarettes-CNN-1> .
+ <http://example.org/ontology#PuffBarLoophole> <http://example.org/ontology#timeframe> "2023-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Cigarettes-CNN-1> .
+ <http://example.org/ontology/cdc#HighSchoolStudents> <http://example.org/ontology#useOf> <http://example.org/ontology#ECigarette> <Cigarettes-CNN-1> .
+ <http://example.org/JohnsHopkinsMedicine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/MedicalInstitution> <Cigarettes-CNN-2> .
+ <http://example.org/CigaretteSmoking> <http://example.org/causes> <http://example.org/CoronaryHeartDisease> <Cigarettes-CNN-2> .
+ <http://example.org/NationalHealthInterviewSurvey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Survey> <Cigarettes-CNN-2> .
+ <http://Cigarettes-CNN-2.com/blank#n52c4ffc572bd47cfaee54ad13b2d22d3b2> <http://example.org/percentage> "12.5"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-CNN-2> .
+ <http://Cigarettes-CNN-2.com/blank#n52c4ffc572bd47cfaee54ad13b2d22d3b3> <http://example.org/percentage> "12.5"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-CNN-2> .
+ <http://example.org/USCentersForDiseaseControlAndPrevention> <http://example.org/found> <http://example.org/USAdults> <Cigarettes-CNN-2> .
+ <http://example.org/AmericanLungAssociation> <http://example.org/publishedReport> <http://example.org/ala/StateOfTobaccoControl2023> <Cigarettes-CNN-2> .
+ <http://example.org/CigaretteSmoking> <http://example.org/causes> <http://example.org/LiverCancer> <Cigarettes-CNN-2> .
+ <http://example.org/USAdults> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/PopulationGroup> <Cigarettes-CNN-2> .
+ <http://example.org/ala:StateOfTobaccoControl2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Report> <Cigarettes-CNN-2> .
+ <http://Cigarettes-CNN-2.com/blank#n52c4ffc572bd47cfaee54ad13b2d22d3b3> <http://example.org/inYear> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-CNN-2> .
+ <http://example.org/AmericanLungAssociation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Organization> <Cigarettes-CNN-2> .
+ <http://example.org/USFoodAndDrugAdministration> <http://example.org/claims> <http://example.org/NoSafeTobaccoProducts> <Cigarettes-CNN-2> .
+ <http://example.org/CigaretteSmoking> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/HealthRisk> <Cigarettes-CNN-2> .
+ <http://Cigarettes-CNN-2.com/blank#n52c4ffc572bd47cfaee54ad13b2d22d3b4> <http://example.org/inYear> "2016"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-CNN-2> .
+ <http://Cigarettes-CNN-2.com/blank#n52c4ffc572bd47cfaee54ad13b2d22d3b1> <http://example.org/inYear> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-CNN-2> .
+ <http://example.org/CigaretteSmoking> <http://example.org/causes> <http://example.org/StomachCancer> <Cigarettes-CNN-2> .
+ <http://example.org/CDC> <http://example.org/provides> <http://example.org/Quitline> <Cigarettes-CNN-2> .
+ <http://example.org/ECigarettes> <http://example.org/popularityAmong> <http://example.org/Teens> <Cigarettes-CNN-2> .
+ <http://example.org/CigaretteSmoking> <http://example.org/causes> <http://example.org/BladderCancer> <Cigarettes-CNN-2> .
+ <http://Cigarettes-CNN-2.com/blank#n52c4ffc572bd47cfaee54ad13b2d22d3b4> <http://example.org/percentage> "15.5"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-CNN-2> .
+ <http://example.org/US> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Country> <Cigarettes-CNN-2> .
+ <http://example.org/USAdults> <http://example.org/hasSmokingRate> <http://Cigarettes-CNN-2.com/blank#n52c4ffc572bd47cfaee54ad13b2d22d3b5>  <Cigarettes-CNN-2> .
+ <http://example.org/USAdults> <http://example.org/hasSmokingRate> <http://Cigarettes-CNN-2.com/blank#n52c4ffc572bd47cfaee54ad13b2d22d3b4>  <Cigarettes-CNN-2> .
+ <http://example.org/USCongress> <http://example.org/hasNotRaised> <http://example.org/FederalTobaccoTaxesInYears> <Cigarettes-CNN-2> .
+ <http://example.org/FederalCigaretteTax> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Tax> <Cigarettes-CNN-2> .
+ <http://Cigarettes-CNN-2.com/blank#n52c4ffc572bd47cfaee54ad13b2d22d3b7> <http://example.org/percentage> "14.0"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-CNN-2> .
+ <http://example.org/AmericanAcademyOfPediatrics> <http://example.org/recommendsStartingTobaccoTalkAge> "11"^^<http://www.w3.org/2001/XMLSchema#integer>  <Cigarettes-CNN-2> .
+ <http://example.org/FederalCigaretteTax> <http://example.org/perUnit> "per pack"  <Cigarettes-CNN-2> .
+ <http://example.org/ala:StateOfTobaccoControl2023> <http://example.org/publicationYear> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-CNN-2> .
+ <http://example.org/CigaretteSmoking> <http://example.org/causes> <http://example.org/ColonCancer> <Cigarettes-CNN-2> .
+ <http://example.org/AmericanAcademyOfPediatrics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Organization> <Cigarettes-CNN-2> .
+ <http://example.org/USFoodAndDrugAdministration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/GovernmentAgency> <Cigarettes-CNN-2> .
+ <http://Cigarettes-CNN-2.com/blank#n52c4ffc572bd47cfaee54ad13b2d22d3b5> <http://example.org/percentage> "50.0"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-CNN-2> .
+ <http://example.org/DrPanagisGaliatsatos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Physician> <Cigarettes-CNN-2> .
+ <http://Cigarettes-CNN-2.com/blank#n52c4ffc572bd47cfaee54ad13b2d22d3b5> <http://example.org/inYear> "1940"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-CNN-2> .
+ <http://example.org/Teens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/PopulationGroup> <Cigarettes-CNN-2> .
+ <http://example.org/ECigarettes> <http://example.org/containsChemicals> <http://example.org/Acetaldehyde> <Cigarettes-CNN-2> .
+ <http://example.org/CigaretteSmoking> <http://example.org/causes> <http://example.org/Stroke> <Cigarettes-CNN-2> .
+ <http://example.org/USFoodAndDrugAdministration> <http://example.org/states> <http://example.org/NoEfficacyEvidenceForECigarettesAsCessationTools> <Cigarettes-CNN-2> .
+ <http://example.org/NationalHealthInterviewSurvey> <http://example.org/respondentAgeGroup> "18 and older"  <Cigarettes-CNN-2> .
+ <http://example.org/USAdults> <http://example.org/hasSmokingRate> <http://Cigarettes-CNN-2.com/blank#n52c4ffc572bd47cfaee54ad13b2d22d3b3>  <Cigarettes-CNN-2> .
+ <http://Cigarettes-CNN-2.com/blank#n52c4ffc572bd47cfaee54ad13b2d22d3b7> <http://example.org/inYear> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-CNN-2> .
+ <http://example.org/US> <http://example.org/hasPreventableDeathCause> <http://example.org/CigaretteSmoking> <Cigarettes-CNN-2> .
+ <http://example.org/QuitSmokingResources> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Service> <Cigarettes-CNN-2> .
+ <http://example.org/DrPanagisGaliatsatos> <http://example.org/isVolunteerMedicalSpokespersonFor> <http://example.org/ala/AmericanLungAssociation> <Cigarettes-CNN-2> .
+ <http://example.org/USAdults> <http://example.org/hasSmokingRate> <http://Cigarettes-CNN-2.com/blank#n52c4ffc572bd47cfaee54ad13b2d22d3b1>  <Cigarettes-CNN-2> .
+ <http://Cigarettes-CNN-2.com/blank#n52c4ffc572bd47cfaee54ad13b2d22d3b6> <http://example.org/comparedToSmokingDeaths> "more than 10 times"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-CNN-2> .
+ <http://example.org/AmericanLungAssociation> <http://example.org/identifiesRiskGroups> <http://example.org/LGBTQCommunity> <Cigarettes-CNN-2> .
+ <http://example.org/ECigarettes> <http://example.org/containsChemicals> <http://example.org/Acrolein> <Cigarettes-CNN-2> .
+ <http://example.org/QuitSmokingResources> <http://example.org/includes> <http://example.org/Coaching> <Cigarettes-CNN-2> .
+ <http://example.org/DrPanagisGaliatsatos> <http://example.org/specialization> <http://example.org/PulmonaryAndCriticalCareMedicine> <Cigarettes-CNN-2> .
+ <http://example.org/ECigarettes> <http://example.org/canCause> <http://example.org/HeartDisease> <Cigarettes-CNN-2> .
+ <http://example.org/CigaretteSmoking> <http://example.org/causes> <http://example.org/KidneyCancer> <Cigarettes-CNN-2> .
+ <http://example.org/ala:StateOfTobaccoControl2023> <http://example.org/mentions> "alarmingly high smokingRates "^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-CNN-2> .
+ <http://example.org/Teens> <http://example.org/hasECigaretteUsageRate> <http://Cigarettes-CNN-2.com/blank#n52c4ffc572bd47cfaee54ad13b2d22d3b7>  <Cigarettes-CNN-2> .
+ <http://example.org/CigaretteSmoking> <http://example.org/causes> <http://example.org/COPD> <Cigarettes-CNN-2> .
+ <http://example.org/QuitSmokingResources> <http://example.org/includes> <http://example.org/OnlineResources> <Cigarettes-CNN-2> .
+ <http://Cigarettes-CNN-2.com/blank#n52c4ffc572bd47cfaee54ad13b2d22d3b1> <http://example.org/percentage> "11.0"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-CNN-2> .
+ <http://example.org/ECigarettes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Product> <Cigarettes-CNN-2> .
+ <http://example.org/USCentersForDiseaseControlAndPrevention> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Organization> <Cigarettes-CNN-2> .
+ <http://example.org/NationalHealthInterviewSurvey> <http://example.org/frequency> "biannual"  <Cigarettes-CNN-2> .
+ <http://example.org/CDC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/GovernmentAgency> <Cigarettes-CNN-2> .
+ <http://example.org/QuitSmokingResources> <http://example.org/includes> <http://example.org/TextPrograms> <Cigarettes-CNN-2> .
+ <http://example.org/USCongress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/GovernmentBody> <Cigarettes-CNN-2> .
+ <http://example.org/ECigarettes> <http://example.org/containsChemicals> <http://example.org/Formaldehyde> <Cigarettes-CNN-2> .
+ <http://example.org/FederalCigaretteTax> <http://example.org/amountUSD> "1.01"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-CNN-2> .
+ <http://example.org/ECigarettes> <http://example.org/canCause> <http://example.org/LungDisease> <Cigarettes-CNN-2> .
+ <http://example.org/USAdults> <http://example.org/hasSmokingRate> <http://Cigarettes-CNN-2.com/blank#n52c4ffc572bd47cfaee54ad13b2d22d3b2>  <Cigarettes-CNN-2> .
+ <http://example.org/SecondhandSmokeExposedIndividuals> <http://example.org/atRiskOf> <http://example.org/Death> <Cigarettes-CNN-2> .
+ <http://Cigarettes-CNN-2.com/blank#n52c4ffc572bd47cfaee54ad13b2d22d3b2> <http://example.org/inYear> "2020"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-CNN-2> .
+ <http://example.org/NationalHealthInterviewSurvey> <http://example.org/respondentCount> "27000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Cigarettes-CNN-2> .
+ <http://example.org/US> <http://example.org/hasWarDeathCount> <http://Cigarettes-CNN-2.com/blank#n52c4ffc572bd47cfaee54ad13b2d22d3b6>  <Cigarettes-CNN-2> .
+ <http://example.org/AmericanLungAssociation> <http://example.org/identifiesRiskGroups> <http://example.org/NativeAmericans> <Cigarettes-CNN-2> .
+ <http://example.org/NationalHealthInterviewSurvey> <http://example.org/conductedBy> <http://example.org/cdc/CentersForDiseaseControlAndPrevention> <Cigarettes-CNN-2> .
+ <http://example.org/AmericanLungAssociation> <http://example.org/identifiesRiskGroups> <http://example.org/AlaskaNatives> <Cigarettes-CNN-2> .
+ <http://example.org/CigaretteSmoking> <http://example.org/causes> <http://example.org/LungCancer> <Cigarettes-CNN-2> .
+ <http://example.org/DrPanagisGaliatsatos> <http://example.org/role> <http://example.org/DirectorOfTobaccoTreatmentClinic> <Cigarettes-CNN-2> .
+ <http://example.org/SecondhandSmokeExposedIndividuals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/PopulationGroup> <Cigarettes-CNN-2> .
+ <http://example.org/CigaretteSmoking> <http://example.org/affects> <http://example.org/SecondhandSmokeExposedIndividuals> <Cigarettes-CNN-2> .
+ <http://example.org/DrPanagisGaliatsatos> <http://example.org/affiliation> <http://example.org/JohnsHopkinsMedicine> <Cigarettes-CNN-2> .
+ <http://example.org/CDC> <http://example.org/offers> <http://example.org/QuitSmokingResources> <Cigarettes-CNN-2> .
+ <http://example.org/AmericanAcademyOfPediatrics> <http://example.org/encourages> <http://example.org/TobaccoUseScreeningDuringCheckups> <Cigarettes-CNN-2> .
+ <http://www.heart.org/HealthRisksStatement> <http://www.heart.org/recommends> "further research on long-term consequences of e-cigarettes"  <Cigarettes-CNN-3> .
+ <http://www.jhu.edu/InstituteForGlobalTobaccoControl> <http://www.jhu.edu/director> <http://Cigarettes-CNN-3.com/blank#ne7ae0c9cb5f042dba34c9022da0b6abbb8>  <Cigarettes-CNN-3> .
+ <http://www.cdc.gov/ECigaretteUseReport> <http://www.cdc.gov/mentions> <http://Cigarettes-CNN-3.com/blank#ne7ae0c9cb5f042dba34c9022da0b6abbb2>  <Cigarettes-CNN-3> .
+ <http://Cigarettes-CNN-3.com/blank#ne7ae0c9cb5f042dba34c9022da0b6abbb9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.jhu.edu/AssociateProfessor> <Cigarettes-CNN-3> .
+ <http://Cigarettes-CNN-3.com/blank#ne7ae0c9cb5f042dba34c9022da0b6abbb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cdc.gov/Finding> <Cigarettes-CNN-3> .
+ <http://Cigarettes-CNN-3.com/blank#ne7ae0c9cb5f042dba34c9022da0b6abbb2> <http://www.cdc.gov/indicates> "Adults under 44 more likely to be dual users of both cigarettes and e-cigarettes."  <Cigarettes-CNN-3> .
+ <http://www.heart.org/HealthRisksStatement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.heart.org/Statement> <Cigarettes-CNN-3> .
+ <http://www.heart.org/HealthRisksStatement> <http://www.heart.org/released> "days after ECigaretteUseReport"  <Cigarettes-CNN-3> .
+ <http://www.cdc.gov/ECigaretteUseReport> <http://www.cdc.gov/mentions> <http://Cigarettes-CNN-3.com/blank#ne7ae0c9cb5f042dba34c9022da0b6abbb1>  <Cigarettes-CNN-3> .
+ <http://www.heart.org/HealthRisksStatement> <http://www.heart.org/warnsOf> "health risks of e-cigarette use"  <Cigarettes-CNN-3> .
+ <http://Cigarettes-CNN-3.com/blank#ne7ae0c9cb5f042dba34c9022da0b6abbb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cdc.gov/Finding> <Cigarettes-CNN-3> .
+ <http://www.jhu.edu/InstituteForGlobalTobaccoControl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.jhu.edu/Institute> <Cigarettes-CNN-3> .
+ <http://www.fda.gov/RegulatoryAgency> <http://www.fda.gov/hasNotApproved> "e-cigarettes for smoking cessation"  <Cigarettes-CNN-3> .
+ <http://Cigarettes-CNN-3.com/blank#ne7ae0c9cb5f042dba34c9022da0b6abbb5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cdc.gov/Finding> <Cigarettes-CNN-3> .
+ <http://Cigarettes-CNN-3.com/blank#ne7ae0c9cb5f042dba34c9022da0b6abbb6> <http://www.cdc.gov/indicates> "About 11.4% of survey respondents over 45 currently smoked cigarettes."  <Cigarettes-CNN-3> .
+ <http://Cigarettes-CNN-3.com/blank#ne7ae0c9cb5f042dba34c9022da0b6abbb3> <http://www.cdc.gov/indicates> "E-cigarette sales jumped from 2020 to 2022."  <Cigarettes-CNN-3> .
+ <http://www.cdc.gov/ECigaretteUseReport> <http://www.cdc.gov/mentions> <http://Cigarettes-CNN-3.com/blank#ne7ae0c9cb5f042dba34c9022da0b6abbb5>  <Cigarettes-CNN-3> .
+ <http://Cigarettes-CNN-3.com/blank#ne7ae0c9cb5f042dba34c9022da0b6abbb7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cdc.gov/Finding> <Cigarettes-CNN-3> .
+ <http://Cigarettes-CNN-3.com/blank#ne7ae0c9cb5f042dba34c9022da0b6abbb7> <http://www.cdc.gov/indicates> "White adults most likely to be current e-cigarette users."  <Cigarettes-CNN-3> .
+ <http://Cigarettes-CNN-3.com/blank#ne7ae0c9cb5f042dba34c9022da0b6abbb8> <http://www.jhu.edu/name> "Dr. Joanna Cohen"  <Cigarettes-CNN-3> .
+ <http://www.cdc.gov/ECigaretteUseReport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cdc.gov/Report> <Cigarettes-CNN-3> .
+ <http://www.heart.org/ScientificStatementWritingCommittee> <http://www.heart.org/chair> <http://Cigarettes-CNN-3.com/blank#ne7ae0c9cb5f042dba34c9022da0b6abbb9>  <Cigarettes-CNN-3> .
+ <http://www.cdc.gov/ECigaretteUseReport> <http://www.cdc.gov/mentions> <http://Cigarettes-CNN-3.com/blank#ne7ae0c9cb5f042dba34c9022da0b6abbb7>  <Cigarettes-CNN-3> .
+ <http://www.heart.org/HealthRisksStatement> <http://www.heart.org/notes> "harmful properties of ingredients in e-cigarettes"  <Cigarettes-CNN-3> .
+ <http://www.cdc.gov/ECigaretteUseReport> <http://www.cdc.gov/providesSnapshot> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-CNN-3> .
+ <http://Cigarettes-CNN-3.com/blank#ne7ae0c9cb5f042dba34c9022da0b6abbb4> <http://www.cdc.gov/indicates> "22.7 million e-cigarette products sold each month."  <Cigarettes-CNN-3> .
+ <http://www.cdc.gov/ECigaretteUseReport> <http://www.cdc.gov/mentions> <http://Cigarettes-CNN-3.com/blank#ne7ae0c9cb5f042dba34c9022da0b6abbb4>  <Cigarettes-CNN-3> .
+ <http://www.cdc.gov/ECigaretteUseReport> <http://www.cdc.gov/mentions> <http://Cigarettes-CNN-3.com/blank#ne7ae0c9cb5f042dba34c9022da0b6abbb3>  <Cigarettes-CNN-3> .
+ <http://Cigarettes-CNN-3.com/blank#ne7ae0c9cb5f042dba34c9022da0b6abbb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cdc.gov/Finding> <Cigarettes-CNN-3> .
+ <http://Cigarettes-CNN-3.com/blank#ne7ae0c9cb5f042dba34c9022da0b6abbb3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cdc.gov/Finding> <Cigarettes-CNN-3> .
+ <http://Cigarettes-CNN-3.com/blank#ne7ae0c9cb5f042dba34c9022da0b6abbb9> <http://www.jhu.edu/name> "Dr. Jason J. Rose"  <Cigarettes-CNN-3> .
+ <http://Cigarettes-CNN-3.com/blank#ne7ae0c9cb5f042dba34c9022da0b6abbb5> <http://www.cdc.gov/indicates> "Young adults aged 18-24 used e-cigarettes the most, with 11% actively consuming the products."  <Cigarettes-CNN-3> .
+ <http://Cigarettes-CNN-3.com/blank#ne7ae0c9cb5f042dba34c9022da0b6abbb9> <http://www.jhu.edu/affiliation> <http://www.medschool.umaryland.edu/> <Cigarettes-CNN-3> .
+ <http://www.cdc.gov/ECigaretteUseReport> <http://www.cdc.gov/basedOn> <http://www.cdc.gov/nchs/nhis/NationalHealthInterviewSurvey> <Cigarettes-CNN-3> .
+ <http://www.cdc.gov/ECigaretteUseReport> <http://www.cdc.gov/publishedBy> <http://www.cdc.gov/nchs/NationalCenterForHealthStatistics> <Cigarettes-CNN-3> .
+ <http://www.cdc.gov/ECigaretteUseReport> <http://www.cdc.gov/mentions> <http://Cigarettes-CNN-3.com/blank#ne7ae0c9cb5f042dba34c9022da0b6abbb6>  <Cigarettes-CNN-3> .
+ <http://Cigarettes-CNN-3.com/blank#ne7ae0c9cb5f042dba34c9022da0b6abbb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cdc.gov/Finding> <Cigarettes-CNN-3> .
+ <http://Cigarettes-CNN-3.com/blank#ne7ae0c9cb5f042dba34c9022da0b6abbb1> <http://www.cdc.gov/indicates> "E-cigarette use generally declined as family income increased."  <Cigarettes-CNN-3> .
+ <http://Cigarettes-CNN-3.com/blank#ne7ae0c9cb5f042dba34c9022da0b6abbb8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.jhu.edu/Director> <Cigarettes-CNN-3> .
+ <http://example.org/NJOY> <http://example.org/NationalYouthTobaccoSurvey/reportedUsePercentage> "8.3"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-CNN-4> .
+ <http://example.org/CandySweetFlavor> <http://example.org/NationalYouthTobaccoSurvey/popularityRank> "4"^^<http://www.w3.org/2001/XMLSchema#integer>  <Cigarettes-CNN-4> .
+ <http://example.org/SyntheticNicotineRegulation> <http://www.fda.gov/targets> <http://example.org/PuffBar> <Cigarettes-CNN-4> .
+ <http://example.org/Vuse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/NationalYouthTobaccoSurvey/Brand> <Cigarettes-CNN-4> .
+ <http://example.org/PuffBar> <http://example.org/NationalYouthTobaccoSurvey/reportedUsePercentage> "29.7"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-CNN-4> .
+ <http://example.org/USCentersForDiseaseControlAndPrevention> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cdc.gov/Agency> <Cigarettes-CNN-4> .
+ <http://example.org/CandySweetFlavor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/NationalYouthTobaccoSurvey/Flavor> <Cigarettes-CNN-4> .
+ <http://example.org/USFoodAndDrugAdministration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.fda.gov/Agency> <Cigarettes-CNN-4> .
+ <http://example.org/NationalSpendingBill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.fda.gov/Regulation> <Cigarettes-CNN-4> .
+ <http://example.org/SurveyMethodologyChanges> <http://example.org/NationalYouthTobaccoSurvey/dueTo> "pandemic"  <Cigarettes-CNN-4> .
+ <http://example.org/blu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/NationalYouthTobaccoSurvey/Brand> <Cigarettes-CNN-4> .
+ <http://example.org/NationalYouthTobaccoSurvey2022> <http://example.org/NationalYouthTobaccoSurvey/conductedTo> "2022-05-31"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-CNN-4> .
+ <http://example.org/NationalYouthTobaccoSurvey2022> <http://example.org/NationalYouthTobaccoSurvey/conductedFrom> "2022-01-18"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-CNN-4> .
+ <http://example.org/BrianKing> <http://www.fda.gov/center> "Center for Tobacco Products"  <Cigarettes-CNN-4> .
+ <http://example.org/MorbidityAndMortalityWeeklyReport> <http://www.cdc.gov/publishDate> "2023-03-30"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-CNN-4> .
+ <http://example.org/NationalYouthTobaccoSurvey2022> <http://example.org/NationalYouthTobaccoSurvey/targetGroup> "middle and high school students"  <Cigarettes-CNN-4> .
+ <http://example.org/MiddleSchoolStudents> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/NationalYouthTobaccoSurvey/DemographicGroup> <Cigarettes-CNN-4> .
+ <http://example.org/NationalYouthTobaccoSurvey2022> <http://example.org/NationalYouthTobaccoSurvey/participantUse> "e-cigarettes"  <Cigarettes-CNN-4> .
+ <http://example.org/NationalSpendingBill> <http://www.fda.gov/enactedDate> "2023-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Cigarettes-CNN-4> .
+ <http://example.org/NationalYouthTobaccoSurvey2022> <http://example.org/NationalYouthTobaccoSurvey/conductedBy> <http://www.fda.gov/FoodAndDrugAdministration> <Cigarettes-CNN-4> .
+ <http://example.org/SurveyMethodologyChanges> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/NationalYouthTobaccoSurvey/MethodologyChange> <Cigarettes-CNN-4> .
+ <http://example.org/DeirdreLawrenceKittner> <http://www.cdc.gov/office> "Office on Smoking and Health"  <Cigarettes-CNN-4> .
+ <http://example.org/MintFlavor> <http://example.org/NationalYouthTobaccoSurvey/popularityRank> "2"^^<http://www.w3.org/2001/XMLSchema#integer>  <Cigarettes-CNN-4> .
+ <http://example.org/HighSchoolStudents> <http://example.org/NationalYouthTobaccoSurvey/reportedUsePercentage> "14.1"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-CNN-4> .
+ <http://example.org/SurveyMethodologyChanges> <http://example.org/NationalYouthTobaccoSurvey/impact> "limited ability to compare 2022 estimates with past years"  <Cigarettes-CNN-4> .
+ <http://example.org/NationalYouthTobaccoSurvey2022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/NationalYouthTobaccoSurvey/Survey> <Cigarettes-CNN-4> .
+ <http://example.org/blu> <http://example.org/NationalYouthTobaccoSurvey/reportedUsePercentage> "6.5"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-CNN-4> .
+ <http://example.org/MentholFlavor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/NationalYouthTobaccoSurvey/Flavor> <Cigarettes-CNN-4> .
+ <http://example.org/SMOK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/NationalYouthTobaccoSurvey/Brand> <Cigarettes-CNN-4> .
+ <http://example.org/SyntheticNicotineRegulation> <http://www.fda.gov/effectiveFrom> "2023-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Cigarettes-CNN-4> .
+ <http://example.org/DeirdreLawrenceKittner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cdc.gov/Director> <Cigarettes-CNN-4> .
+ <http://example.org/USFoodAndDrugAdministration> <http://www.fda.gov/regulates> <http://example.org/SyntheticNicotineRegulation> <Cigarettes-CNN-4> .
+ <http://example.org/FlavoredE-cigaretteProducts> <http://example.org/NationalYouthTobaccoSurvey/chosenByPercentage> "84.9"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-CNN-4> .
+ <http://example.org/MentholFlavor> <http://example.org/NationalYouthTobaccoSurvey/popularityRank> "3"^^<http://www.w3.org/2001/XMLSchema#integer>  <Cigarettes-CNN-4> .
+ <http://example.org/SyntheticNicotineRegulation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.fda.gov/Regulation> <Cigarettes-CNN-4> .
+ <http://example.org/MintFlavor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/NationalYouthTobaccoSurvey/Flavor> <Cigarettes-CNN-4> .
+ <http://example.org/PuffBar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/NationalYouthTobaccoSurvey/Brand> <Cigarettes-CNN-4> .
+ <http://example.org/Vuse> <http://example.org/NationalYouthTobaccoSurvey/reportedUsePercentage> "23.6"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-CNN-4> .
+ <http://example.org/FrequentE-cigaretteUsers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/NationalYouthTobaccoSurvey/UserGroup> <Cigarettes-CNN-4> .
+ <http://example.org/Hyde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/NationalYouthTobaccoSurvey/Brand> <Cigarettes-CNN-4> .
+ <http://example.org/HighSchoolStudents> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/NationalYouthTobaccoSurvey/DemographicGroup> <Cigarettes-CNN-4> .
+ <http://example.org/DailyE-cigaretteUsers> <http://example.org/NationalYouthTobaccoSurvey/reportedFrequencyPercentage> "27.6"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-CNN-4> .
+ <http://example.org/NationalSpendingBill> <http://www.fda.gov/regulationScope> "tobacco products containing nicotine from any source"  <Cigarettes-CNN-4> .
+ <http://example.org/FrequentE-cigaretteUsers> <http://example.org/NationalYouthTobaccoSurvey/reportedFrequencyPercentage> "42.3"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-CNN-4> .
+ <http://example.org/FruitFlavor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/NationalYouthTobaccoSurvey/Flavor> <Cigarettes-CNN-4> .
+ <http://example.org/Hyde> <http://example.org/NationalYouthTobaccoSurvey/reportedUsePercentage> "7.3"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-CNN-4> .
+ <http://example.org/USCentersForDiseaseControlAndPrevention> <http://www.cdc.gov/published> <http://example.org/MorbidityAndMortalityWeeklyReport> <Cigarettes-CNN-4> .
+ <http://example.org/SMOK> <http://example.org/NationalYouthTobaccoSurvey/reportedUsePercentage> "13.5"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-CNN-4> .
+ <http://example.org/BrianKing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.fda.gov/Director> <Cigarettes-CNN-4> .
+ <http://example.org/JUUL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/NationalYouthTobaccoSurvey/Brand> <Cigarettes-CNN-4> .
+ <http://example.org/JUUL> <http://example.org/NationalYouthTobaccoSurvey/reportedUsePercentage> "22.0"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-CNN-4> .
+ <http://example.org/NationalYouthTobaccoSurvey2022> <http://example.org/NationalYouthTobaccoSurvey/conductedBy> <http://www.cdc.gov/CentersForDiseaseControlAndPrevention> <Cigarettes-CNN-4> .
+ <http://example.org/NJOY> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/NationalYouthTobaccoSurvey/Brand> <Cigarettes-CNN-4> .
+ <http://example.org/FlavoredE-cigaretteProducts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/NationalYouthTobaccoSurvey/ProductType> <Cigarettes-CNN-4> .
+ <http://example.org/MiddleSchoolStudents> <http://example.org/NationalYouthTobaccoSurvey/reportedUsePercentage> "3.3"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-CNN-4> .
+ <http://example.org/DailyE-cigaretteUsers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/NationalYouthTobaccoSurvey/UserGroup> <Cigarettes-CNN-4> .
+ <http://example.org/MorbidityAndMortalityWeeklyReport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.cdc.gov/Publication> <Cigarettes-CNN-4> .
+ <http://example.org/MorbidityAndMortalityWeeklyReport> <http://www.cdc.gov/includesStudy> <http://example.org/NationalYouthTobaccoSurvey2022> <Cigarettes-CNN-4> .
+ <http://example.org/FruitFlavor> <http://example.org/NationalYouthTobaccoSurvey/popularityRank> "1"^^<http://www.w3.org/2001/XMLSchema#integer>  <Cigarettes-CNN-4> .
+ <http://example.org/NationalYouthTobaccoSurvey2022> <http://example.org/NationalYouthTobaccoSurvey/totalParticipants> "2.55 million"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-CNN-4> .
+ <http://example.org/Survey> <http://schema.org/conductedIn> <http://Cigarettes-CNN-5.com/blank#n964c9042e9664ecf824873aa96b6526bb2>  <Cigarettes-CNN-5> .
+ <http://example.org/Study2022> <http://schema.org/datePublished> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-CNN-5> .
+ <http://example.org/Survey> <http://schema.org/conductedIn> <http://Cigarettes-CNN-5.com/blank#n964c9042e9664ecf824873aa96b6526bb1>  <Cigarettes-CNN-5> .
+ <http://example.org/UniversityOfCaliforniaSanFrancisco> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EducationalOrganization> <Cigarettes-CNN-5> .
+ <http://example.org/Study2021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Cigarettes-CNN-5> .
+ <http://example.org/Survey> <http://schema.org/participantAverageAge> "50"^^<http://www.w3.org/2001/XMLSchema#integer>  <Cigarettes-CNN-5> .
+ <http://Cigarettes-CNN-5.com/blank#n964c9042e9664ecf824873aa96b6526bb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Occupation> <Cigarettes-CNN-5> .
+ <http://example.org/Survey> <http://schema.org/about> <http://example.org/MarijuanaSmokeSafety> <Cigarettes-CNN-5> .
+ <http://example.org/DrBethCohen> <http://schema.org/coDirectorOf> <http://example.org/UCSFsProgramInResidencyInvestigationMethodsAndEpidemiology> <Cigarettes-CNN-5> .
+ <http://example.org/Study2021> <http://schema.org/datePublished> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-CNN-5> .
+ <http://example.org/EmphysemaInSmokers> <http://schema.org/name> "Emphysema in Smokers"  <Cigarettes-CNN-5> .
+ <http://example.org/MarijuanaSmokeSafety> <http://schema.org/name> "Perception of Marijuana Smoke Safety"  <Cigarettes-CNN-5> .
+ <http://example.org/MarijuanaSmokeToxins> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Cigarettes-CNN-5> .
+ <http://example.org/DrBethCohen> <http://schema.org/jobTitle> "Lead Study Author"  <Cigarettes-CNN-5> .
+ <http://example.org/JAMANetworkOpen> <http://schema.org/name> "JAMA Network Open"  <Cigarettes-CNN-5> .
+ <http://example.org/UniversityOfOttawa> <http://schema.org/location> "Ontario"  <Cigarettes-CNN-5> .
+ <http://example.org/UniversityOfCaliforniaSanFrancisco> <http://schema.org/name> "University of California, San Francisco"  <Cigarettes-CNN-5> .
+ <http://example.org/DrGiselleRevah> <http://schema.org/worksFor> <http://example.org/UniversityOfOttawa> <Cigarettes-CNN-5> .
+ <http://example.org/CNN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Cigarettes-CNN-5> .
+ <http://example.org/Survey> <http://schema.org/author> <http://example.org/DrBethCohen> <Cigarettes-CNN-5> .
+ <http://example.org/UniversityOfMichiganAnnArbor> <http://schema.org/name> "University of Michigan in Ann Arbor"  <Cigarettes-CNN-5> .
+ <http://example.org/DrBethCohen> <http://schema.org/hasOccupation> <http://Cigarettes-CNN-5.com/blank#n964c9042e9664ecf824873aa96b6526bb4>  <Cigarettes-CNN-5> .
+ <http://example.org/Survey> <http://schema.org/publishedIn> <http://example.org/JAMANetworkOpen> <Cigarettes-CNN-5> .
+ <http://example.org/UCSFsProgramInResidencyInvestigationMethodsAndEpidemiology> <http://schema.org/name> "UCSF’s program in residency investigation methods and epidemiology"  <Cigarettes-CNN-5> .
+ <http://Cigarettes-CNN-5.com/blank#n964c9042e9664ecf824873aa96b6526bb4> <http://schema.org/name> "Professor of Medicine"  <Cigarettes-CNN-5> .
+ <http://example.org/UniversityOfOttawa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EducationalOrganization> <Cigarettes-CNN-5> .
+ <http://example.org/Study2021> <http://schema.org/about> <http://example.org/MarijuanaSmokeToxins> <Cigarettes-CNN-5> .
+ <http://example.org/Study2022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Cigarettes-CNN-5> .
+ <http://example.org/UniversityOfOttawa> <http://schema.org/name> "University of Ottawa"  <Cigarettes-CNN-5> .
+ <http://example.org/CenterForTheStudyOfDrugsAlcoholSmokingAndHealth> <http://schema.org/name> "Center for the Study of Drugs, Alcohol, Smoking and Health"  <Cigarettes-CNN-5> .
+ <http://Cigarettes-CNN-5.com/blank#n964c9042e9664ecf824873aa96b6526bb5> <http://schema.org/name> "Assistant Professor in the Department of Radiology"  <Cigarettes-CNN-5> .
+ <http://example.org/UniversityOfMichiganAnnArbor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EducationalOrganization> <Cigarettes-CNN-5> .
+ <http://example.org/JAMANetworkOpen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> <Cigarettes-CNN-5> .
+ <http://example.org/Survey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Cigarettes-CNN-5> .
+ <http://example.org/DrGiselleRevah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Cigarettes-CNN-5> .
+ <http://example.org/Study2022> <http://schema.org/about> <http://example.org/EmphysemaInSmokers> <Cigarettes-CNN-5> .
+ <http://Cigarettes-CNN-5.com/blank#n964c9042e9664ecf824873aa96b6526bb1> <http://schema.org/year> "2017"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-CNN-5> .
+ <http://Cigarettes-CNN-5.com/blank#n964c9042e9664ecf824873aa96b6526bb5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Occupation> <Cigarettes-CNN-5> .
+ <http://example.org/AmericanLungAssociation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Cigarettes-CNN-5> .
+ <http://example.org/EmphysemaInSmokers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Cigarettes-CNN-5> .
+ <http://example.org/DrBethCohen> <http://schema.org/worksFor> <http://example.org/UniversityOfCaliforniaSanFrancisco> <Cigarettes-CNN-5> .
+ <http://example.org/Survey> <http://schema.org/conductedIn> <http://Cigarettes-CNN-5.com/blank#n964c9042e9664ecf824873aa96b6526bb3>  <Cigarettes-CNN-5> .
+ <http://Cigarettes-CNN-5.com/blank#n964c9042e9664ecf824873aa96b6526bb2> <http://schema.org/year> "2020"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-CNN-5> .
+ <http://example.org/MarijuanaSmokeSafety> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Cigarettes-CNN-5> .
+ <http://Cigarettes-CNN-5.com/blank#n964c9042e9664ecf824873aa96b6526bb3> <http://schema.org/year> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-CNN-5> .
+ <http://example.org/DrBethCohen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Cigarettes-CNN-5> .
+ <http://example.org/CarolBoyd> <http://schema.org/worksFor> <http://example.org/CenterForTheStudyOfDrugsAlcoholSmokingAndHealth> <Cigarettes-CNN-5> .
+ <http://example.org/MarijuanaSmokeToxins> <http://schema.org/name> "Toxins in Marijuana Smoke"  <Cigarettes-CNN-5> .
+ <http://example.org/UCSFsProgramInResidencyInvestigationMethodsAndEpidemiology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Program> <Cigarettes-CNN-5> .
+ <http://example.org/CarolBoyd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Cigarettes-CNN-5> .
+ <http://example.org/AmericanLungAssociation> <http://schema.org/name> "American Lung Association"  <Cigarettes-CNN-5> .
+ <http://example.org/Survey> <http://schema.org/participantCount> "5000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Cigarettes-CNN-5> .
+ <http://example.org/CenterForTheStudyOfDrugsAlcoholSmokingAndHealth> <http://schema.org/location> <http://example.org/UniversityOfMichiganAnnArbor> <Cigarettes-CNN-5> .
+ <http://example.org/CenterForTheStudyOfDrugsAlcoholSmokingAndHealth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Cigarettes-CNN-5> .
+ <http://example.org/DrGiselleRevah> <http://schema.org/hasOccupation> <http://Cigarettes-CNN-5.com/blank#n964c9042e9664ecf824873aa96b6526bb5>  <Cigarettes-CNN-5> .
+ <http://example.org/CarolBoyd> <http://schema.org/jobTitle> "Founding Director"  <Cigarettes-CNN-5> .
+ <http://example.org/DrGiselleRevah> <http://schema.org/jobTitle> "Lead Study Author"  <Cigarettes-CNN-5> .
+ <http://cnn.com/article> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://survey.org/Article> <Cigarettes-CNN-6> .
+ <http://cnn.com/article> <http://survey.org/mentions> <http://ecigarettebrands.org/Vuse> <Cigarettes-CNN-6> .
+ <http://www.fda.gov/NationalYouthTobaccoSurvey> <http://survey.org/estimatesFlavoredVapeUse> "85"^^<http://www.w3.org/2001/XMLSchema#percent>  <Cigarettes-CNN-6> .
+ <http://organizations.org/TruthInitiative> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://survey.org/Organization> <Cigarettes-CNN-6> .
+ <http://ecigarettebrands.org/JUUL> <http://survey.org/usualBrandUsedBy> "5.7"^^<http://www.w3.org/2001/XMLSchema#percent>  <Cigarettes-CNN-6> .
+ <http://cnn.com/article> <http://survey.org/mentions> <http://organizations.org/CampaignForTobaccoFreeKids> <Cigarettes-CNN-6> .
+ <http://www.cdc.gov/agency> <http://survey.org/partnersWith> <http://www.fda.gov/agency> <Cigarettes-CNN-6> .
+ <http://cnn.com/article> <http://survey.org/mentions> <http://ecigarettebrands.org/PuffBar> <Cigarettes-CNN-6> .
+ <http://www.fda.gov/agency> <http://survey.org/delaysRegulationDecision> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <Cigarettes-CNN-6> .
+ <http://www.cdc.gov/agency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://survey.org/RegulatoryAgency> <Cigarettes-CNN-6> .
+ <http://ecigarettebrands.org/PuffBar> <http://survey.org/containsFlavors> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <Cigarettes-CNN-6> .
+ <http://ecigarettebrands.org/SMOK> <http://survey.org/usualBrandUsedBy> "9.6"^^<http://www.w3.org/2001/XMLSchema#percent>  <Cigarettes-CNN-6> .
+ <http://cnn.com/article> <http://survey.org/mentions> <http://www.fda.gov/NationalYouthTobaccoSurvey> <Cigarettes-CNN-6> .
+ <http://cnn.com/article> <http://survey.org/includesStatement> <http://Cigarettes-CNN-6.com/blank#n4f9d5a6053114c32b1fb4923aaf6c2deb3>  <Cigarettes-CNN-6> .
+ <http://ecigarettebrands.org/PuffBar> <http://survey.org/containsSyntheticNicotine> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <Cigarettes-CNN-6> .
+ <http://Cigarettes-CNN-6.com/blank#n4f9d5a6053114c32b1fb4923aaf6c2deb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://survey.org/Statement> <Cigarettes-CNN-6> .
+ <http://www.fda.gov/NationalYouthTobaccoSurvey> <http://survey.org/estimatesTeenUse> "2060000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Cigarettes-CNN-6> .
+ <http://Cigarettes-CNN-6.com/blank#n4f9d5a6053114c32b1fb4923aaf6c2deb3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://survey.org/Statement> <Cigarettes-CNN-6> .
+ <http://cnn.com/article> <http://survey.org/mentions> <http://ecigarettebrands.org/SMOK> <Cigarettes-CNN-6> .
+ <http://cnn.com/article> <http://survey.org/mentions> <http://www.cdc.gov/MMWRReport> <Cigarettes-CNN-6> .
+ <http://Cigarettes-CNN-6.com/blank#n4f9d5a6053114c32b1fb4923aaf6c2deb2> <http://survey.org/content> "This study shows yet again the urgent need for federal action to address the nation’s youth e-cigarette epidemic."  <Cigarettes-CNN-6> .
+ <http://Cigarettes-CNN-6.com/blank#n4f9d5a6053114c32b1fb4923aaf6c2deb2> <http://survey.org/madeBy> <http://organizations.org/AmericanCancerSocietyCancerActionNetwork> <Cigarettes-CNN-6> .
+ <http://ecigarettebrands.org/Suorin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://survey.org/E-cigaretteBrand> <Cigarettes-CNN-6> .
+ <http://cnn.com/article> <http://survey.org/mentions> <http://ecigarettebrands.org/JUUL> <Cigarettes-CNN-6> .
+ <http://www.fda.gov/agency> <http://survey.org/rejectsENDSApplications> "6000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Cigarettes-CNN-6> .
+ <http://organizations.org/TruthInitiative> <http://survey.org/aroseFrom> "1998 Master Settlement Agreement"  <Cigarettes-CNN-6> .
+ <http://www.fda.gov/agency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://survey.org/RegulatoryAgency> <Cigarettes-CNN-6> .
+ <http://Cigarettes-CNN-6.com/blank#n4f9d5a6053114c32b1fb4923aaf6c2deb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://survey.org/Statement> <Cigarettes-CNN-6> .
+ <http://Cigarettes-CNN-6.com/blank#n4f9d5a6053114c32b1fb4923aaf6c2deb1> <http://survey.org/madeBy> <http://organizations.org/TruthInitiative> <Cigarettes-CNN-6> .
+ <http://www.fda.gov/NationalYouthTobaccoSurvey> <http://survey.org/estimatesHighSchoolUse> "11.3"^^<http://www.w3.org/2001/XMLSchema#percent>  <Cigarettes-CNN-6> .
+ <http://ecigarettebrands.org/PuffBar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://survey.org/E-cigaretteBrand> <Cigarettes-CNN-6> .
+ <http://cnn.com/article> <http://survey.org/mentions> <http://organizations.org/AmericanCancerSocietyCancerActionNetwork> <Cigarettes-CNN-6> .
+ <http://ecigarettebrands.org/Vuse> <http://survey.org/usualBrandUsedBy> "10.8"^^<http://www.w3.org/2001/XMLSchema#percent>  <Cigarettes-CNN-6> .
+ <http://cnn.com/article> <http://survey.org/mentions> <http://ecigarettebrands.org/Suorin> <Cigarettes-CNN-6> .
+ <http://organizations.org/AmericanCancerSocietyCancerActionNetwork> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://survey.org/Organization> <Cigarettes-CNN-6> .
+ <http://cnn.com/article> <http://survey.org/includesStatement> <http://Cigarettes-CNN-6.com/blank#n4f9d5a6053114c32b1fb4923aaf6c2deb1>  <Cigarettes-CNN-6> .
+ <http://www.fda.gov/NationalYouthTobaccoSurvey> <http://survey.org/estimatesMiddleSchoolUse> "2.8"^^<http://www.w3.org/2001/XMLSchema#percent>  <Cigarettes-CNN-6> .
+ <http://ecigarettebrands.org/Vuse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://survey.org/E-cigaretteBrand> <Cigarettes-CNN-6> .
+ <http://Cigarettes-CNN-6.com/blank#n4f9d5a6053114c32b1fb4923aaf6c2deb3> <http://survey.org/content> "As kids return to school, we face the real risk of a resurgence of the youth e-cigarette epidemic unless the FDA quickly eliminates all flavored e-cigarettes."  <Cigarettes-CNN-6> .
+ <http://cnn.com/article> <http://survey.org/mentions> <http://organizations.org/TruthInitiative> <Cigarettes-CNN-6> .
+ <http://organizations.org/CampaignForTobaccoFreeKids> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://survey.org/Organization> <Cigarettes-CNN-6> .
+ <http://ecigarettebrands.org/PuffBar> <http://survey.org/usualBrandUsedBy> "26.1"^^<http://www.w3.org/2001/XMLSchema#percent>  <Cigarettes-CNN-6> .
+ <http://Cigarettes-CNN-6.com/blank#n4f9d5a6053114c32b1fb4923aaf6c2deb1> <http://survey.org/content> "The number one brand used by youth, Puff Bar, not only comes in a wide variety of flavors, but has also recently indicated that it will now be manufactured with synthetic nicotine in a brazen attempt to thwart FDA oversight."  <Cigarettes-CNN-6> .
+ <http://cnn.com/article> <http://survey.org/includesStatement> <http://Cigarettes-CNN-6.com/blank#n4f9d5a6053114c32b1fb4923aaf6c2deb2>  <Cigarettes-CNN-6> .
+ <http://www.fda.gov/NationalYouthTobaccoSurvey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://survey.org/Survey> <Cigarettes-CNN-6> .
+ <http://organizations.org/AmericanCancerSocietyCancerActionNetwork> <http://survey.org/advocatesAgainstFlavoredTobacco> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <Cigarettes-CNN-6> .
+ <http://organizations.org/CampaignForTobaccoFreeKids> <http://survey.org/concernedWithE-cigaretteUse> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <Cigarettes-CNN-6> .
+ <http://ecigarettebrands.org/Suorin> <http://survey.org/usualBrandUsedBy> "2.3"^^<http://www.w3.org/2001/XMLSchema#percent>  <Cigarettes-CNN-6> .
+ <http://ecigarettebrands.org/JUUL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://survey.org/E-cigaretteBrand> <Cigarettes-CNN-6> .
+ <http://www.fda.gov/NationalYouthTobaccoSurvey> <http://survey.org/estimatesHighSchoolDailyUse> "25"^^<http://www.w3.org/2001/XMLSchema#percent>  <Cigarettes-CNN-6> .
+ <http://Cigarettes-CNN-6.com/blank#n4f9d5a6053114c32b1fb4923aaf6c2deb3> <http://survey.org/madeBy> <http://organizations.org/CampaignForTobaccoFreeKids> <Cigarettes-CNN-6> .
+ <http://ecigarettebrands.org/SMOK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://survey.org/E-cigaretteBrand> <Cigarettes-CNN-6> .
+ <http://example.org/ns#ManhattanBeach> <http://schema.org/location> <http://schema.org/California> <Cigarettes-CNN-7> .
+ <http://example.org/ns#PollResults> <http://schema.org/variableMeasured> "Support for banning menthol cigarette sales"  <Cigarettes-CNN-7> .
+ <http://example.org/ns#NancyBrown> <http://schema.org/name> "Nancy Brown"  <Cigarettes-CNN-7> .
+ <http://example.org/ns#PollResults> <http://schema.org/datePublished> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-CNN-7> .
+ <http://example.org/ns#StudyAboutTobaccoSales> <http://purl.org/dc/elements/1.1/date> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-CNN-7> .
+ <http://example.org/ns#BeverlyHills> <http://schema.org/location> <http://schema.org/California> <Cigarettes-CNN-7> .
+ <http://example.org/ns#StudyAboutTobaccoSales> <http://purl.org/dc/elements/1.1/title> "More than half of US adults support ending the sale of all tobacco products"  <Cigarettes-CNN-7> .
+ <http://example.org/ns#PollResults> <http://schema.org/variableMeasured> "Support for ending the sale of all tobacco products"  <Cigarettes-CNN-7> .
+ <http://example.org/ns#HealthAndHumanServicesSecretary> <http://schema.org/name> "Xavier Becerra"  <Cigarettes-CNN-7> .
+ <http://example.org/ns#CDCResearchers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Cigarettes-CNN-7> .
+ <http://example.org/ns#FlavoredCigars> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#TobaccoProduct> <Cigarettes-CNN-7> .
+ <http://example.org/ns#StudyOnMentholCigaretteBanImpact> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ScholarlyArticle> <Cigarettes-CNN-7> .
+ <http://example.org/ns#UnknownAuthor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Cigarettes-CNN-7> .
+ <http://example.org/ns#FDAMentholBanProposal> <http://schema.org/target> <http://example.org/ns#FlavoredCigars> <Cigarettes-CNN-7> .
+ <http://example.org/ns#DrSanjayGupta> <http://schema.org/name> "Dr. Sanjay Gupta"  <Cigarettes-CNN-7> .
+ <http://example.org/ns#FDAMentholBanProposal> <http://schema.org/target> <http://example.org/ns#MentholCigarettes> <Cigarettes-CNN-7> .
+ <http://example.org/ns#FDAMentholBanProposal> <http://schema.org/date> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-CNN-7> .
+ <http://example.org/ns#NancyBrown> <http://schema.org/jobTitle> "CEO"  <Cigarettes-CNN-7> .
+ <http://example.org/ns#FDAMentholBanProposal> <http://schema.org/name> "US Food and Drug Administration"  <Cigarettes-CNN-7> .
+ <http://example.org/ns#California> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/State> <Cigarettes-CNN-7> .
+ <http://example.org/ns#StudyAboutTobaccoSales> <http://purl.org/dc/elements/1.1/creator> <http://example.org/ns#CDCResearchers> <Cigarettes-CNN-7> .
+ <http://example.org/ns#ManhattanBeach> <http://schema.org/name> "Manhattan Beach"  <Cigarettes-CNN-7> .
+ <http://example.org/ns#CNNHealth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Cigarettes-CNN-7> .
+ <http://example.org/ns#DrSanjayGupta> <http://schema.org/affiliation> <http://example.org/ns#CNNHealth> <Cigarettes-CNN-7> .
+ <http://example.org/ns#NancyBrown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Cigarettes-CNN-7> .
+ <http://example.org/ns#HealthAndHumanServicesSecretary> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Cigarettes-CNN-7> .
+ <http://example.org/ns#AmericanHeartAssociation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Cigarettes-CNN-7> .
+ <http://Cigarettes-CNN-7.com/blank#n8d5284ecf212416db2389a4eb2ec9508b1> <http://schema.org/outcome> "650,000 lives saved within 40 years"  <Cigarettes-CNN-7> .
+ <http://example.org/ns#AmericanHeartAssociation> <http://schema.org/name> "American Heart Association"  <Cigarettes-CNN-7> .
+ <http://example.org/ns#CDCResearchers> <http://schema.org/name> "US Centers for Disease Control and Prevention"  <Cigarettes-CNN-7> .
+ <http://example.org/ns#StudyAboutTobaccoSales> <http://purl.org/dc/elements/1.1/subject> <http://example.org/ns#TobaccoProductSales> <Cigarettes-CNN-7> .
+ <http://example.org/ns#FDAMentholBanProposal> <http://schema.org/description> "The FDA proposed a ban on menthol cigarettes and flavored cigars."  <Cigarettes-CNN-7> .
+ <http://example.org/ns#DrSanjayGupta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Cigarettes-CNN-7> .
+ <http://example.org/ns#StudyOnMentholCigaretteBanImpact> <http://schema.org/result> <http://Cigarettes-CNN-7.com/blank#n8d5284ecf212416db2389a4eb2ec9508b1>  <Cigarettes-CNN-7> .
+ <http://example.org/ns#MentholCigarettes> <http://schema.org/name> "Menthol Cigarettes"  <Cigarettes-CNN-7> .
+ <http://example.org/ns#ManhattanBeach> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/City> <Cigarettes-CNN-7> .
+ <http://example.org/ns#CNNHealth> <http://schema.org/name> "CNN Health"  <Cigarettes-CNN-7> .
+ <http://example.org/ns#California> <http://schema.org/name> "California"  <Cigarettes-CNN-7> .
+ <http://example.org/ns#PollResults> <http://schema.org/numberOfParticipants> "6455"^^<http://www.w3.org/2001/XMLSchema#integer>  <Cigarettes-CNN-7> .
+ <http://Cigarettes-CNN-7.com/blank#n8d5284ecf212416db2389a4eb2ec9508b1> <http://schema.org/outcome> "15% reduction in smoking by 2026"  <Cigarettes-CNN-7> .
+ <http://example.org/ns#MentholCigarettes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#TobaccoProduct> <Cigarettes-CNN-7> .
+ <http://example.org/ns#FDAMentholBanProposal> <http://schema.org/actionStatus> "Proposed"  <Cigarettes-CNN-7> .
+ <http://example.org/ns#StudyAboutTobaccoSales> <http://purl.org/dc/elements/1.1/description> "A study led by researchers from the US Centers for Disease Control and Prevention on US adults' support for ending the sale of all tobacco products and banning menthol cigarette sales."  <Cigarettes-CNN-7> .
+ <http://example.org/ns#BeverlyHills> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/City> <Cigarettes-CNN-7> .
+ <http://example.org/ns#HealthAndHumanServicesSecretary> <http://schema.org/jobTitle> "Health and Human Services Secretary"  <Cigarettes-CNN-7> .
+ <http://example.org/ns#FDAMentholBanProposal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GovernmentOrganization> <Cigarettes-CNN-7> .
+ <http://example.org/ns#PollResults> <http://schema.org/name> "Poll on Tobacco Product Sales"  <Cigarettes-CNN-7> .
+ <http://example.org/ns#BeverlyHills> <http://schema.org/name> "Beverly Hills"  <Cigarettes-CNN-7> .
+ <http://example.org/ns#PollResults> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Dataset> <Cigarettes-CNN-7> .
+ <http://example.org/ns#StudyOnMentholCigaretteBanImpact> <http://purl.org/dc/elements/1.1/date> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-CNN-7> .
+ <http://example.org/ns#UnknownAuthor> <http://schema.org/name> "Unknown"  <Cigarettes-CNN-7> .
+ <http://example.org/ns#NancyBrown> <http://schema.org/affiliation> <http://example.org/ns#AmericanHeartAssociation> <Cigarettes-CNN-7> .
+ <http://example.org/ns#FlavoredCigars> <http://schema.org/name> "Flavored Cigars"  <Cigarettes-CNN-7> .
+ <http://example.org/ns#StudyOnMentholCigaretteBanImpact> <http://schema.org/author> <http://example.org/ns#UnknownAuthor> <Cigarettes-CNN-7> .
+ <http://example.org/nhs/NationalHealthService> <http://example.org/operatesIn> <http://example.org/England> <Cigarettes-CNN-8> .
+ <http://example.org/ECigaretteProducts> <http://example.org/canBeSubmittedTo> <http://example.org/mhra/MedicinesAndHealthcareProductsRegulatoryAgency> <Cigarettes-CNN-8> .
+ <http://example.org/GovernmentStatementOnECigarettes> <http://example.org/mentions> <http://example.org/FirstCountryPrescribingECigarettes> <Cigarettes-CNN-8> .
+ <http://example.org/gov/UKGovernment> <http://example.org/madeStatement> <http://example.org/GovernmentStatementOnECigarettes> <Cigarettes-CNN-8> .
+ <http://example.org/CommentsOnECigarettes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/CollectionOfStatements> <Cigarettes-CNN-8> .
+ <http://example.org/RegulatoryApprovalProcess> <http://example.org/inCountry> <http://example.org/England> <Cigarettes-CNN-8> .
+ <http://example.org/BoobisStatementOnECigarettes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Statement> <Cigarettes-CNN-8> .
+ <http://example.org/WestStatementOnECigarettes> <http://example.org/mentions> <http://example.org/TobaccoCompanyECigarettes> <Cigarettes-CNN-8> .
+ <http://example.org/uni/UniversityOfEdinburgh> <http://example.org/employs> <http://example.org/uni/LindaBauld> <Cigarettes-CNN-8> .
+ <http://example.org/PrescriptionOfECigarettes> <http://example.org/inCountry> <http://example.org/England> <Cigarettes-CNN-8> .
+ <http://example.org/ApprovedNicotineVapingProducts> <http://example.org/inRegister> <http://example.org/ARTG> <Cigarettes-CNN-8> .
+ <http://example.org/uni/LindaBauld> <http://example.org/commented> <http://example.org/BauldStatementOnECigarettes> <Cigarettes-CNN-8> .
+ <http://example.org/uni/AlanBoobis> <http://example.org/commented> <http://example.org/BoobisStatementOnECigarettes> <Cigarettes-CNN-8> .
+ <http://example.org/ReferenceToAustralianLegislationOnVaping> <http://example.org/relatedTo> <http://example.org/AustralianVapingLegislation> <Cigarettes-CNN-8> .
+ <http://example.org/MedicinallyLicensedVapingProducts> <http://example.org/requires> <http://example.org/DefinedStandardByMHRA> <Cigarettes-CNN-8> .
+ <http://example.org/Correction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Event> <Cigarettes-CNN-8> .
+ <http://example.org/WestStatementOnECigarettes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Statement> <Cigarettes-CNN-8> .
+ <http://example.org/BauldStatementOnECigarettes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Statement> <Cigarettes-CNN-8> .
+ <http://example.org/nhs/NationalHealthService> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Organization> <Cigarettes-CNN-8> .
+ <http://example.org/UpdatedGuidance> <http://example.org/allows> <http://example.org/PrescriptionOfECigarettes> <Cigarettes-CNN-8> .
+ <http://example.org/PrescriptionOfECigarettes> <http://example.org/intendedTo> <http://example.org/CutSmokingRates> <Cigarettes-CNN-8> .
+ <http://example.org/CommentsOnECigarettes> <http://example.org/includes> <http://example.org/uni/LindaBauld> <Cigarettes-CNN-8> .
+ <http://example.org/AustralianVapingLegislation> <http://example.org/requires> <http://example.org/DoctorsPrescriptionForNicotineECigarettes> <Cigarettes-CNN-8> .
+ <http://example.org/tga/TherapeuticGoodsAdministration> <http://example.org/operatesIn> <http://example.org/Australia> <Cigarettes-CNN-8> .
+ <http://example.org/FirstCountryPrescribingECigarettes> <http://example.org/relatedTo> <http://example.org/England> <Cigarettes-CNN-8> .
+ <http://example.org/ApprovedNicotineVapingProducts> <http://example.org/status> <http://example.org/NotApproved> <Cigarettes-CNN-8> .
+ <http://example.org/uni/LindaBauld> <http://example.org/holdsPosition> <http://example.org/BruceAndJohnUsherChairInPublicHealth> <Cigarettes-CNN-8> .
+ <http://example.org/OriginalStory> <http://example.org/publishedBy> <http://example.org/CNN> <Cigarettes-CNN-8> .
+ <http://example.org/UpdatedGuidance> <http://example.org/relatedTo> <http://example.org/ECigaretteProducts> <Cigarettes-CNN-8> .
+ <http://example.org/smc/ScienceMediaCentre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Organization> <Cigarettes-CNN-8> .
+ <http://example.org/ConsumerStandardsForECigarettes> <http://example.org/relatedTo> <http://example.org/ECigarettes> <Cigarettes-CNN-8> .
+ <http://example.org/UpdatedGuidance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/GuidanceDocument> <Cigarettes-CNN-8> .
+ <http://example.org/RegulatoryApprovalProcess> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Process> <Cigarettes-CNN-8> .
+ <http://example.org/AustralianVapingLegislation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Legislation> <Cigarettes-CNN-8> .
+ <http://example.org/tga/TherapeuticGoodsAdministration> <http://example.org/passedLegislation> <http://example.org/AustralianVapingLegislation> <Cigarettes-CNN-8> .
+ <http://example.org/FirstCountryPrescribingECigarettes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Achievement> <Cigarettes-CNN-8> .
+ <http://example.org/ECigarettesAsExcellentOption> <http://example.org/relatedTo> <http://example.org/SmokingCessation> <Cigarettes-CNN-8> .
+ <http://example.org/OriginalStory> <http://example.org/location> <http://example.org/London> <Cigarettes-CNN-8> .
+ <http://example.org/AustralianVapingLegislation> <http://example.org/cameIntoEffect> "2021-10-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-CNN-8> .
+ <http://example.org/Correction> <http://example.org/corrects> <http://example.org/OriginalStory> <Cigarettes-CNN-8> .
+ <http://example.org/BarrierOfCost> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Barrier> <Cigarettes-CNN-8> .
+ <http://example.org/ARTG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Register> <Cigarettes-CNN-8> .
+ <http://example.org/DoctorsPrescriptionForNicotineECigarettes> <http://example.org/inCountry> <http://example.org/Australia> <Cigarettes-CNN-8> .
+ <http://example.org/OriginalStory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/NewsArticle> <Cigarettes-CNN-8> .
+ <http://example.org/gov/UKGovernment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Government> <Cigarettes-CNN-8> .
+ <http://example.org/RegulatoryApprovalProcess> <http://example.org/equivalentTo> <http://example.org/OtherMedicinesApprovalProcess> <Cigarettes-CNN-8> .
+ <http://example.org/tga/TherapeuticGoodsAdministration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Organization> <Cigarettes-CNN-8> .
+ <http://example.org/PrescriptionOfECigarettes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Plan> <Cigarettes-CNN-8> .
+ <http://example.org/ECigarettesAsExcellentOption> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Opinion> <Cigarettes-CNN-8> .
+ <http://example.org/ApprovedNicotineVapingProducts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ProductCategory> <Cigarettes-CNN-8> .
+ <http://example.org/England> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Country> <Cigarettes-CNN-8> .
+ <http://example.org/uni/LindaBauld> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Person> <Cigarettes-CNN-8> .
+ <http://example.org/uni/RobertWest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Person> <Cigarettes-CNN-8> .
+ <http://example.org/GovernmentStatementOnECigarettes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Statement> <Cigarettes-CNN-8> .
+ <http://example.org/BauldStatementOnECigarettes> <http://example.org/describes> <http://example.org/ECigarettesAsExcellentOption> <Cigarettes-CNN-8> .
+ <http://example.org/uni/AlanBoobis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Person> <Cigarettes-CNN-8> .
+ <http://example.org/uni/RobertWest> <http://example.org/holdsPosition> <http://example.org/ProfessorOfHealthPsychologyAtUniversityCollegeLondon> <Cigarettes-CNN-8> .
+ <http://example.org/smc/ScienceMediaCentre> <http://example.org/providedComments> <http://example.org/CommentsOnECigarettes> <Cigarettes-CNN-8> .
+ <http://example.org/RegulatoryHurdles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Challenge> <Cigarettes-CNN-8> .
+ <http://example.org/RegulatoryHurdles> <http://example.org/relatedTo> <http://example.org/ProductLicensing> <Cigarettes-CNN-8> .
+ <http://example.org/BarrierOfCost> <http://example.org/affects> <http://example.org/Smokers> <Cigarettes-CNN-8> .
+ <http://example.org/CommentsOnECigarettes> <http://example.org/includes> <http://example.org/uni/RobertWest> <Cigarettes-CNN-8> .
+ <http://example.org/uni/RobertWest> <http://example.org/commented> <http://example.org/WestStatementOnECigarettes> <Cigarettes-CNN-8> .
+ <http://example.org/TobaccoCompanyECigarettes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ProductCategory> <Cigarettes-CNN-8> .
+ <http://example.org/BoobisStatementOnECigarettes> <http://example.org/mentions> <http://example.org/MedicinallyLicensedVapingProducts> <Cigarettes-CNN-8> .
+ <http://example.org/mhra/MedicinesAndHealthcareProductsRegulatoryAgency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Organization> <Cigarettes-CNN-8> .
+ <http://example.org/ECigaretteProducts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ProductCategory> <Cigarettes-CNN-8> .
+ <http://example.org/BauldStatementOnECigarettes> <http://example.org/mentions> <http://example.org/BarrierOfCost> <Cigarettes-CNN-8> .
+ <http://example.org/DoctorsPrescriptionForNicotineECigarettes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Requirement> <Cigarettes-CNN-8> .
+ <http://example.org/Correction> <http://example.org/includes> <http://example.org/ReferenceToAustralianLegislationOnVaping> <Cigarettes-CNN-8> .
+ <http://example.org/BoobisStatementOnECigarettes> <http://example.org/mentions> <http://example.org/ConsumerStandardsForECigarettes> <Cigarettes-CNN-8> .
+ <http://example.org/uni/UniversityOfEdinburgh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/University> <Cigarettes-CNN-8> .
+ <http://example.org/ReferenceToAustralianLegislationOnVaping> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Content> <Cigarettes-CNN-8> .
+ <http://example.org/ECigaretteProducts> <http://example.org/forApproval> <http://example.org/RegulatoryApprovalProcess> <Cigarettes-CNN-8> .
+ <http://example.org/mhra/MedicinesAndHealthcareProductsRegulatoryAgency> <http://example.org/publishes> <http://example.org/UpdatedGuidance> <Cigarettes-CNN-8> .
+ <http://example.org/ConsumerStandardsForECigarettes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Standard> <Cigarettes-CNN-8> .
+ <http://example.org/DoctorsPrescriptionForNicotineECigarettes> <http://example.org/relatedTo> <http://example.org/NicotineECigarettesAccess> <Cigarettes-CNN-8> .
+ <http://example.org/WestStatementOnECigarettes> <http://example.org/mentions> <http://example.org/RegulatoryHurdles> <Cigarettes-CNN-8> .
+ <http://example.org/ARTG> <http://example.org/lacks> <http://example.org/ApprovedNicotineVapingProducts> <Cigarettes-CNN-8> .
+ <http://example.org/MedicinallyLicensedVapingProducts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ProductCategory> <Cigarettes-CNN-8> .
+ <http://example.org/CommentsOnECigarettes> <http://example.org/includes> <http://example.org/uni/AlanBoobis> <Cigarettes-CNN-8> .
+ <http://example.org/uni/AlanBoobis> <http://example.org/holdsPosition> <http://example.org/EmeritusProfessorOfToxicologyAtImperialCollegeLondon> <Cigarettes-CNN-8> .
+ <http://example.org/TobaccoCompanyECigarettes> <http://example.org/discussedBy> <http://example.org/uni/RobertWest> <Cigarettes-CNN-8> .
+ <http://example.org/mhra/MedicinesAndHealthcareProductsRegulatoryAgency> <http://example.org/operatesIn> <http://example.org/UK> <Cigarettes-CNN-8> .
+ <http://example.org/ARTG> <http://example.org/name> "Australian Register of Therapeutic Goods"  <Cigarettes-CNN-8> .
+ <http://example.org/FlavoredGummies> <http://example.org/hasFlavor> "blueraz"  <Cigarettes-CNN-9> .
+ <http://example.org/DrRobertCaliff> <http://xmlns.com/foaf/0.1/name> "Dr. Robert Califf"  <Cigarettes-CNN-9> .
+ <http://example.org/FlavoredCigarettes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <Cigarettes-CNN-9> .
+ <http://Cigarettes-CNN-9.com/blank#n728f1a7f9958422796293481169c5b3ab1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Warning> <Cigarettes-CNN-9> .
+ <http://example.org/Nicotine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ChemicalSubstance> <Cigarettes-CNN-9> .
+ <http://example.org/ErikaSward> <http://schema.org/memberOf> <http://example.org/AmericanLungAssociation> <Cigarettes-CNN-9> .
+ <http://example.org/Juul> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Cigarettes-CNN-9> .
+ <http://example.org/SyntheticNicotineRegulation> <http://schema.org/legislationDate> "April"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-CNN-9> .
+ <http://example.org/SyntheticNicotine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ChemicalSubstance> <Cigarettes-CNN-9> .
+ <http://example.org/NicotineGummy> <http://schema.org/unitCode> "mg"  <Cigarettes-CNN-9> .
+ <http://example.org/DrRobertCaliff> <http://schema.org/warning> <http://Cigarettes-CNN-9.com/blank#n728f1a7f9958422796293481169c5b3ab1>  <Cigarettes-CNN-9> .
+ <http://Cigarettes-CNN-9.com/blank#n728f1a7f9958422796293481169c5b3ab2> <http://schema.org/name> "34 states and territories"  <Cigarettes-CNN-9> .
+ <http://example.org/SyntheticNicotineRegulation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Legislation> <Cigarettes-CNN-9> .
+ <http://example.org/WarningLetter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Cigarettes-CNN-9> .
+ <http://example.org/CNN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Cigarettes-CNN-9> .
+ <http://example.org/JuulSettlement> <http://schema.org/value> "438500000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-CNN-9> .
+ <http://example.org/SyntheticNicotineRegulation> <http://schema.org/about> <http://example.org/SyntheticNicotine> <Cigarettes-CNN-9> .
+ <http://Cigarettes-CNN-9.com/blank#n728f1a7f9958422796293481169c5b3ab1> <http://schema.org/text> "Nicotine gummies are a public health crisis just waiting to happen among our nation’s youth, particularly as we head into a new school year."  <Cigarettes-CNN-9> .
+ <http://example.org/Krave> <http://schema.org/description> "Tobacco-free products meant to empower adult smokers with the tools to use nicotine on their own terms."  <Cigarettes-CNN-9> .
+ <http://example.org/JuulSettlement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MonetaryAmount> <Cigarettes-CNN-9> .
+ <http://example.org/USFoodAndDrugAdministration> <http://schema.org/employee> <http://example.org/DrRobertCaliff> <Cigarettes-CNN-9> .
+ <http://example.org/FlavoredCigarettes> <http://schema.org/flavor> "grape"  <Cigarettes-CNN-9> .
+ <http://example.org/GummiesPackage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ProductModel> <Cigarettes-CNN-9> .
+ <http://example.org/FlavoredGummies> <http://example.org/hasFlavor> "pineapple"  <Cigarettes-CNN-9> .
+ <http://example.org/WarningLetter> <http://schema.org/datePublished> "last month"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-CNN-9> .
+ <http://example.org/AmericanLungAssociation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Cigarettes-CNN-9> .
+ <http://example.org/USFoodAndDrugAdministration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Cigarettes-CNN-9> .
+ <http://example.org/Krave> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Brand> <Cigarettes-CNN-9> .
+ <http://example.org/Juul> <http://xmlns.com/foaf/0.1/name> "Juul"  <Cigarettes-CNN-9> .
+ <http://example.org/DrRobertCaliff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Cigarettes-CNN-9> .
+ <http://example.org/NicotineGummy> <http://dbpedia.org/ontology/mass> "1"^^<http://www.w3.org/2001/XMLSchema#integer>  <Cigarettes-CNN-9> .
+ <http://example.org/WarningLetter> <http://schema.org/author> <http://example.org/USFoodAndDrugAdministration> <Cigarettes-CNN-9> .
+ <http://example.org/NicotineGummy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <Cigarettes-CNN-9> .
+ <http://example.org/MattMeyers> <http://xmlns.com/foaf/0.1/name> "Matt Meyers"  <Cigarettes-CNN-9> .
+ <http://example.org/ErikaSward> <http://xmlns.com/foaf/0.1/name> "Erika Sward"  <Cigarettes-CNN-9> .
+ <http://example.org/MattMeyers> <http://schema.org/jobTitle> "President of the Campaign for Tobacco Free Kids"  <Cigarettes-CNN-9> .
+ <http://example.org/SyntheticNicotine> <http://schema.org/name> "Synthetic Nicotine"  <Cigarettes-CNN-9> .
+ <http://example.org/FlavoredGummies> <http://dbpedia.org/ontology/discontinued> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <Cigarettes-CNN-9> .
+ <http://Cigarettes-CNN-9.com/blank#n728f1a7f9958422796293481169c5b3ab2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GovernmentOrganization> <Cigarettes-CNN-9> .
+ <http://example.org/AmericanLungAssociation> <http://xmlns.com/foaf/0.1/name> "American Lung Association"  <Cigarettes-CNN-9> .
+ <http://example.org/FlavoredGummies> <http://example.org/hasFlavor> "cherry bomb"  <Cigarettes-CNN-9> .
+ <http://Cigarettes-CNN-9.com/blank#n728f1a7f9958422796293481169c5b3ab1> <http://schema.org/about> <http://example.org/FlavoredGummies> <Cigarettes-CNN-9> .
+ <http://example.org/FlavoredCigarettes> <http://schema.org/flavor> "chocolate"  <Cigarettes-CNN-9> .
+ <http://example.org/Nicotine> <http://schema.org/name> "Nicotine"  <Cigarettes-CNN-9> .
+ <http://example.org/Juul> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Electronic_cigarette> <Cigarettes-CNN-9> .
+ <http://example.org/VPRBrands> <http://dbpedia.org/ontology/product> <http://example.org/FlavoredGummies> <Cigarettes-CNN-9> .
+ <http://example.org/ErikaSward> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Cigarettes-CNN-9> .
+ <http://example.org/Krave> <http://schema.org/name> "Krave"  <Cigarettes-CNN-9> .
+ <http://example.org/JuulSettlement> <http://schema.org/currency> "USD"  <Cigarettes-CNN-9> .
+ <http://example.org/USFoodAndDrugAdministration> <http://xmlns.com/foaf/0.1/name> "US Food and Drug Administration"  <Cigarettes-CNN-9> .
+ <http://example.org/FlavoredGummies> <http://schema.org/ingredient> <http://example.org/Nicotine> <Cigarettes-CNN-9> .
+ <http://example.org/E-cigarettes> <http://schema.org/flavor> "gummy bear"  <Cigarettes-CNN-9> .
+ <http://example.org/USCentersForDiseaseControlAndPrevention> <http://xmlns.com/foaf/0.1/name> "US Centers for Disease Control and Prevention"  <Cigarettes-CNN-9> .
+ <http://example.org/VPRBrands> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Cigarettes-CNN-9> .
+ <http://example.org/ErikaSward> <http://schema.org/jobTitle> "Assistant Vice President for National Advocacy"  <Cigarettes-CNN-9> .
+ <http://example.org/SyntheticNicotineRegulation> <http://schema.org/legislationLegalForce> <http://schema.org/InForce> <Cigarettes-CNN-9> .
+ <http://example.org/E-cigarettes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <Cigarettes-CNN-9> .
+ <http://example.org/E-cigarettes> <http://schema.org/flavor> "cotton candy"  <Cigarettes-CNN-9> .
+ <http://example.org/VPRBrands> <http://xmlns.com/foaf/0.1/name> "VPR Brands"  <Cigarettes-CNN-9> .
+ <http://example.org/GummiesPackage> <http://schema.org/quantity> "12"^^<http://www.w3.org/2001/XMLSchema#integer>  <Cigarettes-CNN-9> .
+ <http://example.org/AmericanLungAssociation> <http://schema.org/employee> <http://example.org/ErikaSward> <Cigarettes-CNN-9> .
+ <http://Cigarettes-CNN-9.com/blank#n728f1a7f9958422796293481169c5b3ab1> <http://schema.org/date> "last month"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-CNN-9> .
+ <http://example.org/FlavoredGummies> <http://schema.org/manufacturer> <http://example.org/VPRBrands> <Cigarettes-CNN-9> .
+ <http://example.org/WarningLetter> <http://schema.org/recipient> <http://example.org/VPRBrands> <Cigarettes-CNN-9> .
+ <http://example.org/JuulSettlement> <http://dbpedia.org/ontology/beneficiary> <http://Cigarettes-CNN-9.com/blank#n728f1a7f9958422796293481169c5b3ab2>  <Cigarettes-CNN-9> .
+ <http://example.org/MattMeyers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Cigarettes-CNN-9> .
+ <http://example.org/VPRBrands> <http://schema.org/brand> <http://example.org/Krave> <Cigarettes-CNN-9> .
+ <http://example.org/FlavoredGummies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <Cigarettes-CNN-9> .
+ <http://example.org/DrRobertCaliff> <http://schema.org/jobTitle> "FDA Commissioner"  <Cigarettes-CNN-9> .
+ <http://example.org/GummiesPackage> <http://schema.org/contains> <http://example.org/NicotineGummy> <Cigarettes-CNN-9> .
+ <http://example.org/JuulSettlement> <http://dbpedia.org/ontology/payee> <http://example.org/Juul> <Cigarettes-CNN-9> .
+ <http://example.org/WarningLetter> <http://schema.org/text> "The products were being sold illegally. By law, manufacturers need to submit an application and have it approved by the FDA before a tobacco product can be legally marketed in the United States. The agency says VPR had not asked for this 'premarket authorization' for the gummies."  <Cigarettes-CNN-9> .
+ <http://example.org/USCentersForDiseaseControlAndPrevention> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Cigarettes-CNN-9> .

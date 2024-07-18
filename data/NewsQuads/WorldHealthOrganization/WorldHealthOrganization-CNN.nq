@@ -1,0 +1,647 @@
+ <http://example.org/USGovernment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/CDC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/TonyaRoberson> <http://schema.org/memberOf> <http://example.org/NationalCommunityBasedOrganizationNetwork> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/HRSA_Grants> <http://schema.org/notAwardedTo> <http://example.org/GrassRootsHealthPromotionGroups> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/PublicHealthFoundation> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Washington_DC> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/DeniseSmith> <http://schema.org/memberOf> <http://example.org/NationalAssociationOfCommunityHealthWorkers> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/USGovernment> <http://schema.org/funding> <http://example.org/PublicHealthInvestments> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/VisiónYCompromiso> <http://dbpedia.org/ontology/leader> <http://example.org/MariaLemus> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/DiaDeLaMujerLatina> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Texas> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/UnderservedCommunitiesOrganizations> <http://schema.org/parentOrganization> <http://example.org/GrassRootsOrganizations> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/HRSA_Grants> <http://schema.org/beneficiary> <http://example.org/LargeOrganizations> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/TonyaRoberson> <http://xmlns.com/foaf/0.1/name> "Tonya Roberson"  <WorldHealthOrganization-CNN-0> .
+ <http://example.org/TonyaRoberson> <http://schema.org/jobTitle> "President"  <WorldHealthOrganization-CNN-0> .
+ <http://example.org/VenusGinés> <http://schema.org/jobTitle> "President"  <WorldHealthOrganization-CNN-0> .
+ <http://example.org/PresidentBiden> <http://xmlns.com/foaf/0.1/name> "Joe Biden"  <WorldHealthOrganization-CNN-0> .
+ <http://example.org/GrassRootsOrganizations> <http://schema.org/subOrganization> <http://example.org/UnderservedCommunitiesOrganizations> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/LetterToGinés> <http://schema.org/dateCreated> "2023-10-15"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-CNN-0> .
+ <http://example.org/LetterToGinés> <http://schema.org/author> <http://example.org/PresidentBiden> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/VisiónYCompromiso> <http://schema.org/description> "Represents health promotores across the nation"  <WorldHealthOrganization-CNN-0> .
+ <http://example.org/MariaLemus> <http://xmlns.com/foaf/0.1/name> "Maria Lemus"  <WorldHealthOrganization-CNN-0> .
+ <http://example.org/HRSA> <http://schema.org/announcement> <http://example.org/HRSA_GrantsAnnouncement> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/HRSA_Grants> <http://schema.org/beneficiary> <http://example.org/GovernmentHealthDepartments> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/NationalAssociationOfCommunityHealthWorkers> <http://dbpedia.org/ontology/leader> <http://example.org/DeniseSmith> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/GrassRootsHealthPromotionGroups> <http://schema.org/comment> "Members live and work in underserved communities"  <WorldHealthOrganization-CNN-0> .
+ <http://example.org/CommunityHealthWorkers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Occupation> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/GrantAnnouncement> <http://schema.org/startDate> "2023-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-CNN-0> .
+ <http://example.org/VisiónYCompromiso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/PublicHealthFoundation> <http://schema.org/description> "Described the CDC program as landmark"  <WorldHealthOrganization-CNN-0> .
+ <http://example.org/CDCsNationalCenterForChronicDiseasePreventionAndHealthPromotion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/GeorgeWashingtonUniversityMilkenInstituteSchoolOfPublicHealth> <http://dbpedia.org/ontology/faculty> <http://example.org/JeffreyLevi> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/VenusGinés> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/HRSA_Grants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MonetaryGrant> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/UnderservedCommunitiesOrganizations> <http://schema.org/comment> "Disappointed due to reliance during Covid-19 pandemic for vaccination encouragement and mitigation measures"  <WorldHealthOrganization-CNN-0> .
+ <http://example.org/VenusGinés> <http://xmlns.com/foaf/0.1/name> "Venus Ginés"  <WorldHealthOrganization-CNN-0> .
+ <http://example.org/JeffreyLevi> <http://schema.org/affiliation> <http://example.org/GeorgeWashingtonUniversityMilkenInstituteSchoolOfPublicHealth> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/HRSA_GrantsAnnouncement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/PresidentBiden> <http://schema.org/jobTitle> "President of the United States"  <WorldHealthOrganization-CNN-0> .
+ <http://example.org/PublicHealthFoundation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/HRSA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/DeniseSmith> <http://schema.org/jobTitle> "Executive Director"  <WorldHealthOrganization-CNN-0> .
+ <http://example.org/LetterToGinés> <http://schema.org/recipient> <http://example.org/VenusGinés> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/GrantAnnouncement> <http://schema.org/description> "Announcement of grant recipients for public health infrastructure improvement"  <WorldHealthOrganization-CNN-0> .
+ <http://example.org/AmericanRescuePlan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Legislation> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/GrassRootsOrganizations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/PresidentBiden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/CommunityHealthWorkerTrainingProgram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EducationalOccupationalProgram> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/GrassRootsHealthPromotionGroups> <http://schema.org/member> <http://example.org/CommunityHealthWorkers> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/DiaDeLaMujerLatina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/JeffreyLevi> <http://xmlns.com/foaf/0.1/name> "Jeffrey Levi"  <WorldHealthOrganization-CNN-0> .
+ <http://example.org/CDC> <http://xmlns.com/foaf/0.1/name> "US Centers for Disease Control and Prevention"  <WorldHealthOrganization-CNN-0> .
+ <http://example.org/NationalCommunityBasedOrganizationNetwork> <http://dbpedia.org/ontology/leader> <http://example.org/TonyaRoberson> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/CDCsNationalCenterForChronicDiseasePreventionAndHealthPromotion> <http://dbpedia.org/ontology/leader> <http://example.org/DrKarenHacker> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/MariaLemus> <http://schema.org/memberOf> <http://example.org/VisiónYCompromiso> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/HRSA_Grants> <http://schema.org/value> "225000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WorldHealthOrganization-CNN-0> .
+ <http://example.org/DrKarenHacker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/CDC> <http://schema.org/location> <http://dbpedia.org/resource/United_States> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/HRSA> <http://xmlns.com/foaf/0.1/name> "Health Resources and Services Administration"  <WorldHealthOrganization-CNN-0> .
+ <http://example.org/DeniseSmith> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/CDC> <http://schema.org/expects> <http://example.org/GrantAnnouncement> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/VenusGinés> <http://schema.org/memberOf> <http://example.org/DiaDeLaMujerLatina> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/PublicHealthInvestments> <http://schema.org/description> "Investments to improve public health"  <WorldHealthOrganization-CNN-0> .
+ <http://example.org/DrKarenHacker> <http://xmlns.com/foaf/0.1/name> "Dr. Karen Hacker"  <WorldHealthOrganization-CNN-0> .
+ <http://example.org/GrantAnnouncement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/HRSA_Grants> <http://schema.org/numberOfItems> "83"^^<http://www.w3.org/2001/XMLSchema#integer>  <WorldHealthOrganization-CNN-0> .
+ <http://example.org/AmericanRescuePlan> <http://schema.org/description> "Plan to address historic underinvestment in marginalized communities"  <WorldHealthOrganization-CNN-0> .
+ <http://example.org/MariaLemus> <http://schema.org/jobTitle> "Executive Director"  <WorldHealthOrganization-CNN-0> .
+ <http://example.org/DiaDeLaMujerLatina> <http://schema.org/description> "Health advocacy group"  <WorldHealthOrganization-CNN-0> .
+ <http://example.org/HRSA_Grants> <http://schema.org/beneficiary> <http://example.org/Universities> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/UnderservedCommunitiesOrganizations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/TonyaRoberson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/USGovernment> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/JeffreyLevi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/PublicHealthInvestments> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MonetaryGrant> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/CommunityHealthWorkerTrainingProgram> <http://schema.org/offers> <http://example.org/HRSA_Grants> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/CommunityHealthWorkerTrainingProgram> <http://schema.org/provider> <http://example.org/HRSA> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/GrassRootsOrganizations> <http://schema.org/comment> "Overlooked in public health investments distribution"  <WorldHealthOrganization-CNN-0> .
+ <http://example.org/DiaDeLaMujerLatina> <http://dbpedia.org/ontology/leader> <http://example.org/VenusGinés> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/PresidentBiden> <http://schema.org/interaction> <http://example.org/LetterToGinés> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/NationalAssociationOfCommunityHealthWorkers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/LetterToGinés> <http://schema.org/description> "Thanking for work during pandemic and vaccination efforts"  <WorldHealthOrganization-CNN-0> .
+ <http://example.org/DrKarenHacker> <http://schema.org/jobTitle> "Director"  <WorldHealthOrganization-CNN-0> .
+ <http://example.org/MariaLemus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/GrassRootsHealthPromotionGroups> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/CommunityHealthWorkers> <http://schema.org/description> "Frontline public health workers in communities"  <WorldHealthOrganization-CNN-0> .
+ <http://example.org/DrKarenHacker> <http://schema.org/memberOf> <http://example.org/CDCsNationalCenterForChronicDiseasePreventionAndHealthPromotion> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/GeorgeWashingtonUniversityMilkenInstituteSchoolOfPublicHealth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/NationalCommunityBasedOrganizationNetwork> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/HRSA_GrantsAnnouncement> <http://schema.org/description> "Announcement of grants for Community Health Worker Training Program"  <WorldHealthOrganization-CNN-0> .
+ <http://example.org/LetterToGinés> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/HRSA_GrantsAnnouncement> <http://schema.org/date> "2023-09-01"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-CNN-0> .
+ <http://example.org/AmericanRescuePlan> <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/Joe_Biden> <WorldHealthOrganization-CNN-0> .
+ <http://example.org/JeffreyLevi> <http://schema.org/jobTitle> "Professor of Health Management and Policy"  <WorldHealthOrganization-CNN-0> .
+ <http://example.org/DeniseSmith> <http://xmlns.com/foaf/0.1/name> "Denise Smith"  <WorldHealthOrganization-CNN-0> .
+ <http://example.org/PublicHealthFoundation> <http://xmlns.com/foaf/0.1/name> "Public Health Foundation"  <WorldHealthOrganization-CNN-0> .
+ <http://example.org/US_Threat_Withdrawal_WHO> <http://dbpedia.org/ontology/eventDate> "2020-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <WorldHealthOrganization-CNN-1> .
+ <http://example.org/China_Assistance_Africa> <http://dbpedia.org/ontology/isPartOf> <http://example.org/WorldHealthAssembly> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/MichaelBociurkiw> <http://dbpedia.org/ontology/occupation> <http://example.org/PodcastHost> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/WHO_Evaluation_PandemicResponse> <http://dbpedia.org/ontology/participant> <http://example.org/TedrosAdhanomGhebreyesus> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/PeoplesVaccine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Concept> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/TedrosAdhanomGhebreyesus> <http://dbpedia.org/ontology/office> "Director General of the World Health Organization"  <WorldHealthOrganization-CNN-1> .
+ <http://example.org/AlexanderVershbow> <http://dbpedia.org/ontology/office> "former deputy secretary-general of NATO"  <WorldHealthOrganization-CNN-1> .
+ <http://example.org/WHO_Evaluation_PandemicResponse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/DonaldTrump> <http://dbpedia.org/ontology/office> "President of the United States"  <WorldHealthOrganization-CNN-1> .
+ <http://example.org/PeoplesVaccine> <http://www.w3.org/2000/01/rdf-schema#label> "Patent-free 'people's vaccine'"  <WorldHealthOrganization-CNN-1> .
+ <http://example.org/US_Threat_Withdrawal_WHO> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/World_Health_Organization> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/US_Withdrawal_UNESCO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/PeoplesVaccine> <http://dbpedia.org/ontology/creator> <http://example.org/WorldLeadersAndExperts> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/China_Pledge_WHA73> <http://dbpedia.org/ontology/eventDate> "2020-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <WorldHealthOrganization-CNN-1> .
+ <http://example.org/US_Withdrawal_ParisClimateAccord> <http://dbpedia.org/ontology/eventDate> "2017-06-01"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-CNN-1> .
+ <http://example.org/SpokesmanForOSCE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/WorldHealthAssembly> <http://dbpedia.org/ontology/abbreviation> "WHA"  <WorldHealthOrganization-CNN-1> .
+ <http://example.org/China_Pledge_WHA73> <http://dbpedia.org/ontology/participant> <http://example.org/XiJinping> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/PodcastHost> <http://www.w3.org/2000/01/rdf-schema#label> "host of the podcast Global Impact"  <WorldHealthOrganization-CNN-1> .
+ <http://example.org/China_Pledge_WHA73> <http://dbpedia.org/ontology/isPartOf> <http://example.org/WorldHealthAssembly> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/MichaelBociurkiw> <http://schema.org/memberOf> <http://dbpedia.org/resource/Organization_for_Security_and_Co-operation_in_Europe> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/MichaelBociurkiw> <http://xmlns.com/foaf/0.1/accountName> "WorldAffairsPro"  <WorldHealthOrganization-CNN-1> .
+ <http://example.org/MichaelBociurkiw> <http://dbpedia.org/ontology/occupation> <http://example.org/SpokesmanForOSCE> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/DonaldTrump> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/WHO_Evaluation_PandemicResponse> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/World_Health_Organization> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/China_BeltAndRoadInitiative> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Project> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/AlexanderVershbow> <http://dbpedia.org/ontology/office> "US envoy to South Korea, Russia and NATO"  <WorldHealthOrganization-CNN-1> .
+ <http://example.org/WHA73_TechnicalGlitches> <http://dbpedia.org/ontology/isPartOf> <http://example.org/WorldHealthAssembly> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/WorldHealthAssembly> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/US_Withdrawal_UNESCO> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/United_Nations_Educational_Scientific_and_Cultural_Organization> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/OperationWarpSpeed> <http://dbpedia.org/ontology/purpose> "Develop a lifesaving Covid-19 vaccine"  <WorldHealthOrganization-CNN-1> .
+ <http://example.org/US_Withdrawal_UNHCR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/XiJinping> <http://dbpedia.org/ontology/office> "President of China"  <WorldHealthOrganization-CNN-1> .
+ <http://example.org/US_Threat_Withdrawal_WHO> <http://dbpedia.org/ontology/participant> <http://example.org/DonaldTrump> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/US_Withdrawal_UNHCR> <http://dbpedia.org/ontology/eventDate> "2018-06-19"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-CNN-1> .
+ <http://example.org/US_FundingPull_WHO> <http://dbpedia.org/ontology/effect> "Major implication for delivering health services to vulnerable people"  <WorldHealthOrganization-CNN-1> .
+ <http://example.org/China_BeltAndRoadInitiative> <http://www.w3.org/2000/01/rdf-schema#label> "Belt and Road Initiative"  <WorldHealthOrganization-CNN-1> .
+ <http://example.org/PodcastHost> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/AlexAzar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/TedrosAdhanomGhebreyesus> <http://xmlns.com/foaf/0.1/name> "Tedros Adhanom Ghebreyesus"  <WorldHealthOrganization-CNN-1> .
+ <http://example.org/China_Assistance_Africa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/US_Threat_Withdrawal_WHO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/US_FundingPull_WHO> <http://dbpedia.org/ontology/participant> <http://example.org/DonaldTrump> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/WHO_Evaluation_PandemicResponse> <http://dbpedia.org/ontology/purpose> "Evaluation of the WHO's handling of the pandemic"  <WorldHealthOrganization-CNN-1> .
+ <http://example.org/US_Withdrawal_ParisClimateAccord> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/MichaelBociurkiw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/XiJinping> <http://xmlns.com/foaf/0.1/name> "Xi Jinping"  <WorldHealthOrganization-CNN-1> .
+ <http://example.org/China_Pledge_WHA73> <http://dbpedia.org/ontology/amount> "2 billion USD over two years"^^<http://www.w3.org/2001/XMLSchema#string>  <WorldHealthOrganization-CNN-1> .
+ <http://example.org/OperationWarpSpeed> <http://dbpedia.org/ontology/cost> "Hundreds of millions of dollars"^^<http://www.w3.org/2001/XMLSchema#string>  <WorldHealthOrganization-CNN-1> .
+ <http://example.org/MichaelBociurkiw> <http://xmlns.com/foaf/0.1/name> "Michael Bociurkiw"  <WorldHealthOrganization-CNN-1> .
+ <http://example.org/US_FundingPull_WHO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/US_Withdrawal_UNHCR> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/United_Nations_Human_Rights_Council> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/MichaelRyan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/MichaelRyan> <http://dbpedia.org/ontology/office> "Executive Director of the WHO's health emergencies program"  <WorldHealthOrganization-CNN-1> .
+ <http://example.org/US_Withdrawal_UNESCO> <http://dbpedia.org/ontology/participant> <http://example.org/DonaldTrump> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/DonaldTrump> <http://xmlns.com/foaf/0.1/name> "Donald Trump"  <WorldHealthOrganization-CNN-1> .
+ <http://example.org/China_Pledge_WHA73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/MichaelBociurkiw> <http://xmlns.com/foaf/0.1/title> "Global Affairs Analyst"  <WorldHealthOrganization-CNN-1> .
+ <http://example.org/US_Withdrawal_UNHCR> <http://dbpedia.org/ontology/participant> <http://example.org/DonaldTrump> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/AlexanderVershbow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/WHA73_TechnicalGlitches> <http://www.w3.org/2000/01/rdf-schema#label> "Technical glitches during the 73rd World Health Assembly"  <WorldHealthOrganization-CNN-1> .
+ <http://example.org/WorldHealthAssembly> <http://dbpedia.org/ontology/eventDate> "2020-05-18"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-CNN-1> .
+ <http://example.org/US_Withdrawal_UNESCO> <http://dbpedia.org/ontology/eventDate> "2017-10-12"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-CNN-1> .
+ <http://example.org/XiJinping> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/OperationWarpSpeed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Project> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/WHA73_TechnicalGlitches> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/MichaelBociurkiw> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <https://twitter.com/WorldAffairsPro> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/China_Assistance_Africa> <http://dbpedia.org/ontology/purpose> "Bolster disease preparedness in Africa"  <WorldHealthOrganization-CNN-1> .
+ <http://example.org/AlexanderVershbow> <http://xmlns.com/foaf/0.1/name> "Ambassador Alexander Vershbow"  <WorldHealthOrganization-CNN-1> .
+ <http://example.org/WorldLeadersAndExperts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/MichaelRyan> <http://xmlns.com/foaf/0.1/name> "Dr. Michael Ryan"  <WorldHealthOrganization-CNN-1> .
+ <http://example.org/US_FundingPull_WHO> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/World_Health_Organization> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/OperationWarpSpeed> <http://dbpedia.org/ontology/fundedBy> <http://dbpedia.org/resource/Government_of_the_United_States> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/SpokesmanForOSCE> <http://www.w3.org/2000/01/rdf-schema#label> "former spokesman for the Organization for Security and Cooperation in Europe"  <WorldHealthOrganization-CNN-1> .
+ <http://example.org/WorldHealthAssembly> <http://dbpedia.org/ontology/eventDate> "2020-05-19"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-CNN-1> .
+ <http://example.org/TedrosAdhanomGhebreyesus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/US_Withdrawal_ParisClimateAccord> <http://dbpedia.org/ontology/participant> <http://example.org/DonaldTrump> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/US_Withdrawal_ParisClimateAccord> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Paris_Agreement> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/AlexAzar> <http://xmlns.com/foaf/0.1/name> "Alex Azar"  <WorldHealthOrganization-CNN-1> .
+ <http://example.org/China_BeltAndRoadInitiative> <http://dbpedia.org/ontology/funder> <http://dbpedia.org/resource/China> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/WorldLeadersAndExperts> <http://www.w3.org/2000/01/rdf-schema#label> "More than 140 world leaders and experts"  <WorldHealthOrganization-CNN-1> .
+ <http://example.org/WorldHealthAssembly> <http://www.w3.org/2000/01/rdf-schema#label> "The World Health Assembly"  <WorldHealthOrganization-CNN-1> .
+ <http://example.org/China_Assistance_Africa> <http://dbpedia.org/ontology/participant> <http://example.org/XiJinping> <WorldHealthOrganization-CNN-1> .
+ <http://example.org/AlexAzar> <http://dbpedia.org/ontology/office> "Health and Human Services Secretary of the United States"  <WorldHealthOrganization-CNN-1> .
+ <http://example.org/WorldHealthAssembly> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/World_Health_Organization> <WorldHealthOrganization-CNN-1> .
+ <http://cnn.com/FriendshipImportance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <WorldHealthOrganization-CNN-2> .
+ <http://cnn.com/StressButLessNewsletter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EmailMessage> <WorldHealthOrganization-CNN-2> .
+ <http://cnn.com/FriendshipImportance> <http://schema.org/author> <http://dbpedia.org/resource/Adam_Smiley_Poswolsky> <WorldHealthOrganization-CNN-2> .
+ <http://cnn.com/LifeButBetterNewsletter> <http://schema.org/publisher> <http://cnn.com/CNN> <WorldHealthOrganization-CNN-2> .
+ <http://cnn.com/ExerciseGuidelines> <http://schema.org/text> "Adults aged 18-64 should engage in 150 minutes of moderate physical activity or 75 minutes of vigorous physical activity weekly, plus muscle-strengthening activities twice a week."  <WorldHealthOrganization-CNN-2> .
+ <http://cnn.com/WorldHealthOrganizationAnniversary> <http://dbpedia.org/ontology/anniversary> "75th"^^<http://www.w3.org/2001/XMLSchema#string>  <WorldHealthOrganization-CNN-2> .
+ <http://dbpedia.org/resource/Katy_Milkman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WorldHealthOrganization-CNN-2> .
+ <http://cnn.com/CNN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WorldHealthOrganization-CNN-2> .
+ <http://cnn.com/StressButLessNewsletter> <http://schema.org/description> "A six-part mindfulness guide to reduce stress and learn how to harness it."  <WorldHealthOrganization-CNN-2> .
+ <http://cnn.com/LifeButBetterNewsletter> <http://schema.org/about> "Living well, made simple"  <WorldHealthOrganization-CNN-2> .
+ <http://cnn.com/WorldHealthOrganizationAnniversary> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-CNN-2> .
+ <http://cnn.com/ExerciseGuidelines> <http://schema.org/name> "Exercise Guidelines"  <WorldHealthOrganization-CNN-2> .
+ <http://cnn.com/MediterraneanDiet> <http://schema.org/description> "A way of eating that includes plant-based cooking, fruits and vegetables, whole grains, beans, seeds, nuts, and extra-virgin olive oil."  <WorldHealthOrganization-CNN-2> .
+ <http://cnn.com/MediterraneanDiet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Diet> <WorldHealthOrganization-CNN-2> .
+ <http://cnn.com/LifeButBetterNewsletter> <http://schema.org/description> "A weekly roundup newsletter for information and tools designed to improve well-being."  <WorldHealthOrganization-CNN-2> .
+ <http://cnn.com/FriendshipImportance> <http://schema.org/name> "Friendship in the Age of Loneliness: An Optimist’s Guide to Connection"  <WorldHealthOrganization-CNN-2> .
+ <http://cnn.com/StressButLessNewsletter> <http://schema.org/publisher> <http://cnn.com/CNN> <WorldHealthOrganization-CNN-2> .
+ <http://cnn.com/SleepRecommendation> <http://schema.org/author> <http://dbpedia.org/resource/Centers_for_Disease_Control_and_Prevention> <WorldHealthOrganization-CNN-2> .
+ <http://cnn.com/StressReductionTechniques> <http://schema.org/name> "Stress Reduction Techniques"  <WorldHealthOrganization-CNN-2> .
+ <http://cnn.com/ExerciseGuidelines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <WorldHealthOrganization-CNN-2> .
+ <http://cnn.com/WorldHealthOrganizationAnniversary> <http://schema.org/date> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WorldHealthOrganization-CNN-2> .
+ <http://cnn.com/MediterraneanDiet> <http://schema.org/name> "Mediterranean diet"  <WorldHealthOrganization-CNN-2> .
+ <http://cnn.com/WorldHealthOrganizationAnniversary> <http://dbpedia.org/ontology/organizer> <http://dbpedia.org/resource/World_Health_Organization> <WorldHealthOrganization-CNN-2> .
+ <http://cnn.com/SleepRecommendation> <http://schema.org/text> "Adults should get at least seven hours of sleep a night."  <WorldHealthOrganization-CNN-2> .
+ <http://cnn.com/StressButLessNewsletter> <http://schema.org/about> "Mindfulness and stress reduction"  <WorldHealthOrganization-CNN-2> .
+ <http://WorldHealthOrganization-CNN-2.com/blank#n6d336d1d966d45999bd89e6bccd7cb94b1> <http://schema.org/name> "How to Change: The Science of Getting From Where You Are to Where You Want to Be"  <WorldHealthOrganization-CNN-2> .
+ <http://cnn.com/FriendshipImportance> <http://schema.org/description> "Strong friendships are key to alleviating stress and improving both emotional and physical well-being."  <WorldHealthOrganization-CNN-2> .
+ <http://cnn.com/StressReductionTechniques> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <WorldHealthOrganization-CNN-2> .
+ <http://dbpedia.org/resource/Katy_Milkman> <http://dbpedia.org/ontology/authorOf> <http://WorldHealthOrganization-CNN-2.com/blank#n6d336d1d966d45999bd89e6bccd7cb94b1>  <WorldHealthOrganization-CNN-2> .
+ <http://WorldHealthOrganization-CNN-2.com/blank#n6d336d1d966d45999bd89e6bccd7cb94b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> <WorldHealthOrganization-CNN-2> .
+ <http://cnn.com/SleepRecommendation> <http://schema.org/name> "Sleep Recommendation"  <WorldHealthOrganization-CNN-2> .
+ <http://cnn.com/LifeButBetterNewsletter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EmailMessage> <WorldHealthOrganization-CNN-2> .
+ <http://cnn.com/ExerciseGuidelines> <http://schema.org/author> <http://dbpedia.org/resource/United_States_Department_of_Health_and_Human_Services> <WorldHealthOrganization-CNN-2> .
+ <http://cnn.com/CNN> <http://schema.org/name> "CNN"  <WorldHealthOrganization-CNN-2> .
+ <http://cnn.com/StressReductionTechniques> <http://schema.org/description> "Balanced diet, good sleep, exercise, social support, breathing and meditation techniques can help reduce stress."  <WorldHealthOrganization-CNN-2> .
+ <http://dbpedia.org/resource/Katy_Milkman> <http://schema.org/name> "Katy Milkman"  <WorldHealthOrganization-CNN-2> .
+ <http://cnn.com/SleepRecommendation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Recommendation> <WorldHealthOrganization-CNN-2> .
+ <http://cnn.com/LifeButBetterNewsletter> <http://schema.org/dateCreated> "2023-03-31"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-CNN-2> .
+ <http://dbpedia.org/resource/Katy_Milkman> <http://schema.org/jobTitle> "James G. Dinan Professor at the Wharton School of the University of Pennsylvania"  <WorldHealthOrganization-CNN-2> .
+ <http://example.org/WHO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <WorldHealthOrganization-CNN-3> .
+ <http://example.org/MariaNeira> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-CNN-3> .
+ <http://example.org/ClimateInterventions> <http://purl.org/dc/terms/description> "The recommendations include prioritizing climate interventions with the largest gains, building climate-resilient and environmentally sustainable health systems, and promoting sustainable food production as well as sustainable and equitable urban design and transportation systems."  <WorldHealthOrganization-CNN-3> .
+ <http://example.org/UN_ClimateChangeSummit> <http://schema.org/startDate> "2023-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <WorldHealthOrganization-CNN-3> .
+ <http://example.org/ClimateChange> <http://purl.org/dc/terms/description> "Climate change is affecting public health through air pollution, heat waves, floods, storms, rising sea levels, and extreme weather exacerbating food insecurity and hunger."  <WorldHealthOrganization-CNN-3> .
+ <http://example.org/HealthProfessionalsGroup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> <WorldHealthOrganization-CNN-3> .
+ <http://example.org/UN_StateOfScienceReport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Report> <WorldHealthOrganization-CNN-3> .
+ <http://example.org/EllaKissiDebrah> <http://xmlns.com/foaf/0.1/name> "Ella Kissi-Debrah"  <WorldHealthOrganization-CNN-3> .
+ <http://example.org/UN_StateOfScienceReport> <http://purl.org/dc/terms/description> "The report concludes that the world has rapidly warmed 1.1 degrees Celsius above pre-industrial levels, and is now barreling toward 1.5 degrees."  <WorldHealthOrganization-CNN-3> .
+ <http://example.org/UN_StateOfScienceReport> <http://purl.org/dc/terms/title> "Landmark UN state-of-the-science report"  <WorldHealthOrganization-CNN-3> .
+ <http://example.org/WHO_Report> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Report> <WorldHealthOrganization-CNN-3> .
+ <http://example.org/EllaKissiDebrah> <http://example.org/causeOfDeath> <http://example.org/AirPollution> <WorldHealthOrganization-CNN-3> .
+ <http://example.org/EllaKissiDebrah> <http://example.org/ageAtDeath> "9"^^<http://www.w3.org/2001/XMLSchema#integer>  <WorldHealthOrganization-CNN-3> .
+ <http://example.org/AirPollution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/EnvironmentalFactor> <WorldHealthOrganization-CNN-3> .
+ <http://example.org/OpenLetter> <http://schema.org/author> <http://example.org/HealthProfessionalsGroup> <WorldHealthOrganization-CNN-3> .
+ <http://example.org/OpenLetter> <http://purl.org/dc/terms/title> "Open letter to heads of state and national delegations"  <WorldHealthOrganization-CNN-3> .
+ <http://example.org/SoutheastLondon> <http://purl.org/dc/terms/description> "Ella Kissi-Debrah lived in southeast London."  <WorldHealthOrganization-CNN-3> .
+ <http://example.org/UN_ClimateChangeSummit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <WorldHealthOrganization-CNN-3> .
+ <http://example.org/WHO_Report> <http://schema.org/about> <http://example.org/HealthCrisis> <WorldHealthOrganization-CNN-3> .
+ <http://example.org/OpenLetter> <http://purl.org/dc/terms/description> "The letter urges action on the climate crisis ahead of a pivotal UN climate change summit in early November."  <WorldHealthOrganization-CNN-3> .
+ <http://example.org/WHO_Report> <http://purl.org/dc/terms/creator> <http://example.org/WHO> <WorldHealthOrganization-CNN-3> .
+ <http://example.org/EllaKissiDebrah> <http://schema.org/deathDate> "2013"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WorldHealthOrganization-CNN-3> .
+ <http://example.org/UN_ClimateChangeSummit> <http://purl.org/dc/terms/title> "UN climate change summit"  <WorldHealthOrganization-CNN-3> .
+ <http://example.org/SouthCircular> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <WorldHealthOrganization-CNN-3> .
+ <http://example.org/MariaNeira> <http://schema.org/jobTitle> "Director of the Department of Environment, Climate Change and Health at the WHO"  <WorldHealthOrganization-CNN-3> .
+ <http://example.org/WHO> <http://xmlns.com/foaf/0.1/name> "World Health Organization"  <WorldHealthOrganization-CNN-3> .
+ <http://example.org/SoutheastLondon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <WorldHealthOrganization-CNN-3> .
+ <http://example.org/TedrosAdhanomGhebreyesus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-CNN-3> .
+ <http://example.org/OpenLetter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <WorldHealthOrganization-CNN-3> .
+ <http://example.org/EllaKissiDebrah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-CNN-3> .
+ <http://example.org/WHO_Report> <http://purl.org/dc/terms/subject> <http://example.org/ClimateChange> <WorldHealthOrganization-CNN-3> .
+ <http://example.org/WHO_Report> <http://purl.org/dc/terms/issued> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WorldHealthOrganization-CNN-3> .
+ <http://example.org/MariaNeira> <http://xmlns.com/foaf/0.1/name> "Maria Neira"  <WorldHealthOrganization-CNN-3> .
+ <http://example.org/UN_StateOfScienceReport> <http://purl.org/dc/terms/issued> "2023-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <WorldHealthOrganization-CNN-3> .
+ <http://example.org/ClimateInterventions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ItemList> <WorldHealthOrganization-CNN-3> .
+ <http://example.org/HealthProfessionalsGroup> <http://xmlns.com/foaf/0.1/name> "Groups representing 45 million nurses, doctors and health professionals"  <WorldHealthOrganization-CNN-3> .
+ <http://example.org/SouthCircular> <http://purl.org/dc/terms/description> "One of the UK capital’s busiest roads, near which Ella Kissi-Debrah lived."  <WorldHealthOrganization-CNN-3> .
+ <http://example.org/WHO_Report> <http://purl.org/dc/terms/title> "Special report on climate and health"  <WorldHealthOrganization-CNN-3> .
+ <http://example.org/ClimateChange> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/EnvironmentalIssue> <WorldHealthOrganization-CNN-3> .
+ <http://example.org/TedrosAdhanomGhebreyesus> <http://schema.org/jobTitle> "WHO Director-General"  <WorldHealthOrganization-CNN-3> .
+ <http://example.org/AirPollution> <http://purl.org/dc/terms/description> "High levels of nitrogen dioxide and particulate-matter pollution"  <WorldHealthOrganization-CNN-3> .
+ <http://example.org/WHO_Report> <http://purl.org/dc/terms/description> "The report describes climate change as the 'single biggest health threat facing humanity', and outlines 10 recommended climate and health actions along with the research in support of why each action is beneficial."  <WorldHealthOrganization-CNN-3> .
+ <http://example.org/TedrosAdhanomGhebreyesus> <http://xmlns.com/foaf/0.1/name> "Tedros Adhanom Ghebreyesus"  <WorldHealthOrganization-CNN-3> .
+ <http://example.org/offices/OfficeOfEnvironmentalJustice> <http://schema.org/name> "Office of Environmental Justice"  <WorldHealthOrganization-CNN-4> .
+ <http://example.org/people/XavierBecerra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-CNN-4> .
+ <http://example.org/people/XavierBecerra> <http://xmlns.com/foaf/0.1/made> <http://WorldHealthOrganization-CNN-4.com/blank#n2790f8cf6ce84cb99dd4c2b1cf8b389db5>  <WorldHealthOrganization-CNN-4> .
+ <http://example.org/people/JoeBiden> <http://schema.org/pledge> <http://WorldHealthOrganization-CNN-4.com/blank#n2790f8cf6ce84cb99dd4c2b1cf8b389db6>  <WorldHealthOrganization-CNN-4> .
+ <http://example.org/offices/OfficeOfEnvironmentalJustice> <http://schema.org/purpose> "Focusing on environmental inequities in health"  <WorldHealthOrganization-CNN-4> .
+ <http://example.org/people/SharundaBuchanan> <http://xmlns.com/foaf/0.1/currentProject> <http://example.org/offices/OfficeOfEnvironmentalJustice> <WorldHealthOrganization-CNN-4> .
+ <http://example.org/offices/OfficeOfEnvironmentalJustice> <http://schema.org/founder> <http://example.org/people/SharundaBuchanan> <WorldHealthOrganization-CNN-4> .
+ <http://example.org/offices/OfficeOfEnvironmentalJustice> <http://schema.org/parentOrganization> <http://example.org/organizations/DepartmentOfHealthAndHumanServices> <WorldHealthOrganization-CNN-4> .
+ <http://example.org/people/XavierBecerra> <http://xmlns.com/foaf/0.1/name> "Xavier Becerra"  <WorldHealthOrganization-CNN-4> .
+ <http://example.org/people/SharundaBuchanan> <http://schema.org/alumniOf> <http://example.org/organizations/CentersForDiseaseControl> <WorldHealthOrganization-CNN-4> .
+ <http://WorldHealthOrganization-CNN-4.com/blank#n2790f8cf6ce84cb99dd4c2b1cf8b389db5> <http://schema.org/text> "Many communities across the country continue to bear the brunt of pollution from industrial development, poor land use decisions, transportation, and trade corridors."  <WorldHealthOrganization-CNN-4> .
+ <http://example.org/organizations/CentersForDiseaseControl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GovernmentOrganization> <WorldHealthOrganization-CNN-4> .
+ <http://WorldHealthOrganization-CNN-4.com/blank#n2790f8cf6ce84cb99dd4c2b1cf8b389db6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <WorldHealthOrganization-CNN-4> .
+ <http://WorldHealthOrganization-CNN-4.com/blank#n2790f8cf6ce84cb99dd4c2b1cf8b389db5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Statement> <WorldHealthOrganization-CNN-4> .
+ <http://WorldHealthOrganization-CNN-4.com/blank#n2790f8cf6ce84cb99dd4c2b1cf8b389db7> <http://schema.org/description> "29% of the US population was eligible for climate and clean energy funds."  <WorldHealthOrganization-CNN-4> .
+ <http://example.org/people/JoeBiden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-CNN-4> .
+ <http://example.org/people/SharundaBuchanan> <http://xmlns.com/foaf/0.1/name> "Sharunda Buchanan"  <WorldHealthOrganization-CNN-4> .
+ <http://WorldHealthOrganization-CNN-4.com/blank#n2790f8cf6ce84cb99dd4c2b1cf8b389db7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <WorldHealthOrganization-CNN-4> .
+ <http://example.org/organizations/DepartmentOfHealthAndHumanServices> <http://schema.org/announcement> <http://WorldHealthOrganization-CNN-4.com/blank#n2790f8cf6ce84cb99dd4c2b1cf8b389db1>  <WorldHealthOrganization-CNN-4> .
+ <http://example.org/offices/OfficeOfEnvironmentalJustice> <http://schema.org/employee> <http://example.org/people/SharundaBuchanan> <WorldHealthOrganization-CNN-4> .
+ <http://WorldHealthOrganization-CNN-4.com/blank#n2790f8cf6ce84cb99dd4c2b1cf8b389db1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <WorldHealthOrganization-CNN-4> .
+ <http://example.org/organizations/DepartmentOfHealthAndHumanServices> <http://schema.org/name> "Department of Health and Human Services"  <WorldHealthOrganization-CNN-4> .
+ <http://WorldHealthOrganization-CNN-4.com/blank#n2790f8cf6ce84cb99dd4c2b1cf8b389db1> <http://schema.org/description> "Establishing an Office of Environmental Justice"  <WorldHealthOrganization-CNN-4> .
+ <http://example.org/offices/OfficeOfEnvironmentalJustice> <http://schema.org/employee> <http://WorldHealthOrganization-CNN-4.com/blank#n2790f8cf6ce84cb99dd4c2b1cf8b389db2>  <WorldHealthOrganization-CNN-4> .
+ <http://example.org/people/SharundaBuchanan> <http://schema.org/specialization> "Environmental health issues"  <WorldHealthOrganization-CNN-4> .
+ <http://example.org/people/XavierBecerra> <http://schema.org/jobTitle> "Health and Human Services Secretary"  <WorldHealthOrganization-CNN-4> .
+ <http://example.org/organizations/WhiteHouseCouncilOnEnvironmentalQuality> <http://schema.org/name> "White House Council on Environmental Quality"  <WorldHealthOrganization-CNN-4> .
+ <http://example.org/people/JoeBiden> <http://xmlns.com/foaf/0.1/name> "Joe Biden"  <WorldHealthOrganization-CNN-4> .
+ <http://example.org/offices/OfficeOfEnvironmentalJustice> <http://schema.org/employee> <http://WorldHealthOrganization-CNN-4.com/blank#n2790f8cf6ce84cb99dd4c2b1cf8b389db3>  <WorldHealthOrganization-CNN-4> .
+ <http://example.org/people/SharundaBuchanan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-CNN-4> .
+ <http://example.org/offices/OfficeOfEnvironmentalJustice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GovernmentOrganization> <WorldHealthOrganization-CNN-4> .
+ <http://example.org/people/SharundaBuchanan> <http://schema.org/jobTitle> "Interim Director"  <WorldHealthOrganization-CNN-4> .
+ <http://WorldHealthOrganization-CNN-4.com/blank#n2790f8cf6ce84cb99dd4c2b1cf8b389db6> <http://schema.org/description> "40% of federal funds for climate and clean energy initiatives would be prioritized for underserved communities."  <WorldHealthOrganization-CNN-4> .
+ <http://example.org/people/JoeBiden> <http://schema.org/jobTitle> "President"  <WorldHealthOrganization-CNN-4> .
+ <http://example.org/organizations/DepartmentOfHealthAndHumanServices> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GovernmentOrganization> <WorldHealthOrganization-CNN-4> .
+ <http://WorldHealthOrganization-CNN-4.com/blank#n2790f8cf6ce84cb99dd4c2b1cf8b389db7> <http://schema.org/date> "2023-02-01"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-CNN-4> .
+ <http://WorldHealthOrganization-CNN-4.com/blank#n2790f8cf6ce84cb99dd4c2b1cf8b389db1> <http://schema.org/startDate> "2023-03-28"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-CNN-4> .
+ <http://example.org/offices/OfficeOfEnvironmentalJustice> <http://schema.org/employee> <http://WorldHealthOrganization-CNN-4.com/blank#n2790f8cf6ce84cb99dd4c2b1cf8b389db4>  <WorldHealthOrganization-CNN-4> .
+ <http://example.org/organizations/WhiteHouseCouncilOnEnvironmentalQuality> <http://schema.org/announcement> <http://WorldHealthOrganization-CNN-4.com/blank#n2790f8cf6ce84cb99dd4c2b1cf8b389db7>  <WorldHealthOrganization-CNN-4> .
+ <http://example.org/organizations/WhiteHouseCouncilOnEnvironmentalQuality> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GovernmentOrganization> <WorldHealthOrganization-CNN-4> .
+ <http://example.org/organizations/CentersForDiseaseControl> <http://schema.org/name> "Centers for Disease Control"  <WorldHealthOrganization-CNN-4> .
+ <http://example.org/MarkMasselli> <http://xmlns.com/foaf/0.1/name> "Mark Masselli"  <WorldHealthOrganization-CNN-5> .
+ <http://example.org/XavierBecerra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-CNN-5> .
+ <http://example.org/CommunityHealthCenters> <http://example.org/vocab/hhs#totalFundedCenters> "29"^^<http://www.w3.org/2001/XMLSchema#integer>  <WorldHealthOrganization-CNN-5> .
+ <http://example.org/XavierBecerra> <http://schema.org/affiliation> <http://example.org/USDHHS> <WorldHealthOrganization-CNN-5> .
+ <http://example.org/CommunityHealthCenters> <http://schema.org/roleName> "federally qualified health centers"  <WorldHealthOrganization-CNN-5> .
+ <http://example.org/XavierBecerra> <http://xmlns.com/foaf/0.1/name> "Xavier Becerra"  <WorldHealthOrganization-CNN-5> .
+ <http://example.org/Telehealth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalTherapy> <WorldHealthOrganization-CNN-5> .
+ <http://example.org/SouthCentralFamilyHealthCenter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalOrganization> <WorldHealthOrganization-CNN-5> .
+ <http://example.org/MiddletownConnecticut> <http://xmlns.com/foaf/0.1/name> "Middletown, Connecticut"  <WorldHealthOrganization-CNN-5> .
+ <http://example.org/DavidRoman> <http://schema.org/affiliation> <http://example.org/SouthCentralFamilyHealthCenter> <WorldHealthOrganization-CNN-5> .
+ <http://example.org/AmericanRescuePlan> <http://example.org/vocab/hhs#fundingAmount> "7300000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WorldHealthOrganization-CNN-5> .
+ <http://example.org/CommunityHealthCenters> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalOrganization> <WorldHealthOrganization-CNN-5> .
+ <http://example.org/Congress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <WorldHealthOrganization-CNN-5> .
+ <http://example.org/MarkMasselli> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-CNN-5> .
+ <http://example.org/DavidRoman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-CNN-5> .
+ <http://example.org/XavierBecerra> <http://xmlns.com/foaf/0.1/title> "HHS Secretary"  <WorldHealthOrganization-CNN-5> .
+ <http://example.org/USDHHS> <http://example.org/vocab/hhs#fundingPurpose> "to improve access to community health centers"  <WorldHealthOrganization-CNN-5> .
+ <http://example.org/CommunityHealthCenter> <http://schema.org/location> <http://example.org/MiddletownConnecticut> <WorldHealthOrganization-CNN-5> .
+ <http://example.org/SouthCentralFamilyHealthCenter> <http://example.org/vocab/hhs#patientCountDiabetes> "4200"^^<http://www.w3.org/2001/XMLSchema#integer>  <WorldHealthOrganization-CNN-5> .
+ <http://example.org/CommunityHealthCenter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalOrganization> <WorldHealthOrganization-CNN-5> .
+ <http://example.org/Telehealth> <http://schema.org/healthPlanNetworkTier> "virtual care"  <WorldHealthOrganization-CNN-5> .
+ <http://example.org/CNN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <WorldHealthOrganization-CNN-5> .
+ <http://example.org/BidenAdministration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <WorldHealthOrganization-CNN-5> .
+ <http://example.org/USDHHS> <http://example.org/vocab/hhs#fundingAmount> "55000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WorldHealthOrganization-CNN-5> .
+ <http://example.org/MarkMasselli> <http://schema.org/affiliation> <http://example.org/CommunityHealthCenter> <WorldHealthOrganization-CNN-5> .
+ <http://example.org/USDHHS> <http://purl.org/dc/terms/announced> "2023-04-03"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-CNN-5> .
+ <http://example.org/NationalConferenceOfStateLegislatures> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <WorldHealthOrganization-CNN-5> .
+ <http://example.org/MarkMasselli> <http://xmlns.com/foaf/0.1/title> "CEO"  <WorldHealthOrganization-CNN-5> .
+ <http://example.org/XavierBecerra> <http://xmlns.com/foaf/0.1/page> <http://cnn.com> <WorldHealthOrganization-CNN-5> .
+ <http://example.org/SouthCentralFamilyHealthCenter> <http://xmlns.com/foaf/0.1/name> "South Central Family Health Center"  <WorldHealthOrganization-CNN-5> .
+ <http://example.org/Congress> <http://xmlns.com/foaf/0.1/name> "US Congress"  <WorldHealthOrganization-CNN-5> .
+ <http://example.org/SouthCentralFamilyHealthCenter> <http://schema.org/location> <http://example.org/LosAngeles> <WorldHealthOrganization-CNN-5> .
+ <http://example.org/DavidRoman> <http://xmlns.com/foaf/0.1/name> "David Roman"  <WorldHealthOrganization-CNN-5> .
+ <http://example.org/MiddletownConnecticut> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <WorldHealthOrganization-CNN-5> .
+ <http://example.org/NationalConferenceOfStateLegislatures> <http://xmlns.com/foaf/0.1/name> "National Conference of State Legislatures"  <WorldHealthOrganization-CNN-5> .
+ <http://example.org/CommunityHealthCenter> <http://xmlns.com/foaf/0.1/name> "Community Health Center"  <WorldHealthOrganization-CNN-5> .
+ <http://example.org/LosAngeles> <http://xmlns.com/foaf/0.1/name> "Los Angeles"  <WorldHealthOrganization-CNN-5> .
+ <http://example.org/USDHHS> <http://xmlns.com/foaf/0.1/name> "US Department of Health and Human Services"  <WorldHealthOrganization-CNN-5> .
+ <http://example.org/BidenAdministration> <http://xmlns.com/foaf/0.1/name> "The Biden administration"  <WorldHealthOrganization-CNN-5> .
+ <http://example.org/LosAngeles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <WorldHealthOrganization-CNN-5> .
+ <http://example.org/AmericanRescuePlan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Legislation> <WorldHealthOrganization-CNN-5> .
+ <http://example.org/USDHHS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <WorldHealthOrganization-CNN-5> .
+ <http://example.org/DavidRoman> <http://xmlns.com/foaf/0.1/title> "Director of Development"  <WorldHealthOrganization-CNN-5> .
+ <http://example.org/SouthCentralFamilyHealthCenter> <http://example.org/vocab/hhs#uninsuredPatientPercentage> "40"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WorldHealthOrganization-CNN-5> .
+ <http://example.org/WorldHealthOrganization> <http://xmlns.com/foaf/0.1/name> "World Health Organization"  <WorldHealthOrganization-CNN-6> .
+ <http://example.org/JoeBiden> <http://schema.org/jobTitle> "Presumptive Democratic presidential nominee"  <WorldHealthOrganization-CNN-6> .
+ <http://WorldHealthOrganization-CNN-6.com/blank#n567f816e04e44fa3a619563a287fdbb9b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Language> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/USWithdrawalFromWHO> <http://schema.org/critic> <http://example.org/LamarAlexander> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/RobertMenendez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/MikeRyan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/USWithdrawalFromWHO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-CNN-6> .
+ <http://WorldHealthOrganization-CNN-6.com/blank#n567f816e04e44fa3a619563a287fdbb9b1> <http://xmlns.com/foaf/0.1/name> "English"@en  <WorldHealthOrganization-CNN-6> .
+ <http://example.org/NancyPelosi> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Democratic_Party_(United_States)> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/COVID19Pandemic> <http://dbpedia.org/ontology/numberOfDeaths> "130546"^^<http://www.w3.org/2001/XMLSchema#integer>  <WorldHealthOrganization-CNN-6> .
+ <http://example.org/JohnsHopkinsUniversity> <http://xmlns.com/foaf/0.1/name> "Johns Hopkins University"  <WorldHealthOrganization-CNN-6> .
+ <http://example.org/US_NotificationToUN> <http://dbpedia.org/ontology/recipient> <http://example.org/UNSecretaryGeneral> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/US_NotificationToUN> <http://dbpedia.org/ontology/author> <http://example.org/UnitedStates> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/USWithdrawalFromWHO> <http://purl.org/dc/elements/1.1/date> "2021-07-06"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-CNN-6> .
+ <http://example.org/China_FundingToWHO> <http://dbpedia.org/ontology/funder> <http://dbpedia.org/resource/China> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/DonaldTrump> <http://schema.org/jobTitle> "President of the United States"  <WorldHealthOrganization-CNN-6> .
+ <http://example.org/NancyPelosi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/UNSecretaryGeneral> <http://dbpedia.org/ontology/officeHolder> <http://example.org/AntonioGuterres> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/USWithdrawalFromWHO> <http://schema.org/critic> <http://example.org/LoycePace> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/USWithdrawalFromWHO> <http://schema.org/critic> <http://example.org/NancyPelosi> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/AntonioGuterres> <http://xmlns.com/foaf/0.1/name> "António Guterres"  <WorldHealthOrganization-CNN-6> .
+ <http://example.org/ElizabethCousens> <http://dbpedia.org/ontology/position> "president and CEO of the UN Foundation"  <WorldHealthOrganization-CNN-6> .
+ <http://example.org/LamarAlexander> <http://xmlns.com/foaf/0.1/name> "Sen. Lamar Alexander"  <WorldHealthOrganization-CNN-6> .
+ <http://example.org/LoycePace> <http://xmlns.com/foaf/0.1/name> "Loyce Pace"  <WorldHealthOrganization-CNN-6> .
+ <http://example.org/WHO_Covid19Response> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-CNN-6> .
+ <http://WorldHealthOrganization-CNN-6.com/blank#n567f816e04e44fa3a619563a287fdbb9b2> <http://schema.org/name> "Potential reversal of withdrawal decision"  <WorldHealthOrganization-CNN-6> .
+ <http://example.org/LamarAlexander> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/AmericanAcademyOfPediatrics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/AmericanCollegeOfPhysicians> <http://xmlns.com/foaf/0.1/name> "American College of Physicians"  <WorldHealthOrganization-CNN-6> .
+ <http://example.org/AmericanAcademyOfPediatrics> <http://xmlns.com/foaf/0.1/name> "American Academy of Pediatrics"  <WorldHealthOrganization-CNN-6> .
+ <http://example.org/COVID19Pandemic> <http://dbpedia.org/ontology/pointInTime> "2020-07-07"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-CNN-6> .
+ <http://example.org/TedrosAdhanomGhebreyesus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/USWithdrawalFromWHO> <http://dbpedia.org/ontology/cause> <http://example.org/COVID19Pandemic> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/AmericanAcademyOfFamilyPhysicians> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/AntonioGuterres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/USWithdrawalFromWHO> <http://schema.org/critic> <http://example.org/ElizabethCousens> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/JoeBiden> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Democratic_Party_(United_States)> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/US_Congress> <http://xmlns.com/foaf/0.1/name> "United States Congress"  <WorldHealthOrganization-CNN-6> .
+ <http://example.org/WorldHealthOrganization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/UnitedStates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/USWithdrawalFromWHO> <http://schema.org/participant> <http://example.org/UnitedStates> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/NancyPelosi> <http://xmlns.com/foaf/0.1/name> "Nancy Pelosi"  <WorldHealthOrganization-CNN-6> .
+ <http://example.org/WorldHealthOrganization> <http://dbpedia.org/ontology/abbreviation> "WHO"  <WorldHealthOrganization-CNN-6> .
+ <http://example.org/UnitedStates> <http://dbpedia.org/ontology/organization> <http://example.org/WorldHealthOrganization> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/UnitedStates> <http://dbpedia.org/ontology/leader> <http://example.org/DonaldTrump> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/COVID19Pandemic> <http://dbpedia.org/ontology/disease> <http://dbpedia.org/resource/COVID-19> <WorldHealthOrganization-CNN-6> .
+ <http://WorldHealthOrganization-CNN-6.com/blank#n567f816e04e44fa3a619563a287fdbb9b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/TedrosAdhanomGhebreyesus> <http://xmlns.com/foaf/0.1/name> "Tedros Adhanom Ghebreyesus"  <WorldHealthOrganization-CNN-6> .
+ <http://WorldHealthOrganization-CNN-6.com/blank#n567f816e04e44fa3a619563a287fdbb9b2> <http://schema.org/actor> <http://example.org/JoeBiden> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/GOPChinaTaskForce> <http://xmlns.com/foaf/0.1/name> "GOP China task force"  <WorldHealthOrganization-CNN-6> .
+ <http://example.org/AmericanMedicalAssociation> <http://xmlns.com/foaf/0.1/name> "American Medical Association"  <WorldHealthOrganization-CNN-6> .
+ <http://example.org/COVID19Pandemic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/DiseaseOutbreak> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/ElizabethCousens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/China_FundingToWHO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FinancialSupport> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/US_NotificationToUN> <http://dbpedia.org/ontology/about> <http://example.org/USWithdrawalFromWHO> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/WHO_Covid19Response> <http://dbpedia.org/ontology/organizer> <http://example.org/WorldHealthOrganization> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/USWithdrawalFromWHO> <http://dbpedia.org/ontology/result> <http://WorldHealthOrganization-CNN-6.com/blank#n567f816e04e44fa3a619563a287fdbb9b2>  <WorldHealthOrganization-CNN-6> .
+ <http://example.org/LamarAlexander> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Republican_Party_(United_States)> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/DonaldTrump> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Republican_Party_(United_States)> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/USWithdrawalFromWHO> <http://schema.org/participant> <http://example.org/DonaldTrump> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/NancyPelosi> <http://schema.org/jobTitle> "Democratic House Speaker"  <WorldHealthOrganization-CNN-6> .
+ <http://example.org/WHO_Covid19Response> <http://dbpedia.org/ontology/objective> "Coordinate efforts to get personal safety and medical equipment to hospitals around the world"  <WorldHealthOrganization-CNN-6> .
+ <http://example.org/DonaldTrump> <http://xmlns.com/foaf/0.1/name> "Donald Trump"  <WorldHealthOrganization-CNN-6> .
+ <http://example.org/COVID19Pandemic> <http://dbpedia.org/ontology/numberOfCases> "2953423"^^<http://www.w3.org/2001/XMLSchema#integer>  <WorldHealthOrganization-CNN-6> .
+ <http://example.org/USWithdrawalFromWHO> <http://schema.org/critic> <http://example.org/RobertMenendez> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/US_FundingToWHO> <http://dbpedia.org/ontology/amount> "400-500 million"^^<http://www.w3.org/2001/XMLSchema#integer>  <WorldHealthOrganization-CNN-6> .
+ <http://example.org/RobertMenendez> <http://dbpedia.org/ontology/position> "the top Democrat on the Senate Foreign Relations Committee"  <WorldHealthOrganization-CNN-6> .
+ <http://example.org/UNSecretaryGeneral> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/JoeBiden> <http://xmlns.com/foaf/0.1/name> "Joe Biden"  <WorldHealthOrganization-CNN-6> .
+ <http://example.org/RobertMenendez> <http://xmlns.com/foaf/0.1/name> "Sen. Robert Menendez"  <WorldHealthOrganization-CNN-6> .
+ <http://example.org/US_Congress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/LegislativeBody> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/US_NotificationToUN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Document> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/AmericanMedicalAssociation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/AntonioGuterres> <http://dbpedia.org/ontology/position> "Secretary-General of the United Nations"  <WorldHealthOrganization-CNN-6> .
+ <http://example.org/UnitedStates> <http://dbpedia.org/ontology/officialLanguage> <http://WorldHealthOrganization-CNN-6.com/blank#n567f816e04e44fa3a619563a287fdbb9b1>  <WorldHealthOrganization-CNN-6> .
+ <http://example.org/LoycePace> <http://dbpedia.org/ontology/position> "president and executive director of Global Health Council"  <WorldHealthOrganization-CNN-6> .
+ <http://example.org/DonaldTrump> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/US_FundingToWHO> <http://dbpedia.org/ontology/beneficiary> <http://example.org/WorldHealthOrganization> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/MikeRyan> <http://dbpedia.org/ontology/position> "executive director of WHO’s Health Emergencies Program"  <WorldHealthOrganization-CNN-6> .
+ <http://example.org/LoycePace> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/US_NotificationToUN> <http://purl.org/dc/elements/1.1/date> "2021-07-06"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-CNN-6> .
+ <http://example.org/COVID19Pandemic> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Americas> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/JohnsHopkinsUniversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/University> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/AmericanAcademyOfFamilyPhysicians> <http://xmlns.com/foaf/0.1/name> "American Academy of Family Physicians"  <WorldHealthOrganization-CNN-6> .
+ <http://example.org/AmericanCollegeOfPhysicians> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/MikeRyan> <http://xmlns.com/foaf/0.1/name> "Dr. Mike Ryan"  <WorldHealthOrganization-CNN-6> .
+ <http://example.org/China_FundingToWHO> <http://dbpedia.org/ontology/beneficiary> <http://example.org/WorldHealthOrganization> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/RobertMenendez> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Democratic_Party_(United_States)> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/GOPChinaTaskForce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/LamarAlexander> <http://dbpedia.org/ontology/position> "chairman of the Senate Health, Education, Labor and Pensions Committee"  <WorldHealthOrganization-CNN-6> .
+ <http://example.org/US_FundingToWHO> <http://dbpedia.org/ontology/funder> <http://example.org/UnitedStates> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/ElizabethCousens> <http://xmlns.com/foaf/0.1/name> "Elizabeth Cousens"  <WorldHealthOrganization-CNN-6> .
+ <http://example.org/US_FundingToWHO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FinancialSupport> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/JoeBiden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WorldHealthOrganization-CNN-6> .
+ <http://example.org/TedrosAdhanomGhebreyesus> <http://dbpedia.org/ontology/position> "WHO Director-General"  <WorldHealthOrganization-CNN-6> .
+ <http://www.who.int/entity/mpoxTransmission> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> "The virus can spread through contact with body fluids, sores or items such as clothing and bedding contaminated with the virus. It can also spread from person to person through respiratory droplets, typically in a close setting."  <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/mpoxStigma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> "Stigma has been a driving concern in managing the epidemic and continues to hamper access to care for mpox."  <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/WHO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/mpox> <http://schema.org/transmissionMethod> "Contact with body fluids, sores, contaminated items, respiratory droplets"  <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/mpox> <http://schema.org/signOrSymptom> "Sores"  <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/TedrosAdhanomGhebreyesus> <http://xmlns.com/foaf/0.1/title> "WHO Director-General"  <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/mpoxResurgence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://www.who.int/entity/mpoxOutbreak> <WorldHealthOrganization-CNN-7> .
+ <http://WorldHealthOrganization-CNN-7.com/blank#nd4e8faa116ce450b872982edfecbb965b1> <http://schema.org/name> "West and Central Africa"  <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/mpoxAffectedGroup> <http://schema.org/populationType> "Gay, bisexual and men who have sex with men"  <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/NicolaLow> <http://schema.org/jobTitle> "Co-chair of the International Health Regulations emergency committee on mpox"  <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/PHEIC> <http://www.w3.org/2000/01/rdf-schema#comment> "An extraordinary event that constitutes a public health risk to other States through the international spread of disease and to potentially require a coordinated international response."  <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/TedrosAdhanomGhebreyesus> <http://xmlns.com/foaf/0.1/name> "Tedros Adhanom Ghebreyesus"  <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/TedrosAdhanomGhebreyesus> <http://schema.org/memberOf> <http://www.who.int/entity/WHO> <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/WHO> <http://www.w3.org/2000/01/rdf-schema#label> "World Health Organization"  <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/mpoxOutbreak> <http://purl.org/NET/c4dm/event.owl#factor> <http://www.who.int/entity/PHEIC> <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/mpoxStats> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> "From January 2022 through April 2023, more than 87,000 confirmed cases of mpox, including 140 deaths, were reported to WHO from 111 countries or territories. More than 30,000 cases have been reported in the United States. Globally, cases have been declining for months."  <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/mpoxStats> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/mpoxVaccine> <http://schema.org/healthCondition> <http://www.who.int/entity/mpox> <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/mpoxResurgence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> "The possibility of a resurgence lingers."  <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/mpox> <http://schema.org/alternateName> "monkeypox"  <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/mpoxTransmission> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://schema.org/transmissionMethod> <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/mpox> <http://www.w3.org/2000/01/rdf-schema#label> "mpox"  <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/mpoxResurgence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://schema.org/possibleComplication> <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/mpoxAffectedGroup> <http://schema.org/increasesRiskOf> <http://www.who.int/entity/mpox> <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/mpoxTransmission> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/mpoxResurgence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/mpoxOutbreak> <http://www.w3.org/2000/01/rdf-schema#label> "Mpox outbreak"  <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/mpoxVaccine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalTherapy> <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/emergencyCommittee> <http://xmlns.com/foaf/0.1/member> <http://www.who.int/entity/NicolaLow> <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/emergencyCommittee> <http://www.w3.org/2000/01/rdf-schema#label> "WHO's emergency committee for mpox"  <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/WHO> <http://xmlns.com/foaf/0.1/homepage> <http://www.who.int> <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/PHEIC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/emergencyCommittee> <http://xmlns.com/foaf/0.1/member> <http://www.who.int/entity/TedrosAdhanomGhebreyesus> <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/mpoxStigma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://schema.org/associatedAnatomy> <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/mpox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Disease> <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/mpoxStats> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://www.who.int/entity/mpoxOutbreak> <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/mpoxVaccine> <http://www.w3.org/2000/01/rdf-schema#label> "Mpox vaccine"  <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/mpoxTransmission> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://www.who.int/entity/mpox> <WorldHealthOrganization-CNN-7> .
+ <http://WorldHealthOrganization-CNN-7.com/blank#nd4e8faa116ce450b872982edfecbb965b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/mpoxOutbreak> <http://purl.org/dc/elements/1.1/date> "2022-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/emergencyCommittee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/NicolaLow> <http://xmlns.com/foaf/0.1/name> "Dr. Nicola Low"  <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/mpoxStats> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/elements/1.1/description> <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/WHO> <http://xmlns.com/foaf/0.1/name> "World Health Organization"  <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/mpox> <http://schema.org/infectiousAgent> "Mpox virus"  <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/mpox> <http://schema.org/possibleTreatment> "Vaccines"  <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/mpoxStigma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/mpoxOutbreak> <http://purl.org/NET/c4dm/event.owl#outcome> "No longer a global health emergency as of April 2023"  <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/mpox> <http://schema.org/endemicTo> <http://WorldHealthOrganization-CNN-7.com/blank#nd4e8faa116ce450b872982edfecbb965b1>  <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/mpoxStigma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://www.who.int/entity/mpox> <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/PHEIC> <http://www.w3.org/2000/01/rdf-schema#label> "Public Health Emergency of International Concern"  <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/mpoxAffectedGroup> <http://www.w3.org/2000/01/rdf-schema#label> "Affected group in recent outbreak"  <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/mpoxVaccine> <http://schema.org/status> "More widely available"  <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/TedrosAdhanomGhebreyesus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/NicolaLow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/mpoxOutbreak> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/c4dm/event.owl#Event> <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/mpox> <http://schema.org/population> "Humans"  <WorldHealthOrganization-CNN-7> .
+ <http://www.who.int/entity/mpoxAffectedGroup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalRiskFactor> <WorldHealthOrganization-CNN-7> .
+ <http://example.org/DrJudyMonroe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/KatieSchenk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/BrianCastrucci> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/PublicHealthWorkforceHiring> <http://schema.org/organizer> <http://example.org/CDCFoundation> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/DrJudyMonroe> <http://xmlns.com/foaf/0.1/name> "Dr. Judy Monroe"  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/LisaMaconHarrison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/PublicHealthWorkforceHiring> <http://schema.org/employeeQuantity> "4000"^^<http://www.w3.org/2001/XMLSchema#integer>  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/PublicHealthLeadershipLoss> <http://schema.org/description> "1 in 5 Americans lost a local public health leader amid the political backlash of the first years of the pandemic."  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/PublicHealthDepartments> <http://schema.org/subOrganization> <http://example.org/StateHealthDepartments> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/PublicHealthFundingFuture> <http://schema.org/description> "Covid relief money targeted at buttressing the public health workforce."  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/CayenneLevorse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/LocalHealthDepartments> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/KatieSchenk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/Research> <http://schema.org/isPartOf> <https://journals.lww.com/jphmp/pages/default.aspx> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/BrianCastrucci> <http://schema.org/jobTitle> "Head of the de Beaumont Foundation"  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/ChrissieJuliano> <http://xmlns.com/foaf/0.1/name> "Chrissie Juliano"  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/PublicHealthFunding> <http://schema.org/value> "289000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/PublicHealthDepartments> <http://schema.org/subOrganization> <http://example.org/LocalHealthDepartments> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/BrianCastrucci> <http://xmlns.com/foaf/0.1/name> "Brian Castrucci"  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/CayenneLevorse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/LisaMaconHarrison> <http://xmlns.com/foaf/0.1/name> "Lisa Macon Harrison"  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/KatieSchenk> <http://xmlns.com/foaf/0.1/name> "Katie Schenk"  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/PublicHealthJobLoss> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/COVID19Pandemic> <http://schema.org/name> "COVID-19 Pandemic"  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/PublicHealthLeadershipLoss> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/SusanKnoll> <http://xmlns.com/foaf/0.1/name> "Susan Knoll"  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/PublicHealthJobLoss> <http://schema.org/endDate> "2019"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/CentersForDiseaseControlAndPrevention> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/PublicHealthWorkforceHiring> <http://schema.org/about> <http://example.org/COVID19Response> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/PublicHealthStaffingNeeds> <http://schema.org/text> "At least 80,000 new employees are required for state and local public health departments to implement the minimum package of public health services."  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/PublicHealthWorkforceReduction> <http://schema.org/organizer> <http://example.org/CDCFoundation> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/PublicHealthFundingFuture> <http://schema.org/currency> "USD"  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/Research> <http://schema.org/name> "Journal of Public Health Management and Practice"  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/PublicHealthWorkforceReduction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/StateHealthDepartments> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/SusanKnoll> <http://schema.org/jobTitle> "Epidemiologist"  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/PublicHealthWorkforceReduction> <http://schema.org/resultingEmployeeQuantity> "800"^^<http://www.w3.org/2001/XMLSchema#integer>  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/COVID19Pandemic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalCondition> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/PublicHealthFundingFuture> <http://schema.org/value> "3000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/LocalHealthDepartments> <http://xmlns.com/foaf/0.1/name> "Local Health Departments"  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/PublicHealthStaffingNeeds> <http://schema.org/name> "Public Health Staffing Needs"  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/DrAllisonArwady> <http://xmlns.com/foaf/0.1/name> "Dr. Allison Arwady"  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/PublicHealthFunding> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MonetaryAmount> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/PublicHealthDepartments> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/DrAllisonArwady> <http://schema.org/jobTitle> "Commissioner of Chicago's Public Health Department"  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/SusanKnoll> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/COVID19Response> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalCondition> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/COVID19Pandemic> <http://purl.org/dc/terms/date> "2020"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/Research> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/DrJudyMonroe> <http://schema.org/jobTitle> "Head of the CDC Foundation"  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/PublicHealthLeadershipLoss> <http://schema.org/percentage> "20"^^<http://www.w3.org/2001/XMLSchema#integer>  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/PublicHealthWorkforceHiring> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/CentersForDiseaseControlAndPrevention> <http://xmlns.com/foaf/0.1/name> "Centers for Disease Control and Prevention"  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/PublicHealthLeadershipLoss> <http://schema.org/startDate> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/PublicHealthFundingFuture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MonetaryAmount> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/PublicHealthFunding> <http://schema.org/currency> "USD"  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/DrAllisonArwady> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/ChrissieJuliano> <http://schema.org/jobTitle> "Executive Director of the Big Cities Health Coalition"  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/BigCitiesHealthCoalition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/PublicHealthStaffingNeeds> <http://schema.org/additionalType> <http://example.org/Research> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/BigCitiesHealthCoalition> <http://xmlns.com/foaf/0.1/name> "Big Cities Health Coalition"  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/LisaMaconHarrison> <http://schema.org/jobTitle> "Director of North Carolina's Granville Vance Public Health department"  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/CDCFoundation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/KatieSchenk> <http://schema.org/jobTitle> "Senior Epidemiologist"  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/ChrissieJuliano> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/DrAllisonArwady> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/PublicHealthJobLoss> <http://schema.org/employeeQuantityLost> "38000"^^<http://www.w3.org/2001/XMLSchema#integer>  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/COVID19Response> <http://schema.org/name> "COVID-19"  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/PublicHealthFundingAfter911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MonetaryAmount> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/CayenneLevorse> <http://xmlns.com/foaf/0.1/name> "Cayenne Levorse"  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/PublicHealthFundingAfter911> <http://schema.org/description> "Funding for pandemic preparedness came after 9/11, and then the money for staffing went away, leaving departments flat-footed for covid."  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/SusanKnoll> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/ChrissieJuliano> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/DrJudyMonroe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/BrianCastrucci> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/LisaMaconHarrison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/StateHealthDepartments> <http://xmlns.com/foaf/0.1/name> "State Health Departments"  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/CayenneLevorse> <http://schema.org/memberOf> <http://example.org/CDCFoundation> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/deBeaumontFoundation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/deBeaumontFoundation> <http://xmlns.com/foaf/0.1/name> "de Beaumont Foundation"  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/CDCFoundation> <http://xmlns.com/foaf/0.1/name> "CDC Foundation"  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/PublicHealthJobLoss> <http://schema.org/startDate> "2008"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/PublicHealthStaffingNeeds> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <WorldHealthOrganization-CNN-8> .
+ <http://example.org/CDCFoundation> <http://purl.org/dc/terms/description> "An independent nonprofit that supports the CDC’s work."  <WorldHealthOrganization-CNN-8> .
+ <http://example.org/BillAndMelindaGatesFoundation> <http://schema.org/foundingDate> "2000"  <WorldHealthOrganization-CNN-9> .
+ <http://example.org/Gavi> <http://schema.org/name> "Gavi, the Vaccine Alliance"  <WorldHealthOrganization-CNN-9> .
+ <http://example.org/Article> <http://schema.org/author> <http://example.org/BillGates> <WorldHealthOrganization-CNN-9> .
+ <http://example.org/GatesArchive> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WorldHealthOrganization-CNN-9> .
+ <http://example.org/MansiMidha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WorldHealthOrganization-CNN-9> .
+ <http://example.org/BillAndMelindaGatesFoundation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WorldHealthOrganization-CNN-9> .
+ <http://example.org/Article> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> <WorldHealthOrganization-CNN-9> .
+ <http://example.org/SilanaIndia> <http://schema.org/name> "Silana, India"  <WorldHealthOrganization-CNN-9> .
+ <http://example.org/GatesArchive> <http://schema.org/creator> <http://example.org/MansiMidha> <WorldHealthOrganization-CNN-9> .
+ <http://example.org/BillGates> <http://schema.org/affiliation> <http://example.org/BillAndMelindaGatesFoundation> <WorldHealthOrganization-CNN-9> .
+ <http://example.org/Article> <http://schema.org/datePublished> "2021"  <WorldHealthOrganization-CNN-9> .
+ <http://example.org/EricElofson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WorldHealthOrganization-CNN-9> .
+ <http://example.org/Article> <http://schema.org/publisher> <http://example.org/CNN> <WorldHealthOrganization-CNN-9> .
+ <http://example.org/Covid19> <http://schema.org/dateDiscovered> "2019"  <WorldHealthOrganization-CNN-9> .
+ <http://example.org/BillGates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WorldHealthOrganization-CNN-9> .
+ <http://example.org/MelindaGates> <http://schema.org/worksFor> <http://example.org/BillAndMelindaGatesFoundation> <WorldHealthOrganization-CNN-9> .
+ <http://example.org/Article> <http://schema.org/articleBody> "This article is adapted from their 2021 Annual Letter. The views expressed here are those of the authors."  <WorldHealthOrganization-CNN-9> .
+ <http://example.org/Gavi> <http://schema.org/description> "An international organization that aims to improve access to new and underused vaccines for children living in the world's poorest countries."  <WorldHealthOrganization-CNN-9> .
+ <http://example.org/EricElofson> <http://schema.org/name> "Eric Elofson"  <WorldHealthOrganization-CNN-9> .
+ <http://example.org/Article> <http://schema.org/author> <http://example.org/MelindaGates> <WorldHealthOrganization-CNN-9> .
+ <http://example.org/MelindaGates> <http://schema.org/jobTitle> "Co-chair"  <WorldHealthOrganization-CNN-9> .
+ <http://example.org/BillAndMelindaGatesFoundation> <http://schema.org/founder> <http://example.org/MelindaGates> <WorldHealthOrganization-CNN-9> .
+ <http://example.org/WorldWarII> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <WorldHealthOrganization-CNN-9> .
+ <http://example.org/GatesArchive> <http://schema.org/creator> <http://example.org/EricElofson> <WorldHealthOrganization-CNN-9> .
+ <http://example.org/MelindaGates> <http://schema.org/affiliation> <http://example.org/BillAndMelindaGatesFoundation> <WorldHealthOrganization-CNN-9> .
+ <http://example.org/GatesArchive> <http://schema.org/name> "Gates Archive"  <WorldHealthOrganization-CNN-9> .
+ <http://example.org/IbuSuparti> <http://schema.org/name> "Ibu Suparti"  <WorldHealthOrganization-CNN-9> .
+ <http://example.org/BillGates> <http://schema.org/spouse> <http://example.org/MelindaGates> <WorldHealthOrganization-CNN-9> .
+ <http://example.org/DompyonganKlatenIndonesia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <WorldHealthOrganization-CNN-9> .
+ <http://example.org/CNN> <http://schema.org/url> <http://www.cnn.com> <WorldHealthOrganization-CNN-9> .
+ <http://example.org/MansiMidha> <http://schema.org/name> "Mansi Midha"  <WorldHealthOrganization-CNN-9> .
+ <http://example.org/UnitedStates> <http://schema.org/name> "United States"  <WorldHealthOrganization-CNN-9> .
+ <http://example.org/MelindaGates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WorldHealthOrganization-CNN-9> .
+ <http://example.org/VaccineDevelopment> <http://schema.org/description> "The largest public health effort the world has ever seen, involving pooled resources and shared research findings."  <WorldHealthOrganization-CNN-9> .
+ <http://example.org/BillGates> <http://schema.org/jobTitle> "Co-chair"  <WorldHealthOrganization-CNN-9> .
+ <http://example.org/UnitedStates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <WorldHealthOrganization-CNN-9> .
+ <http://example.org/Article> <http://schema.org/headline> "Editor’s Note"  <WorldHealthOrganization-CNN-9> .
+ <http://example.org/BillAndMelindaGatesFoundation> <http://schema.org/founder> <http://example.org/BillGates> <WorldHealthOrganization-CNN-9> .
+ <http://example.org/VaccineDevelopment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <WorldHealthOrganization-CNN-9> .
+ <http://example.org/BillAndMelindaGatesFoundation> <http://schema.org/description> "A private foundation founded by Bill and Melinda Gates."  <WorldHealthOrganization-CNN-9> .
+ <http://example.org/CNN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WorldHealthOrganization-CNN-9> .
+ <http://example.org/Covid19> <http://schema.org/epidemiology> "Over two million people worldwide have died from Covid-19 as of the article's publication."  <WorldHealthOrganization-CNN-9> .
+ <http://example.org/CNN> <http://schema.org/name> "CNN"  <WorldHealthOrganization-CNN-9> .
+ <http://example.org/Covid19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/InfectiousDisease> <WorldHealthOrganization-CNN-9> .
+ <http://example.org/IbuSuparti> <http://schema.org/location> <http://example.org/DompyonganKlatenIndonesia> <WorldHealthOrganization-CNN-9> .
+ <http://example.org/GlobalHealth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <WorldHealthOrganization-CNN-9> .
+ <http://example.org/BillAndMelindaGatesFoundation> <http://schema.org/name> "Bill & Melinda Gates Foundation"  <WorldHealthOrganization-CNN-9> .
+ <http://example.org/WorldWarII> <http://schema.org/name> "World War II"  <WorldHealthOrganization-CNN-9> .
+ <http://WorldHealthOrganization-CNN-9.com/blank#n751939887df543e280e387392466c1a8b1> <http://schema.org/userInteractionCount> "1"  <WorldHealthOrganization-CNN-9> .
+ <http://example.org/IbuSuparti> <http://schema.org/interactionStatistic> <http://WorldHealthOrganization-CNN-9.com/blank#n751939887df543e280e387392466c1a8b1>  <WorldHealthOrganization-CNN-9> .
+ <http://example.org/SilanaIndia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <WorldHealthOrganization-CNN-9> .
+ <http://example.org/Gavi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WorldHealthOrganization-CNN-9> .
+ <http://WorldHealthOrganization-CNN-9.com/blank#n751939887df543e280e387392466c1a8b1> <http://schema.org/interactionType> <http://schema.org/UseAction> <WorldHealthOrganization-CNN-9> .
+ <http://example.org/MelindaGates> <http://schema.org/name> "Melinda Gates"  <WorldHealthOrganization-CNN-9> .
+ <http://example.org/Covid19> <http://schema.org/infectiousAgent> "SARS-CoV-2"  <WorldHealthOrganization-CNN-9> .
+ <http://example.org/VaccineDevelopment> <http://schema.org/name> "Vaccine Development"  <WorldHealthOrganization-CNN-9> .
+ <http://example.org/MelindaGates> <http://schema.org/spouse> <http://example.org/BillGates> <WorldHealthOrganization-CNN-9> .
+ <http://example.org/GlobalHealth> <http://schema.org/name> "Global Health"  <WorldHealthOrganization-CNN-9> .
+ <http://example.org/Covid19> <http://schema.org/name> "Covid-19"  <WorldHealthOrganization-CNN-9> .
+ <http://example.org/IbuSuparti> <http://schema.org/image> <http://example.org/images/ibu-suparti.jpg> <WorldHealthOrganization-CNN-9> .
+ <http://example.org/BillGates> <http://schema.org/worksFor> <http://example.org/BillAndMelindaGatesFoundation> <WorldHealthOrganization-CNN-9> .
+ <http://example.org/BillGates> <http://schema.org/name> "Bill Gates"  <WorldHealthOrganization-CNN-9> .
+ <http://example.org/DompyonganKlatenIndonesia> <http://schema.org/name> "Dompyongan, Klaten, Indonesia"  <WorldHealthOrganization-CNN-9> .
+ <http://example.org/IbuSuparti> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <WorldHealthOrganization-CNN-9> .

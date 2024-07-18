@@ -1,0 +1,623 @@
+ <http://NBA-Al-Jazeera-0.com/blank#n37d04f0d86fa4cb6bae30b704d6ab388b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Team> <NBA-Al-Jazeera-0> .
+ <http://example.org/DidierYanga> <http://xmlns.com/foaf/0.1/name> "Didier Yanga"  <NBA-Al-Jazeera-0> .
+ <http://example.org/OverdoseYaoundé> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NBA-Al-Jazeera-0> .
+ <http://example.org/CameroonNationalBasketballTeam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NBA-Al-Jazeera-0> .
+ <http://example.org/RubenBertrandBoumtjeBoumtje> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Portland_Trail_Blazers> <NBA-Al-Jazeera-0> .
+ <http://example.org/JoeTouomou> <http://xmlns.com/foaf/0.1/name> "Joe Touomou"  <NBA-Al-Jazeera-0> .
+ <http://example.org/YvesTsala> <http://xmlns.com/foaf/0.1/name> "Yves Tsala"  <NBA-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Giannis_Antetokounmpo> <http://dbpedia.org/ontology/award> <http://example.org/NBA_MVP_2020> <NBA-Al-Jazeera-0> .
+ <http://example.org/YaoundéMultipurposeSportsComplex> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Yaoundé> <NBA-Al-Jazeera-0> .
+ <http://NBA-Al-Jazeera-0.com/blank#n37d04f0d86fa4cb6bae30b704d6ab388b4> <http://dbpedia.org/ontology/team> <http://example.org/FAP> <NBA-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Giannis_Antetokounmpo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballPlayer> <NBA-Al-Jazeera-0> .
+ <http://example.org/YvesTsala> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <NBA-Al-Jazeera-0> .
+ <http://example.org/YvesTsala> <http://dbpedia.org/ontology/occupation> "Former head of communication at the Cameroon Basketball Federation"  <NBA-Al-Jazeera-0> .
+ <http://example.org/JoelEmbiid> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Philadelphia_76ers> <NBA-Al-Jazeera-0> .
+ <http://example.org/JamesAmasoka> <http://dbpedia.org/ontology/height> "1.98"^^<http://www.w3.org/2001/XMLSchema#decimal>  <NBA-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Giannis_Antetokounmpo> <http://xmlns.com/foaf/0.1/name> "Giannis Antetokounmpo"  <NBA-Al-Jazeera-0> .
+ <http://NBA-Al-Jazeera-0.com/blank#n37d04f0d86fa4cb6bae30b704d6ab388b2> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Portland_Trail_Blazers> <NBA-Al-Jazeera-0> .
+ <http://example.org/JoelEmbiid> <http://dbpedia.org/ontology/award> <http://example.org/NBA_MVP_2023> <NBA-Al-Jazeera-0> .
+ <http://example.org/FAP> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Cameroon> <NBA-Al-Jazeera-0> .
+ <http://example.org/JamesAmasoka> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballPlayer> <NBA-Al-Jazeera-0> .
+ <http://example.org/JoelEmbiid> <http://xmlns.com/foaf/0.1/name> "Joel Embiid"  <NBA-Al-Jazeera-0> .
+ <http://example.org/DidierYanga> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballPlayer> <NBA-Al-Jazeera-0> .
+ <http://example.org/JoelEmbiid> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Cameroon> <NBA-Al-Jazeera-0> .
+ <http://example.org/AlfredAboya> <http://xmlns.com/foaf/0.1/name> "Alfred Aboya"  <NBA-Al-Jazeera-0> .
+ <http://example.org/EbakuAkumenzoh> <http://dbpedia.org/ontology/careerStation> <http://NBA-Al-Jazeera-0.com/blank#n37d04f0d86fa4cb6bae30b704d6ab388b4>  <NBA-Al-Jazeera-0> .
+ <http://example.org/JamesAmasoka> <http://dbpedia.org/ontology/team> <http://example.org/OnyxYaoundé> <NBA-Al-Jazeera-0> .
+ <http://example.org/CameroonBasketballFederation> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Cameroon> <NBA-Al-Jazeera-0> .
+ <http://NBA-Al-Jazeera-0.com/blank#n37d04f0d86fa4cb6bae30b704d6ab388b1> <http://dbpedia.org/ontology/startDate> "2014-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-Al-Jazeera-0> .
+ <http://NBA-Al-Jazeera-0.com/blank#n37d04f0d86fa4cb6bae30b704d6ab388b3> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Georgetown_University> <NBA-Al-Jazeera-0> .
+ <http://NBA-Al-Jazeera-0.com/blank#n37d04f0d86fa4cb6bae30b704d6ab388b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Team> <NBA-Al-Jazeera-0> .
+ <http://example.org/LucMbahAMoute> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballPlayer> <NBA-Al-Jazeera-0> .
+ <http://example.org/RubenBertrandBoumtjeBoumtje> <http://xmlns.com/foaf/0.1/name> "Ruben Bertrand Boumtje-Boumtje"  <NBA-Al-Jazeera-0> .
+ <http://example.org/JoelEmbiid> <http://dbpedia.org/ontology/birthDate> "1994-03-16"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-Al-Jazeera-0> .
+ <http://example.org/NBA_MVP_2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> <NBA-Al-Jazeera-0> .
+ <http://example.org/JoeTouomou> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Georgetown_University> <NBA-Al-Jazeera-0> .
+ <http://example.org/FAP> <http://dbpedia.org/ontology/sport> <http://dbpedia.org/resource/Basketball> <NBA-Al-Jazeera-0> .
+ <http://example.org/JoelEmbiid> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Yaoundé> <NBA-Al-Jazeera-0> .
+ <http://example.org/JoelEmbiid> <http://dbpedia.org/ontology/careerPoints> "33.1"^^<http://www.w3.org/2001/XMLSchema#decimal>  <NBA-Al-Jazeera-0> .
+ <http://example.org/OnyxYaoundé> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NBA-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Nikola_Jokić> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballPlayer> <NBA-Al-Jazeera-0> .
+ <http://example.org/OverdoseYaoundé> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Yaoundé> <NBA-Al-Jazeera-0> .
+ <http://example.org/CameroonBasketballFederation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NBA-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Giannis_Antetokounmpo> <http://dbpedia.org/ontology/award> <http://example.org/NBA_MVP_2019> <NBA-Al-Jazeera-0> .
+ <http://NBA-Al-Jazeera-0.com/blank#n37d04f0d86fa4cb6bae30b704d6ab388b2> <http://dbpedia.org/ontology/startDate> "2001-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-Al-Jazeera-0> .
+ <http://example.org/NBA_MVP_2023> <http://dbpedia.org/ontology/previousWinner> <http://dbpedia.org/resource/Nikola_Jokić> <NBA-Al-Jazeera-0> .
+ <http://example.org/JoelEmbiid> <http://dbpedia.org/ontology/careerStation> <http://NBA-Al-Jazeera-0.com/blank#n37d04f0d86fa4cb6bae30b704d6ab388b1>  <NBA-Al-Jazeera-0> .
+ <http://example.org/EbakuAkumenzoh> <http://dbpedia.org/ontology/team> <http://example.org/FAP> <NBA-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Nikola_Jokić> <http://dbpedia.org/ontology/award> <http://example.org/NBA_MVP_2021> <NBA-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Nikola_Jokić> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Denver_Nuggets> <NBA-Al-Jazeera-0> .
+ <http://example.org/LeilaMbiyzenyuy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballPlayer> <NBA-Al-Jazeera-0> .
+ <http://NBA-Al-Jazeera-0.com/blank#n37d04f0d86fa4cb6bae30b704d6ab388b4> <http://dbpedia.org/ontology/endDate> "2022-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-Al-Jazeera-0> .
+ <http://example.org/LeilaMbiyzenyuy> <http://xmlns.com/foaf/0.1/name> "Leila Mbiyzenyuy"  <NBA-Al-Jazeera-0> .
+ <http://example.org/JoeTouomou> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballPlayer> <NBA-Al-Jazeera-0> .
+ <http://example.org/AlfredAboya> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballPlayer> <NBA-Al-Jazeera-0> .
+ <http://example.org/LeilaMbiyzenyuy> <http://dbpedia.org/ontology/height> "1.66"^^<http://www.w3.org/2001/XMLSchema#decimal>  <NBA-Al-Jazeera-0> .
+ <http://example.org/RubenBertrandBoumtjeBoumtje> <http://dbpedia.org/ontology/careerStation> <http://NBA-Al-Jazeera-0.com/blank#n37d04f0d86fa4cb6bae30b704d6ab388b2>  <NBA-Al-Jazeera-0> .
+ <http://example.org/NBA_MVP_2023> <http://dbpedia.org/ontology/awardWinner> <http://example.org/JoelEmbiid> <NBA-Al-Jazeera-0> .
+ <http://example.org/YaoundéMultipurposeSportsComplex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Building> <NBA-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Giannis_Antetokounmpo> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Milwaukee_Bucks> <NBA-Al-Jazeera-0> .
+ <http://example.org/NBA_MVP_2023> <http://dbpedia.org/ontology/awardDate> "2023-05-03"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-Al-Jazeera-0> .
+ <http://example.org/CameroonNationalBasketballTeam> <http://dbpedia.org/ontology/coach> <http://example.org/AlfredAboya> <NBA-Al-Jazeera-0> .
+ <http://example.org/JoeTouomou> <http://dbpedia.org/ontology/careerStation> <http://NBA-Al-Jazeera-0.com/blank#n37d04f0d86fa4cb6bae30b704d6ab388b3>  <NBA-Al-Jazeera-0> .
+ <http://NBA-Al-Jazeera-0.com/blank#n37d04f0d86fa4cb6bae30b704d6ab388b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Team> <NBA-Al-Jazeera-0> .
+ <http://example.org/NBA_MVP_2023> <http://dbpedia.org/ontology/previousWinner> <http://dbpedia.org/resource/Giannis_Antetokounmpo> <NBA-Al-Jazeera-0> .
+ <http://example.org/JoelEmbiid> <http://dbpedia.org/ontology/position> "Centre"  <NBA-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Nikola_Jokić> <http://xmlns.com/foaf/0.1/name> "Nikola Jokić"  <NBA-Al-Jazeera-0> .
+ <http://example.org/CameroonNationalBasketballTeam> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Cameroon> <NBA-Al-Jazeera-0> .
+ <http://example.org/EbakuAkumenzoh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballPlayer> <NBA-Al-Jazeera-0> .
+ <http://example.org/YaoundéMultipurposeSportsComplex> <http://dbpedia.org/ontology/purpose> "Sports"  <NBA-Al-Jazeera-0> .
+ <http://NBA-Al-Jazeera-0.com/blank#n37d04f0d86fa4cb6bae30b704d6ab388b4> <http://dbpedia.org/ontology/startDate> "2013-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-Al-Jazeera-0> .
+ <http://example.org/CameroonNationalBasketballTeam> <http://dbpedia.org/ontology/sport> <http://dbpedia.org/resource/Basketball> <NBA-Al-Jazeera-0> .
+ <http://example.org/OnyxYaoundé> <http://dbpedia.org/ontology/sport> <http://dbpedia.org/resource/Basketball> <NBA-Al-Jazeera-0> .
+ <http://example.org/RubenBertrandBoumtjeBoumtje> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballPlayer> <NBA-Al-Jazeera-0> .
+ <http://NBA-Al-Jazeera-0.com/blank#n37d04f0d86fa4cb6bae30b704d6ab388b3> <http://dbpedia.org/ontology/startDate> "1994-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-Al-Jazeera-0> .
+ <http://example.org/JoelEmbiid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballPlayer> <NBA-Al-Jazeera-0> .
+ <http://example.org/OnyxYaoundé> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Yaoundé> <NBA-Al-Jazeera-0> .
+ <http://NBA-Al-Jazeera-0.com/blank#n37d04f0d86fa4cb6bae30b704d6ab388b1> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Philadelphia_76ers> <NBA-Al-Jazeera-0> .
+ <http://example.org/LeilaMbiyzenyuy> <http://dbpedia.org/ontology/team> <http://example.org/OverdoseYaoundé> <NBA-Al-Jazeera-0> .
+ <http://example.org/JamesAmasoka> <http://xmlns.com/foaf/0.1/name> "James Amasoka"  <NBA-Al-Jazeera-0> .
+ <http://example.org/JoelEmbiid> <http://dbpedia.org/ontology/height> "2.1"^^<http://www.w3.org/2001/XMLSchema#decimal>  <NBA-Al-Jazeera-0> .
+ <http://NBA-Al-Jazeera-0.com/blank#n37d04f0d86fa4cb6bae30b704d6ab388b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Team> <NBA-Al-Jazeera-0> .
+ <http://example.org/FAP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NBA-Al-Jazeera-0> .
+ <http://example.org/AlfredAboya> <http://dbpedia.org/ontology/occupation> "Cameroon's coach"  <NBA-Al-Jazeera-0> .
+ <http://example.org/LucMbahAMoute> <http://xmlns.com/foaf/0.1/name> "Luc Mbah a Moute"  <NBA-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Nikola_Jokić> <http://dbpedia.org/ontology/award> <http://example.org/NBA_MVP_2022> <NBA-Al-Jazeera-0> .
+ <http://example.org/OverdoseYaoundé> <http://dbpedia.org/ontology/sport> <http://dbpedia.org/resource/Basketball> <NBA-Al-Jazeera-0> .
+ <http://example.org/CameroonBasketballFederation> <http://dbpedia.org/ontology/sport> <http://dbpedia.org/resource/Basketball> <NBA-Al-Jazeera-0> .
+ <http://example.org/EbakuAkumenzoh> <http://xmlns.com/foaf/0.1/name> "Ebaku Akumenzoh"  <NBA-Al-Jazeera-0> .
+ <http://example.org/ThreatAgainstMallSecurity> <http://example.org/involved> <http://example.org/JaMorant> <NBA-Al-Jazeera-1> .
+ <http://example.org/GunDisplayIncident> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Incident> <NBA-Al-Jazeera-1> .
+ <http://example.org/ThreatAgainstMallSecurity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Incident> <NBA-Al-Jazeera-1> .
+ <http://example.org/JaMorant> <http://example.org/assistsPerGame> "8.2"^^<http://www.w3.org/2001/XMLSchema#decimal>  <NBA-Al-Jazeera-1> .
+ <http://example.org/AltercationWithTeen> <http://example.org/accusation> "punching 12-13 times"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-Al-Jazeera-1> .
+ <http://example.org/JaMorant> <http://example.org/involvedIn> <http://example.org/AltercationWithTeen> <NBA-Al-Jazeera-1> .
+ <http://example.org/MemphisGrizzlies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/BasketballTeam> <NBA-Al-Jazeera-1> .
+ <http://example.org/GameAgainstClippers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/BasketballGame> <NBA-Al-Jazeera-1> .
+ <http://example.org/Nightclub> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Venue> <NBA-Al-Jazeera-1> .
+ <http://example.org/JaMorant> <http://example.org/age> "23"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-Al-Jazeera-1> .
+ <http://example.org/JaMorant> <http://example.org/accusedOf> <http://example.org/ThreatAgainstMallSecurity> <NBA-Al-Jazeera-1> .
+ <http://example.org/GameAgainstClippers> <http://example.org/date> "2023-03-05"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-Al-Jazeera-1> .
+ <http://example.org/GunViolenceArchiveReport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Report> <NBA-Al-Jazeera-1> .
+ <http://example.org/JaMorant> <http://example.org/position> "All Star player"  <NBA-Al-Jazeera-1> .
+ <http://example.org/ThreatAgainstMallSecurity> <http://example.org/policeReportFiled> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NBA-Al-Jazeera-1> .
+ <http://example.org/GunViolenceArchiveReport> <http://example.org/year> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NBA-Al-Jazeera-1> .
+ <http://example.org/JaMorant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/BasketballPlayer> <NBA-Al-Jazeera-1> .
+ <http://example.org/AltercationWithTeen> <http://example.org/involved> <http://example.org/UnnamedTeen> <NBA-Al-Jazeera-1> .
+ <http://example.org/GunViolenceArchiveReport> <http://example.org/suicidesIncluded> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NBA-Al-Jazeera-1> .
+ <http://example.org/MemphisMall> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ShoppingMall> <NBA-Al-Jazeera-1> .
+ <http://example.org/JaMorant> <http://example.org/suspendedForGames> <http://example.org/GameAgainstClippers> <NBA-Al-Jazeera-1> .
+ <http://example.org/MemphisGrizzlies> <http://example.org/location> <http://example.org/Tennessee> <NBA-Al-Jazeera-1> .
+ <http://example.org/Tennessee> <http://example.org/country> <http://example.org/UnitedStates> <NBA-Al-Jazeera-1> .
+ <http://example.org/JaMorant> <http://example.org/apologizedFor> <http://example.org/GunDisplayIncident> <NBA-Al-Jazeera-1> .
+ <http://example.org/JaMorant> <http://example.org/gamesPlayed> "53"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-Al-Jazeera-1> .
+ <http://example.org/GameAgainstLakers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/BasketballGame> <NBA-Al-Jazeera-1> .
+ <http://example.org/JaMorant> <http://example.org/suspendedForGames> <http://example.org/GameAgainstLakers> <NBA-Al-Jazeera-1> .
+ <http://example.org/JaMorant> <http://example.org/pointsPerGame> "27.1"^^<http://www.w3.org/2001/XMLSchema#decimal>  <NBA-Al-Jazeera-1> .
+ <http://example.org/GunViolenceArchiveReport> <http://example.org/massShootings> "647"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-Al-Jazeera-1> .
+ <http://example.org/GunViolenceArchiveReport> <http://example.org/deaths> "44000"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-Al-Jazeera-1> .
+ <http://example.org/AltercationWithTeen> <http://example.org/policeReportMentioned> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NBA-Al-Jazeera-1> .
+ <http://example.org/GunDisplayIncident> <http://example.org/occurredAt> <http://example.org/Nightclub> <NBA-Al-Jazeera-1> .
+ <http://example.org/AltercationWithTeen> <http://example.org/involved> <http://example.org/JaMorant> <NBA-Al-Jazeera-1> .
+ <http://example.org/GunDisplayIncident> <http://example.org/capturedOn> <http://example.org/InstagramLive> <NBA-Al-Jazeera-1> .
+ <http://example.org/UnitedStates> <http://example.org/gunViolenceStatistics> <http://example.org/GunViolenceArchiveReport> <NBA-Al-Jazeera-1> .
+ <http://example.org/UnitedStates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Country> <NBA-Al-Jazeera-1> .
+ <http://example.org/GameAgainstLakers> <http://example.org/date> "2023-03-07"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-Al-Jazeera-1> .
+ <http://example.org/JaMorant> <http://example.org/reboundsPerGame> "6.0"^^<http://www.w3.org/2001/XMLSchema#decimal>  <NBA-Al-Jazeera-1> .
+ <http://example.org/JaMorant> <http://example.org/fullName> "Ja Morant"  <NBA-Al-Jazeera-1> .
+ <http://example.org/MemphisGrizzlies> <http://example.org/conferenceStanding> "second in the Western Conference"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-Al-Jazeera-1> .
+ <http://example.org/AltercationWithTeen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Incident> <NBA-Al-Jazeera-1> .
+ <http://example.org/Tennessee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/State> <NBA-Al-Jazeera-1> .
+ <http://example.org/GunDisplayIncident> <http://example.org/involved> <http://example.org/JaMorant> <NBA-Al-Jazeera-1> .
+ <http://example.org/ThreatAgainstMallSecurity> <http://example.org/location> <http://example.org/MemphisMall> <NBA-Al-Jazeera-1> .
+ <http://example.org/JaMorant> <http://example.org/team> <http://example.org/MemphisGrizzlies> <NBA-Al-Jazeera-1> .
+ <http://example.org/InstagramLive> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/SocialMediaPlatform> <NBA-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/National_Basketball_Association> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsLeague> <NBA-Al-Jazeera-2> .
+ <http://example.org/ClippersVsJazzGame> <http://dbpedia.org/ontology/date> "2021-04-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <NBA-Al-Jazeera-2> .
+ <http://example.org/ClippersVsJazzGame> <http://dbpedia.org/ontology/result> <http://NBA-Al-Jazeera-2.com/blank#n6b7cf46043eb4ab8a6a01f9cf6633a6cb2>  <NBA-Al-Jazeera-2> .
+ <http://NBA-Al-Jazeera-2.com/blank#n6b7cf46043eb4ab8a6a01f9cf6633a6cb5> <http://dbpedia.org/ontology/comment> "brutal dictator"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-Al-Jazeera-2> .
+ <http://dbpedia.org/resource/Hong_Kong> <http://dbpedia.org/ontology/governmentType> "one country, two systems"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-Al-Jazeera-2> .
+ <http://example.org/DarylMorey> <http://dbpedia.org/ontology/position> "General Manager"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-Al-Jazeera-2> .
+ <http://NBA-Al-Jazeera-2.com/blank#n6b7cf46043eb4ab8a6a01f9cf6633a6cb6> <http://dbpedia.org/ontology/comment> "boycott"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-Al-Jazeera-2> .
+ <http://example.org/CCTV> <http://dbpedia.org/ontology/suspensionPeriod> "18 months"^^<http://www.w3.org/2001/XMLSchema#duration>  <NBA-Al-Jazeera-2> .
+ <http://example.org/DarylMorey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <NBA-Al-Jazeera-2> .
+ <http://NBA-Al-Jazeera-2.com/blank#n6b7cf46043eb4ab8a6a01f9cf6633a6cb1> <http://dbpedia.org/ontology/startDate> "2019-10-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <NBA-Al-Jazeera-2> .
+ <http://dbpedia.org/resource/Houston_Rockets> <http://dbpedia.org/ontology/league> <http://dbpedia.org/resource/National_Basketball_Association> <NBA-Al-Jazeera-2> .
+ <http://NBA-Al-Jazeera-2.com/blank#n6b7cf46043eb4ab8a6a01f9cf6633a6cb1> <http://dbpedia.org/ontology/participant> <http://example.org/DarylMorey> <NBA-Al-Jazeera-2> .
+ <http://dbpedia.org/resource/China> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <NBA-Al-Jazeera-2> .
+ <http://NBA-Al-Jazeera-2.com/blank#n6b7cf46043eb4ab8a6a01f9cf6633a6cb6> <http://dbpedia.org/ontology/target> <http://dbpedia.org/resource/Beijing_Winter_Olympics> <NBA-Al-Jazeera-2> .
+ <http://dbpedia.org/resource/China> <http://dbpedia.org/ontology/policy> <http://NBA-Al-Jazeera-2.com/blank#n6b7cf46043eb4ab8a6a01f9cf6633a6cb7>  <NBA-Al-Jazeera-2> .
+ <http://example.org/HongKongProtests2019> <http://dbpedia.org/ontology/startDate> "2019-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-Al-Jazeera-2> .
+ <http://example.org/ClippersVsJazzGame> <http://dbpedia.org/ontology/competitor> <http://dbpedia.org/resource/Los_Angeles_Clippers> <NBA-Al-Jazeera-2> .
+ <http://example.org/HongKongProtests2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <NBA-Al-Jazeera-2> .
+ <http://NBA-Al-Jazeera-2.com/blank#n6b7cf46043eb4ab8a6a01f9cf6633a6cb10> <http://dbpedia.org/ontology/outcome> "crackdown"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-Al-Jazeera-2> .
+ <http://NBA-Al-Jazeera-2.com/blank#n6b7cf46043eb4ab8a6a01f9cf6633a6cb1> <http://dbpedia.org/ontology/relatedTo> <http://dbpedia.org/resource/Hong_Kong_pro-democracy_movement> <NBA-Al-Jazeera-2> .
+ <http://example.org/HongKongProtests2019> <http://dbpedia.org/ontology/cause> <http://NBA-Al-Jazeera-2.com/blank#n6b7cf46043eb4ab8a6a01f9cf6633a6cb9>  <NBA-Al-Jazeera-2> .
+ <http://dbpedia.org/resource/China> <http://dbpedia.org/ontology/officialName> "People's Republic of China"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-Al-Jazeera-2> .
+ <http://example.org/HongKongNationalSecurityLaw2020> <http://dbpedia.org/ontology/criminalises> "subversion, secession, terrorism, collusion with foreign entities"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-Al-Jazeera-2> .
+ <http://dbpedia.org/resource/National_Basketball_Association> <http://dbpedia.org/ontology/relationship> <http://NBA-Al-Jazeera-2.com/blank#n6b7cf46043eb4ab8a6a01f9cf6633a6cb4>  <NBA-Al-Jazeera-2> .
+ <http://NBA-Al-Jazeera-2.com/blank#n6b7cf46043eb4ab8a6a01f9cf6633a6cb10> <http://dbpedia.org/ontology/outcome> "arrests of protesters"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-Al-Jazeera-2> .
+ <http://dbpedia.org/resource/China> <http://dbpedia.org/ontology/denial> <http://NBA-Al-Jazeera-2.com/blank#n6b7cf46043eb4ab8a6a01f9cf6633a6cb8>  <NBA-Al-Jazeera-2> .
+ <http://NBA-Al-Jazeera-2.com/blank#n6b7cf46043eb4ab8a6a01f9cf6633a6cb7> <http://dbpedia.org/ontology/comment> "peacefully liberated"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-Al-Jazeera-2> .
+ <http://dbpedia.org/resource/National_Basketball_Association> <http://dbpedia.org/ontology/abbreviation> "NBA"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-Al-Jazeera-2> .
+ <http://NBA-Al-Jazeera-2.com/blank#n6b7cf46043eb4ab8a6a01f9cf6633a6cb4> <http://dbpedia.org/ontology/relationshipType> "mending relations"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-Al-Jazeera-2> .
+ <http://example.org/EnesKanterFreedom> <http://dbpedia.org/ontology/advocacy> <http://NBA-Al-Jazeera-2.com/blank#n6b7cf46043eb4ab8a6a01f9cf6633a6cb6>  <NBA-Al-Jazeera-2> .
+ <http://NBA-Al-Jazeera-2.com/blank#n6b7cf46043eb4ab8a6a01f9cf6633a6cb1> <http://dbpedia.org/ontology/endDate> "2021-04-01T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <NBA-Al-Jazeera-2> .
+ <http://dbpedia.org/resource/Hong_Kong> <http://dbpedia.org/ontology/formerColonialRuler> <http://dbpedia.org/resource/United_Kingdom> <NBA-Al-Jazeera-2> .
+ <http://example.org/CCTV> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/China> <NBA-Al-Jazeera-2> .
+ <http://NBA-Al-Jazeera-2.com/blank#n6b7cf46043eb4ab8a6a01f9cf6633a6cb8> <http://dbpedia.org/ontology/comment> "denied allegations of religious repression and other abuses in Tibet"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-Al-Jazeera-2> .
+ <http://NBA-Al-Jazeera-2.com/blank#n6b7cf46043eb4ab8a6a01f9cf6633a6cb2> <http://dbpedia.org/ontology/score> "121-115"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-Al-Jazeera-2> .
+ <http://NBA-Al-Jazeera-2.com/blank#n6b7cf46043eb4ab8a6a01f9cf6633a6cb3> <http://dbpedia.org/ontology/comment> "largest overseas market"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-Al-Jazeera-2> .
+ <http://example.org/EnesKanterFreedom> <http://dbpedia.org/ontology/criticism> <http://NBA-Al-Jazeera-2.com/blank#n6b7cf46043eb4ab8a6a01f9cf6633a6cb5>  <NBA-Al-Jazeera-2> .
+ <http://example.org/DarylMorey> <http://dbpedia.org/ontology/supports> <http://dbpedia.org/resource/Hong_Kong_pro-democracy_movement> <NBA-Al-Jazeera-2> .
+ <http://dbpedia.org/resource/National_Basketball_Association> <http://dbpedia.org/ontology/market> <http://NBA-Al-Jazeera-2.com/blank#n6b7cf46043eb4ab8a6a01f9cf6633a6cb3>  <NBA-Al-Jazeera-2> .
+ <http://NBA-Al-Jazeera-2.com/blank#n6b7cf46043eb4ab8a6a01f9cf6633a6cb4> <http://dbpedia.org/ontology/with> <http://dbpedia.org/resource/China> <NBA-Al-Jazeera-2> .
+ <http://dbpedia.org/resource/Hong_Kong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/City> <NBA-Al-Jazeera-2> .
+ <http://example.org/HongKongNationalSecurityLaw2020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Legislation> <NBA-Al-Jazeera-2> .
+ <http://NBA-Al-Jazeera-2.com/blank#n6b7cf46043eb4ab8a6a01f9cf6633a6cb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <NBA-Al-Jazeera-2> .
+ <http://NBA-Al-Jazeera-2.com/blank#n6b7cf46043eb4ab8a6a01f9cf6633a6cb10> <http://dbpedia.org/ontology/outcome> "wider pro-democracy movement"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-Al-Jazeera-2> .
+ <http://example.org/DarylMorey> <http://dbpedia.org/ontology/affiliation> <http://dbpedia.org/resource/Houston_Rockets> <NBA-Al-Jazeera-2> .
+ <http://example.org/HongKongProtests2019> <http://dbpedia.org/ontology/result> <http://NBA-Al-Jazeera-2.com/blank#n6b7cf46043eb4ab8a6a01f9cf6633a6cb10>  <NBA-Al-Jazeera-2> .
+ <http://dbpedia.org/resource/Hong_Kong> <http://dbpedia.org/ontology/civilLiberties> "freedom of expression"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-Al-Jazeera-2> .
+ <http://example.org/EnesKanterFreedom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <NBA-Al-Jazeera-2> .
+ <http://example.org/DarylMorey> <http://dbpedia.org/ontology/statement> "Stand with Hong Kong"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-Al-Jazeera-2> .
+ <http://example.org/ClippersVsJazzGame> <http://dbpedia.org/ontology/competitor> <http://dbpedia.org/resource/Utah_Jazz> <NBA-Al-Jazeera-2> .
+ <http://NBA-Al-Jazeera-2.com/blank#n6b7cf46043eb4ab8a6a01f9cf6633a6cb7> <http://dbpedia.org/ontology/target> <http://dbpedia.org/resource/Tibet> <NBA-Al-Jazeera-2> .
+ <http://example.org/CCTV> <http://dbpedia.org/ontology/suspensionReason> <http://NBA-Al-Jazeera-2.com/blank#n6b7cf46043eb4ab8a6a01f9cf6633a6cb1>  <NBA-Al-Jazeera-2> .
+ <http://example.org/CCTV> <http://dbpedia.org/ontology/broadcast> <http://example.org/ClippersVsJazzGame> <NBA-Al-Jazeera-2> .
+ <http://dbpedia.org/resource/National_Basketball_Association> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/United_States> <NBA-Al-Jazeera-2> .
+ <http://NBA-Al-Jazeera-2.com/blank#n6b7cf46043eb4ab8a6a01f9cf6633a6cb9> <http://dbpedia.org/ontology/legislation> "extradition law"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-Al-Jazeera-2> .
+ <http://example.org/CCTV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Broadcaster> <NBA-Al-Jazeera-2> .
+ <http://example.org/HongKongNationalSecurityLaw2020> <http://dbpedia.org/ontology/enactmentDate> "2020-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-Al-Jazeera-2> .
+ <http://dbpedia.org/resource/Houston_Rockets> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballTeam> <NBA-Al-Jazeera-2> .
+ <http://NBA-Al-Jazeera-2.com/blank#n6b7cf46043eb4ab8a6a01f9cf6633a6cb3> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/China> <NBA-Al-Jazeera-2> .
+ <http://example.org/EnesKanterFreedom> <http://dbpedia.org/ontology/affiliation> <http://dbpedia.org/resource/Boston_Celtics> <NBA-Al-Jazeera-2> .
+ <http://dbpedia.org/resource/Hong_Kong> <http://dbpedia.org/ontology/controlChangeYear> "2047"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NBA-Al-Jazeera-2> .
+ <http://example.org/HongKongProtests2019> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Hong_Kong> <NBA-Al-Jazeera-2> .
+ <http://NBA-Al-Jazeera-2.com/blank#n6b7cf46043eb4ab8a6a01f9cf6633a6cb5> <http://dbpedia.org/ontology/target> <http://dbpedia.org/resource/Xi_Jinping> <NBA-Al-Jazeera-2> .
+ <http://example.org/EnesKanterFreedom> <http://dbpedia.org/ontology/position> "Centre"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-Al-Jazeera-2> .
+ <http://example.org/HongKongNationalSecurityLaw2020> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Hong_Kong> <NBA-Al-Jazeera-2> .
+ <http://example.org/ClippersVsJazzGame> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballGame> <NBA-Al-Jazeera-2> .
+ <http://NBA-Al-Jazeera-2.com/blank#n6b7cf46043eb4ab8a6a01f9cf6633a6cb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <NBA-Al-Jazeera-2> .
+ <http://NBA-Al-Jazeera-2.com/blank#n6b7cf46043eb4ab8a6a01f9cf6633a6cb2> <http://dbpedia.org/ontology/winner> <http://dbpedia.org/resource/Los_Angeles_Clippers> <NBA-Al-Jazeera-2> .
+ <http://example.org/LeBronJames> <http://schema.org/mentions> <http://example.org/KareemAbdulJabbar> <NBA-Al-Jazeera-3> .
+ <http://example.org/DavidStern> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-Al-Jazeera-3> .
+ <http://example.org/LeBronJamesFamily> <http://schema.org/member> <http://example.org/SavannahJames> <NBA-Al-Jazeera-3> .
+ <http://example.org/RecordBreakingShot> <http://schema.org/actor> <http://example.org/LeBronJames> <NBA-Al-Jazeera-3> .
+ <http://example.org/JoeBiden> <http://schema.org/name> "Joe Biden"  <NBA-Al-Jazeera-3> .
+ <http://example.org/ScoringRecordEvent> <http://schema.org/attendee> <http://example.org/JoeBiden> <NBA-Al-Jazeera-3> .
+ <http://example.org/LeBronJames> <http://schema.org/relatedTo> <http://example.org/ScoringRecordEvent> <NBA-Al-Jazeera-3> .
+ <http://example.org/LeBronJames> <http://schema.org/position> "Small Forward"  <NBA-Al-Jazeera-3> .
+ <http://example.org/KareemAbdulJabbar> <http://schema.org/alumniOf> <http://example.org/NBA> <NBA-Al-Jazeera-3> .
+ <http://example.org/RecordBreakingShot> <http://schema.org/eventDate> "2023-02-07T20:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <NBA-Al-Jazeera-3> .
+ <http://example.org/MagicJohnson> <http://schema.org/alumniOf> <http://example.org/NBA> <NBA-Al-Jazeera-3> .
+ <http://example.org/DavidStern> <http://schema.org/jobTitle> "Former NBA Commissioner"  <NBA-Al-Jazeera-3> .
+ <http://example.org/LeBronJames> <http://schema.org/award> "NBA's all-time top scorer"  <NBA-Al-Jazeera-3> .
+ <http://example.org/RecordBreakingShot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NBA-Al-Jazeera-3> .
+ <http://example.org/LeBronJames> <http://schema.org/points> "38390"^^<http://www.w3.org/2001/XMLSchema#integer>  <NBA-Al-Jazeera-3> .
+ <http://example.org/LALakers> <http://schema.org/sport> "Basketball"  <NBA-Al-Jazeera-3> .
+ <http://example.org/RecordBreakingShot> <http://schema.org/result> <http://NBA-Al-Jazeera-3.com/blank#n6b3f407148284a5f8f66968c2d05986ab1>  <NBA-Al-Jazeera-3> .
+ <http://example.org/LeBronJames> <http://schema.org/seasons> "20"^^<http://www.w3.org/2001/XMLSchema#integer>  <NBA-Al-Jazeera-3> .
+ <http://example.org/OKCThunder> <http://schema.org/name> "Oklahoma City Thunder"  <NBA-Al-Jazeera-3> .
+ <http://example.org/LeBronJames> <http://schema.org/memberOf> <http://example.org/LALakers> <NBA-Al-Jazeera-3> .
+ <http://example.org/KareemAbdulJabbar> <http://schema.org/name> "Kareem Abdul-Jabbar"  <NBA-Al-Jazeera-3> .
+ <http://NBA-Al-Jazeera-3.com/blank#n6b3f407148284a5f8f66968c2d05986ab1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsPlay> <NBA-Al-Jazeera-3> .
+ <http://NBA-Al-Jazeera-3.com/blank#n6b3f407148284a5f8f66968c2d05986ab1> <http://schema.org/distance> "21.0"^^<http://www.w3.org/2001/XMLSchema#float>  <NBA-Al-Jazeera-3> .
+ <http://example.org/CryptoDotComArena> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <NBA-Al-Jazeera-3> .
+ <http://example.org/CryptoDotComArena> <http://schema.org/name> "Crypto.com Arena"  <NBA-Al-Jazeera-3> .
+ <http://example.org/DavidSilver> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-Al-Jazeera-3> .
+ <http://example.org/JoeBiden> <http://schema.org/jobTitle> "US President"  <NBA-Al-Jazeera-3> .
+ <http://example.org/ScoringRecordEvent> <http://schema.org/location> <http://example.org/CryptoDotComArena> <NBA-Al-Jazeera-3> .
+ <http://example.org/ScoringRecordEvent> <http://schema.org/description> "LeBron James breaks the NBA all-time scoring record."  <NBA-Al-Jazeera-3> .
+ <http://example.org/DavidStern> <http://schema.org/name> "David Stern"  <NBA-Al-Jazeera-3> .
+ <http://example.org/LeBronJames> <http://schema.org/name> "LeBron James"  <NBA-Al-Jazeera-3> .
+ <http://example.org/LeBronJames> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-Al-Jazeera-3> .
+ <http://example.org/LeBronJamesFamily> <http://schema.org/member> <http://example.org/GloriaJames> <NBA-Al-Jazeera-3> .
+ <http://example.org/LeBronJames> <http://schema.org/alumniOf> <http://example.org/NBA> <NBA-Al-Jazeera-3> .
+ <http://example.org/ScoringRecordEvent> <http://schema.org/attendee> <http://example.org/DavidSilver> <NBA-Al-Jazeera-3> .
+ <http://example.org/ScoringRecordEvent> <http://schema.org/subEvent> <http://example.org/RecordBreakingShot> <NBA-Al-Jazeera-3> .
+ <http://example.org/LeBronJamesFamily> <http://schema.org/member> <http://example.org/ZhuriJames> <NBA-Al-Jazeera-3> .
+ <http://example.org/KareemAbdulJabbar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-Al-Jazeera-3> .
+ <http://example.org/JoeBiden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-Al-Jazeera-3> .
+ <http://example.org/MagicJohnson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-Al-Jazeera-3> .
+ <http://example.org/LeBronJames> <http://schema.org/against> <http://example.org/OKCThunder> <NBA-Al-Jazeera-3> .
+ <http://example.org/LeBronJames> <http://schema.org/spouse> <http://example.org/SavannahJames> <NBA-Al-Jazeera-3> .
+ <http://example.org/LeBronJamesFamily> <http://schema.org/member> <http://example.org/BronnyJames> <NBA-Al-Jazeera-3> .
+ <http://example.org/LeBronJames> <http://schema.org/mentions> <http://example.org/DavidSilver> <NBA-Al-Jazeera-3> .
+ <http://example.org/LeBronJamesFamily> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PersonGroup> <NBA-Al-Jazeera-3> .
+ <http://example.org/LeBronJames> <http://schema.org/parent> <http://example.org/GloriaJames> <NBA-Al-Jazeera-3> .
+ <http://example.org/OKCThunder> <http://schema.org/sport> "Basketball"  <NBA-Al-Jazeera-3> .
+ <http://example.org/KareemAbdulJabbar> <http://schema.org/points> "38387"^^<http://www.w3.org/2001/XMLSchema#integer>  <NBA-Al-Jazeera-3> .
+ <http://example.org/LALakers> <http://schema.org/name> "Los Angeles Lakers"  <NBA-Al-Jazeera-3> .
+ <http://example.org/MagicJohnson> <http://schema.org/name> "Magic Johnson"  <NBA-Al-Jazeera-3> .
+ <http://example.org/LeBronJamesFamily> <http://schema.org/member> <http://example.org/BryceJames> <NBA-Al-Jazeera-3> .
+ <http://example.org/ScoringRecordEvent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NBA-Al-Jazeera-3> .
+ <http://example.org/LeBronJames> <http://schema.org/mentions> <http://example.org/DavidStern> <NBA-Al-Jazeera-3> .
+ <http://example.org/KareemAbdulJabbar> <http://schema.org/recordDate> "1984-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <NBA-Al-Jazeera-3> .
+ <http://example.org/OKCThunder> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <NBA-Al-Jazeera-3> .
+ <http://example.org/LeBronJames> <http://schema.org/children> <http://example.org/ZhuriJames> <NBA-Al-Jazeera-3> .
+ <http://example.org/DavidSilver> <http://schema.org/jobTitle> "NBA Commissioner"  <NBA-Al-Jazeera-3> .
+ <http://example.org/LeBronJames> <http://schema.org/children> <http://example.org/BronnyJames> <NBA-Al-Jazeera-3> .
+ <http://example.org/LALakers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <NBA-Al-Jazeera-3> .
+ <http://example.org/DavidSilver> <http://schema.org/name> "David Silver"  <NBA-Al-Jazeera-3> .
+ <http://example.org/ScoringRecordEvent> <http://schema.org/eventDate> "2023-02-07"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-Al-Jazeera-3> .
+ <http://example.org/LeBronJames> <http://schema.org/children> <http://example.org/BryceJames> <NBA-Al-Jazeera-3> .
+ <http://example.org/LeBronJames> <http://schema.org/inSpace> <http://example.org/CryptoDotComArena> <NBA-Al-Jazeera-3> .
+ <http://example.org/ScoringRecordEvent> <http://schema.org/attendee> <http://example.org/KareemAbdulJabbar> <NBA-Al-Jazeera-3> .
+ <http://example.org/LeBronJames> <http://schema.org/recordDate> "2023-02-07"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-Al-Jazeera-3> .
+ <http://example.org/KareemAbdulJabbar> <http://schema.org/memberOf> <http://example.org/LALakers> <NBA-Al-Jazeera-3> .
+ <http://example.org/ScoringRecordEvent> <http://schema.org/attendee> <http://example.org/LeBronJamesFamily> <NBA-Al-Jazeera-3> .
+ <http://example.org/MagicJohnson> <http://schema.org/memberOf> <http://example.org/LALakers> <NBA-Al-Jazeera-3> .
+ <http://example.org/ScoringRecordEvent> <http://schema.org/attendee> <http://example.org/MagicJohnson> <NBA-Al-Jazeera-3> .
+ <http://example.org/ESPNWideWorldOfSportsComplex> <http://example.org/location> <http://example.org/WaltDisneyWorldResortNearOrlando> <NBA-Al-Jazeera-4> .
+ <http://example.org/PlayerWithEqualityMessage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Person> <NBA-Al-Jazeera-4> .
+ <http://example.org/NBASeasonContinuation> <http://example.org/dueTo> <http://example.org/Covid19Pandemic> <NBA-Al-Jazeera-4> .
+ <http://example.org/SayTheirNamesMessage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Message> <NBA-Al-Jazeera-4> .
+ <http://example.org/NBA> <http://example.org/hasMember> <http://example.org/UtahJazz> <NBA-Al-Jazeera-4> .
+ <http://example.org/NBA> <http://example.org/hasMember> <http://example.org/NewOrleansPelicans> <NBA-Al-Jazeera-4> .
+ <http://example.org/GameWinningShot> <http://example.org/partOf> <http://example.org/LakersVsClippers> <NBA-Al-Jazeera-4> .
+ <http://example.org/ProtestAgainstRacialInjustice> <http://example.org/involved> <http://example.org/Clippers> <NBA-Al-Jazeera-4> .
+ <http://example.org/NBA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Organization> <NBA-Al-Jazeera-4> .
+ <http://example.org/GameWinningShot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Event> <NBA-Al-Jazeera-4> .
+ <http://example.org/GeorgeFloyd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Person> <NBA-Al-Jazeera-4> .
+ <http://example.org/AntiRacismProtests> <http://example.org/sparkedBy> <http://example.org/GeorgeFloyd> <NBA-Al-Jazeera-4> .
+ <http://example.org/NBASeasonContinuation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Event> <NBA-Al-Jazeera-4> .
+ <http://example.org/AntiRacismProtests> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Event> <NBA-Al-Jazeera-4> .
+ <http://example.org/LeBronJames> <http://example.org/addresses> <http://example.org/Racism> <NBA-Al-Jazeera-4> .
+ <http://example.org/ESPNWideWorldOfSportsComplex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Venue> <NBA-Al-Jazeera-4> .
+ <http://example.org/ProtestAgainstRacialInjustice> <http://example.org/activity> <http://example.org/KneelingDuringAnthem> <NBA-Al-Jazeera-4> .
+ <http://example.org/LeBronJames> <http://example.org/emphasizes> <http://example.org/MomentumMaintenance> <NBA-Al-Jazeera-4> .
+ <http://example.org/PlayerWithSayTheirNamesMessage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Person> <NBA-Al-Jazeera-4> .
+ <http://example.org/ProtestAgainstRacialInjustice> <http://example.org/involved> <http://example.org/Lakers> <NBA-Al-Jazeera-4> .
+ <http://example.org/LeBronJames> <http://example.org/believesIn> <http://example.org/ProgressAgainstSystemicRacism> <NBA-Al-Jazeera-4> .
+ <http://example.org/BlackLivesMatterMessage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Message> <NBA-Al-Jazeera-4> .
+ <http://example.org/PlayerWithEqualityMessage> <http://example.org/wears> <http://example.org/EqualityMessage> <NBA-Al-Jazeera-4> .
+ <http://example.org/PlayerWithSayTheirNamesMessage> <http://example.org/wears> <http://example.org/SayTheirNamesMessage> <NBA-Al-Jazeera-4> .
+ <http://example.org/EqualityMessage> <http://example.org/content> "Equality"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-Al-Jazeera-4> .
+ <http://example.org/LakersVsClippers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/BasketballGame> <NBA-Al-Jazeera-4> .
+ <http://example.org/NewOrleansPelicans> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/BasketballTeam> <NBA-Al-Jazeera-4> .
+ <http://example.org/ESPNWideWorldOfSportsComplex> <http://example.org/features> <http://example.org/BlackLivesMatterMessage> <NBA-Al-Jazeera-4> .
+ <http://example.org/Covid19Halt> <http://example.org/startDate> "2020-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <NBA-Al-Jazeera-4> .
+ <http://example.org/LakersVsClippers> <http://example.org/date> "2020-07-30"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-Al-Jazeera-4> .
+ <http://example.org/NBA> <http://example.org/hasMember> <http://example.org/Clippers> <NBA-Al-Jazeera-4> .
+ <http://example.org/EqualityMessage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Message> <NBA-Al-Jazeera-4> .
+ <http://example.org/VirtualFans> <http://example.org/implementedIn> <http://example.org/NBASeasonContinuation> <NBA-Al-Jazeera-4> .
+ <http://example.org/LakersVsClippers> <http://example.org/includes> <http://example.org/GameWinningShot> <NBA-Al-Jazeera-4> .
+ <http://example.org/BlackLivesMatterMessage> <http://example.org/content> "Black Lives Matter"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-Al-Jazeera-4> .
+ <http://example.org/LeBronJames> <http://example.org/addresses> <http://example.org/SocialInjustice> <NBA-Al-Jazeera-4> .
+ <http://example.org/SimulatedCrowdNoise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Concept> <NBA-Al-Jazeera-4> .
+ <http://example.org/Clippers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/BasketballTeam> <NBA-Al-Jazeera-4> .
+ <http://example.org/GameWinningShot> <http://example.org/result> "103-101"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-Al-Jazeera-4> .
+ <http://example.org/NBA> <http://example.org/hasMember> <http://example.org/Lakers> <NBA-Al-Jazeera-4> .
+ <http://example.org/KneelingDuringAnthem> <http://example.org/associatedWith> <http://example.org/USNationalAnthem> <NBA-Al-Jazeera-4> .
+ <http://example.org/LeBronJames> <http://example.org/mentions> <http://example.org/PeopleOfColor> <NBA-Al-Jazeera-4> .
+ <http://example.org/NBASeasonContinuation> <http://example.org/features> <http://example.org/VirtualFans> <NBA-Al-Jazeera-4> .
+ <http://example.org/LeBronJames> <http://example.org/playsFor> <http://example.org/Lakers> <NBA-Al-Jazeera-4> .
+ <http://example.org/GeorgeFloyd> <http://example.org/deathCausedBy> <http://example.org/PoliceCustody> <NBA-Al-Jazeera-4> .
+ <http://example.org/ProtestAgainstRacialInjustice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Event> <NBA-Al-Jazeera-4> .
+ <http://example.org/LeBronJames> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Person> <NBA-Al-Jazeera-4> .
+ <http://example.org/SayTheirNamesMessage> <http://example.org/content> "Say Their Names"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-Al-Jazeera-4> .
+ <http://example.org/NBA> <http://example.org/resumedAfter> <http://example.org/Covid19Halt> <NBA-Al-Jazeera-4> .
+ <http://example.org/VirtualFans> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Concept> <NBA-Al-Jazeera-4> .
+ <http://example.org/PlayerWithEducationReformMessage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Person> <NBA-Al-Jazeera-4> .
+ <http://example.org/LeBronJames> <http://example.org/hasRole> <http://example.org/Activist> <NBA-Al-Jazeera-4> .
+ <http://example.org/ProtestAgainstRacialInjustice> <http://example.org/involved> <http://example.org/UtahJazz> <NBA-Al-Jazeera-4> .
+ <http://example.org/ProtestAgainstRacialInjustice> <http://example.org/involved> <http://example.org/NewOrleansPelicans> <NBA-Al-Jazeera-4> .
+ <http://example.org/UtahJazz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/BasketballTeam> <NBA-Al-Jazeera-4> .
+ <http://example.org/LeBronJames> <http://example.org/scored> <http://example.org/GameWinningShot> <NBA-Al-Jazeera-4> .
+ <http://example.org/KneelingDuringAnthem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Activity> <NBA-Al-Jazeera-4> .
+ <http://example.org/Covid19Halt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Event> <NBA-Al-Jazeera-4> .
+ <http://example.org/KneelingDuringAnthem> <http://example.org/occurredOn> "2020-07-30"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-Al-Jazeera-4> .
+ <http://example.org/LeBronJames> <http://example.org/addresses> <http://example.org/PoliceBrutality> <NBA-Al-Jazeera-4> .
+ <http://example.org/GeorgeFloyd> <http://example.org/deathLedTo> <http://example.org/AntiRacismProtests> <NBA-Al-Jazeera-4> .
+ <http://example.org/EducationReformMessage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Message> <NBA-Al-Jazeera-4> .
+ <http://example.org/Lakers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/BasketballTeam> <NBA-Al-Jazeera-4> .
+ <http://example.org/Covid19Pandemic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Event> <NBA-Al-Jazeera-4> .
+ <http://example.org/NBASeasonContinuation> <http://example.org/features> <http://example.org/SimulatedCrowdNoise> <NBA-Al-Jazeera-4> .
+ <http://example.org/PlayerWithEducationReformMessage> <http://example.org/wears> <http://example.org/EducationReformMessage> <NBA-Al-Jazeera-4> .
+ <http://example.org/EducationReformMessage> <http://example.org/content> "Education Reform"^^<http://www.w3.org/2001/XMLSchema#string>  <NBA-Al-Jazeera-4> .
+ <http://example.org/Lakers> <http://example.org/hasPlayer> <http://example.org/LeBronJames> <NBA-Al-Jazeera-4> .
+ <http://example.org/people/KyrieIrving> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-Al-Jazeera-5> .
+ <http://example.org/people/KyrieIrving> <http://dbpedia.org/ontology/age> "30"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-Al-Jazeera-5> .
+ <http://dbpedia.org/resource/National_Basketball_Association> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsLeague> <NBA-Al-Jazeera-5> .
+ <http://example.org/nba/BrooklynNetsPlayer> <http://dbpedia.org/ontology/team> <http://example.org/organizations/BrooklynNets> <NBA-Al-Jazeera-5> .
+ <http://example.org/organizations/BrooklynNets> <http://dbpedia.org/ontology/league> <http://dbpedia.org/resource/National_Basketball_Association> <NBA-Al-Jazeera-5> .
+ <http://example.org/organizations/BrooklynNets> <http://example.org/sports/statement> "deeply disturbing"  <NBA-Al-Jazeera-5> .
+ <http://dbpedia.org/resource/Hebrews_to_Negroes:_Wake_Up_Black_America> <http://example.org/sports/criticism> "widely lambasted for containing a range of anti-Jewish tropes."@en  <NBA-Al-Jazeera-5> .
+ <http://dbpedia.org/resource/Adam_Silver> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-Al-Jazeera-5> .
+ <http://example.org/people/KyrieIrving> <http://example.org/sports/apology> "To All Jewish families and Communities that are hurt and affected from my post, I am deeply sorry to have caused you pain, and I apologize."@en  <NBA-Al-Jazeera-5> .
+ <http://example.org/organizations/BrooklynNets> <http://xmlns.com/foaf/0.1/name> "Brooklyn Nets"  <NBA-Al-Jazeera-5> .
+ <http://example.org/sports/donation> <http://dbpedia.org/ontology/recipient> "organisations that work to eradicate hate"  <NBA-Al-Jazeera-5> .
+ <http://example.org/people/KyrieIrving> <http://example.org/sports/clarification> "I want to clarify any confusion on where I stand fighting against Anti-semitism by apologizing for posting the documentary without context and a factual explanation outlining the specific beliefs in the Documentary I agreed with and disagreed with."@en  <NBA-Al-Jazeera-5> .
+ <http://example.org/sports/donation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Donation> <NBA-Al-Jazeera-5> .
+ <http://example.org/sports/donation> <http://dbpedia.org/ontology/donor> <http://example.org/organizations/BrooklynNets> <NBA-Al-Jazeera-5> .
+ <http://example.org/people/KyrieIrving> <http://xmlns.com/foaf/0.1/name> "Kyrie Irving"  <NBA-Al-Jazeera-5> .
+ <http://example.org/nba/BrooklynNetsPlayer> <http://dbpedia.org/ontology/numberOfMatchesSuspended> "5"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-Al-Jazeera-5> .
+ <http://example.org/nba/BrooklynNetsPlayer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballPlayer> <NBA-Al-Jazeera-5> .
+ <http://dbpedia.org/resource/Ye> <http://xmlns.com/foaf/0.1/name> "Ye"  <NBA-Al-Jazeera-5> .
+ <http://dbpedia.org/resource/Ye> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-Al-Jazeera-5> .
+ <http://example.org/organizations/BrooklynNets> <http://example.org/sports/values> "against the values of the organisation"  <NBA-Al-Jazeera-5> .
+ <http://dbpedia.org/resource/Adam_Silver> <http://example.org/sports/disappointment> "disappointment that Irving had failed to apologise or denounce the vile and harmful content in the film."@en  <NBA-Al-Jazeera-5> .
+ <http://dbpedia.org/resource/Hebrews_to_Negroes:_Wake_Up_Black_America> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <NBA-Al-Jazeera-5> .
+ <http://dbpedia.org/resource/Adam_Silver> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Commissioner_of_the_NBA> <NBA-Al-Jazeera-5> .
+ <http://dbpedia.org/resource/Hebrews_to_Negroes:_Wake_Up_Black_America> <http://dbpedia.org/ontology/releaseDate> "2018"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NBA-Al-Jazeera-5> .
+ <http://dbpedia.org/resource/Ye> <http://example.org/sports/partnershipEnd> "German sportswear giant Adidas was one of many companies to end its partnership with Ye over his comments."@en  <NBA-Al-Jazeera-5> .
+ <http://example.org/sports/donation> <http://dbpedia.org/ontology/donor> <http://example.org/people/KyrieIrving> <NBA-Al-Jazeera-5> .
+ <http://example.org/sports/donation> <http://dbpedia.org/ontology/amount> "500000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <NBA-Al-Jazeera-5> .
+ <http://dbpedia.org/resource/National_Basketball_Association> <http://xmlns.com/foaf/0.1/name> "NBA"  <NBA-Al-Jazeera-5> .
+ <http://example.org/organizations/BrooklynNets> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballTeam> <NBA-Al-Jazeera-5> .
+ <http://example.org/people/KyrieIrving> <http://example.org/sports/stance> "I had no intentions to disrespect any Jewish cultural history regarding the Holocaust or perpetuate any hate."@en  <NBA-Al-Jazeera-5> .
+ <http://dbpedia.org/resource/Ye> <http://example.org/sports/controversy> "suspended by social media platforms for posting offensive and anti-Semitic remarks."@en  <NBA-Al-Jazeera-5> .
+ <http://example.org/people/KyrieIrving> <http://dbpedia.org/ontology/careerStation> <http://example.org/nba/BrooklynNetsPlayer> <NBA-Al-Jazeera-5> .
+ <http://dbpedia.org/resource/Adam_Silver> <http://xmlns.com/foaf/0.1/name> "Adam Silver"  <NBA-Al-Jazeera-5> .
+ <http://dbpedia.org/resource/Ye> <http://dbpedia.org/ontology/previousName> "Kanye West"  <NBA-Al-Jazeera-5> .
+ <http://example.org/nba/BrooklynNetsPlayer> <http://dbpedia.org/ontology/salarySuspension> "without pay"  <NBA-Al-Jazeera-5> .
+ <http://dbpedia.org/resource/Nick_Nurse> <http://dbpedia.org/ontology/occupation> "Raptors coach"  <NBA-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Golden_State_Warriors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballTeam> <NBA-Al-Jazeera-6> .
+ <http://example.org/ns#NavBhatia> <http://xmlns.com/foaf/0.1/name> "Nav Bhatia"  <NBA-Al-Jazeera-6> .
+ <http://example.org/ns#NavBhatia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/World_Vision> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/NonProfitOrganisation> <NBA-Al-Jazeera-6> .
+ <http://example.org/ns#DaughtersOfIndiaCampaign> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Punjab_(India)> <NBA-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Giannis_Antetokounmpo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-Al-Jazeera-6> .
+ <http://example.org/ns#NavBhatia> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Toronto_Raptors> <NBA-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Nick_Nurse> <http://xmlns.com/foaf/0.1/name> "Nick Nurse"  <NBA-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Toronto_Raptors> <http://dbpedia.org/ontology/league> <http://dbpedia.org/resource/National_Basketball_Association> <NBA-Al-Jazeera-6> .
+ <http://example.org/ns#NavBhatia> <http://dbpedia.org/ontology/knownFor> "Philanthropy"  <NBA-Al-Jazeera-6> .
+ <http://example.org/ns#DaughtersOfIndiaCampaign> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Alwar_district> <NBA-Al-Jazeera-6> .
+ <http://example.org/ns#DaughtersOfIndiaCampaign> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Faridkot> <NBA-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/California_State_University_Los_Angeles> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Los_Angeles> <NBA-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Nick_Nurse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-Al-Jazeera-6> .
+ <http://example.org/ns#NavBhatia> <http://dbpedia.org/ontology/residence> <http://dbpedia.org/resource/Toronto> <NBA-Al-Jazeera-6> .
+ <http://example.org/ns#NavBhatia> <http://dbpedia.org/ontology/almaMater> <http://dbpedia.org/resource/California_State_University_Los_Angeles> <NBA-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/California_State_University_Los_Angeles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <NBA-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Milwaukee_Bucks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballTeam> <NBA-Al-Jazeera-6> .
+ <http://example.org/ns#NavBhatiaSuperfanFoundation> <http://dbpedia.org/ontology/purpose> "Addressing discrimination"  <NBA-Al-Jazeera-6> .
+ <http://example.org/ns#NavBhatia> <http://example.org/ns#hasBeard> "thick beard"  <NBA-Al-Jazeera-6> .
+ <http://example.org/ns#NavBhatiaSuperfanFoundation> <http://dbpedia.org/ontology/project> <http://example.org/ns#DaughtersOfIndiaCampaign> <NBA-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Giannis_Antetokounmpo> <http://xmlns.com/foaf/0.1/name> "Giannis Antetokounmpo"  <NBA-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Giannis_Antetokounmpo> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Milwaukee_Bucks> <NBA-Al-Jazeera-6> .
+ <http://example.org/ns#NavBhatiaSuperfanFoundation> <http://dbpedia.org/ontology/foundationYear> "2018"  <NBA-Al-Jazeera-6> .
+ <http://example.org/ns#NavBhatia> <http://dbpedia.org/ontology/occupation> "Business Owner"  <NBA-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Golden_State_Warriors> <http://dbpedia.org/ontology/league> <http://dbpedia.org/resource/National_Basketball_Association> <NBA-Al-Jazeera-6> .
+ <http://example.org/ns#NavBhatia> <http://dbpedia.org/ontology/occupation> "Toronto Raptors ‘Superfan’"  <NBA-Al-Jazeera-6> .
+ <http://example.org/ns#NavBhatia> <http://example.org/ns#neverMissedGame> "Toronto Raptors games since 1995"  <NBA-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Naismith_Memorial_Basketball_Hall_of_Fame> <http://dbpedia.org/ontology/contains> <http://example.org/ns#NavBhatia> <NBA-Al-Jazeera-6> .
+ <http://example.org/ns#DaughtersOfIndiaCampaign> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Project> <NBA-Al-Jazeera-6> .
+ <http://example.org/ns#NavBhatia> <http://dbpedia.org/ontology/occupation> "Car Salesman"  <NBA-Al-Jazeera-6> .
+ <http://example.org/ns#NavBhatia> <http://example.org/ns#jerseyNumber> "95"  <NBA-Al-Jazeera-6> .
+ <http://example.org/ns#NavBhatia> <http://example.org/ns#age> "69"^^<http://www.w3.org/2001/XMLSchema#integer>  <NBA-Al-Jazeera-6> .
+ <http://example.org/ns#NavBhatia> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Naismith_Memorial_Basketball_Hall_of_Fame> <NBA-Al-Jazeera-6> .
+ <http://example.org/ns#NavBhatia> <http://dbpedia.org/ontology/degree> "Mechanical Engineering"  <NBA-Al-Jazeera-6> .
+ <http://example.org/ns#DaughtersOfIndiaCampaign> <http://dbpedia.org/ontology/startDate> "2016"  <NBA-Al-Jazeera-6> .
+ <http://example.org/ns#DaughtersOfIndiaCampaign> <http://dbpedia.org/ontology/partner> <http://dbpedia.org/resource/World_Vision> <NBA-Al-Jazeera-6> .
+ <http://example.org/ns#DaughtersOfIndiaCampaign> <http://dbpedia.org/ontology/target> "Construction of washrooms in schools"  <NBA-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Toronto_Raptors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballTeam> <NBA-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Naismith_Memorial_Basketball_Hall_of_Fame> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Museum> <NBA-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Naismith_Memorial_Basketball_Hall_of_Fame> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Springfield_Massachusetts> <NBA-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Milwaukee_Bucks> <http://dbpedia.org/ontology/league> <http://dbpedia.org/resource/National_Basketball_Association> <NBA-Al-Jazeera-6> .
+ <http://example.org/ns#NavBhatia> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Mumbai> <NBA-Al-Jazeera-6> .
+ <http://example.org/ns#NavBhatia> <http://dbpedia.org/ontology/knownFor> "Promotion of basketball"  <NBA-Al-Jazeera-6> .
+ <http://example.org/ns#NavBhatia> <http://example.org/ns#hasReligiousAffiliation> <http://dbpedia.org/resource/Sikhism> <NBA-Al-Jazeera-6> .
+ <http://example.org/ns#NavBhatiaSuperfanFoundation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <NBA-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Toronto_Raptors> <http://dbpedia.org/ontology/foundationYear> "1995"  <NBA-Al-Jazeera-6> .
+ <http://example.org/ns#DaughtersOfIndiaCampaign> <http://dbpedia.org/ontology/fundingAmount> "$300,000"  <NBA-Al-Jazeera-6> .
+ <http://example.org/ns#NavBhatiaSuperfanFoundation> <http://dbpedia.org/ontology/purpose> "Promotion of basketball among children"  <NBA-Al-Jazeera-6> .
+ <http://example.org/ns#NavBhatia> <http://example.org/ns#hasTurban> "white turban"  <NBA-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Toronto_Raptors> <http://dbpedia.org/ontology/championships> "NBA Championship 2019"  <NBA-Al-Jazeera-6> .
+ <http://example.org/ns#NavBhatiaSuperfanFoundation> <http://dbpedia.org/ontology/foundedBy> <http://example.org/ns#NavBhatia> <NBA-Al-Jazeera-6> .
+ <http://example.org/NBAChampionship2023> <http://schema.org/loser> <http://example.org/MiamiHeat> <NBA-Al-Jazeera-7> .
+ <http://example.org/NBAChampionship2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NBA-Al-Jazeera-7> .
+ <http://example.org/NikolaJokic> <http://schema.org/memberOf> <http://example.org/DenverNuggets> <NBA-Al-Jazeera-7> .
+ <http://example.org/DenverColorado> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <NBA-Al-Jazeera-7> .
+ <http://example.org/NikolaJokic> <http://schema.org/award> <http://example.org/MVPFinals> <NBA-Al-Jazeera-7> .
+ <http://example.org/MichaelPorterJr> <http://schema.org/memberOf> <http://example.org/DenverNuggets> <NBA-Al-Jazeera-7> .
+ <http://example.org/DenverColorado> <http://schema.org/name> "Denver, Colorado"  <NBA-Al-Jazeera-7> .
+ <http://example.org/MichaelMalone> <http://schema.org/jobTitle> "Coach"  <NBA-Al-Jazeera-7> .
+ <http://example.org/DenverNuggets> <http://schema.org/name> "Denver Nuggets"  <NBA-Al-Jazeera-7> .
+ <http://example.org/NikolaJokic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-Al-Jazeera-7> .
+ <http://example.org/MichaelPorterJr> <http://schema.org/pointsScored> "16"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-Al-Jazeera-7> .
+ <http://example.org/NikolaJokic> <http://schema.org/nationality> "Serbian"  <NBA-Al-Jazeera-7> .
+ <http://example.org/MiamiHeat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <NBA-Al-Jazeera-7> .
+ <http://example.org/FrenchOpen2023> <http://schema.org/winner> <http://example.org/NovakDjokovic> <NBA-Al-Jazeera-7> .
+ <http://example.org/MVPFinals> <http://schema.org/name> "NBA Finals Most Valuable Player (MVP)"  <NBA-Al-Jazeera-7> .
+ <http://example.org/JamalMurray> <http://schema.org/assists> "8"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-Al-Jazeera-7> .
+ <http://example.org/JamalMurray> <http://schema.org/memberOf> <http://example.org/DenverNuggets> <NBA-Al-Jazeera-7> .
+ <http://example.org/NovakDjokovic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-Al-Jazeera-7> .
+ <http://example.org/NikolaJokic> <http://schema.org/rebounds> "16"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-Al-Jazeera-7> .
+ <http://example.org/MichaelMalone> <http://schema.org/memberOf> <http://example.org/DenverNuggets> <NBA-Al-Jazeera-7> .
+ <http://example.org/MichaelPorterJr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-Al-Jazeera-7> .
+ <http://example.org/NovakDjokovic> <http://schema.org/award> <http://example.org/FrenchOpen2023> <NBA-Al-Jazeera-7> .
+ <http://example.org/BallArena> <http://schema.org/location> <http://example.org/DenverColorado> <NBA-Al-Jazeera-7> .
+ <http://example.org/NovakDjokovic> <http://schema.org/nationality> "Serbian"  <NBA-Al-Jazeera-7> .
+ <http://example.org/JamalMurray> <http://schema.org/pointsScored> "14"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-Al-Jazeera-7> .
+ <http://example.org/NBAChampionship2023> <http://schema.org/score> "94-89"  <NBA-Al-Jazeera-7> .
+ <http://example.org/DenverNuggets> <http://schema.org/championships> <http://example.org/NBAChampionship2023> <NBA-Al-Jazeera-7> .
+ <http://example.org/BallArena> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <NBA-Al-Jazeera-7> .
+ <http://example.org/MichaelMalone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-Al-Jazeera-7> .
+ <http://example.org/NBAChampionship2023> <http://schema.org/winner> <http://example.org/DenverNuggets> <NBA-Al-Jazeera-7> .
+ <http://example.org/JamalMurray> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-Al-Jazeera-7> .
+ <http://example.org/JamalMurray> <http://schema.org/rebounds> "8"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-Al-Jazeera-7> .
+ <http://example.org/FrenchOpen2023> <http://schema.org/name> "French Open 2023"  <NBA-Al-Jazeera-7> .
+ <http://example.org/FrenchOpen2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NBA-Al-Jazeera-7> .
+ <http://example.org/MVPFinals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <NBA-Al-Jazeera-7> .
+ <http://example.org/DenverNuggets> <http://schema.org/sport> "Basketball"  <NBA-Al-Jazeera-7> .
+ <http://example.org/NBAChampionship2023> <http://schema.org/name> "NBA Finals 2023"  <NBA-Al-Jazeera-7> .
+ <http://example.org/MichaelPorterJr> <http://schema.org/rebounds> "13"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-Al-Jazeera-7> .
+ <http://example.org/NBAChampionship2023> <http://schema.org/endDate> "2023-06-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-Al-Jazeera-7> .
+ <http://example.org/NikolaJokic> <http://schema.org/pointsScored> "28"^^<http://www.w3.org/2001/XMLSchema#int>  <NBA-Al-Jazeera-7> .
+ <http://example.org/BallArena> <http://schema.org/name> "Ball Arena"  <NBA-Al-Jazeera-7> .
+ <http://example.org/DenverNuggets> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <NBA-Al-Jazeera-7> .
+ <http://example.org/MiamiHeat> <http://schema.org/name> "Miami Heat"  <NBA-Al-Jazeera-7> .
+ <http://NBA-Al-Jazeera-8.com/blank#n229378756a954be1b6826144744ae9f9b1> <http://schema.org/reboundsPerGame> "10.2"^^<http://www.w3.org/2001/XMLSchema#decimal>  <NBA-Al-Jazeera-8> .
+ <http://example.org/BostonCeltics> <http://schema.org/sport> "Basketball"  <NBA-Al-Jazeera-8> .
+ <http://example.org/NBA_MVP_FourthPlace_2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Award> <NBA-Al-Jazeera-8> .
+ <http://example.org/NikolaJokic> <http://schema.org/memberOf> <http://example.org/DenverNuggets> <NBA-Al-Jazeera-8> .
+ <http://example.org/JamesHarden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-Al-Jazeera-8> .
+ <http://example.org/NBA_MVP_RunnerUp_2023> <http://schema.org/name> "NBA MVP Runner-Up 2023"  <NBA-Al-Jazeera-8> .
+ <http://example.org/NikolaJokic> <http://schema.org/name> "Nikola Jokic"  <NBA-Al-Jazeera-8> .
+ <http://example.org/DenverNuggets> <http://schema.org/name> "Denver Nuggets"  <NBA-Al-Jazeera-8> .
+ <http://example.org/BostonCeltics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <NBA-Al-Jazeera-8> .
+ <http://example.org/TobiasHarris> <http://schema.org/name> "Tobias Harris"  <NBA-Al-Jazeera-8> .
+ <http://example.org/LeBronJames> <http://schema.org/memberOf> <http://example.org/LosAngelesLakers> <NBA-Al-Jazeera-8> .
+ <http://example.org/JoelEmbiid> <http://schema.org/birthPlace> <http://example.org/Yaounde> <NBA-Al-Jazeera-8> .
+ <http://example.org/ShaiGilgeousAlexander> <http://schema.org/name> "Shai Gilgeous-Alexander"  <NBA-Al-Jazeera-8> .
+ <http://example.org/TyreseMaxey> <http://schema.org/name> "Tyrese Maxey"  <NBA-Al-Jazeera-8> .
+ <http://example.org/JoelEmbiid> <http://schema.org/position> "Centre"  <NBA-Al-Jazeera-8> .
+ <http://example.org/NBA_MVP_FifthPlace_2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Award> <NBA-Al-Jazeera-8> .
+ <http://example.org/NBA_MVP_FourthPlace_2023> <http://schema.org/name> "NBA MVP Fourth Place 2023"  <NBA-Al-Jazeera-8> .
+ <http://example.org/NBA_MVP_FifthPlace_2023> <http://schema.org/name> "NBA MVP Fifth Place 2023"  <NBA-Al-Jazeera-8> .
+ <http://example.org/JoelEmbiid> <http://schema.org/statistics> <http://NBA-Al-Jazeera-8.com/blank#n229378756a954be1b6826144744ae9f9b1>  <NBA-Al-Jazeera-8> .
+ <http://example.org/JamesHarden> <http://schema.org/name> "James Harden"  <NBA-Al-Jazeera-8> .
+ <http://NBA-Al-Jazeera-8.com/blank#n229378756a954be1b6826144744ae9f9b1> <http://schema.org/assistsPerGame> "4.2"^^<http://www.w3.org/2001/XMLSchema#decimal>  <NBA-Al-Jazeera-8> .
+ <http://example.org/JoelEmbiid> <http://schema.org/memberOf> <http://example.org/Philadelphia76ers> <NBA-Al-Jazeera-8> .
+ <http://example.org/JaysonTatum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-Al-Jazeera-8> .
+ <http://example.org/OklahomaCityThunder> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <NBA-Al-Jazeera-8> .
+ <http://example.org/LeBronJames> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-Al-Jazeera-8> .
+ <http://example.org/Philadelphia76ers> <http://schema.org/sport> "Basketball"  <NBA-Al-Jazeera-8> .
+ <http://example.org/Philadelphia76ers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <NBA-Al-Jazeera-8> .
+ <http://example.org/LeBronJames> <http://schema.org/name> "LeBron James"  <NBA-Al-Jazeera-8> .
+ <http://example.org/Yaounde> <http://schema.org/name> "Yaoundé"  <NBA-Al-Jazeera-8> .
+ <http://example.org/GiannisAntetokounmpo> <http://schema.org/name> "Giannis Antetokounmpo"  <NBA-Al-Jazeera-8> .
+ <http://example.org/JoelEmbiid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-Al-Jazeera-8> .
+ <http://example.org/DenverNuggets> <http://schema.org/sport> "Basketball"  <NBA-Al-Jazeera-8> .
+ <http://example.org/MilwaukeeBucks> <http://schema.org/sport> "Basketball"  <NBA-Al-Jazeera-8> .
+ <http://example.org/NBA_MVP_RunnerUp_2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Award> <NBA-Al-Jazeera-8> .
+ <http://example.org/JoelEmbiid> <http://schema.org/injury> "sprained right knee"  <NBA-Al-Jazeera-8> .
+ <http://example.org/NBA_MVP_ThirdPlace_2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Award> <NBA-Al-Jazeera-8> .
+ <http://example.org/MilwaukeeBucks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <NBA-Al-Jazeera-8> .
+ <http://example.org/NBA_MVP_2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Award> <NBA-Al-Jazeera-8> .
+ <http://example.org/Yaounde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <NBA-Al-Jazeera-8> .
+ <http://example.org/GiannisAntetokounmpo> <http://schema.org/memberOf> <http://example.org/MilwaukeeBucks> <NBA-Al-Jazeera-8> .
+ <http://example.org/ShaiGilgeousAlexander> <http://schema.org/memberOf> <http://example.org/OklahomaCityThunder> <NBA-Al-Jazeera-8> .
+ <http://example.org/TyreseMaxey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-Al-Jazeera-8> .
+ <http://NBA-Al-Jazeera-8.com/blank#n229378756a954be1b6826144744ae9f9b1> <http://schema.org/pointsPerGame> "33.1"^^<http://www.w3.org/2001/XMLSchema#decimal>  <NBA-Al-Jazeera-8> .
+ <http://example.org/JoelEmbiid> <http://schema.org/name> "Joel Embiid"  <NBA-Al-Jazeera-8> .
+ <http://example.org/ShaiGilgeousAlexander> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-Al-Jazeera-8> .
+ <http://example.org/JoelEmbiid> <http://schema.org/numberOfGamesPlayed> "66"^^<http://www.w3.org/2001/XMLSchema#integer>  <NBA-Al-Jazeera-8> .
+ <http://example.org/JoelEmbiid> <http://schema.org/award> <http://example.org/NBA_MVP_2023> <NBA-Al-Jazeera-8> .
+ <http://example.org/JoelEmbiid> <http://schema.org/birthDate> "1994-03-16"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-Al-Jazeera-8> .
+ <http://example.org/NikolaJokic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-Al-Jazeera-8> .
+ <http://example.org/MilwaukeeBucks> <http://schema.org/name> "Milwaukee Bucks"  <NBA-Al-Jazeera-8> .
+ <http://example.org/ShaiGilgeousAlexander> <http://schema.org/award> <http://example.org/NBA_MVP_FifthPlace_2023> <NBA-Al-Jazeera-8> .
+ <http://example.org/JoelEmbiid> <http://schema.org/height> "2.12"^^<http://www.w3.org/2001/XMLSchema#decimal>  <NBA-Al-Jazeera-8> .
+ <http://example.org/BostonCeltics> <http://schema.org/name> "Boston Celtics"  <NBA-Al-Jazeera-8> .
+ <http://example.org/NBA_MVP_ThirdPlace_2023> <http://schema.org/name> "NBA MVP Third Place 2023"  <NBA-Al-Jazeera-8> .
+ <http://example.org/LosAngelesLakers> <http://schema.org/name> "Los Angeles Lakers"  <NBA-Al-Jazeera-8> .
+ <http://example.org/OklahomaCityThunder> <http://schema.org/sport> "Basketball"  <NBA-Al-Jazeera-8> .
+ <http://example.org/NBA_MVP_2023> <http://schema.org/name> "NBA MVP 2023"  <NBA-Al-Jazeera-8> .
+ <http://example.org/JaysonTatum> <http://schema.org/memberOf> <http://example.org/BostonCeltics> <NBA-Al-Jazeera-8> .
+ <http://example.org/Philadelphia76ers> <http://schema.org/name> "Philadelphia 76ers"  <NBA-Al-Jazeera-8> .
+ <http://example.org/GiannisAntetokounmpo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-Al-Jazeera-8> .
+ <http://example.org/OklahomaCityThunder> <http://schema.org/name> "Oklahoma City Thunder"  <NBA-Al-Jazeera-8> .
+ <http://example.org/JaysonTatum> <http://schema.org/name> "Jayson Tatum"  <NBA-Al-Jazeera-8> .
+ <http://example.org/LosAngelesLakers> <http://schema.org/sport> "Basketball"  <NBA-Al-Jazeera-8> .
+ <http://example.org/JaysonTatum> <http://schema.org/award> <http://example.org/NBA_MVP_FourthPlace_2023> <NBA-Al-Jazeera-8> .
+ <http://example.org/NikolaJokic> <http://schema.org/award> <http://example.org/NBA_MVP_RunnerUp_2023> <NBA-Al-Jazeera-8> .
+ <http://example.org/TobiasHarris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NBA-Al-Jazeera-8> .
+ <http://example.org/LosAngelesLakers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <NBA-Al-Jazeera-8> .
+ <http://example.org/GiannisAntetokounmpo> <http://schema.org/award> <http://example.org/NBA_MVP_ThirdPlace_2023> <NBA-Al-Jazeera-8> .
+ <http://example.org/DenverNuggets> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <NBA-Al-Jazeera-8> .
+ <http://example.org/MonumentalSportsEntertainment> <http://dbpedia.org/ontology/parentCompany> <http://example.org/WashingtonCapitals> <NBA-Al-Jazeera-9> .
+ <http://example.org/TedLeonsis> <http://dbpedia.org/ontology/ownerOf> <http://example.org/WashingtonWizards> <NBA-Al-Jazeera-9> .
+ <http://example.org/BillDaly> <http://xmlns.com/foaf/0.1/name> "Bill Daly"  <NBA-Al-Jazeera-9> .
+ <http://example.org/MikeBass> <http://dbpedia.org/ontology/occupation> "NBA spokesperson"  <NBA-Al-Jazeera-9> .
+ <http://example.org/MikeBass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-Al-Jazeera-9> .
+ <http://example.org/TedLeonsis> <http://schema.org/memberOf> <http://example.org/MonumentalSportsEntertainment> <NBA-Al-Jazeera-9> .
+ <http://example.org/MonumentalSportsEntertainment> <http://dbpedia.org/ontology/parentCompany> <http://example.org/WashingtonMystics> <NBA-Al-Jazeera-9> .
+ <http://example.org/CapitalOneArena> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Washington_DC> <NBA-Al-Jazeera-9> .
+ <http://example.org/TedLeonsis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-Al-Jazeera-9> .
+ <http://example.org/MonumentalSportsEntertainment> <http://dbpedia.org/ontology/ownerOf> <http://example.org/MonumentalSportsNetwork> <NBA-Al-Jazeera-9> .
+ <http://example.org/MonumentalSportsEntertainment> <http://dbpedia.org/ontology/subsidiary> <http://example.org/CapitalCityGoGo> <NBA-Al-Jazeera-9> .
+ <http://example.org/ParisSaintGermainMajorityOwnership> <http://dbpedia.org/ontology/percentage> "100.0"^^<http://www.w3.org/2001/XMLSchema#float>  <NBA-Al-Jazeera-9> .
+ <http://example.org/CapitalOneArena> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Stadium> <NBA-Al-Jazeera-9> .
+ <http://example.org/QatarSportsInvestments> <http://xmlns.com/foaf/0.1/name> "Qatar Sports Investments"  <NBA-Al-Jazeera-9> .
+ <http://example.org/MonumentalSportsEntertainmentStake> <http://dbpedia.org/ontology/investmentDate> "2023-06-26"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-Al-Jazeera-9> .
+ <http://example.org/MonumentalSportsEntertainment> <http://xmlns.com/foaf/0.1/name> "Monumental Sports & Entertainment"  <NBA-Al-Jazeera-9> .
+ <http://example.org/MarkLerner> <http://schema.org/memberOf> <http://example.org/MonumentalSportsEntertainment> <NBA-Al-Jazeera-9> .
+ <http://example.org/MonumentalSportsEntertainment> <http://dbpedia.org/ontology/subsidiary> <http://example.org/MonumentalSportsNetwork> <NBA-Al-Jazeera-9> .
+ <http://example.org/WashingtonCapitals> <http://xmlns.com/foaf/0.1/name> "Washington Capitals"  <NBA-Al-Jazeera-9> .
+ <http://example.org/MarkLerner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-Al-Jazeera-9> .
+ <http://example.org/QatarInvestmentAuthority> <http://xmlns.com/foaf/0.1/name> "Qatar Investment Authority"  <NBA-Al-Jazeera-9> .
+ <http://example.org/BragaStake> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Share> <NBA-Al-Jazeera-9> .
+ <http://example.org/ParisSaintGermainMajorityOwnership> <http://dbpedia.org/ontology/investor> <http://example.org/QatarSportsInvestments> <NBA-Al-Jazeera-9> .
+ <http://example.org/CapitalCityGoGo> <http://dbpedia.org/ontology/league> <http://dbpedia.org/resource/NBA_G_League> <NBA-Al-Jazeera-9> .
+ <http://example.org/WashingtonWizards> <http://xmlns.com/foaf/0.1/name> "Washington Wizards"  <NBA-Al-Jazeera-9> .
+ <http://example.org/ParisSaintGermainMajorityOwnership> <http://dbpedia.org/ontology/investmentDate> "2011-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-Al-Jazeera-9> .
+ <http://example.org/MonumentalSportsNetwork> <http://xmlns.com/foaf/0.1/name> "Monumental Sports Network"  <NBA-Al-Jazeera-9> .
+ <http://example.org/MonumentalSportsEntertainment> <http://dbpedia.org/ontology/parentCompany> <http://example.org/WashingtonWizards> <NBA-Al-Jazeera-9> .
+ <http://example.org/MikeBass> <http://xmlns.com/foaf/0.1/name> "Mike Bass"  <NBA-Al-Jazeera-9> .
+ <http://example.org/QatarInvestmentAuthority> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <NBA-Al-Jazeera-9> .
+ <http://example.org/MonumentalSportsEntertainmentStake> <http://dbpedia.org/ontology/percentage> "5.0"^^<http://www.w3.org/2001/XMLSchema#float>  <NBA-Al-Jazeera-9> .
+ <http://example.org/WashingtonCapitals> <http://dbpedia.org/ontology/league> <http://dbpedia.org/resource/National_Hockey_League> <NBA-Al-Jazeera-9> .
+ <http://example.org/WashingtonWizards> <http://dbpedia.org/ontology/league> <http://dbpedia.org/resource/National_Basketball_Association> <NBA-Al-Jazeera-9> .
+ <http://example.org/YoavDubinsky> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-Al-Jazeera-9> .
+ <http://example.org/LaurenePowellJobs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-Al-Jazeera-9> .
+ <http://example.org/TedLeonsis> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Businessperson> <NBA-Al-Jazeera-9> .
+ <http://example.org/WashingtonCapitals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/HockeyTeam> <NBA-Al-Jazeera-9> .
+ <http://example.org/MonumentalSportsEntertainment> <http://dbpedia.org/ontology/ownerOf> <http://example.org/CapitalCityGoGo> <NBA-Al-Jazeera-9> .
+ <http://example.org/YoavDubinsky> <http://xmlns.com/foaf/0.1/name> "Yoav Dubinsky"  <NBA-Al-Jazeera-9> .
+ <http://example.org/MonumentalSportsEntertainment> <http://dbpedia.org/ontology/ownerOf> <http://example.org/WashingtonCapitals> <NBA-Al-Jazeera-9> .
+ <http://example.org/MonumentalSportsEntertainment> <http://dbpedia.org/ontology/ownerOf> <http://example.org/WashingtonMystics> <NBA-Al-Jazeera-9> .
+ <http://example.org/BragaStake> <http://dbpedia.org/ontology/percentage> "22.0"^^<http://www.w3.org/2001/XMLSchema#float>  <NBA-Al-Jazeera-9> .
+ <http://example.org/QatarInvestmentAuthority> <http://dbpedia.org/ontology/investment> <http://example.org/MonumentalSportsEntertainmentStake> <NBA-Al-Jazeera-9> .
+ <http://example.org/MonumentalSportsEntertainment> <http://dbpedia.org/ontology/ownerOf> <http://example.org/CapitalOneArena> <NBA-Al-Jazeera-9> .
+ <http://example.org/MonumentalSportsEntertainment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <NBA-Al-Jazeera-9> .
+ <http://example.org/MarkLerner> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Businessperson> <NBA-Al-Jazeera-9> .
+ <http://example.org/CapitalCityGoGo> <http://xmlns.com/foaf/0.1/name> "Capital City Go-Go"  <NBA-Al-Jazeera-9> .
+ <http://example.org/TedLeonsis> <http://xmlns.com/foaf/0.1/name> "Ted Leonsis"  <NBA-Al-Jazeera-9> .
+ <http://example.org/MonumentalSportsEntertainmentStake> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Share> <NBA-Al-Jazeera-9> .
+ <http://example.org/YoavDubinsky> <http://dbpedia.org/ontology/occupation> "Instructor of sports business"  <NBA-Al-Jazeera-9> .
+ <http://example.org/MonumentalSportsEntertainmentStake> <http://dbpedia.org/ontology/value> "4000000000.0"^^<http://www.w3.org/2001/XMLSchema#float>  <NBA-Al-Jazeera-9> .
+ <http://example.org/QatarInvestmentAuthority> <http://dbpedia.org/ontology/ownerOf> <http://dbpedia.org/resource/Paris_Saint-Germain_FC> <NBA-Al-Jazeera-9> .
+ <http://example.org/CapitalCityGoGo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballTeam> <NBA-Al-Jazeera-9> .
+ <http://example.org/BragaStake> <http://dbpedia.org/ontology/investmentDate> "2023-10-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NBA-Al-Jazeera-9> .
+ <http://example.org/BillDaly> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NBA-Al-Jazeera-9> .
+ <http://example.org/ParisSaintGermainMajorityOwnership> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Share> <NBA-Al-Jazeera-9> .
+ <http://example.org/MonumentalSportsNetwork> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <NBA-Al-Jazeera-9> .
+ <http://example.org/QatarSportsInvestments> <http://dbpedia.org/ontology/ownerOf> <http://dbpedia.org/resource/Paris_Saint-Germain_FC> <NBA-Al-Jazeera-9> .
+ <http://example.org/QatarInvestmentAuthority> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Sovereign_wealth_fund> <NBA-Al-Jazeera-9> .
+ <http://example.org/MonumentalSportsEntertainment> <http://dbpedia.org/ontology/subsidiary> <http://example.org/CapitalOneArena> <NBA-Al-Jazeera-9> .
+ <http://example.org/QatarInvestmentAuthority> <http://dbpedia.org/ontology/investment> <http://example.org/ParisSaintGermainMajorityOwnership> <NBA-Al-Jazeera-9> .
+ <http://example.org/WashingtonWizards> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballTeam> <NBA-Al-Jazeera-9> .
+ <http://example.org/BillDaly> <http://dbpedia.org/ontology/occupation> "NHL Deputy Commissioner"  <NBA-Al-Jazeera-9> .
+ <http://example.org/WashingtonMystics> <http://dbpedia.org/ontology/league> <http://dbpedia.org/resource/Women's_National_Basketball_Association> <NBA-Al-Jazeera-9> .
+ <http://example.org/LaurenePowellJobs> <http://xmlns.com/foaf/0.1/name> "Laurene Powell Jobs"  <NBA-Al-Jazeera-9> .
+ <http://example.org/QatarInvestmentAuthority> <http://dbpedia.org/ontology/investment> <http://example.org/BragaStake> <NBA-Al-Jazeera-9> .
+ <http://example.org/MonumentalSportsEntertainment> <http://xmlns.com/foaf/0.1/homepage> <http://www.monumentalsports.com/> <NBA-Al-Jazeera-9> .
+ <http://example.org/TedLeonsis> <http://dbpedia.org/ontology/ownerOf> <http://example.org/WashingtonCapitals> <NBA-Al-Jazeera-9> .
+ <http://example.org/MonumentalSportsEntertainmentStake> <http://schema.org/isPartOf> <http://example.org/MonumentalSportsEntertainment> <NBA-Al-Jazeera-9> .
+ <http://example.org/TedLeonsis> <http://dbpedia.org/ontology/title> "Founder, Managing Partner, and CEO of Monumental Sports & Entertainment"  <NBA-Al-Jazeera-9> .
+ <http://example.org/QatarSportsInvestments> <http://dbpedia.org/ontology/investment> <http://example.org/BragaStake> <NBA-Al-Jazeera-9> .
+ <http://example.org/MonumentalSportsEntertainment> <http://dbpedia.org/ontology/ownerOf> <http://example.org/WashingtonWizards> <NBA-Al-Jazeera-9> .
+ <http://example.org/YoavDubinsky> <http://dbpedia.org/ontology/affiliation> <http://dbpedia.org/resource/University_of_Oregon> <NBA-Al-Jazeera-9> .
+ <http://example.org/WashingtonMystics> <http://xmlns.com/foaf/0.1/name> "Washington Mystics"  <NBA-Al-Jazeera-9> .
+ <http://example.org/MonumentalSportsEntertainmentStake> <http://dbpedia.org/ontology/investor> <http://example.org/QatarInvestmentAuthority> <NBA-Al-Jazeera-9> .
+ <http://example.org/QatarSportsInvestments> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <NBA-Al-Jazeera-9> .
+ <http://example.org/QatarInvestmentAuthority> <http://dbpedia.org/ontology/subsidiary> <http://example.org/QatarSportsInvestments> <NBA-Al-Jazeera-9> .
+ <http://example.org/LaurenePowellJobs> <http://schema.org/memberOf> <http://example.org/MonumentalSportsEntertainment> <NBA-Al-Jazeera-9> .
+ <http://example.org/ParisSaintGermainMajorityOwnership> <http://dbpedia.org/ontology/ownedBy> <http://example.org/QatarInvestmentAuthority> <NBA-Al-Jazeera-9> .
+ <http://example.org/CapitalOneArena> <http://xmlns.com/foaf/0.1/name> "Capital One Arena"  <NBA-Al-Jazeera-9> .
+ <http://example.org/MarkLerner> <http://xmlns.com/foaf/0.1/name> "Mark Lerner"  <NBA-Al-Jazeera-9> .
+ <http://example.org/BragaStake> <http://dbpedia.org/ontology/investor> <http://example.org/QatarSportsInvestments> <NBA-Al-Jazeera-9> .
+ <http://example.org/WashingtonMystics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballTeam> <NBA-Al-Jazeera-9> .
+ <http://example.org/QatarInvestmentAuthority> <http://schema.org/owns> <http://example.org/ParisSaintGermainMajorityOwnership> <NBA-Al-Jazeera-9> .

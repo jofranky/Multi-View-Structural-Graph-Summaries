@@ -1,0 +1,703 @@
+ <http://example.org/Stanford_Daily> <http://schema.org/publisher> <http://example.org/Stanford_University> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Neuroscientists> <http://schema.org/roleName> "Neuroscientist"  <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Independent_Investigation> <http://schema.org/description> "Investigation into research misconduct allegations against Marc Tessier-Lavigne"  <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Research_Paper_Nature_2009> <http://schema.org/author> <http://example.org/Marc_Tessier-Lavigne> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Stanford_University> <http://schema.org/name> "Stanford University"  <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Genentech> <http://schema.org/description> "Biotech company"  <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Richard_Saller> <http://xmlns.com/foaf/0.1/name> "Richard Saller"  <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Elon_Musk> <http://schema.org/affiliation> <http://example.org/Stanford_University> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Research_Paper_Nature_2009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ScholarlyArticle> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Alzheimers_Disease> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalCondition> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Scientific_Panel> <http://schema.org/member> <http://example.org/Nobel_Laureate> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/PubPeer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebSite> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Ontario_Canada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Elisabeth_Bik> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Marc_Tessier-Lavigne> <http://schema.org/birthPlace> <http://example.org/Ontario_Canada> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Scientific_Panel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Scientific_Panel> <http://schema.org/member> <http://example.org/Biologists> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Richard_Saller> <http://schema.org/startDate> "2023-09-01"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Research_Paper_Nature_2009> <http://schema.org/datePublished> "2009"^^<http://www.w3.org/2001/XMLSchema#gYear>  <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Elisabeth_Bik> <http://xmlns.com/foaf/0.1/name> "Elisabeth Bik"  <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Research_Paper_Nature_2009> <http://schema.org/about> <http://example.org/Alzheimers_Disease> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Nobel_Laureate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Scientific_Panel> <http://schema.org/member> <http://example.org/Neuroscientists> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/California_USA> <http://schema.org/name> "California, USA"  <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Marc_Tessier-Lavigne> <http://schema.org/jobTitle> "President"  <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Marc_Tessier-Lavigne> <http://xmlns.com/foaf/0.1/member> <http://example.org/Genentech> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Stanford_Daily> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Newspaper> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Marc_Tessier-Lavigne> <http://schema.org/employee> <http://example.org/Genentech> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Stanford_University> <http://schema.org/location> <http://example.org/California_USA> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Rishi_Sunak> <http://schema.org/jobTitle> "Prime Minister"  <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Ontario_Canada> <http://schema.org/name> "Ontario, Canada"  <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Stanford_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EducationalOrganization> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Independent_Investigation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Genentech> <http://schema.org/name> "Genentech"  <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Nature_Journal> <http://schema.org/name> "Nature"  <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Scientific_Panel> <http://schema.org/event> <http://example.org/Independent_Investigation> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Marc_Tessier-Lavigne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/PubPeer> <http://schema.org/description> "Platform where scientists can discuss and evaluate research online"  <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Marc_Tessier-Lavigne> <http://xmlns.com/foaf/0.1/publications> <http://example.org/Research_Paper_Nature_2009> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Biologists> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Role> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/PubPeer> <http://schema.org/name> "PubPeer"  <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Marc_Tessier-Lavigne> <http://xmlns.com/foaf/0.1/name> "Marc Tessier-Lavigne"  <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Elisabeth_Bik> <http://schema.org/affiliation> <http://example.org/PubPeer> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/United_Kingdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Marc_Tessier-Lavigne> <http://xmlns.com/foaf/0.1/member> <http://example.org/Stanford_University> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Marc_Tessier-Lavigne> <http://xmlns.com/foaf/0.1/title> "Dr."  <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Neuroscientists> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Role> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Nature_Journal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/California_USA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Richard_Saller> <http://schema.org/jobTitle> "Interim President"  <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Biologists> <http://schema.org/roleName> "Biologist"  <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Independent_Investigation> <http://schema.org/startDate> "2023-03-27"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Stanford_University> <http://xmlns.com/foaf/0.1/homepage> <https://www.stanford.edu/> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Marc_Tessier-Lavigne> <http://schema.org/resignationDate> "2023-08-31"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Richard_Saller> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Rishi_Sunak> <http://schema.org/affiliation> <http://example.org/United_Kingdom> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Research_Paper_Nature_2009> <http://schema.org/publisher> <http://example.org/Genentech> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Rishi_Sunak> <http://xmlns.com/foaf/0.1/name> "Rishi Sunak"  <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Genentech> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Elon_Musk> <http://xmlns.com/foaf/0.1/name> "Elon Musk"  <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Alzheimers_Disease> <http://schema.org/name> "Alzheimer's disease"  <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Stanford_Daily> <http://schema.org/name> "The Stanford Daily"  <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Elon_Musk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Nobel_Laureate> <http://schema.org/jobTitle> "Nobel laureate"  <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Research_Paper_Nature_2009> <http://schema.org/isPartOf> <http://example.org/Nature_Journal> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/United_Kingdom> <http://schema.org/name> "United Kingdom"  <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Richard_Saller> <http://schema.org/affiliation> <http://example.org/Stanford_University> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Marc_Tessier-Lavigne> <http://schema.org/alumniOf> <http://example.org/Stanford_University> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/Rishi_Sunak> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-0> .
+ <http://example.org/BribeForSailingRecruit> <http://schema.org/beneficiary> <http://example.org/StanfordUniversitySailingProgram> <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/SentencingOfJohnVandemoer> <http://schema.org/participant> <http://example.org/EricRosen> <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/LoriLoughlin> <http://schema.org/jobTitle> "Actress"  <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/JohnVandemoer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/RacketeeringConspiracyCharge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/SentencingOfJohnVandemoer> <http://schema.org/eventDate> "2023-03-01"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/Boston> <http://schema.org/name> "Boston"  <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/RickSinger> <http://xmlns.com/foaf/0.1/name> "William 'Rick' Singer"  <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/SecondBribeForSailingRecruit> <http://schema.org/beneficiary> <http://example.org/StanfordUniversitySailingProgram> <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/RickSinger> <http://schema.org/jobTitle> "California College Admissions Consultant"  <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/SentencingOfJohnVandemoer> <http://schema.org/location> <http://example.org/Boston> <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/CollegeAdmissionsScandal> <http://schema.org/participant> <http://example.org/JohnVandemoer> <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/LoriLoughlin> <http://example.org/involvedIn> <http://example.org/CollegeAdmissionsScandal> <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/EricRosen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/SecondBribeForSailingRecruit> <http://schema.org/provider> <http://example.org/RickSinger> <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/CollegeAdmissionsScandal> <http://schema.org/name> "United States College Admissions Scandal"  <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/FelicityHuffman> <http://schema.org/plea> "Guilty"  <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/SentencingOfJohnVandemoer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/LoriLoughlin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/CollegeAdmissionsScandal> <http://schema.org/description> "A scandal involving bribes for college admissions, with over 50 people charged."  <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/CollegeAdmissionsScandal> <http://schema.org/participant> <http://example.org/LoriLoughlin> <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/JohnVandemoer> <http://xmlns.com/foaf/0.1/age> "41"^^<http://www.w3.org/2001/XMLSchema#int>  <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/JohnVandemoer> <http://schema.org/plea> "Guilty"  <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/RickSinger> <http://schema.org/plea> "Guilty"  <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/JohnVandemoer> <http://schema.org/jobTitle> "Former Stanford University Sailing Coach"  <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/StanfordUniversitySailingProgram> <http://schema.org/name> "Stanford University Sailing Program"  <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/FelicityHuffman> <http://xmlns.com/foaf/0.1/name> "Felicity Huffman"  <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/SecondBribeForSailingRecruit> <http://schema.org/amount> "500000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/CollegeAdmissionsScandal> <http://schema.org/participant> <http://example.org/FelicityHuffman> <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/CollegeAdmissionsScandal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/JohnVandemoer> <http://xmlns.com/foaf/0.1/name> "John Vandemoer"  <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/StanfordUniversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EducationalOrganization> <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/BribeForSailingRecruit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/SecondBribeForSailingRecruit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/LoriLoughlin> <http://xmlns.com/foaf/0.1/name> "Lori Loughlin"  <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/CollegeAdmissionsScandal> <http://schema.org/participant> <http://example.org/RickSinger> <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/StanfordUniversity> <http://schema.org/name> "Stanford University"  <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/Boston> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/EricRosen> <http://xmlns.com/foaf/0.1/name> "Assistant US Attorney Eric Rosen"  <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/RyaZobel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/BribeForSailingRecruit> <http://schema.org/date> "2017"^^<http://www.w3.org/2001/XMLSchema#gYear>  <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/JohnVandemoer> <http://schema.org/alumniOf> <http://example.org/StanfordUniversity> <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/RyaZobel> <http://xmlns.com/foaf/0.1/name> "US District Judge Rya Zobel"  <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/FelicityHuffman> <http://schema.org/jobTitle> "Actress"  <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/SentencingOfJohnVandemoer> <http://schema.org/description> "John Vandemoer is sentenced to six months of home confinement and a $10,000 fine for racketeering conspiracy."  <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/JohnVandemoer> <http://example.org/involvedIn> <http://example.org/CollegeAdmissionsScandal> <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/JohnVandemoer> <http://schema.org/charge> <http://example.org/RacketeeringConspiracyCharge> <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/RickSinger> <http://example.org/involvedIn> <http://example.org/CollegeAdmissionsScandal> <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/SentencingOfJohnVandemoer> <http://schema.org/participant> <http://example.org/JohnVandemoer> <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/FelicityHuffman> <http://example.org/involvedIn> <http://example.org/CollegeAdmissionsScandal> <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/RacketeeringConspiracyCharge> <http://schema.org/name> "Racketeering Conspiracy Charge"  <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/SentencingOfJohnVandemoer> <http://schema.org/participant> <http://example.org/RyaZobel> <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/RickSinger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/BribeForSailingRecruit> <http://schema.org/provider> <http://example.org/RickSinger> <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/LoriLoughlin> <http://schema.org/plea> "Not Guilty"  <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/EricRosen> <http://schema.org/jobTitle> "Assistant US Attorney"  <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/BribeForSailingRecruit> <http://schema.org/amount> "110000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/FelicityHuffman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/RyaZobel> <http://schema.org/jobTitle> "US District Judge"  <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/CollegeAdmissionsScandal> <http://schema.org/startDate> "2019-03-01"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/JohnVandemoer> <http://schema.org/legalCase> <http://example.org/SentencingOfJohnVandemoer> <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/StanfordUniversitySailingProgram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <StanfordUniversity-Al-Jazeera-1> .
+ <http://example.org/NancyPelosi> <http://example.org/title> "House Speaker"  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/MikePence> <http://example.org/title> "Vice President of the United States"  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/PatCipollone> <http://example.org/title> "White House Counsel"  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/NATOConference> <http://example.org/participants> <http://example.org/Trump> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/VolodymyrZelenskyy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/JonathanTurley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/AdamSchiff> <http://example.org/title> "Chairman of the House Intelligence Committee"  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/NoahFeldman> <http://example.org/occupation> "Law Professor at Harvard Law School"  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/AdamSchiff> <http://example.org/affiliation> <http://example.org/Democrats> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/DougCollins> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/NATOConference> <http://purl.org/dc/elements/1.1/location> "London"  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/Trump> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/Republicans> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/PoliticalParty> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/JonathanTurley> <http://example.org/testimony> "Democrats' investigation so far had produced a 'wafer-thin' body of evidence and their process was 'slipshod'."  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/ImpeachmentHearing> <http://purl.org/dc/elements/1.1/date> "2019-12-04"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/JerroldNadler> <http://example.org/title> "Chairman of the Judiciary Committee"  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/PamelaKarlan> <http://xmlns.com/foaf/0.1/name> "Pamela Karlan"  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/US> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Country> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/Ukraine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Country> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/TelephoneCall> <http://example.org/topic> "Request for a favour"  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/HunterBiden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/ImpeachmentHearing> <http://purl.org/dc/elements/1.1/description> "Landmark hearing on the impeachment of President Donald Trump."  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/VolodymyrZelenskyy> <http://xmlns.com/foaf/0.1/name> "Volodymyr Zelenskyy"  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/Trump> <http://example.org/title> "President of the United States"  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/ImpeachmentInquiry> <http://example.org/relatedTo> <http://example.org/TelephoneCall> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/AdamSchiff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/NoahFeldman> <http://example.org/testimony> "President Trump has committed impeachable high crimes and misdemeanours by abusing the office of the presidency."  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/MichaelGerhardt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/Democrats> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/PoliticalParty> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/MichaelGerhardt> <http://example.org/testimony> "This president has attacked each of the Constitution's safeguards against establishing a monarchy in this country."  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/SenateTrial> <http://example.org/relatedTo> <http://example.org/ImpeachmentInquiry> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/TelephoneCall> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Event> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/Republicans> <http://xmlns.com/foaf/0.1/name> "Republican Party"  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/NATOConference> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Event> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/Democrats> <http://xmlns.com/foaf/0.1/name> "Democratic Party"  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/TelephoneCall> <http://example.org/participants> <http://example.org/VolodymyrZelenskyy> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/DougCollins> <http://example.org/affiliation> <http://example.org/Republicans> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/JerroldNadler> <http://xmlns.com/foaf/0.1/name> "Jerrold Nadler"  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/US> <http://xmlns.com/foaf/0.1/name> "United States"  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/HouseIntelligenceCommittee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Committee> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/NancyPelosi> <http://xmlns.com/foaf/0.1/name> "Nancy Pelosi"  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/PatCipollone> <http://xmlns.com/foaf/0.1/name> "Pat Cipollone"  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/JoeBiden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/HouseJudiciaryCommittee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Committee> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/ImpeachmentReport> <http://purl.org/dc/elements/1.1/date> "2019-12-03"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/JonathanTurley> <http://xmlns.com/foaf/0.1/name> "Jonathan Turley"  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/Trump> <http://xmlns.com/foaf/0.1/name> "Donald Trump"  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/ImpeachmentReport> <http://example.org/pageCount> "300"^^<http://www.w3.org/2001/XMLSchema#integer>  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/Burisma> <http://xmlns.com/foaf/0.1/name> "Burisma"  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/NancyPelosi> <http://example.org/affiliation> <http://example.org/Democrats> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/JonathanTurley> <http://example.org/occupation> "Constitutional Law Professor at George Washington University Law School"  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/DougCollins> <http://example.org/title> "Top Republican on Judiciary Committee"  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/PamelaKarlan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/NoahFeldman> <http://xmlns.com/foaf/0.1/name> "Noah Feldman"  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/MikePence> <http://xmlns.com/foaf/0.1/name> "Mike Pence"  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/JerroldNadler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/PatCipollone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/MichaelGerhardt> <http://xmlns.com/foaf/0.1/name> "Michael Gerhardt"  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/DougCollins> <http://xmlns.com/foaf/0.1/name> "Doug Collins"  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/JoeBiden> <http://xmlns.com/foaf/0.1/name> "Joe Biden"  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/MichaelGerhardt> <http://example.org/occupation> "Law Professor at the University of North Carolina"  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/NancyPelosi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/TelephoneCall> <http://example.org/participants> <http://example.org/Trump> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/PamelaKarlan> <http://example.org/testimony> "The evidence reveals a president who used the powers of his office to demand that a foreign government participate in undermining a competing candidate for the presidency."  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/HouseJudiciaryCommittee> <http://example.org/hasMember> <http://example.org/JerroldNadler> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/HouseJudiciaryCommittee> <http://example.org/hasMember> <http://example.org/DougCollins> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/ImpeachmentInquiry> <http://example.org/relatedTo> <http://example.org/ImpeachmentReport> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/ImpeachmentReport> <http://purl.org/dc/elements/1.1/description> "300-page report describing Trump's pressure campaign on Ukraine."  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/PamelaKarlan> <http://example.org/occupation> "Law Professor at Stanford University Law School"  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/ImpeachmentHearing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Event> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/MikePence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/ImpeachmentReport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Document> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/HouseIntelligenceCommittee> <http://example.org/chairman> <http://example.org/AdamSchiff> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/ImpeachmentInquiry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Event> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/HunterBiden> <http://xmlns.com/foaf/0.1/name> "Hunter Biden"  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/TelephoneCall> <http://purl.org/dc/elements/1.1/date> "2019-07-25"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/NoahFeldman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/Ukraine> <http://xmlns.com/foaf/0.1/name> "Ukraine"  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/SenateTrial> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Event> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/Burisma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Company> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/VolodymyrZelenskyy> <http://example.org/title> "President of Ukraine"  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/JerroldNadler> <http://example.org/affiliation> <http://example.org/Democrats> <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/AdamSchiff> <http://xmlns.com/foaf/0.1/name> "Adam Schiff"  <StanfordUniversity-Al-Jazeera-2> .
+ <http://example.org/WaterPurifyingDevice> <http://schema.org/isSimilarTo> <http://example.org/TraditionalPhotocatalysts> <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/StudyPublishedInNatureNanotechnology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ScholarlyArticle> <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/StanfordUniversityResearchTeam> <http://schema.org/location> <http://example.org/California> <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/StudyPublishedInNatureNanotechnology> <http://purl.org/dc/elements/1.1/creator> <http://example.org/ChongLiu> <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/NatureNanotechnology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/WorldHealthOrganisation> <http://schema.org/name> "World Health Organisation"  <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/MolybdenumDisulfide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ChemicalSubstance> <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/UnitedNations> <http://schema.org/name> "United Nations"  <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/WaterPurifyingDevice> <http://schema.org/height> "2cm"  <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/ChongLiu> <http://xmlns.com/foaf/0.1/publications> <http://example.org/StudyPublishedInNatureNanotechnology> <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/TraditionalPhotocatalysts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/SwissFederalInstituteOfAquaticSciencesAndTechnology> <http://schema.org/name> "Swiss Federal Institute of Aquatic Sciences and Technology"  <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/ChongLiu> <http://xmlns.com/foaf/0.1/title> "Project Leader"  <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/ChongLiu> <http://schema.org/jobTitle> "Postdoctoral Scholar"  <StanfordUniversity-Al-Jazeera-3> .
+ <http://StanfordUniversity-Al-Jazeera-3.com/blank#nd645b7848db24901b48b9fe621747ef3b2> <http://schema.org/name> "Potential to help people in countries with energy and water shortages"  <StanfordUniversity-Al-Jazeera-3> .
+ <http://StanfordUniversity-Al-Jazeera-3.com/blank#nd645b7848db24901b48b9fe621747ef3b1> <http://schema.org/value> "99.9 percent of bacteria killed in 20 minutes"  <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/MolybdenumDisulfide> <http://schema.org/description> "A compound similar in appearance and touch to graphite"  <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/WaterPurifyingDevice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/StanfordUniversity> <http://schema.org/location> <http://example.org/California> <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/StudyPublishedInNatureNanotechnology> <http://purl.org/dc/elements/1.1/date> "last month"  <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/StanfordUniversityResearchTeam> <http://schema.org/name> "Team from Stanford University"  <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/TraditionalPhotocatalysts> <http://purl.org/dc/elements/1.1/description> "Traditional photocatalysts usually only use the UV part of sunlight"  <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/ChongLiu> <http://xmlns.com/foaf/0.1/name> "Chong Liu"  <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/StanfordUniversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EducationalOrganization> <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/StanfordUniversityResearchTeam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/WaterPurifyingDevice> <http://schema.org/material> <http://example.org/MolybdenumDisulfide> <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/California> <http://schema.org/name> "California"  <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/SwissFederalInstituteOfAquaticSciencesAndTechnology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/WorldHealthOrganisation> <http://schema.org/description> "At least 1.8 billion people globally use a source of drinking water that is contaminated by fecal matter, according to the World Health Organisation."  <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/ChongLiu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/StanfordUniversity> <http://schema.org/name> "Stanford University"  <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/WaterPurifyingDevice> <http://schema.org/potentialAction> <http://StanfordUniversity-Al-Jazeera-3.com/blank#nd645b7848db24901b48b9fe621747ef3b2>  <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/WaterPurifyingDevice> <http://schema.org/additionalProperty> <http://StanfordUniversity-Al-Jazeera-3.com/blank#nd645b7848db24901b48b9fe621747ef3b1>  <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/WaterPurifyingDevice> <http://schema.org/subjectOf> <http://example.org/StudyPublishedInNatureNanotechnology> <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/WaterPurifyingDevice> <http://schema.org/manufacturer> <http://example.org/StanfordUniversity> <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/StudyPublishedInNatureNanotechnology> <http://purl.org/dc/elements/1.1/title> "Laboratory experiments on a new water-purifying device"  <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/SwissFederalInstituteOfAquaticSciencesAndTechnology> <http://schema.org/description> "Institute that provided information on similar water-purifying devices"  <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/California> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/WaterPurifyingDevice> <http://purl.org/dc/elements/1.1/description> "A tiny water-purifying device about the size of a person’s fingertip that harnesses light to kill harmful bacteria."  <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/WaterPurifyingDevice> <http://schema.org/width> "1cm"  <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/UnitedNations> <http://schema.org/description> "More than 660 million people lack access to potable water sources according to the United Nations."  <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/WorldHealthOrganisation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/MolybdenumDisulfide> <http://schema.org/color> "silvery black"  <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/NatureNanotechnology> <http://schema.org/name> "Nature Nanotechnology"  <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/MolybdenumDisulfide> <http://schema.org/name> "Molybdenum disulfide"  <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/StudyPublishedInNatureNanotechnology> <http://purl.org/dc/elements/1.1/publisher> <http://example.org/NatureNanotechnology> <StanfordUniversity-Al-Jazeera-3> .
+ <http://StanfordUniversity-Al-Jazeera-3.com/blank#nd645b7848db24901b48b9fe621747ef3b1> <http://schema.org/name> "Efficiency"  <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/ChongLiu> <http://xmlns.com/foaf/0.1/member> <http://example.org/StanfordUniversityResearchTeam> <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/UnitedNations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <StanfordUniversity-Al-Jazeera-3> .
+ <http://example.org/ontology#AllanJosephBankman> <http://dbpedia.org/ontology/expertise> <http://example.org/ontology#TaxLaw> <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#AlamedaResearch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <StanfordUniversity-Al-Jazeera-4> .
+ <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb3> <http://schema.org/allegationDetails> "Encouraged unlawful political contributions"  <StanfordUniversity-Al-Jazeera-4> .
+ <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb7> <http://schema.org/alleges> <http://example.org/ontology#AllanJosephBankman> <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#FTX> <http://dbpedia.org/ontology/industry> <http://example.org/ontology#CryptocurrencyExchange> <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#JohnRayIII> <http://dbpedia.org/ontology/associatedWith> <http://example.org/ontology#FTX> <StanfordUniversity-Al-Jazeera-4> .
+ <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Allegation> <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#AllanJosephBankman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-4> .
+ <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Allegation> <StanfordUniversity-Al-Jazeera-4> .
+ <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb6> <http://schema.org/allegationDetails> "Siphoned millions from FTX for personal benefit"  <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#BarbaraFried> <http://dbpedia.org/ontology/occupation> <http://example.org/ontology#RetiredStanfordLawProfessor> <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#FTX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#FTXBankruptcyCase> <http://schema.org/location> <http://example.org/ontology#Delaware> <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#FTXBankruptcyCase> <http://schema.org/startDate> "2023-03-27"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-Al-Jazeera-4> .
+ <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb2> <http://schema.org/alleges> <http://example.org/ontology#AllanJosephBankman> <StanfordUniversity-Al-Jazeera-4> .
+ <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb7> <http://schema.org/allegationDetails> "Used FTX funds for luxury residence in Bahamas"  <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#NishadSingh> <http://dbpedia.org/ontology/occupation> <http://example.org/ontology#FormerFTXEngineeringChief> <StanfordUniversity-Al-Jazeera-4> .
+ <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb8> <http://schema.org/alleges> <http://example.org/ontology#AllanJosephBankman> <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#AllanJosephBankman> <http://xmlns.com/foaf/0.1/givenName> "Allan Joseph"  <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#RyanSalame> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#BarbaraFried> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#SamBankmanFried> <http://dbpedia.org/ontology/trialStartDate> "2023-10-03"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-Al-Jazeera-4> .
+ <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb6> <http://schema.org/alleges> <http://example.org/ontology#BarbaraFried> <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#SamBankmanFried> <http://dbpedia.org/ontology/parent> <http://example.org/ontology#AllanJosephBankman> <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#FTXBankruptcyCase> <http://schema.org/defendant> <http://example.org/ontology#BarbaraFried> <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#FTXBankruptcyCase> <http://schema.org/allegation> <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb6>  <StanfordUniversity-Al-Jazeera-4> .
+ <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb3> <http://schema.org/alleges> <http://example.org/ontology#BarbaraFried> <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#FTXBankruptcyCase> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LegalCase> <StanfordUniversity-Al-Jazeera-4> .
+ <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Allegation> <StanfordUniversity-Al-Jazeera-4> .
+ <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb8> <http://schema.org/amount> "10000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#SamBankmanFried> <http://xmlns.com/foaf/0.1/givenName> "Sam"  <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#AlamedaResearch> <http://dbpedia.org/ontology/industry> <http://example.org/ontology#CryptocurrencyHedgeFundTradingFirm> <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#FTXBankruptcyCase> <http://schema.org/allegation> <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb3>  <StanfordUniversity-Al-Jazeera-4> .
+ <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Allegation> <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#MindTheGap> <http://dbpedia.org/ontology/chairperson> <http://example.org/ontology#BarbaraFried> <StanfordUniversity-Al-Jazeera-4> .
+ <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Allegation> <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#FTXLuxuryHome> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Building> <StanfordUniversity-Al-Jazeera-4> .
+ <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb1> <http://schema.org/alleges> <http://example.org/ontology#AllanJosephBankman> <StanfordUniversity-Al-Jazeera-4> .
+ <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb7> <http://schema.org/amount> "18900000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#FTXLuxuryHome> <http://dbpedia.org/ontology/floorSize> "2787"^^<http://www.w3.org/2001/XMLSchema#integer>  <StanfordUniversity-Al-Jazeera-4> .
+ <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb2> <http://schema.org/amount> "5500000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#MindTheGap> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#FTXBankruptcyCase> <http://schema.org/plaintiff> <http://example.org/ontology#FTX> <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#JohnRayIII> <http://dbpedia.org/ontology/occupation> <http://example.org/ontology#CEO> <StanfordUniversity-Al-Jazeera-4> .
+ <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb8> <http://schema.org/allegationDetails> "Received non-taxable gift from son"  <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#NishadSingh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-4> .
+ <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb1> <http://schema.org/allegationDetails> "Participated in wrongdoing leading to FTX collapse"  <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#FTXBankruptcyCase> <http://schema.org/allegation> <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb4>  <StanfordUniversity-Al-Jazeera-4> .
+ <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb6> <http://schema.org/alleges> <http://example.org/ontology#AllanJosephBankman> <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#SamBankmanFried> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-4> .
+ <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb4> <http://schema.org/alleges> <http://example.org/ontology#NishadSingh> <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#StanfordUniversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#FTXBankruptcyCase> <http://schema.org/defendant> <http://example.org/ontology#AllanJosephBankman> <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#MindTheGap> <http://dbpedia.org/ontology/founder> <http://example.org/ontology#BarbaraFried> <StanfordUniversity-Al-Jazeera-4> .
+ <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb2> <http://schema.org/allegationDetails> "Directed charitable contributions to Stanford University"  <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#AllanJosephBankman> <http://dbpedia.org/ontology/occupation> <http://example.org/ontology#StanfordUniversityLawProfessor> <StanfordUniversity-Al-Jazeera-4> .
+ <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb1> <http://schema.org/alleges> <http://example.org/ontology#BarbaraFried> <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#JohnRayIII> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#FTXBankruptcyCase> <http://schema.org/allegation> <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb2>  <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#FTX> <http://dbpedia.org/ontology/bankruptcyDate> "2022-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#FTXLuxuryHome> <http://dbpedia.org/ontology/location> <http://example.org/ontology#Bahamas> <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#FTXBankruptcyCase> <http://schema.org/allegation> <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb8>  <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#SamBankmanFried> <http://xmlns.com/foaf/0.1/familyName> "Bankman-Fried"  <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#FTXBankruptcyCase> <http://schema.org/allegation> <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb1>  <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#SamBankmanFried> <http://dbpedia.org/ontology/associatedWith> <http://example.org/ontology#AlamedaResearch> <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#FTX> <http://dbpedia.org/ontology/location> <http://example.org/ontology#Delaware> <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#BarbaraFried> <http://dbpedia.org/ontology/associatedWith> <http://example.org/ontology#MindTheGap> <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#SamBankmanFried> <http://dbpedia.org/ontology/trialLocation> <http://example.org/ontology#Manhattan> <StanfordUniversity-Al-Jazeera-4> .
+ <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb4> <http://schema.org/amount> "9700000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <StanfordUniversity-Al-Jazeera-4> .
+ <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb7> <http://schema.org/alleges> <http://example.org/ontology#BarbaraFried> <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#AllanJosephBankman> <http://xmlns.com/foaf/0.1/familyName> "Bankman"  <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#FTX> <http://schema.org/legalName> "FTX Trading"  <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#MindTheGap> <http://dbpedia.org/ontology/president> <http://example.org/ontology#BarbaraFried> <StanfordUniversity-Al-Jazeera-4> .
+ <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb5> <http://schema.org/allegationDetails> "Illegal campaign contributions and criminal conspiracy"  <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#BarbaraFried> <http://xmlns.com/foaf/0.1/givenName> "Barbara"  <StanfordUniversity-Al-Jazeera-4> .
+ <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb4> <http://schema.org/allegationDetails> "Used as a conduit for political contributions"  <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#BarbaraFried> <http://xmlns.com/foaf/0.1/familyName> "Fried"  <StanfordUniversity-Al-Jazeera-4> .
+ <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb5> <http://schema.org/alleges> <http://example.org/ontology#RyanSalame> <StanfordUniversity-Al-Jazeera-4> .
+ <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Allegation> <StanfordUniversity-Al-Jazeera-4> .
+ <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb8> <http://schema.org/alleges> <http://example.org/ontology#BarbaraFried> <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#RyanSalame> <http://dbpedia.org/ontology/occupation> <http://example.org/ontology#FormerCoCEOFTXDigitalMarkets> <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#FTXBankruptcyCase> <http://schema.org/allegation> <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb7>  <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#FTX> <http://dbpedia.org/ontology/founder> <http://example.org/ontology#SamBankmanFried> <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#SamBankmanFried> <http://dbpedia.org/ontology/parent> <http://example.org/ontology#BarbaraFried> <StanfordUniversity-Al-Jazeera-4> .
+ <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Allegation> <StanfordUniversity-Al-Jazeera-4> .
+ <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Allegation> <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#FTXBankruptcyCase> <http://schema.org/allegation> <http://StanfordUniversity-Al-Jazeera-4.com/blank#n10d6f3aeb6c9448ab7f1f1e2dc6a72fbb5>  <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#NishadSingh> <http://dbpedia.org/ontology/guiltyPleaDate> "2023-02"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ontology#RyanSalame> <http://dbpedia.org/ontology/guiltyPleaDate> "2023-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <StanfordUniversity-Al-Jazeera-4> .
+ <http://example.org/ai/AIIndexReport2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Report> <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/EthicalChallengesDeployment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/AIIndexReport2023> <http://schema.org/mentions> <http://example.org/ai/EthicalChallengesDeployment> <StanfordUniversity-Al-Jazeera-5> .
+ <http://StanfordUniversity-Al-Jazeera-5.com/blank#n2d9916914b6f42c6882003d06eadfb7cb5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/PublicPerceptionPoll> <http://schema.org/participant> <http://StanfordUniversity-Al-Jazeera-5.com/blank#n2d9916914b6f42c6882003d06eadfb7cb7>  <StanfordUniversity-Al-Jazeera-5> .
+ <http://StanfordUniversity-Al-Jazeera-5.com/blank#n2d9916914b6f42c6882003d06eadfb7cb10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/SurveyRevolutionarySocietalChange> <http://schema.org/name> "Survey on AI leading to revolutionary societal change"  <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/GovernmentRegulationEfforts> <http://schema.org/name> "Government efforts to regulate and control AI"  <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/OpenLetterPauseAITraining> <http://schema.org/participant> <http://StanfordUniversity-Al-Jazeera-5.com/blank#n2d9916914b6f42c6882003d06eadfb7cb5>  <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/IncidentsAndControversiesIncrease> <http://schema.org/result> <http://StanfordUniversity-Al-Jazeera-5.com/blank#n2d9916914b6f42c6882003d06eadfb7cb2>  <StanfordUniversity-Al-Jazeera-5> .
+ <http://StanfordUniversity-Al-Jazeera-5.com/blank#n2d9916914b6f42c6882003d06eadfb7cb5> <http://schema.org/additionalType> "Signatory"  <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/PublicPerceptionPoll> <http://schema.org/participant> <http://StanfordUniversity-Al-Jazeera-5.com/blank#n2d9916914b6f42c6882003d06eadfb7cb8>  <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/IncidentsAndControversiesIncrease> <http://schema.org/endDate> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <StanfordUniversity-Al-Jazeera-5> .
+ <http://StanfordUniversity-Al-Jazeera-5.com/blank#n2d9916914b6f42c6882003d06eadfb7cb9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/SurveyRevolutionarySocietalChange> <http://schema.org/percentage> "73"^^<http://www.w3.org/2001/XMLSchema#integer>  <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/StanfordUniversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/IncidentsAndControversiesIncrease> <http://schema.org/name> "Increase in AI-related incidents and controversies"  <StanfordUniversity-Al-Jazeera-5> .
+ <http://StanfordUniversity-Al-Jazeera-5.com/blank#n2d9916914b6f42c6882003d06eadfb7cb4> <http://xmlns.com/foaf/0.1/name> "Steve Wozniak"  <StanfordUniversity-Al-Jazeera-5> .
+ <http://StanfordUniversity-Al-Jazeera-5.com/blank#n2d9916914b6f42c6882003d06eadfb7cb2> <http://schema.org/value> "26"^^<http://www.w3.org/2001/XMLSchema#integer>  <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/OpenLetterPauseAITraining> <http://schema.org/organizer> <http://StanfordUniversity-Al-Jazeera-5.com/blank#n2d9916914b6f42c6882003d06eadfb7cb4>  <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/AIIndexReport2023> <http://schema.org/datePublished> "2023-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/OpenLetterPauseAITraining> <http://schema.org/numberOfParticipants> "1300"^^<http://www.w3.org/2001/XMLSchema#integer>  <StanfordUniversity-Al-Jazeera-5> .
+ <http://StanfordUniversity-Al-Jazeera-5.com/blank#n2d9916914b6f42c6882003d06eadfb7cb9> <http://schema.org/additionalType> "Indian respondent"  <StanfordUniversity-Al-Jazeera-5> .
+ <http://StanfordUniversity-Al-Jazeera-5.com/blank#n2d9916914b6f42c6882003d06eadfb7cb11> <http://schema.org/name> "European Union"  <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/OpenLetterPauseAITraining> <http://schema.org/name> "Open letter calling for a pause on AI training"  <StanfordUniversity-Al-Jazeera-5> .
+ <http://StanfordUniversity-Al-Jazeera-5.com/blank#n2d9916914b6f42c6882003d06eadfb7cb3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <StanfordUniversity-Al-Jazeera-5> .
+ <http://StanfordUniversity-Al-Jazeera-5.com/blank#n2d9916914b6f42c6882003d06eadfb7cb7> <http://schema.org/additionalType> "Chinese respondent"  <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/SurveyNuclearLevelCatastrophe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <StanfordUniversity-Al-Jazeera-5> .
+ <http://StanfordUniversity-Al-Jazeera-5.com/blank#n2d9916914b6f42c6882003d06eadfb7cb6> <http://schema.org/additionalType> "American respondent"  <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/AIIndexReport2023> <http://purl.org/dc/terms/publisher> <http://example.org/ai/StanfordUniversity> <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/GovernmentRegulationEfforts> <http://schema.org/location> <http://StanfordUniversity-Al-Jazeera-5.com/blank#n2d9916914b6f42c6882003d06eadfb7cb12>  <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/AIIndexReport2023> <http://schema.org/mentions> <http://example.org/ai/PublicPerceptionPoll> <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/PublicPerceptionPoll> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <StanfordUniversity-Al-Jazeera-5> .
+ <http://StanfordUniversity-Al-Jazeera-5.com/blank#n2d9916914b6f42c6882003d06eadfb7cb8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/GovernmentRegulationEfforts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/AIIndexReport2023> <http://schema.org/mentions> <http://example.org/ai/SurveyNuclearLevelCatastrophe> <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/PublicPerceptionPoll> <http://schema.org/participant> <http://StanfordUniversity-Al-Jazeera-5.com/blank#n2d9916914b6f42c6882003d06eadfb7cb6>  <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/OpenLetterPauseAITraining> <http://schema.org/organizer> <http://StanfordUniversity-Al-Jazeera-5.com/blank#n2d9916914b6f42c6882003d06eadfb7cb3>  <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/PublicPerceptionPoll> <http://schema.org/participant> <http://StanfordUniversity-Al-Jazeera-5.com/blank#n2d9916914b6f42c6882003d06eadfb7cb9>  <StanfordUniversity-Al-Jazeera-5> .
+ <http://StanfordUniversity-Al-Jazeera-5.com/blank#n2d9916914b6f42c6882003d06eadfb7cb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/QuantitativeValue> <StanfordUniversity-Al-Jazeera-5> .
+ <http://StanfordUniversity-Al-Jazeera-5.com/blank#n2d9916914b6f42c6882003d06eadfb7cb10> <http://schema.org/name> "China"  <StanfordUniversity-Al-Jazeera-5> .
+ <http://StanfordUniversity-Al-Jazeera-5.com/blank#n2d9916914b6f42c6882003d06eadfb7cb12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <StanfordUniversity-Al-Jazeera-5> .
+ <http://StanfordUniversity-Al-Jazeera-5.com/blank#n2d9916914b6f42c6882003d06eadfb7cb3> <http://xmlns.com/foaf/0.1/name> "Elon Musk"  <StanfordUniversity-Al-Jazeera-5> .
+ <http://StanfordUniversity-Al-Jazeera-5.com/blank#n2d9916914b6f42c6882003d06eadfb7cb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/AIIndexReport2023> <http://schema.org/mentions> <http://example.org/ai/RegulationCalls> <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/AIIndexReport2023> <http://schema.org/mentions> <http://example.org/ai/SurveyRevolutionarySocietalChange> <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/GovernmentRegulationEfforts> <http://schema.org/location> <http://StanfordUniversity-Al-Jazeera-5.com/blank#n2d9916914b6f42c6882003d06eadfb7cb10>  <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/SurveyNuclearLevelCatastrophe> <http://schema.org/percentage> "36"^^<http://www.w3.org/2001/XMLSchema#integer>  <StanfordUniversity-Al-Jazeera-5> .
+ <http://StanfordUniversity-Al-Jazeera-5.com/blank#n2d9916914b6f42c6882003d06eadfb7cb8> <http://schema.org/additionalType> "Saudi Arabian respondent"  <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/EthicalChallengesDeployment> <http://schema.org/name> "Ethical challenges associated with AI deployment"  <StanfordUniversity-Al-Jazeera-5> .
+ <http://StanfordUniversity-Al-Jazeera-5.com/blank#n2d9916914b6f42c6882003d06eadfb7cb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/IncidentsAndControversiesIncrease> <http://schema.org/startDate> "2013"^^<http://www.w3.org/2001/XMLSchema#gYear>  <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/StanfordUniversity> <http://xmlns.com/foaf/0.1/name> "Stanford University"  <StanfordUniversity-Al-Jazeera-5> .
+ <http://StanfordUniversity-Al-Jazeera-5.com/blank#n2d9916914b6f42c6882003d06eadfb7cb12> <http://schema.org/name> "United States"  <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/GovernmentRegulationEfforts> <http://schema.org/location> <http://StanfordUniversity-Al-Jazeera-5.com/blank#n2d9916914b6f42c6882003d06eadfb7cb11>  <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/AIIndexReport2023> <http://schema.org/about> <http://example.org/ai/ArtificialIntelligence> <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/SurveyRevolutionarySocietalChange> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/AIIndexReport2023> <http://schema.org/mentions> <http://example.org/ai/GovernmentRegulationEfforts> <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/IncidentsAndControversiesIncrease> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/AIIndexReport2023> <http://purl.org/dc/terms/issued> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/SurveyNuclearLevelCatastrophe> <http://schema.org/name> "Survey on AI leading to nuclear-level catastrophe"  <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/AIIndexReport2023> <http://schema.org/mentions> <http://example.org/ai/OpenLetterPauseAITraining> <StanfordUniversity-Al-Jazeera-5> .
+ <http://StanfordUniversity-Al-Jazeera-5.com/blank#n2d9916914b6f42c6882003d06eadfb7cb1> <http://xmlns.com/foaf/0.1/name> "The report’s authors"  <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/AIIndexReport2023> <http://schema.org/author> <http://StanfordUniversity-Al-Jazeera-5.com/blank#n2d9916914b6f42c6882003d06eadfb7cb1>  <StanfordUniversity-Al-Jazeera-5> .
+ <http://StanfordUniversity-Al-Jazeera-5.com/blank#n2d9916914b6f42c6882003d06eadfb7cb7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/AIIndexReport2023> <http://purl.org/dc/terms/title> "2023 AI Index Report"  <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/RegulationCalls> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/RegulationCalls> <http://schema.org/name> "Calls for regulation of AI"  <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/OpenLetterPauseAITraining> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <StanfordUniversity-Al-Jazeera-5> .
+ <http://StanfordUniversity-Al-Jazeera-5.com/blank#n2d9916914b6f42c6882003d06eadfb7cb11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <StanfordUniversity-Al-Jazeera-5> .
+ <http://StanfordUniversity-Al-Jazeera-5.com/blank#n2d9916914b6f42c6882003d06eadfb7cb2> <http://schema.org/unitText> "times increase"  <StanfordUniversity-Al-Jazeera-5> .
+ <http://StanfordUniversity-Al-Jazeera-5.com/blank#n2d9916914b6f42c6882003d06eadfb7cb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/AIIndexReport2023> <http://schema.org/mentions> <http://example.org/ai/IncidentsAndControversiesIncrease> <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/ai/PublicPerceptionPoll> <http://schema.org/name> "IPSOS poll on public perception of AI"  <StanfordUniversity-Al-Jazeera-5> .
+ <http://example.org/JoeBiden> <http://xmlns.com/foaf/0.1/page> <http://dbpedia.org/resource/Joe_Biden> <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/InfectiousDiseasesExpert> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/StanfordUniversityReport> <http://dbpedia.org/ontology/releaseDate> "2020-10-30"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/AmeshAdalja> <http://dbpedia.org/ontology/affiliation> <http://example.org/JohnsHopkinsCenterForHealthSecurity> <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/BarackObama> <http://xmlns.com/foaf/0.1/name> "Barack Obama"  <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/DonaldTrump> <http://xmlns.com/foaf/0.1/page> <http://dbpedia.org/resource/Donald_Trump> <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/NovelCoronavirus> <http://xmlns.com/foaf/0.1/name> "Novel Coronavirus"  <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/AmericanMedicalAssociation> <http://xmlns.com/foaf/0.1/name> "American Medical Association"  <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/JohnsHopkinsCenterForHealthSecurity> <http://xmlns.com/foaf/0.1/name> "Johns Hopkins Center for Health Security"  <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/COVID19CasesAndDeaths> <http://schema.org/name> "COVID-19"  <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/AmericanMedicalAssociation> <http://dbpedia.org/ontology/abbreviation> "AMA"  <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/StanfordEconomicsDepartmentResearchers> <http://xmlns.com/foaf/0.1/name> "Stanford Economics Department Researchers"  <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/StanfordEconomicsDepartmentResearchers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Group> <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/StanfordUniversityReport> <http://dbpedia.org/ontology/subject> <http://example.org/COVID19ImpactOfTrumpCampaignEvents> <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/DonaldTrump> <http://xmlns.com/foaf/0.1/name> "Donald Trump"  <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/JoeBiden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/BarackObama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/JoeBiden> <http://xmlns.com/foaf/0.1/name> "Joe Biden"  <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/BarackObama> <http://schema.org/jobTitle> "Former President of the United States"  <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/JoeBiden> <http://schema.org/jobTitle> "Democratic Party Challenger"  <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/COVID19ImpactOfTrumpCampaignEvents> <http://schema.org/endDate> "2020-09-30"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/AmericanMedicalAssociation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/DonaldTrump> <http://schema.org/jobTitle> "President of the United States"  <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/AmeshAdalja> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/COVID19CasesAndDeaths> <http://dbpedia.org/ontology/deathCause> <http://example.org/NovelCoronavirus> <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/COVID19ImpactOfTrumpCampaignEvents> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/StanfordUniversityReport> <http://dbpedia.org/ontology/author> <http://example.org/StanfordEconomicsDepartmentResearchers> <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/DonaldTrump> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/NovelCoronavirus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Disease> <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/COVID19ImpactOfTrumpCampaignEvents> <http://schema.org/about> <http://example.org/DonaldTrumpCampaignEvents> <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/BarackObama> <http://xmlns.com/foaf/0.1/page> <http://dbpedia.org/resource/Barack_Obama> <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/AmeshAdalja> <http://dbpedia.org/ontology/occupation> <http://example.org/InfectiousDiseasesExpert> <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/COVID19CasesAndDeaths> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalCondition> <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/AmeshAdalja> <http://xmlns.com/foaf/0.1/name> "Amesh Adalja"  <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/DonaldTrumpCampaignEvents> <http://schema.org/organizer> <http://example.org/DonaldTrump> <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/COVID19ImpactOfTrumpCampaignEvents> <http://schema.org/startDate> "2020-06-20"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/DonaldTrumpCampaignEvents> <http://schema.org/endDate> "2020-09-30"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/JohnsHopkinsCenterForHealthSecurity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/NovelCoronavirus> <http://dbpedia.org/ontology/wikiPageExternalLink> <https://www.jhu.edu/> <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/StanfordUniversityReport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Report> <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/COVID19ImpactOfTrumpCampaignEvents> <http://dbpedia.org/ontology/cause> <http://example.org/COVID19CasesAndDeaths> <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/DonaldTrumpCampaignEvents> <http://schema.org/eventStatus> <http://schema.org/EventScheduled> <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/StanfordUniversityReport> <http://schema.org/numberOfCases> "30000"^^<http://www.w3.org/2001/XMLSchema#integer>  <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/StanfordUniversityReport> <http://schema.org/numberOfDeaths> "700"^^<http://www.w3.org/2001/XMLSchema#integer>  <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/DonaldTrumpCampaignEvents> <http://schema.org/startDate> "2020-06-20"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/InfectiousDiseasesExpert> <http://xmlns.com/foaf/0.1/name> "Infectious Diseases Expert"  <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/DonaldTrumpCampaignEvents> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EventSeries> <StanfordUniversity-Al-Jazeera-6> .
+ <http://example.org/KhaledAkil> <http://dbpedia.org/ontology/occupation> <http://example.org/Artist> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/KhaledAkil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/Translations2018> <http://dbpedia.org/ontology/publicationYear> "2018"^^<http://www.w3.org/2001/XMLSchema#gYear>  <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/KhaledAkil> <http://dbpedia.org/ontology/activeYearsStartYear> "2012"^^<http://www.w3.org/2001/XMLSchema#gYear>  <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/CommaPress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Publisher> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/KhaledAkil> <http://dbpedia.org/ontology/residence> <http://dbpedia.org/resource/Istanbul> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/USVisa> <http://www.w3.org/2000/01/rdf-schema#label> "nonimmigrant visa"  <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/AneallaSafdar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/KhaledAkilVisaApplication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://example.org/KhaledAkil> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/TaranehAlidoosti> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Actor> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/TaranehAlidoosti> <http://xmlns.com/foaf/0.1/depiction> <http://example.org/images/TaranehAlidoosti.jpg> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/MarciaLynxQualey> <http://dbpedia.org/ontology/residence> <http://dbpedia.org/resource/Cairo> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/RequiemForSyria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Artwork> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/KhaledAkilVisaApplication> <http://dbpedia.org/ontology/result> "rejected"  <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/AsgharFarhadi> <http://xmlns.com/foaf/0.1/depiction> <http://example.org/images/AsgharFarhadi.jpg> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/SyrianWar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/TravelBan> <http://dbpedia.org/ontology/related> <http://dbpedia.org/resource/Syrian_refugee> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/KhaledAkilVisaApplication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/MarciaLynxQualey> <http://xmlns.com/foaf/0.1/name> "Marcia Lynx Qualey"  <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/USConsulateIstanbul> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/AneallaSafdar> <http://xmlns.com/foaf/0.1/name> "Anealla Safdar"  <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/TravelBan> <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/Donald_Trump> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/TheSalesman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/KhaledAkil> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Syrian> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/TravelBan> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/AnitaHusen> <http://xmlns.com/foaf/0.1/depiction> <http://example.org/images/AnitaHusen.jpg> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/TravelBan> <http://www.w3.org/2000/01/rdf-schema#label> "Trump's travel ban"  <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/TheSalesman> <http://dbpedia.org/ontology/director> <http://example.org/AsgharFarhadi> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/TheSalesman> <http://dbpedia.org/ontology/starring> <http://example.org/TaranehAlidoosti> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/AuthorsFromBannedNations> <http://www.w3.org/2000/01/rdf-schema#label> "authors from the seven banned nations"  <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/AnitaHusen> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/Stanford_University> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/TaranehAlidoosti> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/TaranehAlidoosti> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Iranian> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/StaffanDeMistura> <http://dbpedia.org/ontology/related> <http://example.org/SyrianWar> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/RequiemForSyria> <http://dbpedia.org/ontology/theme> "hope and resilience of a population at war"  <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/USConsulateIstanbul> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Istanbul> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/AnitaHusen> <http://xmlns.com/foaf/0.1/name> "Anita Husen"  <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/RequiemForSyria> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/California> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/Translations2018> <http://dbpedia.org/ontology/publisher> <http://example.org/CommaPress> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/AsgharFarhadi> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Academy_Award> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/AnitaHusen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/RequiemForSyria> <http://dbpedia.org/ontology/startDate> "2017-02-07"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/AneallaSafdar> <http://xmlns.com/foaf/0.1/depiction> <http://example.org/images/AneallaSafdar.jpg> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/AneallaSafdar> <http://xmlns.com/foaf/0.1/accountName> "@anealla"  <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/Translations2018> <http://dbpedia.org/ontology/author> <http://example.org/AuthorsFromBannedNations> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/StaffanDeMistura> <http://xmlns.com/foaf/0.1/depiction> <http://example.org/images/StaffanDeMistura.jpg> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/TaranehAlidoosti> <http://xmlns.com/foaf/0.1/name> "Taraneh Alidoosti"  <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/AsgharFarhadi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/USConsulateIstanbul> <http://xmlns.com/foaf/0.1/depiction> <http://example.org/images/USConsulateIstanbul.jpg> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/CommaPress> <http://dbpedia.org/ontology/product> <http://example.org/Translations2018> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/AuthorsFromBannedNations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/MalorieBlackman> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Writer> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/USVisa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Document> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/StaffanDeMistura> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/PokemonGoInSyriaPart1> <http://dbpedia.org/ontology/title> "Pokemon Go In Syria - Part 1"  <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/TravelBan> <http://dbpedia.org/ontology/startDate> "2017"^^<http://www.w3.org/2001/XMLSchema#gYear>  <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/RequiemForSyria> <http://dbpedia.org/ontology/artist> <http://example.org/KhaledAkil> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/AsgharFarhadi> <http://xmlns.com/foaf/0.1/name> "Asghar Farhadi"  <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/PokemonGoInSyriaPart1> <http://dbpedia.org/ontology/artist> <http://example.org/KhaledAkil> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/KhaledAkilVisaApplication> <http://dbpedia.org/ontology/reason> "not demonstrated ties to home country"  <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/CommaPress> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/United_Kingdom> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/SyrianWar> <http://dbpedia.org/ontology/displacedPeople> "millions"^^<http://www.w3.org/2001/XMLSchema#string>  <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/SyrianWar> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Syria> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/SyrianWar> <http://dbpedia.org/ontology/startDate> "2011-03-01"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/StaffanDeMistura> <http://xmlns.com/foaf/0.1/name> "Staffan de Mistura"  <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/KhaledAkil> <http://xmlns.com/foaf/0.1/name> "Khaled Akil"  <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/PokemonGoInSyriaPart1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Artwork> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/RequiemForSyria> <http://dbpedia.org/ontology/title> "Requiem for Syria"  <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/StaffanDeMistura> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/UnitedNationsSpecialEnvoy> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/TravelBan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Legislation> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/MalorieBlackman> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/British> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/MarciaLynxQualey> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/LiteraryCritic> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/AsgharFarhadi> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Iranian> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/AsgharFarhadi> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/FilmDirector> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/KhaledAkilVisaApplication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://dbpedia.org/ontology/applicationFor> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/KhaledAkil> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <https://www.aljazeera.com/news/2017/02/khaled-akil-syrian-artist-refuses-apply-visa-170206080601624.html> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/SyrianWar> <http://dbpedia.org/ontology/casualties> "400000"^^<http://www.w3.org/2001/XMLSchema#integer>  <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/MalorieBlackman> <http://xmlns.com/foaf/0.1/depiction> <http://example.org/images/MalorieBlackman.jpg> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/Translations2018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/LiteraryWork> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/AnitaHusen> <http://dbpedia.org/ontology/occupation> <http://example.org/AssociateDeanOfStudents> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/KhaledAkilVisaApplication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://example.org/USVisa> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/TheSalesman> <http://www.w3.org/2000/01/rdf-schema#label> "The Salesman"  <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/KhaledAkilVisaApplication> <http://dbpedia.org/ontology/date> "2016"^^<http://www.w3.org/2001/XMLSchema#gYear>  <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/TravelBan> <http://dbpedia.org/ontology/status> "suspended"  <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/MarciaLynxQualey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/MarciaLynxQualey> <http://xmlns.com/foaf/0.1/depiction> <http://example.org/images/MarciaLynxQualey.jpg> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/KhaledAkilVisaApplication> <http://dbpedia.org/ontology/issuer> <http://example.org/USConsulateIstanbul> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/MalorieBlackman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/MalorieBlackman> <http://xmlns.com/foaf/0.1/name> "Malorie Blackman"  <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/KhaledAkil> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Syria> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/RequiemForSyria> <http://dbpedia.org/ontology/exhibition> <http://dbpedia.org/resource/Stanford_University> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/KhaledAkil> <http://xmlns.com/foaf/0.1/depiction> <http://example.org/images/KhaledAkil.jpg> <StanfordUniversity-Al-Jazeera-7> .
+ <http://example.org/MaryamMirzakhani> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/MaryamMirzakhani> <http://dbpedia.org/ontology/workInstitution> <http://dbpedia.org/resource/Stanford_University> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/MaryamMirzakhani> <http://dbpedia.org/ontology/knownFor> <http://example.org/SymmetryOfCurvedSurfaces> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/ManjulBhargava> <http://xmlns.com/foaf/0.1/name> "Manjul Bhargava"  <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/FieldsMedal> <http://dbpedia.org/ontology/awardWinner> <http://example.org/ManjulBhargava> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/FieldsMedal> <http://dbpedia.org/ontology/awardWinner> <http://example.org/MaryamMirzakhani> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/ArturAvila> <http://dbpedia.org/ontology/affiliation> <http://example.org/NationalCentreForScientificResearch> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/Mathematician> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Profession> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/TheoreticalPhysics> <http://www.w3.org/2000/01/rdf-schema#label> "Theoretical physics"  <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/FieldsMedal> <http://dbpedia.org/ontology/equivalentAward> <http://dbpedia.org/resource/Nobel_Prize_in_Physics> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/MartinHairer> <http://dbpedia.org/ontology/workInstitution> <http://dbpedia.org/resource/University_of_Warwick> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/ArturAvila> <http://dbpedia.org/ontology/affiliation> <http://example.org/NationalInstituteForPureAndAppliedMathematics> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/MartinHairer> <http://xmlns.com/foaf/0.1/name> "Martin Hairer"  <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/NationalCentreForScientificResearch> <http://xmlns.com/foaf/0.1/name> "National Centre for Scientific Research"  <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/NationalInstituteForPureAndAppliedMathematics> <http://xmlns.com/foaf/0.1/name> "Brazil's National Institute for Pure and Applied Mathematics"  <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/NationalCentreForScientificResearch> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/France> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/MaryamMirzakhani> <http://xmlns.com/foaf/0.1/name> "Maryam Mirzakhani"  <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/ManjulBhargava> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/Mathematician> <http://www.w3.org/2000/01/rdf-schema#label> "Mathematician"  <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/FieldsMedal> <http://dbpedia.org/ontology/awardPresenter> <http://dbpedia.org/resource/International_Congress_of_Mathematicians> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/MaryamMirzakhani> <http://dbpedia.org/ontology/influencedBy> <http://example.org/MathematicalProblems> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/MaryamMirzakhani> <http://dbpedia.org/ontology/influencedBy> <http://example.org/TheoreticalPhysics> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/NationalInstituteForPureAndAppliedMathematics> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Brazil> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/ArturAvila> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/France> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/Mathematics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Field> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/FieldsMedal> <http://www.w3.org/2000/01/rdf-schema#label> "Fields Medal"  <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/MaryamMirzakhani> <http://dbpedia.org/ontology/field> <http://example.org/Mathematics> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/MaryamMirzakhani> <http://dbpedia.org/ontology/occupation> <http://example.org/Mathematician> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/FieldsMedal> <http://dbpedia.org/ontology/awardWinner> <http://example.org/ArturAvila> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/MaryamMirzakhani> <http://dbpedia.org/ontology/award> <http://example.org/FieldsMedal> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/MaryamMirzakhani> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Tehran> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/MaryamMirzakhani> <http://xmlns.com/foaf/0.1/gender> "female"  <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/MathematicalProblems> <http://www.w3.org/2000/01/rdf-schema#label> "Mathematical problems"  <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/MathematicalProblems> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Concept> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/FieldsMedal> <http://dbpedia.org/ontology/awardDiscipline> <http://example.org/Mathematics> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/SymmetryOfCurvedSurfaces> <http://www.w3.org/2000/01/rdf-schema#label> "Symmetry of curved surfaces"  <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/MartinHairer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/MaryamMirzakhani> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Iran> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/ArturAvila> <http://xmlns.com/foaf/0.1/name> "Artur Avila"  <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/NationalCentreForScientificResearch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/TheoreticalPhysics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Field> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/FieldsMedal> <http://dbpedia.org/ontology/established> "1936"^^<http://www.w3.org/2001/XMLSchema#gYear>  <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/MaryamMirzakhani> <http://dbpedia.org/ontology/almaMater> <http://dbpedia.org/resource/Harvard_University> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/Mathematics> <http://www.w3.org/2000/01/rdf-schema#label> "Mathematics"  <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/FieldsMedal> <http://dbpedia.org/ontology/awardWinner> <http://example.org/MartinHairer> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/SymmetryOfCurvedSurfaces> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Work> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/FieldsMedal> <http://dbpedia.org/ontology/awardPresenter> <http://dbpedia.org/resource/Park_Geun-hye> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/MartinHairer> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/United_Kingdom> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/ArturAvila> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/NationalInstituteForPureAndAppliedMathematics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/ArturAvila> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Brazil> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/FieldsMedal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/ManjulBhargava> <http://dbpedia.org/ontology/workInstitution> <http://dbpedia.org/resource/Princeton_University> <StanfordUniversity-Al-Jazeera-8> .
+ <http://example.org/ontology#TheranosInc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#InfectionResearch> <http://schema.org/startDate> "2008"^^<http://www.w3.org/2001/XMLSchema#gYear>  <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#MisleadingInvestors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#TheranosProspectus> <http://schema.org/text> "Theranos collaboration with the military"  <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#NovartisAG> <http://schema.org/name> "Novartis AG"  <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#EndangeringPatients> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#CriminalFraudTrial> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#ElizabethHolmes> <http://schema.org/contactPoint> <http://example.org/ontology#DepartmentOfDefense> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#DefenseStrategy> <http://schema.org/description> "Strategy to recast Holmes as an innovator"  <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#JohnCarreyrou> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#TheranosBloodTestingMachineV3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#DepartmentOfDefense> <http://schema.org/project> <http://example.org/ontology#DiabetesResearch> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#TheranosInc> <http://schema.org/founder> <http://example.org/ontology#ElizabethHolmes> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#BadBloodBook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#TheranosBloodTestingMachineDemo> <http://schema.org/description> "Demonstration for Novartis AG"  <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#ElizabethHolmes> <http://schema.org/jobTitle> "Founder"  <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#BadBloodBook> <http://schema.org/author> <http://example.org/ontology#JohnCarreyrou> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#TheranosInc> <http://schema.org/location> <http://example.org/ontology#California> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#Testimony> <http://schema.org/description> "Holmes's testimony at her trial"  <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#ElizabethHolmes> <http://schema.org/alumniOf> "Stanford University"  <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#TheranosBloodTestingMachineDemo> <http://schema.org/startDate> "2006"^^<http://www.w3.org/2001/XMLSchema#gYear>  <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#ResearchProgramWithStanford> <http://schema.org/organizer> <http://example.org/ontology#TheranosInc> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#JohnCarreyrou> <http://schema.org/authorOf> <http://example.org/ontology#BadBloodBook> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#TheranosBloodTestingMachineDemo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#InfectionResearch> <http://schema.org/endDate> "2009"^^<http://www.w3.org/2001/XMLSchema#gYear>  <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#CriminalFraudTrial> <http://schema.org/participant> <http://example.org/ontology#ElizabethHolmes> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#CriminalFraudTrial> <http://schema.org/description> "Elizabeth Holmes's criminal fraud trial"  <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#PTSDResearch> <http://schema.org/startDate> "2008"^^<http://www.w3.org/2001/XMLSchema#gYear>  <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#TheranosBloodTestingMachineDemo> <http://schema.org/organizer> <http://example.org/ontology#TheranosInc> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#ElizabethHolmes> <http://schema.org/memberOf> <http://example.org/ontology#TheranosInc> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#CriminalFraudTrial> <http://schema.org/alleges> <http://example.org/ontology#MisleadingInvestors> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#StanfordUniversity> <http://schema.org/name> "Stanford University"  <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#CriminalFraudTrial> <http://schema.org/alleges> <http://example.org/ontology#EndangeringPatients> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#DiabetesResearch> <http://schema.org/endDate> "2009"^^<http://www.w3.org/2001/XMLSchema#gYear>  <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#TheranosBloodTestingMachineV3> <http://schema.org/dateCreated> "2007"^^<http://www.w3.org/2001/XMLSchema#gYear>  <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#Testimony> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#ResearchProgramWithStanford> <http://schema.org/attendee> <http://example.org/ontology#StanfordUniversity> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#TheranosProspectus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#TheranosInc> <http://schema.org/contactPoint> <http://example.org/ontology#DepartmentOfDefense> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#AmandaKramer> <http://schema.org/affiliation> <http://example.org/ontology#CovingtonAndBurling> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#ElizabethHolmes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#BadBloodBook> <http://schema.org/name> "Bad Blood: Secrets and Lies in a Silicon Valley Startup"  <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#ElizabethHolmes> <http://schema.org/contactPoint> <http://example.org/ontology#USMilitary> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#JohnCarreyrou> <http://xmlns.com/foaf/0.1/name> "John Carreyrou"  <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#ResearchProgramWithStanford> <http://schema.org/description> "Research program to study sepsis"  <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#TheranosProspectus> <http://schema.org/author> <http://example.org/ontology#TheranosInc> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#DepartmentOfDefense> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#MisleadingInvestors> <http://schema.org/description> "Allegation of misleading investors"  <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#ElizabethHolmes> <http://xmlns.com/foaf/0.1/age> "37"^^<http://www.w3.org/2001/XMLSchema#integer>  <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#ElizabethHolmes> <http://schema.org/testimony> <http://example.org/ontology#Testimony> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#DepartmentOfDefense> <http://schema.org/project> <http://example.org/ontology#InfectionResearch> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#Testimony> <http://schema.org/about> <http://example.org/ontology#CriminalFraudTrial> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#DiabetesResearch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ResearchProject> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#DefenseStrategy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#TheranosInc> <http://schema.org/publishes> <http://example.org/ontology#TheranosProspectus> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#TheranosInc> <http://schema.org/hasEvent> <http://example.org/ontology#TheranosBloodTestingMachineDemo> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#CovingtonAndBurling> <http://schema.org/name> "Covington and Burling"  <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#TheranosInc> <http://schema.org/name> "Theranos Inc."  <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#ResearchProgramWithStanford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#AmandaKramer> <http://xmlns.com/foaf/0.1/name> "Amanda Kramer"  <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#CriminalFraudTrial> <http://schema.org/startDate> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#DiabetesResearch> <http://schema.org/startDate> "2008"^^<http://www.w3.org/2001/XMLSchema#gYear>  <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#CriminalFraudTrial> <http://schema.org/location> <http://example.org/ontology#California> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#PTSDResearch> <http://schema.org/endDate> "2009"^^<http://www.w3.org/2001/XMLSchema#gYear>  <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#TheranosBloodTestingMachineV3> <http://schema.org/name> "Theranos Blood Testing Machine 3.0"  <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#TheranosBloodTestingMachineDemo> <http://schema.org/attendee> <http://example.org/ontology#NovartisAG> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#Testimony> <http://schema.org/organizer> <http://example.org/ontology#ElizabethHolmes> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#USMilitary> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#PTSDResearch> <http://schema.org/about> "PTSD markers in the blood"  <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#TheranosBloodTestingMachineV3> <http://schema.org/manufacturer> <http://example.org/ontology#TheranosInc> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#InfectionResearch> <http://schema.org/about> "Detecting infections in blood"  <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#PTSDResearch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ResearchProject> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#TheranosInc> <http://schema.org/hasEvent> <http://example.org/ontology#ResearchProgramWithStanford> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#DepartmentOfDefense> <http://schema.org/name> "Department of Defense"  <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#AmandaKramer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#DepartmentOfDefense> <http://schema.org/project> <http://example.org/ontology#PTSDResearch> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#TheranosInc> <http://schema.org/hasProduct> <http://example.org/ontology#TheranosBloodTestingMachineV3> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#InfectionResearch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ResearchProject> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#ElizabethHolmes> <http://xmlns.com/foaf/0.1/name> "Elizabeth Holmes"  <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#StanfordUniversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EducationalOrganization> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#EndangeringPatients> <http://schema.org/description> "Allegation of endangering patients with inaccurate lab results"  <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#NovartisAG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#USMilitary> <http://schema.org/name> "U.S. Military"  <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#CovingtonAndBurling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <StanfordUniversity-Al-Jazeera-9> .
+ <http://example.org/ontology#DiabetesResearch> <http://schema.org/about> "Detecting diabetes in blood"  <StanfordUniversity-Al-Jazeera-9> .

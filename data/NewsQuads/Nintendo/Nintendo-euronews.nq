@@ -1,0 +1,648 @@
+ <http://example.org/sony/AccessController> <http://schema.org/price> <http://Nintendo-euronews-0.com/blank#n12bb5de3429e41a8b1d844340d6caef0b2>  <Nintendo-euronews-0> .
+ <http://Nintendo-euronews-0.com/blank#n12bb5de3429e41a8b1d844340d6caef0b1> <http://schema.org/currency> "EUR"  <Nintendo-euronews-0> .
+ <http://dbpedia.org/resource/PlayStation> <http://dbpedia.org/ontology/accessory> <http://example.org/sony/AccessController> <Nintendo-euronews-0> .
+ <http://example.org/sony/JeremyLecerf> <http://dbpedia.org/ontology/interest> <http://Nintendo-euronews-0.com/blank#n12bb5de3429e41a8b1d844340d6caef0b4>  <Nintendo-euronews-0> .
+ <http://example.org/sony/AccessController> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Video_game_industry> <Nintendo-euronews-0> .
+ <http://example.org/sony/AccessController> <http://schema.org/price> <http://Nintendo-euronews-0.com/blank#n12bb5de3429e41a8b1d844340d6caef0b1>  <Nintendo-euronews-0> .
+ <http://example.org/sony/MartinShane> <http://example.org/sony/uses> <http://example.org/sony/AccessController> <Nintendo-euronews-0> .
+ <http://Nintendo-euronews-0.com/blank#n12bb5de3429e41a8b1d844340d6caef0b2> <http://schema.org/amount> "89.99"^^<http://www.w3.org/2001/XMLSchema#float>  <Nintendo-euronews-0> .
+ <http://dbpedia.org/resource/San_Mateo__California> <http://dbpedia.org/ontology/location> <http://example.org/sony/MartinShane> <Nintendo-euronews-0> .
+ <http://example.org/sony/PaulLane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-euronews-0> .
+ <http://dbpedia.org/resource/Scope> <http://dbpedia.org/ontology/report> <http://Nintendo-euronews-0.com/blank#n12bb5de3429e41a8b1d844340d6caef0b3>  <Nintendo-euronews-0> .
+ <http://Nintendo-euronews-0.com/blank#n12bb5de3429e41a8b1d844340d6caef0b2> <http://schema.org/currency> "USD"  <Nintendo-euronews-0> .
+ <http://example.org/sony/JeremyLecerf> <http://dbpedia.org/ontology/nationality> "French"  <Nintendo-euronews-0> .
+ <http://example.org/sony/AccessController> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Nintendo-euronews-0> .
+ <http://Nintendo-euronews-0.com/blank#n12bb5de3429e41a8b1d844340d6caef0b3> <http://dbpedia.org/ontology/abstract> "Two-thirds of disabled gamers face barriers to playing games, and 40 percent have bought video games that they were unable to use because of poor accessibility."  <Nintendo-euronews-0> .
+ <http://example.org/sony/AccessController> <http://dbpedia.org/ontology/abstract> "An innovative controller developed in collaboration with disabled gamers to address accessibility challenges in traditional gaming."  <Nintendo-euronews-0> .
+ <http://example.org/sony/JeremyLecerf> <http://dbpedia.org/ontology/disease> <http://dbpedia.org/resource/Myopathy> <Nintendo-euronews-0> .
+ <http://dbpedia.org/resource/Scope> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Nintendo-euronews-0> .
+ <http://example.org/sony/JeremyLecerf> <http://xmlns.com/foaf/0.1/name> "Jeremy Lecerf"  <Nintendo-euronews-0> .
+ <http://dbpedia.org/resource/Sony> <http://dbpedia.org/ontology/product> <http://example.org/sony/AccessController> <Nintendo-euronews-0> .
+ <http://example.org/sony/JeremyLecerf> <http://xmlns.com/foaf/0.1/statement> "It's good to see that the industry is really taking the plunge on the issue of accessibility."  <Nintendo-euronews-0> .
+ <http://dbpedia.org/resource/Stray_(video_game)> <http://dbpedia.org/ontology/videoGameTestedBy> <http://example.org/sony/JeremyLecerf> <Nintendo-euronews-0> .
+ <http://dbpedia.org/resource/London> <http://dbpedia.org/ontology/location> <http://example.org/sony/JeremyLecerf> <Nintendo-euronews-0> .
+ <http://example.org/sony/MartinShane> <http://xmlns.com/foaf/0.1/depiction> <https://example.org/photo/MartinShane.jpg> <Nintendo-euronews-0> .
+ <http://example.org/sony/JeremyLecerf> <http://dbpedia.org/ontology/alias> "Mr Gyzmo"  <Nintendo-euronews-0> .
+ <http://example.org/sony/PaulLane> <http://xmlns.com/foaf/0.1/statement> "The button sizes are really huge and I game with the side of my hands and my hands are pretty big. So me being able to space off the buttons, I'll be able to press the buttons in a way where I'm not hitting two buttons at a time."  <Nintendo-euronews-0> .
+ <http://example.org/sony/AccessController> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/Sony> <Nintendo-euronews-0> .
+ <http://Nintendo-euronews-0.com/blank#n12bb5de3429e41a8b1d844340d6caef0b1> <http://schema.org/amount> "89.99"^^<http://www.w3.org/2001/XMLSchema#float>  <Nintendo-euronews-0> .
+ <http://example.org/sony/MartinShane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-euronews-0> .
+ <http://example.org/sony/AccessController> <http://dbpedia.org/ontology/releaseDate> "2023-12-06"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-euronews-0> .
+ <http://example.org/sony/PaulLane> <http://schema.org/memberOf> <http://dbpedia.org/resource/PlayStation> <Nintendo-euronews-0> .
+ <http://Nintendo-euronews-0.com/blank#n12bb5de3429e41a8b1d844340d6caef0b3> <http://dbpedia.org/ontology/date> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Nintendo-euronews-0> .
+ <http://example.org/sony/MartinShane> <http://xmlns.com/foaf/0.1/name> "Martin Shane"  <Nintendo-euronews-0> .
+ <http://example.org/sony/JeremyLecerf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-euronews-0> .
+ <http://example.org/sony/PaulLane> <http://xmlns.com/foaf/0.1/name> "Paul Lane"  <Nintendo-euronews-0> .
+ <http://Nintendo-euronews-0.com/blank#n12bb5de3429e41a8b1d844340d6caef0b3> <http://dbpedia.org/ontology/title> "2021 report on video game accessibility"  <Nintendo-euronews-0> .
+ <http://example.org/sony/PaulLane> <http://dbpedia.org/ontology/occupation> "Accessibility Consultant for PlayStation"  <Nintendo-euronews-0> .
+ <http://Nintendo-euronews-0.com/blank#n12bb5de3429e41a8b1d844340d6caef0b4> <http://dbpedia.org/ontology/abstract> "Video games have enabled me to have a life that is closer to normality, to have a social life."  <Nintendo-euronews-0> .
+ <http://Nintendo-euronews-1.com/blank#n0fd042198f3e499882f7565cedfa61d4b1> <http://example.org/ontology/purpose> "Promoting Mario"  <Nintendo-euronews-1> .
+ <http://dbpedia.org/resource/Super_Mario_64> <http://dbpedia.org/ontology/releaseDate> "1996"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Nintendo-euronews-1> .
+ <http://example.org/ontology/GuinnessWorldRecord2019> <http://guinnessworldrecords.com/ontology/category> "Most video game voiceover performances as the same character"  <Nintendo-euronews-1> .
+ <http://dbpedia.org/resource/Nintendo_of_America> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/America> <Nintendo-euronews-1> .
+ <http://example.org/ontology/charlesMartinet> <http://example.org/ontology/activity> <http://Nintendo-euronews-1.com/blank#n0fd042198f3e499882f7565cedfa61d4b1>  <Nintendo-euronews-1> .
+ <http://example.org/ontology/charlesMartinet> <http://example.org/ontology/role> "Mario Ambassador"  <Nintendo-euronews-1> .
+ <http://example.org/ontology/charlesMartinet> <http://xmlns.com/foaf/0.1/name> "Charles Martinet"  <Nintendo-euronews-1> .
+ <http://example.org/ontology/CanadianGamingAndComicsExpo> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Canada> <Nintendo-euronews-1> .
+ <http://dbpedia.org/resource/Nintendo_of_America> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-euronews-1> .
+ <http://dbpedia.org/resource/Nintendo_of_America> <http://dbpedia.org/ontology/statement> <http://example.org/ontology/charlesMartinetStatement> <Nintendo-euronews-1> .
+ <http://Nintendo-euronews-1.com/blank#n0fd042198f3e499882f7565cedfa61d4b2> <http://example.org/ontology/action> "Performing Nintendo character voices"  <Nintendo-euronews-1> .
+ <http://example.org/ontology/GuinnessWorldRecord2019> <http://guinnessworldrecords.com/ontology/holder> <http://example.org/ontology/charlesMartinet> <Nintendo-euronews-1> .
+ <http://Nintendo-euronews-1.com/blank#n0fd042198f3e499882f7565cedfa61d4b2> <http://example.org/ontology/action> "Signing autographs"  <Nintendo-euronews-1> .
+ <http://example.org/ontology/CanadianGamingAndComicsExpo> <http://example.org/ontology/participant> <http://example.org/ontology/charlesMartinet> <Nintendo-euronews-1> .
+ <http://Nintendo-euronews-1.com/blank#n0fd042198f3e499882f7565cedfa61d4b1> <http://example.org/ontology/activityType> "Traveling around the world"  <Nintendo-euronews-1> .
+ <http://example.org/ontology/charlesMartinetStatement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> "Mario Ambassador"  <Nintendo-euronews-1> .
+ <http://example.org/ontology/charlesMartinetStatement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> <Nintendo-euronews-1> .
+ <http://example.org/ontology/charlesMartinet> <http://example.org/ontology/voiceOf> <http://dbpedia.org/resource/Luigi> <Nintendo-euronews-1> .
+ <http://example.org/ontology/charlesMartinet> <http://example.org/ontology/voiceOf> <http://dbpedia.org/resource/Wario> <Nintendo-euronews-1> .
+ <http://example.org/ontology/charlesMartinet> <http://example.org/ontology/statement> "It’s been a privilege working with Charles to help bring Mario to life for so many years and we want to thank and celebrate him"  <Nintendo-euronews-1> .
+ <http://example.org/ontology/charlesMartinetStatement> <http://schema.org/datePublished> "2019"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Nintendo-euronews-1> .
+ <http://example.org/ontology/CanadianGamingAndComicsExpo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Nintendo-euronews-1> .
+ <http://example.org/ontology/SuperMarioBrosWonder> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> <Nintendo-euronews-1> .
+ <http://example.org/ontology/charlesMartinet> <http://example.org/ontology/voiceOf> <http://dbpedia.org/resource/Mario> <Nintendo-euronews-1> .
+ <http://example.org/ontology/charlesMartinet> <http://example.org/ontology/voiceOf> <http://dbpedia.org/resource/Waluigi> <Nintendo-euronews-1> .
+ <http://example.org/ontology/CanadianGamingAndComicsExpo> <http://example.org/ontology/quote> "I want to voice Mario until I drop dead"  <Nintendo-euronews-1> .
+ <http://example.org/ontology/GuinnessWorldRecord2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://guinnessworldrecords.com/ontology/Record> <Nintendo-euronews-1> .
+ <http://example.org/ontology/charlesMartinet> <http://schema.org/employee> <http://dbpedia.org/resource/Nintendo_of_America> <Nintendo-euronews-1> .
+ <http://example.org/ontology/SuperMarioBrosWonder> <http://dbpedia.org/ontology/releaseDate> "2023-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Nintendo-euronews-1> .
+ <http://example.org/ontology/charlesMartinet> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Voice_actor> <Nintendo-euronews-1> .
+ <http://example.org/ontology/charlesMartinet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-euronews-1> .
+ <http://example.org/ontology/charlesMartinetStatement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://dbpedia.org/ontology/occupation> <Nintendo-euronews-1> .
+ <http://dbpedia.org/resource/Nintendo_of_America> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Video_game_industry> <Nintendo-euronews-1> .
+ <http://dbpedia.org/resource/The_Super_Mario_Bros_Movie> <http://dbpedia.org/ontology/character> "Giuseppe"  <Nintendo-euronews-1> .
+ <http://example.org/ontology/CanadianGamingAndComicsExpo> <http://dbpedia.org/ontology/date> "2017"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Nintendo-euronews-1> .
+ <http://example.org/ontology/GuinnessWorldRecord2019> <http://guinnessworldrecords.com/ontology/year> "2019"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Nintendo-euronews-1> .
+ <http://example.org/ontology/charlesMartinetStatement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://example.org/ontology/charlesMartinet> <Nintendo-euronews-1> .
+ <http://Nintendo-euronews-1.com/blank#n0fd042198f3e499882f7565cedfa61d4b1> <http://example.org/ontology/includes> <http://Nintendo-euronews-1.com/blank#n0fd042198f3e499882f7565cedfa61d4b2>  <Nintendo-euronews-1> .
+ <http://dbpedia.org/resource/Super_Mario_64> <http://dbpedia.org/ontology/contributor> <http://example.org/ontology/charlesMartinet> <Nintendo-euronews-1> .
+ <http://dbpedia.org/resource/The_Super_Mario_Bros_Movie> <http://dbpedia.org/ontology/contributor> <http://example.org/ontology/charlesMartinet> <Nintendo-euronews-1> .
+ <http://example.org/ontology/SuperMarioBrosWonder> <http://dbpedia.org/ontology/series> <http://dbpedia.org/resource/Super_Mario_series> <Nintendo-euronews-1> .
+ <http://example.org/ontology/charlesMartinet> <http://dbpedia.org/ontology/award> <http://example.org/ontology/GuinnessWorldRecord2019> <Nintendo-euronews-1> .
+ <http://example.org/ontology#SuperMarioBrosMovie> <http://dbpedia.org/ontology/basedOn> <http://dbpedia.org/resource/Super_Mario> <Nintendo-euronews-2> .
+ <http://example.org/ontology#NintendoQ1Profit2023> <http://dbpedia.org/ontology/quarter> "1"^^<http://www.w3.org/2001/XMLSchema#int>  <Nintendo-euronews-2> .
+ <http://dbpedia.org/resource/Nintendo> <http://schema.org/hasProduct> <http://example.org/ontology#SuperMarioBrosMovie> <Nintendo-euronews-2> .
+ <http://example.org/ontology#NintendoQ1Profit2023> <http://dbpedia.org/ontology/profit> "181000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-euronews-2> .
+ <http://dbpedia.org/resource/Nintendo> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Kyoto> <Nintendo-euronews-2> .
+ <http://example.org/ontology#NintendoQ1Profit2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FinancialReport> <Nintendo-euronews-2> .
+ <http://example.org/ontology#DownloadableVersion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Nintendo-euronews-2> .
+ <http://example.org/ontology#NintendoSwitchGames> <http://dbpedia.org/ontology/sales> "52000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-euronews-2> .
+ <http://example.org/ontology#NintendoSwitch> <http://dbpedia.org/ontology/sales> "3900000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-euronews-2> .
+ <http://dbpedia.org/resource/Nintendo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-euronews-2> .
+ <http://dbpedia.org/resource/Nintendo> <http://dbpedia.org/ontology/subsidiary> <http://example.org/ontology#NintendoIPBusiness> <Nintendo-euronews-2> .
+ <http://dbpedia.org/resource/Nintendo> <http://dbpedia.org/ontology/profitIncrease> "52"^^<http://www.w3.org/2001/XMLSchema#percent>  <Nintendo-euronews-2> .
+ <http://example.org/ontology#NintendoIPBusiness> <http://dbpedia.org/ontology/revenue> "1200000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-euronews-2> .
+ <http://example.org/ontology#NintendoQ1Profit2023> <http://dbpedia.org/ontology/profitIncrease> "52"^^<http://www.w3.org/2001/XMLSchema#percent>  <Nintendo-euronews-2> .
+ <http://example.org/ontology#NintendoQ1Profit2023> <http://dbpedia.org/ontology/year> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Nintendo-euronews-2> .
+ <http://dbpedia.org/resource/Nintendo> <http://dbpedia.org/ontology/netIncome> "181000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-euronews-2> .
+ <http://example.org/ontology#NintendoSwitch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Nintendo-euronews-2> .
+ <http://example.org/ontology#LegendOfZeldaTearsOfTheKingdom> <http://dbpedia.org/ontology/series> <http://dbpedia.org/resource/The_Legend_of_Zelda> <Nintendo-euronews-2> .
+ <http://example.org/ontology#SuperMarioBrosMovie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <Nintendo-euronews-2> .
+ <http://example.org/ontology#SuperMarioBrosMovie> <http://dbpedia.org/ontology/animationRank> "3"^^<http://www.w3.org/2001/XMLSchema#int>  <Nintendo-euronews-2> .
+ <http://example.org/ontology#SuperMarioBrosWonder> <http://dbpedia.org/ontology/releaseDate> "2023-10-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-euronews-2> .
+ <http://example.org/ontology#NintendoFullYearForecast> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FinancialReport> <Nintendo-euronews-2> .
+ <http://dbpedia.org/resource/Nintendo> <http://schema.org/hasProduct> <http://example.org/ontology#LegendOfZeldaTearsOfTheKingdom> <Nintendo-euronews-2> .
+ <http://example.org/ontology#NintendoIPBusiness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Business> <Nintendo-euronews-2> .
+ <http://example.org/ontology#LegendOfZeldaTearsOfTheKingdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/VideoGame> <Nintendo-euronews-2> .
+ <http://example.org/ontology#LegendOfZeldaTearsOfTheKingdom> <http://dbpedia.org/ontology/successRank> "1"^^<http://www.w3.org/2001/XMLSchema#int>  <Nintendo-euronews-2> .
+ <http://example.org/ontology#Pikmin4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/VideoGame> <Nintendo-euronews-2> .
+ <http://example.org/ontology#NintendoFullYearForecast> <http://dbpedia.org/ontology/profit> "340000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-euronews-2> .
+ <http://dbpedia.org/resource/Nintendo> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Video_game_industry> <Nintendo-euronews-2> .
+ <http://example.org/ontology#Pikmin4> <http://dbpedia.org/ontology/releaseDate> "2023-05-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-euronews-2> .
+ <http://example.org/ontology#NintendoFullYearForecast> <http://dbpedia.org/ontology/year> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Nintendo-euronews-2> .
+ <http://example.org/ontology#SuperMarioBrosMovie> <http://dbpedia.org/ontology/gross> "1300000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-euronews-2> .
+ <http://example.org/ontology#NintendoQ1Profit2023> <http://dbpedia.org/ontology/sales> "461300000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-euronews-2> .
+ <http://example.org/ontology#SuperMarioBrosMovie> <http://dbpedia.org/ontology/successRank> "1"^^<http://www.w3.org/2001/XMLSchema#int>  <Nintendo-euronews-2> .
+ <http://dbpedia.org/resource/Nintendo> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Nintendo_Switch> <Nintendo-euronews-2> .
+ <http://dbpedia.org/resource/Nintendo> <http://dbpedia.org/ontology/sales> "461300000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-euronews-2> .
+ <http://dbpedia.org/resource/Nintendo> <http://schema.org/hasProduct> <http://example.org/ontology#Pikmin4> <Nintendo-euronews-2> .
+ <http://example.org/ontology#SuperMarioBrosWonder> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/VideoGame> <Nintendo-euronews-2> .
+ <http://example.org/ontology#NintendoSwitchGames> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Nintendo-euronews-2> .
+ <http://example.org/ontology#Pikmin4> <http://dbpedia.org/ontology/availableAs> <http://example.org/ontology#DownloadableVersion> <Nintendo-euronews-2> .
+ <http://dbpedia.org/resource/Nintendo> <http://schema.org/hasProduct> <http://example.org/ontology#SuperMarioBrosWonder> <Nintendo-euronews-2> .
+ <http://example.org/ontology#NintendoFullYearForecast> <http://dbpedia.org/ontology/profitDecrease> "21"^^<http://www.w3.org/2001/XMLSchema#percent>  <Nintendo-euronews-2> .
+ <http://example.org/games/DonkeyKong> <http://dbpedia.org/ontology/developer> <http://Nintendo-euronews-3.com/blank#n01037b6c24f2406fb417a8df4e5e1853b5>  <Nintendo-euronews-3> .
+ <http://example.org/games/MarioBros> <http://dbpedia.org/ontology/designer> <http://Nintendo-euronews-3.com/blank#n01037b6c24f2406fb417a8df4e5e1853b2>  <Nintendo-euronews-3> .
+ <http://example.org/companies/Nintendo> <http://xmlns.com/foaf/0.1/name> "Nintendo"  <Nintendo-euronews-3> .
+ <http://Nintendo-euronews-3.com/blank#n01037b6c24f2406fb417a8df4e5e1853b7> <http://xmlns.com/foaf/0.1/name> "Nintendo"  <Nintendo-euronews-3> .
+ <http://example.org/people/SatoruIwata> <http://xmlns.com/foaf/0.1/name> "Satoru Iwata"  <Nintendo-euronews-3> .
+ <http://example.org/games/MarioBros> <http://schema.org/gamePlatform> "Arcade"  <Nintendo-euronews-3> .
+ <http://example.org/games/SuperMarioBros> <http://schema.org/name> "Super Mario Bros."  <Nintendo-euronews-3> .
+ <http://example.org/games/SuperMarioBros> <http://dbpedia.org/ontology/releaseDate> "1985"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Nintendo-euronews-3> .
+ <http://example.org/games/MarioBros> <http://schema.org/name> "Mario Bros."  <Nintendo-euronews-3> .
+ <http://example.org/games/MarioBros> <http://schema.org/description> "A 2D arcade game where players control Mario or Luigi to defeat enemies."  <Nintendo-euronews-3> .
+ <http://example.org/companies/Nintendo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-euronews-3> .
+ <http://Nintendo-euronews-3.com/blank#n01037b6c24f2406fb417a8df4e5e1853b4> <http://xmlns.com/foaf/0.1/name> "Mario"  <Nintendo-euronews-3> .
+ <http://example.org/companies/Nintendo> <http://dbpedia.org/ontology/industry> "Video games"  <Nintendo-euronews-3> .
+ <http://example.org/games/MarioBrosGameAndWatch> <http://schema.org/gamePlatform> "Game & Watch"  <Nintendo-euronews-3> .
+ <http://Nintendo-euronews-3.com/blank#n01037b6c24f2406fb417a8df4e5e1853b5> <http://xmlns.com/foaf/0.1/name> "Nintendo"  <Nintendo-euronews-3> .
+ <http://example.org/subjects/VideoGames> <http://schema.org/name> "Video Games"  <Nintendo-euronews-3> .
+ <http://example.org/games/SuperMarioBros> <http://schema.org/description> "A platforming game where players play as Mario jumping on Goombahs to reach a flag at the end of the level."  <Nintendo-euronews-3> .
+ <http://example.org/games/MarioBrosGameAndWatch> <http://dbpedia.org/ontology/developer> <http://Nintendo-euronews-3.com/blank#n01037b6c24f2406fb417a8df4e5e1853b8>  <Nintendo-euronews-3> .
+ <http://Nintendo-euronews-3.com/blank#n01037b6c24f2406fb417a8df4e5e1853b1> <http://xmlns.com/foaf/0.1/name> "Nintendo"  <Nintendo-euronews-3> .
+ <http://example.org/games/DonkeyKong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/VideoGame> <Nintendo-euronews-3> .
+ <http://example.org/games/DonkeyKong> <http://schema.org/character> <http://Nintendo-euronews-3.com/blank#n01037b6c24f2406fb417a8df4e5e1853b4>  <Nintendo-euronews-3> .
+ <http://example.org/people/GunpeiYokoi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-euronews-3> .
+ <http://example.org/games/MarioBros> <http://dbpedia.org/ontology/predecessor> <http://example.org/games/DonkeyKong> <Nintendo-euronews-3> .
+ <http://example.org/people/GunpeiYokoi> <http://dbpedia.org/ontology/occupation> "Video game designer"  <Nintendo-euronews-3> .
+ <http://example.org/games/MarioBros> <http://purl.org/dc/terms/subject> <http://example.org/subjects/VideoGames> <Nintendo-euronews-3> .
+ <http://Nintendo-euronews-3.com/blank#n01037b6c24f2406fb417a8df4e5e1853b6> <http://xmlns.com/foaf/0.1/name> "Shigeru Miyamoto"  <Nintendo-euronews-3> .
+ <http://example.org/games/MarioBros> <http://dbpedia.org/ontology/developer> <http://Nintendo-euronews-3.com/blank#n01037b6c24f2406fb417a8df4e5e1853b1>  <Nintendo-euronews-3> .
+ <http://example.org/games/MarioBros> <http://dbpedia.org/ontology/successor> <http://example.org/games/SuperMarioBros> <Nintendo-euronews-3> .
+ <http://Nintendo-euronews-3.com/blank#n01037b6c24f2406fb417a8df4e5e1853b4> <http://dbpedia.org/ontology/alias> "Jumpman"  <Nintendo-euronews-3> .
+ <http://example.org/games/SuperMarioBros> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/VideoGame> <Nintendo-euronews-3> .
+ <http://example.org/games/MarioBrosGameAndWatch> <http://schema.org/name> "Mario Bros. (Game & Watch)"  <Nintendo-euronews-3> .
+ <http://example.org/games/SuperMarioBros> <http://dbpedia.org/ontology/developer> <http://Nintendo-euronews-3.com/blank#n01037b6c24f2406fb417a8df4e5e1853b7>  <Nintendo-euronews-3> .
+ <http://example.org/games/DonkeyKong> <http://dbpedia.org/ontology/designer> <http://Nintendo-euronews-3.com/blank#n01037b6c24f2406fb417a8df4e5e1853b6>  <Nintendo-euronews-3> .
+ <http://Nintendo-euronews-3.com/blank#n01037b6c24f2406fb417a8df4e5e1853b3> <http://xmlns.com/foaf/0.1/name> "Gunpei Yokoi"  <Nintendo-euronews-3> .
+ <http://example.org/games/MarioBrosGameAndWatch> <http://schema.org/description> "A game where the Italian brothers work at a bottling plant."  <Nintendo-euronews-3> .
+ <http://example.org/people/GunpeiYokoi> <http://xmlns.com/foaf/0.1/name> "Gunpei Yokoi"  <Nintendo-euronews-3> .
+ <http://example.org/games/MarioBrosGameAndWatch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/VideoGame> <Nintendo-euronews-3> .
+ <http://example.org/games/MarioBros> <http://dbpedia.org/ontology/designer> <http://Nintendo-euronews-3.com/blank#n01037b6c24f2406fb417a8df4e5e1853b3>  <Nintendo-euronews-3> .
+ <http://example.org/people/ShigeruMiyamoto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-euronews-3> .
+ <http://example.org/games/DonkeyKong> <http://schema.org/gamePlatform> "Arcade"  <Nintendo-euronews-3> .
+ <http://example.org/games/DonkeyKong> <http://dbpedia.org/ontology/releaseDate> "1981"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Nintendo-euronews-3> .
+ <http://Nintendo-euronews-3.com/blank#n01037b6c24f2406fb417a8df4e5e1853b2> <http://xmlns.com/foaf/0.1/name> "Shigeru Miyamoto"  <Nintendo-euronews-3> .
+ <http://example.org/companies/Nintendo> <http://dbpedia.org/ontology/foundationDate> "1889"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Nintendo-euronews-3> .
+ <http://example.org/games/MarioBrosGameAndWatch> <http://dbpedia.org/ontology/releaseDate> "1983"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Nintendo-euronews-3> .
+ <http://example.org/people/SatoruIwata> <http://dbpedia.org/ontology/occupation> "Former Nintendo president"  <Nintendo-euronews-3> .
+ <http://example.org/subjects/VideoGames> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> <Nintendo-euronews-3> .
+ <http://example.org/games/DonkeyKong> <http://schema.org/name> "Donkey Kong"  <Nintendo-euronews-3> .
+ <http://example.org/games/SuperMarioBros> <http://schema.org/gamePlatform> "Nintendo Entertainment System (NES)"  <Nintendo-euronews-3> .
+ <http://example.org/people/ShigeruMiyamoto> <http://dbpedia.org/ontology/occupation> "Video game designer"  <Nintendo-euronews-3> .
+ <http://Nintendo-euronews-3.com/blank#n01037b6c24f2406fb417a8df4e5e1853b8> <http://xmlns.com/foaf/0.1/name> "Nintendo"  <Nintendo-euronews-3> .
+ <http://example.org/people/SatoruIwata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-euronews-3> .
+ <http://example.org/people/ShigeruMiyamoto> <http://xmlns.com/foaf/0.1/name> "Shigeru Miyamoto"  <Nintendo-euronews-3> .
+ <http://example.org/games/MarioBros> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/VideoGame> <Nintendo-euronews-3> .
+ <http://example.org/games/MarioBros> <http://dbpedia.org/ontology/releaseDate> "1983-07-14"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-euronews-3> .
+ <http://example.org/entities/individuals/BradSmith> <http://example.org/ontology#name> "Brad Smith"  <Nintendo-euronews-4> .
+ <http://example.org/entities/individuals/SarahCardell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Individual> <Nintendo-euronews-4> .
+ <http://example.org/ontology#MergerApproval> <http://example.org/ontology#remedyDescription> "Microsoft's promises to automatically license Activision games to cloud gaming platforms"  <Nintendo-euronews-4> .
+ <http://example.org/entities/eu/EuropeanCommission> <http://example.org/ontology#partOf> <http://example.org/ontology#EuropeanUnion> <Nintendo-euronews-4> .
+ <http://example.org/ontology#FTCTrial> <http://example.org/ontology#startDate> "2023-08-02"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-euronews-4> .
+ <http://example.org/ontology#WorldOfWarcraft> <http://example.org/ontology#maker> <http://example.org/entities/companies/ActivisionBlizzard> <Nintendo-euronews-4> .
+ <http://example.org/entities/companies/Microsoft> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#TechCompany> <Nintendo-euronews-4> .
+ <http://example.org/entities/eu/EuropeanCommission> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#ExecutiveArm> <Nintendo-euronews-4> .
+ <http://example.org/ontology#UKTribunalAppeal> <http://example.org/ontology#concerns> <http://example.org/ontology#MergerApproval> <Nintendo-euronews-4> .
+ <http://example.org/ontology#EuropeanUnion> <http://example.org/ontology#name> "European Union"  <Nintendo-euronews-4> .
+ <http://example.org/ontology#UnitedStates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Country> <Nintendo-euronews-4> .
+ <http://example.org/ontology#MergerApproval> <http://example.org/ontology#approvedBy> <http://example.org/entities/eu/EuropeanCommission> <Nintendo-euronews-4> .
+ <http://example.org/entities/companies/Sony> <http://example.org/ontology#offers> <http://example.org/ontology#PlayStationGamingSystem> <Nintendo-euronews-4> .
+ <http://example.org/entities/organizations/Omdia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#MarketResearchCompany> <Nintendo-euronews-4> .
+ <http://example.org/entities/individuals/LiamDeane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Individual> <Nintendo-euronews-4> .
+ <http://example.org/entities/individuals/LiamDeane> <http://example.org/ontology#affiliation> <http://example.org/entities/organizations/Omdia> <Nintendo-euronews-4> .
+ <http://example.org/ontology#FTCTrial> <http://example.org/ontology#concerns> <http://example.org/ontology#MergerApproval> <Nintendo-euronews-4> .
+ <http://example.org/ontology#MergerApproval> <http://example.org/ontology#value> "€63 billion"^^<http://www.w3.org/2001/XMLSchema#string>  <Nintendo-euronews-4> .
+ <http://example.org/ontology#MetaGiphyCase> <http://example.org/ontology#involvedParties> <http://Nintendo-euronews-4.com/blank#n8251f361382142b5962de1ea1d9289adb2>  <Nintendo-euronews-4> .
+ <http://example.org/ontology#WorldOfWarcraft> <http://example.org/ontology#name> "World of Warcraft"  <Nintendo-euronews-4> .
+ <http://example.org/entities/uk/CompetitionMarketsAuthority> <http://example.org/ontology#name> "Competition and Markets Authority"  <Nintendo-euronews-4> .
+ <http://example.org/ontology#MergerApproval> <http://example.org/ontology#involves> <http://Nintendo-euronews-4.com/blank#n8251f361382142b5962de1ea1d9289adb1>  <Nintendo-euronews-4> .
+ <http://example.org/entities/us/FederalTradeCommission> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#RegulatoryAuthority> <Nintendo-euronews-4> .
+ <http://example.org/entities/companies/ActivisionBlizzard> <http://example.org/ontology#name> "Activision Blizzard"  <Nintendo-euronews-4> .
+ <http://example.org/entities/companies/Nintendo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#TechCompany> <Nintendo-euronews-4> .
+ <http://example.org/entities/individuals/LiamDeane> <http://example.org/ontology#role> <http://example.org/ontology#GameIndustryAnalyst> <Nintendo-euronews-4> .
+ <http://example.org/entities/companies/Nintendo> <http://example.org/ontology#name> "Nintendo"  <Nintendo-euronews-4> .
+ <http://Nintendo-euronews-4.com/blank#n8251f361382142b5962de1ea1d9289adb2> <http://example.org/ontology#acquirer> <http://example.org/entities/organizations/Meta> <Nintendo-euronews-4> .
+ <http://example.org/entities/individuals/BradSmith> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Individual> <Nintendo-euronews-4> .
+ <http://example.org/ontology#MetaGiphyCase> <http://example.org/ontology#concerns> <http://example.org/ontology#InnovationAndCompetition> <Nintendo-euronews-4> .
+ <http://example.org/entities/eu/EuropeanCommission> <http://example.org/ontology#role> <http://example.org/ontology#TopAntitrustWatchdog> <Nintendo-euronews-4> .
+ <http://example.org/entities/individuals/SarahCardell> <http://example.org/ontology#affiliation> <http://example.org/entities/uk/CompetitionMarketsAuthority> <Nintendo-euronews-4> .
+ <http://example.org/ontology#WorldOfWarcraft> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#VideoGame> <Nintendo-euronews-4> .
+ <http://example.org/ontology#FTCTrial> <http://example.org/ontology#against> <http://example.org/entities/companies/Microsoft> <Nintendo-euronews-4> .
+ <http://example.org/entities/companies/Sony> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#TechCompany> <Nintendo-euronews-4> .
+ <http://example.org/ontology#UnitedKingdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Country> <Nintendo-euronews-4> .
+ <http://example.org/entities/organizations/Omdia> <http://example.org/ontology#name> "Omdia"  <Nintendo-euronews-4> .
+ <http://example.org/entities/companies/Microsoft> <http://example.org/ontology#name> "Microsoft"  <Nintendo-euronews-4> .
+ <http://example.org/entities/uk/CompetitionMarketsAuthority> <http://example.org/ontology#country> <http://example.org/ontology#UnitedKingdom> <Nintendo-euronews-4> .
+ <http://example.org/entities/eu/EuropeanCommission> <http://example.org/ontology#name> "European Commission"  <Nintendo-euronews-4> .
+ <http://example.org/ontology#EuropeanUnion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#PoliticalUnion> <Nintendo-euronews-4> .
+ <http://example.org/ontology#MergerApproval> <http://example.org/ontology#includesRemedies> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <Nintendo-euronews-4> .
+ <http://Nintendo-euronews-4.com/blank#n8251f361382142b5962de1ea1d9289adb1> <http://example.org/ontology#acquirer> <http://example.org/entities/companies/Microsoft> <Nintendo-euronews-4> .
+ <http://example.org/ontology#FTCTrial> <http://example.org/ontology#authority> <http://example.org/entities/us/FederalTradeCommission> <Nintendo-euronews-4> .
+ <http://example.org/entities/us/FederalTradeCommission> <http://example.org/ontology#country> <http://example.org/ontology#UnitedStates> <Nintendo-euronews-4> .
+ <http://example.org/entities/companies/Microsoft> <http://example.org/ontology#offers> <http://example.org/ontology#CloudGamingPlatforms> <Nintendo-euronews-4> .
+ <http://example.org/ontology#CallOfDuty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#VideoGame> <Nintendo-euronews-4> .
+ <http://example.org/entities/individuals/SarahCardell> <http://example.org/ontology#role> <http://example.org/ontology#ChiefExecutive> <Nintendo-euronews-4> .
+ <http://example.org/ontology#MergerApproval> <http://example.org/ontology#concerns> <http://example.org/ontology#CompetitionInCloudGaming> <Nintendo-euronews-4> .
+ <http://example.org/ontology#UnitedStates> <http://example.org/ontology#name> "United States"  <Nintendo-euronews-4> .
+ <http://example.org/ontology#MetaGiphyCase> <http://example.org/ontology#rejectedBy> <http://example.org/entities/uk/CompetitionMarketsAuthority> <Nintendo-euronews-4> .
+ <http://example.org/entities/companies/ActivisionBlizzard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#VideoGameMaker> <Nintendo-euronews-4> .
+ <http://example.org/entities/individuals/SarahCardell> <http://example.org/ontology#name> "Sarah Cardell"  <Nintendo-euronews-4> .
+ <http://example.org/ontology#MergerApproval> <http://example.org/ontology#rejectedBy> <http://example.org/entities/uk/CompetitionMarketsAuthority> <Nintendo-euronews-4> .
+ <http://example.org/entities/individuals/BradSmith> <http://example.org/ontology#role> <http://example.org/ontology#President> <Nintendo-euronews-4> .
+ <http://example.org/entities/uk/CompetitionMarketsAuthority> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#RegulatoryAuthority> <Nintendo-euronews-4> .
+ <http://example.org/ontology#UKTribunalAppeal> <http://example.org/ontology#appealedBy> <http://example.org/entities/companies/Microsoft> <Nintendo-euronews-4> .
+ <http://example.org/ontology#MetaGiphyCase> <http://example.org/ontology#finalOutcome> <http://example.org/ontology#SaleForced> <Nintendo-euronews-4> .
+ <http://example.org/entities/companies/Sony> <http://example.org/ontology#name> "Sony"  <Nintendo-euronews-4> .
+ <http://example.org/entities/individuals/LiamDeane> <http://example.org/ontology#name> "Liam Deane"  <Nintendo-euronews-4> .
+ <http://example.org/ontology#CallOfDuty> <http://example.org/ontology#maker> <http://example.org/entities/companies/ActivisionBlizzard> <Nintendo-euronews-4> .
+ <http://Nintendo-euronews-4.com/blank#n8251f361382142b5962de1ea1d9289adb1> <http://example.org/ontology#target> <http://example.org/entities/companies/ActivisionBlizzard> <Nintendo-euronews-4> .
+ <http://example.org/ontology#CallOfDuty> <http://example.org/ontology#name> "Call of Duty"  <Nintendo-euronews-4> .
+ <http://example.org/entities/us/FederalTradeCommission> <http://example.org/ontology#name> "Federal Trade Commission"  <Nintendo-euronews-4> .
+ <http://example.org/ontology#UKTribunalAppeal> <http://example.org/ontology#outcome> <http://example.org/ontology#Unknown> <Nintendo-euronews-4> .
+ <http://Nintendo-euronews-4.com/blank#n8251f361382142b5962de1ea1d9289adb2> <http://example.org/ontology#target> <http://example.org/entities/companies/Giphy> <Nintendo-euronews-4> .
+ <http://example.org/ontology#MergerApproval> <http://example.org/ontology#disputedBy> <http://example.org/entities/us/FederalTradeCommission> <Nintendo-euronews-4> .
+ <http://example.org/ontology#UnitedKingdom> <http://example.org/ontology#name> "United Kingdom"  <Nintendo-euronews-4> .
+ <http://example.org/entities/companies/Microsoft> <http://example.org/ontology#hasSubsidiary> <http://example.org/entities/companies/Xbox> <Nintendo-euronews-4> .
+ <http://example.org/entities/individuals/BradSmith> <http://example.org/ontology#affiliation> <http://example.org/entities/companies/Microsoft> <Nintendo-euronews-4> .
+ <http://example.org/CollectiblesInGermany> <http://schema.org/popularItems> <http://example.org/RecordsAndCDs> <Nintendo-euronews-5> .
+ <http://example.org/CollectibleCategories> <http://schema.org/includesObject> <http://example.org/ScientificInstruments> <Nintendo-euronews-5> .
+ <http://example.org/KingOfCollectibles> <http://schema.org/about> <http://example.org/Collectibles> <Nintendo-euronews-5> .
+ <http://example.org/KingCharlesCoronationMedal> <http://schema.org/price> "€20.10"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-euronews-5> .
+ <http://example.org/CollectiblesMarket> <http://schema.org/geographicArea> "US"  <Nintendo-euronews-5> .
+ <http://example.org/CollectiblesInGermany> <http://schema.org/popularItems> <http://example.org/VintageCars> <Nintendo-euronews-5> .
+ <http://example.org/KingOfCollectibles> <http://schema.org/producer> <http://example.org/Netflix> <Nintendo-euronews-5> .
+ <http://example.org/VintageCerealBoxes> <http://schema.org/description> "Vintage cereal boxes featuring popular cartoon characters and pop stars."  <Nintendo-euronews-5> .
+ <http://example.org/McDonaldsCollectibles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <Nintendo-euronews-5> .
+ <http://example.org/FirstGenerationElectricalDevices> <http://schema.org/includesObject> <http://example.org/NintendoDS> <Nintendo-euronews-5> .
+ <http://example.org/CollectiblesInFrance> <http://schema.org/location> <http://example.org/France> <Nintendo-euronews-5> .
+ <http://example.org/Aianne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Nintendo-euronews-5> .
+ <http://example.org/CollectibleCategories> <http://schema.org/includesObject> <http://example.org/VintageFashion> <Nintendo-euronews-5> .
+ <http://example.org/Aianne> <http://schema.org/fundingSource> <http://example.org/VentureCapital> <Nintendo-euronews-5> .
+ <http://example.org/CollectibleCategories> <http://schema.org/includesObject> <http://example.org/Maps> <Nintendo-euronews-5> .
+ <http://example.org/KingOfCollectibles> <http://schema.org/audience> <http://example.org/Collectors> <Nintendo-euronews-5> .
+ <http://example.org/McDonaldsCollectibles> <http://schema.org/includesObject> <http://example.org/PlasticStraws> <Nintendo-euronews-5> .
+ <http://example.org/CollectibleCategories> <http://schema.org/includesObject> <http://example.org/FilmPostersAndProps> <Nintendo-euronews-5> .
+ <http://example.org/Collectors> <http://schema.org/description> "Individuals who collect items as a hobby or investment."  <Nintendo-euronews-5> .
+ <http://example.org/CollectiblesMarket> <http://schema.org/geographicArea> "Europe"  <Nintendo-euronews-5> .
+ <http://example.org/CollectiblesInFrance> <http://schema.org/startDate> "2022-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-euronews-5> .
+ <http://example.org/FirstEditionBooks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <Nintendo-euronews-5> .
+ <http://example.org/FirstGenerationElectricalDevices> <http://schema.org/includesObject> <http://example.org/AmazonEchoSpeaker> <Nintendo-euronews-5> .
+ <http://example.org/CollectibleCategories> <http://schema.org/includesObject> <http://example.org/Books> <Nintendo-euronews-5> .
+ <http://example.org/CollectiblesMarketResearch> <http://schema.org/startDate> "2022-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-euronews-5> .
+ <http://example.org/KingCharlesCoronationMedal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <Nintendo-euronews-5> .
+ <http://example.org/KingOfCollectibles> <http://schema.org/name> "King of Collectibles: The Goldin Touch"  <Nintendo-euronews-5> .
+ <http://example.org/CollectibleCategories> <http://schema.org/includesObject> <http://example.org/SparePartsOfClassicCars> <Nintendo-euronews-5> .
+ <http://example.org/Aianne> <http://schema.org/funding> "€9m"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-euronews-5> .
+ <http://example.org/CollectibleCategories> <http://schema.org/includesObject> <http://example.org/SailingSpareParts> <Nintendo-euronews-5> .
+ <http://example.org/CollectiblesInFrance> <http://schema.org/estimatedSize> "€4.3 billion"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-euronews-5> .
+ <http://example.org/CollectiblesMarket> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Market> <Nintendo-euronews-5> .
+ <http://example.org/Collectors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Audience> <Nintendo-euronews-5> .
+ <http://example.org/RoyalMailCoronationStamps> <http://schema.org/name> "Royal Mail Coronation Stamps"  <Nintendo-euronews-5> .
+ <http://example.org/CollectiblesInGermany> <http://schema.org/popularItems> <http://example.org/Comics> <Nintendo-euronews-5> .
+ <http://example.org/FirstGenerationElectricalDevices> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <Nintendo-euronews-5> .
+ <http://example.org/CollectiblesInGermany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Market> <Nintendo-euronews-5> .
+ <http://example.org/CollectibleCategories> <http://schema.org/includesObject> <http://example.org/PorcelainAndGlass> <Nintendo-euronews-5> .
+ <http://example.org/CollectiblesMarketResearch> <http://schema.org/endDate> "2033-12-31"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-euronews-5> .
+ <http://example.org/CollectiblesMarket> <http://schema.org/startDate> "2033-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-euronews-5> .
+ <http://example.org/CollectiblesMarketResearch> <http://schema.org/growthRate> "6.2"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-euronews-5> .
+ <http://example.org/CollectibleCategories> <http://schema.org/includesObject> <http://example.org/Antiques> <Nintendo-euronews-5> .
+ <http://example.org/CollectiblesInGermany> <http://schema.org/popularItems> <http://example.org/Books> <Nintendo-euronews-5> .
+ <http://example.org/CollectibleCategories> <http://schema.org/includesObject> <http://example.org/Militaria> <Nintendo-euronews-5> .
+ <http://example.org/MarketDecipher> <http://schema.org/name> "Market Decipher"  <Nintendo-euronews-5> .
+ <http://example.org/VentureCapital> <http://schema.org/name> "Venture Capital"  <Nintendo-euronews-5> .
+ <http://example.org/CollectiblesMarket> <http://schema.org/geographicArea> "Asia Pacific"  <Nintendo-euronews-5> .
+ <http://example.org/McDonaldsCollectibles> <http://schema.org/includesObject> <http://example.org/SzechuanDippingSauce> <Nintendo-euronews-5> .
+ <http://example.org/CollectibleCategories> <http://schema.org/includesObject> <http://example.org/Coins> <Nintendo-euronews-5> .
+ <http://example.org/RoyalMailCoronationStamps> <http://schema.org/price> "€8.61"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-euronews-5> .
+ <http://example.org/CollectibleCategories> <http://schema.org/includesObject> <http://example.org/Toys> <Nintendo-euronews-5> .
+ <http://example.org/KingCharlesCoronationMedal> <http://schema.org/name> "King Charles Coronation Medal"  <Nintendo-euronews-5> .
+ <http://example.org/Aianne> <http://schema.org/name> "Aianne"  <Nintendo-euronews-5> .
+ <http://example.org/FirstEditionBooks> <http://schema.org/includesObject> <http://example.org/AGameOfThrones> <Nintendo-euronews-5> .
+ <http://example.org/FirstEditionBooks> <http://schema.org/includesObject> <http://example.org/HarryPotterSeries> <Nintendo-euronews-5> .
+ <http://example.org/RoyalMailCoronationStamps> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <Nintendo-euronews-5> .
+ <http://example.org/CollectibleCategories> <http://schema.org/includesObject> <http://example.org/HorseRidingMemorabilia> <Nintendo-euronews-5> .
+ <http://example.org/FirstEditionBooks> <http://schema.org/includesObject> <http://example.org/TheDaVinciCode> <Nintendo-euronews-5> .
+ <http://example.org/CollectiblesInFrance> <http://schema.org/growthRate> "6.8"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-euronews-5> .
+ <http://example.org/Aianne> <http://schema.org/description> "A certification company for virtual product ownership"  <Nintendo-euronews-5> .
+ <http://example.org/VintageCerealBoxes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <Nintendo-euronews-5> .
+ <http://example.org/CollectibleCategories> <http://schema.org/includesObject> <http://example.org/HighEndStereos> <Nintendo-euronews-5> .
+ <http://example.org/CollectiblesMarketResearch> <http://schema.org/estimatedSize> "€419.77 billion"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-euronews-5> .
+ <http://example.org/FirstEditionBooks> <http://schema.org/includesObject> <http://example.org/Twilight> <Nintendo-euronews-5> .
+ <http://example.org/McDonaldsCollectibles> <http://schema.org/brand> "McDonald's"  <Nintendo-euronews-5> .
+ <http://example.org/CollectiblesMarket> <http://schema.org/estimatedSize> "€92 billion"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-euronews-5> .
+ <http://example.org/CollectiblesInGermany> <http://schema.org/popularItems> <http://example.org/Coins> <Nintendo-euronews-5> .
+ <http://example.org/RoyalMintKingCharlesIIICoronationCommemorativeCoin> <http://schema.org/name> "Royal Mint King Charles III Coronation Commemorative £5 Coin"  <Nintendo-euronews-5> .
+ <http://example.org/CollectiblesMarketResearch> <http://schema.org/about> <http://example.org/CollectiblesMarket> <Nintendo-euronews-5> .
+ <http://example.org/CollectiblesMarketResearch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ResearchProject> <Nintendo-euronews-5> .
+ <http://example.org/CollectibleCategories> <http://schema.org/includesObject> <http://example.org/Stamps> <Nintendo-euronews-5> .
+ <http://example.org/CollectibleCategories> <http://schema.org/includesObject> <http://example.org/Autographs> <Nintendo-euronews-5> .
+ <http://example.org/Collectibles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <Nintendo-euronews-5> .
+ <http://example.org/MarketDecipher> <http://schema.org/conductsResearch> <http://example.org/CollectiblesMarketResearch> <Nintendo-euronews-5> .
+ <http://example.org/Collectibles> <http://schema.org/description> "An item worth more than its original sale price value because of its rarity, uniqueness and its overall condition. Plus how many people want it."  <Nintendo-euronews-5> .
+ <http://example.org/CollectiblesInFrance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Market> <Nintendo-euronews-5> .
+ <http://example.org/CollectibleCategories> <http://schema.org/includesObject> <http://example.org/ComicBooks> <Nintendo-euronews-5> .
+ <http://example.org/VentureCapital> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/FinancialProduct> <Nintendo-euronews-5> .
+ <http://example.org/FirstGenerationElectricalDevices> <http://schema.org/includesObject> <http://example.org/iPodShuffle> <Nintendo-euronews-5> .
+ <http://example.org/CollectiblesInGermany> <http://schema.org/location> <http://example.org/Germany> <Nintendo-euronews-5> .
+ <http://example.org/RoyalMintKingCharlesIIICoronationCommemorativeCoin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <Nintendo-euronews-5> .
+ <http://example.org/RoyalMintKingCharlesIIICoronationCommemorativeCoin> <http://schema.org/price> "€16.65"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-euronews-5> .
+ <http://example.org/CollectiblesInGermany> <http://schema.org/popularItems> <http://example.org/Watches> <Nintendo-euronews-5> .
+ <http://example.org/KingOfCollectibles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/TVSeries> <Nintendo-euronews-5> .
+ <http://example.org/CollectibleCategories> <http://schema.org/includesObject> <http://example.org/BaseballCards> <Nintendo-euronews-5> .
+ <http://example.org/MarketDecipher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Nintendo-euronews-5> .
+ <http://example.org/ns#DunePartTwo> <http://schema.org/basedOn> <http://dbpedia.org/resource/Dune_(novel)> <Nintendo-euronews-6> .
+ <http://example.org/ns#DunePartTwoTrailer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Nintendo-euronews-6> .
+ <http://example.org/ns#euronewsCultureGuide> <http://schema.org/about> <http://example.org/ns#CultureEventsEurope> <Nintendo-euronews-6> .
+ <http://example.org/ns#LegendOfZeldaTearsOfTheKingdom> <http://schema.org/isSequelOf> <http://dbpedia.org/resource/The_Legend_of_Zelda:_Breath_of_the_Wild> <Nintendo-euronews-6> .
+ <http://example.org/ns#DunePartTwo> <http://schema.org/name> "Dune: Part Two"  <Nintendo-euronews-6> .
+ <http://example.org/ns#DunePartTwo> <http://schema.org/director> <http://example.org/ns#DenisVilleneuve> <Nintendo-euronews-6> .
+ <http://example.org/ns#CultureEventsEurope> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Nintendo-euronews-6> .
+ <http://example.org/ns#STARWARSJediSurvivor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/VideoGame> <Nintendo-euronews-6> .
+ <http://example.org/ns#EdSheeranCopyrightLawsuit> <http://schema.org/result> <http://example.org/ns#EdSheeranVictory> <Nintendo-euronews-6> .
+ <http://example.org/ns#DaddyPlay> <http://schema.org/startDate> "2023-05-09"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-euronews-6> .
+ <http://example.org/ns#EdSheeranCopyrightLawsuit> <http://schema.org/about> <http://example.org/ns#ThinkingOutLoud> <Nintendo-euronews-6> .
+ <http://example.org/ns#DaddyPlay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/TheaterEvent> <Nintendo-euronews-6> .
+ <http://example.org/ns#BridgetRileyVerve> <http://schema.org/image> <https://www.gettyimages.com/photos/bridget-riley-verve> <Nintendo-euronews-6> .
+ <http://example.org/ns#DunePartTwo> <http://schema.org/about> <http://example.org/ns#PaulAtreidesJourney> <Nintendo-euronews-6> .
+ <http://example.org/ns#DaddyPlay> <http://schema.org/location> <http://example.org/ns#TheatreDeLOdeon> <Nintendo-euronews-6> .
+ <http://example.org/ns#ThirteenYearOldGirlStory> <http://schema.org/name> "A 13-year-old girl's escape into role-playing video games"  <Nintendo-euronews-6> .
+ <http://example.org/ns#CultureEventsEurope> <http://schema.org/eventStatus> <http://schema.org/EventScheduled> <Nintendo-euronews-6> .
+ <http://example.org/ns#ThirteenYearOldGirlStory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Nintendo-euronews-6> .
+ <http://example.org/ns#ThinkingOutLoud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicComposition> <Nintendo-euronews-6> .
+ <http://example.org/ns#euronewsCultureGuide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Nintendo-euronews-6> .
+ <http://example.org/ns#BritishSchoolAtRome> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EducationalOrganization> <Nintendo-euronews-6> .
+ <http://example.org/ns#LegendOfZeldaTearsOfTheKingdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/VideoGame> <Nintendo-euronews-6> .
+ <http://example.org/ns#BridgetRileyVerve> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/VisualArtwork> <Nintendo-euronews-6> .
+ <http://example.org/ns#CultureEventsEurope> <http://schema.org/name> "Cultural events in Europe"  <Nintendo-euronews-6> .
+ <http://example.org/ns#BridgetRileyVerve> <http://schema.org/location> <http://example.org/ns#BritishSchoolAtRome> <Nintendo-euronews-6> .
+ <http://example.org/ns#DaddyPlay> <http://schema.org/name> "Daddy"  <Nintendo-euronews-6> .
+ <http://example.org/ns#EdSheeranVictory> <http://schema.org/name> "Ed Sheeran wins copyright lawsuit"  <Nintendo-euronews-6> .
+ <http://example.org/ns#euronewsCultureGuide> <http://schema.org/author> <http://example.org/ns#EuronewsCulture> <Nintendo-euronews-6> .
+ <http://example.org/ns#EdSheeranCopyrightLawsuit> <http://schema.org/name> "Ed Sheeran's copyright lawsuit"  <Nintendo-euronews-6> .
+ <http://example.org/ns#EdSheeranCopyrightLawsuit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Nintendo-euronews-6> .
+ <http://example.org/ns#PaulAtreidesJourney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Nintendo-euronews-6> .
+ <http://example.org/ns#EdSheeranVictory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Nintendo-euronews-6> .
+ <http://example.org/ns#BritishSchoolAtRome> <http://schema.org/name> "British School at Rome"  <Nintendo-euronews-6> .
+ <http://example.org/ns#DaddyPlay> <http://schema.org/about> <http://example.org/ns#ThirteenYearOldGirlStory> <Nintendo-euronews-6> .
+ <http://example.org/ns#ThinkingOutLoud> <http://schema.org/name> "Thinking Out Loud"  <Nintendo-euronews-6> .
+ <http://example.org/ns#LegendOfZeldaTearsOfTheKingdom> <http://schema.org/name> "Legend of Zelda: Tears of the Kingdom"  <Nintendo-euronews-6> .
+ <http://example.org/ns#LegendOfZeldaTearsOfTheKingdom> <http://schema.org/gamePlatform> "Nintendo Switch"  <Nintendo-euronews-6> .
+ <http://example.org/ns#DunePartTwo> <http://schema.org/actor> <http://dbpedia.org/resource/Timothée_Chalamet> <Nintendo-euronews-6> .
+ <http://example.org/ns#STARWARSJediSurvivor> <http://schema.org/gamePlatform> "Various platforms"  <Nintendo-euronews-6> .
+ <http://example.org/ns#euronewsCultureGuide> <http://schema.org/name> "Euronews Culture's weekly guide"  <Nintendo-euronews-6> .
+ <http://example.org/ns#TheatreDeLOdeon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/TheaterGroup> <Nintendo-euronews-6> .
+ <http://example.org/ns#euronewsCultureGuide> <http://schema.org/dateCreated> "2023-05-09"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-euronews-6> .
+ <http://example.org/ns#DunePartTwoTrailer> <http://schema.org/name> "First trailer for Dune: Part Two"  <Nintendo-euronews-6> .
+ <http://example.org/ns#TheatreDeLOdeon> <http://schema.org/location> <http://dbpedia.org/resource/Paris> <Nintendo-euronews-6> .
+ <http://example.org/ns#STARWARSJediSurvivor> <http://schema.org/name> "STAR WARS Jedi: Survivor"  <Nintendo-euronews-6> .
+ <http://example.org/ns#MarionSiefert> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-euronews-6> .
+ <http://example.org/ns#MarionSiefert> <http://xmlns.com/foaf/0.1/name> "Marion Siéfert"  <Nintendo-euronews-6> .
+ <http://example.org/ns#DunePartTwo> <http://schema.org/trailer> <http://example.org/ns#DunePartTwoTrailer> <Nintendo-euronews-6> .
+ <http://example.org/ns#DenisVilleneuve> <http://xmlns.com/foaf/0.1/name> "Denis Villeneuve"  <Nintendo-euronews-6> .
+ <http://example.org/ns#BridgetRileyVerve> <http://schema.org/creator> <http://dbpedia.org/resource/Bridget_Riley> <Nintendo-euronews-6> .
+ <http://example.org/ns#BridgetRileyVerve> <http://schema.org/name> "Verve"  <Nintendo-euronews-6> .
+ <http://example.org/ns#DaddyPlay> <http://schema.org/director> <http://example.org/ns#MarionSiefert> <Nintendo-euronews-6> .
+ <http://example.org/ns#DunePartTwo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <Nintendo-euronews-6> .
+ <http://example.org/ns#ThinkingOutLoud> <http://schema.org/composer> <http://dbpedia.org/resource/Ed_Sheeran> <Nintendo-euronews-6> .
+ <http://example.org/ns#DenisVilleneuve> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Canada> <Nintendo-euronews-6> .
+ <http://example.org/ns#ThinkingOutLoud> <http://schema.org/isBasedOn> <http://dbpedia.org/resource/Let's_Get_It_On> <Nintendo-euronews-6> .
+ <http://example.org/ns#DenisVilleneuve> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-euronews-6> .
+ <http://example.org/ns#TheatreDeLOdeon> <http://schema.org/name> "Théâtre de l'Odéon"  <Nintendo-euronews-6> .
+ <http://example.org/ns#PaulAtreidesJourney> <http://schema.org/name> "Paul Atreides' journey to becoming the leader of the Fremen"  <Nintendo-euronews-6> .
+ <http://example.org/ns#STARWARSJediSurvivor> <http://schema.org/isSequelOf> <http://dbpedia.org/resource/Star_Wars_Jedi:_Fallen_Order> <Nintendo-euronews-6> .
+ <http://example.org/ns#CultureEventsEurope> <http://schema.org/startDate> "2023-05-09"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-euronews-6> .
+ <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b10> <http://schema.org/item> <http://dbpedia.org/resource/Zootopia> <Nintendo-euronews-7> .
+ <http://example.org/ontology#BoxOfficeRankings> <http://schema.org/itemListElement> <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b10>  <Nintendo-euronews-7> .
+ <http://example.org/ontology#BoxOfficeRankings> <http://schema.org/itemListElement> <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b8>  <Nintendo-euronews-7> .
+ <http://example.org/ontology#TheSuperMarioBrosMovie> <http://dbpedia.org/ontology/boxOffice> "1022473825"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-euronews-7> .
+ <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b2> <http://dbpedia.org/ontology/boxOffice> "1450026933"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-euronews-7> .
+ <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b6> <http://dbpedia.org/ontology/boxOffice> "1073394593"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-euronews-7> .
+ <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b6> <http://schema.org/position> "6"^^<http://www.w3.org/2001/XMLSchema#integer>  <Nintendo-euronews-7> .
+ <http://example.org/ontology#DonkeyKongMovie> <http://schema.org/name> "Donkey Kong Movie"  <Nintendo-euronews-7> .
+ <http://example.org/ontology#PostPandemicEraRecords> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Record> <Nintendo-euronews-7> .
+ <http://example.org/ontology#AnyaTaylorJoy> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Voice_actor> <Nintendo-euronews-7> .
+ <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b6> <http://schema.org/item> <http://dbpedia.org/resource/Toy_Story_4> <Nintendo-euronews-7> .
+ <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b11> <http://schema.org/description> "Expected to impact The Super Mario Bros. Movie's box office performance"  <Nintendo-euronews-7> .
+ <http://example.org/ontology#DonkeyKongMovie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <Nintendo-euronews-7> .
+ <http://example.org/ontology#PostPandemicEraRecords> <http://schema.org/description> "Only the fifth film of the post-pandemic era to pass $1 billion worldwide"  <Nintendo-euronews-7> .
+ <http://example.org/ontology#AnyaTaylorJoy> <http://dbpedia.org/ontology/knownFor> <http://example.org/ontology#TheSuperMarioBrosMovie> <Nintendo-euronews-7> .
+ <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b4> <http://dbpedia.org/ontology/boxOffice> "1242805359"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-euronews-7> .
+ <http://example.org/ontology#TheSuperMarioBrosMovie> <http://schema.org/productionCompany> <http://dbpedia.org/resource/Universal_Pictures> <Nintendo-euronews-7> .
+ <http://example.org/ontology#TheSuperMarioBrosMovie> <http://schema.org/productionCompany> <http://dbpedia.org/resource/Nintendo> <Nintendo-euronews-7> .
+ <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b12> <http://schema.org/description> "Expected to be in the works sometime soon"  <Nintendo-euronews-7> .
+ <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b9> <http://schema.org/position> "9"^^<http://www.w3.org/2001/XMLSchema#integer>  <Nintendo-euronews-7> .
+ <http://example.org/ontology#TheSuperMarioBrosMovie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <Nintendo-euronews-7> .
+ <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b1> <http://schema.org/position> "1"^^<http://www.w3.org/2001/XMLSchema#integer>  <Nintendo-euronews-7> .
+ <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b5> <http://dbpedia.org/ontology/boxOffice> "1159398397"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-euronews-7> .
+ <http://example.org/ontology#PedroPascal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Nintendo-euronews-7> .
+ <http://example.org/ontology#DonkeyKongMovie> <http://schema.org/about> <http://dbpedia.org/resource/Donkey_Kong> <Nintendo-euronews-7> .
+ <http://example.org/ontology#BoxOfficeRankings> <http://schema.org/itemListElement> <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b1>  <Nintendo-euronews-7> .
+ <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b13> <http://schema.org/result> <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b14>  <Nintendo-euronews-7> .
+ <http://example.org/ontology#BoxOfficeRankings> <http://schema.org/itemListElement> <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b6>  <Nintendo-euronews-7> .
+ <http://example.org/ontology#SethRogen> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Voice_actor> <Nintendo-euronews-7> .
+ <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b3> <http://schema.org/item> <http://dbpedia.org/resource/Frozen_(2013_film)> <Nintendo-euronews-7> .
+ <http://example.org/ontology#Wario> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Character> <Nintendo-euronews-7> .
+ <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b12> <http://schema.org/item> <http://example.org/ontology#DonkeyKongMovie> <Nintendo-euronews-7> .
+ <http://example.org/ontology#SethRogen> <http://dbpedia.org/ontology/knownFor> <http://example.org/ontology#TheSuperMarioBrosMovie> <Nintendo-euronews-7> .
+ <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b11> <http://schema.org/item> <http://dbpedia.org/resource/Guardians_of_the_Galaxy_Vol._3> <Nintendo-euronews-7> .
+ <http://example.org/ontology#Wario> <http://schema.org/name> "Wario"  <Nintendo-euronews-7> .
+ <http://example.org/ontology#BoxOfficeRankings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ItemList> <Nintendo-euronews-7> .
+ <http://example.org/ontology#ChrisPratt> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Voice_actor> <Nintendo-euronews-7> .
+ <http://example.org/ontology#PedroPascal> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Saturday_Night_Live> <Nintendo-euronews-7> .
+ <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b5> <http://schema.org/position> "5"^^<http://www.w3.org/2001/XMLSchema#integer>  <Nintendo-euronews-7> .
+ <http://example.org/ontology#SethRogen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Nintendo-euronews-7> .
+ <http://example.org/ontology#BoxOfficeRankings> <http://schema.org/itemListElement> <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b9>  <Nintendo-euronews-7> .
+ <http://example.org/ontology#JackBlack> <http://schema.org/name> "Jack Black"  <Nintendo-euronews-7> .
+ <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b10> <http://dbpedia.org/ontology/boxOffice> "1025521689"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-euronews-7> .
+ <http://example.org/ontology#JackBlack> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Voice_actor> <Nintendo-euronews-7> .
+ <http://example.org/ontology#PedroPascal> <http://schema.org/name> "Pedro Pascal"  <Nintendo-euronews-7> .
+ <http://example.org/ontology#JackBlack> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Nintendo-euronews-7> .
+ <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b8> <http://dbpedia.org/ontology/boxOffice> "1034799409"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-euronews-7> .
+ <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b4> <http://schema.org/item> <http://dbpedia.org/resource/Incredibles_2> <Nintendo-euronews-7> .
+ <http://example.org/ontology#ChrisPratt> <http://dbpedia.org/ontology/knownFor> <http://example.org/ontology#TheSuperMarioBrosMovie> <Nintendo-euronews-7> .
+ <http://example.org/ontology#BoxOfficeRankings> <http://schema.org/itemListElement> <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b3>  <Nintendo-euronews-7> .
+ <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b7> <http://schema.org/position> "7"^^<http://www.w3.org/2001/XMLSchema#integer>  <Nintendo-euronews-7> .
+ <http://example.org/ontology#SethRogen> <http://schema.org/name> "Seth Rogen"  <Nintendo-euronews-7> .
+ <http://example.org/ontology#RecordBreaking> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Record> <Nintendo-euronews-7> .
+ <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b9> <http://dbpedia.org/ontology/boxOffice> "1028570889"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-euronews-7> .
+ <http://example.org/ontology#ChrisPratt> <http://schema.org/name> "Chris Pratt"  <Nintendo-euronews-7> .
+ <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b3> <http://dbpedia.org/ontology/boxOffice> "1290000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-euronews-7> .
+ <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b10> <http://schema.org/position> "10"^^<http://www.w3.org/2001/XMLSchema#integer>  <Nintendo-euronews-7> .
+ <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b1> <http://schema.org/item> <http://dbpedia.org/resource/The_Lion_King_(2019_film)> <Nintendo-euronews-7> .
+ <http://example.org/ontology#UpcomingFilms> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ItemList> <Nintendo-euronews-7> .
+ <http://example.org/ontology#TheSuperMarioBrosMovie> <http://dbpedia.org/ontology/releaseYear> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Nintendo-euronews-7> .
+ <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b14> <http://schema.org/description> "Could serve as the sequel's main villain"  <Nintendo-euronews-7> .
+ <http://example.org/ontology#PedroPascal> <http://schema.org/characterName> "Mario"  <Nintendo-euronews-7> .
+ <http://example.org/ontology#PedroPascal> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Actor> <Nintendo-euronews-7> .
+ <http://example.org/ontology#AnyaTaylorJoy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Nintendo-euronews-7> .
+ <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b2> <http://schema.org/item> <http://dbpedia.org/resource/Frozen_II> <Nintendo-euronews-7> .
+ <http://example.org/ontology#BoxOfficeRankings> <http://schema.org/itemListElement> <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b2>  <Nintendo-euronews-7> .
+ <http://example.org/ontology#BoxOfficeRankings> <http://schema.org/itemListElement> <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b4>  <Nintendo-euronews-7> .
+ <http://example.org/ontology#BoxOfficeRankings> <http://schema.org/itemListElement> <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b7>  <Nintendo-euronews-7> .
+ <http://example.org/ontology#AnyaTaylorJoy> <http://schema.org/name> "Anya Taylor-Joy"  <Nintendo-euronews-7> .
+ <http://example.org/ontology#UpcomingFilms> <http://schema.org/itemListElement> <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b12>  <Nintendo-euronews-7> .
+ <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b8> <http://schema.org/item> <http://dbpedia.org/resource/Despicable_Me_3> <Nintendo-euronews-7> .
+ <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b7> <http://dbpedia.org/ontology/boxOffice> "1066970811"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-euronews-7> .
+ <http://example.org/ontology#RecordBreaking> <http://schema.org/description> "First film of 2023 to pass the $1 billion mark at the global box office"  <Nintendo-euronews-7> .
+ <http://example.org/ontology#AnimatedFilmRecords> <http://schema.org/description> "11th animated film in history to achieve the $1 billion mark"  <Nintendo-euronews-7> .
+ <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b7> <http://schema.org/item> <http://dbpedia.org/resource/Toy_Story_3> <Nintendo-euronews-7> .
+ <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b5> <http://schema.org/item> <http://dbpedia.org/resource/Minions_(film)> <Nintendo-euronews-7> .
+ <http://example.org/ontology#AnimatedFilmRecords> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Record> <Nintendo-euronews-7> .
+ <http://example.org/ontology#Wario> <http://schema.org/potentialAction> <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b13>  <Nintendo-euronews-7> .
+ <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b13> <http://schema.org/actor> <http://example.org/ontology#PedroPascal> <Nintendo-euronews-7> .
+ <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b8> <http://schema.org/position> "8"^^<http://www.w3.org/2001/XMLSchema#integer>  <Nintendo-euronews-7> .
+ <http://example.org/ontology#RecordBreaking> <http://schema.org/datePosted> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Nintendo-euronews-7> .
+ <http://example.org/ontology#UpcomingFilms> <http://schema.org/itemListElement> <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b11>  <Nintendo-euronews-7> .
+ <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b1> <http://dbpedia.org/ontology/boxOffice> "1657713459"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-euronews-7> .
+ <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b3> <http://schema.org/position> "3"^^<http://www.w3.org/2001/XMLSchema#integer>  <Nintendo-euronews-7> .
+ <http://example.org/ontology#JackBlack> <http://schema.org/characterName> "Bowser"  <Nintendo-euronews-7> .
+ <http://example.org/ontology#TheSuperMarioBrosMovie> <http://schema.org/name> "The Super Mario Bros. Movie"  <Nintendo-euronews-7> .
+ <http://example.org/ontology#TheSuperMarioBrosMovie> <http://dbpedia.org/ontology/adaptationOf> <http://dbpedia.org/resource/Super_Mario> <Nintendo-euronews-7> .
+ <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b4> <http://schema.org/position> "4"^^<http://www.w3.org/2001/XMLSchema#integer>  <Nintendo-euronews-7> .
+ <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b9> <http://schema.org/item> <http://dbpedia.org/resource/Finding_Dory> <Nintendo-euronews-7> .
+ <http://example.org/ontology#JackBlack> <http://dbpedia.org/ontology/knownFor> <http://example.org/ontology#TheSuperMarioBrosMovie> <Nintendo-euronews-7> .
+ <http://example.org/ontology#BoxOfficeRankings> <http://schema.org/itemListElement> <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b5>  <Nintendo-euronews-7> .
+ <http://example.org/ontology#ChrisPratt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Nintendo-euronews-7> .
+ <http://Nintendo-euronews-7.com/blank#n1ffd46e6b5f34220826ae6b9ac727f78b2> <http://schema.org/position> "2"^^<http://www.w3.org/2001/XMLSchema#integer>  <Nintendo-euronews-7> .
+ <http://example.org/core#Hatecore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/core#Cores> <Nintendo-euronews-8> .
+ <http://example.org/core#VacationDadcore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/core#Cores> <Nintendo-euronews-8> .
+ <http://example.org/core#Cottagecore> <http://www.w3.org/2000/01/rdf-schema#label> "Cottagecore"  <Nintendo-euronews-8> .
+ <http://example.org/core#Frogcore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/core#Cores> <Nintendo-euronews-8> .
+ <http://example.org/core#Unicorncore> <http://www.w3.org/2000/01/rdf-schema#label> "Unicorncore"  <Nintendo-euronews-8> .
+ <http://example.org/core#Zombiecore> <http://www.w3.org/2000/01/rdf-schema#label> "Zombiecore"  <Nintendo-euronews-8> .
+ <http://example.org/core#Earthcore> <http://www.w3.org/2000/01/rdf-schema#label> "Earthcore"  <Nintendo-euronews-8> .
+ <http://example.org/core#Normcore> <http://www.w3.org/2000/01/rdf-schema#label> "Normcore"  <Nintendo-euronews-8> .
+ <http://example.org/core#Corecore> <http://www.w3.org/2000/01/rdf-schema#comment> "A meta 'core' that emerged from the proliferation of various '-core' suffixes."  <Nintendo-euronews-8> .
+ <http://example.org/core#Normcore> <http://www.w3.org/2000/01/rdf-schema#comment> "An aesthetic that celebrates all things bland and ordinary, with origins tracing back to 2013."  <Nintendo-euronews-8> .
+ <http://example.org/core#Zombiecore> <http://www.w3.org/2000/01/rdf-schema#comment> "An aesthetic that focuses on the fascination with zombies and post-apocalyptic scenarios, often featuring grungy looks and paramilitary gear."  <Nintendo-euronews-8> .
+ <http://example.org/core#Junglecore> <http://www.w3.org/2000/01/rdf-schema#label> "Junglecore"  <Nintendo-euronews-8> .
+ <http://example.org/core#Yankeecore> <http://www.w3.org/2000/01/rdf-schema#comment> "An aesthetic associated with the New England region of the United States, focusing on maritime lifestyles and preppy fashion."  <Nintendo-euronews-8> .
+ <http://example.org/core#VacationDadcore> <http://www.w3.org/2000/01/rdf-schema#comment> "An aesthetic that channels a laid-back, retro vacation look, often featuring Hawaiian-print shirts and aviators."  <Nintendo-euronews-8> .
+ <http://example.org/core#Lovecore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/core#Cores> <Nintendo-euronews-8> .
+ <http://example.org/core#Hatecore> <http://www.w3.org/2000/01/rdf-schema#label> "Hatecore"  <Nintendo-euronews-8> .
+ <http://example.org/core#Cottagecore> <http://www.w3.org/2000/01/rdf-schema#comment> "An aesthetic that harks back to agricultural life, promoting a simpler lifestyle and coziness, with a peak in popularity during 2020."  <Nintendo-euronews-8> .
+ <http://example.org/core#Earthcore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/core#Cores> <Nintendo-euronews-8> .
+ <http://example.org/core#Corecore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/core#Cores> <Nintendo-euronews-8> .
+ <http://example.org/core#Plaguecore> <http://www.w3.org/2000/01/rdf-schema#comment> "An aesthetic inspired by Renaissance and Baroque era plague doctors, featuring outfits in blacks and greys with cloaks and bird masks."  <Nintendo-euronews-8> .
+ <http://example.org/core#Bardcore> <http://www.w3.org/2000/01/rdf-schema#label> "Bardcore"  <Nintendo-euronews-8> .
+ <http://example.org/core#Queencore> <http://www.w3.org/2000/01/rdf-schema#comment> "An aesthetic for those who live their day to day as regents in waiting, indulging in the fashion and mores of royalty."  <Nintendo-euronews-8> .
+ <http://example.org/core#Corecore> <http://www.w3.org/2000/01/rdf-schema#label> "Corecore"  <Nintendo-euronews-8> .
+ <http://example.org/core#Cores> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> <Nintendo-euronews-8> .
+ <http://example.org/core#Cores> <http://www.w3.org/2000/01/rdf-schema#comment> "Cores as an aesthetic started around 2010 and have become a significant trend on the internet, especially among Gen Z."  <Nintendo-euronews-8> .
+ <http://example.org/core#Sanriocore> <http://www.w3.org/2000/01/rdf-schema#label> "Sanriocore"  <Nintendo-euronews-8> .
+ <http://example.org/core#Junglecore> <http://www.w3.org/2000/01/rdf-schema#comment> "An aesthetic that focuses on nature photography and exploration, often featuring imagery of snakes, vines, and rivers."  <Nintendo-euronews-8> .
+ <http://example.org/core#Grandmacore> <http://www.w3.org/2000/01/rdf-schema#comment> "An aesthetic inspired by stereotypical activities and styles associated with grandmothers, such as knitting and vintage floral dresses."  <Nintendo-euronews-8> .
+ <http://example.org/core#GenZ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> <Nintendo-euronews-8> .
+ <http://example.org/core#Zombiecore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/core#Cores> <Nintendo-euronews-8> .
+ <http://example.org/core#Ratcore> <http://www.w3.org/2000/01/rdf-schema#comment> "An aesthetic that shares memes and cute photos of rats, often appreciated by those who have rats as pets."  <Nintendo-euronews-8> .
+ <http://example.org/core#Yankeecore> <http://www.w3.org/2000/01/rdf-schema#label> "Yankeecore"  <Nintendo-euronews-8> .
+ <http://example.org/core#Devilcore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/core#Cores> <Nintendo-euronews-8> .
+ <http://example.org/core#Icecore> <http://www.w3.org/2000/01/rdf-schema#label> "Icecore"  <Nintendo-euronews-8> .
+ <http://example.org/core#Yankeecore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/core#Cores> <Nintendo-euronews-8> .
+ <http://example.org/core#Mushroomcore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/core#Cores> <Nintendo-euronews-8> .
+ <http://example.org/core#Mushroomcore> <http://www.w3.org/2000/01/rdf-schema#label> "Mushroomcore"  <Nintendo-euronews-8> .
+ <http://example.org/core#Karencore> <http://www.w3.org/2000/01/rdf-schema#label> "Karencore"  <Nintendo-euronews-8> .
+ <http://example.org/core#EuronewsCulture> <http://xmlns.com/foaf/0.1/name> "Euronews Culture"  <Nintendo-euronews-8> .
+ <http://example.org/core#Plaguecore> <http://www.w3.org/2000/01/rdf-schema#label> "Plaguecore"  <Nintendo-euronews-8> .
+ <http://example.org/core#OldMemecore> <http://www.w3.org/2000/01/rdf-schema#label> "Old Memecore"  <Nintendo-euronews-8> .
+ <http://example.org/core#Karencore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/core#Cores> <Nintendo-euronews-8> .
+ <http://example.org/core#GenZ> <http://www.w3.org/2000/01/rdf-schema#label> "Generation Z"  <Nintendo-euronews-8> .
+ <http://example.org/core#Unicorncore> <http://www.w3.org/2000/01/rdf-schema#comment> "A magical aesthetic that features mythical unicorns and is characterized by pastel colors and a child-like innocence."  <Nintendo-euronews-8> .
+ <http://example.org/core#TikTok> <http://www.w3.org/2000/01/rdf-schema#comment> "A social media platform that has caused the 'cores' aesthetic to blow up further."  <Nintendo-euronews-8> .
+ <http://example.org/core#Sanriocore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/core#Cores> <Nintendo-euronews-8> .
+ <http://example.org/core#Ratcore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/core#Cores> <Nintendo-euronews-8> .
+ <http://example.org/core#Grandmacore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/core#Cores> <Nintendo-euronews-8> .
+ <http://example.org/core#Mushroomcore> <http://www.w3.org/2000/01/rdf-schema#comment> "An aesthetic centered around mushrooms, including their appreciation, consumption, and associated mythology."  <Nintendo-euronews-8> .
+ <http://example.org/core#Wormcore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/core#Cores> <Nintendo-euronews-8> .
+ <http://example.org/core#VacationDadcore> <http://www.w3.org/2000/01/rdf-schema#label> "Vacation Dadcore"  <Nintendo-euronews-8> .
+ <http://example.org/core#Icecore> <http://www.w3.org/2000/01/rdf-schema#comment> "A winter-inspired aesthetic that allows one to channel their inner Après-ski or figure skater."  <Nintendo-euronews-8> .
+ <http://example.org/core#Angelcore> <http://www.w3.org/2000/01/rdf-schema#label> "Angelcore"  <Nintendo-euronews-8> .
+ <http://example.org/core#Bardcore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/core#Cores> <Nintendo-euronews-8> .
+ <http://example.org/core#Karencore> <http://www.w3.org/2000/01/rdf-schema#comment> "An aesthetic that memes and parodies the stereotype of 'Karens', often associated with middle-aged women with specific tastes and behaviors."  <Nintendo-euronews-8> .
+ <http://example.org/core#OldMemecore> <http://www.w3.org/2000/01/rdf-schema#comment> "An aesthetic that engages with classic internet memes from the early days of meme culture."  <Nintendo-euronews-8> .
+ <http://example.org/core#Bardcore> <http://www.w3.org/2000/01/rdf-schema#comment> "A musical aesthetic that transforms popular songs into medieval masterpieces, credited to German musician Cornelius Link."  <Nintendo-euronews-8> .
+ <http://example.org/core#Normcore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/core#Cores> <Nintendo-euronews-8> .
+ <http://example.org/core#Cottagecore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/core#Cores> <Nintendo-euronews-8> .
+ <http://example.org/core#Queencore> <http://www.w3.org/2000/01/rdf-schema#label> "Queencore"  <Nintendo-euronews-8> .
+ <http://example.org/core#TikTok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Nintendo-euronews-8> .
+ <http://example.org/core#Wormcore> <http://www.w3.org/2000/01/rdf-schema#comment> "An internet aesthetic that features the toy Squirmles, also known as fuzzy worms on a string, and related memes."  <Nintendo-euronews-8> .
+ <http://example.org/core#Unicorncore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/core#Cores> <Nintendo-euronews-8> .
+ <http://example.org/core#Sanriocore> <http://www.w3.org/2000/01/rdf-schema#comment> "An aesthetic centered around the Japanese Sanrio company and its kawaii characters, such as Hello Kitty."  <Nintendo-euronews-8> .
+ <http://example.org/core#Ratcore> <http://www.w3.org/2000/01/rdf-schema#label> "Ratcore"  <Nintendo-euronews-8> .
+ <http://example.org/core#Lovecore> <http://www.w3.org/2000/01/rdf-schema#comment> "An aesthetic of romanticized love, often featuring hearts, pink and red colors, and Valentine's-inspired vibes."  <Nintendo-euronews-8> .
+ <http://example.org/core#Queencore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/core#Cores> <Nintendo-euronews-8> .
+ <http://example.org/core#Earthcore> <http://www.w3.org/2000/01/rdf-schema#comment> "An aesthetic for those who care about sustainability, self-care, and saving the planet, often associated with a granola-loving, eco-conscious lifestyle."  <Nintendo-euronews-8> .
+ <http://example.org/core#Traumacore> <http://www.w3.org/2000/01/rdf-schema#comment> "An aesthetic that allows for the public expression of personal and dark truths, often accompanied by music from the 90s."  <Nintendo-euronews-8> .
+ <http://example.org/core#Traumacore> <http://www.w3.org/2000/01/rdf-schema#label> "Traumacore"  <Nintendo-euronews-8> .
+ <http://example.org/core#Frogcore> <http://www.w3.org/2000/01/rdf-schema#comment> "An aesthetic that appreciates frogs, often associated with kawaii art and the LGBTQ+ community."  <Nintendo-euronews-8> .
+ <http://example.org/core#Plaguecore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/core#Cores> <Nintendo-euronews-8> .
+ <http://example.org/core#Angelcore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/core#Cores> <Nintendo-euronews-8> .
+ <http://example.org/core#Wormcore> <http://www.w3.org/2000/01/rdf-schema#label> "Wormcore"  <Nintendo-euronews-8> .
+ <http://example.org/core#Traumacore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/core#Cores> <Nintendo-euronews-8> .
+ <http://example.org/core#TikTok> <http://xmlns.com/foaf/0.1/name> "TikTok"  <Nintendo-euronews-8> .
+ <http://example.org/core#Hatecore> <http://www.w3.org/2000/01/rdf-schema#comment> "An edgy aesthetic that explores the grittier parts of the human psyche with aggressive and raw imagery and music."  <Nintendo-euronews-8> .
+ <http://example.org/core#GenZ> <http://www.w3.org/2000/01/rdf-schema#comment> "The demographic cohort after the Millennials. Known for taking the 'cores' trend and making it part of their identities."  <Nintendo-euronews-8> .
+ <http://example.org/core#Icecore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/core#Cores> <Nintendo-euronews-8> .
+ <http://example.org/core#OldMemecore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/core#Cores> <Nintendo-euronews-8> .
+ <http://example.org/core#EuronewsCulture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Nintendo-euronews-8> .
+ <http://example.org/core#EuronewsCulture> <http://www.w3.org/2000/01/rdf-schema#comment> "The team at Euronews Culture has created a comprehensive A - Z glossary of Gen Z's favourite 'cores'."  <Nintendo-euronews-8> .
+ <http://example.org/core#Devilcore> <http://www.w3.org/2000/01/rdf-schema#comment> "An aesthetic that embraces Satanic imagery and occult themes, often associated with a sense of freedom and acceptance, particularly within the LGBTQ community."  <Nintendo-euronews-8> .
+ <http://example.org/core#Angelcore> <http://www.w3.org/2000/01/rdf-schema#comment> "An aesthetic that aims to capture the ethereal beauty associated with European depictions of angels, featuring elements from various belief systems and cultures."  <Nintendo-euronews-8> .
+ <http://example.org/core#Junglecore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/core#Cores> <Nintendo-euronews-8> .
+ <http://example.org/core#Lovecore> <http://www.w3.org/2000/01/rdf-schema#label> "Lovecore"  <Nintendo-euronews-8> .
+ <http://example.org/core#Cores> <http://www.w3.org/2000/01/rdf-schema#label> "Cores"  <Nintendo-euronews-8> .
+ <http://example.org/core#Grandmacore> <http://www.w3.org/2000/01/rdf-schema#label> "Grandmacore"  <Nintendo-euronews-8> .
+ <http://example.org/core#Frogcore> <http://www.w3.org/2000/01/rdf-schema#label> "Frogcore"  <Nintendo-euronews-8> .
+ <http://example.org/core#Devilcore> <http://www.w3.org/2000/01/rdf-schema#label> "Devilcore"  <Nintendo-euronews-8> .
+ <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Nintendo-euronews-9> .
+ <http://example.org/TheSuperMarioBrosMovieOpening> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Nintendo-euronews-9> .
+ <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Nintendo-euronews-9> .
+ <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b11> <http://schema.org/reviewBody> "The film itself is corporate entertainment at its most soulless."  <Nintendo-euronews-9> .
+ <http://example.org/TheSuperMarioBrosMovie> <http://dbpedia.org/ontology/studio> <http://dbpedia.org/resource/Universal_Studios> <Nintendo-euronews-9> .
+ <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b6> <http://schema.org/currency> "USD"  <Nintendo-euronews-9> .
+ <http://example.org/JimOrr> <http://schema.org/name> "Jim Orr"  <Nintendo-euronews-9> .
+ <http://example.org/TheSuperMarioBrosMovieOpening> <http://schema.org/endDate> "Unknown"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-euronews-9> .
+ <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Nintendo-euronews-9> .
+ <http://example.org/TheSuperMarioBrosMovie> <http://dbpedia.org/ontology/producer> <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b5>  <Nintendo-euronews-9> .
+ <http://example.org/TheSuperMarioBrosMovie> <http://dbpedia.org/ontology/record> <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b7>  <Nintendo-euronews-9> .
+ <http://example.org/TheSuperMarioBrosMovie> <http://dbpedia.org/ontology/record> <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b8>  <Nintendo-euronews-9> .
+ <http://example.org/TheSuperMarioBrosMovie> <http://schema.org/name> "The Super Mario Bros. Movie"  <Nintendo-euronews-9> .
+ <http://example.org/TheSuperMarioBrosMovie> <http://dbpedia.org/ontology/record> <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b9>  <Nintendo-euronews-9> .
+ <http://example.org/TheSuperMarioBrosMovie> <http://dbpedia.org/ontology/record> <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b10>  <Nintendo-euronews-9> .
+ <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b13> <http://schema.org/offers> <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b14>  <Nintendo-euronews-9> .
+ <http://example.org/ElonMusk> <http://schema.org/sameAs> <http://dbpedia.org/resource/Elon_Musk> <Nintendo-euronews-9> .
+ <http://example.org/ElonMuskTweet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPosting> <Nintendo-euronews-9> .
+ <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b7> <http://schema.org/description> "Most successful global opening of all time for an animated film"  <Nintendo-euronews-9> .
+ <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b10> <http://schema.org/description> "Record for Illumination"  <Nintendo-euronews-9> .
+ <http://example.org/TheSuperMarioBrosMovie> <http://dbpedia.org/ontology/starring> <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b3>  <Nintendo-euronews-9> .
+ <http://example.org/TheSuperMarioBrosMovieOpening> <http://schema.org/offers> <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b12>  <Nintendo-euronews-9> .
+ <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b13> <http://schema.org/startDate> "Unknown"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-euronews-9> .
+ <http://example.org/TheSuperMarioBrosMovieOpening> <http://schema.org/location> <http://dbpedia.org/resource/Worldwide> <Nintendo-euronews-9> .
+ <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b3> <http://schema.org/name> "Charlie Day"  <Nintendo-euronews-9> .
+ <http://example.org/ElonMusk> <http://schema.org/name> "Elon Musk"  <Nintendo-euronews-9> .
+ <http://example.org/PaulDergarabedian> <http://schema.org/jobTitle> "Senior media analyst for Comscore"  <Nintendo-euronews-9> .
+ <http://example.org/TheSuperMarioBrosMovie> <http://dbpedia.org/ontology/starring> <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b2>  <Nintendo-euronews-9> .
+ <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b14> <http://schema.org/price> "146400000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-euronews-9> .
+ <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Nintendo-euronews-9> .
+ <http://example.org/JimOrr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Nintendo-euronews-9> .
+ <http://example.org/TheSuperMarioBrosMovieOpening> <http://schema.org/startDate> "Unknown"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-euronews-9> .
+ <http://example.org/TheSuperMarioBrosMovie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <Nintendo-euronews-9> .
+ <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Nintendo-euronews-9> .
+ <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b9> <http://schema.org/description> "Record for video game adaptations"  <Nintendo-euronews-9> .
+ <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b13> <http://schema.org/endDate> "Unknown"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-euronews-9> .
+ <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b12> <http://schema.org/price> "204600000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-euronews-9> .
+ <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b14> <http://schema.org/priceCurrency> "USD"  <Nintendo-euronews-9> .
+ <http://example.org/TheSuperMarioBrosMovie> <http://dbpedia.org/ontology/producer> <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b4>  <Nintendo-euronews-9> .
+ <http://example.org/JimOrr> <http://schema.org/jobTitle> "Universal's president of domestic distribution"  <Nintendo-euronews-9> .
+ <http://example.org/TheSuperMarioBrosMovie> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> <Nintendo-euronews-9> .
+ <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b1> <http://schema.org/name> "Unknown"  <Nintendo-euronews-9> .
+ <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b13> <http://schema.org/name> "The Super Mario Bros. Movie Weekend Opening"  <Nintendo-euronews-9> .
+ <http://example.org/PaulDergarabedian> <http://schema.org/name> "Paul Dergarabedian"  <Nintendo-euronews-9> .
+ <http://example.org/TheSuperMarioBrosMovieOpening> <http://schema.org/subEvent> <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b13>  <Nintendo-euronews-9> .
+ <http://example.org/TheSuperMarioBrosMovieOpening> <http://schema.org/name> "The Super Mario Bros. Movie Global Opening"  <Nintendo-euronews-9> .
+ <http://example.org/TheSuperMarioBrosMovie> <http://dbpedia.org/ontology/studio> <http://dbpedia.org/resource/Illumination_Entertainment> <Nintendo-euronews-9> .
+ <http://example.org/PaulDergarabedian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Nintendo-euronews-9> .
+ <http://example.org/ElonMuskTweet> <http://schema.org/datePublished> "Unknown"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-euronews-9> .
+ <http://example.org/TheSuperMarioBrosMovie> <http://dbpedia.org/ontology/releaseYear> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Nintendo-euronews-9> .
+ <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> <Nintendo-euronews-9> .
+ <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b4> <http://schema.org/name> "Nintendo"  <Nintendo-euronews-9> .
+ <http://example.org/ElonMusk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Nintendo-euronews-9> .
+ <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Nintendo-euronews-9> .
+ <http://example.org/ElonMuskTweet> <http://schema.org/articleBody> "the critics are so disconnected from reality!"  <Nintendo-euronews-9> .
+ <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> <Nintendo-euronews-9> .
+ <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Nintendo-euronews-9> .
+ <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Nintendo-euronews-9> .
+ <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Nintendo-euronews-9> .
+ <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Nintendo-euronews-9> .
+ <http://example.org/TheSuperMarioBrosMovie> <http://dbpedia.org/ontology/workRuntime> "90"^^<http://www.w3.org/2001/XMLSchema#integer>  <Nintendo-euronews-9> .
+ <http://example.org/TheSuperMarioBrosMovie> <http://dbpedia.org/ontology/director> <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b1>  <Nintendo-euronews-9> .
+ <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b8> <http://schema.org/description> "Biggest opening of 2023"  <Nintendo-euronews-9> .
+ <http://example.org/TheSuperMarioBrosMovie> <http://dbpedia.org/ontology/boxOffice> <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b6>  <Nintendo-euronews-9> .
+ <http://example.org/ElonMuskTweet> <http://schema.org/author> <http://example.org/ElonMusk> <Nintendo-euronews-9> .
+ <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b12> <http://schema.org/priceCurrency> "USD"  <Nintendo-euronews-9> .
+ <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MonetaryAmount> <Nintendo-euronews-9> .
+ <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b6> <http://schema.org/value> "377000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-euronews-9> .
+ <http://example.org/TheSuperMarioBrosMovie> <http://schema.org/review> <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b11>  <Nintendo-euronews-9> .
+ <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b2> <http://schema.org/name> "Chris Pratt"  <Nintendo-euronews-9> .
+ <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b5> <http://schema.org/name> "Illumination"  <Nintendo-euronews-9> .
+ <http://Nintendo-euronews-9.com/blank#nc9b469c565984777ba9853c00a481e79b11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> <Nintendo-euronews-9> .

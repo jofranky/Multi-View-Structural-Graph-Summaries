@@ -1,0 +1,644 @@
+ <http://dbpedia.org/resource/Lula_da_Silva> <http://xmlns.com/foaf/0.1/name> "Lula da Silva"  <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Nobel_Peace_Prize> <http://data.nobelprize.org/terms/establishmentYear> "1895"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Stockholm_International_Peace_Research_Institute> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Dan_Smith_(peace_researcher)> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Victoria_Tauli-Corpuz> <http://xmlns.com/foaf/0.1/name> "Victoria Tauli-Corpuz"  <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/International_Court_of_Justice> <http://data.nobelprize.org/terms/speculatedNominee> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Juan_Carlos_Jintiach> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Ales_Bialiatski> <http://xmlns.com/foaf/0.1/name> "Ales Bialiatski"  <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Dan_Smith_(peace_researcher)> <http://xmlns.com/foaf/0.1/name> "Dan Smith"  <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Truth_and_reconciliation_commission> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Center_for_Civil_Liberties> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Ales_Bialiatski> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Sami_people> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EthnicGroup> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Nobel_Peace_Prize> <http://data.nobelprize.org/terms/relatedToEvent> <http://dbpedia.org/resource/Russian_invasion_of_Ukraine> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Volodymyr_Zelensky> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Sami_people> <http://www.w3.org/2000/01/rdf-schema#label> "Sami people"  <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Dmitry_Muratov> <http://data.nobelprize.org/terms/laureateYear> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Dmitry_Muratov> <http://xmlns.com/foaf/0.1/name> "Dmitry Muratov"  <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Henrik_Urdal> <http://xmlns.com/foaf/0.1/name> "Henrik Urdal"  <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Raoni_Metuktire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Memorial_(society)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Volodymyr_Zelensky> <http://data.nobelprize.org/terms/speculatedNominee> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Ales_Bialiatski> <http://data.nobelprize.org/terms/laureateYear> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Raoni_Metuktire> <http://data.nobelprize.org/terms/speculatedNominee> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Volodymyr_Zelensky> <http://xmlns.com/foaf/0.1/name> "Volodymyr Zelensky"  <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/International_Criminal_Court> <http://xmlns.com/foaf/0.1/name> "International Criminal Court"  <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Center_for_Civil_Liberties> <http://xmlns.com/foaf/0.1/name> "Center for Civil Liberties"  <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Peace_Research_Institute_Oslo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Nobel_Peace_Prize> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.nobelprize.org/terms/Prize> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Peace_Research_Institute_Oslo> <http://xmlns.com/foaf/0.1/name> "Peace Research Institute Oslo"  <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Peace_Research_Institute_Oslo> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Henrik_Urdal> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Amazonia_summit> <http://dbpedia.org/ontology/participant> <http://dbpedia.org/resource/Raoni_Metuktire> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Dmitry_Muratov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Lula_da_Silva> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Dan_Smith_(peace_researcher)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/International_Court_of_Justice> <http://xmlns.com/foaf/0.1/name> "International Court of Justice"  <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Winston_Churchill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Winston_Churchill> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Prime_Minister_of_the_United_Kingdom> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Center_for_Civil_Liberties> <http://data.nobelprize.org/terms/laureateYear> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Victoria_Tauli-Corpuz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Dan_Smith_(peace_researcher)> <http://xmlns.com/foaf/0.1/member> <http://dbpedia.org/resource/Stockholm_International_Peace_Research_Institute> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/El_Niño> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ClimateEvent> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Victoria_Tauli-Corpuz> <http://data.nobelprize.org/terms/speculatedNominee> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Amazonia_summit> <http://dbpedia.org/ontology/participant> <http://dbpedia.org/resource/Lula_da_Silva> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Henrik_Urdal> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Director> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Memorial_(society)> <http://data.nobelprize.org/terms/laureateYear> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Memorial_(society)> <http://xmlns.com/foaf/0.1/name> "Memorial"  <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Stockholm_International_Peace_Research_Institute> <http://dbpedia.org/ontology/abbreviation> "SIPRI"  <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Lula_da_Silva> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/President_of_Brazil> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Stockholm_International_Peace_Research_Institute> <http://xmlns.com/foaf/0.1/name> "Stockholm International Peace Research Institute"  <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/El_Niño> <http://www.w3.org/2000/01/rdf-schema#label> "El Niño"  <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Juan_Carlos_Jintiach> <http://xmlns.com/foaf/0.1/name> "Juan Carlos Jintiach"  <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/El_Niño> <http://dbpedia.org/ontology/year> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Henrik_Urdal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Amazonia_summit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Stockholm_International_Peace_Research_Institute> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Dan_Smith_(peace_researcher)> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Director> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Nobel_Peace_Prize> <http://www.w3.org/2000/01/rdf-schema#label> "Nobel Peace Prize"  <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Winston_Churchill> <http://xmlns.com/foaf/0.1/name> "Winston Churchill"  <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Nobel_Peace_Prize> <http://data.nobelprize.org/terms/awardedIn> <http://dbpedia.org/resource/Norway> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Raoni_Metuktire> <http://xmlns.com/foaf/0.1/name> "Chief Raoni Metuktire"  <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Peace_Research_Institute_Oslo> <http://dbpedia.org/ontology/abbreviation> "PRIO"  <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Truth_and_reconciliation_commission> <http://dbpedia.org/ontology/relatedTo> <http://dbpedia.org/resource/Sami_people> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Dan_Smith_(peace_researcher)> <http://schema.org/employee> <http://dbpedia.org/resource/Stockholm_International_Peace_Research_Institute> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Volodymyr_Zelensky> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/President_of_Ukraine> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/International_Court_of_Justice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Amazonia_summit> <http://dbpedia.org/ontology/date> "2023-08-07"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/International_Criminal_Court> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Truth_and_reconciliation_commission> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Norway> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Henrik_Urdal> <http://xmlns.com/foaf/0.1/member> <http://dbpedia.org/resource/Peace_Research_Institute_Oslo> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Henrik_Urdal> <http://schema.org/employee> <http://dbpedia.org/resource/Peace_Research_Institute_Oslo> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/International_Criminal_Court> <http://data.nobelprize.org/terms/speculatedNominee> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Nobel_Peace_Prize> <http://data.nobelprize.org/terms/establishedBy> <http://dbpedia.org/resource/Alfred_Nobel> <NobelPrize-CNN-0> .
+ <http://dbpedia.org/resource/Juan_Carlos_Jintiach> <http://data.nobelprize.org/terms/speculatedNominee> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NobelPrize-CNN-0> .
+ <http://example.org/entities/TweetSviatlanaTsikhanouskaya> <http://purl.org/dc/elements/1.1/creator> <http://example.org/entities/SviatlanaTsikhanouskaya> <NobelPrize-CNN-1> .
+ <http://example.org/entities/TweetSviatlanaTsikhanouskaya> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/sioc/ns#Post> <NobelPrize-CNN-1> .
+ <http://example.org/entities/EuropeanParliamentBuilding> <http://schema.org/address> "Strasberg, France"  <NobelPrize-CNN-1> .
+ <http://example.org/entities/EmmanuelMacron> <http://dbpedia.org/ontology/office> "President of France"  <NobelPrize-CNN-1> .
+ <http://example.org/entities/EmmanuelMacron> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-1> .
+ <http://example.org/entities/UrsulaVonDerLeyen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-1> .
+ <http://example.org/entities/UrsulaVonDerLeyen> <http://xmlns.com/foaf/0.1/name> "Ursula von der Leyen"  <NobelPrize-CNN-1> .
+ <http://example.org/entities/JensStoltenberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-1> .
+ <http://example.org/entities/TweetSviatlanaTsikhanouskaya> <http://purl.org/dc/elements/1.1/date> "2022-10-05"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-CNN-1> .
+ <http://example.org/entities/PhilippVonDitfurth> <http://xmlns.com/foaf/0.1/name> "Philipp von Ditfurth"  <NobelPrize-CNN-1> .
+ <http://example.org/entities/EuropeanParliamentBuilding> <http://schema.org/name> "European Parliament building"  <NobelPrize-CNN-1> .
+ <http://example.org/entities/SviatlanaTsikhanouskaya> <http://dbpedia.org/ontology/residence> <http://example.org/entities/Lithuania> <NobelPrize-CNN-1> .
+ <http://example.org/entities/PictureAllianceGettyImages> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <NobelPrize-CNN-1> .
+ <http://example.org/entities/AlesBialiatski> <http://dbpedia.org/ontology/occupation> "Belarusian human rights defender"  <NobelPrize-CNN-1> .
+ <http://example.org/entities/SpeechEvent> <http://schema.org/location> <http://example.org/entities/EuropeanParliamentBuilding> <NobelPrize-CNN-1> .
+ <http://example.org/entities/TweetEmmanuelMacron> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/sioc/ns#Post> <NobelPrize-CNN-1> .
+ <http://example.org/entities/TweetJensStoltenberg> <http://rdfs.org/sioc/ns#content> "The right to speak truth to power is fundamental to free and open societies."  <NobelPrize-CNN-1> .
+ <http://example.org/entities/NobelPeacePrize2022> <http://dbpedia.org/ontology/year> "2022"  <NobelPrize-CNN-1> .
+ <http://example.org/entities/SpeechEvent> <http://schema.org/startDate> "2022-10-05"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-CNN-1> .
+ <http://example.org/entities/NobelPeacePrize2022> <http://dbpedia.org/ontology/award> "Nobel Peace Prize"  <NobelPrize-CNN-1> .
+ <http://example.org/entities/TweetUrsulaVonDerLeyen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/sioc/ns#Post> <NobelPrize-CNN-1> .
+ <http://example.org/entities/PictureAllianceGettyImages> <http://xmlns.com/foaf/0.1/name> "picture alliance/Getty Images"  <NobelPrize-CNN-1> .
+ <http://example.org/entities/NobelPeacePrize2022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> <NobelPrize-CNN-1> .
+ <http://example.org/entities/TweetJensStoltenberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/sioc/ns#Post> <NobelPrize-CNN-1> .
+ <http://example.org/entities/TweetUrsulaVonDerLeyen> <http://purl.org/dc/elements/1.1/date> "2022-10-05"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-CNN-1> .
+ <http://example.org/entities/AlesBialiatski> <http://xmlns.com/foaf/0.1/name> "Ales Bialiatski"  <NobelPrize-CNN-1> .
+ <http://example.org/entities/TweetJensStoltenberg> <http://purl.org/dc/elements/1.1/creator> <http://example.org/entities/JensStoltenberg> <NobelPrize-CNN-1> .
+ <http://example.org/entities/Lithuania> <http://dbpedia.org/ontology/name> "Lithuania"  <NobelPrize-CNN-1> .
+ <http://example.org/entities/EmmanuelMacron> <http://xmlns.com/foaf/0.1/name> "Emmanuel Macron"  <NobelPrize-CNN-1> .
+ <http://example.org/entities/TweetEmmanuelMacron> <http://purl.org/dc/elements/1.1/date> "2022-10-05"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-CNN-1> .
+ <http://example.org/entities/SpeechEvent> <http://schema.org/eventType> "Speech"  <NobelPrize-CNN-1> .
+ <http://example.org/entities/PhilippVonDitfurth> <http://schema.org/affiliation> <http://example.org/entities/PictureAllianceGettyImages> <NobelPrize-CNN-1> .
+ <http://example.org/entities/TweetEmmanuelMacron> <http://rdfs.org/sioc/ns#content> "Artisans of peace, they know they can count on France's support."  <NobelPrize-CNN-1> .
+ <http://example.org/entities/AlesBialiatski> <http://dbpedia.org/ontology/status> "political prisoner"  <NobelPrize-CNN-1> .
+ <http://example.org/entities/EuropeanParliamentBuilding> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <NobelPrize-CNN-1> .
+ <http://example.org/entities/TweetJensStoltenberg> <http://purl.org/dc/elements/1.1/date> "2022-10-05"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-CNN-1> .
+ <http://example.org/entities/JensStoltenberg> <http://dbpedia.org/ontology/office> "NATO Secretary General"  <NobelPrize-CNN-1> .
+ <http://example.org/entities/TweetUrsulaVonDerLeyen> <http://purl.org/dc/elements/1.1/creator> <http://example.org/entities/UrsulaVonDerLeyen> <NobelPrize-CNN-1> .
+ <http://example.org/entities/SpeechEvent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NobelPrize-CNN-1> .
+ <http://example.org/entities/TweetUrsulaVonDerLeyen> <http://rdfs.org/sioc/ns#content> "They show the true power of civil society in the fight for democracy. Tell their stories. Share their engagement. Help make the world a freer place."  <NobelPrize-CNN-1> .
+ <http://example.org/entities/PhilippVonDitfurth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-1> .
+ <http://example.org/entities/UrsulaVonDerLeyen> <http://dbpedia.org/ontology/office> "President of the European Commission"  <NobelPrize-CNN-1> .
+ <http://example.org/entities/Lithuania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <NobelPrize-CNN-1> .
+ <http://example.org/entities/SpeechEvent> <http://schema.org/speaker> <http://example.org/entities/UrsulaVonDerLeyen> <NobelPrize-CNN-1> .
+ <http://example.org/entities/SviatlanaTsikhanouskaya> <http://dbpedia.org/ontology/occupation> "Belarusian opposition politician"  <NobelPrize-CNN-1> .
+ <http://example.org/entities/SviatlanaTsikhanouskaya> <http://xmlns.com/foaf/0.1/name> "Sviatlana Tsikhanouskaya"  <NobelPrize-CNN-1> .
+ <http://example.org/entities/SviatlanaTsikhanouskaya> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-1> .
+ <http://example.org/entities/JensStoltenberg> <http://xmlns.com/foaf/0.1/name> "Jens Stoltenberg"  <NobelPrize-CNN-1> .
+ <http://example.org/entities/UrsulaVonDerLeyen> <http://xmlns.com/foaf/0.1/title> "President of the European Commission"  <NobelPrize-CNN-1> .
+ <http://example.org/entities/TweetSviatlanaTsikhanouskaya> <http://rdfs.org/sioc/ns#content> "Congratulations to Belarusian human rights defender & political prisoner Ales Bialiatski for receiving the 2022 #NobelPeacePrize. The prize is an important recognition for all Belarusians fighting for freedom & democracy. All political prisoners must be released without delay."  <NobelPrize-CNN-1> .
+ <http://example.org/entities/AlesBialiatski> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-1> .
+ <http://example.org/entities/TweetEmmanuelMacron> <http://purl.org/dc/elements/1.1/creator> <http://example.org/entities/EmmanuelMacron> <NobelPrize-CNN-1> .
+ <http://example.org/DanSmith> <http://xmlns.com/foaf/0.1/title> "Director"  <NobelPrize-CNN-2> .
+ <http://example.org/UkraineConflict> <http://purl.org/dc/elements/1.1/description> "Europe’s biggest war for seven decades"  <NobelPrize-CNN-2> .
+ <http://example.org/SIPRI> <http://dbpedia.org/ontology/abbreviation> "Stockholm International Peace Research Institute"  <NobelPrize-CNN-2> .
+ <http://example.org/Europe> <http://dbpedia.org/ontology/conflict> <http://example.org/UkraineConflict> <NobelPrize-CNN-2> .
+ <http://example.org/nobel/NorwegianNobelCommittee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <NobelPrize-CNN-2> .
+ <http://example.org/nobel/PeacePrize> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> <NobelPrize-CNN-2> .
+ <http://example.org/VolodymyrZelensky> <http://xmlns.com/foaf/0.1/name> "Volodymyr Zelensky"  <NobelPrize-CNN-2> .
+ <http://example.org/FrederikWillemDeKlerk> <http://xmlns.com/foaf/0.1/name> "Frederik Willem de Klerk"  <NobelPrize-CNN-2> .
+ <http://example.org/AlexeyNavalny> <http://dbpedia.org/ontology/residence> <http://example.org/Russia> <NobelPrize-CNN-2> .
+ <http://example.org/SIPRI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <NobelPrize-CNN-2> .
+ <http://example.org/HenrikUrdal> <http://xmlns.com/foaf/0.1/title> "Director"  <NobelPrize-CNN-2> .
+ <http://example.org/GretaThunberg> <http://dbpedia.org/ontology/occupation> <http://example.org/ClimateActivist> <NobelPrize-CNN-2> .
+ <http://example.org/PeaceResearchInstituteOslo> <http://dbpedia.org/ontology/abbreviation> "PRIO"  <NobelPrize-CNN-2> .
+ <http://example.org/UkraineConflict> <http://dbpedia.org/ontology/combatant> <http://example.org/Russia> <NobelPrize-CNN-2> .
+ <http://example.org/HarshMander> <http://dbpedia.org/ontology/occupation> <http://example.org/HumanRightsActivist> <NobelPrize-CNN-2> .
+ <http://example.org/BelarusianOppositionLeader> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <NobelPrize-CNN-2> .
+ <http://example.org/HarshMander> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-2> .
+ <http://example.org/nobel/NorwegianNobelCommittee> <http://dbpedia.org/ontology/location> <http://example.org/Oslo> <NobelPrize-CNN-2> .
+ <http://example.org/NadiaMurad> <http://xmlns.com/foaf/0.1/name> "Nadia Murad"  <NobelPrize-CNN-2> .
+ <http://example.org/NelsonMandela> <http://xmlns.com/foaf/0.1/name> "Nelson Mandela"  <NobelPrize-CNN-2> .
+ <http://example.org/PresidentOfUkraine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <NobelPrize-CNN-2> .
+ <http://example.org/InternationalCourtOfJustice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <NobelPrize-CNN-2> .
+ <http://example.org/nobel/PeacePrize> <http://dbpedia.org/ontology/location> <http://example.org/Norway> <NobelPrize-CNN-2> .
+ <http://example.org/AlexeyNavalny> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-2> .
+ <http://example.org/OppositionLeader> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <NobelPrize-CNN-2> .
+ <http://example.org/InternationalCourtOfJustice> <http://dbpedia.org/ontology/abbreviation> "ICJ"  <NobelPrize-CNN-2> .
+ <http://example.org/HumanRightsActivist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <NobelPrize-CNN-2> .
+ <http://example.org/HenrikUrdal> <http://xmlns.com/foaf/0.1/organization> <http://example.org/PeaceResearchInstituteOslo> <NobelPrize-CNN-2> .
+ <http://example.org/Ukraine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <NobelPrize-CNN-2> .
+ <http://example.org/Norway> <http://dbpedia.org/ontology/capital> <http://example.org/Oslo> <NobelPrize-CNN-2> .
+ <http://example.org/UkraineConflict> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> <NobelPrize-CNN-2> .
+ <http://example.org/SviatlanaTsikhanouskaya> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-2> .
+ <http://example.org/ClimateActivist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <NobelPrize-CNN-2> .
+ <http://example.org/UNHCR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <NobelPrize-CNN-2> .
+ <http://example.org/AlexeyNavalny> <http://xmlns.com/foaf/0.1/name> "Alexey Navalny"  <NobelPrize-CNN-2> .
+ <http://example.org/nobel/PeacePrize> <http://purl.org/dc/elements/1.1/date> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-CNN-2> .
+ <http://example.org/DanSmith> <http://xmlns.com/foaf/0.1/organization> <http://example.org/SIPRI> <NobelPrize-CNN-2> .
+ <http://example.org/VolodymyrZelensky> <http://dbpedia.org/ontology/occupation> <http://example.org/PresidentOfUkraine> <NobelPrize-CNN-2> .
+ <http://example.org/SviatlanaTsikhanouskaya> <http://xmlns.com/foaf/0.1/name> "Sviatlana Tsikhanouskaya"  <NobelPrize-CNN-2> .
+ <http://example.org/AlexeyNavalny> <http://dbpedia.org/ontology/occupation> <http://example.org/OppositionLeader> <NobelPrize-CNN-2> .
+ <http://example.org/Russia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <NobelPrize-CNN-2> .
+ <http://example.org/NelsonMandela> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-2> .
+ <http://example.org/NadiaMurad> <http://dbpedia.org/ontology/occupation> <http://example.org/HumanRightsActivist> <NobelPrize-CNN-2> .
+ <http://example.org/UNHCR> <http://dbpedia.org/ontology/abbreviation> "United Nations High Commissioner for Refugees"  <NobelPrize-CNN-2> .
+ <http://example.org/DanSmith> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-2> .
+ <http://example.org/Norway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <NobelPrize-CNN-2> .
+ <http://example.org/HenrikUrdal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-2> .
+ <http://example.org/Europe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Continent> <NobelPrize-CNN-2> .
+ <http://example.org/GretaThunberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-2> .
+ <http://example.org/VolodymyrZelensky> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-2> .
+ <http://example.org/NadiaMurad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-2> .
+ <http://example.org/Oslo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/City> <NobelPrize-CNN-2> .
+ <http://example.org/FrederikWillemDeKlerk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-2> .
+ <http://example.org/UkraineConflict> <http://dbpedia.org/ontology/combatant> <http://example.org/Ukraine> <NobelPrize-CNN-2> .
+ <http://example.org/PeaceResearchInstituteOslo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <NobelPrize-CNN-2> .
+ <http://example.org/SviatlanaTsikhanouskaya> <http://dbpedia.org/ontology/occupation> <http://example.org/BelarusianOppositionLeader> <NobelPrize-CNN-2> .
+ <http://example.org/PresidentOfUkraine> <http://dbpedia.org/ontology/country> <http://example.org/Ukraine> <NobelPrize-CNN-2> .
+ <http://example.org/JenniferDoudna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-3> .
+ <http://example.org/KipThorne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-3> .
+ <http://example.org/MartinRees> <http://xmlns.com/foaf/0.1/name> "Martin Rees"  <NobelPrize-CNN-3> .
+ <http://example.org/NobelPrizes> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Nobel_Prize_in_Physics> <NobelPrize-CNN-3> .
+ <http://example.org/NaomiOreskes> <http://dbpedia.org/ontology/occupation> "Henry Charles Lea Professor of the history of science"  <NobelPrize-CNN-3> .
+ <http://example.org/AndreaGhez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-3> .
+ <http://example.org/HumanGenomeProject> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Project> <NobelPrize-CNN-3> .
+ <http://example.org/AlphaFold> <http://dbpedia.org/ontology/developer> <http://example.org/DemisHassabis> <NobelPrize-CNN-3> .
+ <http://example.org/JohnJumper> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-3> .
+ <http://example.org/RoyalSociety> <http://dbpedia.org/ontology/founder> <http://dbpedia.org/resource/Royal_Society> <NobelPrize-CNN-3> .
+ <http://example.org/RoyalSociety> <http://dbpedia.org/ontology/location> "United Kingdom"  <NobelPrize-CNN-3> .
+ <http://example.org/AlphaFold> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Lasker_Award> <NobelPrize-CNN-3> .
+ <http://example.org/WonderTheoryNewsletter> <http://schema.org/publisher> <http://dbpedia.org/resource/CNN> <NobelPrize-CNN-3> .
+ <http://example.org/CRISPRCas9> <http://dbpedia.org/ontology/resultingAward> <http://dbpedia.org/resource/Nobel_Prize_in_Chemistry> <NobelPrize-CNN-3> .
+ <http://example.org/NobelPrizes> <http://dbpedia.org/ontology/foundingYear> "1895"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-CNN-3> .
+ <http://example.org/CRISPRCas9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ScientificTechnique> <NobelPrize-CNN-3> .
+ <http://example.org/AlfredNobel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-3> .
+ <http://example.org/CRISPRCas9> <http://dbpedia.org/ontology/year> "2020"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-CNN-3> .
+ <http://example.org/UniverseExploration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <NobelPrize-CNN-3> .
+ <http://example.org/NobelPrizes> <http://dbpedia.org/ontology/awardDiscipline> "medicine or physiology"  <NobelPrize-CNN-3> .
+ <http://example.org/RainerWeiss> <http://xmlns.com/foaf/0.1/name> "Rainer Weiss"  <NobelPrize-CNN-3> .
+ <http://example.org/IfScienceIsToSaveUs> <http://purl.org/dc/elements/1.1/title> "If Science Is to Save Us"  <NobelPrize-CNN-3> .
+ <http://example.org/NobelPrizes> <http://dbpedia.org/ontology/foundedBy> "Alfred Nobel"  <NobelPrize-CNN-3> .
+ <http://example.org/GravitationalWavesDiscovery> <http://dbpedia.org/ontology/participant> <http://example.org/BarryBarish> <NobelPrize-CNN-3> .
+ <http://example.org/MartinRees> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Cosmologist> <NobelPrize-CNN-3> .
+ <http://example.org/EmmanuelleCharpentier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-3> .
+ <http://example.org/WonderTheoryNewsletter> <http://schema.org/text> "Explore the universe with news on fascinating discoveries, scientific advancements and more."  <NobelPrize-CNN-3> .
+ <http://example.org/AndreaGhez> <http://xmlns.com/foaf/0.1/name> "Andrea Ghez"  <NobelPrize-CNN-3> .
+ <http://example.org/MartinRees> <http://dbpedia.org/ontology/title> "UK's astronomer royal"  <NobelPrize-CNN-3> .
+ <http://example.org/MartinRees> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-3> .
+ <http://example.org/JohnJumper> <http://xmlns.com/foaf/0.1/name> "John Jumper"  <NobelPrize-CNN-3> .
+ <http://example.org/NobelPrizes> <http://dbpedia.org/ontology/awardDiscipline> "physics"  <NobelPrize-CNN-3> .
+ <http://example.org/BarryBarish> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-3> .
+ <http://example.org/AlfredNobel> <http://xmlns.com/foaf/0.1/name> "Alfred Nobel"  <NobelPrize-CNN-3> .
+ <http://example.org/MartinRees> <http://dbpedia.org/ontology/title> "British cosmologist and physicist"  <NobelPrize-CNN-3> .
+ <http://example.org/DavidPendlebury> <http://xmlns.com/foaf/0.1/name> "David Pendlebury"  <NobelPrize-CNN-3> .
+ <http://example.org/NobelPrizes> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Nobel_Prize_in_Chemistry> <NobelPrize-CNN-3> .
+ <http://example.org/NaomiOreskes> <http://xmlns.com/foaf/0.1/name> "Naomi Oreskes"  <NobelPrize-CNN-3> .
+ <http://example.org/JenniferDoudna> <http://xmlns.com/foaf/0.1/name> "Jennifer Doudna"  <NobelPrize-CNN-3> .
+ <http://example.org/EmmanuelleCharpentier> <http://xmlns.com/foaf/0.1/name> "Emmanuelle Charpentier"  <NobelPrize-CNN-3> .
+ <http://example.org/DemisHassabis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-3> .
+ <http://example.org/WonderTheoryNewsletter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EmailMessage> <NobelPrize-CNN-3> .
+ <http://example.org/AlfredNobel> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Industrialist> <NobelPrize-CNN-3> .
+ <http://example.org/PeterBrzezinski> <http://xmlns.com/foaf/0.1/name> "Peter Brzezinski"  <NobelPrize-CNN-3> .
+ <http://example.org/CarolynBertozzi> <http://xmlns.com/foaf/0.1/name> "Carolyn Bertozzi"  <NobelPrize-CNN-3> .
+ <http://example.org/BarryBarish> <http://xmlns.com/foaf/0.1/name> "Barry Barish"  <NobelPrize-CNN-3> .
+ <http://example.org/AlphaFold> <http://dbpedia.org/ontology/year> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-CNN-3> .
+ <http://example.org/CRISPRCas9> <http://dbpedia.org/ontology/inventor> <http://example.org/EmmanuelleCharpentier> <NobelPrize-CNN-3> .
+ <http://example.org/KipThorne> <http://xmlns.com/foaf/0.1/name> "Kip Thorne"  <NobelPrize-CNN-3> .
+ <http://example.org/HumanGenomeProject> <http://schema.org/name> "Human Genome Project"  <NobelPrize-CNN-3> .
+ <http://example.org/NobelPrizes> <http://dbpedia.org/ontology/establishedBy> <http://dbpedia.org/resource/Alfred_Nobel> <NobelPrize-CNN-3> .
+ <http://example.org/MartinRees> <http://xmlns.com/foaf/0.1/publications> <http://example.org/IfScienceIsToSaveUs> <NobelPrize-CNN-3> .
+ <http://example.org/PeterBrzezinski> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-3> .
+ <http://example.org/IfScienceIsToSaveUs> <http://dbpedia.org/ontology/author> <http://example.org/MartinRees> <NobelPrize-CNN-3> .
+ <http://example.org/UniverseExploration> <http://schema.org/name> "Universe Exploration"  <NobelPrize-CNN-3> .
+ <http://example.org/DavidPendlebury> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-3> .
+ <http://example.org/DavidPendlebury> <http://dbpedia.org/ontology/occupation> "head of research analysis at Clarivate’s Institute for Scientific Information"  <NobelPrize-CNN-3> .
+ <http://example.org/AlphaFold> <http://dbpedia.org/ontology/developer> <http://example.org/JohnJumper> <NobelPrize-CNN-3> .
+ <http://example.org/AlfredNobel> <http://dbpedia.org/ontology/nationality> "Swedish"  <NobelPrize-CNN-3> .
+ <http://example.org/AlphaFold> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <NobelPrize-CNN-3> .
+ <http://example.org/HumanGenomeProject> <http://dbpedia.org/ontology/completionYear> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-CNN-3> .
+ <http://example.org/RainerWeiss> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-3> .
+ <http://example.org/RoyalSociety> <http://dbpedia.org/ontology/foundingDate> "1660"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-CNN-3> .
+ <http://example.org/GravitationalWavesDiscovery> <http://dbpedia.org/ontology/year> "2017"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-CNN-3> .
+ <http://example.org/NaomiOreskes> <http://dbpedia.org/ontology/occupation> "affiliated professor of Earth and planetary sciences at Harvard University"  <NobelPrize-CNN-3> .
+ <http://example.org/NaomiOreskes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-3> .
+ <http://example.org/CRISPRCas9> <http://dbpedia.org/ontology/inventor> <http://example.org/JenniferDoudna> <NobelPrize-CNN-3> .
+ <http://example.org/NobelPrizes> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Nobel_Prize_in_Physiology_or_Medicine> <NobelPrize-CNN-3> .
+ <http://example.org/NobelPrizes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> <NobelPrize-CNN-3> .
+ <http://example.org/MartinRees> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Physicist> <NobelPrize-CNN-3> .
+ <http://example.org/RoyalSociety> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <NobelPrize-CNN-3> .
+ <http://example.org/PeterBrzezinski> <http://dbpedia.org/ontology/occupation> "secretary of the committee for the Nobel chemistry prize"  <NobelPrize-CNN-3> .
+ <http://example.org/CarolynBertozzi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-3> .
+ <http://example.org/GravitationalWavesDiscovery> <http://dbpedia.org/ontology/participant> <http://example.org/KipThorne> <NobelPrize-CNN-3> .
+ <http://example.org/IfScienceIsToSaveUs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Book> <NobelPrize-CNN-3> .
+ <http://example.org/GravitationalWavesDiscovery> <http://schema.org/about> <http://dbpedia.org/resource/Gravitational_wave> <NobelPrize-CNN-3> .
+ <http://example.org/WonderTheoryNewsletter> <http://schema.org/dateCreated> "2023-04-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-CNN-3> .
+ <http://example.org/GravitationalWavesDiscovery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NobelPrize-CNN-3> .
+ <http://example.org/DemisHassabis> <http://xmlns.com/foaf/0.1/name> "Demis Hassabis"  <NobelPrize-CNN-3> .
+ <http://example.org/GravitationalWavesDiscovery> <http://dbpedia.org/ontology/participant> <http://example.org/RainerWeiss> <NobelPrize-CNN-3> .
+ <http://example.org/AlphaFold> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Breakthrough_Prize> <NobelPrize-CNN-3> .
+ <http://example.org/MartinRees> <http://dbpedia.org/ontology/title> "former president of the Royal Society"  <NobelPrize-CNN-3> .
+ <http://example.org/GravitationalWavesDiscovery> <http://dbpedia.org/ontology/resultingAward> <http://dbpedia.org/resource/Nobel_Prize_in_Physics> <NobelPrize-CNN-3> .
+ <http://example.org/WonderTheoryNewsletter> <http://schema.org/about> <http://example.org/UniverseExploration> <NobelPrize-CNN-3> .
+ <http://example.org/NobelPrizes> <http://dbpedia.org/ontology/awardDiscipline> "chemistry"  <NobelPrize-CNN-3> .
+ <http://reporterswithoutborders.org/entities/Reporters_Without_Borders> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <NobelPrize-CNN-4> .
+ <http://data.ntb.no/pressConference> <http://schema.org/organizer> <http://dbpedia.org/resource/Norwegian_Nobel_Committee> <NobelPrize-CNN-4> .
+ <http://data.ntb.no/MariaRessaCNNInterview> <http://schema.org/text> "I have covered this country since 1986, I've never been the news. But the only reason I've become the news is because I refuse to be stamped down, I refuse to stop doing my job the way I should."  <NobelPrize-CNN-4> .
+ <http://data.ntb.no/pressConference> <http://schema.org/attendee> <http://dbpedia.org/resource/Berit_Reiss-Andersen> <NobelPrize-CNN-4> .
+ <http://dbpedia.org/resource/Maria_Ressa> <http://xmlns.com/foaf/0.1/name> "Maria Ressa"  <NobelPrize-CNN-4> .
+ <http://data.ntb.no/pressFreedomStatement> <http://schema.org/author> <http://dbpedia.org/resource/Berit_Reiss-Andersen> <NobelPrize-CNN-4> .
+ <http://data.ntb.no/MariaRessaCNNInterview> <http://schema.org/author> <http://dbpedia.org/resource/Maria_Ressa> <NobelPrize-CNN-4> .
+ <http://data.ntb.no/DmitryMuratovStatement> <http://schema.org/datePublished> "2021-10-08"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-CNN-4> .
+ <http://data.ntb.no/Heiko_Junge> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Photographer> <NobelPrize-CNN-4> .
+ <http://dbpedia.org/resource/Dmitry_Muratov> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Journalist> <NobelPrize-CNN-4> .
+ <http://dbpedia.org/resource/Maria_Ressa> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Journalist> <NobelPrize-CNN-4> .
+ <http://data.ntb.no/pressFreedomStatement> <http://schema.org/text> "Freedom of expression and freedom of information help to ensure an informed public. These rights are crucial prerequisites for democracy and protect against war and conflict."  <NobelPrize-CNN-4> .
+ <http://dbpedia.org/resource/Dmitry_Muratov> <http://xmlns.com/foaf/0.1/name> "Dmitry Muratov"  <NobelPrize-CNN-4> .
+ <http://data.ntb.no/NTB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <NobelPrize-CNN-4> .
+ <http://data.ntb.no/pressFreedomStatement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <NobelPrize-CNN-4> .
+ <http://data.ntb.no/DmitryMuratovStatement> <http://schema.org/text> "This is not my merit. This is Novaya Gazeta. These are those who died defending the right of people to freedom of speech."  <NobelPrize-CNN-4> .
+ <http://dbpedia.org/resource/Norwegian_Nobel_Committee> <http://xmlns.com/foaf/0.1/name> "Norwegian Nobel Committee"  <NobelPrize-CNN-4> .
+ <http://data.ntb.no/Heiko_Junge_Photo> <http://schema.org/license> <http://data.ntb.no/AFP/Getty_Images> <NobelPrize-CNN-4> .
+ <http://data.ntb.no/Heiko_Junge_Photo> <http://schema.org/author> <http://data.ntb.no/Heiko_Junge> <NobelPrize-CNN-4> .
+ <http://data.ntb.no/Heiko_Junge_Photo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Photograph> <NobelPrize-CNN-4> .
+ <http://reporterswithoutborders.org/entities/PressFreedomIndex> <http://schema.org/author> <http://reporterswithoutborders.org/entities/Reporters_Without_Borders> <NobelPrize-CNN-4> .
+ <http://dbpedia.org/resource/Rappler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <NobelPrize-CNN-4> .
+ <http://reporterswithoutborders.org/entities/PressFreedomIndex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <NobelPrize-CNN-4> .
+ <http://data.nobelprize.org/terms/PeacePrize2021> <http://data.nobelprize.org/terms/laureate> <http://dbpedia.org/resource/Dmitry_Muratov> <NobelPrize-CNN-4> .
+ <http://data.nobelprize.org/terms/PeacePrize2021> <http://dbpedia.org/ontology/awardYear> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-CNN-4> .
+ <http://dbpedia.org/resource/Rappler> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Mass_media> <NobelPrize-CNN-4> .
+ <http://data.ntb.no/MariaRessaStatement> <http://schema.org/datePublished> "2021-10-08"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-CNN-4> .
+ <http://dbpedia.org/resource/Anna_Politkovskaya> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/Novaya_Gazeta> <NobelPrize-CNN-4> .
+ <http://dbpedia.org/resource/Berit_Reiss-Andersen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NobelPrize-CNN-4> .
+ <http://data.ntb.no/Heiko_Junge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NobelPrize-CNN-4> .
+ <http://dbpedia.org/resource/Maria_Ressa> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/Rappler> <NobelPrize-CNN-4> .
+ <http://data.ntb.no/DmitryMuratovStatement> <http://schema.org/author> <http://dbpedia.org/resource/Dmitry_Muratov> <NobelPrize-CNN-4> .
+ <http://reporterswithoutborders.org/entities/PressFreedomIndex> <http://schema.org/datePublished> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-CNN-4> .
+ <http://data.ntb.no/Heiko_Junge> <http://xmlns.com/foaf/0.1/name> "Heiko Junge"  <NobelPrize-CNN-4> .
+ <http://dbpedia.org/resource/Dmitry_Muratov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NobelPrize-CNN-4> .
+ <http://data.ntb.no/pressConference> <http://schema.org/startDate> "2021-10-08"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-CNN-4> .
+ <http://data.ntb.no/MariaRessaStatement> <http://schema.org/text> "I am in shock."  <NobelPrize-CNN-4> .
+ <http://data.ntb.no/MariaRessaStatement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <NobelPrize-CNN-4> .
+ <http://dbpedia.org/resource/Anna_Politkovskaya> <http://xmlns.com/foaf/0.1/name> "Anna Politkovskaya"  <NobelPrize-CNN-4> .
+ <http://dbpedia.org/resource/Novaya_Gazeta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Newspaper> <NobelPrize-CNN-4> .
+ <http://data.ntb.no/pressFreedomStatement> <http://schema.org/datePublished> "2021-10-08"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-CNN-4> .
+ <http://data.ntb.no/NTB> <http://xmlns.com/foaf/0.1/name> "NTB"  <NobelPrize-CNN-4> .
+ <http://dbpedia.org/resource/Novaya_Gazeta> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Russia> <NobelPrize-CNN-4> .
+ <http://dbpedia.org/resource/Anna_Politkovskaya> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Journalist> <NobelPrize-CNN-4> .
+ <http://data.nobelprize.org/terms/PeacePrize2021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.nobelprize.org/terms/PeacePrize> <NobelPrize-CNN-4> .
+ <http://data.ntb.no/AFP/Getty_Images> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/ontology/Photography> <NobelPrize-CNN-4> .
+ <http://dbpedia.org/resource/Berit_Reiss-Andersen> <http://dbpedia.org/ontology/occupation> <http://data.nobelprize.org/terms/Chair> <NobelPrize-CNN-4> .
+ <http://data.ntb.no/MariaRessaStatement> <http://schema.org/author> <http://dbpedia.org/resource/Maria_Ressa> <NobelPrize-CNN-4> .
+ <http://data.ntb.no/Heiko_Junge> <http://dbpedia.org/ontology/employer> <http://data.ntb.no/NTB> <NobelPrize-CNN-4> .
+ <http://data.ntb.no/Heiko_Junge_Photo> <http://schema.org/caption> "Berit Reiss-Andersen presents a mobile phone displaying photos of journalists Maria Ressa and Dmitry Muratov."  <NobelPrize-CNN-4> .
+ <http://data.ntb.no/MariaRessaCNNInterview> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <NobelPrize-CNN-4> .
+ <http://reporterswithoutborders.org/entities/Reporters_Without_Borders> <http://xmlns.com/foaf/0.1/name> "Reporters Without Borders"  <NobelPrize-CNN-4> .
+ <http://data.ntb.no/DmitryMuratovStatement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <NobelPrize-CNN-4> .
+ <http://data.ntb.no/AFP/Getty_Images> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <NobelPrize-CNN-4> .
+ <http://data.ntb.no/NTB> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/ontology/NewsAgency> <NobelPrize-CNN-4> .
+ <http://dbpedia.org/resource/Dmitry_Muratov> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/Novaya_Gazeta> <NobelPrize-CNN-4> .
+ <http://dbpedia.org/resource/Berit_Reiss-Andersen> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/Norwegian_Nobel_Committee> <NobelPrize-CNN-4> .
+ <http://dbpedia.org/resource/Maria_Ressa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NobelPrize-CNN-4> .
+ <http://dbpedia.org/resource/Anna_Politkovskaya> <http://dbpedia.org/ontology/deathDate> "2006-10-07"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-CNN-4> .
+ <http://data.ntb.no/MariaRessaCNNInterview> <http://schema.org/datePublished> "2021-10-07"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-CNN-4> .
+ <http://data.nobelprize.org/terms/PeacePrize2021> <http://data.nobelprize.org/terms/laureate> <http://dbpedia.org/resource/Maria_Ressa> <NobelPrize-CNN-4> .
+ <http://dbpedia.org/resource/Berit_Reiss-Andersen> <http://xmlns.com/foaf/0.1/name> "Berit Reiss-Andersen"  <NobelPrize-CNN-4> .
+ <http://dbpedia.org/resource/Norwegian_Nobel_Committee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <NobelPrize-CNN-4> .
+ <http://reporterswithoutborders.org/entities/PressFreedomIndex> <http://schema.org/text> "journalism 'is totally blocked or seriously impeded in 73 countries and constrained in 59 others.'"  <NobelPrize-CNN-4> .
+ <http://data.ntb.no/pressConference> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NobelPrize-CNN-4> .
+ <http://dbpedia.org/resource/Anna_Politkovskaya> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NobelPrize-CNN-4> .
+ <http://data.ntb.no/pressConference> <http://schema.org/description> "Press conference to announce the winners of the 2021 Nobel Peace Prize."  <NobelPrize-CNN-4> .
+ <http://example.org/BioorthogonalChemistry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Concept> <NobelPrize-CNN-5> .
+ <http://example.org/KBarrySharpless> <http://nobelprize.org/terms/laureate> <http://example.org/NobelPrizeChemistry2022> <NobelPrize-CNN-5> .
+ <http://example.org/CNN> <http://dbpedia.org/ontology/name> "CNN"  <NobelPrize-CNN-5> .
+ <http://example.org/JohanElf> <http://xmlns.com/foaf/0.1/name> "Johan Elf"  <NobelPrize-CNN-5> .
+ <http://example.org/NobelPrizeChemistry2022> <http://dbpedia.org/ontology/awarder> <http://example.org/RoyalSwedishAcademyOfSciences> <NobelPrize-CNN-5> .
+ <http://example.org/WonderTheoryNewsletter> <http://dbpedia.org/ontology/title> "Wonder Theory"  <NobelPrize-CNN-5> .
+ <http://example.org/MortenMeldal> <http://nobelprize.org/terms/laureate> <http://example.org/NobelPrizeChemistry2022> <NobelPrize-CNN-5> .
+ <http://example.org/NobelPrizeChemistry2022> <http://dbpedia.org/ontology/description> "for work that led to an ingenious tool for building molecules"  <NobelPrize-CNN-5> .
+ <http://example.org/AngelaWilson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-5> .
+ <http://example.org/JohanElf> <http://dbpedia.org/ontology/profession> <http://dbpedia.org/ontology/CommitteeMember> <NobelPrize-CNN-5> .
+ <http://NobelPrize-CNN-5.com/blank#n7911a38cbe334c9d864581441f9ec20bb1> <http://dbpedia.org/ontology/interest> <http://dbpedia.org/ontology/ScientificAdvancements> <NobelPrize-CNN-5> .
+ <http://example.org/CarolynRBertozzi> <http://dbpedia.org/ontology/workInstitution> <http://example.org/StanfordUniversity> <NobelPrize-CNN-5> .
+ <http://example.org/BioorthogonalChemistry> <http://dbpedia.org/ontology/description> "click reactions that work inside living organisms without disturbing the normal chemistry of the cell"  <NobelPrize-CNN-5> .
+ <http://example.org/AmericanChemicalSociety> <http://dbpedia.org/ontology/name> "American Chemical Society"  <NobelPrize-CNN-5> .
+ <http://example.org/BioorthogonalChemistry> <http://dbpedia.org/ontology/founder> <http://example.org/CarolynRBertozzi> <NobelPrize-CNN-5> .
+ <http://example.org/KBarrySharpless> <http://xmlns.com/foaf/0.1/name> "K. Barry Sharpless"  <NobelPrize-CNN-5> .
+ <http://example.org/JohanElf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-5> .
+ <http://example.org/JohanElf> <http://dbpedia.org/ontology/organization> <http://example.org/RoyalSwedishAcademyOfSciences> <NobelPrize-CNN-5> .
+ <http://example.org/StanfordUniversity> <http://dbpedia.org/ontology/name> "Stanford University"  <NobelPrize-CNN-5> .
+ <http://example.org/KBarrySharpless> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-5> .
+ <http://example.org/WonderTheoryNewsletter> <http://dbpedia.org/ontology/publisher> <http://example.org/CNN> <NobelPrize-CNN-5> .
+ <http://example.org/ClickChemistry> <http://dbpedia.org/ontology/advancement> <http://example.org/CarolynRBertozzi> <NobelPrize-CNN-5> .
+ <http://example.org/ClickChemistry> <http://dbpedia.org/ontology/founder> <http://example.org/KBarrySharpless> <NobelPrize-CNN-5> .
+ <http://example.org/NobelPrizeChemistry2022> <http://dbpedia.org/ontology/currency> "USD"  <NobelPrize-CNN-5> .
+ <http://example.org/KBarrySharpless> <http://dbpedia.org/ontology/profession> <http://dbpedia.org/ontology/Professor> <NobelPrize-CNN-5> .
+ <http://example.org/UniversityOfCopenhagen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <NobelPrize-CNN-5> .
+ <http://example.org/NobelPrizeChemistry2022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://nobelprize.org/terms/NobelPrize> <NobelPrize-CNN-5> .
+ <http://example.org/MortenMeldal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-5> .
+ <http://example.org/AngelaWilson> <http://dbpedia.org/ontology/profession> <http://dbpedia.org/ontology/President> <NobelPrize-CNN-5> .
+ <http://example.org/MortenMeldal> <http://dbpedia.org/ontology/profession> <http://dbpedia.org/ontology/Professor> <NobelPrize-CNN-5> .
+ <http://example.org/CarolynRBertozzi> <http://nobelprize.org/terms/laureate> <http://example.org/NobelPrizeChemistry2022> <NobelPrize-CNN-5> .
+ <http://example.org/ScrippsResearch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <NobelPrize-CNN-5> .
+ <http://example.org/WonderTheoryNewsletter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Newsletter> <NobelPrize-CNN-5> .
+ <http://example.org/MortenMeldal> <http://dbpedia.org/ontology/workInstitution> <http://example.org/UniversityOfCopenhagen> <NobelPrize-CNN-5> .
+ <http://NobelPrize-CNN-5.com/blank#n7911a38cbe334c9d864581441f9ec20bb1> <http://dbpedia.org/ontology/interest> <http://dbpedia.org/ontology/Universe> <NobelPrize-CNN-5> .
+ <http://example.org/AngelaWilson> <http://dbpedia.org/ontology/organization> <http://example.org/AmericanChemicalSociety> <NobelPrize-CNN-5> .
+ <http://example.org/KBarrySharpless> <http://dbpedia.org/ontology/workInstitution> <http://example.org/ScrippsResearch> <NobelPrize-CNN-5> .
+ <http://example.org/RoyalSwedishAcademyOfSciences> <http://dbpedia.org/ontology/name> "The Royal Swedish Academy of Sciences"  <NobelPrize-CNN-5> .
+ <http://NobelPrize-CNN-5.com/blank#n7911a38cbe334c9d864581441f9ec20bb1> <http://dbpedia.org/ontology/interest> <http://dbpedia.org/ontology/ScientificDiscoveries> <NobelPrize-CNN-5> .
+ <http://example.org/ClickChemistry> <http://dbpedia.org/ontology/description> "enables fast and straightforward reactions, where molecular building blocks snap together quickly"  <NobelPrize-CNN-5> .
+ <http://example.org/ClickChemistry> <http://dbpedia.org/ontology/founder> <http://example.org/MortenMeldal> <NobelPrize-CNN-5> .
+ <http://example.org/AngelaWilson> <http://xmlns.com/foaf/0.1/name> "Angela Wilson"  <NobelPrize-CNN-5> .
+ <http://example.org/UniversityOfCopenhagen> <http://dbpedia.org/ontology/name> "University of Copenhagen"  <NobelPrize-CNN-5> .
+ <http://example.org/CarolynRBertozzi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-5> .
+ <http://example.org/StanfordUniversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <NobelPrize-CNN-5> .
+ <http://example.org/NobelPrizeChemistry2022> <http://dbpedia.org/ontology/awardCategory> <http://nobelprize.org/terms/Chemistry> <NobelPrize-CNN-5> .
+ <http://example.org/RoyalSwedishAcademyOfSciences> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <NobelPrize-CNN-5> .
+ <http://example.org/NobelPrizeChemistry2022> <http://dbpedia.org/ontology/awardDate> "2022-10-05"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-CNN-5> .
+ <http://example.org/MortenMeldal> <http://xmlns.com/foaf/0.1/name> "Morten Meldal"  <NobelPrize-CNN-5> .
+ <http://example.org/ScrippsResearch> <http://dbpedia.org/ontology/name> "Scripps Research"  <NobelPrize-CNN-5> .
+ <http://example.org/WonderTheoryNewsletter> <http://dbpedia.org/ontology/subject> <http://NobelPrize-CNN-5.com/blank#n7911a38cbe334c9d864581441f9ec20bb1>  <NobelPrize-CNN-5> .
+ <http://example.org/NobelPrizeChemistry2022> <http://dbpedia.org/ontology/prizeMoney> "915000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <NobelPrize-CNN-5> .
+ <http://example.org/ClickChemistry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Concept> <NobelPrize-CNN-5> .
+ <http://example.org/AmericanChemicalSociety> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <NobelPrize-CNN-5> .
+ <http://example.org/KBarrySharpless> <http://nobelprize.org/terms/doubleLaureate> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NobelPrize-CNN-5> .
+ <http://example.org/CarolynRBertozzi> <http://xmlns.com/foaf/0.1/name> "Carolyn R. Bertozzi"  <NobelPrize-CNN-5> .
+ <http://example.org/CNN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <NobelPrize-CNN-5> .
+ <http://example.org/CarolynRBertozzi> <http://dbpedia.org/ontology/profession> <http://dbpedia.org/ontology/Professor> <NobelPrize-CNN-5> .
+ <http://example.org/NargesMohammadi> <http://data.nobelprize.org/terms/laureateIn> <http://data.nobelprize.org/terms/PeacePrize> <NobelPrize-CNN-6> .
+ <http://example.org/OleksandraMatviichuk> <http://dbpedia.org/ontology/awardYear> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-CNN-6> .
+ <http://example.org/DefendersOfHumanRightsCenter> <http://xmlns.com/foaf/0.1/name> "Defenders of Human Rights Center"  <NobelPrize-CNN-6> .
+ <http://example.org/TaghiRahmani> <http://dbpedia.org/ontology/occupation> <http://example.org/Activist> <NobelPrize-CNN-6> .
+ <http://example.org/TaghiRahmani> <http://dbpedia.org/ontology/residence> <http://dbpedia.org/resource/France> <NobelPrize-CNN-6> .
+ <http://example.org/MahsaAmini> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-6> .
+ <http://data.nobelprize.org/terms/PeacePrize> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> <NobelPrize-CNN-6> .
+ <http://example.org/IranianGovernment> <http://xmlns.com/foaf/0.1/name> "Iranian government"  <NobelPrize-CNN-6> .
+ <http://example.org/EvinPrison> <http://www.w3.org/2000/01/rdf-schema#label> "Evin Prison"  <NobelPrize-CNN-6> .
+ <http://example.org/OleksandraMatviichuk> <http://xmlns.com/foaf/0.1/name> "Oleksandra Matviichuk"  <NobelPrize-CNN-6> .
+ <http://example.org/DirectorOfPeaceResearchInstituteOslo> <http://www.w3.org/2000/01/rdf-schema#label> "Director of the Peace Research Institute Oslo"  <NobelPrize-CNN-6> .
+ <http://example.org/DefendersOfHumanRightsCenter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <NobelPrize-CNN-6> .
+ <http://example.org/ImamKhomeiniInternationalUniversity> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Iran> <NobelPrize-CNN-6> .
+ <http://example.org/TaghiRahmani> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-6> .
+ <http://data.nobelprize.org/terms/PeacePrize> <http://data.nobelprize.org/terms/awardedBy> <http://example.org/NorwegianNobelCommittee> <NobelPrize-CNN-6> .
+ <http://example.org/Physics> <http://www.w3.org/2000/01/rdf-schema#label> "Physics"  <NobelPrize-CNN-6> .
+ <http://example.org/DirectorOfPeaceResearchInstituteOslo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <NobelPrize-CNN-6> .
+ <http://data.nobelprize.org/terms/PeacePrize> <http://www.w3.org/2000/01/rdf-schema#label> "Nobel Peace Prize"  <NobelPrize-CNN-6> .
+ <http://example.org/NorwegianNobelCommittee> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Oslo> <NobelPrize-CNN-6> .
+ <http://example.org/HenrikUrdal> <http://dbpedia.org/ontology/occupation> <http://example.org/DirectorOfPeaceResearchInstituteOslo> <NobelPrize-CNN-6> .
+ <http://example.org/Activist> <http://www.w3.org/2000/01/rdf-schema#label> "Activist"  <NobelPrize-CNN-6> .
+ <http://example.org/NargesMohammadi> <http://dbpedia.org/ontology/child> <http://example.org/TwinChildren> <NobelPrize-CNN-6> .
+ <http://example.org/NorwegianNobelCommittee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <NobelPrize-CNN-6> .
+ <http://example.org/EvinPrison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Prison> <NobelPrize-CNN-6> .
+ <http://example.org/TaghiRahmani> <http://dbpedia.org/ontology/prisonTime> "14 years"  <NobelPrize-CNN-6> .
+ <http://example.org/NargesMohammadi> <http://dbpedia.org/ontology/birthYear> "1972"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-CNN-6> .
+ <http://example.org/NargesMohammadi> <http://dbpedia.org/ontology/sentence> "31 years in prison and 154 lashes"  <NobelPrize-CNN-6> .
+ <http://example.org/ShirinEbadi> <http://xmlns.com/foaf/0.1/name> "Shirin Ebadi"  <NobelPrize-CNN-6> .
+ <http://example.org/BeritReissAndersen> <http://dbpedia.org/ontology/role> <http://example.org/ChairOfNorwegianNobelCommittee> <NobelPrize-CNN-6> .
+ <http://example.org/DefendersOfHumanRightsCenter> <http://dbpedia.org/ontology/foundedBy> <http://example.org/ShirinEbadi> <NobelPrize-CNN-6> .
+ <http://example.org/HenrikUrdal> <http://xmlns.com/foaf/0.1/name> "Henrik Urdal"  <NobelPrize-CNN-6> .
+ <http://example.org/Physics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AcademicDiscipline> <NobelPrize-CNN-6> .
+ <http://example.org/NargesMohammadi> <http://dbpedia.org/ontology/spouse> <http://example.org/TaghiRahmani> <NobelPrize-CNN-6> .
+ <http://example.org/ImamKhomeiniInternationalUniversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <NobelPrize-CNN-6> .
+ <http://example.org/ChairOfNorwegianNobelCommittee> <http://www.w3.org/2000/01/rdf-schema#label> "Chair of the Norwegian Nobel Committee"  <NobelPrize-CNN-6> .
+ <http://example.org/HenrikUrdal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-6> .
+ <http://example.org/OleksandraMatviichuk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-6> .
+ <http://example.org/MahsaAmini> <http://xmlns.com/foaf/0.1/name> "Mahsa Amini"  <NobelPrize-CNN-6> .
+ <http://example.org/ShirinEbadi> <http://data.nobelprize.org/terms/laureateIn> <http://data.nobelprize.org/terms/PeacePrize> <NobelPrize-CNN-6> .
+ <http://example.org/NargesMohammadi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-6> .
+ <http://example.org/IranianGovernment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <NobelPrize-CNN-6> .
+ <http://example.org/Activist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <NobelPrize-CNN-6> .
+ <http://example.org/EvinPrison> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Tehran> <NobelPrize-CNN-6> .
+ <http://example.org/PeaceResearchInstituteOslo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <NobelPrize-CNN-6> .
+ <http://example.org/PeaceResearchInstituteOslo> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Oslo> <NobelPrize-CNN-6> .
+ <http://example.org/OleksandraMatviichuk> <http://data.nobelprize.org/terms/laureateIn> <http://data.nobelprize.org/terms/PeacePrize> <NobelPrize-CNN-6> .
+ <http://data.nobelprize.org/terms/PeacePrize> <http://dbpedia.org/ontology/awardYear> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-CNN-6> .
+ <http://example.org/MahsaAmini> <http://dbpedia.org/ontology/deathCause> <http://example.org/DetentionByMoralityPolice> <NobelPrize-CNN-6> .
+ <http://example.org/PeaceResearchInstituteOslo> <http://xmlns.com/foaf/0.1/name> "Peace Research Institute Oslo"  <NobelPrize-CNN-6> .
+ <http://example.org/ChairOfNorwegianNobelCommittee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <NobelPrize-CNN-6> .
+ <http://example.org/MahsaAmini> <http://dbpedia.org/ontology/deathYear> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-CNN-6> .
+ <http://example.org/NargesMohammadi> <http://xmlns.com/foaf/0.1/name> "Narges Mohammadi"  <NobelPrize-CNN-6> .
+ <http://example.org/BeritReissAndersen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-6> .
+ <http://example.org/DetentionByMoralityPolice> <http://www.w3.org/2000/01/rdf-schema#label> "Detention by morality police"  <NobelPrize-CNN-6> .
+ <http://data.nobelprize.org/terms/PeacePrize> <http://data.nobelprize.org/terms/awardedFor> "fight against the oppression of women in Iran and to promote human rights and freedom for all"  <NobelPrize-CNN-6> .
+ <http://example.org/NorwegianNobelCommittee> <http://xmlns.com/foaf/0.1/name> "Norwegian Nobel Committee"  <NobelPrize-CNN-6> .
+ <http://example.org/NargesMohammadi> <http://dbpedia.org/ontology/occupation> <http://example.org/Activist> <NobelPrize-CNN-6> .
+ <http://example.org/TwinChildren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-6> .
+ <http://example.org/IranianGovernment> <http://dbpedia.org/ontology/criticized> <http://data.nobelprize.org/terms/PeacePrize> <NobelPrize-CNN-6> .
+ <http://example.org/BeritReissAndersen> <http://xmlns.com/foaf/0.1/name> "Berit Reiss-Andersen"  <NobelPrize-CNN-6> .
+ <http://example.org/ShirinEbadi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-6> .
+ <http://example.org/DetentionByMoralityPolice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <NobelPrize-CNN-6> .
+ <http://example.org/ImamKhomeiniInternationalUniversity> <http://dbpedia.org/ontology/academicDiscipline> <http://example.org/Physics> <NobelPrize-CNN-6> .
+ <http://example.org/NargesMohammadi> <http://dbpedia.org/ontology/prison> <http://example.org/EvinPrison> <NobelPrize-CNN-6> .
+ <http://example.org/TwinChildren> <http://www.w3.org/2000/01/rdf-schema#label> "Narges Mohammadi's children"  <NobelPrize-CNN-6> .
+ <http://example.org/TaghiRahmani> <http://xmlns.com/foaf/0.1/name> "Taghi Rahmani"  <NobelPrize-CNN-6> .
+ <http://example.org/terms/DavidCard> <http://dbpedia.org/ontology/workplace> <http://example.org/terms/UniversityOfCaliforniaBerkeley> <NobelPrize-CNN-7> .
+ <http://example.org/terms/DavidCard> <http://dbpedia.org/ontology/birthPlace> <http://example.org/terms/GuelphCanada> <NobelPrize-CNN-7> .
+ <http://example.org/terms/EindhovenNetherlands> <http://www.w3.org/2000/01/rdf-schema#label> "Eindhoven, Netherlands"  <NobelPrize-CNN-7> .
+ <http://example.org/terms/JoshuaAngrist> <http://nobelprize.org/terms/laureate> <http://example.org/terms/NobelPrizeEconomics2021> <NobelPrize-CNN-7> .
+ <http://example.org/terms/PaulMilgrom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-7> .
+ <http://example.org/terms/NobelPrizeEconomics2021> <http://nobelprize.org/terms/awardedFor> "showing that precise and surprising answers to some of society’s most pressing questions can be gleaned from experiments rooted in real life"  <NobelPrize-CNN-7> .
+ <http://example.org/terms/MassachusettsInstituteOfTechnology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/University> <NobelPrize-CNN-7> .
+ <http://example.org/terms/StanfordUniversityCalifornia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/University> <NobelPrize-CNN-7> .
+ <http://example.org/terms/GuelphCanada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <NobelPrize-CNN-7> .
+ <http://example.org/terms/AbhijitBanerjee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-7> .
+ <http://example.org/terms/JoshuaAngrist> <http://nobelprize.org/terms/prizeShare> "1/4"  <NobelPrize-CNN-7> .
+ <http://example.org/terms/NobelPrizeEconomics2021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://nobelprize.org/terms/Prize> <NobelPrize-CNN-7> .
+ <http://example.org/terms/RobertWilson> <http://nobelprize.org/terms/laureate> <http://example.org/terms/NobelPrizeEconomics2020> <NobelPrize-CNN-7> .
+ <http://example.org/terms/RobertWilson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-7> .
+ <http://example.org/terms/NobelPrizeEconomics2021> <http://nobelprize.org/terms/category> "Economic Sciences"  <NobelPrize-CNN-7> .
+ <http://example.org/terms/NobelPrizeEconomics2021> <http://nobelprize.org/terms/prizeCurrency> "SEK"  <NobelPrize-CNN-7> .
+ <http://example.org/terms/NobelPrizeEconomics2021> <http://nobelprize.org/terms/establishedBy> "Sveriges Riksbank"  <NobelPrize-CNN-7> .
+ <http://example.org/terms/PeterFredriksson> <http://example.org/terms/role> "chair of the Economic Sciences Prize Committee"  <NobelPrize-CNN-7> .
+ <http://example.org/terms/GuidoImbens> <http://dbpedia.org/ontology/workplace> <http://example.org/terms/StanfordUniversityCalifornia> <NobelPrize-CNN-7> .
+ <http://example.org/terms/DavidCard> <http://nobelprize.org/terms/prizeShare> "1/2"  <NobelPrize-CNN-7> .
+ <http://example.org/terms/JoshuaAngrist> <http://dbpedia.org/ontology/workplace> <http://example.org/terms/MassachusettsInstituteOfTechnology> <NobelPrize-CNN-7> .
+ <http://example.org/terms/PaulMilgrom> <http://nobelprize.org/terms/laureate> <http://example.org/terms/NobelPrizeEconomics2020> <NobelPrize-CNN-7> .
+ <http://example.org/terms/GuidoImbens> <http://nobelprize.org/terms/prizeShare> "1/4"  <NobelPrize-CNN-7> .
+ <http://example.org/terms/EstherDuflo> <http://xmlns.com/foaf/0.1/name> "Esther Duflo"  <NobelPrize-CNN-7> .
+ <http://example.org/terms/MichaelKremer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-7> .
+ <http://example.org/terms/NobelPrizeEconomics2019> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://nobelprize.org/terms/Prize> <NobelPrize-CNN-7> .
+ <http://example.org/terms/EstherDuflo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-7> .
+ <http://example.org/terms/NobelPrizeEconomics2019> <http://nobelprize.org/terms/category> "Economic Sciences"  <NobelPrize-CNN-7> .
+ <http://example.org/terms/UniversityOfCaliforniaBerkeley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/University> <NobelPrize-CNN-7> .
+ <http://example.org/terms/NobelPrizeEconomics2021> <http://nobelprize.org/terms/year> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-CNN-7> .
+ <http://example.org/terms/GuidoImbens> <http://xmlns.com/foaf/0.1/name> "Guido Imbens"  <NobelPrize-CNN-7> .
+ <http://example.org/terms/NobelPrizeEconomics2020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://nobelprize.org/terms/Prize> <NobelPrize-CNN-7> .
+ <http://example.org/terms/JoshuaAngrist> <http://xmlns.com/foaf/0.1/name> "Joshua Angrist"  <NobelPrize-CNN-7> .
+ <http://example.org/terms/GuidoImbens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-7> .
+ <http://example.org/terms/NobelPrizeEconomics2020> <http://nobelprize.org/terms/category> "Economic Sciences"  <NobelPrize-CNN-7> .
+ <http://example.org/terms/NobelPrizeEconomics2019> <http://nobelprize.org/terms/year> "2019"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-CNN-7> .
+ <http://example.org/terms/MassachusettsInstituteOfTechnology> <http://www.w3.org/2000/01/rdf-schema#label> "Massachusetts Institute of Technology"  <NobelPrize-CNN-7> .
+ <http://example.org/terms/DavidCard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-7> .
+ <http://example.org/terms/NobelPrizeEconomics2020> <http://nobelprize.org/terms/awardedFor> "work on auction theory"  <NobelPrize-CNN-7> .
+ <http://example.org/terms/StanfordUniversityCalifornia> <http://www.w3.org/2000/01/rdf-schema#label> "Stanford University in California"  <NobelPrize-CNN-7> .
+ <http://example.org/terms/PaulMilgrom> <http://dbpedia.org/ontology/workplace> <http://example.org/terms/StanfordUniversityCalifornia> <NobelPrize-CNN-7> .
+ <http://example.org/terms/AbhijitBanerjee> <http://nobelprize.org/terms/laureate> <http://example.org/terms/NobelPrizeEconomics2019> <NobelPrize-CNN-7> .
+ <http://example.org/terms/MichaelKremer> <http://xmlns.com/foaf/0.1/name> "Michael Kremer"  <NobelPrize-CNN-7> .
+ <http://example.org/terms/NobelPrizeEconomics2019> <http://nobelprize.org/terms/awardedFor> "pioneering an approach to poverty reduction"  <NobelPrize-CNN-7> .
+ <http://example.org/terms/DavidCard> <http://xmlns.com/foaf/0.1/name> "David Card"  <NobelPrize-CNN-7> .
+ <http://example.org/terms/GuidoImbens> <http://nobelprize.org/terms/laureate> <http://example.org/terms/NobelPrizeEconomics2021> <NobelPrize-CNN-7> .
+ <http://example.org/terms/GuidoImbens> <http://dbpedia.org/ontology/birthPlace> <http://example.org/terms/EindhovenNetherlands> <NobelPrize-CNN-7> .
+ <http://example.org/terms/PaulMilgrom> <http://xmlns.com/foaf/0.1/name> "Paul Milgrom"  <NobelPrize-CNN-7> .
+ <http://example.org/terms/NobelPrizeEconomics2020> <http://nobelprize.org/terms/year> "2020"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-CNN-7> .
+ <http://example.org/terms/MichaelKremer> <http://nobelprize.org/terms/laureate> <http://example.org/terms/NobelPrizeEconomics2019> <NobelPrize-CNN-7> .
+ <http://example.org/terms/PeterFredriksson> <http://xmlns.com/foaf/0.1/name> "Peter Fredriksson"  <NobelPrize-CNN-7> .
+ <http://example.org/terms/DavidCard> <http://nobelprize.org/terms/laureate> <http://example.org/terms/NobelPrizeEconomics2021> <NobelPrize-CNN-7> .
+ <http://example.org/terms/NobelPrizeEconomics2021> <http://nobelprize.org/terms/inMemoryOf> "Alfred Nobel"  <NobelPrize-CNN-7> .
+ <http://example.org/terms/AbhijitBanerjee> <http://xmlns.com/foaf/0.1/name> "Abhijit Banerjee"  <NobelPrize-CNN-7> .
+ <http://example.org/terms/GuelphCanada> <http://www.w3.org/2000/01/rdf-schema#label> "Guelph, Canada"  <NobelPrize-CNN-7> .
+ <http://example.org/terms/EstherDuflo> <http://nobelprize.org/terms/laureate> <http://example.org/terms/NobelPrizeEconomics2019> <NobelPrize-CNN-7> .
+ <http://example.org/terms/JoshuaAngrist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-7> .
+ <http://example.org/terms/PeterFredriksson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-7> .
+ <http://example.org/terms/RobertWilson> <http://dbpedia.org/ontology/workplace> <http://example.org/terms/StanfordUniversityCalifornia> <NobelPrize-CNN-7> .
+ <http://example.org/terms/NobelPrizeEconomics2021> <http://nobelprize.org/terms/prizeAmount> "10000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <NobelPrize-CNN-7> .
+ <http://example.org/terms/RobertWilson> <http://xmlns.com/foaf/0.1/name> "Robert Wilson"  <NobelPrize-CNN-7> .
+ <http://example.org/terms/EindhovenNetherlands> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <NobelPrize-CNN-7> .
+ <http://example.org/terms/NobelPrizeEconomics2021> <http://nobelprize.org/terms/announcementDate> "2021-10-11"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-CNN-7> .
+ <http://example.org/terms/UniversityOfCaliforniaBerkeley> <http://www.w3.org/2000/01/rdf-schema#label> "University of California, Berkeley"  <NobelPrize-CNN-7> .
+ <http://nobelprize.org/terms/EconomicSciencesPrize> <http://dbpedia.org/ontology/presentedBy> <http://dbpedia.org/resource/Royal_Swedish_Academy_of_Sciences> <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Ben_Bernanke> <http://dbpedia.org/ontology/researchArea> "Great Depression"  <NobelPrize-CNN-8> .
+ <http://nobelprize.org/terms/EconomicSciencesPrize> <http://dbpedia.org/ontology/awardAmountCurrency> "SEK"  <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Lehman_Brothers> <http://www.w3.org/2000/01/rdf-schema#comment> "Lehman Brothers' collapse seen as a tipping point in the 2008 financial crisis"  <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Brookings_Institution> <http://dbpedia.org/ontology/member> <http://dbpedia.org/resource/Ben_Bernanke> <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Federal_Reserve> <http://dbpedia.org/ontology/leader> <http://dbpedia.org/resource/Ben_Bernanke> <NobelPrize-CNN-8> .
+ <http://nobelprize.org/terms/EconomicSciencesPrize> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Ben_Bernanke> <http://dbpedia.org/ontology/title> "Distinguished Senior Fellow"  <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Douglas_Diamond> <http://xmlns.com/foaf/0.1/name> "Douglas Diamond"  <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Paul_Krugman> <http://dbpedia.org/ontology/award> <http://nobelprize.org/terms/EconomicSciencesPrize> <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Douglas_Diamond> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/University_of_Chicago> <NobelPrize-CNN-8> .
+ <http://nobelprize.org/terms/EconomicSciencesPrize> <http://dbpedia.org/ontology/awardAmount> "10 million Swedish kronor"^^<http://www.w3.org/2001/XMLSchema#decimal>  <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Federal_Reserve> <http://dbpedia.org/ontology/startDate> "2006"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Washington_University_in_St._Louis> <http://dbpedia.org/ontology/facultyMember> <http://dbpedia.org/resource/Philip_Dybvig> <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Ben_Bernanke> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/Brookings_Institution> <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Federal_Reserve> <http://dbpedia.org/ontology/endDate> "2014"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Philip_Dybvig> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Philip_Dybvig> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/Washington_University_in_St._Louis> <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Ben_Bernanke> <http://dbpedia.org/ontology/award> <http://nobelprize.org/terms/EconomicSciencesPrize> <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/John_Hassler> <http://xmlns.com/foaf/0.1/name> "John Hassler"  <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Paul_Krugman> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Columnist> <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/University_of_Chicago> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Lehman_Brothers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Douglas_Diamond> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Professor> <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/John_Hassler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Ben_Bernanke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Philip_Dybvig> <http://dbpedia.org/ontology/researchArea> "banks and financial crises"  <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Ben_Bernanke> <http://dbpedia.org/ontology/researchArea> "bank runs"  <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Douglas_Diamond> <http://dbpedia.org/ontology/award> <http://nobelprize.org/terms/EconomicSciencesPrize> <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Washington_University_in_St._Louis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Ben_Bernanke> <http://xmlns.com/foaf/0.1/name> "Ben Bernanke"  <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Paul_Krugman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Ben_Bernanke> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Federal_Reserve_Chair> <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Brookings_Institution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <NobelPrize-CNN-8> .
+ <http://nobelprize.org/terms/EconomicSciencesPrize> <http://www.w3.org/2000/01/rdf-schema#label> "Sveriges Riksbank Prize in Economic Sciences"  <NobelPrize-CNN-8> .
+ <http://nobelprize.org/terms/EconomicSciencesPrize> <http://dbpedia.org/ontology/inMemoryOf> <http://dbpedia.org/resource/Alfred_Nobel> <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Ben_Bernanke> <http://dbpedia.org/ontology/researchArea> "banks and financial crises"  <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Paul_Krugman> <http://xmlns.com/foaf/0.1/name> "Paul Krugman"  <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Philip_Dybvig> <http://dbpedia.org/ontology/award> <http://nobelprize.org/terms/EconomicSciencesPrize> <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Federal_Reserve> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Paul_Krugman> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/The_New_York_Times> <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Lehman_Brothers> <http://dbpedia.org/ontology/bankruptcyYear> "2008"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Philip_Dybvig> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Professor> <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Douglas_Diamond> <http://dbpedia.org/ontology/researchArea> "banks and financial crises"  <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Federal_Reserve> <http://dbpedia.org/ontology/activity> "quantitative easing"  <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Paul_Krugman> <http://schema.org/supports> <http://nobelprize.org/terms/EconomicSciencesPrize> <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/University_of_Chicago> <http://dbpedia.org/ontology/facultyMember> <http://dbpedia.org/resource/Douglas_Diamond> <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Douglas_Diamond> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-8> .
+ <http://nobelprize.org/terms/EconomicSciencesPrize> <http://dbpedia.org/ontology/establishedBy> <http://dbpedia.org/resource/Sveriges_Riksbank> <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/John_Hassler> <http://dbpedia.org/ontology/occupation> <http://nobelprize.org/terms/CommitteeMember> <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Federal_Reserve> <http://dbpedia.org/ontology/activity> "improved communication"  <NobelPrize-CNN-8> .
+ <http://dbpedia.org/resource/Philip_Dybvig> <http://xmlns.com/foaf/0.1/name> "Philip Dybvig"  <NobelPrize-CNN-8> .
+ <http://nobelfoundation.org/entities/Twitter> <http://schema.org/name> "X"  <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/PeacePrizeAwardCeremony> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/Iran> <http://schema.org/name> "Iran"  <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/OlegNikolenko> <http://xmlns.com/foaf/0.1/title> "Spokesperson for Ukraine’s Ministry for Foreign Affairs"  <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/Belarus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/ReissAndersenStatement> <http://schema.org/text> "Mr. Dmitry Muratov was awarded the Nobel Peace Prize in 2021 for his efforts to promote freedom of speech and freedom of information, and independent journalism. It is sad that Russian authorities are now trying to silence him."  <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/UlfKristersson> <http://schema.org/jobTitle> "Prime Minister of Sweden"  <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/UlfKristersson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/UlfKristersson> <http://xmlns.com/foaf/0.1/name> "Ulf Kristersson"  <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/RussianInvasionOfUkraine> <http://schema.org/startDate> "2022-02-24"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/MuratovForeignAgent> <http://schema.org/location> <http://nobelfoundation.org/entities/Russia> <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/MuratovForeignAgent> <http://schema.org/about> <http://nobelfoundation.org/entities/DmitryMuratov> <NobelPrize-CNN-9> .
+ <http://NobelPrize-CNN-9.com/blank#n37cc1b68de30489eb7c0d428a0100a60b1> <http://schema.org/resultingOrganization> <http://nobelfoundation.org/entities/Iran> <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/Oslo> <http://schema.org/name> "Oslo, Norway"  <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/Twitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPlatform> <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/DmitryMuratov> <http://schema.org/award> <http://nobelfoundation.org/entities/NobelPeacePrize2021> <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/MuratovForeignAgent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/NobelBanquet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/TheNobelFoundation> <http://schema.org/event> <http://nobelfoundation.org/entities/NobelPrizeAwardCeremony> <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/BeritReissAndersen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/Oslo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/NobelPrizeAwardCeremony> <http://schema.org/name> "Nobel Prize award ceremony"  <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/NobelBanquet> <http://schema.org/location> <http://nobelfoundation.org/entities/Stockholm> <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/NobelPeacePrize2021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Award> <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/TheNobelFoundation> <http://schema.org/name> "The Nobel Foundation"  <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/Stockholm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/OlegNikolenko> <http://xmlns.com/foaf/0.1/name> "Oleg Nikolenko"  <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/DmitryMuratov> <http://xmlns.com/foaf/0.1/name> "Dmitry Muratov"  <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/NobelPeacePrize2021> <http://schema.org/name> "Nobel Peace Prize 2021"  <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/PeacePrizeAwardCeremony> <http://schema.org/location> <http://nobelfoundation.org/entities/Oslo> <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/ControversialInvitationDecision> <http://schema.org/actor> <http://nobelfoundation.org/entities/TheNobelFoundation> <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/ReissAndersenStatement> <http://schema.org/datePublished> "2023-03-04"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/ReissAndersenStatement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/MuratovForeignAgent> <http://schema.org/date> "2023-03-03"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/TheNobelFoundation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/BeritReissAndersen> <http://schema.org/jobTitle> "Nobel committee chair"  <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/MuratovForeignAgent> <http://schema.org/description> "Dmitry Muratov added to Russia's register of 'foreign agents'."  <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/Facebook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPlatform> <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/RussianInvasionOfUkraine> <http://schema.org/location> <http://nobelfoundation.org/entities/Ukraine> <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/DmitryMuratov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/Ukraine> <http://schema.org/name> "Ukraine"  <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/Russia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/Facebook> <http://schema.org/name> "Facebook"  <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/NobelBanquet> <http://schema.org/name> "Nobel Banquet"  <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/ControversialInvitationDecision> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/Ukraine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/RussianInvasionOfUkraine> <http://schema.org/contributor> <http://nobelfoundation.org/entities/Belarus> <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/RussianInvasionOfUkraine> <http://schema.org/name> "Full-scale invasion of Ukraine by Russia"  <NobelPrize-CNN-9> .
+ <http://NobelPrize-CNN-9.com/blank#n37cc1b68de30489eb7c0d428a0100a60b1> <http://schema.org/resultingOrganization> <http://nobelfoundation.org/entities/Russia> <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/NobelPrizeAwardCeremony> <http://schema.org/startDate> "2023-12-10"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/OlegNikolenko> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/NobelPrizeAwardCeremony> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NobelPrize-CNN-9> .
+ <http://NobelPrize-CNN-9.com/blank#n37cc1b68de30489eb7c0d428a0100a60b1> <http://schema.org/actionStatus> <http://schema.org/CancelledActionStatus> <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/Sweden> <http://schema.org/name> "Sweden"  <NobelPrize-CNN-9> .
+ <http://NobelPrize-CNN-9.com/blank#n37cc1b68de30489eb7c0d428a0100a60b1> <http://schema.org/agent> <http://nobelfoundation.org/entities/TheNobelFoundation> <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/Iran> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/NobelBanquet> <http://schema.org/startDate> "2023-12-10"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-CNN-9> .
+ <http://NobelPrize-CNN-9.com/blank#n37cc1b68de30489eb7c0d428a0100a60b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Action> <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/Russia> <http://schema.org/name> "Russia"  <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/ControversialInvitationDecision> <http://schema.org/about> <http://nobelfoundation.org/entities/NobelPrizeAwardCeremony> <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/RussianInvasionOfUkraine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/ControversialInvitationDecision> <http://schema.org/result> <http://NobelPrize-CNN-9.com/blank#n37cc1b68de30489eb7c0d428a0100a60b1>  <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/NobelPrizeAwardCeremony> <http://schema.org/location> <http://nobelfoundation.org/entities/Stockholm> <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/PeacePrizeAwardCeremony> <http://schema.org/name> "Nobel Peace Prize award ceremony"  <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/ReissAndersenStatement> <http://schema.org/author> <http://nobelfoundation.org/entities/BeritReissAndersen> <NobelPrize-CNN-9> .
+ <http://NobelPrize-CNN-9.com/blank#n37cc1b68de30489eb7c0d428a0100a60b1> <http://schema.org/resultingOrganization> <http://nobelfoundation.org/entities/Belarus> <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/Stockholm> <http://schema.org/name> "Stockholm"  <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/BeritReissAndersen> <http://xmlns.com/foaf/0.1/name> "Berit Reiss-Andersen"  <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/Sweden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <NobelPrize-CNN-9> .
+ <http://nobelfoundation.org/entities/Belarus> <http://schema.org/name> "Belarus"  <NobelPrize-CNN-9> .

@@ -1,0 +1,658 @@
+ <http://example.org/ontology#SerkanToto> <http://dbpedia.org/ontology/affiliation> <http://example.org/ontology#KantanGames> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#BreathOfTheWild> <http://dbpedia.org/ontology/releaseDate> "2017-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#KiyoshiTane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#ZeldaSagaFanCommunity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#Nintendo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-Al-Jazeera-0> .
+ <http://Nintendo-Al-Jazeera-0.com/blank#nd5b5a1993c0248d285212edddbb9f5b2b1> <http://dbpedia.org/ontology/financialYear> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#MarkBrown> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/GameDesignAnalyst> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#CharlesLouisPlanade> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#ParisTearsOfTheKingdomReleaseEvent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#ParisTearsOfTheKingdomReleaseEvent> <http://schema.org/name> "Tears of the Kingdom Release Event in Paris"  <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#FamitsuGroup> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Famitsu> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#TheLegendOfZelda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#MarkBrown> <http://xmlns.com/foaf/0.1/page> <https://www.youtube.com/user/McBacon1337> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#BreathOfTheWild> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#SwitchConsole> <http://schema.org/dateModified> "2017-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#KiyoshiTane> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Author> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#ZeldaSaga> <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/Shigeru_Miyamoto> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#BreathOfTheWild> <http://schema.org/name> "Breath of the Wild"  <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#OcarinaOfTime> <http://dbpedia.org/ontology/series> <http://example.org/ontology#ZeldaSaga> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#ShigeruMiyamoto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#TaylorMeguira> <http://xmlns.com/foaf/0.1/age> "19"^^<http://www.w3.org/2001/XMLSchema#integer>  <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#KantanGames> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#OcarinaOfTime> <http://schema.org/name> "Ocarina of Time"  <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#TheLegendOfZelda> <http://schema.org/name> "The Legend of Zelda"  <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#Nintendo> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Video_game_industry> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#TearsOfTheKingdom> <http://dbpedia.org/ontology/potentialRevenue> "1000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#Nintendo> <http://dbpedia.org/ontology/netProfitForecast> <http://Nintendo-Al-Jazeera-0.com/blank#nd5b5a1993c0248d285212edddbb9f5b2b1>  <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#EmilieSastre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#TheLegendOfZelda> <http://dbpedia.org/ontology/releaseDate> "1986-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#CharlesLouisPlanade> <http://xmlns.com/foaf/0.1/name> "Charles-Louis Planade"  <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#OcarinaOfTime> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#TaylorMeguira> <http://schema.org/attendee> <http://example.org/ontology#ParisTearsOfTheKingdomReleaseEvent> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#KiyoshiTane> <http://xmlns.com/foaf/0.1/name> "Kiyoshi Tane"  <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#ZeldaSaga> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGameSeries> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#KatsuhikoHayashi> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/IndustryMagazineRepresentative> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#SwitchConsole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#TearsOfTheKingdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> <Nintendo-Al-Jazeera-0> .
+ <http://Nintendo-Al-Jazeera-0.com/blank#nd5b5a1993c0248d285212edddbb9f5b2b1> <http://dbpedia.org/ontology/amount> "-21"^^<http://www.w3.org/2001/XMLSchema#percent>  <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#Nintendo> <http://dbpedia.org/ontology/product> <http://example.org/ontology#SwitchConsole> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#ShigeruMiyamoto> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/Super_Mario_Bros> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#ShigeruMiyamoto> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/GameDesigner> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#TaylorMeguira> <http://schema.org/memberOf> <http://example.org/ontology#ZeldaSagaFanCommunity> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#ParisTearsOfTheKingdomReleaseEvent> <http://schema.org/location> <http://dbpedia.org/resource/Paris> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#BreathOfTheWild> <http://dbpedia.org/ontology/series> <http://example.org/ontology#ZeldaSaga> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#EmilieSastre> <http://schema.org/attendee> <http://example.org/ontology#ParisTearsOfTheKingdomReleaseEvent> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#SwitchConsole> <http://schema.org/productID> "Switch"  <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#CharlesLouisPlanade> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/FinancialAnalyst> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#Nintendo> <http://dbpedia.org/ontology/product> <http://example.org/ontology#ZeldaSaga> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#ZeldaSaga> <http://dbpedia.org/ontology/releaseDate> "1986-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#CharlesLouisPlanade> <http://dbpedia.org/ontology/affiliation> <http://example.org/ontology#MidcapPartners> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#KatsuhikoHayashi> <http://dbpedia.org/ontology/affiliation> <http://example.org/ontology#FamitsuGroup> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#TheSuperMarioBrosMovie> <http://dbpedia.org/ontology/releaseYear> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#EmilieSastre> <http://schema.org/memberOf> <http://example.org/ontology#ZeldaSagaFanCommunity> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#MarkBrown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#EmilieSastre> <http://xmlns.com/foaf/0.1/age> "18"^^<http://www.w3.org/2001/XMLSchema#integer>  <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#TearsOfTheKingdom> <http://dbpedia.org/ontology/series> <http://example.org/ontology#ZeldaSaga> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#TaylorMeguira> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#TearsOfTheKingdom> <http://schema.org/name> "Tears of the Kingdom"  <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#KatsuhikoHayashi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#ZeldaSagaFanCommunity> <http://schema.org/name> "Zelda Fans"  <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#ParisTearsOfTheKingdomReleaseEvent> <http://schema.org/startDate> "2023-01-01T00:00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#SwitchConsole> <http://dbpedia.org/ontology/manufacturer> <http://example.org/ontology#Nintendo> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#TheSuperMarioBrosMovie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#SerkanToto> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Analyst> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#OcarinaOfTime> <http://dbpedia.org/ontology/releaseDate> "1998-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#ZeldaSaga> <http://dbpedia.org/ontology/numberOfCopiesSold> "125000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#KatsuhikoHayashi> <http://xmlns.com/foaf/0.1/name> "Katsuhiko Hayashi"  <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#ShigeruMiyamoto> <http://xmlns.com/foaf/0.1/name> "Shigeru Miyamoto"  <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#KiyoshiTane> <http://dbpedia.org/ontology/expertise> <http://example.org/ontology#VideoGameHistory> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#MarkBrown> <http://xmlns.com/foaf/0.1/name> "Mark Brown"  <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#SerkanToto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#MidcapPartners> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#KantanGames> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Video_game_industry> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#FamitsuGroup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#FamitsuGroup> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Video_game_industry> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#ShigeruMiyamoto> <http://dbpedia.org/ontology/notableWork> <http://dbpedia.org/resource/Donkey_Kong> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#TheSuperMarioBrosMovie> <http://dbpedia.org/ontology/relatedTo> <http://dbpedia.org/resource/Super_Mario_Bros> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#EmilieSastre> <http://xmlns.com/foaf/0.1/name> "Emilie Sastre"  <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#TheLegendOfZelda> <http://dbpedia.org/ontology/series> <http://example.org/ontology#ZeldaSaga> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#ShigeruMiyamoto> <http://dbpedia.org/ontology/notableWork> <http://example.org/ontology#ZeldaSaga> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#MidcapPartners> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/ontology/FinancialServices> <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#TaylorMeguira> <http://xmlns.com/foaf/0.1/name> "Taylor Meguira"  <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ontology#SerkanToto> <http://xmlns.com/foaf/0.1/name> "Serkan Toto"  <Nintendo-Al-Jazeera-0> .
+ <http://example.org/ns#SwitchConsole> <http://example.org/ns#productType> "games console"  <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#OLEDModel> <http://example.org/ns#productType> "games console"  <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#Splatoon3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#GameTitle> <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#FinancialYear2021> <http://example.org/ns#endDate> "2022-03-31"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#OLEDModel> <http://example.org/ns#availability> "in short supply"  <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#FinancialYear2021> <http://example.org/ns#startDate> "2021-04-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#FinancialYear2020> <http://example.org/ns#endDate> "2021-03-31"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#FinancialYear2022> <http://example.org/ns#unitsSold> "21000000"^^<http://www.w3.org/2001/XMLSchema#int>  <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#SoftwareSales2022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#Sales> <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#FinancialYear2022> <http://example.org/ns#unitsSoldDecrease> "9"^^<http://www.w3.org/2001/XMLSchema#percent>  <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#ZeldaSequel> <http://example.org/ns#delayed> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#SwitchConsole> <http://example.org/ns#manufacturer> <http://example.org/ns#NintendoCo> <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#Splatoon3> <http://example.org/ns#releaseYear> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#NintendoShares> <http://example.org/ns#status> "closed flat ahead of earnings"  <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#NintendoCo> <http://xmlns.com/foaf/0.1/name> "Nintendo Co"  <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#SoftwareSales2022> <http://example.org/ns#unitsSold> "210000000"^^<http://www.w3.org/2001/XMLSchema#int>  <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#OLEDModel> <http://example.org/ns#releaseDate> "2021-11-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#SoftwareSales2021> <http://example.org/ns#productType> "software"  <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#Splatoon3> <http://example.org/ns#name> "Splatoon 3"  <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#FinancialYear2020> <http://example.org/ns#startDate> "2020-04-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#ZeldaSequel> <http://example.org/ns#releaseDate> "2023-03-21"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#NintendoCo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#FinancialYear2020> <http://example.org/ns#forecastUnitsSold> "23000000"^^<http://www.w3.org/2001/XMLSchema#int>  <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#OLEDModel> <http://example.org/ns#manufacturer> <http://example.org/ns#NintendoCo> <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#FinancialYear2022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#FinancialYear> <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#NintendoShares> <http://example.org/ns#yearToDateChange> "5"^^<http://www.w3.org/2001/XMLSchema#percent>  <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#OLEDModel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#Product> <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#FinancialYear2022> <http://example.org/ns#sales> <http://example.org/ns#SwitchConsole> <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#SwitchConsole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#Product> <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#FinancialYear2020> <http://example.org/ns#sales> <http://example.org/ns#SwitchConsole> <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#SoftwareSales2021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#Sales> <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#FinancialYear2022> <http://example.org/ns#startDate> "2022-04-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#FinancialYear2021> <http://example.org/ns#sales> <http://example.org/ns#SwitchConsole> <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#FinancialYear2020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#FinancialYear> <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#SoftwareSales2021> <http://example.org/ns#unitsSold> "235000000"^^<http://www.w3.org/2001/XMLSchema#int>  <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#FinancialYear2021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#FinancialYear> <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#ZeldaSequel> <http://example.org/ns#name> "Sequel to Legend of Zelda: Breath of the Wild"  <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#NintendoShares> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#FinancialInstrument> <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#FinancialYear2021> <http://example.org/ns#unitsSold> "23060000"^^<http://www.w3.org/2001/XMLSchema#int>  <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#OLEDModel> <http://example.org/ns#model> "OLED screen"  <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#ZeldaSequel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#GameTitle> <Nintendo-Al-Jazeera-1> .
+ <http://example.org/ns#SoftwareSales2022> <http://example.org/ns#productType> "software"  <Nintendo-Al-Jazeera-1> .
+ <http://example.org/entities/Hitachi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/SanctionsOnRussiaAndBelarus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/Taiwan> <http://schema.org/sanction> <http://example.org/entities/SanctionsAgainstMoscow> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/Nintendo> <http://schema.org/delayedRelease> <http://example.org/entities/AdvanceWarsReBootCamp> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/SanctionsOnRussiaAndBelarus> <http://schema.org/name> "Asset freeze of Russian and Belarusian officials and oligarchs"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/SouthKorea> <http://schema.org/name> "South Korea"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/FlightsToEurope> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/AdvanceWarsReBootCamp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/SanctionsAgainstMoscow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/CorporateExodus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/Japan> <http://schema.org/sanction> <http://example.org/entities/SanctionsAgainstRussianCentralBank> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/SonyDonation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MonetaryAmount> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/Apple> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/Japan> <http://schema.org/name> "Japan"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/CorporateExodus> <http://schema.org/participant> <http://example.org/entities/Shell> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/CorporateExodus> <http://schema.org/participant> <http://example.org/entities/Starbucks> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/MykhailoFedorov> <http://schema.org/jobTitle> "Vice Prime Minister of Ukraine"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/JapaneseCarmakers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/NintendoEshopRussia> <http://schema.org/name> "Nintendo eShop in Russia"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/MykhailoFedorov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/PlayStation5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/SouthKorea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/Disney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/GranTurismo7> <http://schema.org/name> "Gran Turismo 7"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/Japan> <http://schema.org/sanction> <http://example.org/entities/SWIFTSanctions> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/CorporateExodus> <http://schema.org/participant> <http://example.org/entities/JapaneseAirlines> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/SaveTheChildren> <http://schema.org/name> "Save the Children"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/CorporateExodus> <http://schema.org/name> "Corporate exodus from Russia"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/JapaneseAirlines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/UNHCR> <http://schema.org/name> "United Nations High Commissioner for Refugees"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/JapaneseCarmakers> <http://schema.org/suspendedExport> <http://example.org/entities/JapaneseCarmakersExportsToRussia> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/CorporateExodus> <http://schema.org/participant> <http://example.org/entities/Apple> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/Shell> <http://schema.org/name> "Shell"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/Nintendo> <http://schema.org/manufacturer> <http://example.org/entities/SwitchConsole> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/NintendoExportsToRussia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/IndonesiaCondemnation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/CorporateExodus> <http://schema.org/participant> <http://example.org/entities/JapaneseCarmakers> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/Japan> <http://schema.org/freezeAssets> <http://example.org/entities/SanctionsOnRussiaAndBelarus> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/Apple> <http://schema.org/name> "Apple"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/Indonesia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/FlightsToEurope> <http://schema.org/name> "Suspension of flights to Europe"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/Hitachi> <http://schema.org/name> "Hitachi"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/MykhailoFedorov> <http://schema.org/name> "Mykhailo Fedorov"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/CorporateExodus> <http://schema.org/participant> <http://example.org/entities/McDonalds> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/Starbucks> <http://schema.org/name> "Starbucks"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/Shell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/Disney> <http://schema.org/name> "Disney"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/AdvanceWarsReBootCamp> <http://schema.org/name> "Advance Wars 1+2: Re-Boot Camp"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/Sony> <http://schema.org/subOrganization> <http://example.org/entities/SonyInteractiveEntertainment> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/Nintendo> <http://schema.org/maintenance> <http://example.org/entities/NintendoEshopRussia> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/SanctionsAgainstRussianCentralBank> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/Ikea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/CorporateExodus> <http://schema.org/participant> <http://example.org/entities/Disney> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/SonyInteractiveEntertainment> <http://schema.org/manufacturer> <http://example.org/entities/PlayStation5> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/JapaneseCarmakers> <http://schema.org/name> "Japanese carmakers"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/Ikea> <http://schema.org/name> "Ikea"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/Nintendo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/HitachiOperationsRussia> <http://schema.org/name> "Suspension of operations in Russia"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/NintendoEshopRussia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Service> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/Indonesia> <http://schema.org/name> "Indonesia"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/Taiwan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/SonyInteractiveEntertainment> <http://schema.org/name> "Sony Interactive Entertainment"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/Indonesia> <http://schema.org/condemnation> <http://example.org/entities/IndonesiaCondemnation> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/SanctionsAgainstMoscow> <http://schema.org/name> "Sanctions against Moscow"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/Japan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/GranTurismo7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/Sony> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/Singapore> <http://schema.org/name> "Singapore"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/SouthKorea> <http://schema.org/sanction> <http://example.org/entities/SanctionsAgainstMoscow> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/Hitachi> <http://schema.org/suspendedOperation> <http://example.org/entities/HitachiOperationsRussia> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/Sony> <http://schema.org/donation> <http://example.org/entities/SonyDonation> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/SonyDonation> <http://schema.org/recipient> <http://example.org/entities/SaveTheChildren> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/McDonalds> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/CorporateExodus> <http://schema.org/participant> <http://example.org/entities/Ikea> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/Starbucks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/SWIFTSanctions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/HitachiOperationsRussia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/SonyInteractiveEntertainment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/PlayStationStoreRussia> <http://schema.org/name> "PlayStation Store in Russia"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/McDonalds> <http://schema.org/name> "McDonald's"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/AdvanceWarsReBootCamp> <http://schema.org/releaseDate> "2022-04-08"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/Singapore> <http://schema.org/sanction> <http://example.org/entities/SanctionsAgainstMoscow> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/SwitchConsole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/Nintendo> <http://schema.org/name> "Nintendo"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/PlayStationStoreRussia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Service> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/JapaneseCarmakersExportsToRussia> <http://schema.org/name> "Suspension of exports to Russia"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/Sony> <http://schema.org/name> "Sony"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/SonyDonation> <http://schema.org/currency> "USD"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/SwitchConsole> <http://schema.org/name> "Switch console"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/SonyInteractiveEntertainment> <http://schema.org/suspendedLaunch> <http://example.org/entities/GranTurismo7> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/SonyDonation> <http://schema.org/recipient> <http://example.org/entities/UNHCR> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/SaveTheChildren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/JapaneseCarmakersExportsToRussia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/Nintendo> <http://schema.org/suspendedExport> <http://example.org/entities/NintendoExportsToRussia> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/NintendoExportsToRussia> <http://schema.org/name> "Suspension of all exports to Russia"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/JapaneseAirlines> <http://schema.org/name> "Japanese airlines"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/UNHCR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/Singapore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/Taiwan> <http://schema.org/name> "Taiwan"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/SanctionsAgainstRussianCentralBank> <http://schema.org/name> "Sanctions targeting Russia's central bank"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/PlayStation5> <http://schema.org/name> "PlayStation 5"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/SonyDonation> <http://schema.org/amount> "2000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/IndonesiaCondemnation> <http://schema.org/name> "Condemnation of violation of territory and sovereignty"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/JapaneseAirlines> <http://schema.org/suspendedFlight> <http://example.org/entities/FlightsToEurope> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/SWIFTSanctions> <http://schema.org/name> "Sanctions on Russia's access to the SWIFT international payments system"  <Nintendo-Al-Jazeera-2> .
+ <http://example.org/entities/SonyInteractiveEntertainment> <http://schema.org/suspendedOperation> <http://example.org/entities/PlayStationStoreRussia> <Nintendo-Al-Jazeera-2> .
+ <http://example.org/person/HarryTruman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-Al-Jazeera-3> .
+ <http://example.org/person/HarryTruman> <http://purl.org/ontology/mo/role> "US president during the bombing of Hiroshima"  <Nintendo-Al-Jazeera-3> .
+ <http://example.org/event/BombingOfHiroshima> <http://purl.org/dc/elements/1.1/date> "1945-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Nintendo-Al-Jazeera-3> .
+ <http://example.org/doctrine/PowellDoctrine> <http://purl.org/dc/elements/1.1/description> "A doctrine that emphasized the use of overwhelming force in military engagements, following the Weinberger Doctrine principles."  <Nintendo-Al-Jazeera-3> .
+ <http://example.org/doctrine/PowellDoctrine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Doctrine> <Nintendo-Al-Jazeera-3> .
+ <http://example.org/person/CreightonAbrams> <http://purl.org/ontology/mo/role> "Marine General who influenced US military strategy post-Vietnam War"  <Nintendo-Al-Jazeera-3> .
+ <http://example.org/report/DroneWarEthics> <http://purl.org/dc/elements/1.1/title> "Study on the moral, ethical, and legal aspects of drone wars"  <Nintendo-Al-Jazeera-3> .
+ <http://example.org/event/BombingOfHiroshima> <http://purl.org/dc/elements/1.1/description> "The US bombing of Hiroshima in August 1945, a decision made by President Harry Truman."  <Nintendo-Al-Jazeera-3> .
+ <http://example.org/report/DroneWarEthics> <http://purl.org/dc/elements/1.1/creator> <http://example.org/organization/BritishMinistryOfDefence> <Nintendo-Al-Jazeera-3> .
+ <http://example.org/report/DroneWarEthics> <http://purl.org/dc/elements/1.1/description> "The study advises defense planners on the implications of unmanned systems in warfare and the need to maintain humanity to prevent making war more likely."  <Nintendo-Al-Jazeera-3> .
+ <http://example.org/person/HarryTruman> <http://xmlns.com/foaf/0.1/name> "Harry Truman"  <Nintendo-Al-Jazeera-3> .
+ <http://example.org/article/DroneWarfareAndDemocracy> <http://purl.org/dc/elements/1.1/title> "Unbridled use of drones and its impact on democracy in the US"  <Nintendo-Al-Jazeera-3> .
+ <http://example.org/article/DroneWarfareAndDemocracy> <http://purl.org/dc/elements/1.1/creator> <http://example.org/person/MuhammadIdreesAhmad> <Nintendo-Al-Jazeera-3> .
+ <http://example.org/report/DroneWarEthics> <http://purl.org/dc/elements/1.1/date> "2023-04-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-Al-Jazeera-3> .
+ <http://example.org/doctrine/WeinbergerDoctrine> <http://purl.org/dc/elements/1.1/creator> <http://example.org/person/CasperWeinberger> <Nintendo-Al-Jazeera-3> .
+ <http://example.org/person/ThomasNachbar> <http://xmlns.com/foaf/0.1/name> "Thomas Nachbar"  <Nintendo-Al-Jazeera-3> .
+ <http://example.org/doctrine/WeinbergerDoctrine> <http://purl.org/dc/elements/1.1/description> "A doctrine that prioritized diplomacy and prescribed 'overwhelming force' only after all diplomatic options had been exhausted."  <Nintendo-Al-Jazeera-3> .
+ <http://example.org/person/MuhammadIdreesAhmad> <http://xmlns.com/foaf/0.1/name> "Muhammad Idrees Ahmad"  <Nintendo-Al-Jazeera-3> .
+ <http://example.org/person/CasperWeinberger> <http://xmlns.com/foaf/0.1/name> "Casper Weinberger"  <Nintendo-Al-Jazeera-3> .
+ <http://example.org/organization/BritishMinistryOfDefence> <http://purl.org/dc/elements/1.1/title> "British Ministry of Defence"  <Nintendo-Al-Jazeera-3> .
+ <http://example.org/person/CreightonAbrams> <http://xmlns.com/foaf/0.1/name> "Creighton Abrams"  <Nintendo-Al-Jazeera-3> .
+ <http://example.org/person/LaraLogan> <http://xmlns.com/foaf/0.1/name> "Lara Logan"  <Nintendo-Al-Jazeera-3> .
+ <http://example.org/article/DroneWarfareAndDemocracy> <http://purl.org/dc/elements/1.1/date> "2023-04-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-Al-Jazeera-3> .
+ <http://example.org/person/MuhammadIdreesAhmad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-Al-Jazeera-3> .
+ <http://example.org/person/CreightonAbrams> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-Al-Jazeera-3> .
+ <http://example.org/person/CasperWeinberger> <http://purl.org/ontology/mo/role> "Defence Secretary who influenced US military strategy post-Vietnam War"  <Nintendo-Al-Jazeera-3> .
+ <http://example.org/person/ThomasNachbar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-Al-Jazeera-3> .
+ <http://example.org/person/LaraLogan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-Al-Jazeera-3> .
+ <http://example.org/person/MuhammadIdreesAhmad> <http://xmlns.com/foaf/0.1/workplaceHomepage> <http://pulsemedia.org/> <Nintendo-Al-Jazeera-3> .
+ <http://example.org/article/DroneWarfareAndDemocracy> <http://purl.org/dc/elements/1.1/description> "The article discusses the ethical, moral, and legal aspects of drone warfare, its impact on democracy in the US, and the historical context of airpower in US military strategy."  <Nintendo-Al-Jazeera-3> .
+ <http://example.org/event/BombingOfHiroshima> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Event> <Nintendo-Al-Jazeera-3> .
+ <http://example.org/person/ThomasNachbar> <http://xmlns.com/foaf/0.1/workplaceHomepage> <http://www.law.virginia.edu/> <Nintendo-Al-Jazeera-3> .
+ <http://example.org/report/DroneWarEthics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Report> <Nintendo-Al-Jazeera-3> .
+ <http://example.org/doctrine/WeinbergerDoctrine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Doctrine> <Nintendo-Al-Jazeera-3> .
+ <http://example.org/person/CasperWeinberger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-Al-Jazeera-3> .
+ <http://example.org/organization/BritishMinistryOfDefence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/mo/Organization> <Nintendo-Al-Jazeera-3> .
+ <http://example.org/person/MuhammadIdreesAhmad> <http://xmlns.com/foaf/0.1/accountName> "@im_pulse"  <Nintendo-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Ken_Kutaragi> <http://dbpedia.org/ontology/knownFor> "father of the PlayStation"  <Nintendo-Al-Jazeera-4> .
+ <http://dbpedia.org/resource/Sony> <http://dbpedia.org/ontology/productRecall> <http://example.org/sony/BatteryRecall> <Nintendo-Al-Jazeera-4> .
+ <http://dbpedia.org/resource/Nintendo> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Wii> <Nintendo-Al-Jazeera-4> .
+ <http://dbpedia.org/resource/Sony> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Video_game_industry> <Nintendo-Al-Jazeera-4> .
+ <http://dbpedia.org/resource/Sony> <http://xmlns.com/foaf/0.1/name> "Sony"  <Nintendo-Al-Jazeera-4> .
+ <http://dbpedia.org/resource/Sony> <http://dbpedia.org/ontology/stockMarket> <http://dbpedia.org/resource/Tokyo_Stock_Exchange> <Nintendo-Al-Jazeera-4> .
+ <http://example.org/sony/BlueLaserProjector> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ProductComponent> <Nintendo-Al-Jazeera-4> .
+ <http://dbpedia.org/resource/Nintendo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-Al-Jazeera-4> .
+ <http://dbpedia.org/resource/Microsoft> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-Al-Jazeera-4> .
+ <http://dbpedia.org/resource/Xbox_360> <http://dbpedia.org/ontology/manufacturer> <http://dbpedia.org/resource/Microsoft> <Nintendo-Al-Jazeera-4> .
+ <http://example.org/sony/PlayStation3> <http://dbpedia.org/ontology/competitor> <http://dbpedia.org/resource/Nintendo> <Nintendo-Al-Jazeera-4> .
+ <http://dbpedia.org/resource/Sony> <http://dbpedia.org/ontology/product> <http://example.org/sony/PlayStation3> <Nintendo-Al-Jazeera-4> .
+ <http://dbpedia.org/resource/Microsoft> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Xbox_360> <Nintendo-Al-Jazeera-4> .
+ <http://dbpedia.org/resource/Wii> <http://dbpedia.org/ontology/releaseDate> "2006-Q4"^^<http://www.w3.org/2001/XMLSchema#gYearQuarter>  <Nintendo-Al-Jazeera-4> .
+ <http://example.org/sony/PlayStation3> <http://dbpedia.org/ontology/marketValue> "$30 billion"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-Al-Jazeera-4> .
+ <http://example.org/sony/BatteryRecall> <http://dbpedia.org/ontology/provider> <http://dbpedia.org/resource/Sony> <Nintendo-Al-Jazeera-4> .
+ <http://dbpedia.org/resource/Xbox_360> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Nintendo-Al-Jazeera-4> .
+ <http://dbpedia.org/resource/Wii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Nintendo-Al-Jazeera-4> .
+ <http://example.org/sony/PlayStation3> <http://dbpedia.org/ontology/manufacturer> <http://dbpedia.org/resource/Sony> <Nintendo-Al-Jazeera-4> .
+ <http://example.org/sony/PlayStation3> <http://dbpedia.org/ontology/productDelayReason> "shortages of a key part"  <Nintendo-Al-Jazeera-4> .
+ <http://dbpedia.org/resource/Sony> <http://dbpedia.org/ontology/announcementDate> "2006-09-06"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-Al-Jazeera-4> .
+ <http://example.org/sony/PlayStation3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Nintendo-Al-Jazeera-4> .
+ <http://dbpedia.org/resource/Sony> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-Al-Jazeera-4> .
+ <http://example.org/sony/BlueLaserProjector> <http://dbpedia.org/ontology/productionScheduleStatus> "fallen behind schedule"  <Nintendo-Al-Jazeera-4> .
+ <http://example.org/sony/BatteryRecall> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Nintendo-Al-Jazeera-4> .
+ <http://example.org/sony/PlayStation3> <http://dbpedia.org/ontology/productDelayNumber> "second"^^<http://www.w3.org/2001/XMLSchema#integer>  <Nintendo-Al-Jazeera-4> .
+ <http://example.org/sony/BatteryRecall> <http://schema.org/description> "recalls of almost 6 million computer notebook PC batteries"  <Nintendo-Al-Jazeera-4> .
+ <http://dbpedia.org/resource/Ken_Kutaragi> <http://xmlns.com/foaf/0.1/name> "Ken Kutaragi"  <Nintendo-Al-Jazeera-4> .
+ <http://dbpedia.org/resource/Ken_Kutaragi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-Al-Jazeera-4> .
+ <http://dbpedia.org/resource/Xbox_360> <http://dbpedia.org/ontology/releaseDate> "2005"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Nintendo-Al-Jazeera-4> .
+ <http://example.org/sony/PlayStation3> <http://dbpedia.org/ontology/releaseDate> "2007-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Nintendo-Al-Jazeera-4> .
+ <http://dbpedia.org/resource/Wii> <http://dbpedia.org/ontology/manufacturer> <http://dbpedia.org/resource/Nintendo> <Nintendo-Al-Jazeera-4> .
+ <http://example.org/sony/BlueLaserProjector> <http://dbpedia.org/ontology/productComponentOf> <http://example.org/sony/PlayStation3> <Nintendo-Al-Jazeera-4> .
+ <http://dbpedia.org/resource/Nintendo> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Video_game_industry> <Nintendo-Al-Jazeera-4> .
+ <http://example.org/sony/BatteryRecall> <http://dbpedia.org/ontology/recipient> <http://dbpedia.org/resource/Dell> <Nintendo-Al-Jazeera-4> .
+ <http://dbpedia.org/resource/Microsoft> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Video_game_industry> <Nintendo-Al-Jazeera-4> .
+ <http://dbpedia.org/resource/Ken_Kutaragi> <http://dbpedia.org/ontology/position> "head of Sony’s game unit"  <Nintendo-Al-Jazeera-4> .
+ <http://example.org/sony/BatteryRecall> <http://dbpedia.org/ontology/recipient> <http://dbpedia.org/resource/Apple> <Nintendo-Al-Jazeera-4> .
+ <http://example.org/sony/PlayStation3> <http://dbpedia.org/ontology/competitor> <http://dbpedia.org/resource/Microsoft> <Nintendo-Al-Jazeera-4> .
+ <http://dbpedia.org/resource/Ken_Kutaragi> <http://dbpedia.org/ontology/statement> "I feel sorry. I think there are so many people out there who hold such high expectations for PS3."  <Nintendo-Al-Jazeera-4> .
+ <http://example.org/sony/PlayStation3> <http://dbpedia.org/ontology/productLaunchLocation> <http://dbpedia.org/resource/Europe> <Nintendo-Al-Jazeera-4> .
+ <http://example.org/YukaTanegashima> <http://xmlns.com/foaf/0.1/name> "Yuka Tanegashima"  <Nintendo-Al-Jazeera-5> .
+ <http://Nintendo-Al-Jazeera-5.com/blank#n5c7834e2c1074603b936669b6ef21dafb6> <http://dbpedia.org/ontology/populationTotal> "40000000"^^<http://www.w3.org/2001/XMLSchema#int>  <Nintendo-Al-Jazeera-5> .
+ <http://example.org/SatoruIwata> <http://xmlns.com/foaf/0.1/name> "Satoru Iwata"  <Nintendo-Al-Jazeera-5> .
+ <http://example.org/Japan> <http://dbpedia.org/ontology/population> "120000000"^^<http://www.w3.org/2001/XMLSchema#int>  <Nintendo-Al-Jazeera-5> .
+ <http://example.org/TakaoSuzuki> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-Al-Jazeera-5> .
+ <http://example.org/BrainAgeGame> <http://dbpedia.org/ontology/numberOfUnitsSold> "4000000"^^<http://www.w3.org/2001/XMLSchema#int>  <Nintendo-Al-Jazeera-5> .
+ <http://example.org/MutsukoTsuyuki> <http://xmlns.com/foaf/0.1/occupation> "housewife"  <Nintendo-Al-Jazeera-5> .
+ <http://example.org/Nintendo> <http://xmlns.com/foaf/0.1/name> "Nintendo"  <Nintendo-Al-Jazeera-5> .
+ <http://example.org/TakaoSuzuki> <http://dbpedia.org/ontology/position> "Vice Director"  <Nintendo-Al-Jazeera-5> .
+ <http://example.org/YukaTanegashima> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-Al-Jazeera-5> .
+ <http://example.org/TokyoMetropolitanInstituteOfGerontology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Nintendo-Al-Jazeera-5> .
+ <http://example.org/Nintendo> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Kyoto> <Nintendo-Al-Jazeera-5> .
+ <http://example.org/MasamiIhara> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-Al-Jazeera-5> .
+ <http://Nintendo-Al-Jazeera-5.com/blank#n5c7834e2c1074603b936669b6ef21dafb2> <http://dbpedia.org/ontology/authorOf> <http://Nintendo-Al-Jazeera-5.com/blank#n5c7834e2c1074603b936669b6ef21dafb3>  <Nintendo-Al-Jazeera-5> .
+ <http://example.org/Nintendo> <http://dbpedia.org/ontology/product> <http://example.org/BrainAgeSeries> <Nintendo-Al-Jazeera-5> .
+ <http://example.org/Japan> <http://dbpedia.org/ontology/demographics> <http://Nintendo-Al-Jazeera-5.com/blank#n5c7834e2c1074603b936669b6ef21dafb6>  <Nintendo-Al-Jazeera-5> .
+ <http://example.org/NintendoConsole> <http://schema.org/software> <http://example.org/BrainAgeGame> <Nintendo-Al-Jazeera-5> .
+ <http://example.org/TakaoSuzuki> <http://schema.org/employee> <http://example.org/TokyoMetropolitanInstituteOfGerontology> <Nintendo-Al-Jazeera-5> .
+ <http://example.org/BrainAgeGame> <http://dbpedia.org/ontology/product> <http://example.org/BrainAgeSeries> <Nintendo-Al-Jazeera-5> .
+ <http://example.org/YukaTanegashima> <http://schema.org/spokespersonFor> <http://example.org/BrainAgeGame> <Nintendo-Al-Jazeera-5> .
+ <http://Nintendo-Al-Jazeera-5.com/blank#n5c7834e2c1074603b936669b6ef21dafb6> <http://dbpedia.org/ontology/populationAgeGroup> "65-years-old or over"  <Nintendo-Al-Jazeera-5> .
+ <http://example.org/SatoruIwata> <http://schema.org/employee> <http://example.org/Nintendo> <Nintendo-Al-Jazeera-5> .
+ <http://example.org/MutsukoTsuyuki> <http://schema.org/follows> <http://example.org/BrainExercisesRegime> <Nintendo-Al-Jazeera-5> .
+ <http://example.org/Nintendo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-Al-Jazeera-5> .
+ <http://example.org/FaceCream> <http://dbpedia.org/ontology/manufacturer> <http://example.org/Shiseido> <Nintendo-Al-Jazeera-5> .
+ <http://example.org/TokyoMetropolitanInstituteOfGerontology> <http://dbpedia.org/ontology/field> "Gerontology"  <Nintendo-Al-Jazeera-5> .
+ <http://Nintendo-Al-Jazeera-5.com/blank#n5c7834e2c1074603b936669b6ef21dafb4> <http://dbpedia.org/ontology/title> "Brain Training 2"  <Nintendo-Al-Jazeera-5> .
+ <http://Nintendo-Al-Jazeera-5.com/blank#n5c7834e2c1074603b936669b6ef21dafb2> <http://dbpedia.org/ontology/authorOf> <http://Nintendo-Al-Jazeera-5.com/blank#n5c7834e2c1074603b936669b6ef21dafb4>  <Nintendo-Al-Jazeera-5> .
+ <http://example.org/TokyoMetropolitanInstituteOfGerontology> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Tokyo> <Nintendo-Al-Jazeera-5> .
+ <http://example.org/Shiseido> <http://dbpedia.org/ontology/product> <http://example.org/FaceCream> <Nintendo-Al-Jazeera-5> .
+ <http://example.org/FaceCream> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <Nintendo-Al-Jazeera-5> .
+ <http://Nintendo-Al-Jazeera-5.com/blank#n5c7834e2c1074603b936669b6ef21dafb3> <http://dbpedia.org/ontology/title> "Brain Training"  <Nintendo-Al-Jazeera-5> .
+ <http://example.org/MutsukoTsuyuki> <http://schema.org/owns> <http://example.org/NintendoConsole> <Nintendo-Al-Jazeera-5> .
+ <http://example.org/BrainAgeGame> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <Nintendo-Al-Jazeera-5> .
+ <http://example.org/NintendoConsole> <http://dbpedia.org/ontology/manufacturer> <http://dbpedia.org/resource/Nintendo> <Nintendo-Al-Jazeera-5> .
+ <http://example.org/MutsukoTsuyuki> <http://dbpedia.org/ontology/residence> <http://dbpedia.org/resource/Yokohama> <Nintendo-Al-Jazeera-5> .
+ <http://Nintendo-Al-Jazeera-5.com/blank#n5c7834e2c1074603b936669b6ef21dafb5> <http://schema.org/requiredMinAge> "40"^^<http://www.w3.org/2001/XMLSchema#int>  <Nintendo-Al-Jazeera-5> .
+ <http://example.org/SatoruIwata> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-Al-Jazeera-5> .
+ <http://example.org/MasamiIhara> <http://schema.org/employee> <http://example.org/JapanSeniorCitizensWelfareOrganisation> <Nintendo-Al-Jazeera-5> .
+ <http://example.org/TakaoSuzuki> <http://xmlns.com/foaf/0.1/name> "Takao Suzuki"  <Nintendo-Al-Jazeera-5> .
+ <http://Nintendo-Al-Jazeera-5.com/blank#n5c7834e2c1074603b936669b6ef21dafb5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PeopleAudience> <Nintendo-Al-Jazeera-5> .
+ <http://example.org/SatoruIwata> <http://dbpedia.org/ontology/position> "President of Nintendo"  <Nintendo-Al-Jazeera-5> .
+ <http://example.org/JapanSeniorCitizensWelfareOrganisation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Nintendo-Al-Jazeera-5> .
+ <http://Nintendo-Al-Jazeera-5.com/blank#n5c7834e2c1074603b936669b6ef21dafb2> <http://dbpedia.org/ontology/occupation> "brain imaging technology expert"  <Nintendo-Al-Jazeera-5> .
+ <http://example.org/MasamiIhara> <http://xmlns.com/foaf/0.1/name> "Masami Ihara"  <Nintendo-Al-Jazeera-5> .
+ <http://example.org/JapanSeniorCitizensWelfareOrganisation> <http://dbpedia.org/ontology/field> "Senior Citizens Welfare"  <Nintendo-Al-Jazeera-5> .
+ <http://example.org/MutsukoTsuyuki> <http://xmlns.com/foaf/0.1/name> "Mutsuko Tsuyuki"  <Nintendo-Al-Jazeera-5> .
+ <http://example.org/Japan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <Nintendo-Al-Jazeera-5> .
+ <http://Nintendo-Al-Jazeera-5.com/blank#n5c7834e2c1074603b936669b6ef21dafb1> <http://schema.org/owns> <http://example.org/NintendoConsole> <Nintendo-Al-Jazeera-5> .
+ <http://Nintendo-Al-Jazeera-5.com/blank#n5c7834e2c1074603b936669b6ef21dafb5> <http://schema.org/requiredMaxAge> "50"^^<http://www.w3.org/2001/XMLSchema#int>  <Nintendo-Al-Jazeera-5> .
+ <http://example.org/BrainAgeSeries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ProductSeries> <Nintendo-Al-Jazeera-5> .
+ <http://Nintendo-Al-Jazeera-5.com/blank#n5c7834e2c1074603b936669b6ef21dafb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-Al-Jazeera-5> .
+ <http://Nintendo-Al-Jazeera-5.com/blank#n5c7834e2c1074603b936669b6ef21dafb1> <http://xmlns.com/foaf/0.1/age> "6"^^<http://www.w3.org/2001/XMLSchema#int>  <Nintendo-Al-Jazeera-5> .
+ <http://example.org/Shiseido> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-Al-Jazeera-5> .
+ <http://Nintendo-Al-Jazeera-5.com/blank#n5c7834e2c1074603b936669b6ef21dafb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-Al-Jazeera-5> .
+ <http://example.org/BrainAgeGame> <http://dbpedia.org/ontology/developer> <http://Nintendo-Al-Jazeera-5.com/blank#n5c7834e2c1074603b936669b6ef21dafb2>  <Nintendo-Al-Jazeera-5> .
+ <http://example.org/FaceCream> <http://schema.org/targetAudience> <http://Nintendo-Al-Jazeera-5.com/blank#n5c7834e2c1074603b936669b6ef21dafb5>  <Nintendo-Al-Jazeera-5> .
+ <http://example.org/MutsukoTsuyuki> <http://schema.org/parentOf> <http://Nintendo-Al-Jazeera-5.com/blank#n5c7834e2c1074603b936669b6ef21dafb1>  <Nintendo-Al-Jazeera-5> .
+ <http://example.org/MutsukoTsuyuki> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-Al-Jazeera-5> .
+ <http://Nintendo-Al-Jazeera-5.com/blank#n5c7834e2c1074603b936669b6ef21dafb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Book> <Nintendo-Al-Jazeera-5> .
+ <http://example.org/MutsukoTsuyuki> <http://dbpedia.org/ontology/age> "37"^^<http://www.w3.org/2001/XMLSchema#int>  <Nintendo-Al-Jazeera-5> .
+ <http://example.org/FaceCream> <http://dbpedia.org/ontology/salesNumber> "20% higher than anticipated"  <Nintendo-Al-Jazeera-5> .
+ <http://Nintendo-Al-Jazeera-5.com/blank#n5c7834e2c1074603b936669b6ef21dafb2> <http://xmlns.com/foaf/0.1/name> "Ryuta Kawashima"  <Nintendo-Al-Jazeera-5> .
+ <http://Nintendo-Al-Jazeera-5.com/blank#n5c7834e2c1074603b936669b6ef21dafb3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Book> <Nintendo-Al-Jazeera-5> .
+ <http://example.org/BrainAgeSeries> <http://schema.org/hasPart> <http://example.org/BrainAgeGame> <Nintendo-Al-Jazeera-5> .
+ <http://example.org/MasamiIhara> <http://dbpedia.org/ontology/position> "Chairman"  <Nintendo-Al-Jazeera-5> .
+ <http://example.org/BrainAgeGame> <http://dbpedia.org/ontology/releaseDate> "2005-05-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-Al-Jazeera-5> .
+ <http://Nintendo-Al-Jazeera-5.com/blank#n5c7834e2c1074603b936669b6ef21dafb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Demographics> <Nintendo-Al-Jazeera-5> .
+ <http://example.org/YukaTanegashima> <http://schema.org/employee> <http://example.org/Nintendo> <Nintendo-Al-Jazeera-5> .
+ <http://example.org/NintendoConsole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Device> <Nintendo-Al-Jazeera-5> .
+ <http://dbpedia.org/resource/Nintendo_Co> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-Al-Jazeera-6> .
+ <http://Nintendo-Al-Jazeera-6.com/blank#n995558516d4445d2b81f369bfc947c85b5> <http://xmlns.com/foaf/0.1/name> "Skype"  <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Sony_Corp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Xbox_One> <http://dbpedia.org/ontology/exclusiveContent> <http://Nintendo-Al-Jazeera-6.com/blank#n995558516d4445d2b81f369bfc947c85b7>  <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Yusuf_Mehdi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Xbox_One> <http://dbpedia.org/ontology/competitor> <http://dbpedia.org/resource/Wii_U> <Nintendo-Al-Jazeera-6> .
+ <http://Nintendo-Al-Jazeera-6.com/blank#n995558516d4445d2b81f369bfc947c85b1> <http://xmlns.com/foaf/0.1/name> "Microsoft Corp"  <Nintendo-Al-Jazeera-6> .
+ <http://Nintendo-Al-Jazeera-6.com/blank#n995558516d4445d2b81f369bfc947c85b9> <http://dbpedia.org/ontology/basedOn> <http://dbpedia.org/resource/Halo_series> <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Microsoft_Corporation> <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Yusuf_Mehdi> <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Microsoft_Corporation> <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Don_Mattrick> <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Wii_U> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGameConsole> <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Xbox_One> <http://schema.org/gamePlatform> "first"^^<http://www.w3.org/2001/XMLSchema#string>  <Nintendo-Al-Jazeera-6> .
+ <http://Nintendo-Al-Jazeera-6.com/blank#n995558516d4445d2b81f369bfc947c85b10> <http://xmlns.com/foaf/0.1/name> "Call of Duty"  <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Steven_Spielberg> <http://dbpedia.org/ontology/producerOf> <http://Nintendo-Al-Jazeera-6.com/blank#n995558516d4445d2b81f369bfc947c85b9>  <Nintendo-Al-Jazeera-6> .
+ <http://Nintendo-Al-Jazeera-6.com/blank#n995558516d4445d2b81f369bfc947c85b10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Yusuf_Mehdi> <http://dbpedia.org/ontology/title> "SVP of Microsoft's Interactive Entertainment Business"^^<http://www.w3.org/2001/XMLSchema#string>  <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Xbox_One> <http://dbpedia.org/ontology/productCategory> "entertainment system"^^<http://www.w3.org/2001/XMLSchema#string>  <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Xbox_One> <http://dbpedia.org/ontology/associatedMedia> <http://Nintendo-Al-Jazeera-6.com/blank#n995558516d4445d2b81f369bfc947c85b2>  <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Don_Mattrick> <http://xmlns.com/foaf/0.1/name> "Don Mattrick"  <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Steven_Spielberg> <http://dbpedia.org/ontology/occupation> "movie maker"^^<http://www.w3.org/2001/XMLSchema#string>  <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Microsoft_Corporation> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Video_game_industry> <Nintendo-Al-Jazeera-6> .
+ <http://Nintendo-Al-Jazeera-6.com/blank#n995558516d4445d2b81f369bfc947c85b8> <http://xmlns.com/foaf/0.1/name> "campus near Seattle"  <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Yusuf_Mehdi> <http://xmlns.com/foaf/0.1/name> "Yusuf Mehdi"  <Nintendo-Al-Jazeera-6> .
+ <http://Nintendo-Al-Jazeera-6.com/blank#n995558516d4445d2b81f369bfc947c85b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <Nintendo-Al-Jazeera-6> .
+ <http://Nintendo-Al-Jazeera-6.com/blank#n995558516d4445d2b81f369bfc947c85b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/TVSeries> <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Nintendo_Co> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Wii_U> <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Xbox_One> <http://dbpedia.org/ontology/industry> <http://Nintendo-Al-Jazeera-6.com/blank#n995558516d4445d2b81f369bfc947c85b4>  <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Xbox_One> <http://schema.org/releaseDate> "later this year"^^<http://www.w3.org/2001/XMLSchema#string>  <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Wii_U> <http://dbpedia.org/ontology/manufacturer> <http://dbpedia.org/resource/Nintendo_Co> <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Xbox_One> <http://dbpedia.org/ontology/manufacturer> <http://dbpedia.org/resource/Microsoft_Corporation> <Nintendo-Al-Jazeera-6> .
+ <http://Nintendo-Al-Jazeera-6.com/blank#n995558516d4445d2b81f369bfc947c85b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicComposition> <Nintendo-Al-Jazeera-6> .
+ <http://Nintendo-Al-Jazeera-6.com/blank#n995558516d4445d2b81f369bfc947c85b2> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/Steven_Spielberg> <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Microsoft_Corporation> <http://dbpedia.org/ontology/location> <http://Nintendo-Al-Jazeera-6.com/blank#n995558516d4445d2b81f369bfc947c85b8>  <Nintendo-Al-Jazeera-6> .
+ <http://Nintendo-Al-Jazeera-6.com/blank#n995558516d4445d2b81f369bfc947c85b7> <http://xmlns.com/foaf/0.1/name> "8 new game franchises"  <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Sony_Corp> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/PlayStation_4> <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Xbox_One> <http://dbpedia.org/ontology/associatedBand> <http://dbpedia.org/resource/Steven_Spielberg> <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Xbox_One> <http://dbpedia.org/ontology/exclusiveContent> <http://Nintendo-Al-Jazeera-6.com/blank#n995558516d4445d2b81f369bfc947c85b6>  <Nintendo-Al-Jazeera-6> .
+ <http://Nintendo-Al-Jazeera-6.com/blank#n995558516d4445d2b81f369bfc947c85b4> <http://dbpedia.org/ontology/revenue> "65000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Xbox_One> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGameConsole> <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Don_Mattrick> <http://dbpedia.org/ontology/occupation> "games unit chief"^^<http://www.w3.org/2001/XMLSchema#string>  <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Activision_Blizzard_Inc> <http://dbpedia.org/ontology/product> <http://Nintendo-Al-Jazeera-6.com/blank#n995558516d4445d2b81f369bfc947c85b10>  <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/PlayStation_4> <http://dbpedia.org/ontology/manufacturer> <http://dbpedia.org/resource/Sony_Corp> <Nintendo-Al-Jazeera-6> .
+ <http://Nintendo-Al-Jazeera-6.com/blank#n995558516d4445d2b81f369bfc947c85b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Xbox_One> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Halo_series> <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Xbox_One> <http://dbpedia.org/ontology/hasPart> <http://Nintendo-Al-Jazeera-6.com/blank#n995558516d4445d2b81f369bfc947c85b5>  <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Xbox_One> <http://dbpedia.org/ontology/associatedMusicalWork> <http://Nintendo-Al-Jazeera-6.com/blank#n995558516d4445d2b81f369bfc947c85b3>  <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Don_Mattrick> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Nintendo-Al-Jazeera-6> .
+ <http://Nintendo-Al-Jazeera-6.com/blank#n995558516d4445d2b81f369bfc947c85b6> <http://dbpedia.org/ontology/sport> <http://dbpedia.org/resource/National_Football_League> <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Xbox_One> <http://dbpedia.org/ontology/competitor> <http://dbpedia.org/resource/PlayStation_4> <Nintendo-Al-Jazeera-6> .
+ <http://Nintendo-Al-Jazeera-6.com/blank#n995558516d4445d2b81f369bfc947c85b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGameSeries> <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Activision_Blizzard_Inc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Steven_Spielberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Xbox_One> <http://dbpedia.org/ontology/numberOfExclusiveGames> "15"^^<http://www.w3.org/2001/XMLSchema#integer>  <Nintendo-Al-Jazeera-6> .
+ <http://Nintendo-Al-Jazeera-6.com/blank#n995558516d4445d2b81f369bfc947c85b3> <http://xmlns.com/foaf/0.1/name> "Call of Duty"  <Nintendo-Al-Jazeera-6> .
+ <http://Nintendo-Al-Jazeera-6.com/blank#n995558516d4445d2b81f369bfc947c85b3> <http://dbpedia.org/ontology/composer> <http://dbpedia.org/resource/Activision_Blizzard_Inc> <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/PlayStation_4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGameConsole> <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Xbox_One> <http://dbpedia.org/ontology/numberOfYearsForDevelopment> "4"^^<http://www.w3.org/2001/XMLSchema#integer>  <Nintendo-Al-Jazeera-6> .
+ <http://Nintendo-Al-Jazeera-6.com/blank#n995558516d4445d2b81f369bfc947c85b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/TVSeries> <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Xbox_One> <http://dbpedia.org/ontology/developer> <http://Nintendo-Al-Jazeera-6.com/blank#n995558516d4445d2b81f369bfc947c85b1>  <Nintendo-Al-Jazeera-6> .
+ <http://Nintendo-Al-Jazeera-6.com/blank#n995558516d4445d2b81f369bfc947c85b4> <http://dbpedia.org/ontology/productMarket> "computer game market"^^<http://www.w3.org/2001/XMLSchema#string>  <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Steven_Spielberg> <http://xmlns.com/foaf/0.1/name> "Steven Spielberg"  <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Microsoft_Corporation> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Xbox_One> <Nintendo-Al-Jazeera-6> .
+ <http://Nintendo-Al-Jazeera-6.com/blank#n995558516d4445d2b81f369bfc947c85b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsEvent> <Nintendo-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Microsoft_Corporation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-Al-Jazeera-6> .
+ <http://example.org/GeorgeWBushImpersonator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/sioc/ns#UserAccount> <Nintendo-Al-Jazeera-7> .
+ <http://example.org/TonyBlair> <http://xmlns.com/foaf/0.1/name> "Tony Blair"  <Nintendo-Al-Jazeera-7> .
+ <http://example.org/FTC> <http://schema.org/concern> "Watching Twitter with deep concern"  <Nintendo-Al-Jazeera-7> .
+ <http://example.org/TonyBlair> <http://dbpedia.org/ontology/occupation> "Former UK Prime Minister"  <Nintendo-Al-Jazeera-7> .
+ <http://example.org/ElonMusk> <http://xmlns.com/foaf/0.1/name> "Elon Musk"  <Nintendo-Al-Jazeera-7> .
+ <http://example.org/TonyBlairImpersonator> <http://rdfs.org/sioc/ns#account_of> <http://example.org/TonyBlair> <Nintendo-Al-Jazeera-7> .
+ <http://example.org/GeorgeWBush> <http://dbpedia.org/ontology/occupation> "Former United States President"  <Nintendo-Al-Jazeera-7> .
+ <http://example.org/Audi> <http://schema.org/suspendsAdsOn> <http://example.org/Twitter> <Nintendo-Al-Jazeera-7> .
+ <http://example.org/GeneralMotors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-Al-Jazeera-7> .
+ <http://example.org/Nintendo> <http://dbpedia.org/ontology/industry> "Computer games"  <Nintendo-Al-Jazeera-7> .
+ <http://example.org/Article> <http://purl.org/dc/elements/1.1/date> "2023-11-09"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-Al-Jazeera-7> .
+ <http://example.org/NintendoImpersonator> <http://rdfs.org/sioc/ns#name> "Nintendo"  <Nintendo-Al-Jazeera-7> .
+ <http://example.org/GeneralMills> <http://schema.org/suspendsAdsOn> <http://example.org/Twitter> <Nintendo-Al-Jazeera-7> .
+ <http://example.org/Twitter> <http://rdfs.org/sioc/ns#policy> "Scrapped verification policies"  <Nintendo-Al-Jazeera-7> .
+ <http://example.org/Article> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/sioc/ns#Post> <Nintendo-Al-Jazeera-7> .
+ <http://example.org/TeslaImpersonator> <http://rdfs.org/sioc/ns#name> "Tesla"  <Nintendo-Al-Jazeera-7> .
+ <http://example.org/TonyBlairImpersonator> <http://rdfs.org/sioc/ns#name> "Tony Blair"  <Nintendo-Al-Jazeera-7> .
+ <http://example.org/Tesla> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-Al-Jazeera-7> .
+ <http://example.org/ElonMusk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-Al-Jazeera-7> .
+ <http://example.org/DonaldTrump> <http://xmlns.com/foaf/0.1/name> "Donald Trump"  <Nintendo-Al-Jazeera-7> .
+ <http://example.org/GeorgeWBush> <http://xmlns.com/foaf/0.1/name> "George W Bush"  <Nintendo-Al-Jazeera-7> .
+ <http://example.org/LeBronJamesImpersonator> <http://rdfs.org/sioc/ns#name> "LeBron James"  <Nintendo-Al-Jazeera-7> .
+ <http://example.org/Article> <http://purl.org/dc/elements/1.1/title> "Fake Twitter accounts explode across the platform after Elon Musk scraps verification policies."  <Nintendo-Al-Jazeera-7> .
+ <http://example.org/ElonMusk> <http://dbpedia.org/ontology/occupation> "Owner of Twitter"  <Nintendo-Al-Jazeera-7> .
+ <http://example.org/DonaldTrumpImpersonator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/sioc/ns#UserAccount> <Nintendo-Al-Jazeera-7> .
+ <http://example.org/TeslaImpersonator> <http://rdfs.org/sioc/ns#account_of> <http://example.org/Tesla> <Nintendo-Al-Jazeera-7> .
+ <http://example.org/Twitter> <http://xmlns.com/foaf/0.1/homepage> <https://twitter.com/> <Nintendo-Al-Jazeera-7> .
+ <http://example.org/LeBronJames> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-Al-Jazeera-7> .
+ <http://example.org/Audi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-Al-Jazeera-7> .
+ <http://example.org/TonyBlairImpersonator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/sioc/ns#UserAccount> <Nintendo-Al-Jazeera-7> .
+ <http://example.org/DonaldTrump> <http://dbpedia.org/ontology/occupation> "Former US President"  <Nintendo-Al-Jazeera-7> .
+ <http://example.org/DonaldTrump> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-Al-Jazeera-7> .
+ <http://example.org/DonaldTrumpImpersonator> <http://rdfs.org/sioc/ns#name> "Donald Trump"  <Nintendo-Al-Jazeera-7> .
+ <http://example.org/DonaldTrumpImpersonator> <http://rdfs.org/sioc/ns#account_of> <http://example.org/DonaldTrump> <Nintendo-Al-Jazeera-7> .
+ <http://example.org/GeorgeWBushImpersonator> <http://rdfs.org/sioc/ns#account_of> <http://example.org/GeorgeWBush> <Nintendo-Al-Jazeera-7> .
+ <http://example.org/Nintendo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-Al-Jazeera-7> .
+ <http://example.org/TeslaImpersonator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/sioc/ns#UserAccount> <Nintendo-Al-Jazeera-7> .
+ <http://example.org/FTC> <http://xmlns.com/foaf/0.1/name> "United States Federal Trade Commission"  <Nintendo-Al-Jazeera-7> .
+ <http://example.org/GeneralMills> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-Al-Jazeera-7> .
+ <http://example.org/Tesla> <http://dbpedia.org/ontology/founder> <http://example.org/ElonMusk> <Nintendo-Al-Jazeera-7> .
+ <http://example.org/LeBronJamesImpersonator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/sioc/ns#UserAccount> <Nintendo-Al-Jazeera-7> .
+ <http://example.org/LeBronJames> <http://dbpedia.org/ontology/occupation> "NBA star"  <Nintendo-Al-Jazeera-7> .
+ <http://example.org/Twitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/sioc/ns#Site> <Nintendo-Al-Jazeera-7> .
+ <http://example.org/Twitter> <http://dbpedia.org/ontology/owner> <http://example.org/ElonMusk> <Nintendo-Al-Jazeera-7> .
+ <http://example.org/TonyBlair> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-Al-Jazeera-7> .
+ <http://example.org/Tesla> <http://dbpedia.org/ontology/industry> "Carmaker"  <Nintendo-Al-Jazeera-7> .
+ <http://example.org/Article> <http://rdfs.org/sioc/ns#content> "A previous version of this article said the fake Twitter accounts began springing up on Thursday, instead of Wednesday."  <Nintendo-Al-Jazeera-7> .
+ <http://example.org/GeneralMotors> <http://schema.org/suspendsAdsOn> <http://example.org/Twitter> <Nintendo-Al-Jazeera-7> .
+ <http://example.org/NintendoImpersonator> <http://rdfs.org/sioc/ns#account_of> <http://example.org/Nintendo> <Nintendo-Al-Jazeera-7> .
+ <http://example.org/NintendoImpersonator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/sioc/ns#UserAccount> <Nintendo-Al-Jazeera-7> .
+ <http://example.org/FTC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Nintendo-Al-Jazeera-7> .
+ <http://example.org/GeorgeWBushImpersonator> <http://rdfs.org/sioc/ns#name> "George W Bush"  <Nintendo-Al-Jazeera-7> .
+ <http://example.org/ElonMusk> <http://dbpedia.org/ontology/netWorth> "44bn"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-Al-Jazeera-7> .
+ <http://example.org/LeBronJamesImpersonator> <http://rdfs.org/sioc/ns#account_of> <http://example.org/LeBronJames> <Nintendo-Al-Jazeera-7> .
+ <http://example.org/LeBronJames> <http://xmlns.com/foaf/0.1/name> "LeBron James"  <Nintendo-Al-Jazeera-7> .
+ <http://example.org/GeorgeWBush> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-Al-Jazeera-7> .
+ <http://example.org/Emsisoft> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-Al-Jazeera-8> .
+ <http://example.org/BigTech> <http://schema.org/description> "Big Tech companies like Facebook, Amazon, Apple, and Google did well financially but face regulatory challenges."  <Nintendo-Al-Jazeera-8> .
+ <http://example.org/SocialMediaElectionLabels> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Loser> <Nintendo-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Oracle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Joe_Biden> <http://schema.org/presidencyStart> "2021-01-20"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-Al-Jazeera-8> .
+ <http://example.org/Quibi> <http://schema.org/description> "Quibi, short for 'quick bites', raised $1.75bn and launched with a Super Bowl advertisement but announced shutdown in October after its April launch."  <Nintendo-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Donald_Trump> <http://schema.org/presidencyEnd> "2021-01-20"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Disney> <http://xmlns.com/foaf/0.1/investedIn> <http://example.org/Quibi> <Nintendo-Al-Jazeera-8> .
+ <http://example.org/AnimalCrossingNewHorizons> <http://dbpedia.org/ontology/sales> "26000000"^^<http://www.w3.org/2001/XMLSchema#int>  <Nintendo-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Walmart> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-Al-Jazeera-8> .
+ <http://example.org/ComputerMakers> <http://schema.org/description> "Computer makers experienced a surge in demand for machines as the pandemic kept millions of workers and students at home."  <Nintendo-Al-Jazeera-8> .
+ <http://example.org/Gartner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/NBCUniversal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Investor> <Nintendo-Al-Jazeera-8> .
+ <http://example.org/Zoom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Winner> <Nintendo-Al-Jazeera-8> .
+ <http://example.org/Facebook> <http://dbpedia.org/ontology/lawsuit> <http://dbpedia.org/resource/Federal_Trade_Commission> <Nintendo-Al-Jazeera-8> .
+ <http://example.org/Google> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/BigTech> <Nintendo-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Viacom> <http://xmlns.com/foaf/0.1/investedIn> <http://example.org/Quibi> <Nintendo-Al-Jazeera-8> .
+ <http://example.org/Jennifer_Grygiel> <http://xmlns.com/foaf/0.1/title> "Professor"  <Nintendo-Al-Jazeera-8> .
+ <http://example.org/AnimalCrossingNewHorizons> <http://dbpedia.org/ontology/releaseDate> "2020-03-20"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/ByteDance> <http://dbpedia.org/ontology/subsidiary> <http://example.org/TikTok> <Nintendo-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Viacom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Investor> <Nintendo-Al-Jazeera-8> .
+ <http://example.org/Shopify> <http://schema.org/description> "Shopify reported sales rose 75 percent from a year ago to $2.4bn on Black Friday."  <Nintendo-Al-Jazeera-8> .
+ <http://example.org/ComputerMakers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Winner> <Nintendo-Al-Jazeera-8> .
+ <http://example.org/AnimalCrossingNewHorizons> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> <Nintendo-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Proposition_22> <http://schema.org/description> "Proposition 22 in California granted companies like Uber and Lyft an exception to a law that sought to classify their drivers as employees."  <Nintendo-Al-Jazeera-8> .
+ <http://example.org/US_TikTok_Ban> <http://schema.org/description> "US TikTok ban efforts by the Trump administration were legally thwarted and the status of the Oracle and Walmart deal is unclear."  <Nintendo-Al-Jazeera-8> .
+ <http://example.org/NintendoSwitch> <http://dbpedia.org/ontology/sales> "6920000"^^<http://www.w3.org/2001/XMLSchema#int>  <Nintendo-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Federal_Trade_Commission> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Nintendo-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Proposition_22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Legislation> <Nintendo-Al-Jazeera-8> .
+ <http://example.org/TikTok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <Nintendo-Al-Jazeera-8> .
+ <http://example.org/US_TikTok_Ban> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Loser> <Nintendo-Al-Jazeera-8> .
+ <http://example.org/Uber> <http://schema.org/description> "Uber laid off about 14 percent of its workforce in May and is still struggling to show profitability."  <Nintendo-Al-Jazeera-8> .
+ <http://example.org/NintendoSwitch> <http://dbpedia.org/ontology/product> <http://example.org/AnimalCrossingNewHorizons> <Nintendo-Al-Jazeera-8> .
+ <http://example.org/AdobeAnalytics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-Al-Jazeera-8> .
+ <http://example.org/Lyft> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Loser> <Nintendo-Al-Jazeera-8> .
+ <http://example.org/VirtualReality> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Loser> <Nintendo-Al-Jazeera-8> .
+ <http://example.org/RansomwarePurveyors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Winner> <Nintendo-Al-Jazeera-8> .
+ <http://example.org/NintendoSwitch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Winner> <Nintendo-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Department_of_Justice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Nintendo-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Oracle> <http://schema.org/potentialInvestment> <http://example.org/TikTok> <Nintendo-Al-Jazeera-8> .
+ <http://example.org/VirtualReality> <http://schema.org/description> "Virtual reality missed its moment during the pandemic as people turned to easier-to-use software and games they already had, and no VR games broke into the mainstream."  <Nintendo-Al-Jazeera-8> .
+ <http://example.org/Lyft> <http://schema.org/description> "Lyft also announced job cuts but expects to have its first profitable quarter at the end of 2021."  <Nintendo-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Syracuse_University> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <Nintendo-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Walmart> <http://schema.org/potentialInvestment> <http://example.org/TikTok> <Nintendo-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Donald_Trump> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-Al-Jazeera-8> .
+ <http://example.org/TikTok> <http://dbpedia.org/ontology/owner> <http://dbpedia.org/resource/ByteDance> <Nintendo-Al-Jazeera-8> .
+ <http://example.org/Jennifer_Grygiel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-Al-Jazeera-8> .
+ <http://example.org/Facebook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/BigTech> <Nintendo-Al-Jazeera-8> .
+ <http://example.org/Jennifer_Grygiel> <http://dbpedia.org/ontology/affiliation> <http://dbpedia.org/resource/Syracuse_University> <Nintendo-Al-Jazeera-8> .
+ <http://example.org/Amazon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/BigTech> <Nintendo-Al-Jazeera-8> .
+ <http://example.org/Google> <http://dbpedia.org/ontology/lawsuit> <http://dbpedia.org/resource/Department_of_Justice> <Nintendo-Al-Jazeera-8> .
+ <http://example.org/TikTok> <http://schema.org/description> "TikTok, a popular video-sharing app, faced ban attempts in the US but remains operational."  <Nintendo-Al-Jazeera-8> .
+ <http://example.org/NintendoSwitch> <http://schema.org/description> "Nintendo Switch sold 6.92 million units in the US during the first 11 months of 2020 and has been the best-selling console for 24 consecutive months."  <Nintendo-Al-Jazeera-8> .
+ <http://example.org/Emsisoft> <http://schema.org/description> "Cybersecurity firm Emsisoft estimates the cost of US ransomware attacks in the US alone this year at more than $9bn."  <Nintendo-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Disney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Investor> <Nintendo-Al-Jazeera-8> .
+ <http://example.org/RansomwarePurveyors> <http://schema.org/description> "Ransomware attacks reached epic dimensions in 2020, with significant impacts on healthcare, government, and education sectors."  <Nintendo-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Joe_Biden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-Al-Jazeera-8> .
+ <http://example.org/TechCompanies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Nintendo-Al-Jazeera-8> .
+ <http://example.org/Gartner> <http://schema.org/description> "Research firm Gartner reported the industry's biggest quarterly sales increase in a decade for computer shipments in the US during the July-September period."  <Nintendo-Al-Jazeera-8> .
+ <http://example.org/AnimalCrossingNewHorizons> <http://schema.org/description> "Animal Crossing: New Horizons debuted March 20 and has now sold a cumulative 26 million units globally."  <Nintendo-Al-Jazeera-8> .
+ <http://example.org/BigTech> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Nintendo-Al-Jazeera-8> .
+ <http://example.org/Jennifer_Grygiel> <http://xmlns.com/foaf/0.1/expertise> "Social Media"  <Nintendo-Al-Jazeera-8> .
+ <http://example.org/AdobeAnalytics> <http://schema.org/description> "Adobe Analytics reported online sales at smaller US retailers were up 349 percent on Thanksgiving and Black Friday."  <Nintendo-Al-Jazeera-8> .
+ <http://example.org/Uber> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Loser> <Nintendo-Al-Jazeera-8> .
+ <http://example.org/Apple> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/BigTech> <Nintendo-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/ByteDance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-Al-Jazeera-8> .
+ <http://example.org/Quibi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Loser> <Nintendo-Al-Jazeera-8> .
+ <http://example.org/Zoom> <http://schema.org/description> "Zoom Video Communications became widely adopted for remote meetings and classes during the pandemic."  <Nintendo-Al-Jazeera-8> .
+ <http://example.org/ECommerce> <http://schema.org/description> "E-commerce thrived during the coronavirus outbreak with companies like Amazon bringing in record revenue and profits."  <Nintendo-Al-Jazeera-8> .
+ <http://example.org/Shopify> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-Al-Jazeera-8> .
+ <http://example.org/ECommerce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Winner> <Nintendo-Al-Jazeera-8> .
+ <http://example.org/SocialMediaElectionLabels> <http://schema.org/description> "Labels on social media were deemed pretty ineffective by experts despite efforts to clamp down on election misinformation."  <Nintendo-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/NBCUniversal> <http://xmlns.com/foaf/0.1/investedIn> <http://example.org/Quibi> <Nintendo-Al-Jazeera-8> .
+ <http://example.org/Uber> <http://dbpedia.org/ontology/layoffs> "3700"^^<http://www.w3.org/2001/XMLSchema#int>  <Nintendo-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Carlos_Serrano> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Michael_Hamilton> <http://xmlns.com/foaf/0.1/name> "Michael Hamilton"  <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Viktor_Lundberg> <http://xmlns.com/foaf/0.1/name> "Viktor Lundberg"  <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Xbox_360> <http://dbpedia.org/ontology/type> <http://dbpedia.org/resource/Video_game_console> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Bill_Gates> <http://dbpedia.org/ontology/related> <http://dbpedia.org/resource/Xbox_Live> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Windows_XP_Media_Centre_Edition> <http://schema.org/description> "Entertainment-centric operating system."  <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Bill_Gates> <http://dbpedia.org/ontology/related> <http://dbpedia.org/resource/Windows_XP_Media_Centre_Edition> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Bill_Gates> <http://dbpedia.org/ontology/related> <http://dbpedia.org/resource/Xbox_360> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/PlayStation_3> <http://dbpedia.org/ontology/manufacturer> <http://dbpedia.org/resource/Sony_Corporation> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Best_Buy> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Retail> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Xbox_360> <http://dbpedia.org/ontology/manufacturer> <http://dbpedia.org/resource/Microsoft> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Bill_Gates> <http://dbpedia.org/ontology/associatedCompany> <http://dbpedia.org/resource/Microsoft> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Sony_Corporation> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/PlayStation_3> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Microsoft> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Xbox_360> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/PlayStation_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Rob_Enderle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Windows_Live> <http://schema.org/description> "Microsoft's online initiative to compete with web services from Google and Yahoo."  <Nintendo-Al-Jazeera-9> .
+ <http://Nintendo-Al-Jazeera-9.com/blank#n65b3b71e401142abbb4102b3635fc025b1> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Manhattan> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Xbox_360> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Microsoft> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Software> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Best_Buy> <http://xmlns.com/foaf/0.1/name> "Best Buy"  <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Viktor_Lundberg> <http://xmlns.com/foaf/0.1/age> "28"^^<http://www.w3.org/2001/XMLSchema#integer>  <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Bill_Gates> <http://dbpedia.org/ontology/related> <http://dbpedia.org/resource/Windows_Live> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Matt_Rosoff> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/Directions_on_Microsoft> <Nintendo-Al-Jazeera-9> .
+ <http://Nintendo-Al-Jazeera-9.com/blank#n65b3b71e401142abbb4102b3635fc025b1> <http://dbpedia.org/ontology/participant> <http://dbpedia.org/resource/Viktor_Lundberg> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Michael_Hamilton> <http://xmlns.com/foaf/0.1/age> "25"^^<http://www.w3.org/2001/XMLSchema#integer>  <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Google_Incorporated> <http://xmlns.com/foaf/0.1/name> "Google Incorporated"  <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/PlayStation_3> <http://schema.org/description> "A major console rival to Xbox 360 with digital entertainment capabilities."  <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Matt_Rosoff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Nintendo-Al-Jazeera-9> .
+ <http://Nintendo-Al-Jazeera-9.com/blank#n65b3b71e401142abbb4102b3635fc025b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Bill_Gates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Windows_XP_Media_Centre_Edition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Viktor_Lundberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Yahoo_Incorporated> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Xbox_360> <http://dbpedia.org/ontology/related> <http://dbpedia.org/resource/Windows_XP_Media_Centre_Edition> <Nintendo-Al-Jazeera-9> .
+ <http://Nintendo-Al-Jazeera-9.com/blank#n65b3b71e401142abbb4102b3635fc025b1> <http://dbpedia.org/ontology/time> "2005-11-21T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Xbox_Live> <http://schema.org/description> "A service that allows gamers worldwide to play one another."  <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Windows_Live> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Microsoft_Points> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Service> <Nintendo-Al-Jazeera-9> .
+ <http://Nintendo-Al-Jazeera-9.com/blank#n65b3b71e401142abbb4102b3635fc025b1> <http://dbpedia.org/ontology/participant> <http://dbpedia.org/resource/Carlos_Serrano> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Yahoo_Incorporated> <http://xmlns.com/foaf/0.1/name> "Yahoo Incorporated"  <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Microsoft_Points> <http://schema.org/description> "A service that lets people pre-pay for virtual items in games."  <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Carlos_Serrano> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Viktor_Lundberg> <http://dbpedia.org/ontology/residence> <http://dbpedia.org/resource/Manhattan> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Xbox_Live> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/OnlineService> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Michael_Hamilton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Bill_Gates> <http://xmlns.com/foaf/0.1/interest> "light gamer"  <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Matt_Rosoff> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Analyst> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Sony_Corporation> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Electronics> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Xbox_360> <http://dbpedia.org/ontology/related> <http://dbpedia.org/resource/Windows_Live> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Microsoft> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Michael_Hamilton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Xbox_360> <http://dbpedia.org/ontology/productLine> <http://dbpedia.org/resource/Xbox> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Carlos_Serrano> <http://dbpedia.org/ontology/occupation> "Customer Experience Manager"  <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Bill_Gates> <http://schema.org/memberOf> <http://dbpedia.org/resource/Microsoft> <Nintendo-Al-Jazeera-9> .
+ <http://Nintendo-Al-Jazeera-9.com/blank#n65b3b71e401142abbb4102b3635fc025b1> <http://schema.org/description> "Sale of Xbox 360 consoles at midnight in midtown Manhattan."  <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Yahoo_Incorporated> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Internet> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Carlos_Serrano> <http://xmlns.com/foaf/0.1/name> "Carlos Serrano"  <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Rob_Enderle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Xbox_Live> <http://dbpedia.org/ontology/related> <http://dbpedia.org/resource/Windows_Live> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Microsoft_Points> <http://dbpedia.org/ontology/related> <http://dbpedia.org/resource/Windows_Live> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Sony_Corporation> <http://xmlns.com/foaf/0.1/name> "Sony Corporation"  <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Google_Incorporated> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Internet> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Sony_Corporation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Windows_Live> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/Microsoft> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Microsoft> <http://xmlns.com/foaf/0.1/name> "Microsoft Corporation"  <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Xbox_Live> <http://dbpedia.org/ontology/provider> <http://dbpedia.org/resource/Microsoft> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Xbox_360> <http://schema.org/description> "A medium for playing video games like Halo 2 and Project Gotham Racing 3."  <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Windows_XP_Media_Centre_Edition> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/Microsoft> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Bill_Gates> <http://dbpedia.org/ontology/title> "Chairman"  <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Rob_Enderle> <http://xmlns.com/foaf/0.1/name> "Rob Enderle"  <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Bill_Gates> <http://xmlns.com/foaf/0.1/name> "Bill Gates"  <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Matt_Rosoff> <http://xmlns.com/foaf/0.1/name> "Matt Rosoff"  <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Matt_Rosoff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Bill_Gates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Best_Buy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Bill_Gates> <http://xmlns.com/foaf/0.1/depiction> <http://dbpedia.org/resource/File:Bill_Gates_2014.jpg> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Viktor_Lundberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Rob_Enderle> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Analyst> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Bill_Gates> <http://schema.org/jobTitle> "Company Chairman"  <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Google_Incorporated> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-Al-Jazeera-9> .
+ <http://Nintendo-Al-Jazeera-9.com/blank#n65b3b71e401142abbb4102b3635fc025b1> <http://dbpedia.org/ontology/participant> <http://dbpedia.org/resource/Michael_Hamilton> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Michael_Hamilton> <http://dbpedia.org/ontology/residence> <http://dbpedia.org/resource/Brooklyn> <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Xbox_360> <http://dbpedia.org/ontology/releaseDate> "2005-11-22"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Bill_Gates> <http://dbpedia.org/ontology/related> <http://dbpedia.org/resource/Microsoft_Points> <Nintendo-Al-Jazeera-9> .

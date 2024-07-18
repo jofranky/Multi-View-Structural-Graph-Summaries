@@ -1,0 +1,810 @@
+ <http://example.org/Canada> <http://example.org/governmentDeviceBan> <http://example.org/TikTok> <TikTok-Al-Jazeera-0> .
+ <http://example.org/ChristopherWray> <http://xmlns.com/foaf/0.1/name> "Christopher Wray"  <TikTok-Al-Jazeera-0> .
+ <http://example.org/TikTok> <http://purl.org/dc/terms/description> "A social media app dedicated to short-form videos"  <TikTok-Al-Jazeera-0> .
+ <http://example.org/Pakistan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Country> <TikTok-Al-Jazeera-0> .
+ <http://example.org/DonaldTrumpAdministration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <TikTok-Al-Jazeera-0> .
+ <http://example.org/ByteDance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <TikTok-Al-Jazeera-0> .
+ <http://example.org/FBI> <http://xmlns.com/foaf/0.1/name> "Federal Bureau of Investigation"  <TikTok-Al-Jazeera-0> .
+ <http://example.org/Belgium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Country> <TikTok-Al-Jazeera-0> .
+ <http://example.org/DonaldTrumpAdministration> <http://example.org/attemptedBan> <http://example.org/TikTok> <TikTok-Al-Jazeera-0> .
+ <http://example.org/BipartisanBill> <http://example.org/supportedBy> <http://example.org/JoeBidenAdministration> <TikTok-Al-Jazeera-0> .
+ <http://example.org/Jordan> <http://example.org/banDate> "2022-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <TikTok-Al-Jazeera-0> .
+ <http://example.org/ByteDance> <http://example.org/founderOwnership> "20%"^^<http://www.w3.org/2001/XMLSchema#string>  <TikTok-Al-Jazeera-0> .
+ <http://example.org/ShouZiChew> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-0> .
+ <http://example.org/Facebook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Project> <TikTok-Al-Jazeera-0> .
+ <http://example.org/US> <http://example.org/scrutinyLevel> "Increased"  <TikTok-Al-Jazeera-0> .
+ <http://example.org/ShouZiChew> <http://xmlns.com/foaf/0.1/member> <http://example.org/ByteDance> <TikTok-Al-Jazeera-0> .
+ <http://example.org/US> <http://example.org/concern> "National security"  <TikTok-Al-Jazeera-0> .
+ <http://example.org/China> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Country> <TikTok-Al-Jazeera-0> .
+ <http://example.org/ChristopherWray> <http://example.org/testimonyDate> "2023-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <TikTok-Al-Jazeera-0> .
+ <http://example.org/ShouZiChew> <http://example.org/statement> "TikTok has never, and would never, share US user data with the Chinese government."  <TikTok-Al-Jazeera-0> .
+ <http://example.org/BipartisanBill> <http://example.org/purpose> "To give Washington the power to ban TikTok in the US."  <TikTok-Al-Jazeera-0> .
+ <http://example.org/Instagram> <http://example.org/activeUserCount> "1200000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-Al-Jazeera-0> .
+ <http://example.org/US> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Country> <TikTok-Al-Jazeera-0> .
+ <http://example.org/EuropeanParliament> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <TikTok-Al-Jazeera-0> .
+ <http://example.org/Denmark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Country> <TikTok-Al-Jazeera-0> .
+ <http://example.org/ChristopherWray> <http://xmlns.com/foaf/0.1/title> "FBI Director"  <TikTok-Al-Jazeera-0> .
+ <http://example.org/Jordan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Country> <TikTok-Al-Jazeera-0> .
+ <http://example.org/Canada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Country> <TikTok-Al-Jazeera-0> .
+ <http://example.org/Wisconsin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/State> <TikTok-Al-Jazeera-0> .
+ <http://example.org/WangWenbin> <http://example.org/statement> "The US has yet to present evidence that TikTok threatens its national security."  <TikTok-Al-Jazeera-0> .
+ <http://example.org/Pakistan> <http://example.org/governmentDeviceBan> <http://example.org/TikTok> <TikTok-Al-Jazeera-0> .
+ <http://example.org/ShouZiChew> <http://example.org/testimonyDate> "2023-03-23"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-Al-Jazeera-0> .
+ <http://example.org/TikTok> <http://example.org/activeCountries> "150"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-Al-Jazeera-0> .
+ <http://example.org/China> <http://example.org/accusationAgainstUS> "Spreading disinformation and suppressing TikTok"  <TikTok-Al-Jazeera-0> .
+ <http://example.org/EuropeanUnion> <http://example.org/governmentDeviceBan> <http://example.org/TikTok> <TikTok-Al-Jazeera-0> .
+ <http://example.org/Denmark> <http://example.org/governmentDeviceBan> <http://example.org/TikTok> <TikTok-Al-Jazeera-0> .
+ <http://example.org/EuropeanParliament> <http://example.org/governmentDeviceBan> <http://example.org/TikTok> <TikTok-Al-Jazeera-0> .
+ <http://example.org/Jordan> <http://example.org/banReason> "Failure to remove posts inciting violence and chaos"  <TikTok-Al-Jazeera-0> .
+ <http://example.org/Jordan> <http://example.org/governmentDeviceBan> <http://example.org/TikTok> <TikTok-Al-Jazeera-0> .
+ <http://example.org/US> <http://example.org/FBIStatement> "TikTok poses national security risks."  <TikTok-Al-Jazeera-0> .
+ <http://example.org/Netherlands> <http://example.org/interiorMinistryStatement> "Discouraged the use of all apps from countries with an aggressive cyber-programme targeted at the Netherlands or Dutch interests."  <TikTok-Al-Jazeera-0> .
+ <http://example.org/JustinTrudeau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-0> .
+ <http://example.org/US> <http://example.org/banSupport> <http://example.org/BipartisanBill> <TikTok-Al-Jazeera-0> .
+ <http://example.org/ByteDance> <http://xmlns.com/foaf/0.1/name> "ByteDance"  <TikTok-Al-Jazeera-0> .
+ <http://example.org/NorthCarolina> <http://example.org/governmentDeviceBan> <http://example.org/TikTok> <TikTok-Al-Jazeera-0> .
+ <http://example.org/Instagram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Project> <TikTok-Al-Jazeera-0> .
+ <http://example.org/ByteDance> <http://example.org/institutionalInvestorOwnership> "60%"^^<http://www.w3.org/2001/XMLSchema#string>  <TikTok-Al-Jazeera-0> .
+ <http://example.org/ChristopherWray> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-0> .
+ <http://example.org/JustinTrudeau> <http://xmlns.com/foaf/0.1/name> "Justin Trudeau"  <TikTok-Al-Jazeera-0> .
+ <http://example.org/ChristopherWray> <http://example.org/testimony> "The Chinese government could use TikTok to control software on millions of devices and drive narratives to divide Americans over Taiwan or other issues."  <TikTok-Al-Jazeera-0> .
+ <http://example.org/TikTok> <http://xmlns.com/foaf/0.1/homepage> <https://www.tiktok.com/> <TikTok-Al-Jazeera-0> .
+ <http://example.org/Pakistan> <http://example.org/banLifted> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <TikTok-Al-Jazeera-0> .
+ <http://example.org/Canada> <http://example.org/primeMinister> <http://example.org/JustinTrudeau> <TikTok-Al-Jazeera-0> .
+ <http://example.org/India> <http://example.org/banReason2020> "Tensions with China"  <TikTok-Al-Jazeera-0> .
+ <http://example.org/ShouZiChew> <http://xmlns.com/foaf/0.1/name> "Shou Zi Chew"  <TikTok-Al-Jazeera-0> .
+ <http://example.org/WangWenbin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-0> .
+ <http://example.org/FBI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <TikTok-Al-Jazeera-0> .
+ <http://example.org/NorthCarolina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/State> <TikTok-Al-Jazeera-0> .
+ <http://example.org/JoeBidenAdministration> <http://example.org/backed> <http://example.org/BipartisanBill> <TikTok-Al-Jazeera-0> .
+ <http://example.org/JustinTrudeau> <http://xmlns.com/foaf/0.1/title> "Prime Minister of Canada"  <TikTok-Al-Jazeera-0> .
+ <http://example.org/India> <http://example.org/banLifted2019> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <TikTok-Al-Jazeera-0> .
+ <http://example.org/ByteDance> <http://example.org/owns> <http://example.org/TikTok> <TikTok-Al-Jazeera-0> .
+ <http://example.org/ByteDance> <http://example.org/employeeOwnership> "20%"^^<http://www.w3.org/2001/XMLSchema#string>  <TikTok-Al-Jazeera-0> .
+ <http://example.org/JoeBidenAdministration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <TikTok-Al-Jazeera-0> .
+ <http://example.org/India> <http://example.org/banReason2019> "Morality issues"  <TikTok-Al-Jazeera-0> .
+ <http://example.org/WangWenbin> <http://xmlns.com/foaf/0.1/title> "Foreign Ministry Spokesperson"  <TikTok-Al-Jazeera-0> .
+ <http://example.org/Netherlands> <http://example.org/governmentDeviceBan> <http://example.org/TikTok> <TikTok-Al-Jazeera-0> .
+ <http://example.org/JustinTrudeau> <http://example.org/statement> "Reflect on the security of their own data and perhaps make choices."  <TikTok-Al-Jazeera-0> .
+ <http://example.org/BipartisanBill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Legislation> <TikTok-Al-Jazeera-0> .
+ <http://example.org/Belgium> <http://example.org/governmentDeviceBan> <http://example.org/TikTok> <TikTok-Al-Jazeera-0> .
+ <http://example.org/India> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Country> <TikTok-Al-Jazeera-0> .
+ <http://example.org/Taiwan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Country> <TikTok-Al-Jazeera-0> .
+ <http://example.org/Wisconsin> <http://example.org/governmentDeviceBan> <http://example.org/TikTok> <TikTok-Al-Jazeera-0> .
+ <http://example.org/TikTok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Project> <TikTok-Al-Jazeera-0> .
+ <http://example.org/EuropeanUnion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <TikTok-Al-Jazeera-0> .
+ <http://example.org/TikTok> <http://example.org/activeUserCount> "1000000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-Al-Jazeera-0> .
+ <http://example.org/Facebook> <http://example.org/activeUserCount> "3000000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-Al-Jazeera-0> .
+ <http://example.org/ChristopherWray> <http://example.org/statementDate> "2022-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <TikTok-Al-Jazeera-0> .
+ <http://example.org/India> <http://example.org/governmentDeviceBan> <http://example.org/TikTok> <TikTok-Al-Jazeera-0> .
+ <http://example.org/Taiwan> <http://example.org/governmentDeviceBan> <http://example.org/TikTok> <TikTok-Al-Jazeera-0> .
+ <http://example.org/US> <http://example.org/governmentDeviceBan> <http://example.org/TikTok> <TikTok-Al-Jazeera-0> .
+ <http://example.org/ShouZiChew> <http://xmlns.com/foaf/0.1/title> "Chief Executive"  <TikTok-Al-Jazeera-0> .
+ <http://example.org/FBI> <http://example.org/director> <http://example.org/ChristopherWray> <TikTok-Al-Jazeera-0> .
+ <http://example.org/TikTok> <http://example.org/usUserCount> "150000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-Al-Jazeera-0> .
+ <http://example.org/WangWenbin> <http://xmlns.com/foaf/0.1/name> "Wang Wenbin"  <TikTok-Al-Jazeera-0> .
+ <http://example.org/Pakistan> <http://example.org/banReason> "Morality issues"  <TikTok-Al-Jazeera-0> .
+ <http://example.org/China> <http://example.org/foreignMinistrySpokesperson> <http://example.org/WangWenbin> <TikTok-Al-Jazeera-0> .
+ <http://example.org/Netherlands> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Country> <TikTok-Al-Jazeera-0> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b3> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Xinjiang> <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b6> <http://schema.org/agent> <http://dbpedia.org/resource/TikTok> <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ActionStatusType> <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> <TikTok-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/TikTok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ConcentrationCamp> <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b7> <http://schema.org/about> <http://dbpedia.org/resource/Uighurs> <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b11> <http://schema.org/object> <http://dbpedia.org/resource/Feroza_Aziz> <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b2> <http://schema.org/interactionStatistic> <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b4>  <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b13> <http://schema.org/agent> <http://dbpedia.org/resource/TikTok> <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ActionStatusType> <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b8> <http://schema.org/description> "The video was restored about 50 minutes later after a senior member of TikTok's moderation team identified the error and reinstated it immediately."@en  <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b2> <http://schema.org/isPartOf> <http://dbpedia.org/resource/TikTok> <TikTok-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Feroza_Aziz> <http://schema.org/description> "Just a Muslim"@en  <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b1> <http://schema.org/actionStatus> <http://schema.org/CompletedActionStatus> <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ActionStatusType> <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b4> <http://schema.org/interactionType> <http://schema.org/WatchAction> <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WatchAction> <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b9> <http://schema.org/result> <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b10>  <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b6> <http://schema.org/object> <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b7>  <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b14> <http://schema.org/isPartOf> <http://dbpedia.org/resource/TikTok> <TikTok-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/China> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b6> <http://schema.org/result> <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b8>  <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b5> <http://dbpedia.org/ontology/operator> <http://dbpedia.org/resource/China> <TikTok-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Feroza_Aziz> <http://dbpedia.org/ontology/activity> <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b1>  <TikTok-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Xinjiang> <http://dbpedia.org/ontology/knownFor> <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b5>  <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b9> <http://schema.org/object> <http://dbpedia.org/resource/Feroza_Aziz> <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b13> <http://schema.org/object> <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b14>  <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/InteractionCounter> <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b1> <http://schema.org/object> <http://dbpedia.org/resource/Xinjiang> <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b11> <http://schema.org/agent> <http://dbpedia.org/resource/TikTok> <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b9> <http://schema.org/agent> <http://dbpedia.org/resource/TikTok> <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlockAction> <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b10> <http://schema.org/description> "Feroza Aziz had been blocked from posting on the app for a month after uploading the clip."@en  <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b11> <http://schema.org/result> <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b12>  <TikTok-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/TikTok> <http://dbpedia.org/ontology/owner> <http://dbpedia.org/resource/ByteDance> <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b2> <http://schema.org/about> <http://dbpedia.org/resource/Uighurs> <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b7> <http://schema.org/isPartOf> <http://dbpedia.org/resource/TikTok> <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b6> <http://schema.org/error> "human moderation error"@en  <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/DeleteAction> <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b13> <http://schema.org/result> <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b15>  <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> <TikTok-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Feroza_Aziz> <http://xmlns.com/foaf/0.1/age> "17"^^<http://www.w3.org/2001/XMLSchema#int>  <TikTok-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/China> <http://dbpedia.org/ontology/description> "China describes the camps as vocational schools aimed at dampening the allure of religious hardline ideology and violence through education and job training."@en  <TikTok-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Xinjiang> <http://dbpedia.org/ontology/population> "more than one million Uighurs and other mostly Muslim minorities"^^<http://www.w3.org/2001/XMLSchema#string>  <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ActionStatusType> <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b4> <http://schema.org/userInteractionCount> "1.6 million"^^<http://www.w3.org/2001/XMLSchema#int>  <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b2> <http://schema.org/mentions> <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b3>  <TikTok-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Feroza_Aziz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b1> <http://schema.org/resultingMedia> <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b2>  <TikTok-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Xinjiang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b12> <http://schema.org/description> "TikTok decided to override the device ban in this case."@en  <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b14> <http://schema.org/about> <http://dbpedia.org/resource/Osama_bin_Laden> <TikTok-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/TikTok> <http://dbpedia.org/ontology/apology> "TikTok has apologized to the US teen who posted the clip."@en  <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UnblockAction> <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b3> <http://dbpedia.org/ontology/population> "more than one million"^^<http://www.w3.org/2001/XMLSchema#int>  <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b15> <http://schema.org/description> "TikTok said it breached rules on posted imagery related to 'terrorist' organisations, even if 'intended as satire'."@en  <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UpdateAction> <TikTok-Al-Jazeera-1> .
+ <http://TikTok-Al-Jazeera-1.com/blank#n99c577b3590146b5bf265448c3b2d9f9b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EthnicGroup> <TikTok-Al-Jazeera-1> .
+ <http://example.org/BuddyCarter> <http://dbpedia.org/ontology/position> <http://example.org/Representative> <TikTok-Al-Jazeera-2> .
+ <http://example.org/TikTok> <http://dbpedia.org/ontology/subsidiaryOf> <http://example.org/ByteDance> <TikTok-Al-Jazeera-2> .
+ <http://example.org/ByteDance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <TikTok-Al-Jazeera-2> .
+ <http://example.org/TikTokHearing> <http://dbpedia.org/ontology/organizer> <http://example.org/HouseCommitteeOnEnergyAndCommerce> <TikTok-Al-Jazeera-2> .
+ <http://example.org/KatCammack> <http://xmlns.com/foaf/0.1/name> "Kat Cammack"  <TikTok-Al-Jazeera-2> .
+ <http://example.org/TikTok> <http://dbpedia.org/ontology/product> <http://example.org/TikTokApp> <TikTok-Al-Jazeera-2> .
+ <http://example.org/TikTokApp> <http://dbpedia.org/ontology/developer> <http://example.org/ByteDance> <TikTok-Al-Jazeera-2> .
+ <http://example.org/ShouZiChew> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-2> .
+ <http://example.org/ProjectTexas> <http://schema.org/location> <http://dbpedia.org/resource/Texas> <TikTok-Al-Jazeera-2> .
+ <http://example.org/Oracle> <http://dbpedia.org/ontology/locationCountry> <http://dbpedia.org/resource/United_States> <TikTok-Al-Jazeera-2> .
+ <http://example.org/RepresentativeOfTexas11thDistrict> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <TikTok-Al-Jazeera-2> .
+ <http://example.org/TikTok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <TikTok-Al-Jazeera-2> .
+ <http://example.org/TikTokHearing> <http://dbpedia.org/ontology/subject> <http://example.org/TikTok> <TikTok-Al-Jazeera-2> .
+ <http://example.org/BuddyCarter> <http://xmlns.com/foaf/0.1/name> "Buddy Carter"  <TikTok-Al-Jazeera-2> .
+ <http://example.org/CathyMcMorrisRodgers> <http://dbpedia.org/ontology/position> <http://example.org/RepublicanCommitteeChair> <TikTok-Al-Jazeera-2> .
+ <http://example.org/Representative> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <TikTok-Al-Jazeera-2> .
+ <http://example.org/AugustPfluger> <http://xmlns.com/foaf/0.1/name> "August Pfluger"  <TikTok-Al-Jazeera-2> .
+ <http://example.org/RankingDemocrat> <http://dbpedia.org/ontology/title> "Ranking Democrat"  <TikTok-Al-Jazeera-2> .
+ <http://example.org/TikTok> <http://dbpedia.org/ontology/locationCountry> <http://dbpedia.org/resource/China> <TikTok-Al-Jazeera-2> .
+ <http://example.org/ByteDance> <http://dbpedia.org/ontology/politicalAlignment> "Communist"  <TikTok-Al-Jazeera-2> .
+ <http://example.org/Oracle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <TikTok-Al-Jazeera-2> .
+ <http://example.org/ShouZiChew> <http://dbpedia.org/ontology/employer> <http://example.org/TikTok> <TikTok-Al-Jazeera-2> .
+ <http://example.org/TikTokHearing> <http://dbpedia.org/ontology/participant> <http://example.org/ShouZiChew> <TikTok-Al-Jazeera-2> .
+ <http://example.org/TikTokApp> <http://schema.org/applicationCategory> "Social Media"  <TikTok-Al-Jazeera-2> .
+ <http://example.org/BuddyCarter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-2> .
+ <http://example.org/TikTokHearing> <http://dbpedia.org/ontology/date> "2023-03-23"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-Al-Jazeera-2> .
+ <http://example.org/CathyMcMorrisRodgers> <http://xmlns.com/foaf/0.1/name> "Cathy McMorris Rodgers"  <TikTok-Al-Jazeera-2> .
+ <http://example.org/FrankPallone> <http://xmlns.com/foaf/0.1/name> "Frank Pallone"  <TikTok-Al-Jazeera-2> .
+ <http://example.org/CathyMcMorrisRodgers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-2> .
+ <http://example.org/CEOOfTikTok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <TikTok-Al-Jazeera-2> .
+ <http://example.org/CEOOfTikTok> <http://dbpedia.org/ontology/title> "CEO of TikTok"  <TikTok-Al-Jazeera-2> .
+ <http://example.org/AugustPfluger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-2> .
+ <http://example.org/HouseCommitteeOnEnergyAndCommerce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <TikTok-Al-Jazeera-2> .
+ <http://example.org/ByteDance> <http://xmlns.com/foaf/0.1/name> "ByteDance"  <TikTok-Al-Jazeera-2> .
+ <http://example.org/KatCammack> <http://dbpedia.org/ontology/politicalParty> <http://dbpedia.org/resource/Republican_Party_(United_States)> <TikTok-Al-Jazeera-2> .
+ <http://example.org/ShouZiChew> <http://xmlns.com/foaf/0.1/name> "Shou Zi Chew"  <TikTok-Al-Jazeera-2> .
+ <http://example.org/TikTokHearing> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/United_States_Congress> <TikTok-Al-Jazeera-2> .
+ <http://example.org/ByteDance> <http://dbpedia.org/ontology/locationCountry> <http://dbpedia.org/resource/China> <TikTok-Al-Jazeera-2> .
+ <http://example.org/HouseCommitteeOnEnergyAndCommerce> <http://dbpedia.org/ontology/locationCountry> <http://dbpedia.org/resource/United_States> <TikTok-Al-Jazeera-2> .
+ <http://example.org/KatCammack> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-2> .
+ <http://example.org/TikTok> <http://schema.org/hasPart> <http://example.org/ProjectTexas> <TikTok-Al-Jazeera-2> .
+ <http://example.org/RepresentativeOfTexas11thDistrict> <http://dbpedia.org/ontology/title> "Representative of Texas's 11th congressional district"  <TikTok-Al-Jazeera-2> .
+ <http://example.org/TikTok> <http://dbpedia.org/ontology/numberOfEmployees> "40000"^^<http://www.w3.org/2001/XMLSchema#int>  <TikTok-Al-Jazeera-2> .
+ <http://example.org/BuddyCarter> <http://dbpedia.org/ontology/politicalParty> <http://dbpedia.org/resource/Republican_Party_(United_States)> <TikTok-Al-Jazeera-2> .
+ <http://example.org/TikTokHearing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <TikTok-Al-Jazeera-2> .
+ <http://example.org/Oracle> <http://xmlns.com/foaf/0.1/name> "Oracle"  <TikTok-Al-Jazeera-2> .
+ <http://example.org/TikTok> <http://schema.org/numberOfMonthlyUsers> "150000000"^^<http://www.w3.org/2001/XMLSchema#int>  <TikTok-Al-Jazeera-2> .
+ <http://example.org/Representative> <http://dbpedia.org/ontology/title> "Representative"  <TikTok-Al-Jazeera-2> .
+ <http://example.org/FrankPallone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-2> .
+ <http://example.org/RepublicanCommitteeChair> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <TikTok-Al-Jazeera-2> .
+ <http://example.org/ProjectTexas> <http://dbpedia.org/ontology/cost> "1500000000"^^<http://www.w3.org/2001/XMLSchema#USD>  <TikTok-Al-Jazeera-2> .
+ <http://example.org/AugustPfluger> <http://dbpedia.org/ontology/politicalParty> <http://dbpedia.org/resource/Republican_Party_(United_States)> <TikTok-Al-Jazeera-2> .
+ <http://example.org/TikTokApp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <TikTok-Al-Jazeera-2> .
+ <http://example.org/ProjectTexas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Project> <TikTok-Al-Jazeera-2> .
+ <http://example.org/FrankPallone> <http://dbpedia.org/ontology/position> <http://example.org/RankingDemocrat> <TikTok-Al-Jazeera-2> .
+ <http://example.org/RankingDemocrat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <TikTok-Al-Jazeera-2> .
+ <http://example.org/KatCammack> <http://dbpedia.org/ontology/position> <http://example.org/Representative> <TikTok-Al-Jazeera-2> .
+ <http://example.org/ShouZiChew> <http://dbpedia.org/ontology/position> <http://example.org/CEOOfTikTok> <TikTok-Al-Jazeera-2> .
+ <http://example.org/TikTok> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Social_media> <TikTok-Al-Jazeera-2> .
+ <http://example.org/RepublicanCommitteeChair> <http://dbpedia.org/ontology/title> "Republican Committee Chair"  <TikTok-Al-Jazeera-2> .
+ <http://example.org/AugustPfluger> <http://dbpedia.org/ontology/position> <http://example.org/RepresentativeOfTexas11thDistrict> <TikTok-Al-Jazeera-2> .
+ <http://example.org/ShouZiChew> <http://xmlns.com/foaf/0.1/title> "CEO"  <TikTok-Al-Jazeera-2> .
+ <http://example.org/TikTokHearing> <http://dbpedia.org/ontology/duration> "PT5H"^^<http://www.w3.org/2001/XMLSchema#duration>  <TikTok-Al-Jazeera-2> .
+ <http://example.org/ProjectTexas> <http://dbpedia.org/ontology/partner> <http://example.org/Oracle> <TikTok-Al-Jazeera-2> .
+ <http://example.org/HouseCommitteeOnEnergyAndCommerce> <http://xmlns.com/foaf/0.1/name> "House Committee on Energy and Commerce"  <TikTok-Al-Jazeera-2> .
+ <http://example.org/MarkWarner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-3> .
+ <http://example.org/JustinAmash> <http://dbpedia.org/ontology/position> "former Republican Representative"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/CommerceDepartmentPowers> <http://dbpedia.org/ontology/applicableCountries> <http://dbpedia.org/resource/Cuba> <TikTok-Al-Jazeera-3> .
+ <http://example.org/CongressHearing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <TikTok-Al-Jazeera-3> .
+ <http://example.org/ShouZiChew> <http://dbpedia.org/ontology/position> "chief executive officer"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/CommerceDepartmentPowers> <http://dbpedia.org/ontology/applicableCountries> <http://dbpedia.org/resource/North_Korea> <TikTok-Al-Jazeera-3> .
+ <http://example.org/KevinMcCarthy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-3> .
+ <http://example.org/RESTRICTActOpinion> <http://dbpedia.org/ontology/concern> "broad powers to the executive branch"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/JustinAmash> <http://dbpedia.org/ontology/opinion> <http://example.org/RESTRICTActOpinion> <TikTok-Al-Jazeera-3> .
+ <http://example.org/JoshHawley> <http://xmlns.com/foaf/0.1/name> "Josh Hawley"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/ShouZiChew> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-3> .
+ <http://example.org/AsherWolf> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Melbourne> <TikTok-Al-Jazeera-3> .
+ <http://example.org/CongressHearing> <http://dbpedia.org/ontology/concern> "national security concerns"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/TikTok> <http://dbpedia.org/ontology/spendingOnSecurity> "1500000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <TikTok-Al-Jazeera-3> .
+ <http://example.org/RandPaul> <http://xmlns.com/foaf/0.1/name> "Rand Paul"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/RandPaul> <http://dbpedia.org/ontology/concern> "free speech"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/TikTok> <http://dbpedia.org/ontology/position> <http://example.org/ShouZiChew> <TikTok-Al-Jazeera-3> .
+ <http://example.org/JustinAmash> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Republican_Party_(United_States)> <TikTok-Al-Jazeera-3> .
+ <http://example.org/AlexandriaOcasioCortez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-3> .
+ <http://example.org/AsherWolf> <http://dbpedia.org/ontology/statement> "It is a case of ‘rules for thee but not for me.’"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/JohnThune> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-3> .
+ <http://example.org/RandPaul> <http://dbpedia.org/ontology/concern> "uneven treatment of social media companies"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/RESTRICTAct> <http://dbpedia.org/ontology/proposer> <http://example.org/JohnThune> <TikTok-Al-Jazeera-3> .
+ <http://example.org/KevinMcCarthy> <http://dbpedia.org/ontology/position> "House Speaker"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/TikTokBan2020> <http://dbpedia.org/ontology/status> "blocked by US courts"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/JohnThune> <http://xmlns.com/foaf/0.1/name> "John Thune"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/KevinMcCarthy> <http://xmlns.com/foaf/0.1/name> "Kevin McCarthy"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/CommerceDepartmentPowers> <http://dbpedia.org/ontology/concern> "national security risks"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/UnanimousConsentForTikTokBanBill> <http://dbpedia.org/ontology/purpose> "to send a message to Communist China"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/DonaldTrump> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-3> .
+ <http://example.org/TikTokBanOpposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Opinion> <TikTok-Al-Jazeera-3> .
+ <http://example.org/TikTokBan2020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Legislation> <TikTok-Al-Jazeera-3> .
+ <http://example.org/CommerceDepartmentPowers> <http://dbpedia.org/ontology/scope> "to impose restrictions on foreign technologies"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/AsherWolf> <http://xmlns.com/foaf/0.1/name> "Asher Wolf"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/RESTRICTAct> <http://dbpedia.org/ontology/numberOfCosponsors> "22"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-Al-Jazeera-3> .
+ <http://example.org/TikTok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <TikTok-Al-Jazeera-3> .
+ <http://example.org/AsherWolf> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Australia> <TikTok-Al-Jazeera-3> .
+ <http://example.org/TikTok> <http://dbpedia.org/ontology/userDemographics> "mostly young people"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/TikTok> <http://dbpedia.org/ontology/numberOfUsers> "150000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-Al-Jazeera-3> .
+ <http://example.org/CommerceDepartmentPowers> <http://dbpedia.org/ontology/applicableCountries> <http://dbpedia.org/resource/China> <TikTok-Al-Jazeera-3> .
+ <http://example.org/CommerceDepartmentPowers> <http://dbpedia.org/ontology/scope> "up to and including banning TikTok"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/TikTokBanOpposition> <http://dbpedia.org/ontology/statement> "It just doesn’t feel right to me."  <TikTok-Al-Jazeera-3> .
+ <http://example.org/DonaldTrump> <http://dbpedia.org/ontology/position> "former President of the United States"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/JoshHawley> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Republican_Party_(United_States)> <TikTok-Al-Jazeera-3> .
+ <http://example.org/Section702> <http://dbpedia.org/ontology/renewalStatus> "pending"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/JoeBiden> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Democratic_Party_(United_States)> <TikTok-Al-Jazeera-3> .
+ <http://example.org/RESTRICTAct> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Legislation> <TikTok-Al-Jazeera-3> .
+ <http://example.org/MarkWarner> <http://xmlns.com/foaf/0.1/name> "Mark Warner"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/Section702> <http://dbpedia.org/ontology/allows> "warrantless spying on non-US citizens abroad"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/RESTRICTAct> <http://dbpedia.org/ontology/proposer> <http://example.org/MarkWarner> <TikTok-Al-Jazeera-3> .
+ <http://example.org/CommerceDepartmentPowers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Power> <TikTok-Al-Jazeera-3> .
+ <http://example.org/TikTokDivestmentOrBan> <http://dbpedia.org/ontology/target> <http://example.org/TikTok> <TikTok-Al-Jazeera-3> .
+ <http://example.org/JoeBiden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-3> .
+ <http://example.org/TikTokBanOpposition> <http://dbpedia.org/ontology/medium> "TikTok video"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/JoeBiden> <http://dbpedia.org/ontology/demand> <http://example.org/TikTokDivestmentOrBan> <TikTok-Al-Jazeera-3> .
+ <http://example.org/CommerceDepartmentPowers> <http://dbpedia.org/ontology/applicableCountries> <http://dbpedia.org/resource/Venezuela> <TikTok-Al-Jazeera-3> .
+ <http://example.org/Section702> <http://dbpedia.org/ontology/expirationDate> "2023-12-31"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-Al-Jazeera-3> .
+ <http://example.org/DonaldTrump> <http://dbpedia.org/ontology/attempt> <http://example.org/TikTokBan2020> <TikTok-Al-Jazeera-3> .
+ <http://example.org/TikTokDivestmentOrBan> <http://dbpedia.org/ontology/alternative> "divest stakes"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/RandPaul> <http://dbpedia.org/ontology/statement> "I think we should beware of those who use fear to coax Americans to relinquish our liberties."  <TikTok-Al-Jazeera-3> .
+ <http://example.org/TikTokBanOpposition> <http://dbpedia.org/ontology/concern> "free speech"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/TikTok> <http://dbpedia.org/ontology/countryOfOperation> <http://dbpedia.org/resource/United_States> <TikTok-Al-Jazeera-3> .
+ <http://example.org/ShouZiChew> <http://xmlns.com/foaf/0.1/name> "Shou Zi Chew"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/CommerceDepartmentPowers> <http://dbpedia.org/ontology/applicableCountries> <http://dbpedia.org/resource/Iran> <TikTok-Al-Jazeera-3> .
+ <http://example.org/AlexandriaOcasioCortez> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Democratic_Party_(United_States)> <TikTok-Al-Jazeera-3> .
+ <http://example.org/JustinAmash> <http://xmlns.com/foaf/0.1/name> "Justin Amash"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/RESTRICTActOpinion> <http://dbpedia.org/ontology/concern> "potential for abuse"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/RandPaul> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-3> .
+ <http://example.org/RandPaul> <http://dbpedia.org/ontology/position> "US Senator"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/DonaldTrump> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Republican_Party_(United_States)> <TikTok-Al-Jazeera-3> .
+ <http://example.org/RESTRICTAct> <http://dbpedia.org/ontology/grant> <http://example.org/CommerceDepartmentPowers> <TikTok-Al-Jazeera-3> .
+ <http://example.org/UnanimousConsentForTikTokBanBill> <http://dbpedia.org/ontology/allegation> "spying on people in the US"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/JoshHawley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-3> .
+ <http://example.org/JoshHawley> <http://dbpedia.org/ontology/position> "US Senator"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/JoeBiden> <http://dbpedia.org/ontology/position> "President of the United States"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/CommerceDepartmentPowers> <http://dbpedia.org/ontology/applicableCountries> <http://dbpedia.org/resource/Russia> <TikTok-Al-Jazeera-3> .
+ <http://example.org/DonaldTrump> <http://xmlns.com/foaf/0.1/name> "Donald Trump"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/CongressHearing> <http://dbpedia.org/ontology/participant> <http://example.org/ShouZiChew> <TikTok-Al-Jazeera-3> .
+ <http://example.org/TikTokBanOpposition> <http://dbpedia.org/ontology/concern> "lack of classified briefings"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/Section702> <http://dbpedia.org/ontology/partOf> <http://dbpedia.org/resource/Foreign_Intelligence_Surveillance_Act> <TikTok-Al-Jazeera-3> .
+ <http://example.org/RandPaul> <http://dbpedia.org/ontology/blocked> <http://example.org/TikTokBanBid> <TikTok-Al-Jazeera-3> .
+ <http://example.org/MarkWarner> <http://dbpedia.org/ontology/position> "US Senator"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/RESTRICTActOpinion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Opinion> <TikTok-Al-Jazeera-3> .
+ <http://example.org/JoeBiden> <http://xmlns.com/foaf/0.1/name> "Joe Biden"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/TikTokBanBid> <http://dbpedia.org/ontology/legislativeProcess> "fast-track"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/JohnThune> <http://dbpedia.org/ontology/position> "US Senator"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/TikTok> <http://dbpedia.org/ontology/founder> <http://example.org/ChineseEntrepreneurs> <TikTok-Al-Jazeera-3> .
+ <http://example.org/ChineseEntrepreneurs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <TikTok-Al-Jazeera-3> .
+ <http://example.org/TikTokDivestmentOrBan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Action> <TikTok-Al-Jazeera-3> .
+ <http://example.org/TikTokDivestmentOrBan> <http://dbpedia.org/ontology/alternative> "face a US ban"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/TikTok> <http://dbpedia.org/ontology/monthlyActiveUsers> "150000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-Al-Jazeera-3> .
+ <http://example.org/KevinMcCarthy> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Republican_Party_(United_States)> <TikTok-Al-Jazeera-3> .
+ <http://example.org/JustinAmash> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-3> .
+ <http://example.org/ChineseEntrepreneurs> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/China> <TikTok-Al-Jazeera-3> .
+ <http://example.org/AsherWolf> <http://dbpedia.org/ontology/occupation> "privacy advocate"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/TikTok> <http://dbpedia.org/ontology/allegation> "spying allegations"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/UnanimousConsentForTikTokBanBill> <http://dbpedia.org/ontology/purpose> "to protect the American people"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/TikTokBanBid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Legislation> <TikTok-Al-Jazeera-3> .
+ <http://example.org/AsherWolf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-3> .
+ <http://example.org/RandPaul> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Republican_Party_(United_States)> <TikTok-Al-Jazeera-3> .
+ <http://example.org/MarkWarner> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Democratic_Party_(United_States)> <TikTok-Al-Jazeera-3> .
+ <http://example.org/AlexandriaOcasioCortez> <http://dbpedia.org/ontology/opinion> <http://example.org/TikTokBanOpposition> <TikTok-Al-Jazeera-3> .
+ <http://example.org/JohnThune> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Republican_Party_(United_States)> <TikTok-Al-Jazeera-3> .
+ <http://example.org/AsherWolf> <http://dbpedia.org/ontology/occupation> "tech researcher"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/TikTokBanBid> <http://dbpedia.org/ontology/target> <http://example.org/TikTok> <TikTok-Al-Jazeera-3> .
+ <http://example.org/AlexandriaOcasioCortez> <http://dbpedia.org/ontology/position> "Democratic Representative"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/Section702> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Legislation> <TikTok-Al-Jazeera-3> .
+ <http://example.org/AlexandriaOcasioCortez> <http://xmlns.com/foaf/0.1/name> "Alexandria Ocasio-Cortez"  <TikTok-Al-Jazeera-3> .
+ <http://example.org/UnanimousConsentForTikTokBanBill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Legislation> <TikTok-Al-Jazeera-3> .
+ <http://example.org/ShouZiChew> <http://dbpedia.org/ontology/appearance> <http://example.org/CongressHearing> <TikTok-Al-Jazeera-3> .
+ <http://example.org/JoshHawley> <http://dbpedia.org/ontology/sought> <http://example.org/UnanimousConsentForTikTokBanBill> <TikTok-Al-Jazeera-3> .
+ <http://example.org/ontology#TikTokDataCentreDublin> <http://dbpedia.org/ontology/purpose> "localise European user data"  <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#TikTokFine> <http://dbpedia.org/ontology/investigatedBy> <http://example.org/ontology#DPC> <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#DPC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#ElaineFox> <http://xmlns.com/foaf/0.1/name> "Elaine Fox"  <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#TikTokStatement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#TikTokFine> <http://schema.org/endDate> "2020-12-31"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#DPC> <http://dbpedia.org/ontology/headquarter> <http://dbpedia.org/resource/Dublin> <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#DPCInvestigation> <http://schema.org/startDate> "2021-09-01"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#ElaineFox> <http://schema.org/jobTitle> "head of privacy for Europe"  <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#TikTokStatement> <http://schema.org/author> <http://example.org/ontology#ElaineFox> <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#Instagram> <http://xmlns.com/foaf/0.1/name> "Instagram"  <TikTok-Al-Jazeera-4> .
+ <http://TikTok-Al-Jazeera-4.com/blank#n33c0042453be4cafbc2e432cf5e3b6efb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Result> <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#TikTokStatement> <http://schema.org/articleBody> "Most of the decision’s criticisms are no longer relevant as a result of measures we introduced at the start of 2021 — several months before the investigation began."  <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#TikTokDataCentreDublin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Building> <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#TikTok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#TikTokDataCentreDublin> <http://dbpedia.org/ontology/openingDate> "2023-04-01"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#DPCInvestigation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#TikTok> <http://dbpedia.org/ontology/foundedBy> <http://example.org/ontology#ByteDance> <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#TikTok> <http://dbpedia.org/ontology/product> <http://example.org/ontology#ShortVideoSharingApp> <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#Meta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <TikTok-Al-Jazeera-4> .
+ <http://TikTok-Al-Jazeera-4.com/blank#n33c0042453be4cafbc2e432cf5e3b6efb1> <http://schema.org/description> "Tougher parental controls to family pairing and changed the default setting for users under 16 to private."  <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#MetaFines> <http://dbpedia.org/ontology/investigatedBy> <http://example.org/ontology#DPC> <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#TikTokFine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#MetaFines> <http://dbpedia.org/ontology/subject> <http://example.org/ontology#Meta> <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#TikTokUpdate> <http://schema.org/datePublished> "2021-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#TikTokFine> <http://dbpedia.org/ontology/penalty> "345000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#DPC> <http://xmlns.com/foaf/0.1/name> "Ireland’s Data Protection Commissioner"  <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#ByteDance> <http://xmlns.com/foaf/0.1/name> "ByteDance"  <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#FamilyPairingFeature> <http://schema.org/name> "family pairing feature"  <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#ElaineFox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#WhatsApp> <http://xmlns.com/foaf/0.1/name> "WhatsApp"  <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#TikTokUpdate> <http://dbpedia.org/ontology/product> <http://example.org/ontology#ShortVideoSharingApp> <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#TikTokFine> <http://dbpedia.org/ontology/cause> "breaching laws on the processing of children’s personal data"  <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#TikTok> <http://xmlns.com/foaf/0.1/name> "TikTok"  <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#Meta> <http://xmlns.com/foaf/0.1/name> "Meta"  <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#ByteDance> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/China> <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#ShortVideoSharingApp> <http://schema.org/name> "short video-sharing app"  <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#Meta> <http://dbpedia.org/ontology/product> <http://example.org/ontology#Instagram> <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#DPC> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Dublin> <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#TikTok> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Social_media> <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#TikTokFine> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/Euro> <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#EURegulator> <http://xmlns.com/foaf/0.1/name> "European Union’s lead regulator"  <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#ElaineFox> <http://schema.org/affiliation> <http://example.org/ontology#TikTok> <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#TikTokUpdate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#MetaFines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#TikTokFine> <http://schema.org/startDate> "2020-07-31"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#TikTok> <http://dbpedia.org/ontology/owner> <http://example.org/ontology#ByteDance> <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#DPCInvestigation> <http://dbpedia.org/ontology/subject> <http://example.org/ontology#TikTok> <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#Meta> <http://dbpedia.org/ontology/product> <http://example.org/ontology#WhatsApp> <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#TikTokStatement> <http://schema.org/about> <http://example.org/ontology#DPCInvestigation> <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#TikTokDataCentreDublin> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Dublin> <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#Instagram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#WhatsApp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#ShortVideoSharingApp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#FamilyPairingFeature> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#TikTokStatement> <http://schema.org/datePublished> "2021-09-01"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#TikTokUpdate> <http://dbpedia.org/ontology/result> <http://TikTok-Al-Jazeera-4.com/blank#n33c0042453be4cafbc2e432cf5e3b6efb1>  <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#DPCInvestigation> <http://dbpedia.org/ontology/investigatedBy> <http://example.org/ontology#DPC> <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#ByteDance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <TikTok-Al-Jazeera-4> .
+ <http://example.org/ontology#EURegulator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <TikTok-Al-Jazeera-4> .
+ <http://example.org/Professor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <TikTok-Al-Jazeera-5> .
+ <http://example.org/Email1> <http://schema.org/recipient> <http://example.org/DHSContact> <TikTok-Al-Jazeera-5> .
+ <http://example.org/JeffBrown> <http://xmlns.com/foaf/0.1/name> "Jeff Brown"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/CISO> <http://schema.org/name> "Chief Information Security Officer"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/DHSContact> <http://xmlns.com/foaf/0.1/name> "Unnamed DHS Contact"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/KristiNoem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-5> .
+ <http://example.org/ChiefOfStaff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <TikTok-Al-Jazeera-5> .
+ <http://example.org/RGPPC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <TikTok-Al-Jazeera-5> .
+ <http://example.org/GretchenWhitmer> <http://dbpedia.org/ontology/employer> <http://example.org/Michigan> <TikTok-Al-Jazeera-5> .
+ <http://example.org/AlJazeera> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <TikTok-Al-Jazeera-5> .
+ <http://example.org/CybersecurityOfficials> <http://schema.org/name> "State Cybersecurity Officials"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/Michigan> <http://schema.org/name> "State of Michigan"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/ZachSwint> <http://xmlns.com/foaf/0.1/name> "Zach Swint"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/SaraCollins> <http://dbpedia.org/ontology/position> <http://example.org/Expert> <TikTok-Al-Jazeera-5> .
+ <http://example.org/DHSContact> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-5> .
+ <http://example.org/FBI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <TikTok-Al-Jazeera-5> .
+ <http://example.org/Beijing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <TikTok-Al-Jazeera-5> .
+ <http://example.org/DHSContact> <http://dbpedia.org/ontology/employer> <http://example.org/DHS> <TikTok-Al-Jazeera-5> .
+ <http://example.org/CISA> <http://schema.org/name> "Cybersecurity and Infrastructure Security Agency"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/Governor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <TikTok-Al-Jazeera-5> .
+ <http://example.org/TikTok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <TikTok-Al-Jazeera-5> .
+ <http://example.org/AlJazeera> <http://schema.org/name> "Al Jazeera"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/TikTokSpokeswoman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <TikTok-Al-Jazeera-5> .
+ <http://example.org/SouthDakota> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <TikTok-Al-Jazeera-5> .
+ <http://example.org/Maryland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <TikTok-Al-Jazeera-5> .
+ <http://example.org/FBIContact> <http://xmlns.com/foaf/0.1/name> "Unnamed FBI Agent"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/Maryland> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> <TikTok-Al-Jazeera-5> .
+ <http://example.org/ChristopherWray> <http://dbpedia.org/ontology/position> <http://example.org/FBIDirector> <TikTok-Al-Jazeera-5> .
+ <http://example.org/ByteDance> <http://dbpedia.org/ontology/location> <http://example.org/CaymanIslands> <TikTok-Al-Jazeera-5> .
+ <http://example.org/KristiNoem> <http://dbpedia.org/ontology/position> <http://example.org/Governor> <TikTok-Al-Jazeera-5> .
+ <http://example.org/Email1> <http://schema.org/recipient> <http://example.org/FBIContact> <TikTok-Al-Jazeera-5> .
+ <http://example.org/DougBurgum> <http://xmlns.com/foaf/0.1/name> "Doug Burgum"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/MarkRaymond> <http://xmlns.com/foaf/0.1/name> "Mark Raymond"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/FBIContact> <http://dbpedia.org/ontology/employer> <http://example.org/FBI> <TikTok-Al-Jazeera-5> .
+ <http://example.org/Email3> <http://schema.org/text> "No additional information, would recommend deferring to the guidance of the FBI."  <TikTok-Al-Jazeera-5> .
+ <http://example.org/SaraCollins> <http://dbpedia.org/ontology/employer> <http://example.org/PublicKnowledge> <TikTok-Al-Jazeera-5> .
+ <http://example.org/CISO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <TikTok-Al-Jazeera-5> .
+ <http://example.org/Beijing> <http://schema.org/name> "Beijing"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/CISAContact> <http://dbpedia.org/ontology/position> <http://example.org/CybersecurityAdviser> <TikTok-Al-Jazeera-5> .
+ <http://example.org/CISAContact> <http://dbpedia.org/ontology/employer> <http://example.org/CISA> <TikTok-Al-Jazeera-5> .
+ <http://example.org/MarkRaymond> <http://dbpedia.org/ontology/employer> <http://example.org/Connecticut> <TikTok-Al-Jazeera-5> .
+ <http://example.org/CIO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <TikTok-Al-Jazeera-5> .
+ <http://example.org/SeniorPolicyAdviser> <http://schema.org/name> "Senior Policy Adviser"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/Email1> <http://schema.org/dateSent> "2022-12-07"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-Al-Jazeera-5> .
+ <http://example.org/ZachSwint> <http://dbpedia.org/ontology/position> <http://example.org/SeniorPolicyAdviser> <TikTok-Al-Jazeera-5> .
+ <http://example.org/CalebBuhs> <http://dbpedia.org/ontology/position> <http://example.org/DirectorOfCommunications> <TikTok-Al-Jazeera-5> .
+ <http://example.org/JaceBeehler> <http://xmlns.com/foaf/0.1/name> "Jace Beehler"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/Email3> <http://schema.org/dateSent> "2022-12-07"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-Al-Jazeera-5> .
+ <http://example.org/Email4> <http://schema.org/dateSent> "2022-12-08"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-Al-Jazeera-5> .
+ <http://example.org/NorthDakota> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> <TikTok-Al-Jazeera-5> .
+ <http://example.org/CISA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <TikTok-Al-Jazeera-5> .
+ <http://example.org/JeffBrown> <http://dbpedia.org/ontology/position> <http://example.org/CISO> <TikTok-Al-Jazeera-5> .
+ <http://example.org/China> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <TikTok-Al-Jazeera-5> .
+ <http://example.org/MarcFaddoul> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-5> .
+ <http://example.org/PublicKnowledge> <http://schema.org/name> "Public Knowledge"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/Email2> <http://schema.org/dateSent> "2022-12-07"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-Al-Jazeera-5> .
+ <http://example.org/NedLamont> <http://dbpedia.org/ontology/position> <http://example.org/Governor> <TikTok-Al-Jazeera-5> .
+ <http://example.org/DougBurgum> <http://dbpedia.org/ontology/employer> <http://example.org/NorthDakota> <TikTok-Al-Jazeera-5> .
+ <http://example.org/GretchenWhitmer> <http://xmlns.com/foaf/0.1/name> "Gretchen Whitmer"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/ByteDance> <http://dbpedia.org/ontology/owner> <http://example.org/TikTok> <TikTok-Al-Jazeera-5> .
+ <http://example.org/SaraCollins> <http://xmlns.com/foaf/0.1/name> "Sara Collins"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/Expert> <http://schema.org/name> "Expert"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/Email4> <http://schema.org/sender> <http://example.org/JaceBeehler> <TikTok-Al-Jazeera-5> .
+ <http://example.org/FBIContact> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-5> .
+ <http://example.org/Michigan> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> <TikTok-Al-Jazeera-5> .
+ <http://example.org/NedLamont> <http://dbpedia.org/ontology/employer> <http://example.org/Connecticut> <TikTok-Al-Jazeera-5> .
+ <http://example.org/BrookeOberwetter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-5> .
+ <http://example.org/Email3> <http://schema.org/sender> <http://example.org/CISAContact> <TikTok-Al-Jazeera-5> .
+ <http://example.org/China> <http://schema.org/name> "China"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/Email1> <http://schema.org/text> "Good morning gentlemen. We're looking for any recommendations on TikTok after Maryland moved to 'ban' its use. Our logic is captured below, but we'd be interested in your thoughts. Appreciate any feedback."  <TikTok-Al-Jazeera-5> .
+ <http://example.org/AIForensics> <http://schema.org/name> "AI Forensics"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/ChristopherWray> <http://xmlns.com/foaf/0.1/name> "Christopher Wray"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/PublicKnowledge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <TikTok-Al-Jazeera-5> .
+ <http://example.org/MarcFaddoul> <http://xmlns.com/foaf/0.1/name> "Marc Faddoul"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/ByteDance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <TikTok-Al-Jazeera-5> .
+ <http://example.org/CliffLampe> <http://dbpedia.org/ontology/employer> <http://example.org/UniversityOfMichigan> <TikTok-Al-Jazeera-5> .
+ <http://example.org/NorthDakota> <http://schema.org/name> "State of North Dakota"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/CoDirector> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <TikTok-Al-Jazeera-5> .
+ <http://example.org/ByteDance> <http://dbpedia.org/ontology/headquarter> <http://example.org/Beijing> <TikTok-Al-Jazeera-5> .
+ <http://example.org/NorthDakota> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <TikTok-Al-Jazeera-5> .
+ <http://example.org/SeniorPolicyAdviser> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <TikTok-Al-Jazeera-5> .
+ <http://example.org/TikTokSpokeswoman> <http://schema.org/name> "TikTok Spokeswoman"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/BrookeOberwetter> <http://dbpedia.org/ontology/position> <http://example.org/TikTokSpokeswoman> <TikTok-Al-Jazeera-5> .
+ <http://example.org/RGPPC> <http://schema.org/name> "Republican Governors Public Policy Committee"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/CalebBuhs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-5> .
+ <http://example.org/Connecticut> <http://schema.org/name> "State of Connecticut"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/JeffBrown> <http://dbpedia.org/ontology/employer> <http://example.org/Connecticut> <TikTok-Al-Jazeera-5> .
+ <http://example.org/CliffLampe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-5> .
+ <http://example.org/UniversityOfMichigan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <TikTok-Al-Jazeera-5> .
+ <http://example.org/MarkRaymond> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-5> .
+ <http://example.org/JaceBeehler> <http://dbpedia.org/ontology/employer> <http://example.org/NorthDakota> <TikTok-Al-Jazeera-5> .
+ <http://example.org/Governor> <http://schema.org/name> "Governor"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/FBIContact> <http://dbpedia.org/ontology/position> <http://example.org/CybercrimeTeamLeader> <TikTok-Al-Jazeera-5> .
+ <http://example.org/CliffLampe> <http://xmlns.com/foaf/0.1/name> "Cliff Lampe"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/MarkRaymond> <http://dbpedia.org/ontology/position> <http://example.org/CIO> <TikTok-Al-Jazeera-5> .
+ <http://example.org/DHS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <TikTok-Al-Jazeera-5> .
+ <http://example.org/BrookeOberwetter> <http://xmlns.com/foaf/0.1/name> "Brooke Oberwetter"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/FBIDirector> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <TikTok-Al-Jazeera-5> .
+ <http://example.org/MarcFaddoul> <http://dbpedia.org/ontology/position> <http://example.org/CoDirector> <TikTok-Al-Jazeera-5> .
+ <http://example.org/CISAContact> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-5> .
+ <http://example.org/CaymanIslands> <http://schema.org/name> "Cayman Islands"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/CalebBuhs> <http://xmlns.com/foaf/0.1/name> "Caleb Buhs"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/FBIDirector> <http://schema.org/name> "FBI Director"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/CliffLampe> <http://dbpedia.org/ontology/position> <http://example.org/Professor> <TikTok-Al-Jazeera-5> .
+ <http://example.org/Connecticut> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> <TikTok-Al-Jazeera-5> .
+ <http://example.org/Michigan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <TikTok-Al-Jazeera-5> .
+ <http://example.org/FBI> <http://schema.org/name> "Federal Bureau of Investigation"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/JaceBeehler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-5> .
+ <http://example.org/CoDirector> <http://schema.org/name> "Co-Director"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/DougBurgum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-5> .
+ <http://example.org/CybersecurityOfficials> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Group> <TikTok-Al-Jazeera-5> .
+ <http://example.org/Email1> <http://schema.org/sender> <http://example.org/JeffBrown> <TikTok-Al-Jazeera-5> .
+ <http://example.org/Email2> <http://schema.org/text> "I asked one of my analysts to reach out to our HQ. She emailed me towards the end of the day to say that she couldn't find evidence that we had any additional information to share."  <TikTok-Al-Jazeera-5> .
+ <http://example.org/Email4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EmailMessage> <TikTok-Al-Jazeera-5> .
+ <http://example.org/ChristopherWray> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-5> .
+ <http://example.org/MarkRaymond> <http://schema.org/email> "mark.raymond@example.com"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/NedLamont> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-5> .
+ <http://example.org/ChiefOfStaff> <http://schema.org/name> "Chief of Staff"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/Email3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EmailMessage> <TikTok-Al-Jazeera-5> .
+ <http://example.org/TikTok> <http://dbpedia.org/ontology/country> <http://example.org/China> <TikTok-Al-Jazeera-5> .
+ <http://example.org/CISAContact> <http://xmlns.com/foaf/0.1/name> "Unnamed CISA Cybersecurity Adviser"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/TikTok> <http://dbpedia.org/ontology/developer> <http://example.org/ByteDance> <TikTok-Al-Jazeera-5> .
+ <http://example.org/GretchenWhitmer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-5> .
+ <http://example.org/Email1> <http://schema.org/recipient> <http://example.org/CISAContact> <TikTok-Al-Jazeera-5> .
+ <http://example.org/Email1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EmailMessage> <TikTok-Al-Jazeera-5> .
+ <http://example.org/ZachSwint> <http://dbpedia.org/ontology/employer> <http://example.org/RGPPC> <TikTok-Al-Jazeera-5> .
+ <http://example.org/Expert> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <TikTok-Al-Jazeera-5> .
+ <http://example.org/MarcFaddoul> <http://dbpedia.org/ontology/employer> <http://example.org/AIForensics> <TikTok-Al-Jazeera-5> .
+ <http://example.org/Maryland> <http://schema.org/name> "State of Maryland"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/JeffBrown> <http://schema.org/email> "jeff.brown@example.com"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/CIO> <http://schema.org/name> "Chief Information Officer"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/Email3> <http://schema.org/recipient> <http://example.org/JeffBrown> <TikTok-Al-Jazeera-5> .
+ <http://example.org/DougBurgum> <http://dbpedia.org/ontology/position> <http://example.org/Governor> <TikTok-Al-Jazeera-5> .
+ <http://example.org/CalebBuhs> <http://dbpedia.org/ontology/employer> <http://example.org/Michigan> <TikTok-Al-Jazeera-5> .
+ <http://example.org/DHS> <http://schema.org/name> "Department of Homeland Security"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/CaymanIslands> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <TikTok-Al-Jazeera-5> .
+ <http://example.org/JeffBrown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-5> .
+ <http://example.org/Email2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EmailMessage> <TikTok-Al-Jazeera-5> .
+ <http://example.org/DirectorOfCommunications> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <TikTok-Al-Jazeera-5> .
+ <http://example.org/DirectorOfCommunications> <http://schema.org/name> "Director of Communications"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/Email4> <http://schema.org/text> "Please expedite this and send a recommendation as quickly as possible."  <TikTok-Al-Jazeera-5> .
+ <http://example.org/Email2> <http://schema.org/recipient> <http://example.org/JeffBrown> <TikTok-Al-Jazeera-5> .
+ <http://example.org/Connecticut> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <TikTok-Al-Jazeera-5> .
+ <http://example.org/KristiNoem> <http://xmlns.com/foaf/0.1/name> "Kristi Noem"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/SaraCollins> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-5> .
+ <http://example.org/ZachSwint> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-5> .
+ <http://example.org/Email2> <http://schema.org/sender> <http://example.org/FBIContact> <TikTok-Al-Jazeera-5> .
+ <http://example.org/AIForensics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <TikTok-Al-Jazeera-5> .
+ <http://example.org/NedLamont> <http://xmlns.com/foaf/0.1/name> "Ned Lamont"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/SouthDakota> <http://schema.org/name> "State of South Dakota"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/SouthDakota> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> <TikTok-Al-Jazeera-5> .
+ <http://example.org/JaceBeehler> <http://dbpedia.org/ontology/position> <http://example.org/ChiefOfStaff> <TikTok-Al-Jazeera-5> .
+ <http://example.org/KristiNoem> <http://dbpedia.org/ontology/employer> <http://example.org/SouthDakota> <TikTok-Al-Jazeera-5> .
+ <http://example.org/Email4> <http://schema.org/recipient> <http://example.org/CybersecurityOfficials> <TikTok-Al-Jazeera-5> .
+ <http://example.org/DHSContact> <http://dbpedia.org/ontology/position> <http://example.org/ContactPerson> <TikTok-Al-Jazeera-5> .
+ <http://example.org/UniversityOfMichigan> <http://schema.org/name> "University of Michigan"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/GretchenWhitmer> <http://dbpedia.org/ontology/position> <http://example.org/Governor> <TikTok-Al-Jazeera-5> .
+ <http://example.org/Professor> <http://schema.org/name> "Professor"  <TikTok-Al-Jazeera-5> .
+ <http://example.org/MontanaStateBan> <http://schema.org/legislationDate> "2023-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-Al-Jazeera-6> .
+ <http://example.org/DonaldTrump> <http://schema.org/name> "Donald Trump"  <TikTok-Al-Jazeera-6> .
+ <http://example.org/MontanaStateBan> <http://schema.org/name> "Montana state ban on TikTok"  <TikTok-Al-Jazeera-6> .
+ <http://example.org/TrumpTikTokBanAttempt> <http://schema.org/description> "Attempt to bar new downloads of TikTok"  <TikTok-Al-Jazeera-6> .
+ <http://example.org/TechGroupsJointFiling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <TikTok-Al-Jazeera-6> .
+ <http://example.org/TikTok> <http://schema.org/location> <http://example.org/Montana> <TikTok-Al-Jazeera-6> .
+ <http://example.org/TikTok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-Al-Jazeera-6> .
+ <http://example.org/TikTok> <http://schema.org/numberOfEmployees> "150000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-Al-Jazeera-6> .
+ <http://example.org/TechGroupsStatement> <http://schema.org/author> <http://TikTok-Al-Jazeera-6.com/blank#n07b93947e2f44ee7a83cd910b7da6386b3>  <TikTok-Al-Jazeera-6> .
+ <http://example.org/InjunctionHearing> <http://schema.org/startDate> "2023-10-12"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-Al-Jazeera-6> .
+ <http://example.org/TrumpTikTokBanAttempt> <http://schema.org/startDate> "2020-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-Al-Jazeera-6> .
+ <http://example.org/TikTokLawsuit> <http://schema.org/participant> <http://TikTok-Al-Jazeera-6.com/blank#n07b93947e2f44ee7a83cd910b7da6386b1>  <TikTok-Al-Jazeera-6> .
+ <http://example.org/TikTokLawsuit> <http://schema.org/description> "Lawsuit seeking to block enforcement of a Montana state ban on TikTok"  <TikTok-Al-Jazeera-6> .
+ <http://example.org/InjunctionHearing> <http://schema.org/name> "Hearing on TikTok's request for a preliminary injunction"  <TikTok-Al-Jazeera-6> .
+ <http://example.org/MontanaStateBan> <http://schema.org/legislationApplies> <http://example.org/TikTok> <TikTok-Al-Jazeera-6> .
+ <http://example.org/TrumpTikTokBanAttempt> <http://schema.org/organizer> <http://example.org/DonaldTrump> <TikTok-Al-Jazeera-6> .
+ <http://example.org/TrumpTikTokBanAttempt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <TikTok-Al-Jazeera-6> .
+ <http://example.org/MontanaStateBan> <http://schema.org/penalty> "10000"^^<http://www.w3.org/2001/XMLSchema#currency>  <TikTok-Al-Jazeera-6> .
+ <http://example.org/TechGroupsJointFiling> <http://schema.org/author> <http://TikTok-Al-Jazeera-6.com/blank#n07b93947e2f44ee7a83cd910b7da6386b2>  <TikTok-Al-Jazeera-6> .
+ <http://example.org/TechGroupsStatement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <TikTok-Al-Jazeera-6> .
+ <http://TikTok-Al-Jazeera-6.com/blank#n07b93947e2f44ee7a83cd910b7da6386b2> <http://example.org/NetChoice> <http://example.org/ChamberOfProgress> <TikTok-Al-Jazeera-6> .
+ <http://example.org/TikTok> <http://schema.org/legalName> "TikTok Inc."  <TikTok-Al-Jazeera-6> .
+ <http://example.org/NetChoice> <http://schema.org/name> "NetChoice"  <TikTok-Al-Jazeera-6> .
+ <http://example.org/ChamberOfProgress> <http://schema.org/description> "a tech-industry coalition"  <TikTok-Al-Jazeera-6> .
+ <http://example.org/ChamberOfProgress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-Al-Jazeera-6> .
+ <http://example.org/TikTok> <http://schema.org/name> "TikTok"  <TikTok-Al-Jazeera-6> .
+ <http://example.org/TikTokLawsuit> <http://schema.org/startDate> "2023-05-01"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-Al-Jazeera-6> .
+ <http://example.org/InjunctionHearing> <http://schema.org/about> <http://example.org/TikTokLawsuit> <TikTok-Al-Jazeera-6> .
+ <http://TikTok-Al-Jazeera-6.com/blank#n07b93947e2f44ee7a83cd910b7da6386b3> <http://example.org/NetChoice> <http://example.org/ChamberOfProgress> <TikTok-Al-Jazeera-6> .
+ <http://example.org/MontanaTikTokUsers> <http://schema.org/value> "380000"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-Al-Jazeera-6> .
+ <http://example.org/Montana> <http://schema.org/name> "Montana"  <TikTok-Al-Jazeera-6> .
+ <http://example.org/TrumpTikTokBanAttempt> <http://schema.org/name> "Donald Trump's attempt to ban TikTok"  <TikTok-Al-Jazeera-6> .
+ <http://example.org/ByteDance> <http://schema.org/name> "ByteDance"  <TikTok-Al-Jazeera-6> .
+ <http://example.org/TikTokLawsuit> <http://schema.org/organizer> <http://example.org/TikTok> <TikTok-Al-Jazeera-6> .
+ <http://example.org/TechGroupsJointFiling> <http://schema.org/text> "Montana’s effort to cut Montanans off from the global network of TikTok users ignores and undermines the structure, design, and purpose of the internet"  <TikTok-Al-Jazeera-6> .
+ <http://example.org/MontanaStateBan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Legislation> <TikTok-Al-Jazeera-6> .
+ <http://example.org/DonaldTrump> <http://schema.org/jobTitle> "Former President of the United States"  <TikTok-Al-Jazeera-6> .
+ <http://example.org/TikTok> <http://schema.org/slogan> "Short video-sharing app"  <TikTok-Al-Jazeera-6> .
+ <http://example.org/ChamberOfProgress> <http://schema.org/name> "Chamber of Progress"  <TikTok-Al-Jazeera-6> .
+ <http://example.org/TikTokLawsuit> <http://schema.org/name> "TikTok's lawsuit against Montana state ban"  <TikTok-Al-Jazeera-6> .
+ <http://example.org/TechGroupsStatement> <http://schema.org/text> "If allowed to take effect, the ban will usher in a Balkanized internet where information available to users becomes regionally divided based on local politicians’ whims or preferences. The internet, as a whole, will become fragmented and its value to humanity diminished"  <TikTok-Al-Jazeera-6> .
+ <http://TikTok-Al-Jazeera-6.com/blank#n07b93947e2f44ee7a83cd910b7da6386b1> <http://example.org/NetChoice> <http://example.org/ChamberOfProgress> <TikTok-Al-Jazeera-6> .
+ <http://example.org/InjunctionHearing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <TikTok-Al-Jazeera-6> .
+ <http://example.org/DonaldTrump> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <TikTok-Al-Jazeera-6> .
+ <http://example.org/ByteDance> <http://schema.org/description> "Chinese tech giant"  <TikTok-Al-Jazeera-6> .
+ <http://example.org/NetChoice> <http://schema.org/description> "a national trade association that includes major tech platforms"  <TikTok-Al-Jazeera-6> .
+ <http://example.org/MontanaTikTokUsers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/QuantitativeValue> <TikTok-Al-Jazeera-6> .
+ <http://example.org/TikTok> <http://schema.org/parentOrganization> <http://example.org/ByteDance> <TikTok-Al-Jazeera-6> .
+ <http://example.org/TikTokLawsuit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <TikTok-Al-Jazeera-6> .
+ <http://example.org/TechGroupsJointFiling> <http://schema.org/datePublished> "2023-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-Al-Jazeera-6> .
+ <http://example.org/Montana> <http://schema.org/population> "1100000"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-Al-Jazeera-6> .
+ <http://example.org/ByteDance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-Al-Jazeera-6> .
+ <http://example.org/NetChoice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-Al-Jazeera-6> .
+ <http://example.org/Montana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <TikTok-Al-Jazeera-6> .
+ <http://example.org/MontanaTikTokUsers> <http://schema.org/unitText> "People in Montana using TikTok"  <TikTok-Al-Jazeera-6> .
+ <http://example.org/Email_December_9> <http://schema.org/text> "The State of Washington is considering whether to prohibit the use of TikTok for agency business. Has anyone performed a risk assessment on this application?"  <TikTok-Al-Jazeera-7> .
+ <http://example.org/Oracle> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Texas> <TikTok-Al-Jazeera-7> .
+ <http://example.org/John_Bel_Edwards> <http://xmlns.com/foaf/0.1/name> "John Bel Edwards"  <TikTok-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Washington_state> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/United_States> <TikTok-Al-Jazeera-7> .
+ <http://example.org/US_States_Banning_TikTok> <http://schema.org/itemListElement> <http://dbpedia.org/resource/New_Hampshire> <TikTok-Al-Jazeera-7> .
+ <http://example.org/Data_Storage_Policy> <http://schema.org/about> <http://example.org/TikTok> <TikTok-Al-Jazeera-7> .
+ <http://example.org/Jay_Inslee> <http://dbpedia.org/ontology/politicalParty> <http://dbpedia.org/resource/Democratic_Party_(United_States)> <TikTok-Al-Jazeera-7> .
+ <http://example.org/Jay_Inslee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-7> .
+ <http://example.org/TikTok> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/ByteDance> <TikTok-Al-Jazeera-7> .
+ <http://example.org/Executive_Order_Biden> <http://schema.org/description> "Executive order calling on officials to develop criteria for evaluating privacy and national security risks associated with foreign-owned apps."  <TikTok-Al-Jazeera-7> .
+ <http://example.org/Executive_Order_Biden> <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/Joe_Biden> <TikTok-Al-Jazeera-7> .
+ <http://example.org/Executive_Order_Trump> <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/Donald_Trump> <TikTok-Al-Jazeera-7> .
+ <http://example.org/Executive_Order_Trump> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Legislation> <TikTok-Al-Jazeera-7> .
+ <http://example.org/Jamal_Brown> <http://dbpedia.org/ontology/office> "Spokesperson for TikTok"  <TikTok-Al-Jazeera-7> .
+ <http://example.org/Public_Records_Requests> <http://schema.org/description> "Public records requests filed with all 50 US states and the District of Columbia revealing proposals in Washington state to ban TikTok."  <TikTok-Al-Jazeera-7> .
+ <http://example.org/Data_Storage_Policy> <http://schema.org/text> "TikTok stores all personal data belonging to American users in the US with backups in Singapore and has moved all American users’ data to US servers operated by Oracle."  <TikTok-Al-Jazeera-7> .
+ <http://example.org/Jay_Inslee> <http://xmlns.com/foaf/0.1/name> "Jay Inslee"  <TikTok-Al-Jazeera-7> .
+ <http://example.org/US_States_Banning_TikTok> <http://schema.org/itemListElement> <http://dbpedia.org/resource/North_Dakota> <TikTok-Al-Jazeera-7> .
+ <http://example.org/Ken_Weeks> <http://dbpedia.org/ontology/office> "Chief Information Security Officer for New Hampshire"  <TikTok-Al-Jazeera-7> .
+ <http://example.org/Kyle_Ardoin> <http://dbpedia.org/ontology/politicalParty> <http://dbpedia.org/resource/Republican_Party_(United_States)> <TikTok-Al-Jazeera-7> .
+ <http://example.org/Kyle_Ardoin> <http://dbpedia.org/ontology/office> "Secretary of State of Louisiana"  <TikTok-Al-Jazeera-7> .
+ <http://example.org/Email_December_9> <http://schema.org/dateSent> "2022-12-09"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-Al-Jazeera-7> .
+ <http://example.org/John_Bel_Edwards> <http://dbpedia.org/ontology/politicalParty> <http://dbpedia.org/resource/Democratic_Party_(United_States)> <TikTok-Al-Jazeera-7> .
+ <http://example.org/Jamal_Brown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-7> .
+ <http://example.org/US_States_Banning_TikTok> <http://schema.org/itemListElement> <http://dbpedia.org/resource/Georgia> <TikTok-Al-Jazeera-7> .
+ <http://example.org/Kyle_Ardoin> <http://xmlns.com/foaf/0.1/name> "Kyle Ardoin"  <TikTok-Al-Jazeera-7> .
+ <http://example.org/Jamal_Brown> <http://xmlns.com/foaf/0.1/name> "Jamal Brown"  <TikTok-Al-Jazeera-7> .
+ <http://example.org/Oracle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <TikTok-Al-Jazeera-7> .
+ <http://example.org/Data_Storage_Policy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/DataFeedItem> <TikTok-Al-Jazeera-7> .
+ <http://example.org/Email_Reply_Ken_Weeks> <http://schema.org/recipient> <http://example.org/Stevens_Fox> <TikTok-Al-Jazeera-7> .
+ <http://example.org/TikTok> <http://dbpedia.org/ontology/locationCountry> <http://dbpedia.org/resource/China> <TikTok-Al-Jazeera-7> .
+ <http://example.org/Executive_Order_Trump> <http://schema.org/datePublished> "2020"^^<http://www.w3.org/2001/XMLSchema#gYear>  <TikTok-Al-Jazeera-7> .
+ <http://example.org/Executive_Order_Trump> <http://schema.org/description> "Executive order giving ByteDance 90 days to divest its US assets."  <TikTok-Al-Jazeera-7> .
+ <http://example.org/Andrew_Garber> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-7> .
+ <http://example.org/Andrew_Garber> <http://xmlns.com/foaf/0.1/name> "Andrew Garber"  <TikTok-Al-Jazeera-7> .
+ <http://example.org/Public_Records_Requests> <http://dbpedia.org/ontology/author> <http://example.org/Al_Jazeera> <TikTok-Al-Jazeera-7> .
+ <http://example.org/TikTok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <TikTok-Al-Jazeera-7> .
+ <http://example.org/Kyle_Ardoin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-7> .
+ <http://example.org/US_States_Banning_TikTok> <http://schema.org/itemListElement> <http://dbpedia.org/resource/Idaho> <TikTok-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Washington_state> <http://dbpedia.org/ontology/leaderTitle> "Governor"  <TikTok-Al-Jazeera-7> .
+ <http://example.org/Executive_Order_Biden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Legislation> <TikTok-Al-Jazeera-7> .
+ <http://example.org/Stevens_Fox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-7> .
+ <http://example.org/Al_Jazeera> <http://dbpedia.org/ontology/product> <http://example.org/Public_Records_Requests> <TikTok-Al-Jazeera-7> .
+ <http://example.org/Email_December_9> <http://schema.org/sender> <http://example.org/Stevens_Fox> <TikTok-Al-Jazeera-7> .
+ <http://example.org/US_States_Banning_TikTok> <http://schema.org/itemListElement> <http://dbpedia.org/resource/Texas> <TikTok-Al-Jazeera-7> .
+ <http://example.org/TikTok> <http://dbpedia.org/ontology/product> <http://example.org/TikTok_App> <TikTok-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Louisiana> <http://dbpedia.org/ontology/leaderTitle> "Governor"  <TikTok-Al-Jazeera-7> .
+ <http://example.org/Al_Jazeera> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <TikTok-Al-Jazeera-7> .
+ <http://example.org/Email_December_9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EmailMessage> <TikTok-Al-Jazeera-7> .
+ <http://example.org/Stevens_Fox> <http://dbpedia.org/ontology/office> "Deputy Chief Information Security Officer of Washington State"  <TikTok-Al-Jazeera-7> .
+ <http://example.org/National_Association_of_State_Chief_Information_Officers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <TikTok-Al-Jazeera-7> .
+ <http://example.org/Stevens_Fox> <http://xmlns.com/foaf/0.1/name> "Stevens Fox"  <TikTok-Al-Jazeera-7> .
+ <http://example.org/US_Congress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Legislature> <TikTok-Al-Jazeera-7> .
+ <http://example.org/TikTok_App> <http://dbpedia.org/ontology/computingPlatform> "Mobile devices"  <TikTok-Al-Jazeera-7> .
+ <http://example.org/Ken_Weeks> <http://xmlns.com/foaf/0.1/name> "Ken Weeks"  <TikTok-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Washington_state> <http://dbpedia.org/ontology/leaderName> <http://example.org/Jay_Inslee> <TikTok-Al-Jazeera-7> .
+ <http://example.org/US_States_Banning_TikTok> <http://schema.org/itemListElement> <http://dbpedia.org/resource/Utah> <TikTok-Al-Jazeera-7> .
+ <http://example.org/Washington_Technology_Solutions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <TikTok-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/ByteDance> <http://dbpedia.org/ontology/headquarter> <http://dbpedia.org/resource/Beijing> <TikTok-Al-Jazeera-7> .
+ <http://example.org/US_Congress> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> <TikTok-Al-Jazeera-7> .
+ <http://example.org/Ken_Weeks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-7> .
+ <http://example.org/Email_Reply_Ken_Weeks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EmailMessage> <TikTok-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Washington_state> <http://dbpedia.org/ontology/politicalParty> <http://dbpedia.org/resource/Democratic_Party_(United_States)> <TikTok-Al-Jazeera-7> .
+ <http://example.org/Andrew_Garber> <http://dbpedia.org/ontology/office> "Spokesperson for Washington Technology Solutions"  <TikTok-Al-Jazeera-7> .
+ <http://example.org/Jay_Inslee> <http://xmlns.com/foaf/0.1/title> "Governor of Washington State"  <TikTok-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Louisiana> <http://dbpedia.org/ontology/leaderName> <http://example.org/John_Bel_Edwards> <TikTok-Al-Jazeera-7> .
+ <http://example.org/Al_Jazeera> <http://dbpedia.org/ontology/broadcastArea> <http://dbpedia.org/resource/Worldwide> <TikTok-Al-Jazeera-7> .
+ <http://example.org/Public_Records_Requests> <http://schema.org/dateCreated> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <TikTok-Al-Jazeera-7> .
+ <http://example.org/US_States_Banning_TikTok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ItemList> <TikTok-Al-Jazeera-7> .
+ <http://example.org/Email_Reply_Ken_Weeks> <http://schema.org/sender> <http://example.org/Ken_Weeks> <TikTok-Al-Jazeera-7> .
+ <http://example.org/John_Bel_Edwards> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-7> .
+ <http://example.org/Public_Records_Requests> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Document> <TikTok-Al-Jazeera-7> .
+ <http://example.org/US_States_Banning_TikTok> <http://schema.org/itemListElement> <http://dbpedia.org/resource/Alabama> <TikTok-Al-Jazeera-7> .
+ <http://example.org/US_States_Banning_TikTok> <http://schema.org/itemListElement> <http://dbpedia.org/resource/Maryland> <TikTok-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Louisiana> <http://dbpedia.org/ontology/politicalParty> <http://dbpedia.org/resource/Democratic_Party_(United_States)> <TikTok-Al-Jazeera-7> .
+ <http://example.org/Email_December_9> <http://schema.org/recipient> <http://example.org/National_Association_of_State_Chief_Information_Officers> <TikTok-Al-Jazeera-7> .
+ <http://example.org/Email_Reply_Ken_Weeks> <http://schema.org/text> "I won’t suggest we went through a formal risk assessment regarding TikTok, but based on the links to source material in the excerpt from another artifact I’ve been working the last couple days, we feel it is very reasonable to put this product on a prohibited list."  <TikTok-Al-Jazeera-7> .
+ <http://example.org/location#Texas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/location#State> <TikTok-Al-Jazeera-8> .
+ <http://example.org/government#USCongress> <http://example.org/government#committeeAppearance> <http://example.org/tiktok#ShouChew> <TikTok-Al-Jazeera-8> .
+ <http://TikTok-Al-Jazeera-8.com/blank#n575d710a116441afac121573ddb70784b1> <http://example.org/tiktok/ceo#claim> "TikTok allows free expression and community building"  <TikTok-Al-Jazeera-8> .
+ <http://example.org/organization#ByteDance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/organization#Company> <TikTok-Al-Jazeera-8> .
+ <http://example.org/government#USCongress> <http://example.org/government#name> "US Congress"  <TikTok-Al-Jazeera-8> .
+ <http://example.org/tiktok#ShouChew> <http://example.org/tiktok/ceo#age> "40"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-Al-Jazeera-8> .
+ <http://example.org/location#Doha> <http://example.org/location#country> "Qatar"  <TikTok-Al-Jazeera-8> .
+ <http://example.org/tiktok#ShouChew> <http://example.org/tiktok/ceo#position> "CEO of TikTok"  <TikTok-Al-Jazeera-8> .
+ <http://example.org/organization#Oracle> <http://example.org/organization#name> "Oracle"  <TikTok-Al-Jazeera-8> .
+ <http://example.org/tiktok#ShouChew> <http://example.org/tiktok/ceo#statement> "TikTok is here to stay"  <TikTok-Al-Jazeera-8> .
+ <http://example.org/government#ChineseGovernment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/government#Government> <TikTok-Al-Jazeera-8> .
+ <http://example.org/government#USCongress> <http://example.org/government#committeeAppearanceDate> "2023-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <TikTok-Al-Jazeera-8> .
+ <http://TikTok-Al-Jazeera-8.com/blank#n575d710a116441afac121573ddb70784b3> <http://example.org/tiktok/ceo#projectDescription> "Similar data protection plan in Europe"  <TikTok-Al-Jazeera-8> .
+ <http://TikTok-Al-Jazeera-8.com/blank#n575d710a116441afac121573ddb70784b2> <http://example.org/tiktok/ceo#projectPartner> <http://example.org/organization#Oracle> <TikTok-Al-Jazeera-8> .
+ <http://TikTok-Al-Jazeera-8.com/blank#n575d710a116441afac121573ddb70784b4> <http://example.org/organization#worldwide> "more than a billion"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-Al-Jazeera-8> .
+ <http://example.org/government#ChineseGovernment> <http://example.org/government#accessToData> "will not provide"  <TikTok-Al-Jazeera-8> .
+ <http://example.org/tiktok#ShouChew> <http://example.org/tiktok/ceo#spokeAt> <http://example.org/location#DohaEconomicForum> <TikTok-Al-Jazeera-8> .
+ <http://example.org/tiktok#ShouChew> <http://example.org/tiktok/ceo#name> "Shou Chew"  <TikTok-Al-Jazeera-8> .
+ <http://example.org/organization#ByteDance> <http://example.org/organization#name> "ByteDance"  <TikTok-Al-Jazeera-8> .
+ <http://TikTok-Al-Jazeera-8.com/blank#n575d710a116441afac121573ddb70784b1> <http://example.org/tiktok/ceo#claim> "Five million small businesses in the US depend on TikTok"  <TikTok-Al-Jazeera-8> .
+ <http://example.org/organization#TikTok> <http://example.org/organization#lawsuitAgainst> <http://example.org/location#Montana> <TikTok-Al-Jazeera-8> .
+ <http://example.org/organization#TikTok> <http://example.org/organization#name> "TikTok"  <TikTok-Al-Jazeera-8> .
+ <http://example.org/organization#TikTok> <http://example.org/organization#ownedBy> <http://example.org/organization#ByteDance> <TikTok-Al-Jazeera-8> .
+ <http://example.org/government#USCongress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/government#GovernmentBody> <TikTok-Al-Jazeera-8> .
+ <http://example.org/organization#TikTok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/organization#Company> <TikTok-Al-Jazeera-8> .
+ <http://TikTok-Al-Jazeera-8.com/blank#n575d710a116441afac121573ddb70784b1> <http://example.org/tiktok/ceo#claim> "TikTok will win its lawsuit against Montana ban"  <TikTok-Al-Jazeera-8> .
+ <http://example.org/organization#TikTok> <http://example.org/organization#importanceForExpression> "free expression and community building"  <TikTok-Al-Jazeera-8> .
+ <http://example.org/location#Montana> <http://example.org/government#banEffectiveDate> "2024-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-Al-Jazeera-8> .
+ <http://example.org/tiktok#ShouChew> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/tiktok/ceo#CEO> <TikTok-Al-Jazeera-8> .
+ <http://example.org/tiktok#ShouChew> <http://example.org/tiktok/ceo#nationality> "Singaporean"  <TikTok-Al-Jazeera-8> .
+ <http://example.org/location#DohaEconomicForum> <http://example.org/organization#location> <http://example.org/location#Doha> <TikTok-Al-Jazeera-8> .
+ <http://example.org/tiktok#ShouChew> <http://example.org/tiktok/ceo#project> <http://TikTok-Al-Jazeera-8.com/blank#n575d710a116441afac121573ddb70784b2>  <TikTok-Al-Jazeera-8> .
+ <http://example.org/location#Montana> <http://example.org/location#name> "Montana"  <TikTok-Al-Jazeera-8> .
+ <http://example.org/organization#Oracle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/organization#Company> <TikTok-Al-Jazeera-8> .
+ <http://example.org/government#ChineseGovernment> <http://example.org/government#requestForData> "never"  <TikTok-Al-Jazeera-8> .
+ <http://example.org/location#DohaEconomicForum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/organization#Event> <TikTok-Al-Jazeera-8> .
+ <http://example.org/location#Montana> <http://example.org/government#banDecision> "unconstitutional"  <TikTok-Al-Jazeera-8> .
+ <http://example.org/organization#Oracle> <http://example.org/organization#location> <http://example.org/location#Texas> <TikTok-Al-Jazeera-8> .
+ <http://TikTok-Al-Jazeera-8.com/blank#n575d710a116441afac121573ddb70784b1> <http://example.org/tiktok/ceo#claim> "TikTok will never provide user data to Chinese government"  <TikTok-Al-Jazeera-8> .
+ <http://example.org/location#Montana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/location#State> <TikTok-Al-Jazeera-8> .
+ <http://example.org/organization#TikTok> <http://example.org/organization#CEO> <http://example.org/tiktok#ShouChew> <TikTok-Al-Jazeera-8> .
+ <http://TikTok-Al-Jazeera-8.com/blank#n575d710a116441afac121573ddb70784b1> <http://example.org/tiktok/ceo#claim> "TikTok has more than 150 million users in the US"  <TikTok-Al-Jazeera-8> .
+ <http://TikTok-Al-Jazeera-8.com/blank#n575d710a116441afac121573ddb70784b1> <http://example.org/tiktok/ceo#claim> "TikTok has more than a billion users worldwide"  <TikTok-Al-Jazeera-8> .
+ <http://example.org/location#Doha> <http://example.org/location#name> "Doha"  <TikTok-Al-Jazeera-8> .
+ <http://example.org/organization#ByteDance> <http://example.org/organization#technologyFirm> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <TikTok-Al-Jazeera-8> .
+ <http://TikTok-Al-Jazeera-8.com/blank#n575d710a116441afac121573ddb70784b3> <http://example.org/tiktok/ceo#projectName> "Project Clover"  <TikTok-Al-Jazeera-8> .
+ <http://TikTok-Al-Jazeera-8.com/blank#n575d710a116441afac121573ddb70784b4> <http://example.org/organization#inUS> "150 million"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-Al-Jazeera-8> .
+ <http://TikTok-Al-Jazeera-8.com/blank#n575d710a116441afac121573ddb70784b2> <http://example.org/tiktok/ceo#projectLocation> <http://example.org/location#Texas> <TikTok-Al-Jazeera-8> .
+ <http://example.org/government#ChineseGovernment> <http://example.org/government#name> "Chinese government"  <TikTok-Al-Jazeera-8> .
+ <http://example.org/location#Doha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/location#City> <TikTok-Al-Jazeera-8> .
+ <http://TikTok-Al-Jazeera-8.com/blank#n575d710a116441afac121573ddb70784b2> <http://example.org/tiktok/ceo#projectName> "Project Texas"  <TikTok-Al-Jazeera-8> .
+ <http://example.org/tiktok#ShouChew> <http://example.org/tiktok/ceo#claims> <http://TikTok-Al-Jazeera-8.com/blank#n575d710a116441afac121573ddb70784b1>  <TikTok-Al-Jazeera-8> .
+ <http://example.org/tiktok#ShouChew> <http://example.org/tiktok/ceo#spokeOn> "2023-06-20"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-Al-Jazeera-8> .
+ <http://TikTok-Al-Jazeera-8.com/blank#n575d710a116441afac121573ddb70784b2> <http://example.org/tiktok/ceo#projectDescription> "Protect the data of US-based users"  <TikTok-Al-Jazeera-8> .
+ <http://TikTok-Al-Jazeera-8.com/blank#n575d710a116441afac121573ddb70784b2> <http://example.org/tiktok/ceo#projectFeature> "firewall that seals off protected user data from unauthorized foreign access"  <TikTok-Al-Jazeera-8> .
+ <http://example.org/location#DohaEconomicForum> <http://example.org/organization#name> "Qatar Economic Forum"  <TikTok-Al-Jazeera-8> .
+ <http://example.org/organization#ByteDance> <http://example.org/organization#head> <http://example.org/tiktok#ShouChew> <TikTok-Al-Jazeera-8> .
+ <http://example.org/organization#TikTok> <http://example.org/organization#userBase> <http://TikTok-Al-Jazeera-8.com/blank#n575d710a116441afac121573ddb70784b4>  <TikTok-Al-Jazeera-8> .
+ <http://example.org/organization#TikTok> <http://example.org/organization#importanceForBusinesses> "Five million small businesses in the US"  <TikTok-Al-Jazeera-8> .
+ <http://example.org/location#DohaEconomicForum> <http://example.org/organization#date> "2023-06-20"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-Al-Jazeera-8> .
+ <http://TikTok-Al-Jazeera-8.com/blank#n575d710a116441afac121573ddb70784b2> <http://example.org/tiktok/ceo#projectBudget> "1.5bn"^^<http://www.w3.org/2001/XMLSchema#decimal>  <TikTok-Al-Jazeera-8> .
+ <http://example.org/location#Texas> <http://example.org/location#name> "Texas"  <TikTok-Al-Jazeera-8> .
+ <http://example.org/tiktok#ShouChew> <http://example.org/tiktok/ceo#project> <http://TikTok-Al-Jazeera-8.com/blank#n575d710a116441afac121573ddb70784b3>  <TikTok-Al-Jazeera-8> .
+ <http://example.org/AntiTikTokLegislation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Legislation> <TikTok-Al-Jazeera-9> .
+ <http://example.org/OracleCorporation> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Austin_Texas> <TikTok-Al-Jazeera-9> .
+ <http://example.org/TikTok> <http://dbpedia.org/ontology/numberOfUsers> "1000000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-Al-Jazeera-9> .
+ <http://example.org/InformationCommissionersOffice> <http://dbpedia.org/ontology/fine> <http://TikTok-Al-Jazeera-9.com/blank#n45716997b06d49018bbce2142133ff63b6>  <TikTok-Al-Jazeera-9> .
+ <http://example.org/GregGianforte> <http://dbpedia.org/ontology/office> "Governor of Montana"  <TikTok-Al-Jazeera-9> .
+ <http://TikTok-Al-Jazeera-9.com/blank#n45716997b06d49018bbce2142133ff63b5> <http://xmlns.com/foaf/0.1/name> "Brooke Oberwetter"  <TikTok-Al-Jazeera-9> .
+ <http://example.org/ShouZiChew> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-9> .
+ <http://example.org/ACLU> <http://xmlns.com/foaf/0.1/name> "American Civil Liberties Union"  <TikTok-Al-Jazeera-9> .
+ <http://TikTok-Al-Jazeera-9.com/blank#n45716997b06d49018bbce2142133ff63b6> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/British_pound> <TikTok-Al-Jazeera-9> .
+ <http://example.org/Telegram> <http://xmlns.com/foaf/0.1/name> "Telegram"  <TikTok-Al-Jazeera-9> .
+ <http://example.org/Memorandum> <http://dbpedia.org/ontology/mentions> <http://example.org/WeChat> <TikTok-Al-Jazeera-9> .
+ <http://TikTok-Al-Jazeera-9.com/blank#n45716997b06d49018bbce2142133ff63b2> <http://dbpedia.org/ontology/numberOfEmployees> "7000"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-Al-Jazeera-9> .
+ <http://example.org/DonaldTrump> <http://dbpedia.org/ontology/office> "Former President of the United States"  <TikTok-Al-Jazeera-9> .
+ <http://example.org/CathyMcMorrisRodgers> <http://dbpedia.org/ontology/office> "Republican Representative"  <TikTok-Al-Jazeera-9> .
+ <http://example.org/Montana> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> <TikTok-Al-Jazeera-9> .
+ <http://example.org/InformationCommissionersOffice> <http://xmlns.com/foaf/0.1/name> "Information Commissioner's Office"  <TikTok-Al-Jazeera-9> .
+ <http://example.org/ACLUStatement> <http://schema.org/text> "This law tramples on our free speech rights under the guise of national security and lays the groundwork for excessive government control over the internet."  <TikTok-Al-Jazeera-9> .
+ <http://example.org/DonaldTrump> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-9> .
+ <http://TikTok-Al-Jazeera-9.com/blank#n45716997b06d49018bbce2142133ff63b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-9> .
+ <http://example.org/TikTok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <TikTok-Al-Jazeera-9> .
+ <http://example.org/TikTok> <http://dbpedia.org/ontology/employment> <http://TikTok-Al-Jazeera-9.com/blank#n45716997b06d49018bbce2142133ff63b2>  <TikTok-Al-Jazeera-9> .
+ <http://TikTok-Al-Jazeera-9.com/blank#n45716997b06d49018bbce2142133ff63b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <TikTok-Al-Jazeera-9> .
+ <http://TikTok-Al-Jazeera-9.com/blank#n45716997b06d49018bbce2142133ff63b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Penalty> <TikTok-Al-Jazeera-9> .
+ <http://example.org/CathyMcMorrisRodgers> <http://xmlns.com/foaf/0.1/name> "Cathy McMorris Rodgers"  <TikTok-Al-Jazeera-9> .
+ <http://example.org/TikTok> <http://xmlns.com/foaf/0.1/name> "TikTok"  <TikTok-Al-Jazeera-9> .
+ <http://TikTok-Al-Jazeera-9.com/blank#n45716997b06d49018bbce2142133ff63b6> <http://dbpedia.org/ontology/amount> "12700000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <TikTok-Al-Jazeera-9> .
+ <http://TikTok-Al-Jazeera-9.com/blank#n45716997b06d49018bbce2142133ff63b1> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Beijing> <TikTok-Al-Jazeera-9> .
+ <http://example.org/WeChat> <http://dbpedia.org/ontology/developer> <http://TikTok-Al-Jazeera-9.com/blank#n45716997b06d49018bbce2142133ff63b3>  <TikTok-Al-Jazeera-9> .
+ <http://example.org/Telegram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <TikTok-Al-Jazeera-9> .
+ <http://example.org/JoeBiden> <http://dbpedia.org/ontology/office> "President of the United States"  <TikTok-Al-Jazeera-9> .
+ <http://example.org/Montana> <http://xmlns.com/foaf/0.1/name> "Montana"  <TikTok-Al-Jazeera-9> .
+ <http://example.org/Memorandum> <http://dbpedia.org/ontology/author> <http://example.org/GregGianforte> <TikTok-Al-Jazeera-9> .
+ <http://example.org/Memorandum> <http://dbpedia.org/ontology/date> "2023-06-01"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-Al-Jazeera-9> .
+ <http://example.org/CathyMcMorrisRodgers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-9> .
+ <http://TikTok-Al-Jazeera-9.com/blank#n45716997b06d49018bbce2142133ff63b4> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Russia> <TikTok-Al-Jazeera-9> .
+ <http://example.org/Memorandum> <http://dbpedia.org/ontology/mentions> <http://example.org/Telegram> <TikTok-Al-Jazeera-9> .
+ <http://example.org/JoeBiden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-9> .
+ <http://example.org/GregGianforte> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-9> .
+ <http://example.org/WeChat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <TikTok-Al-Jazeera-9> .
+ <http://example.org/TikTok> <http://dbpedia.org/ontology/developer> <http://TikTok-Al-Jazeera-9.com/blank#n45716997b06d49018bbce2142133ff63b1>  <TikTok-Al-Jazeera-9> .
+ <http://example.org/TikTokStatement> <http://schema.org/spokesperson> <http://TikTok-Al-Jazeera-9.com/blank#n45716997b06d49018bbce2142133ff63b5>  <TikTok-Al-Jazeera-9> .
+ <http://example.org/AntiTikTokLegislation> <http://dbpedia.org/ontology/startDate> "2024-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-Al-Jazeera-9> .
+ <http://example.org/InformationCommissionersOffice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <TikTok-Al-Jazeera-9> .
+ <http://TikTok-Al-Jazeera-9.com/blank#n45716997b06d49018bbce2142133ff63b6> <http://dbpedia.org/ontology/reason> "mishandling the data of child users"  <TikTok-Al-Jazeera-9> .
+ <http://example.org/AntiTikTokLegislation> <http://dbpedia.org/ontology/enactedBy> <http://example.org/GregGianforte> <TikTok-Al-Jazeera-9> .
+ <http://example.org/ShouZiChew> <http://xmlns.com/foaf/0.1/name> "Shou Zi Chew"  <TikTok-Al-Jazeera-9> .
+ <http://example.org/TikTokStatement> <http://schema.org/author> <http://example.org/TikTok> <TikTok-Al-Jazeera-9> .
+ <http://TikTok-Al-Jazeera-9.com/blank#n45716997b06d49018bbce2142133ff63b1> <http://xmlns.com/foaf/0.1/name> "ByteDance"  <TikTok-Al-Jazeera-9> .
+ <http://example.org/Montana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <TikTok-Al-Jazeera-9> .
+ <http://example.org/ShouZiChew> <http://dbpedia.org/ontology/position> "CEO of TikTok"  <TikTok-Al-Jazeera-9> .
+ <http://TikTok-Al-Jazeera-9.com/blank#n45716997b06d49018bbce2142133ff63b3> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/China> <TikTok-Al-Jazeera-9> .
+ <http://example.org/DonaldTrump> <http://xmlns.com/foaf/0.1/name> "Donald Trump"  <TikTok-Al-Jazeera-9> .
+ <http://TikTok-Al-Jazeera-9.com/blank#n45716997b06d49018bbce2142133ff63b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-Al-Jazeera-9> .
+ <http://example.org/JoeBiden> <http://xmlns.com/foaf/0.1/name> "Joe Biden"  <TikTok-Al-Jazeera-9> .
+ <http://TikTok-Al-Jazeera-9.com/blank#n45716997b06d49018bbce2142133ff63b2> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/United_States> <TikTok-Al-Jazeera-9> .
+ <http://example.org/Memorandum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Document> <TikTok-Al-Jazeera-9> .
+ <http://example.org/OracleCorporation> <http://xmlns.com/foaf/0.1/name> "Oracle Corporation"  <TikTok-Al-Jazeera-9> .
+ <http://example.org/TikTokStatement> <http://schema.org/text> "We want to reassure Montanas that they can continue using TikTok to express themselves, earn a living and find community as we continue to defend the rights of our users inside and outside of Montana."  <TikTok-Al-Jazeera-9> .
+ <http://example.org/WeChat> <http://xmlns.com/foaf/0.1/name> "WeChat"  <TikTok-Al-Jazeera-9> .
+ <http://example.org/AntiTikTokLegislation> <http://schema.org/about> <http://example.org/TikTok> <TikTok-Al-Jazeera-9> .
+ <http://TikTok-Al-Jazeera-9.com/blank#n45716997b06d49018bbce2142133ff63b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <TikTok-Al-Jazeera-9> .
+ <http://example.org/ACLUStatement> <http://schema.org/author> <http://example.org/ACLU> <TikTok-Al-Jazeera-9> .
+ <http://example.org/Telegram> <http://dbpedia.org/ontology/founder> <http://TikTok-Al-Jazeera-9.com/blank#n45716997b06d49018bbce2142133ff63b4>  <TikTok-Al-Jazeera-9> .
+ <http://example.org/OracleCorporation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <TikTok-Al-Jazeera-9> .
+ <http://TikTok-Al-Jazeera-9.com/blank#n45716997b06d49018bbce2142133ff63b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <TikTok-Al-Jazeera-9> .
+ <http://example.org/ACLUStatement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPosting> <TikTok-Al-Jazeera-9> .
+ <http://TikTok-Al-Jazeera-9.com/blank#n45716997b06d49018bbce2142133ff63b4> <http://xmlns.com/foaf/0.1/name> "Pavel Durov"  <TikTok-Al-Jazeera-9> .
+ <http://example.org/ACLU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <TikTok-Al-Jazeera-9> .
+ <http://example.org/GregGianforte> <http://xmlns.com/foaf/0.1/name> "Greg Gianforte"  <TikTok-Al-Jazeera-9> .
+ <http://example.org/AntiTikTokLegislation> <http://dbpedia.org/ontology/location> <http://example.org/Montana> <TikTok-Al-Jazeera-9> .
+ <http://example.org/InformationCommissionersOffice> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/United_Kingdom> <TikTok-Al-Jazeera-9> .
+ <http://example.org/ACLUStatement> <http://schema.org/datePublished> "2023-03-29"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-Al-Jazeera-9> .
+ <http://example.org/TikTokStatement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPosting> <TikTok-Al-Jazeera-9> .

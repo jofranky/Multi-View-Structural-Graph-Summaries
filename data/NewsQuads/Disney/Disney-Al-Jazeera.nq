@@ -1,0 +1,719 @@
+ <http://example.org/DisneyPlusAdSupportedPlan> <http://schema.org/price> "7.99"^^<http://www.w3.org/2001/XMLSchema#float>  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyEarningsPerShare> <http://schema.org/unitText> "USD"  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyStreamingProfit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/TypeAndQuantityNode> <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyFinancials> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyEarningsPerShare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyPlusHotstar> <http://schema.org/offers> <http://example.org/DisneyPlusHotstarForecast> <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyPlusSubscriberCount> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyPlusSubscriberForecastNewRange> <http://schema.org/maxValue> "245 million"^^<http://www.w3.org/2001/XMLSchema#integer>  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyPlusSubscriberCount> <http://schema.org/value> "221.1 million"^^<http://www.w3.org/2001/XMLSchema#integer>  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyPlus> <http://schema.org/name> "Disney+"  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyStreamingProfit> <http://schema.org/unitCode> "profit"  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyOperatingIncome> <http://schema.org/value> "3.6 billion"^^<http://www.w3.org/2001/XMLSchema#float>  <Disney-Al-Jazeera-0> .
+ <http://example.org/WaltDisneyCo> <http://schema.org/owns> <http://example.org/ESPNPlus> <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyStreamingProfitForecast> <http://schema.org/includesObject> <http://example.org/DisneyStreamingProfit> <Disney-Al-Jazeera-0> .
+ <http://example.org/Hulu> <http://schema.org/offers> <http://example.org/HuluPlanIncrease> <Disney-Al-Jazeera-0> .
+ <http://example.org/WaltDisneyCo> <http://schema.org/location> <http://example.org/India> <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyPlusAdSupportedPlan> <http://schema.org/availabilityStarts> "2022-12-08"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyShares> <http://schema.org/offers> <http://example.org/DisneySharesAfterHours> <Disney-Al-Jazeera-0> .
+ <http://example.org/NetflixInc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyOnlineAdvertisementShare> <http://schema.org/propertyID> "OnlineAdvertisementShare"  <Disney-Al-Jazeera-0> .
+ <http://example.org/CricketRightsLoss> <http://schema.org/name> "Loss of cricket rights"  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyOperatingIncome> <http://schema.org/unitText> "USD"  <Disney-Al-Jazeera-0> .
+ <http://example.org/WaltDisneyCo> <http://schema.org/owns> <http://example.org/DisneyPlus> <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyPlus> <http://schema.org/offers> <http://example.org/DisneyPlusAdFreePlan> <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyPlusHotstarForecast> <http://schema.org/availabilityEnds> "2024-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyOperatingIncome> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyPlusHotstarCustomers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/QuantitativeValue> <Disney-Al-Jazeera-0> .
+ <http://example.org/WaltDisneyCo> <http://schema.org/startDate> "2017"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Disney-Al-Jazeera-0> .
+ <http://example.org/NetflixInc> <http://schema.org/numberOfEmployees> "220.7 million"^^<http://www.w3.org/2001/XMLSchema#integer>  <Disney-Al-Jazeera-0> .
+ <http://example.org/Hulu> <http://schema.org/name> "Hulu"  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyPlusAdFreePlan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyPlusSubscriberForecastNewRange> <http://schema.org/minValue> "215 million"^^<http://www.w3.org/2001/XMLSchema#integer>  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyStreamingProfit> <http://schema.org/amountOfThisGood> "1"^^<http://www.w3.org/2001/XMLSchema#integer>  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyStreamingService> <http://schema.org/offers> <http://example.org/DisneyStreamingProfitForecast> <Disney-Al-Jazeera-0> .
+ <http://example.org/ESPNPlus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyStreamingService> <http://schema.org/name> "Disney Streaming Service"  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyOnlineAdvertisementShare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> <Disney-Al-Jazeera-0> .
+ <http://example.org/WaltDisneyCo> <http://schema.org/numberOfEmployees> "221 million"^^<http://www.w3.org/2001/XMLSchema#integer>  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyPlus> <http://schema.org/offers> <http://example.org/DisneyPlusAdSupportedPlan> <Disney-Al-Jazeera-0> .
+ <http://example.org/HuluPlanIncrease> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> <Disney-Al-Jazeera-0> .
+ <http://example.org/CricketRightsLoss> <http://schema.org/location> <http://example.org/India> <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyEarningsPerShare> <http://schema.org/value> "1.09"^^<http://www.w3.org/2001/XMLSchema#float>  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyPlusHotstarCustomers> <http://schema.org/maxValue> "245 million"^^<http://www.w3.org/2001/XMLSchema#integer>  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneySharesAfterHours> <http://schema.org/priceCurrency> "USD"  <Disney-Al-Jazeera-0> .
+ <http://example.org/CricketRightsLoss> <http://schema.org/organizer> <http://example.org/WaltDisneyCo> <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyAdvertisementSales> <http://schema.org/unitText> "USD"  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyPlus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyOperatingIncome> <http://schema.org/propertyID> "OperatingIncome"  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyPlusSubscriberForecastNewRange> <http://schema.org/propertyID> "DisneyPlusSubscriberForecast"  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyShares> <http://schema.org/name> "Shares of Disney"  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyPlusAdFreePlan> <http://schema.org/priceCurrency> "USD"  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyAdvertisementSales> <http://schema.org/value> "9 billion"^^<http://www.w3.org/2001/XMLSchema#float>  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyPlusAdFreePlan> <http://schema.org/availabilityStarts> "2022-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Disney-Al-Jazeera-0> .
+ <http://example.org/CricketRightsLoss> <http://schema.org/result> <http://example.org/DisneyPlusSubscriberForecastAdjustment> <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyAdvertisementSales> <http://schema.org/additionalProperty> <http://example.org/DisneyOnlineAdvertisementShare> <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyFinancials> <http://schema.org/endDate> "2022-07-02"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyPlusSubscriberForecastNewRange> <http://schema.org/validThrough> "2024-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyPlusSubscriberCount> <http://schema.org/validThrough> "2022-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyPlusAdFreePlan> <http://schema.org/name> "Disney+ without advertising"  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyFinancials> <http://schema.org/additionalProperty> <http://example.org/DisneyRevenue> <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyPlusSubscriberForecastAdjustment> <http://schema.org/additionalProperty> <http://example.org/DisneyPlusSubscriberForecastNewRange> <Disney-Al-Jazeera-0> .
+ <http://example.org/HuluPlanIncrease> <http://schema.org/priceCurrency> "USD"  <Disney-Al-Jazeera-0> .
+ <http://example.org/HuluPlanIncrease> <http://schema.org/availabilityStarts> "2022-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyPlusHotstarForecast> <http://schema.org/availabilityStarts> "2022-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneySharesAfterHours> <http://schema.org/price> "120.15"^^<http://www.w3.org/2001/XMLSchema#float>  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyPlusHotstarCustomers> <http://schema.org/minValue> "215 million"^^<http://www.w3.org/2001/XMLSchema#integer>  <Disney-Al-Jazeera-0> .
+ <http://example.org/WaltDisneyCo> <http://schema.org/name> "Walt Disney Co"  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyAdvertisementSales> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Disney-Al-Jazeera-0> .
+ <http://example.org/CricketRightsLoss> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyPlusAdSupportedPlan> <http://schema.org/name> "Disney+ with advertisements"  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyStreamingProfitForecast> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneySharesAfterHours> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> <Disney-Al-Jazeera-0> .
+ <http://example.org/WaltDisneyCo> <http://schema.org/competitor> <http://example.org/NetflixInc> <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyRevenue> <http://schema.org/unitText> "USD"  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyRevenue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyPlusSubscriberCount> <http://schema.org/unitText> "streaming subscribers"  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyPlus> <http://schema.org/additionalProperty> <http://example.org/DisneyPlusSubscriberCount> <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyRevenue> <http://schema.org/propertyID> "Revenue"  <Disney-Al-Jazeera-0> .
+ <http://example.org/Hulu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyStreamingService> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <Disney-Al-Jazeera-0> .
+ <http://example.org/NetflixInc> <http://schema.org/name> "Netflix Inc"  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyFinancials> <http://schema.org/additionalProperty> <http://example.org/DisneyEarningsPerShare> <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyFinancials> <http://schema.org/startDate> "2022-07-02"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyPlusAdFreePlan> <http://schema.org/price> "10.99"^^<http://www.w3.org/2001/XMLSchema#float>  <Disney-Al-Jazeera-0> .
+ <http://example.org/ESPNPlus> <http://schema.org/name> "ESPN+"  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyShares> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneySharesAfterHours> <http://schema.org/availabilityStarts> "2022-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyPlusHotstar> <http://schema.org/name> "Disney+ Hotstar"  <Disney-Al-Jazeera-0> .
+ <http://example.org/WaltDisneyCo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyRevenue> <http://schema.org/value> "21.5 billion"^^<http://www.w3.org/2001/XMLSchema#float>  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyPlusAdSupportedPlan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyFinancials> <http://schema.org/additionalProperty> <http://example.org/DisneyOperatingIncome> <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyPlusHotstarForecast> <http://schema.org/eligibleCustomer> <http://example.org/DisneyPlusHotstarCustomers> <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyPlusSubscriberForecastAdjustment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Disney-Al-Jazeera-0> .
+ <http://example.org/HuluPlanIncrease> <http://schema.org/priceIncrease> "1-2"^^<http://www.w3.org/2001/XMLSchema#float>  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyStreamingProfitForecast> <http://schema.org/availabilityStarts> "2024"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyPlusHotstarForecast> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyPlusSubscriberCount> <http://schema.org/propertyID> "SubscriberCount"  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyEarningsPerShare> <http://schema.org/propertyID> "EarningsPerShare"  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyPlusSubscriberForecastNewRange> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyPlusHotstar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <Disney-Al-Jazeera-0> .
+ <http://example.org/WaltDisneyCo> <http://schema.org/owns> <http://example.org/Hulu> <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyOnlineAdvertisementShare> <http://schema.org/value> "40 percent"^^<http://www.w3.org/2001/XMLSchema#float>  <Disney-Al-Jazeera-0> .
+ <http://example.org/DisneyPlusAdSupportedPlan> <http://schema.org/priceCurrency> "USD"  <Disney-Al-Jazeera-0> .
+ <http://example.org/DeSantisVsDisney> <http://dbpedia.org/ontology/participant> <http://example.org/RonDeSantis> <Disney-Al-Jazeera-1> .
+ <http://example.org/DisneyLawsuitAgainstDeSantis> <http://dbpedia.org/ontology/opponent> <http://example.org/CentralFloridaTourismOversightDistrict> <Disney-Al-Jazeera-1> .
+ <http://example.org/RonDeSantis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-Al-Jazeera-1> .
+ <http://example.org/ReedyCreekImprovementDistrict> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Disney-Al-Jazeera-1> .
+ <http://example.org/ElonMusk> <http://xmlns.com/foaf/0.1/name> "Elon Musk"  <Disney-Al-Jazeera-1> .
+ <http://example.org/DisneyCorporateCampusCancellation> <http://dbpedia.org/ontology/related> <http://example.org/DeSantisVsDisney> <Disney-Al-Jazeera-1> .
+ <http://example.org/ElonMusk> <http://dbpedia.org/ontology/occupation> "Billionaire"  <Disney-Al-Jazeera-1> .
+ <http://example.org/DeSantisVsDisney> <http://dbpedia.org/ontology/startDate> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Disney-Al-Jazeera-1> .
+ <http://example.org/DisneyLawsuitAgainstDeSantis> <http://dbpedia.org/ontology/location> "Tallahassee, Florida"  <Disney-Al-Jazeera-1> .
+ <http://example.org/DisneyCorporateCampusCancellation> <http://dbpedia.org/ontology/participant> <http://example.org/WaltDisneyCo> <Disney-Al-Jazeera-1> .
+ <http://example.org/DisneyLawsuitAgainstDeSantis> <http://dbpedia.org/ontology/participant> <http://example.org/WaltDisneyCo> <Disney-Al-Jazeera-1> .
+ <http://example.org/TwitterSpaces> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <Disney-Al-Jazeera-1> .
+ <http://example.org/ReutersIpsosPoll> <http://dbpedia.org/ontology/result> <http://Disney-Al-Jazeera-1.com/blank#n0b24146d481d4b0eb467b0c0afd0cc1bb1>  <Disney-Al-Jazeera-1> .
+ <http://example.org/ElonMusk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-Al-Jazeera-1> .
+ <http://example.org/CentralFloridaTourismOversightDistrict> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Disney-Al-Jazeera-1> .
+ <http://Disney-Al-Jazeera-1.com/blank#n0b24146d481d4b0eb467b0c0afd0cc1bb2> <http://dbpedia.org/ontology/opinion> "less likely to support a political candidate who backs laws designed to punish a company for its political or cultural stances"  <Disney-Al-Jazeera-1> .
+ <http://example.org/WaltDisneyCo> <http://dbpedia.org/ontology/industry> "Media"  <Disney-Al-Jazeera-1> .
+ <http://example.org/DeSantisVsDisney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Disney-Al-Jazeera-1> .
+ <http://example.org/DisneyCorporateCampusCancellation> <http://dbpedia.org/ontology/description> "Cancellation of a nearly $1bn corporate campus in central Florida"  <Disney-Al-Jazeera-1> .
+ <http://example.org/RonDeSantis> <http://dbpedia.org/ontology/office> "Governor of Florida"  <Disney-Al-Jazeera-1> .
+ <http://example.org/WaltDisneyCo> <http://xmlns.com/foaf/0.1/name> "Walt Disney Co"  <Disney-Al-Jazeera-1> .
+ <http://example.org/BobChapek> <http://xmlns.com/foaf/0.1/name> "Bob Chapek"  <Disney-Al-Jazeera-1> .
+ <http://example.org/CentralFloridaTourismOversightDistrict> <http://www.w3.org/2000/01/rdf-schema#label> "Central Florida Tourism Oversight District"  <Disney-Al-Jazeera-1> .
+ <http://example.org/DisneyLawsuitAgainstDeSantis> <http://dbpedia.org/ontology/opponent> <http://example.org/RonDeSantis> <Disney-Al-Jazeera-1> .
+ <http://Disney-Al-Jazeera-1.com/blank#n0b24146d481d4b0eb467b0c0afd0cc1bb2> <http://dbpedia.org/ontology/percentage> "73"^^<http://www.w3.org/2001/XMLSchema#integer>  <Disney-Al-Jazeera-1> .
+ <http://example.org/DeSantisPresidentialRunAnnouncement> <http://dbpedia.org/ontology/participant> <http://example.org/ElonMusk> <Disney-Al-Jazeera-1> .
+ <http://example.org/ReedyCreekImprovementDistrict> <http://dbpedia.org/ontology/location> "Florida"  <Disney-Al-Jazeera-1> .
+ <http://example.org/DeSantisPresidentialRunAnnouncement> <http://dbpedia.org/ontology/platform> <http://example.org/TwitterSpaces> <Disney-Al-Jazeera-1> .
+ <http://example.org/DisneyLawsuitAgainstDeSantis> <http://dbpedia.org/ontology/date> "2023-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Disney-Al-Jazeera-1> .
+ <http://example.org/ReutersIpsosPoll> <http://dbpedia.org/ontology/subject> "DeSantis vs Disney battle"  <Disney-Al-Jazeera-1> .
+ <http://example.org/RonDeSantis> <http://dbpedia.org/ontology/party> "Republican"  <Disney-Al-Jazeera-1> .
+ <http://example.org/BobChapek> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-Al-Jazeera-1> .
+ <http://example.org/DeSantisVsDisney> <http://dbpedia.org/ontology/participant> <http://example.org/WaltDisneyCo> <Disney-Al-Jazeera-1> .
+ <http://example.org/DisneyCorporateCampusCancellation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Disney-Al-Jazeera-1> .
+ <http://example.org/DeSantisPresidentialRunAnnouncement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Disney-Al-Jazeera-1> .
+ <http://example.org/DisneyCorporateCampusCancellation> <http://dbpedia.org/ontology/date> "2023-05-18"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-Al-Jazeera-1> .
+ <http://example.org/DeSantisPresidentialRunAnnouncement> <http://dbpedia.org/ontology/participant> <http://example.org/RonDeSantis> <Disney-Al-Jazeera-1> .
+ <http://example.org/ReutersIpsosPoll> <http://dbpedia.org/ontology/participant> "Republican respondents"  <Disney-Al-Jazeera-1> .
+ <http://example.org/ReedyCreekImprovementDistrict> <http://dbpedia.org/ontology/foundingYear> "1967"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Disney-Al-Jazeera-1> .
+ <http://example.org/DeSantisVsDisney> <http://dbpedia.org/ontology/description> "Conflict between Florida Governor Ron DeSantis and Walt Disney Co over anti-LGBTQ law criticism and Reedy Creek Improvement District."  <Disney-Al-Jazeera-1> .
+ <http://example.org/BobIger> <http://xmlns.com/foaf/0.1/name> "Bob Iger"  <Disney-Al-Jazeera-1> .
+ <http://Disney-Al-Jazeera-1.com/blank#n0b24146d481d4b0eb467b0c0afd0cc1bb1> <http://dbpedia.org/ontology/opinion> "more favourable view of DeSantis"  <Disney-Al-Jazeera-1> .
+ <http://example.org/RonDeSantis> <http://xmlns.com/foaf/0.1/name> "Ron DeSantis"  <Disney-Al-Jazeera-1> .
+ <http://example.org/ReedyCreekImprovementDistrict> <http://dbpedia.org/ontology/areaTotal> "100 km²"^^<http://www.w3.org/2001/XMLSchema#double>  <Disney-Al-Jazeera-1> .
+ <http://example.org/BobIger> <http://dbpedia.org/ontology/position> "CEO of Walt Disney Co"  <Disney-Al-Jazeera-1> .
+ <http://example.org/DisneyLawsuitAgainstDeSantis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Disney-Al-Jazeera-1> .
+ <http://example.org/ReutersIpsosPoll> <http://dbpedia.org/ontology/date> "2023-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Disney-Al-Jazeera-1> .
+ <http://example.org/WaltDisneyCo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-Al-Jazeera-1> .
+ <http://Disney-Al-Jazeera-1.com/blank#n0b24146d481d4b0eb467b0c0afd0cc1bb1> <http://dbpedia.org/ontology/percentage> "44"^^<http://www.w3.org/2001/XMLSchema#integer>  <Disney-Al-Jazeera-1> .
+ <http://example.org/RonDeSantis> <http://xmlns.com/foaf/0.1/depiction> <https://example.org/RonDeSantisImage> <Disney-Al-Jazeera-1> .
+ <http://example.org/ReedyCreekImprovementDistrict> <http://www.w3.org/2000/01/rdf-schema#label> "Reedy Creek Improvement District"  <Disney-Al-Jazeera-1> .
+ <http://example.org/TwitterSpaces> <http://www.w3.org/2000/01/rdf-schema#label> "Twitter Spaces"  <Disney-Al-Jazeera-1> .
+ <http://example.org/WaltDisneyCo> <http://xmlns.com/foaf/0.1/homepage> <https://www.thewaltdisneycompany.com> <Disney-Al-Jazeera-1> .
+ <http://example.org/DisneyLawsuitAgainstDeSantis> <http://dbpedia.org/ontology/cause> "State efforts to exert greater control over Walt Disney World theme parks"  <Disney-Al-Jazeera-1> .
+ <http://example.org/BobChapek> <http://dbpedia.org/ontology/position> "then-CEO of Walt Disney Co"  <Disney-Al-Jazeera-1> .
+ <http://example.org/DeSantisPresidentialRunAnnouncement> <http://dbpedia.org/ontology/date> "2023-05-17"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-Al-Jazeera-1> .
+ <http://example.org/BobIger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-Al-Jazeera-1> .
+ <http://example.org/ReutersIpsosPoll> <http://dbpedia.org/ontology/result> <http://Disney-Al-Jazeera-1.com/blank#n0b24146d481d4b0eb467b0c0afd0cc1bb2>  <Disney-Al-Jazeera-1> .
+ <http://example.org/ReutersIpsosPoll> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Poll> <Disney-Al-Jazeera-1> .
+ <http://example.org/ontology#OwenDean> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Lawyer> <Disney-Al-Jazeera-2> .
+ <http://Disney-Al-Jazeera-2.com/blank#n1096b31ca55e4572b066b052232c7231b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/RoyaltyAgreement> <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#TheLionKing> <http://dbpedia.org/ontology/producer> <http://dbpedia.org/resource/The_Walt_Disney_Company> <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#TheLionSleepsTonight> <http://dbpedia.org/ontology/licensee> <http://dbpedia.org/resource/The_Walt_Disney_Company> <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#ElizabethGugu> <http://xmlns.com/foaf/0.1/familyName> "Linda"  <Disney-Al-Jazeera-2> .
+ <http://Disney-Al-Jazeera-2.com/blank#n1096b31ca55e4572b066b052232c7231b5> <http://dbpedia.org/ontology/beneficiary> <http://example.org/ontology#LindaFamily> <Disney-Al-Jazeera-2> .
+ <http://Disney-Al-Jazeera-2.com/blank#n1096b31ca55e4572b066b052232c7231b5> <http://dbpedia.org/ontology/paymentType> "Future royalties"  <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#TheLionKing> <http://dbpedia.org/ontology/featuring> <http://example.org/ontology#TheLionSleepsTonight> <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#CopyrightLegislation1911> <http://dbpedia.org/ontology/year> "1911"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Disney-Al-Jazeera-2> .
+ <http://Disney-Al-Jazeera-2.com/blank#n1096b31ca55e4572b066b052232c7231b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalWork> <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#Settlement> <http://dbpedia.org/ontology/includes> <http://Disney-Al-Jazeera-2.com/blank#n1096b31ca55e4572b066b052232c7231b4>  <Disney-Al-Jazeera-2> .
+ <http://Disney-Al-Jazeera-2.com/blank#n1096b31ca55e4572b066b052232c7231b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalWork> <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#Lawsuit> <http://dbpedia.org/ontology/status> "Settled"  <Disney-Al-Jazeera-2> .
+ <http://Disney-Al-Jazeera-2.com/blank#n1096b31ca55e4572b066b052232c7231b6> <http://dbpedia.org/ontology/creator> <http://dbpedia.org/resource/Pete_Seeger> <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#SolomonLinda> <http://xmlns.com/foaf/0.1/account> <http://Disney-Al-Jazeera-2.com/blank#n1096b31ca55e4572b066b052232c7231b1>  <Disney-Al-Jazeera-2> .
+ <http://Disney-Al-Jazeera-2.com/blank#n1096b31ca55e4572b066b052232c7231b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#Mbube> <http://dbpedia.org/ontology/recordLabel> <http://example.org/ontology#EveningBirds> <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#LindaFamily> <http://xmlns.com/foaf/0.1/member> <http://example.org/ontology#ElizabethGugu> <Disney-Al-Jazeera-2> .
+ <http://Disney-Al-Jazeera-2.com/blank#n1096b31ca55e4572b066b052232c7231b7> <http://dbpedia.org/ontology/lyricsLanguage> "English"  <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#ElizabethGugu> <http://schema.org/parent> <http://example.org/ontology#SolomonLinda> <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#Mbube> <http://dbpedia.org/ontology/year> "1939"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Disney-Al-Jazeera-2> .
+ <http://Disney-Al-Jazeera-2.com/blank#n1096b31ca55e4572b066b052232c7231b8> <http://dbpedia.org/ontology/entitles> <http://example.org/ontology#LindaFamily> <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#SolomonLinda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#Soweto> <http://xmlns.com/foaf/0.1/name> "Soweto"  <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#OwenDean> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/South_Africa> <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#AbileneMusic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#Lawsuit> <http://dbpedia.org/ontology/claimAmountUSD> "1.6 million"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#AbileneMusic> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/New_Jersey> <Disney-Al-Jazeera-2> .
+ <http://Disney-Al-Jazeera-2.com/blank#n1096b31ca55e4572b066b052232c7231b7> <http://dbpedia.org/ontology/creator> <http://dbpedia.org/resource/The_Tokens> <Disney-Al-Jazeera-2> .
+ <http://Disney-Al-Jazeera-2.com/blank#n1096b31ca55e4572b066b052232c7231b1> <http://schema.org/currency> "USD"  <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#OwenDean> <http://xmlns.com/foaf/0.1/name> "Owen Dean"  <Disney-Al-Jazeera-2> .
+ <http://Disney-Al-Jazeera-2.com/blank#n1096b31ca55e4572b066b052232c7231b3> <http://dbpedia.org/ontology/amount> "Undisclosed sum"  <Disney-Al-Jazeera-2> .
+ <http://Disney-Al-Jazeera-2.com/blank#n1096b31ca55e4572b066b052232c7231b4> <http://dbpedia.org/ontology/beneficiary> <http://example.org/ontology#LindaFamily> <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#Lawsuit> <http://dbpedia.org/ontology/participants> <http://dbpedia.org/resource/The_Walt_Disney_Company> <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#ElizabethGugu> <http://xmlns.com/foaf/0.1/name> "Elizabeth Gugu"  <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#TheLionSleepsTonight> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalWork> <Disney-Al-Jazeera-2> .
+ <http://Disney-Al-Jazeera-2.com/blank#n1096b31ca55e4572b066b052232c7231b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Settlement> <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#Mbube> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalWork> <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#EveningBirds> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Band> <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#TheLionSleepsTonight> <http://dbpedia.org/ontology/composer> <http://example.org/ontology#SolomonLinda> <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#LindaFamily> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Family> <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#Mbube> <http://xmlns.com/foaf/0.1/name> "Mbube"  <Disney-Al-Jazeera-2> .
+ <http://Disney-Al-Jazeera-2.com/blank#n1096b31ca55e4572b066b052232c7231b2> <http://dbpedia.org/ontology/location> <http://example.org/ontology#Soweto> <Disney-Al-Jazeera-2> .
+ <http://Disney-Al-Jazeera-2.com/blank#n1096b31ca55e4572b066b052232c7231b5> <http://dbpedia.org/ontology/scope> "Worldwide"  <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#TheLionKing> <http://dbpedia.org/ontology/releaseDate> "1994"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#Soweto> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/Johannesburg> <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#Lawsuit> <http://dbpedia.org/ontology/result> <http://Disney-Al-Jazeera-2.com/blank#n1096b31ca55e4572b066b052232c7231b3>  <Disney-Al-Jazeera-2> .
+ <http://Disney-Al-Jazeera-2.com/blank#n1096b31ca55e4572b066b052232c7231b7> <http://dbpedia.org/ontology/year> "1961"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Disney-Al-Jazeera-2> .
+ <http://Disney-Al-Jazeera-2.com/blank#n1096b31ca55e4572b066b052232c7231b6> <http://xmlns.com/foaf/0.1/name> "Wimoweh"  <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#EveningBirds> <http://xmlns.com/foaf/0.1/name> "The Evening Birds"  <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#AbileneMusic> <http://xmlns.com/foaf/0.1/name> "Abilene Music"  <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#CopyrightLegislation1911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Legislation> <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#TheLionKing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#Lawsuit> <http://dbpedia.org/ontology/participants> <http://example.org/ontology#AbileneMusic> <Disney-Al-Jazeera-2> .
+ <http://Disney-Al-Jazeera-2.com/blank#n1096b31ca55e4572b066b052232c7231b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/RoyaltyAgreement> <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#TheLionSleepsTonight> <http://dbpedia.org/ontology/copyrightHolder> <http://example.org/ontology#AbileneMusic> <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#Settlement> <http://dbpedia.org/ontology/includes> <http://Disney-Al-Jazeera-2.com/blank#n1096b31ca55e4572b066b052232c7231b5>  <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#Lawsuit> <http://dbpedia.org/ontology/cause> "Copyright claim"  <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#SolomonLinda> <http://xmlns.com/foaf/0.1/name> "Solomon Linda"  <Disney-Al-Jazeera-2> .
+ <http://Disney-Al-Jazeera-2.com/blank#n1096b31ca55e4572b066b052232c7231b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/OnlineAccount> <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#Lawsuit> <http://dbpedia.org/ontology/claimAmount> "10 million rand"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#SolomonLinda> <http://dbpedia.org/ontology/birthDate> "YEAR"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#TheLionKing> <http://xmlns.com/foaf/0.1/name> "The Lion King"  <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#TheLionSleepsTonight> <http://dbpedia.org/ontology/adaptation> <http://Disney-Al-Jazeera-2.com/blank#n1096b31ca55e4572b066b052232c7231b6>  <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#CopyrightLegislation1911> <http://dbpedia.org/ontology/provision> <http://Disney-Al-Jazeera-2.com/blank#n1096b31ca55e4572b066b052232c7231b8>  <Disney-Al-Jazeera-2> .
+ <http://Disney-Al-Jazeera-2.com/blank#n1096b31ca55e4572b066b052232c7231b3> <http://dbpedia.org/ontology/beneficiary> <http://example.org/ontology#LindaFamily> <Disney-Al-Jazeera-2> .
+ <http://Disney-Al-Jazeera-2.com/blank#n1096b31ca55e4572b066b052232c7231b4> <http://dbpedia.org/ontology/paymentType> "Back royalties"  <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#OwenDean> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#SolomonLinda> <http://dbpedia.org/ontology/knownFor> <http://example.org/ontology#Mbube> <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#Lawsuit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#ElizabethGugu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#SolomonLinda> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Composer> <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#Soweto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <Disney-Al-Jazeera-2> .
+ <http://Disney-Al-Jazeera-2.com/blank#n1096b31ca55e4572b066b052232c7231b1> <http://schema.org/accountBalance> "25"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#ElizabethGugu> <http://dbpedia.org/ontology/residence> <http://Disney-Al-Jazeera-2.com/blank#n1096b31ca55e4572b066b052232c7231b2>  <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#Mbube> <http://dbpedia.org/ontology/composer> <http://example.org/ontology#SolomonLinda> <Disney-Al-Jazeera-2> .
+ <http://Disney-Al-Jazeera-2.com/blank#n1096b31ca55e4572b066b052232c7231b8> <http://dbpedia.org/ontology/condition> "25 years after death"  <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#Lawsuit> <http://dbpedia.org/ontology/participants> <http://example.org/ontology#LindaFamily> <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#TheLionSleepsTonight> <http://dbpedia.org/ontology/adaptation> <http://Disney-Al-Jazeera-2.com/blank#n1096b31ca55e4572b066b052232c7231b7>  <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#SolomonLinda> <http://dbpedia.org/ontology/deathDate> "1962"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Disney-Al-Jazeera-2> .
+ <http://example.org/ontology#LindaFamily> <http://xmlns.com/foaf/0.1/member> <http://example.org/ontology#SolomonLinda> <Disney-Al-Jazeera-2> .
+ <http://Disney-Al-Jazeera-2.com/blank#n1096b31ca55e4572b066b052232c7231b8> <http://dbpedia.org/ontology/objective> "Renegotiate deals and secure better royalty terms"  <Disney-Al-Jazeera-2> .
+ <http://example.org/RelocationPlan> <http://schema.org/name> "Relocation of Disney Employees"  <Disney-Al-Jazeera-3> .
+ <http://example.org/LegalBattle> <http://schema.org/startDate> "2022-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Disney-Al-Jazeera-3> .
+ <http://example.org/InvestmentInFlorida> <http://schema.org/currency> "USD"^^<http://www.w3.org/2001/XMLSchema#string>  <Disney-Al-Jazeera-3> .
+ <http://example.org/LegalBattle> <http://schema.org/participant> <http://example.org/WaltDisneyCo> <Disney-Al-Jazeera-3> .
+ <http://example.org/Imagineers> <http://schema.org/name> "Imagineers"  <Disney-Al-Jazeera-3> .
+ <http://example.org/BobChapek> <http://schema.org/name> "Bob Chapek"  <Disney-Al-Jazeera-3> .
+ <http://example.org/WaltDisneyCo> <http://schema.org/subOrganization> <http://example.org/DisneyParks> <Disney-Al-Jazeera-3> .
+ <http://example.org/JobCreation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/QuantitativeValue> <Disney-Al-Jazeera-3> .
+ <http://example.org/CampusConstruction> <http://schema.org/description> "Construction project for relocating employees"  <Disney-Al-Jazeera-3> .
+ <http://example.org/OrlandoSentinel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Disney-Al-Jazeera-3> .
+ <http://example.org/RelocationPlan> <http://schema.org/location> <http://example.org/LakeNona> <Disney-Al-Jazeera-3> .
+ <http://example.org/RonDeSantis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-Al-Jazeera-3> .
+ <http://example.org/Imagineers> <http://schema.org/parentOrganization> <http://example.org/WaltDisneyCo> <Disney-Al-Jazeera-3> .
+ <http://example.org/EmployeeGroup> <http://schema.org/numberOfEmployees> "2000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Disney-Al-Jazeera-3> .
+ <http://example.org/InvestmentInFlorida> <http://schema.org/value> "17"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-Al-Jazeera-3> .
+ <http://example.org/CampusConstruction> <http://schema.org/organizer> <http://example.org/WaltDisneyCo> <Disney-Al-Jazeera-3> .
+ <http://example.org/EmployeeRelocation> <http://schema.org/location> <http://example.org/Florida> <Disney-Al-Jazeera-3> .
+ <http://example.org/RonDeSantis> <http://schema.org/jobTitle> "Florida Governor"  <Disney-Al-Jazeera-3> .
+ <http://example.org/WaltDisneyCo> <http://schema.org/employee> <http://example.org/EmployeeGroup> <Disney-Al-Jazeera-3> .
+ <http://example.org/TaxCredit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MonetaryAmount> <Disney-Al-Jazeera-3> .
+ <http://example.org/Florida> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <Disney-Al-Jazeera-3> .
+ <http://example.org/OrlandoSentinel> <http://schema.org/name> "Orlando Sentinel"  <Disney-Al-Jazeera-3> .
+ <http://example.org/InvestmentInFlorida> <http://schema.org/description> "Billion dollar investment in Florida over the next decade"  <Disney-Al-Jazeera-3> .
+ <http://example.org/JobCreation> <http://schema.org/description> "Number of jobs to be created over the next ten years"  <Disney-Al-Jazeera-3> .
+ <http://example.org/LegalBattle> <http://schema.org/participant> <http://example.org/RonDeSantis> <Disney-Al-Jazeera-3> .
+ <http://example.org/InvestorCall> <http://schema.org/description> "Discussion about company's investment and employment in Florida"  <Disney-Al-Jazeera-3> .
+ <http://example.org/BobChapek> <http://schema.org/jobTitle> "Former CEO of Walt Disney Co"  <Disney-Al-Jazeera-3> .
+ <http://example.org/Imagineers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Disney-Al-Jazeera-3> .
+ <http://example.org/InvestorCall> <http://schema.org/participant> <http://example.org/BobIger> <Disney-Al-Jazeera-3> .
+ <http://example.org/CampusConstruction> <http://schema.org/name> "Construction of the new campus"  <Disney-Al-Jazeera-3> .
+ <http://example.org/EmployeeRelocation> <http://schema.org/name> "Employee relocation to Florida"  <Disney-Al-Jazeera-3> .
+ <http://example.org/JoshDAmaro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-Al-Jazeera-3> .
+ <http://example.org/JoshDAmaro> <http://schema.org/email> "email@example.com"  <Disney-Al-Jazeera-3> .
+ <http://example.org/TaxCredit> <http://schema.org/value> "580"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-Al-Jazeera-3> .
+ <http://example.org/CampusConstructionCancellation> <http://schema.org/name> "Cancellation of the new campus construction"  <Disney-Al-Jazeera-3> .
+ <http://example.org/CampusConstruction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Disney-Al-Jazeera-3> .
+ <http://example.org/InvestorCall> <http://schema.org/organizer> <http://example.org/WaltDisneyCo> <Disney-Al-Jazeera-3> .
+ <http://example.org/RelocationPlan> <http://schema.org/endDate> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Disney-Al-Jazeera-3> .
+ <http://example.org/LakeNona> <http://schema.org/name> "Lake Nona"  <Disney-Al-Jazeera-3> .
+ <http://example.org/DisneyParks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Disney-Al-Jazeera-3> .
+ <http://example.org/WaltDisneyCo> <http://schema.org/location> <http://example.org/Florida> <Disney-Al-Jazeera-3> .
+ <http://example.org/InvestmentInFlorida> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MonetaryAmount> <Disney-Al-Jazeera-3> .
+ <http://example.org/EmployeeComplaints> <http://schema.org/description> "Complaints from employees who did not want to move across the country"  <Disney-Al-Jazeera-3> .
+ <http://example.org/WaltDisneyCo> <http://schema.org/name> "Walt Disney Co"  <Disney-Al-Jazeera-3> .
+ <http://example.org/BobIger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-Al-Jazeera-3> .
+ <http://example.org/JoshDAmaro> <http://schema.org/name> "Josh D’Amaro"  <Disney-Al-Jazeera-3> .
+ <http://example.org/TaxCredit> <http://schema.org/description> "Million dollar tax credit over 19 years"  <Disney-Al-Jazeera-3> .
+ <http://example.org/RelocationPlan> <http://schema.org/startDate> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Disney-Al-Jazeera-3> .
+ <http://example.org/CampusConstruction> <http://schema.org/location> <http://example.org/LakeNona> <Disney-Al-Jazeera-3> .
+ <http://example.org/BobIger> <http://schema.org/jobTitle> "CEO of Walt Disney Co"  <Disney-Al-Jazeera-3> .
+ <http://example.org/CampusConstructionCancellation> <http://schema.org/description> "Decision not to move forward with the construction of the campus"  <Disney-Al-Jazeera-3> .
+ <http://example.org/EmployeeComplaints> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Disney-Al-Jazeera-3> .
+ <http://example.org/EmployeeRelocation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Disney-Al-Jazeera-3> .
+ <http://example.org/WaltDisneyCo> <http://schema.org/legalName> "Walt Disney Company"  <Disney-Al-Jazeera-3> .
+ <http://example.org/BobIger> <http://schema.org/name> "Bob Iger"  <Disney-Al-Jazeera-3> .
+ <http://example.org/RelocationPlan> <http://schema.org/organizer> <http://example.org/WaltDisneyCo> <Disney-Al-Jazeera-3> .
+ <http://example.org/DisneyParks> <http://schema.org/employee> <http://example.org/JoshDAmaro> <Disney-Al-Jazeera-3> .
+ <http://example.org/RonDeSantis> <http://schema.org/name> "Ron DeSantis"  <Disney-Al-Jazeera-3> .
+ <http://example.org/RelocationPlan> <http://schema.org/description> "Plan to relocate employees from California to Florida"  <Disney-Al-Jazeera-3> .
+ <http://example.org/LegalBattle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Disney-Al-Jazeera-3> .
+ <http://example.org/CampusConstructionCancellation> <http://schema.org/organizer> <http://example.org/WaltDisneyCo> <Disney-Al-Jazeera-3> .
+ <http://example.org/WaltDisneyCo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Disney-Al-Jazeera-3> .
+ <http://example.org/InvestorCall> <http://schema.org/name> "Investor call with CEO Bob Iger"  <Disney-Al-Jazeera-3> .
+ <http://example.org/InvestorCall> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Disney-Al-Jazeera-3> .
+ <http://example.org/EmployeeComplaints> <http://schema.org/name> "Employee complaints about relocation"  <Disney-Al-Jazeera-3> .
+ <http://example.org/LakeNona> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <Disney-Al-Jazeera-3> .
+ <http://example.org/TaxCredit> <http://schema.org/currency> "USD"^^<http://www.w3.org/2001/XMLSchema#string>  <Disney-Al-Jazeera-3> .
+ <http://example.org/Florida> <http://schema.org/name> "Florida"  <Disney-Al-Jazeera-3> .
+ <http://example.org/DisneyParks> <http://schema.org/name> "Disney Parks"  <Disney-Al-Jazeera-3> .
+ <http://example.org/BobChapek> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-Al-Jazeera-3> .
+ <http://example.org/LegalBattle> <http://schema.org/name> "Legal battle between Florida Governor and Walt Disney Co"  <Disney-Al-Jazeera-3> .
+ <http://example.org/JoshDAmaro> <http://schema.org/jobTitle> "Disney parks chief"  <Disney-Al-Jazeera-3> .
+ <http://example.org/RelocationPlan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Disney-Al-Jazeera-3> .
+ <http://example.org/EmployeeRelocation> <http://schema.org/organizer> <http://example.org/WaltDisneyCo> <Disney-Al-Jazeera-3> .
+ <http://example.org/JobCreation> <http://schema.org/value> "13000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Disney-Al-Jazeera-3> .
+ <http://example.org/CampusConstructionCancellation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Disney-Al-Jazeera-3> .
+ <http://example.org/EmployeeRelocation> <http://schema.org/description> "Employees who have already relocated to Florida"  <Disney-Al-Jazeera-3> .
+ <http://example.org/EmployeeGroup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Disney-Al-Jazeera-3> .
+ <http://example.org/ontology#LegislationSigning> <http://dbpedia.org/ontology/description> "Ron DeSantis signs legislation granting state authority over Central Florida Tourism Oversight District."  <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#ParentalRightsInEducationAct> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Florida> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#WaltDisneyWorldResort> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AmusementPark> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#BobIger> <http://xmlns.com/foaf/0.1/name> "Bob Iger"  <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#LegislationSigning> <http://dbpedia.org/ontology/participant> <http://example.org/ontology#RonDeSantis> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#BobChapek> <http://xmlns.com/foaf/0.1/name> "Bob Chapek"  <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#CentralFloridaTourismOversightDistrict> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Florida> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#WaltDisneyWorldResort> <http://dbpedia.org/ontology/owner> <http://example.org/ontology#WaltDisneyCompany> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#DevelopmentAgreement> <http://dbpedia.org/ontology/duration> "P21Y"^^<http://www.w3.org/2001/XMLSchema#duration>  <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#LangleyStatement> <http://dbpedia.org/ontology/description> "Daniel Langley describes the development agreement as an attempt to circumvent the enabling act of the district."  <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#FutureDevelopmentPlans> <http://dbpedia.org/ontology/duration> "P10Y"^^<http://www.w3.org/2001/XMLSchema#duration>  <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#WaltDisneyWorldResort> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Florida> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#DevelopmentAgreement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agreement> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#ParentalRightsInEducationAct> <http://xmlns.com/foaf/0.1/name> "Parental Rights in Education Act"  <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#BattleWithDisney> <http://dbpedia.org/ontology/participant> <http://example.org/ontology#WaltDisneyCompany> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#RonDeSantis> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/State_of_Florida> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#BattleWithDisney> <http://dbpedia.org/ontology/participant> <http://example.org/ontology#RonDeSantis> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#CentralFloridaTourismOversightDistrict> <http://dbpedia.org/ontology/purpose> "Oversight of municipal services and development"  <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#ComprehensivePlan> <http://dbpedia.org/ontology/related> <http://example.org/ontology#DevelopmentAgreement> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#ComprehensivePlan> <http://dbpedia.org/ontology/subject> <http://example.org/ontology#WaltDisneyWorldResort> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#LegislationSigning> <http://dbpedia.org/ontology/date> "2023-03-29"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#RonDeSantis> <http://dbpedia.org/ontology/state> <http://dbpedia.org/resource/Florida> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#FutureDevelopmentPlans> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Plan> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#DanielLangley> <http://dbpedia.org/ontology/affiliation> <http://example.org/ontology#CentralFloridaTourismOversightDistrict> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#WaltDisneyCompany> <http://xmlns.com/foaf/0.1/name> "The Walt Disney Company"  <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#DeSantisStatement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#ComprehensivePlan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Plan> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#LegislationSigning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#BillToRevokeAgreement> <http://dbpedia.org/ontology/description> "Bill to revoke the special tax district agreement reached by Walt Disney Company."  <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#RonDeSantis> <http://xmlns.com/foaf/0.1/name> "Ron DeSantis"  <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#DeSantisStatement> <http://dbpedia.org/ontology/description> "Ron DeSantis announces intent to nullify Disney's development agreement."  <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#FutureDevelopmentPlans> <http://dbpedia.org/ontology/startDate> "2022-07-15"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#BattleWithDisney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#CapitalImprovements> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Project> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#SpecialDistrict> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AdministrativeRegion> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#BillToRevokeAgreement> <http://dbpedia.org/ontology/proposer> <http://example.org/ontology#RonDeSantis> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#ComprehensivePlan> <http://dbpedia.org/ontology/startDate> "2022-07-15"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#SpecialTaxDistrictAgreement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agreement> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#SpecialDistrict> <http://dbpedia.org/ontology/purpose> "Oversight of Walt Disney World Resort"  <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#CapitalImprovements> <http://dbpedia.org/ontology/cost> "527000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#DevelopmentAgreement> <http://dbpedia.org/ontology/signatory> <http://example.org/ontology#WaltDisneyCompany> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#DisneyEmployment> <http://dbpedia.org/ontology/description> "Disney employs some 75,000 people in Florida."  <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#LangleyStatement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#DisneyEmployment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#RonDeSantis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#DanielLangley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#CentralFloridaTourismOversightDistrict> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#DanielLangley> <http://xmlns.com/foaf/0.1/name> "Daniel Langley"  <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#DeSantisStatement> <http://dbpedia.org/ontology/participant> <http://example.org/ontology#RonDeSantis> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#WaltDisneyCompany> <http://dbpedia.org/ontology/numberOfEmployees> "75000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#WaltDisneyCompany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#IgerComments> <http://dbpedia.org/ontology/description> "Bob Iger calls the move by Florida lawmakers 'retaliation', 'anti-business', and 'anti-Florida'."  <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#DeSantisStatement> <http://dbpedia.org/ontology/date> "2023-02-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#SpecialTaxDistrictAgreement> <http://dbpedia.org/ontology/signatory> <http://example.org/ontology#WaltDisneyCompany> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#ParentalRightsInEducationAct> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Legislation> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#SpecialDistrict> <http://dbpedia.org/ontology/governmentType> "Special district"  <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#DevelopmentAgreement> <http://dbpedia.org/ontology/signatory> <http://example.org/ontology#CentralFloridaTourismOversightDistrict> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#SpecialDistrict> <http://dbpedia.org/ontology/leader> <http://example.org/ontology#RonDeSantis> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#SpecialDistrict> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Florida> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#FutureDevelopmentPlans> <http://dbpedia.org/ontology/related> <http://example.org/ontology#WaltDisneyWorldResort> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#DisneyEmployment> <http://dbpedia.org/ontology/numberOfParticipants> "75000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#CapitalImprovements> <http://dbpedia.org/ontology/related> <http://example.org/ontology#WaltDisneyWorldResort> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#BobChapek> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#RonDeSantis> <http://dbpedia.org/ontology/office> "Governor of Florida"  <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#BillToRevokeAgreement> <http://dbpedia.org/ontology/related> <http://example.org/ontology#SpecialTaxDistrictAgreement> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#LangleyStatement> <http://dbpedia.org/ontology/participant> <http://example.org/ontology#DanielLangley> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#DisneyEmployment> <http://dbpedia.org/ontology/participant> <http://example.org/ontology#WaltDisneyCompany> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#BobIger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#DanielLangley> <http://dbpedia.org/ontology/profession> "Attorney"  <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#IgerComments> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#BobChapek> <http://dbpedia.org/ontology/position> "Former Chief Executive of The Walt Disney Company"  <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#BillToRevokeAgreement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Legislation> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#BattleWithDisney> <http://dbpedia.org/ontology/description> "Ron DeSantis's battle against 'woke Disney' as part of his political agenda."  <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#RonDeSantis> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Republican_Party_(United_States)> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#DevelopmentAgreement> <http://dbpedia.org/ontology/subject> <http://example.org/ontology#WaltDisneyWorldResort> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#IgerComments> <http://dbpedia.org/ontology/participant> <http://example.org/ontology#BobIger> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#WaltDisneyCompany> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Florida> <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#LangleyStatement> <http://dbpedia.org/ontology/date> "2023-03-29"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#FutureDevelopmentPlans> <http://dbpedia.org/ontology/description> "Plans for a fifth major theme park, two minor parks, retail space, and hotel rooms."  <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#DevelopmentAgreement> <http://dbpedia.org/ontology/startDate> "2022-07-15"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-Al-Jazeera-4> .
+ <http://example.org/ontology#BobIger> <http://dbpedia.org/ontology/position> "CEO of The Walt Disney Company"  <Disney-Al-Jazeera-4> .
+ <http://example.org/SP500Index> <http://dbpedia.org/ontology/referencePeriod> "Year to date"^^<http://www.w3.org/2001/XMLSchema#string>  <Disney-Al-Jazeera-5> .
+ <http://example.org/BoardMembersAppointedByDeSantis> <http://schema.org/result> <http://example.org/CentralTourismOversightDistrictBoard> <Disney-Al-Jazeera-5> .
+ <http://example.org/VoidDevelopmentAgreementsAuthority> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Power> <Disney-Al-Jazeera-5> .
+ <http://example.org/RonDeSantis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-Al-Jazeera-5> .
+ <http://example.org/DisneyLawsuit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LegalAction> <Disney-Al-Jazeera-5> .
+ <http://example.org/NewBill> <http://schema.org/legislationDate> "2023-04-07"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-Al-Jazeera-5> .
+ <http://example.org/DisneyStock> <http://schema.org/name> "Disney's stock"  <Disney-Al-Jazeera-5> .
+ <http://example.org/BillSigning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LegislativeEvent> <Disney-Al-Jazeera-5> .
+ <http://example.org/CentralTourismOversightDistrictBoard> <http://dbpedia.org/ontology/leader> <http://example.org/RonDeSantis> <Disney-Al-Jazeera-5> .
+ <http://example.org/RonDeSantis> <http://dbpedia.org/ontology/office> "Governor of Florida"  <Disney-Al-Jazeera-5> .
+ <http://example.org/DisneyLawsuit> <http://schema.org/plaintiff> <http://example.org/WaltDisneyCo> <Disney-Al-Jazeera-5> .
+ <http://example.org/DisneyCriticism> <http://schema.org/startDate> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Disney-Al-Jazeera-5> .
+ <http://example.org/WaltDisneyCo> <http://xmlns.com/foaf/0.1/name> "Walt Disney Co"  <Disney-Al-Jazeera-5> .
+ <http://example.org/WaltDisneyCo> <http://xmlns.com/foaf/0.1/page> <https://www.thewaltdisneycompany.com> <Disney-Al-Jazeera-5> .
+ <http://example.org/BoardLawsuit> <http://schema.org/plaintiff> <http://example.org/CentralTourismOversightDistrictBoard> <Disney-Al-Jazeera-5> .
+ <http://example.org/SP500Index> <http://dbpedia.org/ontology/increase> "8 percent"^^<http://www.w3.org/2001/XMLSchema#string>  <Disney-Al-Jazeera-5> .
+ <http://example.org/CentralTourismOversightDistrictBoard> <http://dbpedia.org/ontology/predecessor> <http://example.org/ReedyCreekImprovementDistrict> <Disney-Al-Jazeera-5> .
+ <http://example.org/DisneyCriticism> <http://schema.org/name> "Criticism of Florida state law by Disney"  <Disney-Al-Jazeera-5> .
+ <http://example.org/NewBill> <http://schema.org/about> <http://example.org/CentralTourismOversightDistrictBoard> <Disney-Al-Jazeera-5> .
+ <http://example.org/NewBill> <http://schema.org/legislationPassedBy> <http://example.org/FloridaLegislature> <Disney-Al-Jazeera-5> .
+ <http://example.org/CentralTourismOversightDistrictBoard> <http://dbpedia.org/ontology/authority> <http://example.org/VoidDevelopmentAgreementsAuthority> <Disney-Al-Jazeera-5> .
+ <http://example.org/DisneyCriticism> <http://schema.org/description> "Disney criticised a new state law that banned discussions of sexual orientation and gender identity in schools."  <Disney-Al-Jazeera-5> .
+ <http://example.org/DisneyLawsuit> <http://schema.org/defendant> <http://example.org/RonDeSantis> <Disney-Al-Jazeera-5> .
+ <http://example.org/RonDeSantis> <http://xmlns.com/foaf/0.1/name> "Ron DeSantis"  <Disney-Al-Jazeera-5> .
+ <http://example.org/BoardLawsuit> <http://schema.org/caseType> "State court lawsuit"  <Disney-Al-Jazeera-5> .
+ <http://example.org/WaltDisneyWorld> <http://dbpedia.org/ontology/owner> <http://example.org/WaltDisneyCo> <Disney-Al-Jazeera-5> .
+ <http://example.org/WaltDisneyCo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-Al-Jazeera-5> .
+ <http://example.org/DisneyCriticism> <http://schema.org/eventStatus> <http://schema.org/EventCancelled> <Disney-Al-Jazeera-5> .
+ <http://example.org/NewBill> <http://schema.org/name> "Bill granting new board power to void development agreements"  <Disney-Al-Jazeera-5> .
+ <http://example.org/RonDeSantis> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <https://en.wikipedia.org/wiki/Ron_DeSantis> <Disney-Al-Jazeera-5> .
+ <http://example.org/ReedyCreekImprovementDistrict> <http://dbpedia.org/ontology/areaTotal> "25,000 acres"^^<http://www.w3.org/2001/XMLSchema#string>  <Disney-Al-Jazeera-5> .
+ <http://example.org/CentralTourismOversightDistrictBoard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Disney-Al-Jazeera-5> .
+ <http://example.org/DisneyLawsuit> <http://schema.org/description> "Accusing DeSantis of illegally using government power to punish the company for exercising its free speech rights."  <Disney-Al-Jazeera-5> .
+ <http://example.org/VoidDevelopmentAgreementsAuthority> <http://schema.org/validThrough> "Up to three months before the board’s creation"^^<http://www.w3.org/2001/XMLSchema#string>  <Disney-Al-Jazeera-5> .
+ <http://example.org/BurbankCalifornia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/City> <Disney-Al-Jazeera-5> .
+ <http://example.org/RonDeSantis> <http://schema.org/affiliation> <http://dbpedia.org/resource/Republican_Party_(United_States)> <Disney-Al-Jazeera-5> .
+ <http://example.org/BoardLawsuit> <http://schema.org/startDate> "2023-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Disney-Al-Jazeera-5> .
+ <http://example.org/BillSigning> <http://schema.org/organizer> <http://example.org/RonDeSantis> <Disney-Al-Jazeera-5> .
+ <http://example.org/CentralTourismOversightDistrictBoard> <http://dbpedia.org/ontology/appointment> <http://example.org/BoardMembersAppointedByDeSantis> <Disney-Al-Jazeera-5> .
+ <http://example.org/ReedyCreekImprovementDistrict> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Disney-Al-Jazeera-5> .
+ <http://example.org/BillSigning> <http://schema.org/legislationPassed> <http://example.org/NewBill> <Disney-Al-Jazeera-5> .
+ <http://example.org/FloridaLegislature> <http://xmlns.com/foaf/0.1/name> "Republican-controlled legislature"  <Disney-Al-Jazeera-5> .
+ <http://example.org/WaltDisneyWorld> <http://dbpedia.org/ontology/location> <http://example.org/CentralFlorida> <Disney-Al-Jazeera-5> .
+ <http://example.org/BillSigning> <http://schema.org/startDate> "2023-04-07"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-Al-Jazeera-5> .
+ <http://example.org/BoardMembersAppointedByDeSantis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Disney-Al-Jazeera-5> .
+ <http://example.org/VoidDevelopmentAgreementsAuthority> <http://schema.org/validFrom> "Creation of the board"^^<http://www.w3.org/2001/XMLSchema#string>  <Disney-Al-Jazeera-5> .
+ <http://example.org/DisneyStock> <http://dbpedia.org/ontology/increase> "16 percent"^^<http://www.w3.org/2001/XMLSchema#string>  <Disney-Al-Jazeera-5> .
+ <http://example.org/BoardLawsuit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LegalAction> <Disney-Al-Jazeera-5> .
+ <http://example.org/WaltDisneyWorld> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AmusementPark> <Disney-Al-Jazeera-5> .
+ <http://example.org/DisneyCriticism> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Disney-Al-Jazeera-5> .
+ <http://example.org/ReedyCreekImprovementDistrict> <http://dbpedia.org/ontology/location> <http://example.org/WaltDisneyWorld> <Disney-Al-Jazeera-5> .
+ <http://example.org/WaltDisneyCo> <http://dbpedia.org/ontology/numberOfEmployees> "Largest employer in central Florida"^^<http://www.w3.org/2001/XMLSchema#string>  <Disney-Al-Jazeera-5> .
+ <http://example.org/BurbankCalifornia> <http://dbpedia.org/ontology/state> <http://dbpedia.org/resource/California> <Disney-Al-Jazeera-5> .
+ <http://example.org/BoardLawsuit> <http://schema.org/defendant> <http://example.org/WaltDisneyCo> <Disney-Al-Jazeera-5> .
+ <http://example.org/DisneyStock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/FinancialProduct> <Disney-Al-Jazeera-5> .
+ <http://example.org/DisneyLawsuit> <http://schema.org/startDate> "2023-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Disney-Al-Jazeera-5> .
+ <http://example.org/NewBill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Legislation> <Disney-Al-Jazeera-5> .
+ <http://example.org/DisneyLawsuit> <http://schema.org/caseType> "Federal court lawsuit"  <Disney-Al-Jazeera-5> .
+ <http://example.org/BoardLawsuit> <http://schema.org/description> "Seeking to void 'backroom deals' favorable to Disney."  <Disney-Al-Jazeera-5> .
+ <http://example.org/SP500Index> <http://schema.org/name> "S&P 500 index"  <Disney-Al-Jazeera-5> .
+ <http://example.org/DisneyStock> <http://dbpedia.org/ontology/referencePeriod> "Year to date"^^<http://www.w3.org/2001/XMLSchema#string>  <Disney-Al-Jazeera-5> .
+ <http://example.org/BoardMembersAppointedByDeSantis> <http://schema.org/agent> <http://example.org/RonDeSantis> <Disney-Al-Jazeera-5> .
+ <http://example.org/BurbankCalifornia> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> <Disney-Al-Jazeera-5> .
+ <http://example.org/SP500Index> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/FinancialProduct> <Disney-Al-Jazeera-5> .
+ <http://example.org/FloridaLegislature> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Legislature> <Disney-Al-Jazeera-5> .
+ <http://example.org/WaltDisneyCo> <http://dbpedia.org/ontology/headquarter> <http://example.org/BurbankCalifornia> <Disney-Al-Jazeera-5> .
+ <http://example.org/RepublicanParty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Disney-Al-Jazeera-6> .
+ <http://example.org/RonDeSantis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-Al-Jazeera-6> .
+ <http://example.org/FloridaSpecialTaxDistrictBill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Legislation> <Disney-Al-Jazeera-6> .
+ <http://example.org/FloridaSpecialTaxDistrictBillSigning> <http://dbpedia.org/ontology/participant> <http://example.org/RonDeSantis> <Disney-Al-Jazeera-6> .
+ <http://example.org/OrlandoFloridaUS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <Disney-Al-Jazeera-6> .
+ <http://example.org/FloridaGovernor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/OfficeHolder> <Disney-Al-Jazeera-6> .
+ <http://example.org/TheCourageToBeFreeBook> <http://dbpedia.org/ontology/releaseDate> "2023-02-28"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-Al-Jazeera-6> .
+ <http://example.org/FloridaSpecialTaxDistrictBill> <http://dbpedia.org/ontology/dateSigned> "2023-03-06"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-Al-Jazeera-6> .
+ <http://example.org/FloridaLawmakers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Disney-Al-Jazeera-6> .
+ <http://example.org/RonDeSantis> <http://xmlns.com/foaf/0.1/age> "44"^^<http://www.w3.org/2001/XMLSchema#integer>  <Disney-Al-Jazeera-6> .
+ <http://example.org/TheCourageToBeFreeBook> <http://xmlns.com/foaf/0.1/name> "The Courage to Be Free"  <Disney-Al-Jazeera-6> .
+ <http://example.org/FloridaLawmakers> <http://xmlns.com/foaf/0.1/name> "Florida Lawmakers"  <Disney-Al-Jazeera-6> .
+ <http://example.org/DisneyShares> <http://dbpedia.org/ontology/date> "2023-03-06"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-Al-Jazeera-6> .
+ <http://example.org/RepublicanParty> <http://xmlns.com/foaf/0.1/name> "Republican Party"  <Disney-Al-Jazeera-6> .
+ <http://example.org/FloridaSpecialTaxDistrictBillSigning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Disney-Al-Jazeera-6> .
+ <http://example.org/UnitedStates> <http://xmlns.com/foaf/0.1/name> "United States"  <Disney-Al-Jazeera-6> .
+ <http://example.org/RonDeSantis> <http://dbpedia.org/ontology/knownFor> <http://example.org/TheCourageToBeFreeBook> <Disney-Al-Jazeera-6> .
+ <http://example.org/FloridaSpecialTaxDistrictBillSigning> <http://dbpedia.org/ontology/location> <http://example.org/LakeBuenaVista> <Disney-Al-Jazeera-6> .
+ <http://example.org/FloridaSpecialTaxDistrictBillSigning> <http://dbpedia.org/ontology/date> "2023-03-06"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-Al-Jazeera-6> .
+ <http://example.org/FloridaSpecialTaxDistrictBill> <http://dbpedia.org/ontology/legislationResponsible> <http://example.org/FloridaGovernor> <Disney-Al-Jazeera-6> .
+ <http://example.org/ThemedEntertainmentAssociation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Disney-Al-Jazeera-6> .
+ <http://example.org/DisneyShares> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FinancialAsset> <Disney-Al-Jazeera-6> .
+ <http://example.org/RonDeSantis> <http://dbpedia.org/ontology/politicalParty> <http://example.org/RepublicanParty> <Disney-Al-Jazeera-6> .
+ <http://example.org/ChiefExecutiveOfficer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobTitle> <Disney-Al-Jazeera-6> .
+ <http://example.org/RonDeSantis> <http://dbpedia.org/ontology/office> "Governor of Florida"  <Disney-Al-Jazeera-6> .
+ <http://example.org/LakeBuenaVista> <http://dbpedia.org/ontology/location> <http://example.org/OrlandoFloridaUS> <Disney-Al-Jazeera-6> .
+ <http://example.org/WaltDisneyCo> <http://xmlns.com/foaf/0.1/name> "Walt Disney Co"  <Disney-Al-Jazeera-6> .
+ <http://example.org/WaltDisneyWorld> <http://dbpedia.org/ontology/location> <http://example.org/OrlandoFloridaUS> <Disney-Al-Jazeera-6> .
+ <http://example.org/BobChapek> <http://xmlns.com/foaf/0.1/name> "Bob Chapek"  <Disney-Al-Jazeera-6> .
+ <http://example.org/ThemedEntertainmentAssociation> <http://xmlns.com/foaf/0.1/name> "Themed Entertainment Association"  <Disney-Al-Jazeera-6> .
+ <http://example.org/FloridaSpecialTaxDistrictBill> <http://dbpedia.org/ontology/signatory> <http://example.org/RonDeSantis> <Disney-Al-Jazeera-6> .
+ <http://example.org/RonDeSantis> <http://schema.org/jobTitle> "Governor"  <Disney-Al-Jazeera-6> .
+ <http://example.org/RonDeSantis> <http://dbpedia.org/ontology/candidate> <http://example.org/UnitedStatesPresidentialElection2024> <Disney-Al-Jazeera-6> .
+ <http://example.org/WaltDisneyWorld> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AmusementPark> <Disney-Al-Jazeera-6> .
+ <http://example.org/TheCourageToBeFreeBook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Book> <Disney-Al-Jazeera-6> .
+ <http://example.org/GovernorOfFlorida> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Office> <Disney-Al-Jazeera-6> .
+ <http://example.org/TheCourageToBeFreeBook> <http://dbpedia.org/ontology/author> <http://example.org/RonDeSantis> <Disney-Al-Jazeera-6> .
+ <http://example.org/BobChapek> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-Al-Jazeera-6> .
+ <http://example.org/BobChapek> <http://dbpedia.org/ontology/position> <http://example.org/ChiefExecutiveOfficer> <Disney-Al-Jazeera-6> .
+ <http://example.org/OrlandoFloridaUS> <http://xmlns.com/foaf/0.1/name> "Orlando, Florida"  <Disney-Al-Jazeera-6> .
+ <http://example.org/RonDeSantis> <http://xmlns.com/foaf/0.1/name> "Ron DeSantis"  <Disney-Al-Jazeera-6> .
+ <http://example.org/WaltDisneyWorld> <http://dbpedia.org/ontology/numberOfVisitors> "36200000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Disney-Al-Jazeera-6> .
+ <http://example.org/OrlandoFloridaUS> <http://dbpedia.org/ontology/country> <http://example.org/UnitedStates> <Disney-Al-Jazeera-6> .
+ <http://example.org/WaltDisneyWorld> <http://dbpedia.org/ontology/owner> <http://example.org/WaltDisneyCo> <Disney-Al-Jazeera-6> .
+ <http://example.org/ChiefExecutiveOfficer> <http://xmlns.com/foaf/0.1/name> "Chief Executive Officer"  <Disney-Al-Jazeera-6> .
+ <http://example.org/WaltDisneyWorld> <http://dbpedia.org/ontology/numberOfEmployees> "75000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Disney-Al-Jazeera-6> .
+ <http://example.org/WaltDisneyCo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-Al-Jazeera-6> .
+ <http://example.org/LakeBuenaVista> <http://xmlns.com/foaf/0.1/name> "Lake Buena Vista"  <Disney-Al-Jazeera-6> .
+ <http://example.org/UnitedStatesPresidentialElection2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Disney-Al-Jazeera-6> .
+ <http://example.org/LakeBuenaVista> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <Disney-Al-Jazeera-6> .
+ <http://example.org/UnitedStates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <Disney-Al-Jazeera-6> .
+ <http://example.org/DisneyShares> <http://dbpedia.org/ontology/quotedValue> "0.4"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-Al-Jazeera-6> .
+ <http://example.org/RonDeSantis> <http://dbpedia.org/ontology/birthDate> "1978-09-14"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-Al-Jazeera-6> .
+ <http://example.org/BobChapek> <http://dbpedia.org/ontology/employer> <http://example.org/WaltDisneyCo> <Disney-Al-Jazeera-6> .
+ <http://example.org/RonDeSantis> <http://dbpedia.org/ontology/knownFor> <http://example.org/FloridaSpecialTaxDistrictBillSigning> <Disney-Al-Jazeera-6> .
+ <http://example.org/FloridaGovernor> <http://dbpedia.org/ontology/office> <http://example.org/GovernorOfFlorida> <Disney-Al-Jazeera-6> .
+ <http://example.org/UnitedStatesPresidentialElection2024> <http://dbpedia.org/ontology/date> "2024-11-05"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-Al-Jazeera-6> .
+ <http://example.org/FloridaSpecialTaxDistrictBill> <http://dbpedia.org/ontology/author> <http://example.org/FloridaLawmakers> <Disney-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Ron_DeSantis> <http://xmlns.com/foaf/0.1/name> "Ron DeSantis"  <Disney-Al-Jazeera-7> .
+ <http://Disney-Al-Jazeera-7.com/blank#n20e5e78f7c774d4e8bf8f33ba09c7aabb2> <http://dbpedia.org/ontology/date> "Wednesday"  <Disney-Al-Jazeera-7> .
+ <http://Disney-Al-Jazeera-7.com/blank#n20e5e78f7c774d4e8bf8f33ba09c7aabb6> <http://xmlns.com/foaf/0.1/name> "Martin Garcia"  <Disney-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Ron_DeSantis> <http://dbpedia.org/ontology/party> <http://dbpedia.org/resource/Republican_Party_(United_States)> <Disney-Al-Jazeera-7> .
+ <http://example.org/CentralFloridaTourismOversightBoard> <http://schema.org/meetingOutcome> "declared that agreement void"  <Disney-Al-Jazeera-7> .
+ <http://example.org/Disney> <http://schema.org/dateFounded> "1971"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Disney-Al-Jazeera-7> .
+ <http://Disney-Al-Jazeera-7.com/blank#n20e5e78f7c774d4e8bf8f33ba09c7aabb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-Al-Jazeera-7> .
+ <http://Disney-Al-Jazeera-7.com/blank#n20e5e78f7c774d4e8bf8f33ba09c7aabb8> <http://schema.org/description> "less likely to support a political candidate who backs laws designed to punish a company for its political or cultural stances"  <Disney-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Ron_DeSantis> <http://schema.org/potentialCandidate> "US presidential contender"^^<http://www.w3.org/2001/XMLSchema#string>  <Disney-Al-Jazeera-7> .
+ <http://Disney-Al-Jazeera-7.com/blank#n20e5e78f7c774d4e8bf8f33ba09c7aabb3> <http://schema.org/legislationStatus> "unlawful"^^<http://www.w3.org/2001/XMLSchema#string>  <Disney-Al-Jazeera-7> .
+ <http://Disney-Al-Jazeera-7.com/blank#n20e5e78f7c774d4e8bf8f33ba09c7aabb2> <http://schema.org/description> "asking a court to overturn state efforts to control the Walt Disney World theme parks"  <Disney-Al-Jazeera-7> .
+ <http://example.org/Disney> <http://xmlns.com/foaf/0.1/name> "Walt Disney Co"  <Disney-Al-Jazeera-7> .
+ <http://Disney-Al-Jazeera-7.com/blank#n20e5e78f7c774d4e8bf8f33ba09c7aabb4> <http://xmlns.com/foaf/0.1/name> "Jeremy Redfern"  <Disney-Al-Jazeera-7> .
+ <http://example.org/Disney> <http://schema.org/founder> <http://dbpedia.org/resource/Walt_Disney> <Disney-Al-Jazeera-7> .
+ <http://Disney-Al-Jazeera-7.com/blank#n20e5e78f7c774d4e8bf8f33ba09c7aabb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-Al-Jazeera-7> .
+ <http://example.org/Disney> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Florida> <Disney-Al-Jazeera-7> .
+ <http://Disney-Al-Jazeera-7.com/blank#n20e5e78f7c774d4e8bf8f33ba09c7aabb4> <http://schema.org/memberOf> "DeSantis's team"  <Disney-Al-Jazeera-7> .
+ <http://example.org/Disney> <http://dbpedia.org/ontology/numberOfEmployees> "75000"^^<http://www.w3.org/2001/XMLSchema#int>  <Disney-Al-Jazeera-7> .
+ <http://example.org/Disney> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Entertainment> <Disney-Al-Jazeera-7> .
+ <http://example.org/Disney> <http://dbpedia.org/ontology/owner> <http://Disney-Al-Jazeera-7.com/blank#n20e5e78f7c774d4e8bf8f33ba09c7aabb1>  <Disney-Al-Jazeera-7> .
+ <http://Disney-Al-Jazeera-7.com/blank#n20e5e78f7c774d4e8bf8f33ba09c7aabb5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPosting> <Disney-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Ron_DeSantis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Politician> <Disney-Al-Jazeera-7> .
+ <http://example.org/CentralFloridaTourismOversightBoard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Disney-Al-Jazeera-7> .
+ <http://Disney-Al-Jazeera-7.com/blank#n20e5e78f7c774d4e8bf8f33ba09c7aabb6> <http://schema.org/jobTitle> "Chairman"  <Disney-Al-Jazeera-7> .
+ <http://example.org/CentralFloridaTourismOversightBoard> <http://dbpedia.org/ontology/chairman> <http://Disney-Al-Jazeera-7.com/blank#n20e5e78f7c774d4e8bf8f33ba09c7aabb6>  <Disney-Al-Jazeera-7> .
+ <http://example.org/DisneyShares> <http://dbpedia.org/ontology/tradingSymbol> "DIS"  <Disney-Al-Jazeera-7> .
+ <http://Disney-Al-Jazeera-7.com/blank#n20e5e78f7c774d4e8bf8f33ba09c7aabb2> <http://dbpedia.org/ontology/result> <http://Disney-Al-Jazeera-7.com/blank#n20e5e78f7c774d4e8bf8f33ba09c7aabb3>  <Disney-Al-Jazeera-7> .
+ <http://Disney-Al-Jazeera-7.com/blank#n20e5e78f7c774d4e8bf8f33ba09c7aabb3> <http://schema.org/legislationType> "Florida’s legislative action"  <Disney-Al-Jazeera-7> .
+ <http://Disney-Al-Jazeera-7.com/blank#n20e5e78f7c774d4e8bf8f33ba09c7aabb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-Al-Jazeera-7> .
+ <http://Disney-Al-Jazeera-7.com/blank#n20e5e78f7c774d4e8bf8f33ba09c7aabb8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/QuantitativeValue> <Disney-Al-Jazeera-7> .
+ <http://Disney-Al-Jazeera-7.com/blank#n20e5e78f7c774d4e8bf8f33ba09c7aabb2> <http://schema.org/against> <http://dbpedia.org/resource/Ron_DeSantis> <Disney-Al-Jazeera-7> .
+ <http://example.org/Disney> <http://schema.org/legalName> "Walt Disney Company"  <Disney-Al-Jazeera-7> .
+ <http://example.org/FloridaRepublicanLawmakers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Disney-Al-Jazeera-7> .
+ <http://example.org/CentralFloridaTourismOversightBoard> <http://schema.org/legalDecision> "Disney’s plans for potential expansion of the Walt Disney World Resort did not comply with state law"  <Disney-Al-Jazeera-7> .
+ <http://Disney-Al-Jazeera-7.com/blank#n20e5e78f7c774d4e8bf8f33ba09c7aabb7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Disney-Al-Jazeera-7> .
+ <http://Disney-Al-Jazeera-7.com/blank#n20e5e78f7c774d4e8bf8f33ba09c7aabb5> <http://schema.org/platform> "Twitter"  <Disney-Al-Jazeera-7> .
+ <http://example.org/ReutersIpsosPoll> <http://dbpedia.org/ontology/result> <http://Disney-Al-Jazeera-7.com/blank#n20e5e78f7c774d4e8bf8f33ba09c7aabb8>  <Disney-Al-Jazeera-7> .
+ <http://Disney-Al-Jazeera-7.com/blank#n20e5e78f7c774d4e8bf8f33ba09c7aabb3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Legislation> <Disney-Al-Jazeera-7> .
+ <http://example.org/DisneyShares> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Stock> <Disney-Al-Jazeera-7> .
+ <http://Disney-Al-Jazeera-7.com/blank#n20e5e78f7c774d4e8bf8f33ba09c7aabb7> <http://schema.org/description> "legislation that ended Disney’s virtual autonomy in developing 25,000 acres in central Florida where its theme parks are located"  <Disney-Al-Jazeera-7> .
+ <http://Disney-Al-Jazeera-7.com/blank#n20e5e78f7c774d4e8bf8f33ba09c7aabb8> <http://schema.org/value> "73"^^<http://www.w3.org/2001/XMLSchema#percent>  <Disney-Al-Jazeera-7> .
+ <http://example.org/FloridaRepublicanLawmakers> <http://dbpedia.org/ontology/politicalParty> <http://dbpedia.org/resource/Republican_Party_(United_States)> <Disney-Al-Jazeera-7> .
+ <http://Disney-Al-Jazeera-7.com/blank#n20e5e78f7c774d4e8bf8f33ba09c7aabb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Disney-Al-Jazeera-7> .
+ <http://example.org/Disney> <http://schema.org/slogan> "a relentless campaign to weaponize government power against Disney"  <Disney-Al-Jazeera-7> .
+ <http://example.org/Disney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-Al-Jazeera-7> .
+ <http://Disney-Al-Jazeera-7.com/blank#n20e5e78f7c774d4e8bf8f33ba09c7aabb1> <http://xmlns.com/foaf/0.1/name> "Bob Iger"  <Disney-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Ron_DeSantis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-Al-Jazeera-7> .
+ <http://example.org/Disney> <http://dbpedia.org/ontology/lawsuit> <http://Disney-Al-Jazeera-7.com/blank#n20e5e78f7c774d4e8bf8f33ba09c7aabb2>  <Disney-Al-Jazeera-7> .
+ <http://Disney-Al-Jazeera-7.com/blank#n20e5e78f7c774d4e8bf8f33ba09c7aabb5> <http://schema.org/text> "We are unaware of any legal right that a company has to operate its own government or maintain special privileges not held by other businesses in the state."  <Disney-Al-Jazeera-7> .
+ <http://Disney-Al-Jazeera-7.com/blank#n20e5e78f7c774d4e8bf8f33ba09c7aabb8> <http://schema.org/additionalType> "including 82 percent of Democrats and 63 percent of Republicans"  <Disney-Al-Jazeera-7> .
+ <http://example.org/DisneyShares> <http://schema.org/priceFluctuation> "up marginally"  <Disney-Al-Jazeera-7> .
+ <http://example.org/ReutersIpsosPoll> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Disney-Al-Jazeera-7> .
+ <http://Disney-Al-Jazeera-7.com/blank#n20e5e78f7c774d4e8bf8f33ba09c7aabb1> <http://schema.org/jobTitle> "Chief Executive"  <Disney-Al-Jazeera-7> .
+ <http://Disney-Al-Jazeera-7.com/blank#n20e5e78f7c774d4e8bf8f33ba09c7aabb8> <http://schema.org/additionalType> "respondents"  <Disney-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Ron_DeSantis> <http://dbpedia.org/ontology/spokesperson> <http://Disney-Al-Jazeera-7.com/blank#n20e5e78f7c774d4e8bf8f33ba09c7aabb4>  <Disney-Al-Jazeera-7> .
+ <http://Disney-Al-Jazeera-7.com/blank#n20e5e78f7c774d4e8bf8f33ba09c7aabb4> <http://xmlns.com/foaf/0.1/account> <http://Disney-Al-Jazeera-7.com/blank#n20e5e78f7c774d4e8bf8f33ba09c7aabb5>  <Disney-Al-Jazeera-7> .
+ <http://example.org/DisneyShares> <http://dbpedia.org/ontology/date> "Wednesday afternoon"^^<http://www.w3.org/2001/XMLSchema#string>  <Disney-Al-Jazeera-7> .
+ <http://example.org/FloridaRepublicanLawmakers> <http://dbpedia.org/ontology/legislation> <http://Disney-Al-Jazeera-7.com/blank#n20e5e78f7c774d4e8bf8f33ba09c7aabb7>  <Disney-Al-Jazeera-7> .
+ <http://example.org/Disney> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Walt_Disney_World> <Disney-Al-Jazeera-7> .
+ <http://example.org/ReutersIpsosPoll> <http://schema.org/about> "US Republican voters' support"  <Disney-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Ron_DeSantis> <http://dbpedia.org/ontology/occupation> "Governor of Florida"  <Disney-Al-Jazeera-7> .
+ <http://example.org/disney/lawsuit> <http://example.org/previousControlDuration> "55"^^<http://www.w3.org/2001/XMLSchema#integer>  <Disney-Al-Jazeera-8> .
+ <http://example.org/disney/lawsuit> <http://example.org/filedAgainst> <http://example.org/BoardMembers> <Disney-Al-Jazeera-8> .
+ <http://example.org/BoardMembers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Members> <Disney-Al-Jazeera-8> .
+ <http://example.org/LawsuitAgainstDisney> <http://example.org/against> <http://example.org/disney/Disney> <Disney-Al-Jazeera-8> .
+ <http://example.org/FeudWithDisney> <http://example.org/between> <http://example.org/government/GovernorRonDeSantis> <Disney-Al-Jazeera-8> .
+ <http://example.org/PresidentialBid> <http://example.org/by> <http://example.org/government/GovernorRonDeSantis> <Disney-Al-Jazeera-8> .
+ <http://example.org/FormerPresidentDonaldTrump> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/FormerPresident> <Disney-Al-Jazeera-8> .
+ <http://example.org/disney/DisneyOfficials> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Officials> <Disney-Al-Jazeera-8> .
+ <http://example.org/CommentRequest> <http://example.org/for> <http://example.org/Comment> <Disney-Al-Jazeera-8> .
+ <http://example.org/disney/lawsuit> <http://example.org/relatedTo> <http://example.org/ThemeParkDistrict> <Disney-Al-Jazeera-8> .
+ <http://example.org/government/GovernorRonDeSantis> <http://example.org/preparing> <http://example.org/PresidentialBid> <Disney-Al-Jazeera-8> .
+ <http://example.org/StateCourtOrlandoArea> <http://example.org/location> "Orlando area"  <Disney-Al-Jazeera-8> .
+ <http://example.org/FormerPresidentDonaldTrump> <http://example.org/name> "Donald Trump"  <Disney-Al-Jazeera-8> .
+ <http://example.org/disney/lawsuit> <http://example.org/filedIn> <http://example.org/FederalCourtTallahassee> <Disney-Al-Jazeera-8> .
+ <http://example.org/UnanimousVoteToSueDisney> <http://example.org/in> <http://example.org/StateCourtOrlandoArea> <Disney-Al-Jazeera-8> .
+ <http://example.org/RepublicanNomination> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/PoliticalNomination> <Disney-Al-Jazeera-8> .
+ <http://example.org/ThemeParkDistrict> <http://example.org/previousControlDuration> "55"^^<http://www.w3.org/2001/XMLSchema#integer>  <Disney-Al-Jazeera-8> .
+ <http://example.org/LawsuitAgainstDisney> <http://example.org/filedIn> <http://example.org/FederalCourtTallahassee> <Disney-Al-Jazeera-8> .
+ <http://example.org/CentralFloridaTourismOversightDistrict> <http://example.org/chair> <http://Disney-Al-Jazeera-8.com/blank#n9a2769c2cffc4b338e564e38ae665dcbb1>  <Disney-Al-Jazeera-8> .
+ <http://example.org/CommentRequest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Request> <Disney-Al-Jazeera-8> .
+ <http://example.org/GovernorsTakeover> <http://example.org/by> <http://example.org/government/GovernorRonDeSantis> <Disney-Al-Jazeera-8> .
+ <http://example.org/Board> <http://example.org/authorized> <http://example.org/LawsuitAgainstDisney> <Disney-Al-Jazeera-8> .
+ <http://example.org/associatedpress/email> <http://example.org/sentDate> "2023-04-24"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-Al-Jazeera-8> .
+ <http://example.org/FeudWithDisney> <http://example.org/over> <http://example.org/DontSayGayBill> <Disney-Al-Jazeera-8> .
+ <http://example.org/BoardMembers> <http://example.org/appointedBy> <http://example.org/government/GovernorRonDeSantis> <Disney-Al-Jazeera-8> .
+ <http://example.org/UnanimousVoteToSueDisney> <http://example.org/decision> <http://example.org/SueDisney> <Disney-Al-Jazeera-8> .
+ <http://example.org/disney/lawsuit> <http://example.org/filedDate> "2023-04-26"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-Al-Jazeera-8> .
+ <http://example.org/FeudWithDisney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Feud> <Disney-Al-Jazeera-8> .
+ <http://example.org/PresidentialBid> <http://example.org/expectedLaunchDate> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Disney-Al-Jazeera-8> .
+ <http://example.org/DemocraticParty> <http://example.org/name> "Democratic"  <Disney-Al-Jazeera-8> .
+ <http://example.org/WhiteHouseCorrespondentsDinner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Event> <Disney-Al-Jazeera-8> .
+ <http://example.org/disney/lawsuit> <http://example.org/filedAgainst> <http://example.org/Board> <Disney-Al-Jazeera-8> .
+ <http://example.org/FeudWithDisney> <http://example.org/duration> "1"^^<http://www.w3.org/2001/XMLSchema#integer>  <Disney-Al-Jazeera-8> .
+ <http://example.org/WhiteHouseCorrespondentsDinner> <http://example.org/speaker> <http://example.org/PresidentJoeBiden> <Disney-Al-Jazeera-8> .
+ <http://example.org/FederalCourtTallahassee> <http://example.org/location> "Tallahassee"  <Disney-Al-Jazeera-8> .
+ <http://example.org/StateCourtOrlandoArea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Court> <Disney-Al-Jazeera-8> .
+ <http://example.org/BoardMembers> <http://example.org/unanimousVote> <http://example.org/LawsuitAgainstDisney> <Disney-Al-Jazeera-8> .
+ <http://example.org/associatedpress/email> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Email> <Disney-Al-Jazeera-8> .
+ <http://example.org/UnanimousVoteToSueDisney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Vote> <Disney-Al-Jazeera-8> .
+ <http://example.org/ThemeParkDistrict> <http://example.org/name> "Disney World’s governing board"  <Disney-Al-Jazeera-8> .
+ <http://example.org/DemocraticParty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/PoliticalParty> <Disney-Al-Jazeera-8> .
+ <http://example.org/FormerPresidentDonaldTrump> <http://example.org/on> <http://example.org/SocialMedia> <Disney-Al-Jazeera-8> .
+ <http://example.org/FederalCourtTallahassee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Court> <Disney-Al-Jazeera-8> .
+ <http://example.org/disney/lawsuit> <http://example.org/asks> <http://example.org/Judge> <Disney-Al-Jazeera-8> .
+ <http://example.org/GovernorsTakeover> <http://example.org/previousControlledBy> <http://example.org/disney/Disney> <Disney-Al-Jazeera-8> .
+ <http://example.org/associatedpress/email> <http://example.org/sentBy> <http://example.org/AssociatedPressNewsAgency> <Disney-Al-Jazeera-8> .
+ <http://example.org/government/GovernorRonDeSantis> <http://example.org/appointed> <http://example.org/BoardMembers> <Disney-Al-Jazeera-8> .
+ <http://example.org/associatedpress/email> <http://example.org/regarding> <http://example.org/CommentRequest> <Disney-Al-Jazeera-8> .
+ <http://example.org/WhiteHouseCorrespondentsDinner> <http://example.org/date> "2023-04-29"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-Al-Jazeera-8> .
+ <http://example.org/disney/lawsuit> <http://example.org/filedAgainst> <http://example.org/government/GovernorRonDeSantis> <Disney-Al-Jazeera-8> .
+ <http://example.org/PresidentJoeBiden> <http://example.org/politicalAffiliation> <http://example.org/DemocraticParty> <Disney-Al-Jazeera-8> .
+ <http://example.org/DontSayGayBill> <http://example.org/opposedBy> <http://example.org/disney/Disney> <Disney-Al-Jazeera-8> .
+ <http://example.org/ThemeParkDistrict> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/District> <Disney-Al-Jazeera-8> .
+ <http://example.org/government/GovernorRonDeSantis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Governor> <Disney-Al-Jazeera-8> .
+ <http://example.org/FeudWithDisney> <http://example.org/between> <http://example.org/disney/Disney> <Disney-Al-Jazeera-8> .
+ <http://example.org/WhiteHouseCorrespondentsDinner> <http://example.org/mention> <http://example.org/FeudWithDisney> <Disney-Al-Jazeera-8> .
+ <http://example.org/PresidentJoeBiden> <http://example.org/name> "Joe Biden"  <Disney-Al-Jazeera-8> .
+ <http://example.org/PresidentJoeBiden> <http://example.org/jokedAbout> <http://example.org/government/GovernorRonDeSantis> <Disney-Al-Jazeera-8> .
+ <http://Disney-Al-Jazeera-8.com/blank#n9a2769c2cffc4b338e564e38ae665dcbb1> <http://example.org/name> "Martin Garcia"  <Disney-Al-Jazeera-8> .
+ <http://example.org/DontSayGayBill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Bill> <Disney-Al-Jazeera-8> .
+ <http://example.org/CentralFloridaTourismOversightDistrict> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/District> <Disney-Al-Jazeera-8> .
+ <http://example.org/LawsuitAgainstDisney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Lawsuit> <Disney-Al-Jazeera-8> .
+ <http://example.org/government/GovernorRonDeSantis> <http://example.org/involvedIn> <http://example.org/FeudWithDisney> <Disney-Al-Jazeera-8> .
+ <http://example.org/DontSayGayBill> <http://example.org/criticizedAs> "Don’t Say Gay"  <Disney-Al-Jazeera-8> .
+ <http://example.org/RepublicanNomination> <http://example.org/favorite> <http://example.org/FormerPresidentDonaldTrump> <Disney-Al-Jazeera-8> .
+ <http://Disney-Al-Jazeera-8.com/blank#n9a2769c2cffc4b338e564e38ae665dcbb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Person> <Disney-Al-Jazeera-8> .
+ <http://example.org/Board> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/GoverningBoard> <Disney-Al-Jazeera-8> .
+ <http://example.org/PresidentialBid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/PoliticalCampaign> <Disney-Al-Jazeera-8> .
+ <http://example.org/PresidentJoeBiden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/President> <Disney-Al-Jazeera-8> .
+ <http://example.org/GovernorsTakeover> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Takeover> <Disney-Al-Jazeera-8> .
+ <http://example.org/disney/lawsuit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Lawsuit> <Disney-Al-Jazeera-8> .
+ <http://example.org/Board> <http://example.org/members> <http://example.org/BoardMembers> <Disney-Al-Jazeera-8> .
+ <http://example.org/CentralFloridaTourismOversightDistrict> <http://example.org/vote> <http://example.org/UnanimousVoteToSueDisney> <Disney-Al-Jazeera-8> .
+ <http://example.org/LawsuitAgainstDisney> <http://example.org/filedIn> <http://example.org/StateCourtOrlandoArea> <Disney-Al-Jazeera-8> .
+ <http://example.org/FormerPresidentDonaldTrump> <http://example.org/criticized> <http://example.org/government/GovernorRonDeSantis> <Disney-Al-Jazeera-8> .
+ <http://example.org/GovernorsTakeover> <http://example.org/of> <http://example.org/ThemeParkDistrict> <Disney-Al-Jazeera-8> .
+ <http://example.org/disney/lawsuit> <http://example.org/toVoid> <http://example.org/GovernorsTakeover> <Disney-Al-Jazeera-8> .
+ <http://example.org/AssociatedPressNewsAgency> <http://example.org/name> "The Associated Press"  <Disney-Al-Jazeera-8> .
+ <http://example.org/AssociatedPressNewsAgency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/NewsAgency> <Disney-Al-Jazeera-8> .
+ <http://example.org/associatedpress/email> <http://example.org/sentTo> <http://example.org/disney/DisneyOfficials> <Disney-Al-Jazeera-8> .
+ <http://Disney-Al-Jazeera-9.com/blank#ne0e6d7f847094647b4c21b886a735561b1> <http://example.org/waltdisneyco/revenueComparisonYear> "2019"  <Disney-Al-Jazeera-9> .
+ <http://example.org/waltdisneyco/company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/waltdisneyco/EntertainmentCompany> <Disney-Al-Jazeera-9> .
+ <http://example.org/waltdisneyco/company> <http://example.org/waltdisneyco/stock> <http://Disney-Al-Jazeera-9.com/blank#ne0e6d7f847094647b4c21b886a735561b2>  <Disney-Al-Jazeera-9> .
+ <http://example.org/waltdisneyco/company> <http://example.org/waltdisneyco/restructuredMediaOperationsDate> "2020-10"  <Disney-Al-Jazeera-9> .
+ <http://example.org/waltdisneyco/movieStudio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/waltdisneyco/BusinessDivision> <Disney-Al-Jazeera-9> .
+ <http://example.org/finance/wallStreet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/finance/Entity> <Disney-Al-Jazeera-9> .
+ <http://Disney-Al-Jazeera-9.com/blank#ne0e6d7f847094647b4c21b886a735561b1> <http://example.org/waltdisneyco/operatingLossDirectToConsumerPreviousYear> "1110000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-Al-Jazeera-9> .
+ <http://Disney-Al-Jazeera-9.com/blank#ne0e6d7f847094647b4c21b886a735561b1> <http://example.org/waltdisneyco/operatingIncomeMedia> "1500000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-Al-Jazeera-9> .
+ <http://example.org/waltdisneyco/movieStudio> <http://example.org/waltdisneyco/releaseStatus> "delayed"  <Disney-Al-Jazeera-9> .
+ <http://example.org/waltdisneyco/movieStudio> <http://example.org/waltdisneyco/theatreStatus> "closed"  <Disney-Al-Jazeera-9> .
+ <http://Disney-Al-Jazeera-9.com/blank#ne0e6d7f847094647b4c21b886a735561b1> <http://example.org/waltdisneyco/estimatedCostsDueToClosures> "2600000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-Al-Jazeera-9> .
+ <http://Disney-Al-Jazeera-9.com/blank#ne0e6d7f847094647b4c21b886a735561b2> <http://example.org/waltdisneyco/afterHoursPrice> "197.76"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-Al-Jazeera-9> .
+ <http://example.org/waltdisneyco/company> <http://example.org/waltdisneyco/streamingMembershipIncludes> "Hulu, ESPN+"  <Disney-Al-Jazeera-9> .
+ <http://Disney-Al-Jazeera-9.com/blank#ne0e6d7f847094647b4c21b886a735561b1> <http://example.org/waltdisneyco/revenueDate> "2020-Q4"  <Disney-Al-Jazeera-9> .
+ <http://example.org/estimates/emarketerAnalyst> <http://example.org/estimates/comment> "Disney+ has been a massive success and is a testament to Disney’s brand equity and expertise in storytelling. This has been one of the most successful consumer product launches in recent memory."  <Disney-Al-Jazeera-9> .
+ <http://example.org/waltdisneyco/themeParks> <http://example.org/waltdisneyco/status> "closed"  <Disney-Al-Jazeera-9> .
+ <http://example.org/disneyplus/service> <http://example.org/disneyplus/subscriberCount> "94900000"^^<http://www.w3.org/2001/XMLSchema#int>  <Disney-Al-Jazeera-9> .
+ <http://Disney-Al-Jazeera-9.com/blank#ne0e6d7f847094647b4c21b886a735561b1> <http://example.org/waltdisneyco/earningsPerShare> "0.32"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-Al-Jazeera-9> .
+ <http://example.org/waltdisneyco/investors> <http://example.org/waltdisneyco/reaction> "welcomed"  <Disney-Al-Jazeera-9> .
+ <http://example.org/waltdisneyco/investors> <http://example.org/waltdisneyco/reason> "early success in streaming video wars"  <Disney-Al-Jazeera-9> .
+ <http://example.org/disneyplus/service> <http://example.org/disneyplus/subscriberCountDate> "2021-01-02"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-Al-Jazeera-9> .
+ <http://example.org/waltdisneyco/investors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/waltdisneyco/StakeholderGroup> <Disney-Al-Jazeera-9> .
+ <http://Disney-Al-Jazeera-9.com/blank#ne0e6d7f847094647b4c21b886a735561b2> <http://example.org/waltdisneyco/closeDate> "2021-02-Thursday"  <Disney-Al-Jazeera-9> .
+ <http://example.org/waltdisneyco/themeParks> <http://example.org/waltdisneyco/socialDistancingMeasure> "implemented"  <Disney-Al-Jazeera-9> .
+ <http://Disney-Al-Jazeera-9.com/blank#ne0e6d7f847094647b4c21b886a735561b1> <http://example.org/waltdisneyco/timePeriod> "2020-Q4"  <Disney-Al-Jazeera-9> .
+ <http://example.org/waltdisneyco/company> <http://example.org/waltdisneyco/streamingMembershipCount> "146000000"^^<http://www.w3.org/2001/XMLSchema#int>  <Disney-Al-Jazeera-9> .
+ <http://Disney-Al-Jazeera-9.com/blank#ne0e6d7f847094647b4c21b886a735561b1> <http://example.org/waltdisneyco/operatingProfitParksPreviousYear> "2520000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-Al-Jazeera-9> .
+ <http://Disney-Al-Jazeera-9.com/blank#ne0e6d7f847094647b4c21b886a735561b1> <http://example.org/waltdisneyco/estimatedSafetyCosts> "1000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-Al-Jazeera-9> .
+ <http://example.org/waltdisneyco/company> <http://example.org/waltdisneyco/reportedEarnings> <http://Disney-Al-Jazeera-9.com/blank#ne0e6d7f847094647b4c21b886a735561b1>  <Disney-Al-Jazeera-9> .
+ <http://example.org/disneyplus/service> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/disneyplus/StreamingService> <Disney-Al-Jazeera-9> .
+ <http://Disney-Al-Jazeera-9.com/blank#ne0e6d7f847094647b4c21b886a735561b1> <http://example.org/waltdisneyco/operatingLossDirectToConsumer> "466000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-Al-Jazeera-9> .
+ <http://example.org/finance/wallStreet> <http://example.org/finance/expectedEarningsPerShare> "-0.41"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-Al-Jazeera-9> .
+ <http://Disney-Al-Jazeera-9.com/blank#ne0e6d7f847094647b4c21b886a735561b1> <http://example.org/waltdisneyco/revenue> "16250000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-Al-Jazeera-9> .
+ <http://example.org/finance/wallStreet> <http://example.org/finance/averageRevenueEstimate> "15930000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-Al-Jazeera-9> .
+ <http://example.org/waltdisneyco/themeParks> <http://example.org/waltdisneyco/attendance> "limited"  <Disney-Al-Jazeera-9> .
+ <http://example.org/waltdisneyco/themeParks> <http://example.org/waltdisneyco/locations> "California, Hong Kong, Paris"  <Disney-Al-Jazeera-9> .
+ <http://example.org/waltdisneyco/themeParks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/waltdisneyco/BusinessDivision> <Disney-Al-Jazeera-9> .
+ <http://Disney-Al-Jazeera-9.com/blank#ne0e6d7f847094647b4c21b886a735561b2> <http://example.org/waltdisneyco/afterHoursChangePercent> "3.6"^^<http://www.w3.org/2001/XMLSchema#percent>  <Disney-Al-Jazeera-9> .
+ <http://Disney-Al-Jazeera-9.com/blank#ne0e6d7f847094647b4c21b886a735561b1> <http://example.org/waltdisneyco/estimatedSafetyCostsFiscalYear> "2021"  <Disney-Al-Jazeera-9> .
+ <http://example.org/estimates/emarketerAnalyst> <http://example.org/estimates/name> "Eric Haggstrom"  <Disney-Al-Jazeera-9> .
+ <http://example.org/estimates/emarketerAnalyst> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/estimates/Analyst> <Disney-Al-Jazeera-9> .
+ <http://Disney-Al-Jazeera-9.com/blank#ne0e6d7f847094647b4c21b886a735561b1> <http://example.org/waltdisneyco/previousYearRevenue> "20880000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-Al-Jazeera-9> .
+ <http://example.org/finance/wallStreet> <http://example.org/finance/expectedEarningsPerShareDate> "2020-Q4"  <Disney-Al-Jazeera-9> .
+ <http://Disney-Al-Jazeera-9.com/blank#ne0e6d7f847094647b4c21b886a735561b1> <http://example.org/waltdisneyco/operatingIncomeMediaChange> "-2"^^<http://www.w3.org/2001/XMLSchema#percent>  <Disney-Al-Jazeera-9> .
+ <http://example.org/disneyplus/service> <http://example.org/disneyplus/previousSubscriberCount> "86800000"^^<http://www.w3.org/2001/XMLSchema#int>  <Disney-Al-Jazeera-9> .
+ <http://example.org/disneyplus/service> <http://example.org/disneyplus/previousSubscriberCountDate> "2020-12-early"  <Disney-Al-Jazeera-9> .
+ <http://Disney-Al-Jazeera-9.com/blank#ne0e6d7f847094647b4c21b886a735561b1> <http://example.org/waltdisneyco/operatingLossParks> "119000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-Al-Jazeera-9> .
+ <http://Disney-Al-Jazeera-9.com/blank#ne0e6d7f847094647b4c21b886a735561b2> <http://example.org/waltdisneyco/closePrice> "190.86"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-Al-Jazeera-9> .
+ <http://example.org/finance/wallStreet> <http://example.org/finance/averageRevenueEstimateSource> "Refinitiv"  <Disney-Al-Jazeera-9> .
+ <http://example.org/waltdisneyco/investors> <http://example.org/waltdisneyco/competitor> "Netflix Inc."  <Disney-Al-Jazeera-9> .

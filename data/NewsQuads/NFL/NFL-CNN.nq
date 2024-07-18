@@ -1,0 +1,839 @@
+ <http://example.org/AaronRodgersThrowing> <http://dbpedia.org/ontology/participant> <http://example.org/AaronRodgers> <NFL-CNN-0> .
+ <http://example.org/NewYorkGiants> <http://xmlns.com/foaf/0.1/name> "New York Giants"  <NFL-CNN-0> .
+ <http://example.org/PhiladelphiaEagles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NFL-CNN-0> .
+ <http://example.org/AdamHunger> <http://dbpedia.org/ontology/occupation> "Photographer"  <NFL-CNN-0> .
+ <http://example.org/EliManning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-0> .
+ <http://example.org/AchillesInjury> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Injury> <NFL-CNN-0> .
+ <http://example.org/AaronRodgersRehab> <http://dbpedia.org/ontology/date> "2023-10-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-CNN-0> .
+ <http://example.org/AaronRodgersRehab> <http://dbpedia.org/ontology/activity> "rehab from Achilles injury"  <NFL-CNN-0> .
+ <http://example.org/JetsVsGiantsGame> <http://dbpedia.org/ontology/location> <http://example.org/MetLifeStadium> <NFL-CNN-0> .
+ <http://example.org/RobertSaleh> <http://dbpedia.org/ontology/team> <http://example.org/NewYorkJets> <NFL-CNN-0> .
+ <http://example.org/RobertSaleh> <http://dbpedia.org/ontology/occupation> "Head Coach"  <NFL-CNN-0> .
+ <http://example.org/ManningCast> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow> <NFL-CNN-0> .
+ <http://example.org/JetsSeasonRecord> <http://dbpedia.org/ontology/record> "3-3"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-CNN-0> .
+ <http://example.org/EliManning> <http://xmlns.com/foaf/0.1/name> "Eli Manning"  <NFL-CNN-0> .
+ <http://example.org/NewYorkJets> <http://xmlns.com/foaf/0.1/name> "New York Jets"  <NFL-CNN-0> .
+ <http://example.org/AaronRodgers> <http://dbpedia.org/ontology/birthDate> "1983-12-02"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-CNN-0> .
+ <http://example.org/NewYorkGiants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NFL-CNN-0> .
+ <http://example.org/JetsVsEaglesGame> <http://dbpedia.org/ontology/competitor> <http://example.org/NewYorkJets> <NFL-CNN-0> .
+ <http://example.org/AchillesInjury> <http://dbpedia.org/ontology/date> "2023-09-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-CNN-0> .
+ <http://example.org/MetLifeStadium> <http://dbpedia.org/ontology/location> "New Jersey"  <NFL-CNN-0> .
+ <http://example.org/AdamHunger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-0> .
+ <http://example.org/JetsVsEaglesGame> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsEvent> <NFL-CNN-0> .
+ <http://example.org/AaronRodgersRehab> <http://dbpedia.org/ontology/status> "progressing faster than expected"  <NFL-CNN-0> .
+ <http://example.org/JetsVsGiantsGame> <http://dbpedia.org/ontology/competitor> <http://example.org/NewYorkGiants> <NFL-CNN-0> .
+ <http://example.org/AaronRodgers> <http://dbpedia.org/ontology/position> "Quarterback"  <NFL-CNN-0> .
+ <http://example.org/AchillesInjury> <http://www.w3.org/2000/01/rdf-schema#label> "Achilles injury"  <NFL-CNN-0> .
+ <http://example.org/PeytonManning> <http://xmlns.com/foaf/0.1/name> "Peyton Manning"  <NFL-CNN-0> .
+ <http://example.org/JetsSeasonRecord> <http://dbpedia.org/ontology/SportsTeam> <http://example.org/NewYorkJets> <NFL-CNN-0> .
+ <http://example.org/AaronRodgers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-0> .
+ <http://example.org/AaronRodgersRehab> <http://dbpedia.org/ontology/participant> <http://example.org/AaronRodgers> <NFL-CNN-0> .
+ <http://example.org/AdamHunger> <http://dbpedia.org/ontology/employer> "AP"  <NFL-CNN-0> .
+ <http://example.org/ManningCast> <http://xmlns.com/foaf/0.1/name> "ESPN’s ManningCast"  <NFL-CNN-0> .
+ <http://example.org/AaronRodgers> <http://dbpedia.org/ontology/age> "39"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-CNN-0> .
+ <http://example.org/MetLifeStadium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Stadium> <NFL-CNN-0> .
+ <http://example.org/RobertSaleh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-0> .
+ <http://example.org/AaronRodgers> <http://xmlns.com/foaf/0.1/name> "Aaron Rodgers"  <NFL-CNN-0> .
+ <http://example.org/PeytonManning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-0> .
+ <http://example.org/MetLifeStadium> <http://xmlns.com/foaf/0.1/name> "MetLife Stadium"  <NFL-CNN-0> .
+ <http://example.org/AchillesInjury> <http://dbpedia.org/ontology/cause> "tore his Achilles four plays into his first game"  <NFL-CNN-0> .
+ <http://example.org/NewYorkJets> <http://dbpedia.org/ontology/league> "NFL"  <NFL-CNN-0> .
+ <http://example.org/JetsVsEaglesGame> <http://dbpedia.org/ontology/competitor> <http://example.org/PhiladelphiaEagles> <NFL-CNN-0> .
+ <http://example.org/NewYorkJets> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NFL-CNN-0> .
+ <http://example.org/JetsVsGiantsGame> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsEvent> <NFL-CNN-0> .
+ <http://example.org/AaronRodgersThrowing> <http://dbpedia.org/ontology/date> "2023-10-15"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-CNN-0> .
+ <http://example.org/AdamHunger> <http://xmlns.com/foaf/0.1/name> "Adam Hunger"  <NFL-CNN-0> .
+ <http://example.org/JetsVsGiantsGame> <http://dbpedia.org/ontology/competitor> <http://example.org/NewYorkJets> <NFL-CNN-0> .
+ <http://example.org/AaronRodgers> <http://dbpedia.org/ontology/injury> <http://example.org/AchillesInjury> <NFL-CNN-0> .
+ <http://example.org/JetsVsEaglesGame> <http://dbpedia.org/ontology/date> "2023-10-15"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-CNN-0> .
+ <http://example.org/NewYorkJets> <http://dbpedia.org/ontology/location> "New York"  <NFL-CNN-0> .
+ <http://example.org/AaronRodgersThrowing> <http://dbpedia.org/ontology/activity> "throwing passes on the field"  <NFL-CNN-0> .
+ <http://example.org/JetsSeasonRecord> <http://dbpedia.org/ontology/date> "2023-10-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-CNN-0> .
+ <http://example.org/AaronRodgers> <http://dbpedia.org/ontology/team> <http://example.org/NewYorkJets> <NFL-CNN-0> .
+ <http://example.org/JetsVsGiantsGame> <http://dbpedia.org/ontology/date> "2023-10-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-CNN-0> .
+ <http://example.org/PhiladelphiaEagles> <http://xmlns.com/foaf/0.1/name> "Philadelphia Eagles"  <NFL-CNN-0> .
+ <http://example.org/RobertSaleh> <http://xmlns.com/foaf/0.1/name> "Robert Saleh"  <NFL-CNN-0> .
+ <http://example.org/VikingsRecentPerformance> <http://schema.org/eventStatus> "Winning way"  <NFL-CNN-1> .
+ <http://example.org/BrianFlores> <http://xmlns.com/foaf/0.1/member> <http://example.org/MinnesotaVikings> <NFL-CNN-1> .
+ <http://example.org/49ersSeasonStart> <http://schema.org/score> "Over 30 points per game"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-CNN-1> .
+ <http://example.org/49ersRecord> <http://schema.org/sportsTeam> <http://example.org/SanFrancisco49ers> <NFL-CNN-1> .
+ <http://example.org/Addison60YardTouchdown> <http://schema.org/sportsEvent> <http://example.org/GameVikingsVs49ers> <NFL-CNN-1> .
+ <http://example.org/49ersRecentPerformance> <http://schema.org/memberOf> <http://example.org/NFL> <NFL-CNN-1> .
+ <http://example.org/MinnesotaVikings> <http://schema.org/memberOf> <http://example.org/NFL> <NFL-CNN-1> .
+ <http://example.org/JordanAddison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-1> .
+ <http://example.org/MinnesotaVikings> <http://schema.org/sport> "American Football"  <NFL-CNN-1> .
+ <http://example.org/BrockPurdy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-1> .
+ <http://example.org/JakeMoody> <http://schema.org/jobTitle> "Kicker"  <NFL-CNN-1> .
+ <http://example.org/SanFrancisco49ers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <NFL-CNN-1> .
+ <http://example.org/GameVikingsVs49ers> <http://schema.org/startDate> "2023-10-23"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-CNN-1> .
+ <http://example.org/AddisonGameStats> <http://schema.org/sportsEvent> <http://example.org/GameVikingsVs49ers> <NFL-CNN-1> .
+ <http://example.org/GameVikingsVs49ers> <http://schema.org/competitor> <http://example.org/SanFrancisco49ers> <NFL-CNN-1> .
+ <http://example.org/GameVikingsVs49ers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NFL-CNN-1> .
+ <http://example.org/Addison60YardTouchdown> <http://schema.org/athlete> <http://example.org/JordanAddison> <NFL-CNN-1> .
+ <http://example.org/KevinOConnell> <http://schema.org/jobTitle> "Head coach"  <NFL-CNN-1> .
+ <http://example.org/CharvariusWard> <http://xmlns.com/foaf/0.1/member> <http://example.org/SanFrancisco49ers> <NFL-CNN-1> .
+ <http://example.org/VikingsRecentPerformance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NFL-CNN-1> .
+ <http://example.org/49ersSeasonStart> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NFL-CNN-1> .
+ <http://example.org/JordanAddison> <http://xmlns.com/foaf/0.1/member> <http://example.org/MinnesotaVikings> <NFL-CNN-1> .
+ <http://example.org/KyleShanahan> <http://schema.org/jobTitle> "Head coach"  <NFL-CNN-1> .
+ <http://NFL-CNN-1.com/blank#n15099d189b5646999f8f6b8fd83de88ab4> <http://schema.org/statisticType> "Touchdowns"  <NFL-CNN-1> .
+ <http://example.org/KyleShanahan> <http://xmlns.com/foaf/0.1/member> <http://example.org/SanFrancisco49ers> <NFL-CNN-1> .
+ <http://example.org/SanFrancisco49ers> <http://schema.org/name> "San Francisco 49ers"  <NFL-CNN-1> .
+ <http://NFL-CNN-1.com/blank#n15099d189b5646999f8f6b8fd83de88ab1> <http://schema.org/awayScore> "17"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-CNN-1> .
+ <http://example.org/ChristianMcCaffrey> <http://schema.org/jobTitle> "Running back"  <NFL-CNN-1> .
+ <http://example.org/JustinJefferson> <http://schema.org/jobTitle> "Star wide receiver"  <NFL-CNN-1> .
+ <http://example.org/AddisonGameStats> <http://schema.org/athlete> <http://example.org/JordanAddison> <NFL-CNN-1> .
+ <http://NFL-CNN-1.com/blank#n15099d189b5646999f8f6b8fd83de88ab2> <http://schema.org/statisticType> "Catches"  <NFL-CNN-1> .
+ <http://example.org/49ersRecord> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeamSeason> <NFL-CNN-1> .
+ <http://NFL-CNN-1.com/blank#n15099d189b5646999f8f6b8fd83de88ab3> <http://schema.org/statisticType> "Receiving yards"  <NFL-CNN-1> .
+ <http://example.org/CharvariusWard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-1> .
+ <http://NFL-CNN-1.com/blank#n15099d189b5646999f8f6b8fd83de88ab1> <http://schema.org/awayTeam> <http://example.org/SanFrancisco49ers> <NFL-CNN-1> .
+ <http://example.org/GameVikingsVs49ers> <http://schema.org/result> <http://NFL-CNN-1.com/blank#n15099d189b5646999f8f6b8fd83de88ab1>  <NFL-CNN-1> .
+ <http://example.org/JustinJefferson> <http://xmlns.com/foaf/0.1/member> <http://example.org/MinnesotaVikings> <NFL-CNN-1> .
+ <http://example.org/KevinOConnell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-1> .
+ <http://example.org/VikingsSeasonStart> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NFL-CNN-1> .
+ <http://example.org/AddisonGameStats> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsAction> <NFL-CNN-1> .
+ <http://example.org/CooperCousins> <http://schema.org/parent> <http://example.org/KirkCousins> <NFL-CNN-1> .
+ <http://example.org/BrockPurdy> <http://schema.org/jobTitle> "Quarterback"  <NFL-CNN-1> .
+ <http://example.org/Addison60YardTouchdown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsAction> <NFL-CNN-1> .
+ <http://example.org/KyleShanahan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-1> .
+ <http://example.org/KevinOConnell> <http://xmlns.com/foaf/0.1/member> <http://example.org/MinnesotaVikings> <NFL-CNN-1> .
+ <http://example.org/JordanAddison> <http://xmlns.com/foaf/0.1/age> "21"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-CNN-1> .
+ <http://example.org/VikingsRecord> <http://schema.org/sportsTeam> <http://example.org/MinnesotaVikings> <NFL-CNN-1> .
+ <http://example.org/VikingsRecentPerformance> <http://schema.org/memberOf> <http://example.org/NFL> <NFL-CNN-1> .
+ <http://example.org/KirkCousins> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-1> .
+ <http://example.org/CamrynBynum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-1> .
+ <http://example.org/AddisonGameStats> <http://schema.org/statistics> <http://NFL-CNN-1.com/blank#n15099d189b5646999f8f6b8fd83de88ab2>  <NFL-CNN-1> .
+ <http://example.org/CamrynBynum> <http://schema.org/jobTitle> "Player"  <NFL-CNN-1> .
+ <http://NFL-CNN-1.com/blank#n15099d189b5646999f8f6b8fd83de88ab1> <http://schema.org/homeScore> "22"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-CNN-1> .
+ <http://example.org/VikingsSeasonStart> <http://schema.org/memberOf> <http://example.org/NFL> <NFL-CNN-1> .
+ <http://example.org/SanFrancisco49ers> <http://schema.org/memberOf> <http://example.org/NFL> <NFL-CNN-1> .
+ <http://example.org/49ersRecentPerformance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NFL-CNN-1> .
+ <http://example.org/KirkCousins> <http://xmlns.com/foaf/0.1/member> <http://example.org/MinnesotaVikings> <NFL-CNN-1> .
+ <http://example.org/SanFrancisco49ers> <http://schema.org/sport> "American Football"  <NFL-CNN-1> .
+ <http://example.org/ChristianMcCaffrey> <http://xmlns.com/foaf/0.1/member> <http://example.org/SanFrancisco49ers> <NFL-CNN-1> .
+ <http://example.org/CharvariusWard> <http://schema.org/jobTitle> "Cornerback"  <NFL-CNN-1> .
+ <http://example.org/VikingsRecord> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeamSeason> <NFL-CNN-1> .
+ <http://example.org/BrockPurdy> <http://xmlns.com/foaf/0.1/member> <http://example.org/SanFrancisco49ers> <NFL-CNN-1> .
+ <http://example.org/USBankStadium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <NFL-CNN-1> .
+ <http://NFL-CNN-1.com/blank#n15099d189b5646999f8f6b8fd83de88ab4> <http://schema.org/value> "2"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-CNN-1> .
+ <http://example.org/USBankStadium> <http://schema.org/name> "US Bank Stadium"  <NFL-CNN-1> .
+ <http://NFL-CNN-1.com/blank#n15099d189b5646999f8f6b8fd83de88ab3> <http://schema.org/value> "123"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-CNN-1> .
+ <http://example.org/VikingsRecord> <http://schema.org/record> "3-4"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-CNN-1> .
+ <http://example.org/VikingsSeasonStart> <http://schema.org/record> "0-3"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-CNN-1> .
+ <http://example.org/CamrynBynum> <http://xmlns.com/foaf/0.1/member> <http://example.org/MinnesotaVikings> <NFL-CNN-1> .
+ <http://example.org/JustinJefferson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-1> .
+ <http://example.org/VikingsSeasonStart> <http://schema.org/previousSeasonRecord> "11 one-score game wins"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-CNN-1> .
+ <http://example.org/VikingsSeasonStart> <http://schema.org/eventStatus> "Poor start"  <NFL-CNN-1> .
+ <http://example.org/MinnesotaVikings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <NFL-CNN-1> .
+ <http://example.org/ChristianMcCaffrey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-1> .
+ <http://example.org/AddisonGameStats> <http://schema.org/statistics> <http://NFL-CNN-1.com/blank#n15099d189b5646999f8f6b8fd83de88ab3>  <NFL-CNN-1> .
+ <http://example.org/Addison60YardTouchdown> <http://schema.org/description> "60-yard touchdown"  <NFL-CNN-1> .
+ <http://example.org/49ersSeasonStart> <http://schema.org/eventStatus> "Strong start"  <NFL-CNN-1> .
+ <http://example.org/GameVikingsVs49ers> <http://schema.org/location> <http://example.org/USBankStadium> <NFL-CNN-1> .
+ <http://example.org/KirkCousins> <http://schema.org/jobTitle> "Quarterback"  <NFL-CNN-1> .
+ <http://NFL-CNN-1.com/blank#n15099d189b5646999f8f6b8fd83de88ab2> <http://schema.org/value> "7"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-CNN-1> .
+ <http://example.org/JakeMoody> <http://xmlns.com/foaf/0.1/member> <http://example.org/SanFrancisco49ers> <NFL-CNN-1> .
+ <http://example.org/MinnesotaVikings> <http://schema.org/name> "Minnesota Vikings"  <NFL-CNN-1> .
+ <http://example.org/AddisonGameStats> <http://schema.org/statistics> <http://NFL-CNN-1.com/blank#n15099d189b5646999f8f6b8fd83de88ab4>  <NFL-CNN-1> .
+ <http://NFL-CNN-1.com/blank#n15099d189b5646999f8f6b8fd83de88ab1> <http://schema.org/homeTeam> <http://example.org/MinnesotaVikings> <NFL-CNN-1> .
+ <http://example.org/BrianFlores> <http://schema.org/jobTitle> "Defensive coordinator"  <NFL-CNN-1> .
+ <http://example.org/CooperCousins> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-1> .
+ <http://example.org/JakeMoody> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-1> .
+ <http://example.org/JordanAddison> <http://schema.org/jobTitle> "Rookie wide receiver"  <NFL-CNN-1> .
+ <http://example.org/49ersRecord> <http://schema.org/record> "5-2"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-CNN-1> .
+ <http://example.org/49ersSeasonStart> <http://schema.org/memberOf> <http://example.org/NFL> <NFL-CNN-1> .
+ <http://example.org/49ersRecentPerformance> <http://schema.org/eventStatus> "Weaknesses flashed"  <NFL-CNN-1> .
+ <http://example.org/BrianFlores> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-1> .
+ <http://example.org/GameVikingsVs49ers> <http://schema.org/competitor> <http://example.org/MinnesotaVikings> <NFL-CNN-1> .
+ <http://example.org/PhiladelphiaEagles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NFL-CNN-2> .
+ <http://example.org/ClevelandBrowns> <http://dbpedia.org/ontology/numberOfMatches> "36"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-CNN-2> .
+ <http://example.org/EzekielElliott> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-2> .
+ <http://example.org/BillBelichick> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/New_England_Patriots> <NFL-CNN-2> .
+ <http://example.org/EzekielElliott> <http://dbpedia.org/ontology/numberOfTouchdowns> "1"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-CNN-2> .
+ <http://example.org/KansasCityChiefs> <http://dbpedia.org/ontology/against> <http://example.org/LosAngelesChargers> <NFL-CNN-2> .
+ <http://example.org/BillBelichick> <http://dbpedia.org/ontology/birthDate> "1952-04-16"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-CNN-2> .
+ <http://example.org/LosAngelesChargers> <http://dbpedia.org/ontology/teamName> "Los Angeles Chargers"  <NFL-CNN-2> .
+ <http://example.org/TravisKelce> <http://xmlns.com/foaf/0.1/name> "Travis Kelce"  <NFL-CNN-2> .
+ <http://example.org/KansasCityChiefs> <http://dbpedia.org/ontology/score> "31"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-CNN-2> .
+ <http://example.org/BuffaloBills> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NFL-CNN-2> .
+ <http://example.org/PatrickMahomes> <http://xmlns.com/foaf/0.1/name> "Patrick Mahomes"  <NFL-CNN-2> .
+ <http://example.org/JalenHurts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-2> .
+ <http://example.org/PatrickMahomes> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Kansas_City_Chiefs> <NFL-CNN-2> .
+ <http://example.org/NewEnglandPatriots> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Gillette_Stadium> <NFL-CNN-2> .
+ <http://example.org/BillBelichick> <http://xmlns.com/foaf/0.1/name> "Bill Belichick"  <NFL-CNN-2> .
+ <http://example.org/PatrickMahomes> <http://dbpedia.org/ontology/numberOfPassingYards> "424"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-CNN-2> .
+ <http://example.org/NewEnglandPatriots> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NFL-CNN-2> .
+ <http://example.org/EzekielElliott> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/New_England_Patriots> <NFL-CNN-2> .
+ <http://example.org/MacJones> <http://xmlns.com/foaf/0.1/name> "Mac Jones"  <NFL-CNN-2> .
+ <http://example.org/Week7Scores> <http://dbpedia.org/ontology/awayScore> "6"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-CNN-2> .
+ <http://example.org/TravisKelce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-2> .
+ <http://example.org/ClevelandBrowns> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NFL-CNN-2> .
+ <http://example.org/EzekielElliott> <http://xmlns.com/foaf/0.1/name> "Ezekiel Elliott"  <NFL-CNN-2> .
+ <http://example.org/PhiladelphiaEagles> <http://dbpedia.org/ontology/score> "31"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-CNN-2> .
+ <http://example.org/BillBelichick> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-2> .
+ <http://example.org/TravisKelce> <http://dbpedia.org/ontology/numberOfTouchdowns> "1"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-CNN-2> .
+ <http://example.org/PhiladelphiaEagles> <http://dbpedia.org/ontology/teamName> "Philadelphia Eagles"  <NFL-CNN-2> .
+ <http://example.org/NewEnglandPatriots> <http://dbpedia.org/ontology/score> "29"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-CNN-2> .
+ <http://example.org/LosAngelesChargers> <http://dbpedia.org/ontology/score> "17"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-CNN-2> .
+ <http://example.org/MiamiDolphins> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NFL-CNN-2> .
+ <http://example.org/BillBelichick> <http://dbpedia.org/ontology/previousTeam> <http://example.org/ClevelandBrowns> <NFL-CNN-2> .
+ <http://example.org/MiamiDolphins> <http://dbpedia.org/ontology/score> "17"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-CNN-2> .
+ <http://example.org/Week7> <http://dbpedia.org/ontology/season> <http://example.org/NFLSeason2023> <NFL-CNN-2> .
+ <http://example.org/PatrickMahomes> <http://dbpedia.org/ontology/numberOfTouchdowns> "4"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-CNN-2> .
+ <http://example.org/Week7Scores> <http://dbpedia.org/ontology/awayTeam> <http://example.org/DetroitLions> <NFL-CNN-2> .
+ <http://example.org/MacJones> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/New_England_Patriots> <NFL-CNN-2> .
+ <http://example.org/NFLSeason2023> <http://dbpedia.org/ontology/year> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NFL-CNN-2> .
+ <http://example.org/PatrickMahomes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-2> .
+ <http://example.org/ClevelandBrowns> <http://dbpedia.org/ontology/teamName> "Cleveland Browns"  <NFL-CNN-2> .
+ <http://example.org/NFLSeason2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsSeason> <NFL-CNN-2> .
+ <http://example.org/Week7Scores> <http://dbpedia.org/ontology/homeScore> "38"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-CNN-2> .
+ <http://example.org/BillBelichick> <http://dbpedia.org/ontology/numberOfMatches> "300"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-CNN-2> .
+ <http://example.org/MiamiDolphins> <http://dbpedia.org/ontology/teamName> "Miami Dolphins"  <NFL-CNN-2> .
+ <http://example.org/JalenHurts> <http://dbpedia.org/ontology/numberOfTouchdowns> "3"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-CNN-2> .
+ <http://example.org/NFLSeason2023> <http://dbpedia.org/ontology/sport> <http://dbpedia.org/resource/National_Football_League> <NFL-CNN-2> .
+ <http://example.org/PhiladelphiaEagles> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Lincoln_Financial_Field> <NFL-CNN-2> .
+ <http://example.org/MacJones> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-2> .
+ <http://example.org/TravisKelce> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Tight_end> <NFL-CNN-2> .
+ <http://example.org/PatrickMahomes> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Quarterback> <NFL-CNN-2> .
+ <http://example.org/MacJones> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Quarterback> <NFL-CNN-2> .
+ <http://example.org/KansasCityChiefs> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Arrowhead_Stadium> <NFL-CNN-2> .
+ <http://example.org/NewEnglandPatriots> <http://dbpedia.org/ontology/teamName> "New England Patriots"  <NFL-CNN-2> .
+ <http://example.org/BuffaloBills> <http://dbpedia.org/ontology/teamName> "Buffalo Bills"  <NFL-CNN-2> .
+ <http://example.org/JalenHurts> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Quarterback> <NFL-CNN-2> .
+ <http://example.org/PatrickMahomes> <http://dbpedia.org/ontology/numberOfInterceptions> "1"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-CNN-2> .
+ <http://example.org/LosAngelesChargers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NFL-CNN-2> .
+ <http://example.org/Week7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AmericanFootballGame> <NFL-CNN-2> .
+ <http://example.org/TravisKelce> <http://dbpedia.org/ontology/numberOfReceivingYards> "179"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-CNN-2> .
+ <http://example.org/Week7Scores> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsEvent> <NFL-CNN-2> .
+ <http://example.org/EzekielElliott> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Running_back> <NFL-CNN-2> .
+ <http://example.org/KansasCityChiefs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NFL-CNN-2> .
+ <http://example.org/NewEnglandPatriots> <http://dbpedia.org/ontology/against> <http://example.org/BuffaloBills> <NFL-CNN-2> .
+ <http://example.org/JalenHurts> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Philadelphia_Eagles> <NFL-CNN-2> .
+ <http://example.org/BuffaloBills> <http://dbpedia.org/ontology/score> "25"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-CNN-2> .
+ <http://example.org/JalenHurts> <http://xmlns.com/foaf/0.1/name> "Jalen Hurts"  <NFL-CNN-2> .
+ <http://example.org/TravisKelce> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Kansas_City_Chiefs> <NFL-CNN-2> .
+ <http://example.org/Week7Scores> <http://dbpedia.org/ontology/homeTeam> <http://example.org/BaltimoreRavens> <NFL-CNN-2> .
+ <http://example.org/PhiladelphiaEagles> <http://dbpedia.org/ontology/against> <http://example.org/MiamiDolphins> <NFL-CNN-2> .
+ <http://example.org/Week7> <http://dbpedia.org/ontology/date> "2023-10-22"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-CNN-2> .
+ <http://example.org/BillBelichick> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Head_coach> <NFL-CNN-2> .
+ <http://example.org/MacJones> <http://dbpedia.org/ontology/numberOfTouchdowns> "2"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-CNN-2> .
+ <http://example.org/TravisKelce> <http://dbpedia.org/ontology/numberOfCatches> "12"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-CNN-2> .
+ <http://example.org/KansasCityChiefs> <http://dbpedia.org/ontology/teamName> "Kansas City Chiefs"  <NFL-CNN-2> .
+ <http://example.org/BillsVsBuccaneers> <http://example.org/nfl/homeTeam> <http://example.org/Buccaneers> <NFL-CNN-3> .
+ <http://example.org/RaidersVsLions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/nfl/Game> <NFL-CNN-3> .
+ <http://example.org/NFLSeason2023> <http://schema.org/endDate> "2023-12-31"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-CNN-3> .
+ <http://example.org/Buccaneers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/nfl/Team> <NFL-CNN-3> .
+ <http://example.org/Lions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/nfl/Team> <NFL-CNN-3> .
+ <http://example.org/Week8> <http://example.org/nfl/beganOn> "2023-10-26"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-CNN-3> .
+ <http://example.org/ChiefsVsBroncos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/nfl/Game> <NFL-CNN-3> .
+ <http://example.org/Week8> <http://example.org/nfl/featured> <http://example.org/BillsVsBuccaneers> <NFL-CNN-3> .
+ <http://example.org/PhotosFromSeason> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PhotographCollection> <NFL-CNN-3> .
+ <http://example.org/Chiefs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/nfl/Team> <NFL-CNN-3> .
+ <http://example.org/BillsVsBuccaneers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/nfl/Game> <NFL-CNN-3> .
+ <http://example.org/Raiders> <http://example.org/nfl/teamName> "Las Vegas Raiders"  <NFL-CNN-3> .
+ <http://example.org/BillsVsBuccaneers> <http://example.org/nfl/homeScore> "18"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-CNN-3> .
+ <http://example.org/ChiefsVsBroncos> <http://example.org/nfl/awayScore> "9"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-CNN-3> .
+ <http://example.org/RaidersVsLions> <http://example.org/nfl/awayTeam> <http://example.org/Raiders> <NFL-CNN-3> .
+ <http://example.org/BillsVsBuccaneers> <http://example.org/nfl/awayTeam> <http://example.org/Bills> <NFL-CNN-3> .
+ <http://example.org/Bills> <http://example.org/nfl/teamName> "Buffalo Bills"  <NFL-CNN-3> .
+ <http://example.org/BillsVsBuccaneers> <http://example.org/nfl/playedOn> "2023-10-26"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-CNN-3> .
+ <http://example.org/SuperBowlChampions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/nfl/Team> <NFL-CNN-3> .
+ <http://example.org/Buccaneers> <http://example.org/nfl/teamName> "Tampa Bay Buccaneers"  <NFL-CNN-3> .
+ <http://example.org/NFLSeason2023> <http://schema.org/startDate> "2023-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-CNN-3> .
+ <http://example.org/ChiefsVsBroncos> <http://example.org/nfl/homeTeam> <http://example.org/Broncos> <NFL-CNN-3> .
+ <http://example.org/Week8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/nfl/Week> <NFL-CNN-3> .
+ <http://example.org/Chiefs> <http://example.org/nfl/teamName> "Kansas City Chiefs"  <NFL-CNN-3> .
+ <http://example.org/Week8> <http://example.org/nfl/featured> <http://example.org/ChiefsVsBroncos> <NFL-CNN-3> .
+ <http://example.org/PhotosFromSeason> <http://schema.org/name> "Best photos from the 2023 NFL season"  <NFL-CNN-3> .
+ <http://example.org/Raiders> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/nfl/Team> <NFL-CNN-3> .
+ <http://example.org/Chiefs> <http://example.org/nfl/record> "6-2"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-CNN-3> .
+ <http://example.org/ChiefsVsBroncos> <http://example.org/nfl/playedOn> "2023-10-29"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-CNN-3> .
+ <http://example.org/SuperBowlChampions> <http://schema.org/name> "Reigning Super Bowl champions"  <NFL-CNN-3> .
+ <http://example.org/RaidersVsLions> <http://example.org/nfl/homeTeam> <http://example.org/Lions> <NFL-CNN-3> .
+ <http://example.org/Lions> <http://example.org/nfl/teamName> "Detroit Lions"  <NFL-CNN-3> .
+ <http://example.org/ChiefsVsBroncos> <http://example.org/nfl/awayTeam> <http://example.org/Chiefs> <NFL-CNN-3> .
+ <http://example.org/Week8> <http://example.org/nfl/featured> <http://example.org/RaidersVsLions> <NFL-CNN-3> .
+ <http://example.org/PhotosFromSeason> <http://schema.org/about> <http://example.org/NFLSeason2023> <NFL-CNN-3> .
+ <http://example.org/Broncos> <http://example.org/nfl/teamName> "Denver Broncos"  <NFL-CNN-3> .
+ <http://example.org/SuperBowlChampions> <http://schema.org/sameAs> <http://example.org/Chiefs> <NFL-CNN-3> .
+ <http://example.org/Broncos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/nfl/Team> <NFL-CNN-3> .
+ <http://example.org/NFLSeason2023> <http://schema.org/name> "2023 NFL season"  <NFL-CNN-3> .
+ <http://example.org/NFLSeason2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/nfl/Season> <NFL-CNN-3> .
+ <http://example.org/Bills> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/nfl/Team> <NFL-CNN-3> .
+ <http://example.org/BillsVsBuccaneers> <http://example.org/nfl/awayScore> "24"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-CNN-3> .
+ <http://example.org/RaidersVsLions> <http://example.org/nfl/playedOn> "2023-10-30"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-CNN-3> .
+ <http://example.org/ChiefsVsBroncos> <http://example.org/nfl/homeScore> "24"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-CNN-3> .
+ <http://example.org/ns#JaredGoff> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Quarterback> <NFL-CNN-4> .
+ <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b6> <http://schema.org/name> "Mexico"  <NFL-CNN-4> .
+ <http://example.org/ns#NickSirianni> <http://xmlns.com/foaf/0.1/name> "Nick Sirianni"  <NFL-CNN-4> .
+ <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b5> <http://schema.org/provider> "ProSieben MAXX"  <NFL-CNN-4> .
+ <http://example.org/ns#BroadcastingRights> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BroadcastService> <NFL-CNN-4> .
+ <http://example.org/ns#JaguarsVsSaints> <http://dbpedia.org/ontology/winner> <http://dbpedia.org/resource/Jacksonville_Jaguars> <NFL-CNN-4> .
+ <http://example.org/ns#NFLSeason2023> <http://dbpedia.org/ontology/season> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NFL-CNN-4> .
+ <http://example.org/ns#BrandonStanley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-4> .
+ <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b4> <http://schema.org/provider> "CTV"  <NFL-CNN-4> .
+ <http://example.org/ns#BrandonStanley> <http://xmlns.com/foaf/0.1/name> "Brandon Stanley"  <NFL-CNN-4> .
+ <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b2> <http://schema.org/provider> "NFL+"  <NFL-CNN-4> .
+ <http://example.org/ns#DanCampbell> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Head_coach> <NFL-CNN-4> .
+ <http://example.org/ns#ChargersVsChiefs> <http://schema.org/startTime> "16:25:00"^^<http://www.w3.org/2001/XMLSchema#time>  <NFL-CNN-4> .
+ <http://example.org/ns#BrianJohnson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-4> .
+ <http://example.org/ns#BroadcastingRights> <http://schema.org/area> <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b7>  <NFL-CNN-4> .
+ <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b2> <http://schema.org/name> "Australia"  <NFL-CNN-4> .
+ <http://example.org/ns#DolphinsVsEagles> <http://dbpedia.org/ontology/awayTeam> <http://dbpedia.org/resource/Miami_Dolphins> <NFL-CNN-4> .
+ <http://example.org/ns#PatrickMahomes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-4> .
+ <http://example.org/ns#JaredGoff> <http://xmlns.com/foaf/0.1/name> "Jared Goff"  <NFL-CNN-4> .
+ <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b3> <http://schema.org/name> "Brazil"  <NFL-CNN-4> .
+ <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b2> <http://schema.org/provider> "7Plus"  <NFL-CNN-4> .
+ <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b4> <http://schema.org/name> "Canada"  <NFL-CNN-4> .
+ <http://example.org/ns#LionsVsRavens> <http://dbpedia.org/ontology/homeTeam> <http://dbpedia.org/resource/Baltimore_Ravens> <NFL-CNN-4> .
+ <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b8> <http://schema.org/provider> "FOX"  <NFL-CNN-4> .
+ <http://example.org/ns#NFLSeason2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsEvent> <NFL-CNN-4> .
+ <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b5> <http://schema.org/name> "Germany"  <NFL-CNN-4> .
+ <http://example.org/ns#LionsVsRavens> <http://dbpedia.org/ontology/isPartOf> <http://example.org/ns#Week7> <NFL-CNN-4> .
+ <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b6> <http://schema.org/provider> "NFL+"  <NFL-CNN-4> .
+ <http://example.org/ns#BrianJohnson> <http://xmlns.com/foaf/0.1/name> "Brian Johnson"  <NFL-CNN-4> .
+ <http://example.org/ns#Week7> <http://dbpedia.org/ontology/isPartOf> <http://example.org/ns#NFLSeason2023> <NFL-CNN-4> .
+ <http://example.org/ns#JohnHarbaugh> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Baltimore_Ravens> <NFL-CNN-4> .
+ <http://example.org/ns#Week7> <http://schema.org/startDate> "2023-10-19"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-CNN-4> .
+ <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b8> <http://schema.org/provider> "ESPN"  <NFL-CNN-4> .
+ <http://example.org/ns#LionsVsRavens> <http://dbpedia.org/ontology/startDate> "2023-10-22"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-CNN-4> .
+ <http://example.org/ns#JalenHurts> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Quarterback> <NFL-CNN-4> .
+ <http://example.org/ns#BroadcastingRights> <http://schema.org/area> <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b2>  <NFL-CNN-4> .
+ <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b7> <http://schema.org/provider> "Sky Sports"  <NFL-CNN-4> .
+ <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b8> <http://schema.org/provider> "CBS"  <NFL-CNN-4> .
+ <http://example.org/ns#LionsVsRavens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsEvent> <NFL-CNN-4> .
+ <http://example.org/ns#DolphinsVsEagles> <http://schema.org/startTime> "20:20:00"^^<http://www.w3.org/2001/XMLSchema#time>  <NFL-CNN-4> .
+ <http://example.org/ns#JaredGoff> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Detroit_Lions> <NFL-CNN-4> .
+ <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b5> <http://schema.org/provider> "DAZN"  <NFL-CNN-4> .
+ <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b3> <http://schema.org/provider> "ESPN"  <NFL-CNN-4> .
+ <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b1> <http://dbpedia.org/ontology/passingYards> "1618"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-CNN-4> .
+ <http://example.org/ns#DanCampbell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-4> .
+ <http://example.org/ns#JalenHurts> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Philadelphia_Eagles> <NFL-CNN-4> .
+ <http://example.org/ns#JaguarsVsSaints> <http://dbpedia.org/ontology/awayTeam> <http://dbpedia.org/resource/Jacksonville_Jaguars> <NFL-CNN-4> .
+ <http://example.org/ns#ChargersVsChiefs> <http://dbpedia.org/ontology/awayTeam> <http://dbpedia.org/resource/Los_Angeles_Chargers> <NFL-CNN-4> .
+ <http://example.org/ns#BroadcastingRights> <http://schema.org/area> <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b3>  <NFL-CNN-4> .
+ <http://example.org/ns#DanCampbell> <http://xmlns.com/foaf/0.1/name> "Dan Campbell"  <NFL-CNN-4> .
+ <http://example.org/ns#ChargersVsChiefs> <http://dbpedia.org/ontology/startDate> "2023-10-22"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-CNN-4> .
+ <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b1> <http://dbpedia.org/ontology/interception> "3"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-CNN-4> .
+ <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b8> <http://schema.org/provider> "Amazon Prime"  <NFL-CNN-4> .
+ <http://example.org/ns#ChargersVsChiefs> <http://dbpedia.org/ontology/homeTeam> <http://dbpedia.org/resource/Kansas_City_Chiefs> <NFL-CNN-4> .
+ <http://example.org/ns#NickSirianni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-4> .
+ <http://example.org/ns#BrianJohnson> <http://dbpedia.org/ontology/position> <http://dbpedia.org/ontology/OffensiveCoordinator> <NFL-CNN-4> .
+ <http://example.org/ns#JaredGoff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-4> .
+ <http://example.org/ns#ChargersVsChiefs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsEvent> <NFL-CNN-4> .
+ <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b4> <http://schema.org/provider> "NFL+"  <NFL-CNN-4> .
+ <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b8> <http://schema.org/provider> "NBC"  <NFL-CNN-4> .
+ <http://example.org/ns#TuaTagovailoa> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Quarterback> <NFL-CNN-4> .
+ <http://example.org/ns#JalenHurts> <http://xmlns.com/foaf/0.1/name> "Jalen Hurts"  <NFL-CNN-4> .
+ <http://example.org/ns#JaguarsVsSaints> <http://dbpedia.org/ontology/homeTeam> <http://dbpedia.org/resource/New_Orleans_Saints> <NFL-CNN-4> .
+ <http://example.org/ns#TuaTagovailoa> <http://xmlns.com/foaf/0.1/name> "Tua Tagovailoa"  <NFL-CNN-4> .
+ <http://example.org/ns#LionsVsRavens> <http://schema.org/startTime> "13:00:00"^^<http://www.w3.org/2001/XMLSchema#time>  <NFL-CNN-4> .
+ <http://example.org/ns#JohnHarbaugh> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Head_coach> <NFL-CNN-4> .
+ <http://example.org/ns#JohnHarbaugh> <http://xmlns.com/foaf/0.1/name> "John Harbaugh"  <NFL-CNN-4> .
+ <http://example.org/ns#NFLSeason2023> <http://dbpedia.org/ontology/sport> <http://dbpedia.org/resource/American_football> <NFL-CNN-4> .
+ <http://example.org/ns#BroadcastingRights> <http://schema.org/area> <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b5>  <NFL-CNN-4> .
+ <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b7> <http://schema.org/provider> "Channel 5"  <NFL-CNN-4> .
+ <http://example.org/ns#BrandonStanley> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Los_Angeles_Chargers> <NFL-CNN-4> .
+ <http://example.org/ns#Week7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <NFL-CNN-4> .
+ <http://example.org/ns#LionsVsRavens> <http://dbpedia.org/ontology/awayTeam> <http://dbpedia.org/resource/Detroit_Lions> <NFL-CNN-4> .
+ <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b5> <http://schema.org/provider> "NFL+"  <NFL-CNN-4> .
+ <http://example.org/ns#JaguarsVsSaints> <http://dbpedia.org/ontology/isPartOf> <http://example.org/ns#Week7> <NFL-CNN-4> .
+ <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b6> <http://schema.org/provider> "TUDN"  <NFL-CNN-4> .
+ <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b2> <http://schema.org/provider> "ESPN"  <NFL-CNN-4> .
+ <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b7> <http://schema.org/provider> "NFL+"  <NFL-CNN-4> .
+ <http://example.org/ns#BroadcastingRights> <http://schema.org/area> <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b4>  <NFL-CNN-4> .
+ <http://example.org/ns#JaredGoff> <http://dbpedia.org/ontology/statistic> <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b1>  <NFL-CNN-4> .
+ <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b1> <http://dbpedia.org/ontology/touchdown> "11"^^<http://www.w3.org/2001/XMLSchema#integer>  <NFL-CNN-4> .
+ <http://example.org/ns#DolphinsVsEagles> <http://dbpedia.org/ontology/isPartOf> <http://example.org/ns#Week7> <NFL-CNN-4> .
+ <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b6> <http://schema.org/provider> "ESPN"  <NFL-CNN-4> .
+ <http://example.org/ns#NickSirianni> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Philadelphia_Eagles> <NFL-CNN-4> .
+ <http://example.org/ns#BroadcastingRights> <http://schema.org/area> <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b6>  <NFL-CNN-4> .
+ <http://example.org/ns#BrandonStanley> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Head_coach> <NFL-CNN-4> .
+ <http://example.org/ns#NickSirianni> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Head_coach> <NFL-CNN-4> .
+ <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b8> <http://schema.org/provider> "NFL+"  <NFL-CNN-4> .
+ <http://example.org/ns#JaguarsVsSaints> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsEvent> <NFL-CNN-4> .
+ <http://example.org/ns#ChargersVsChiefs> <http://dbpedia.org/ontology/isPartOf> <http://example.org/ns#Week7> <NFL-CNN-4> .
+ <http://example.org/ns#PatrickMahomes> <http://xmlns.com/foaf/0.1/name> "Patrick Mahomes"  <NFL-CNN-4> .
+ <http://example.org/ns#JohnHarbaugh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-4> .
+ <http://example.org/ns#PatrickMahomes> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Quarterback> <NFL-CNN-4> .
+ <http://example.org/ns#JalenHurts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-4> .
+ <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b7> <http://schema.org/name> "UK"  <NFL-CNN-4> .
+ <http://example.org/ns#PatrickMahomes> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Kansas_City_Chiefs> <NFL-CNN-4> .
+ <http://example.org/ns#DolphinsVsEagles> <http://dbpedia.org/ontology/startDate> "2023-10-22"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-CNN-4> .
+ <http://example.org/ns#Week7> <http://schema.org/endDate> "2023-10-23"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-CNN-4> .
+ <http://example.org/ns#DanCampbell> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Detroit_Lions> <NFL-CNN-4> .
+ <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b7> <http://schema.org/provider> "ITV"  <NFL-CNN-4> .
+ <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b3> <http://schema.org/provider> "NFL+"  <NFL-CNN-4> .
+ <http://example.org/ns#DolphinsVsEagles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsEvent> <NFL-CNN-4> .
+ <http://example.org/ns#BrianJohnson> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Philadelphia_Eagles> <NFL-CNN-4> .
+ <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b6> <http://schema.org/provider> "Fox Sports"  <NFL-CNN-4> .
+ <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b8> <http://schema.org/name> "US"  <NFL-CNN-4> .
+ <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b6> <http://schema.org/provider> "Sky Sports"  <NFL-CNN-4> .
+ <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b4> <http://schema.org/provider> "RDS"  <NFL-CNN-4> .
+ <http://example.org/ns#BroadcastingRights> <http://schema.org/area> <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b8>  <NFL-CNN-4> .
+ <http://NFL-CNN-4.com/blank#n20992ea057a44c3989356403790e6b74b4> <http://schema.org/provider> "TSN"  <NFL-CNN-4> .
+ <http://example.org/ns#TuaTagovailoa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-4> .
+ <http://example.org/ns#TuaTagovailoa> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Miami_Dolphins> <NFL-CNN-4> .
+ <http://example.org/ns#DolphinsVsEagles> <http://dbpedia.org/ontology/homeTeam> <http://dbpedia.org/resource/Philadelphia_Eagles> <NFL-CNN-4> .
+ <http://example.org/TravisEtienne> <http://example.org/scoredTouchdowns> "2"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-CNN-5> .
+ <http://example.org/AlvinKamara> <http://example.org/comment> "That’s kind of the glaring and recurring theme."@en  <NFL-CNN-5> .
+ <http://example.org/TrevorLawrence> <http://example.org/attemptedPasses> "29"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-CNN-5> .
+ <http://example.org/TrevorLawrence> <http://example.org/hasCareerHighlight> <http://example.org/WinningTouchdownPass> <NFL-CNN-5> .
+ <http://example.org/JacksonvilleJaguars> <http://example.org/bestStartSince> "2007"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NFL-CNN-5> .
+ <http://example.org/WinningTouchdownPass> <http://example.org/receiver> <http://example.org/ChristianKirk> <NFL-CNN-5> .
+ <http://example.org/GameAgainstSaints> <http://example.org/gameDate> "2023-10-19"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-CNN-5> .
+ <http://example.org/ChristianKirk> <http://example.org/playerNumber> "13"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-CNN-5> .
+ <http://example.org/GameAgainstPittsburgh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/FootballGame> <NFL-CNN-5> .
+ <http://example.org/TrevorLawrence> <http://example.org/neverWonInNewOrleansBefore> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NFL-CNN-5> .
+ <http://example.org/ChristianKirkTouchdownImage> <http://example.org/capturedDuring> <http://example.org/GameAgainstSaints> <NFL-CNN-5> .
+ <http://example.org/JacksonvilleJaguars> <http://example.org/gameDate> "2023-10-19"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-CNN-5> .
+ <http://example.org/GameAgainstSaints> <http://example.org/team1> <http://example.org/JacksonvilleJaguars> <NFL-CNN-5> .
+ <http://example.org/NewOrleansSaints> <http://example.org/score> "24"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-CNN-5> .
+ <http://example.org/JonathanBachman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Photographer> <NFL-CNN-5> .
+ <http://example.org/ChristianKirk> <http://example.org/touchdownYards> "44"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-CNN-5> .
+ <http://example.org/TrevorLawrence> <http://example.org/passingYards> "204"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-CNN-5> .
+ <http://example.org/AlvinKamara> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/RunningBack> <NFL-CNN-5> .
+ <http://example.org/WinningTouchdownPass> <http://example.org/timeLeft> "03:08"^^<http://www.w3.org/2001/XMLSchema#duration>  <NFL-CNN-5> .
+ <http://example.org/TravisEtienne> <http://example.org/playsFor> <http://example.org/JacksonvilleJaguars> <NFL-CNN-5> .
+ <http://example.org/JacksonvilleJaguars> <http://example.org/score> "31"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-CNN-5> .
+ <http://example.org/TrevorLawrence> <http://example.org/hadKneeInjury> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NFL-CNN-5> .
+ <http://example.org/NewOrleansSaints> <http://example.org/currentRecord> "3-4"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-CNN-5> .
+ <http://example.org/TrevorLawrence> <http://example.org/comment> "I’ve had a bad taste in my mouth every time I’ve left New Orleans, so it feels good to get a win here."@en  <NFL-CNN-5> .
+ <http://example.org/TrevorLawrence> <http://example.org/completedPasses> "20"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-CNN-5> .
+ <http://example.org/GameAgainstSaints> <http://example.org/finalScore> "31-24"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-CNN-5> .
+ <http://example.org/NewOrleansSaints> <http://example.org/comment> "We’re finding it hard to start fast, finding it hard to maintain, to execute sometimes and we’re finding it hard to finish."@en  <NFL-CNN-5> .
+ <http://example.org/ChristianKirk> <http://example.org/playsFor> <http://example.org/JacksonvilleJaguars> <NFL-CNN-5> .
+ <http://example.org/WinningTouchdownPass> <http://example.org/yards> "44"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-CNN-5> .
+ <http://example.org/GameAgainstSaints> <http://example.org/team2> <http://example.org/NewOrleansSaints> <NFL-CNN-5> .
+ <http://example.org/JacksonvilleJaguars> <http://example.org/winningStreak> "4"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-CNN-5> .
+ <http://example.org/GameAgainstPittsburgh> <http://example.org/team1> <http://example.org/JacksonvilleJaguars> <NFL-CNN-5> .
+ <http://example.org/WinningTouchdownPass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Play> <NFL-CNN-5> .
+ <http://example.org/TaysomHill> <http://example.org/playsFor> <http://example.org/NewOrleansSaints> <NFL-CNN-5> .
+ <http://example.org/MichaelThomas> <http://example.org/playsFor> <http://example.org/NewOrleansSaints> <NFL-CNN-5> .
+ <http://example.org/GameAgainstPittsburgh> <http://example.org/scheduledDate> "2023-10-29"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-CNN-5> .
+ <http://example.org/GameAgainstSaints> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/FootballGame> <NFL-CNN-5> .
+ <http://example.org/JonathanBachman> <http://example.org/capturedImage> <http://example.org/ChristianKirkTouchdownImage> <NFL-CNN-5> .
+ <http://example.org/ChristianKirkTouchdownImage> <http://example.org/quarter> "4"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-CNN-5> .
+ <http://example.org/TrevorLawrence> <http://example.org/playsFor> <http://example.org/JacksonvilleJaguars> <NFL-CNN-5> .
+ <http://example.org/TaysomHill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Player> <NFL-CNN-5> .
+ <http://example.org/TravisEtienne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Player> <NFL-CNN-5> .
+ <http://example.org/TrevorLawrence> <http://example.org/age> "24"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-CNN-5> .
+ <http://example.org/ChristianKirkTouchdownImage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Image> <NFL-CNN-5> .
+ <http://example.org/ChristianKirkTouchdownImage> <http://example.org/depicts> <http://example.org/ChristianKirk> <NFL-CNN-5> .
+ <http://example.org/TrevorLawrence> <http://example.org/kneeInjuryStatus> "It felt pretty good."@en  <NFL-CNN-5> .
+ <http://example.org/NewOrleansSaints> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/FootballTeam> <NFL-CNN-5> .
+ <http://example.org/MichaelThomas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Player> <NFL-CNN-5> .
+ <http://example.org/TrevorLawrence> <http://example.org/preparingFor> <http://example.org/GameAgainstPittsburgh> <NFL-CNN-5> .
+ <http://example.org/TaysomHill> <http://example.org/scoredDuringGame> <http://example.org/GameAgainstSaints> <NFL-CNN-5> .
+ <http://example.org/MichaelThomas> <http://example.org/scoredDuringGame> <http://example.org/GameAgainstSaints> <NFL-CNN-5> .
+ <http://example.org/ChristianKirk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Player> <NFL-CNN-5> .
+ <http://example.org/TrevorLawrence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Quarterback> <NFL-CNN-5> .
+ <http://example.org/JacksonvilleJaguars> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/FootballTeam> <NFL-CNN-5> .
+ <http://example.org/ChristianKirk> <http://example.org/scoredWinningTouchdown> <http://example.org/GameAgainstSaints> <NFL-CNN-5> .
+ <http://example.org/WinningTouchdownPass> <http://example.org/passer> <http://example.org/TrevorLawrence> <NFL-CNN-5> .
+ <http://example.org/AlvinKamara> <http://example.org/playsFor> <http://example.org/NewOrleansSaints> <NFL-CNN-5> .
+ <http://example.org/ChristianKirkTouchdownImage> <http://example.org/depicts> <http://example.org/WinningTouchdownPass> <NFL-CNN-5> .
+ <http://example.org/TrevorLawrence> <http://example.org/ledTeamToWin> <http://example.org/GameAgainstSaints> <NFL-CNN-5> .
+ <http://example.org/JonathanBachman> <http://example.org/worksFor> <http://example.org/GettyImages> <NFL-CNN-5> .
+ <http://example.org/entities/CarIncident> <http://schema.org/eventDate> "2023-03-06"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-CNN-6> .
+ <http://NFL-CNN-6.com/blank#nb0247c09cbef45dd998353f81767918fb2> <http://dbpedia.org/ontology/touchdowns> "153"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-CNN-6> .
+ <http://example.org/entities/BasketballGame> <http://dbpedia.org/ontology/date> "2023-03-06"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-CNN-6> .
+ <http://example.org/entities/UnnamedSuspect> <http://example.org/entities/drives> <http://example.org/entities/WhiteBMW> <NFL-CNN-6> .
+ <http://example.org/entities/CarIncident> <http://schema.org/location> <http://example.org/entities/Calabasas> <NFL-CNN-6> .
+ <http://NFL-CNN-6.com/blank#nb0247c09cbef45dd998353f81767918fb1> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Dallas_Cowboys> <NFL-CNN-6> .
+ <http://NFL-CNN-6.com/blank#nb0247c09cbef45dd998353f81767918fb1> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Philadelphia_Eagles> <NFL-CNN-6> .
+ <http://example.org/entities/TerrellOwens> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-6> .
+ <http://example.org/entities/TerrellOwens> <http://dbpedia.org/ontology/numberOfMatches> "219"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-CNN-6> .
+ <http://NFL-CNN-6.com/blank#nb0247c09cbef45dd998353f81767918fb2> <http://dbpedia.org/ontology/receptions> "1,078"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-CNN-6> .
+ <http://example.org/entities/LosAngelesCountySheriffsDepartment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <NFL-CNN-6> .
+ <http://example.org/entities/BasketballGame> <http://dbpedia.org/ontology/location> <http://example.org/entities/Calabasas> <NFL-CNN-6> .
+ <http://example.org/entities/TerrellOwens> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Pro_Football_Hall_of_Fame> <NFL-CNN-6> .
+ <http://example.org/entities/CarIncident> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NFL-CNN-6> .
+ <http://example.org/entities/InstagramReel> <http://schema.org/datePublished> "2023-03-06"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-CNN-6> .
+ <http://example.org/entities/BasketballGame> <http://dbpedia.org/ontology/participant> <http://example.org/entities/UnnamedSuspect> <NFL-CNN-6> .
+ <http://example.org/entities/Calabasas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <NFL-CNN-6> .
+ <http://example.org/entities/TerrellOwens> <http://dbpedia.org/ontology/statistic> <http://NFL-CNN-6.com/blank#nb0247c09cbef45dd998353f81767918fb2>  <NFL-CNN-6> .
+ <http://example.org/entities/TerrellOwens> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Wide_receiver> <NFL-CNN-6> .
+ <http://example.org/entities/TerrellOwens> <http://dbpedia.org/ontology/careerStation> <http://NFL-CNN-6.com/blank#nb0247c09cbef45dd998353f81767918fb1>  <NFL-CNN-6> .
+ <http://example.org/entities/TerrellOwens> <http://xmlns.com/foaf/0.1/name> "Terrell Owens"  <NFL-CNN-6> .
+ <http://example.org/entities/BasketballGame> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BasketballGame> <NFL-CNN-6> .
+ <http://example.org/entities/InstagramReel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPosting> <NFL-CNN-6> .
+ <http://example.org/entities/CarIncident> <http://schema.org/actor> <http://example.org/entities/UnnamedSuspect> <NFL-CNN-6> .
+ <http://example.org/entities/TerrellOwens> <http://dbpedia.org/ontology/hallOfFameInductionDate> "2018-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-CNN-6> .
+ <http://NFL-CNN-6.com/blank#nb0247c09cbef45dd998353f81767918fb1> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Buffalo_Bills> <NFL-CNN-6> .
+ <http://example.org/entities/InstagramReel> <http://schema.org/caption> "Hope the car is okay!!!"  <NFL-CNN-6> .
+ <http://example.org/entities/BasketballGame> <http://dbpedia.org/ontology/participant> <http://example.org/entities/TerrellOwens> <NFL-CNN-6> .
+ <http://example.org/entities/TerrellOwens> <http://dbpedia.org/ontology/ProBowlSelections> "6"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-CNN-6> .
+ <http://example.org/entities/CarIncident> <http://schema.org/result> <http://NFL-CNN-6.com/blank#nb0247c09cbef45dd998353f81767918fb3>  <NFL-CNN-6> .
+ <http://NFL-CNN-6.com/blank#nb0247c09cbef45dd998353f81767918fb2> <http://dbpedia.org/ontology/receivingYards> "15,934"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-CNN-6> .
+ <http://example.org/entities/Calabasas> <http://xmlns.com/foaf/0.1/name> "Calabasas, California"  <NFL-CNN-6> .
+ <http://NFL-CNN-6.com/blank#nb0247c09cbef45dd998353f81767918fb3> <http://schema.org/description> "Terrell Owens was hit by a car on the left knee but was not injured and declined medical treatment."  <NFL-CNN-6> .
+ <http://example.org/entities/WhiteBMW> <http://xmlns.com/foaf/0.1/color> "white"  <NFL-CNN-6> .
+ <http://NFL-CNN-6.com/blank#nb0247c09cbef45dd998353f81767918fb1> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/Cincinnati_Bengals> <NFL-CNN-6> .
+ <http://example.org/entities/UnnamedSuspect> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-6> .
+ <http://example.org/entities/WhiteBMW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Automobile> <NFL-CNN-6> .
+ <http://example.org/entities/LosAngelesCountySheriffsDepartment> <http://xmlns.com/foaf/0.1/name> "Los Angeles County Sheriff's Department"  <NFL-CNN-6> .
+ <http://example.org/entities/CarIncident> <http://schema.org/actor> <http://example.org/entities/TerrellOwens> <NFL-CNN-6> .
+ <http://example.org/entities/UnnamedSuspect> <http://xmlns.com/foaf/0.1/name> "Unnamed Suspect"  <NFL-CNN-6> .
+ <http://NFL-CNN-6.com/blank#nb0247c09cbef45dd998353f81767918fb1> <http://dbpedia.org/ontology/team> <http://dbpedia.org/resource/San_Francisco_49ers> <NFL-CNN-6> .
+ <http://example.org/entities/InstagramReel> <http://schema.org/author> <http://example.org/entities/TerrellOwens> <NFL-CNN-6> .
+ <http://example.org/entities/WhiteBMW> <http://dbpedia.org/ontology/manufacturer> <http://dbpedia.org/resource/BMW> <NFL-CNN-6> .
+ <http://NFL-CNN-7.com/blank#n58dae3ab6e924941b3b88db1af91d576b1> <http://example.org/passingYards> "272"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-CNN-7> .
+ <http://example.org/JustinHerbert> <http://dbpedia.org/ontology/statistic> <http://NFL-CNN-7.com/blank#n58dae3ab6e924941b3b88db1af91d576b3>  <NFL-CNN-7> .
+ <http://example.org/StephonGilmore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-7> .
+ <http://example.org/BrandinCooks> <http://dbpedia.org/ontology/position> "Wide Receiver"  <NFL-CNN-7> .
+ <http://example.org/StephonGilmore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Athlete> <NFL-CNN-7> .
+ <http://example.org/DakPrescott> <http://xmlns.com/foaf/0.1/name> "Dak Prescott"  <NFL-CNN-7> .
+ <http://example.org/BrandonAubrey> <http://xmlns.com/foaf/0.1/name> "Brandon Aubrey"  <NFL-CNN-7> .
+ <http://example.org/KeenanAllen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Athlete> <NFL-CNN-7> .
+ <http://example.org/KansasCityChiefs> <http://xmlns.com/foaf/0.1/name> "Kansas City Chiefs"  <NFL-CNN-7> .
+ <http://example.org/Week7> <http://dbpedia.org/ontology/awayTeam> <http://example.org/LosAngelesChargers> <NFL-CNN-7> .
+ <http://example.org/MondayNightFootball> <http://schema.org/competitor> <http://example.org/DallasCowboys> <NFL-CNN-7> .
+ <http://example.org/DakPrescott> <http://dbpedia.org/ontology/position> "Quarterback"  <NFL-CNN-7> .
+ <http://example.org/GameResult> <http://example.org/awayTeamScore> "20"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-CNN-7> .
+ <http://example.org/GeraldEverett> <http://xmlns.com/foaf/0.1/name> "Gerald Everett"  <NFL-CNN-7> .
+ <http://example.org/BrandonAubrey> <http://dbpedia.org/ontology/position> "Kicker"  <NFL-CNN-7> .
+ <http://example.org/BrandinCooks> <http://xmlns.com/foaf/0.1/name> "Brandin Cooks"  <NFL-CNN-7> .
+ <http://example.org/MicahParsons> <http://xmlns.com/foaf/0.1/name> "Micah Parsons"  <NFL-CNN-7> .
+ <http://example.org/DakPrescott> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Athlete> <NFL-CNN-7> .
+ <http://example.org/SanFrancisco49ers> <http://dbpedia.org/ontology/league> <http://dbpedia.org/resource/National_Football_League> <NFL-CNN-7> .
+ <http://example.org/JustinHerbert> <http://dbpedia.org/ontology/team> <http://example.org/LosAngelesChargers> <NFL-CNN-7> .
+ <http://example.org/DakPrescott> <http://dbpedia.org/ontology/team> <http://example.org/DallasCowboys> <NFL-CNN-7> .
+ <http://example.org/GeraldEverett> <http://dbpedia.org/ontology/team> <http://example.org/LosAngelesChargers> <NFL-CNN-7> .
+ <http://example.org/Week5> <http://dbpedia.org/ontology/awayTeam> <http://example.org/DallasCowboys> <NFL-CNN-7> .
+ <http://example.org/StephonGilmore> <http://xmlns.com/foaf/0.1/name> "Stephon Gilmore"  <NFL-CNN-7> .
+ <http://example.org/DallasCowboys> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NFL-CNN-7> .
+ <http://example.org/MondayNightFootball> <http://dbpedia.org/ontology/date> "2023-10-16"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-CNN-7> .
+ <http://example.org/JustinHerbert> <http://dbpedia.org/ontology/position> "Quarterback"  <NFL-CNN-7> .
+ <http://example.org/LosAngelesChargers> <http://xmlns.com/foaf/0.1/name> "Los Angeles Chargers"  <NFL-CNN-7> .
+ <http://example.org/MondayNightFootball> <http://schema.org/competitor> <http://example.org/LosAngelesChargers> <NFL-CNN-7> .
+ <http://example.org/JustinHerbert> <http://xmlns.com/foaf/0.1/name> "Justin Herbert"  <NFL-CNN-7> .
+ <http://example.org/ScottMatlock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Athlete> <NFL-CNN-7> .
+ <http://example.org/DakPrescott> <http://dbpedia.org/ontology/statistic> <http://NFL-CNN-7.com/blank#n58dae3ab6e924941b3b88db1af91d576b1>  <NFL-CNN-7> .
+ <http://example.org/DallasCowboysRecord> <http://schema.org/sportsTeam> <http://example.org/DallasCowboys> <NFL-CNN-7> .
+ <http://example.org/KeenanAllen> <http://dbpedia.org/ontology/team> <http://example.org/LosAngelesChargers> <NFL-CNN-7> .
+ <http://example.org/KeenanAllen> <http://xmlns.com/foaf/0.1/name> "Keenan Allen"  <NFL-CNN-7> .
+ <http://example.org/Week5> <http://dbpedia.org/ontology/date> "2023-10-09"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-CNN-7> .
+ <http://example.org/MicahParsons> <http://dbpedia.org/ontology/position> "Linebacker"  <NFL-CNN-7> .
+ <http://example.org/MikeMcCarthy> <http://xmlns.com/foaf/0.1/name> "Mike McCarthy"  <NFL-CNN-7> .
+ <http://example.org/Week7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NFL-CNN-7> .
+ <http://example.org/KansasCityChiefs> <http://dbpedia.org/ontology/teamName> "Chiefs"  <NFL-CNN-7> .
+ <http://example.org/ScottMatlock> <http://dbpedia.org/ontology/position> "Defensive Player"  <NFL-CNN-7> .
+ <http://example.org/MondayNightFootball> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NFL-CNN-7> .
+ <http://example.org/BrandonAubrey> <http://dbpedia.org/ontology/formerTeam> <http://NFL-CNN-7.com/blank#n58dae3ab6e924941b3b88db1af91d576b2>  <NFL-CNN-7> .
+ <http://example.org/MondayNightFootball> <http://schema.org/name> "Monday Night Football"  <NFL-CNN-7> .
+ <http://example.org/JustinHerbert> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Athlete> <NFL-CNN-7> .
+ <http://example.org/JustinHerbert> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-7> .
+ <http://example.org/GameResult> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EventResult> <NFL-CNN-7> .
+ <http://example.org/BrandinCooks> <http://dbpedia.org/ontology/team> <http://example.org/DallasCowboys> <NFL-CNN-7> .
+ <http://example.org/DallasCowboys> <http://xmlns.com/foaf/0.1/name> "Dallas Cowboys"  <NFL-CNN-7> .
+ <http://example.org/SanFrancisco49ers> <http://xmlns.com/foaf/0.1/name> "San Francisco 49ers"  <NFL-CNN-7> .
+ <http://example.org/MikeMcCarthy> <http://dbpedia.org/ontology/position> "Head Coach"  <NFL-CNN-7> .
+ <http://example.org/LosAngelesChargers> <http://dbpedia.org/ontology/teamName> "Chargers"  <NFL-CNN-7> .
+ <http://NFL-CNN-7.com/blank#n58dae3ab6e924941b3b88db1af91d576b1> <http://example.org/touchdowns> "1"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-CNN-7> .
+ <http://example.org/ScottMatlock> <http://dbpedia.org/ontology/team> <http://example.org/LosAngelesChargers> <NFL-CNN-7> .
+ <http://example.org/StephonGilmore> <http://dbpedia.org/ontology/team> <http://example.org/DallasCowboys> <NFL-CNN-7> .
+ <http://example.org/SanFrancisco49ers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NFL-CNN-7> .
+ <http://example.org/KeenanAllen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-7> .
+ <http://example.org/GameResult> <http://schema.org/event> <http://example.org/MondayNightFootball> <NFL-CNN-7> .
+ <http://example.org/ScottMatlock> <http://xmlns.com/foaf/0.1/name> "Scott Matlock"  <NFL-CNN-7> .
+ <http://example.org/DallasCowboysRecord> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeamSeason> <NFL-CNN-7> .
+ <http://NFL-CNN-7.com/blank#n58dae3ab6e924941b3b88db1af91d576b3> <http://example.org/touchdowns> "2"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-CNN-7> .
+ <http://example.org/GeraldEverett> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-7> .
+ <http://example.org/GeraldEverett> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Athlete> <NFL-CNN-7> .
+ <http://example.org/DakPrescott> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-7> .
+ <http://example.org/GeraldEverett> <http://dbpedia.org/ontology/position> "Tight End"  <NFL-CNN-7> .
+ <http://example.org/Week7> <http://schema.org/name> "Week 7 NFL Game"  <NFL-CNN-7> .
+ <http://example.org/SanFrancisco49ers> <http://dbpedia.org/ontology/teamName> "49ers"  <NFL-CNN-7> .
+ <http://example.org/DallasCowboys> <http://dbpedia.org/ontology/nickname> "America's Team"  <NFL-CNN-7> .
+ <http://NFL-CNN-7.com/blank#n58dae3ab6e924941b3b88db1af91d576b1> <http://example.org/rushingYards> "40"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-CNN-7> .
+ <http://example.org/GameResult> <http://schema.org/homeTeam> <http://example.org/LosAngelesChargers> <NFL-CNN-7> .
+ <http://example.org/MikeMcCarthy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-7> .
+ <http://example.org/GameResult> <http://example.org/homeTeamScore> "17"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-CNN-7> .
+ <http://example.org/Week5> <http://schema.org/name> "Week 5 NFL Game"  <NFL-CNN-7> .
+ <http://example.org/KeenanAllen> <http://dbpedia.org/ontology/position> "Wide Receiver"  <NFL-CNN-7> .
+ <http://example.org/BrandonAubrey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-7> .
+ <http://example.org/BrandonAubrey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Athlete> <NFL-CNN-7> .
+ <http://NFL-CNN-7.com/blank#n58dae3ab6e924941b3b88db1af91d576b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NFL-CNN-7> .
+ <http://example.org/StephonGilmore> <http://dbpedia.org/ontology/position> "Cornerback"  <NFL-CNN-7> .
+ <http://NFL-CNN-7.com/blank#n58dae3ab6e924941b3b88db1af91d576b2> <http://xmlns.com/foaf/0.1/name> "Professional Soccer Team"  <NFL-CNN-7> .
+ <http://example.org/Week5> <http://dbpedia.org/ontology/homeTeam> <http://example.org/SanFrancisco49ers> <NFL-CNN-7> .
+ <http://example.org/LosAngelesChargers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NFL-CNN-7> .
+ <http://example.org/Week7> <http://dbpedia.org/ontology/homeTeam> <http://example.org/KansasCityChiefs> <NFL-CNN-7> .
+ <http://example.org/MikeMcCarthy> <http://dbpedia.org/ontology/team> <http://example.org/DallasCowboys> <NFL-CNN-7> .
+ <http://example.org/GameResult> <http://schema.org/awayTeam> <http://example.org/DallasCowboys> <NFL-CNN-7> .
+ <http://example.org/ScottMatlock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-7> .
+ <http://example.org/GameResult> <http://schema.org/endDate> "2023-10-16"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-CNN-7> .
+ <http://NFL-CNN-7.com/blank#n58dae3ab6e924941b3b88db1af91d576b3> <http://example.org/passingYards> "227"^^<http://www.w3.org/2001/XMLSchema#int>  <NFL-CNN-7> .
+ <http://example.org/BrandonAubrey> <http://dbpedia.org/ontology/team> <http://example.org/DallasCowboys> <NFL-CNN-7> .
+ <http://example.org/KansasCityChiefs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NFL-CNN-7> .
+ <http://example.org/Week5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NFL-CNN-7> .
+ <http://example.org/MicahParsons> <http://dbpedia.org/ontology/team> <http://example.org/DallasCowboys> <NFL-CNN-7> .
+ <http://example.org/KansasCityChiefs> <http://dbpedia.org/ontology/championship> "Super Bowl Champion"  <NFL-CNN-7> .
+ <http://example.org/LosAngelesChargers> <http://dbpedia.org/ontology/league> <http://dbpedia.org/resource/National_Football_League> <NFL-CNN-7> .
+ <http://example.org/Week7> <http://dbpedia.org/ontology/date> "2023-10-23"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-CNN-7> .
+ <http://example.org/DallasCowboys> <http://dbpedia.org/ontology/league> <http://dbpedia.org/resource/National_Football_League> <NFL-CNN-7> .
+ <http://example.org/LosAngelesChargersRecord> <http://schema.org/sportsTeam> <http://example.org/LosAngelesChargers> <NFL-CNN-7> .
+ <http://example.org/MondayNightFootball> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/SoFi_Stadium> <NFL-CNN-7> .
+ <http://example.org/KansasCityChiefs> <http://dbpedia.org/ontology/league> <http://dbpedia.org/resource/National_Football_League> <NFL-CNN-7> .
+ <http://example.org/MicahParsons> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Athlete> <NFL-CNN-7> .
+ <http://example.org/MicahParsons> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-7> .
+ <http://example.org/LosAngelesChargersRecord> <http://schema.org/record> "2-3"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-CNN-7> .
+ <http://example.org/DallasCowboysRecord> <http://schema.org/record> "4-2"^^<http://www.w3.org/2001/XMLSchema#string>  <NFL-CNN-7> .
+ <http://example.org/LosAngelesChargersRecord> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeamSeason> <NFL-CNN-7> .
+ <http://example.org/DallasCowboys> <http://dbpedia.org/ontology/teamName> "Cowboys"  <NFL-CNN-7> .
+ <http://example.org/BrandinCooks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-7> .
+ <http://example.org/BrandinCooks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Athlete> <NFL-CNN-7> .
+ <http://example.org/olympics/LA28> <http://example.org/olympics/addsSport> <http://example.org/olympics/Lacrosse> <NFL-CNN-8> .
+ <http://example.org/olympics/LA28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/olympics/OlympicGames> <NFL-CNN-8> .
+ <http://example.org/olympics/IOC> <http://example.org/olympics/statement> "Their inclusion will allow the Olympic Movement to engage with new athlete and fan communities in the US and globally."  <NFL-CNN-8> .
+ <http://example.org/olympics/Cricket> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/olympics/Sport> <NFL-CNN-8> .
+ <http://example.org/olympics/Lacrosse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/olympics/Sport> <NFL-CNN-8> .
+ <http://example.org/olympics/141stSession> <http://example.org/olympics/date> "2023-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-CNN-8> .
+ <http://example.org/olympics/Lacrosse> <http://example.org/olympics/format> <http://example.org/olympics/Sixes> <NFL-CNN-8> .
+ <http://example.org/olympics/LA28> <http://example.org/olympics/includedSports> <http://example.org/olympics/Cricket> <NFL-CNN-8> .
+ <http://example.org/olympics/Lacrosse> <http://www.w3.org/2000/01/rdf-schema#label> "Lacrosse"  <NFL-CNN-8> .
+ <http://example.org/olympics/FlagFootball> <http://www.w3.org/2000/01/rdf-schema#label> "Flag Football"  <NFL-CNN-8> .
+ <http://example.org/olympics/LA28> <http://example.org/olympics/addsSport> <http://example.org/olympics/BaseballSoftball> <NFL-CNN-8> .
+ <http://example.org/olympics/LA28> <http://example.org/olympics/addsSport> <http://example.org/olympics/FlagFootball> <NFL-CNN-8> .
+ <http://example.org/olympics/LA28> <http://example.org/olympics/addsSport> <http://example.org/olympics/Squash> <NFL-CNN-8> .
+ <http://example.org/olympics/BaseballSoftball> <http://example.org/olympics/isTraditionallyPopularInUS> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NFL-CNN-8> .
+ <http://example.org/olympics/Squash> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/olympics/Sport> <NFL-CNN-8> .
+ <http://example.org/olympics/IOC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <NFL-CNN-8> .
+ <http://example.org/olympics/FlagFootball> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/olympics/Sport> <NFL-CNN-8> .
+ <http://example.org/olympics/ThomasBach> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-8> .
+ <http://example.org/olympics/CaseyWasserman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-8> .
+ <http://example.org/olympics/Lacrosse> <http://example.org/olympics/previousOlympics> "St. Louis 1904"  <NFL-CNN-8> .
+ <http://example.org/olympics/Lacrosse> <http://example.org/olympics/previousOlympics> "London 1908"  <NFL-CNN-8> .
+ <http://example.org/olympics/CaseyWasserman> <http://xmlns.com/foaf/0.1/name> "Casey Wasserman"  <NFL-CNN-8> .
+ <http://example.org/olympics/Cricket> <http://example.org/olympics/previousOlympics> "Paris 1900"  <NFL-CNN-8> .
+ <http://example.org/olympics/FlagFootball> <http://example.org/olympics/isTraditionallyPopularInUS> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NFL-CNN-8> .
+ <http://example.org/olympics/ThomasBach> <http://xmlns.com/foaf/0.1/name> "Thomas Bach"  <NFL-CNN-8> .
+ <http://example.org/olympics/Squash> <http://www.w3.org/2000/01/rdf-schema#label> "Squash"  <NFL-CNN-8> .
+ <http://example.org/olympics/LA28> <http://example.org/olympics/addsSport> <http://example.org/olympics/Cricket> <NFL-CNN-8> .
+ <http://example.org/olympics/IOC> <http://example.org/olympics/statement> "The choice of these five new sports is in line with the American sports culture and will showcase iconic American sports to the world, while bringing international sports to the United States. These sports will make the Olympic Games LA28 unique."  <NFL-CNN-8> .
+ <http://example.org/olympics/BaseballSoftball> <http://example.org/olympics/isFirstTimeInOlympics> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NFL-CNN-8> .
+ <http://example.org/olympics/BaseballSoftball> <http://example.org/olympics/previousOlympics> "Tokyo 2020"  <NFL-CNN-8> .
+ <http://example.org/olympics/LA28> <http://example.org/olympics/location> "Los Angeles"  <NFL-CNN-8> .
+ <http://example.org/olympics/IOC> <http://example.org/olympics/criteria> "The process to decide upon the addition of the five sports took a plethora of different criteria, including looking at how popular the sport is in both the US and globally."  <NFL-CNN-8> .
+ <http://example.org/olympics/LA28> <http://example.org/olympics/includedSports> <http://example.org/olympics/Lacrosse> <NFL-CNN-8> .
+ <http://example.org/olympics/LA28> <http://www.w3.org/2000/01/rdf-schema#label> "2028 Summer Games"  <NFL-CNN-8> .
+ <http://example.org/olympics/141stSession> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/olympics/Event> <NFL-CNN-8> .
+ <http://example.org/olympics/Sixes> <http://example.org/olympics/description> "A fast-paced, compact version of Lacrosse at the intersection of field and box lacrosse."  <NFL-CNN-8> .
+ <http://example.org/olympics/IOC> <http://example.org/olympics/president> <http://example.org/olympics/ThomasBach> <NFL-CNN-8> .
+ <http://example.org/olympics/IOC> <http://example.org/olympics/session> <http://example.org/olympics/141stSession> <NFL-CNN-8> .
+ <http://example.org/olympics/BaseballSoftball> <http://www.w3.org/2000/01/rdf-schema#label> "Baseball/Softball"  <NFL-CNN-8> .
+ <http://example.org/olympics/141stSession> <http://example.org/olympics/location> "Mumbai"  <NFL-CNN-8> .
+ <http://example.org/olympics/Sixes> <http://www.w3.org/2000/01/rdf-schema#label> "Sixes"  <NFL-CNN-8> .
+ <http://example.org/olympics/Sixes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/olympics/GameFormat> <NFL-CNN-8> .
+ <http://example.org/olympics/Lacrosse> <http://example.org/olympics/isFirstTimeInOlympics> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NFL-CNN-8> .
+ <http://example.org/olympics/LA28> <http://example.org/olympics/organizingCommitteeChair> <http://example.org/olympics/CaseyWasserman> <NFL-CNN-8> .
+ <http://example.org/olympics/LA28> <http://example.org/olympics/includedSports> <http://example.org/olympics/BaseballSoftball> <NFL-CNN-8> .
+ <http://example.org/olympics/Cricket> <http://example.org/olympics/isFirstTimeInOlympics> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NFL-CNN-8> .
+ <http://example.org/olympics/LA28> <http://example.org/olympics/includedSports> <http://example.org/olympics/FlagFootball> <NFL-CNN-8> .
+ <http://example.org/olympics/BaseballSoftball> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/olympics/Sport> <NFL-CNN-8> .
+ <http://example.org/olympics/Squash> <http://example.org/olympics/isFirstTimeInOlympics> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NFL-CNN-8> .
+ <http://example.org/olympics/IOC> <http://xmlns.com/foaf/0.1/name> "International Olympic Committee"  <NFL-CNN-8> .
+ <http://example.org/olympics/LA28> <http://example.org/olympics/includedSports> <http://example.org/olympics/Squash> <NFL-CNN-8> .
+ <http://example.org/olympics/FlagFootball> <http://example.org/olympics/isFirstTimeInOlympics> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NFL-CNN-8> .
+ <http://example.org/olympics/Cricket> <http://www.w3.org/2000/01/rdf-schema#label> "Cricket"  <NFL-CNN-8> .
+ <http://example.org/NewYorkGiants> <http://xmlns.com/foaf/0.1/name> "New York Giants"  <NFL-CNN-9> .
+ <http://example.org/PhiladelphiaEagles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NFL-CNN-9> .
+ <http://example.org/MiamiDolphins1972> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b17> <http://dbpedia.org/ontology/competitor> <http://example.org/MiamiDolphins> <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b7> <http://dbpedia.org/ontology/touchdown> "Touchdown catch"  <NFL-CNN-9> .
+ <http://example.org/AaronRodgers> <http://dbpedia.org/ontology/injury> "Achilles tendon tear"  <NFL-CNN-9> .
+ <http://example.org/JalenHurts> <http://schema.org/memberOf> <http://example.org/PhiladelphiaEagles> <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b10> <http://dbpedia.org/ontology/competitor> <http://example.org/TennesseeTitans> <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statistic> <NFL-CNN-9> .
+ <http://example.org/BuffaloBills> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NFL-CNN-9> .
+ <http://example.org/RobertSaleh> <http://schema.org/memberOf> <http://example.org/NewYorkJets> <NFL-CNN-9> .
+ <http://example.org/DarrenWaller> <http://xmlns.com/foaf/0.1/name> "Darren Waller"  <NFL-CNN-9> .
+ <http://example.org/KyleShanahan> <http://dbpedia.org/ontology/position> "Head Coach"  <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statistic> <NFL-CNN-9> .
+ <http://example.org/BreeceHall> <http://schema.org/memberOf> <http://example.org/NewYorkJets> <NFL-CNN-9> .
+ <http://example.org/ZachWilson> <http://schema.org/memberOf> <http://example.org/NewYorkJets> <NFL-CNN-9> .
+ <http://example.org/PJWalker> <http://schema.org/memberOf> <http://example.org/ClevelandBrowns> <NFL-CNN-9> .
+ <http://example.org/TaronJohnson> <http://xmlns.com/foaf/0.1/name> "Taron Johnson"  <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b16> <http://dbpedia.org/ontology/competitor> <http://example.org/JacksonvilleJaguars> <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b15> <http://dbpedia.org/ontology/competitor> <http://example.org/HoustonTexans> <NFL-CNN-9> .
+ <http://example.org/MiamiDolphins1972> <http://xmlns.com/foaf/0.1/name> "1972 Miami Dolphins"  <NFL-CNN-9> .
+ <http://example.org/AaronRodgers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-9> .
+ <http://example.org/DeshaunWatson> <http://dbpedia.org/ontology/injury> "Injury"  <NFL-CNN-9> .
+ <http://example.org/JoshAllen> <http://dbpedia.org/ontology/statistic> <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b6>  <NFL-CNN-9> .
+ <http://example.org/DeonteHardy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-9> .
+ <http://example.org/QuintinMorris> <http://dbpedia.org/ontology/position> "Player"  <NFL-CNN-9> .
+ <http://example.org/TyrodTaylor> <http://dbpedia.org/ontology/statistic> <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b9>  <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b10> <http://dbpedia.org/ontology/competitor> <http://example.org/BaltimoreRavens> <NFL-CNN-9> .
+ <http://example.org/ClevelandBrowns> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b10> <http://dbpedia.org/ontology/score> "24-16"  <NFL-CNN-9> .
+ <http://example.org/JakeMoody> <http://dbpedia.org/ontology/position> "Rookie Kicker"  <NFL-CNN-9> .
+ <http://example.org/NickChubb> <http://dbpedia.org/ontology/injury> "Injury"  <NFL-CNN-9> .
+ <http://example.org/PJWalker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-9> .
+ <http://example.org/QuintinMorris> <http://schema.org/memberOf> <http://example.org/BuffaloBills> <NFL-CNN-9> .
+ <http://example.org/DarrenWaller> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-9> .
+ <http://example.org/TaronJohnson> <http://dbpedia.org/ontology/position> "Cornerback"  <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b11> <http://dbpedia.org/ontology/competitor> <http://example.org/WashingtonCommanders> <NFL-CNN-9> .
+ <http://example.org/NewYorkJets> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b8> <http://dbpedia.org/ontology/touchdown> "Touchdown catch"  <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statistic> <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b22> <http://dbpedia.org/ontology/score> "9-14"  <NFL-CNN-9> .
+ <http://example.org/NewYorkGiants> <http://dbpedia.org/ontology/teamStatus> "Defeat by Buffalo Bills"  <NFL-CNN-9> .
+ <http://example.org/MylesGarrett> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-9> .
+ <http://example.org/DeshaunWatson> <http://xmlns.com/foaf/0.1/name> "Deshaun Watson"  <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b18> <http://dbpedia.org/ontology/competitor> <http://example.org/NewEnglandPatriots> <NFL-CNN-9> .
+ <http://example.org/NewEnglandPatriots2007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NFL-CNN-9> .
+ <http://example.org/QuintinMorris> <http://xmlns.com/foaf/0.1/name> "Quintin Morris"  <NFL-CNN-9> .
+ <http://example.org/SanFrancisco49ers> <http://xmlns.com/foaf/0.1/name> "San Francisco 49ers"  <NFL-CNN-9> .
+ <http://example.org/JalenHurts> <http://dbpedia.org/ontology/position> "Quarterback"  <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b2> <http://dbpedia.org/ontology/touchdown> "Short touchdown run"  <NFL-CNN-9> .
+ <http://example.org/SanFrancisco49ers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NFL-CNN-9> .
+ <http://example.org/TaronJohnson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-9> .
+ <http://example.org/PhiladelphiaEagles> <http://dbpedia.org/ontology/teamStatus> "First defeat of the season"  <NFL-CNN-9> .
+ <http://example.org/NickChubb> <http://schema.org/memberOf> <http://example.org/ClevelandBrowns> <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b11> <http://dbpedia.org/ontology/score> "24-16"  <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b21> <http://dbpedia.org/ontology/competitor> <http://example.org/NewYorkJets> <NFL-CNN-9> .
+ <http://example.org/KareemHunt> <http://xmlns.com/foaf/0.1/name> "Kareem Hunt"  <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b20> <http://dbpedia.org/ontology/score> "9-26"  <NFL-CNN-9> .
+ <http://example.org/Week6Scores> <http://dbpedia.org/ontology/subEvent> <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b20>  <NFL-CNN-9> .
+ <http://example.org/Week6Scores> <http://dbpedia.org/ontology/date> "2023-10-15"^^<http://www.w3.org/2001/XMLSchema#date>  <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b15> <http://dbpedia.org/ontology/score> "13-20"  <NFL-CNN-9> .
+ <http://example.org/NewYorkJets> <http://xmlns.com/foaf/0.1/name> "New York Jets"  <NFL-CNN-9> .
+ <http://example.org/SanFrancisco49ers> <http://dbpedia.org/ontology/teamStatus> "First defeat of the season"  <NFL-CNN-9> .
+ <http://example.org/JakeMoody> <http://xmlns.com/foaf/0.1/name> "Jake Moody"  <NFL-CNN-9> .
+ <http://example.org/NewEnglandPatriots2007> <http://xmlns.com/foaf/0.1/name> "2007 New England Patriots"  <NFL-CNN-9> .
+ <http://example.org/DeshaunWatson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-9> .
+ <http://example.org/ZachWilson> <http://xmlns.com/foaf/0.1/name> "Zach Wilson"  <NFL-CNN-9> .
+ <http://example.org/SanFrancisco49ers> <http://dbpedia.org/ontology/record> "5-1"  <NFL-CNN-9> .
+ <http://example.org/RobertSaleh> <http://dbpedia.org/ontology/position> "Head Coach"  <NFL-CNN-9> .
+ <http://example.org/JoshAllen> <http://schema.org/memberOf> <http://example.org/BuffaloBills> <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b4> <http://dbpedia.org/ontology/fieldGoalMisses> "Missed last-second 41-yard field goal"  <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b19> <http://dbpedia.org/ontology/competitor> <http://example.org/TampaBayBuccaneers> <NFL-CNN-9> .
+ <http://example.org/Week6Scores> <http://dbpedia.org/ontology/subEvent> <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b12>  <NFL-CNN-9> .
+ <http://example.org/NickChubb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b18> <http://dbpedia.org/ontology/score> "17-21"  <NFL-CNN-9> .
+ <http://example.org/TonyAdams> <http://dbpedia.org/ontology/statistic> <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b1>  <NFL-CNN-9> .
+ <http://example.org/DeonteHardy> <http://dbpedia.org/ontology/statistic> <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b8>  <NFL-CNN-9> .
+ <http://example.org/NewYorkJets> <http://dbpedia.org/ontology/teamStatus> "Victory over Philadelphia Eagles"  <NFL-CNN-9> .
+ <http://example.org/JoshAllen> <http://xmlns.com/foaf/0.1/name> "Josh Allen"  <NFL-CNN-9> .
+ <http://example.org/BreeceHall> <http://xmlns.com/foaf/0.1/name> "Breece Hall"  <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b12> <http://dbpedia.org/ontology/score> "19-13"  <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b17> <http://dbpedia.org/ontology/score> "21-42"  <NFL-CNN-9> .
+ <http://example.org/NewEnglandPatriots2007> <http://dbpedia.org/ontology/record> "16-0"  <NFL-CNN-9> .
+ <http://example.org/JoshAllen> <http://dbpedia.org/ontology/position> "Quarterback"  <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b21> <http://dbpedia.org/ontology/competitor> <http://example.org/PhiladelphiaEagles> <NFL-CNN-9> .
+ <http://example.org/TonyAdams> <http://schema.org/memberOf> <http://example.org/NewYorkJets> <NFL-CNN-9> .
+ <http://example.org/JeremiahOwusuKoramoah> <http://xmlns.com/foaf/0.1/name> "Jeremiah Owusu-Koramoah"  <NFL-CNN-9> .
+ <http://example.org/AaronRodgers> <http://xmlns.com/foaf/0.1/name> "Aaron Rodgers"  <NFL-CNN-9> .
+ <http://example.org/KareemHunt> <http://schema.org/memberOf> <http://example.org/ClevelandBrowns> <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b11> <http://dbpedia.org/ontology/competitor> <http://example.org/AtlantaFalcons> <NFL-CNN-9> .
+ <http://example.org/TyrodTaylor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-9> .
+ <http://example.org/Week6Scores> <http://dbpedia.org/ontology/subEvent> <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b21>  <NFL-CNN-9> .
+ <http://example.org/MylesGarrett> <http://xmlns.com/foaf/0.1/name> "Myles Garrett"  <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b12> <http://dbpedia.org/ontology/competitor> <http://example.org/MinnesotaVikings> <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statistic> <NFL-CNN-9> .
+ <http://example.org/Week6Scores> <http://dbpedia.org/ontology/subEvent> <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b11>  <NFL-CNN-9> .
+ <http://example.org/RobertSaleh> <http://xmlns.com/foaf/0.1/name> "Robert Saleh"  <NFL-CNN-9> .
+ <http://example.org/PhiladelphiaEagles> <http://xmlns.com/foaf/0.1/name> "Philadelphia Eagles"  <NFL-CNN-9> .
+ <http://example.org/KareemHunt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statistic> <NFL-CNN-9> .
+ <http://example.org/ClevelandBrowns> <http://dbpedia.org/ontology/record> "Unknown"  <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b16> <http://dbpedia.org/ontology/competitor> <http://example.org/IndianapolisColts> <NFL-CNN-9> .
+ <http://example.org/DeonteHardy> <http://schema.org/memberOf> <http://example.org/BuffaloBills> <NFL-CNN-9> .
+ <http://example.org/KyleShanahan> <http://schema.org/memberOf> <http://example.org/SanFrancisco49ers> <NFL-CNN-9> .
+ <http://example.org/JakeMoody> <http://dbpedia.org/ontology/statistic> <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b4>  <NFL-CNN-9> .
+ <http://example.org/PJWalker> <http://xmlns.com/foaf/0.1/name> "PJ Walker"  <NFL-CNN-9> .
+ <http://example.org/AaronRodgers> <http://schema.org/memberOf> <http://example.org/NewYorkJets> <NFL-CNN-9> .
+ <http://example.org/MylesGarrett> <http://dbpedia.org/ontology/position> "Defensive Player"  <NFL-CNN-9> .
+ <http://example.org/NewYorkJets> <http://dbpedia.org/ontology/record> "3-3"  <NFL-CNN-9> .
+ <http://example.org/PhiladelphiaEagles> <http://dbpedia.org/ontology/record> "5-1"  <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statistic> <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b13> <http://dbpedia.org/ontology/competitor> <http://example.org/CincinnatiBengals> <NFL-CNN-9> .
+ <http://example.org/JalenHurts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b14> <http://dbpedia.org/ontology/score> "17-19"  <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b20> <http://dbpedia.org/ontology/competitor> <http://example.org/ArizonaCardinals> <NFL-CNN-9> .
+ <http://example.org/NickChubb> <http://dbpedia.org/ontology/position> "Star Running Back"  <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b19> <http://dbpedia.org/ontology/score> "20-6"  <NFL-CNN-9> .
+ <http://example.org/Week6Scores> <http://dbpedia.org/ontology/subEvent> <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b15>  <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statistic> <NFL-CNN-9> .
+ <http://example.org/NewEnglandPatriots2007> <http://dbpedia.org/ontology/championship> "Super Bowl XLII"  <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b14> <http://dbpedia.org/ontology/competitor> <http://example.org/SanFrancisco49ers> <NFL-CNN-9> .
+ <http://example.org/Week6Scores> <http://dbpedia.org/ontology/subEvent> <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b22>  <NFL-CNN-9> .
+ <http://example.org/PJWalker> <http://dbpedia.org/ontology/position> "Quarterback"  <NFL-CNN-9> .
+ <http://example.org/MiamiDolphins1972> <http://dbpedia.org/ontology/record> "14-0"  <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b22> <http://dbpedia.org/ontology/competitor> <http://example.org/NewYorkGiants> <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b13> <http://dbpedia.org/ontology/score> "13-17"  <NFL-CNN-9> .
+ <http://example.org/NickChubb> <http://xmlns.com/foaf/0.1/name> "Nick Chubb"  <NFL-CNN-9> .
+ <http://example.org/MylesGarrett> <http://schema.org/memberOf> <http://example.org/ClevelandBrowns> <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b1> <http://dbpedia.org/ontology/interception> "Fourth-quarter interception returned 45 yards"  <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b16> <http://dbpedia.org/ontology/score> "20-37"  <NFL-CNN-9> .
+ <http://example.org/Week6Scores> <http://dbpedia.org/ontology/subEvent> <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b14>  <NFL-CNN-9> .
+ <http://example.org/DeonteHardy> <http://xmlns.com/foaf/0.1/name> "Deonte Hardy"  <NFL-CNN-9> .
+ <http://example.org/RobertSaleh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-9> .
+ <http://example.org/TaronJohnson> <http://schema.org/memberOf> <http://example.org/BuffaloBills> <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b9> <http://dbpedia.org/ontology/team> "Starting instead of injured Daniel Jones"  <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b15> <http://dbpedia.org/ontology/competitor> <http://example.org/NewOrleansSaints> <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b13> <http://dbpedia.org/ontology/competitor> <http://example.org/SeattleSeahawks> <NFL-CNN-9> .
+ <http://example.org/BreeceHall> <http://dbpedia.org/ontology/position> "Running Back"  <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b3> <http://dbpedia.org/ontology/interception> "Intercepted three times"  <NFL-CNN-9> .
+ <http://example.org/MiamiDolphins1972> <http://dbpedia.org/ontology/teamStatus> "Undefeated during the regular season"  <NFL-CNN-9> .
+ <http://example.org/BreeceHall> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-9> .
+ <http://example.org/ZachWilson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-9> .
+ <http://example.org/KyleShanahan> <http://xmlns.com/foaf/0.1/name> "Kyle Shanahan"  <NFL-CNN-9> .
+ <http://example.org/DarrenWaller> <http://dbpedia.org/ontology/position> "Tight End"  <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b19> <http://dbpedia.org/ontology/competitor> <http://example.org/DetroitLions> <NFL-CNN-9> .
+ <http://example.org/TyrodTaylor> <http://schema.org/memberOf> <http://example.org/NewYorkGiants> <NFL-CNN-9> .
+ <http://example.org/Week6Scores> <http://dbpedia.org/ontology/subEvent> <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b13>  <NFL-CNN-9> .
+ <http://example.org/BuffaloBills> <http://dbpedia.org/ontology/teamStatus> "Victory over New York Giants"  <NFL-CNN-9> .
+ <http://example.org/DarrenWaller> <http://schema.org/memberOf> <http://example.org/NewYorkGiants> <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b22> <http://dbpedia.org/ontology/competitor> <http://example.org/BuffaloBills> <NFL-CNN-9> .
+ <http://example.org/BuffaloBills> <http://xmlns.com/foaf/0.1/name> "Buffalo Bills"  <NFL-CNN-9> .
+ <http://example.org/TyrodTaylor> <http://xmlns.com/foaf/0.1/name> "Tyrod Taylor"  <NFL-CNN-9> .
+ <http://example.org/TonyAdams> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-9> .
+ <http://example.org/AaronRodgers> <http://dbpedia.org/ontology/position> "Original Starter Quarterback"  <NFL-CNN-9> .
+ <http://example.org/JoshAllen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-9> .
+ <http://example.org/Week6Scores> <http://dbpedia.org/ontology/subEvent> <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b18>  <NFL-CNN-9> .
+ <http://example.org/KyleShanahan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-9> .
+ <http://example.org/DeonteHardy> <http://dbpedia.org/ontology/position> "Player"  <NFL-CNN-9> .
+ <http://example.org/JeremiahOwusuKoramoah> <http://dbpedia.org/ontology/position> "Defensive Player"  <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b18> <http://dbpedia.org/ontology/competitor> <http://example.org/LasVegasRaiders> <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b6> <http://dbpedia.org/ontology/passingYards> "169 yards"  <NFL-CNN-9> .
+ <http://example.org/JakeMoody> <http://schema.org/memberOf> <http://example.org/SanFrancisco49ers> <NFL-CNN-9> .
+ <http://example.org/MiamiDolphins1972> <http://dbpedia.org/ontology/championship> "Super Bowl VII"  <NFL-CNN-9> .
+ <http://example.org/Week6Scores> <http://dbpedia.org/ontology/subEvent> <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b17>  <NFL-CNN-9> .
+ <http://example.org/QuintinMorris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-9> .
+ <http://example.org/QuintinMorris> <http://dbpedia.org/ontology/statistic> <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b7>  <NFL-CNN-9> .
+ <http://example.org/NewYorkGiants> <http://dbpedia.org/ontology/record> "1-5"  <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b6> <http://dbpedia.org/ontology/touchdownPasses> "Two touchdowns"  <NFL-CNN-9> .
+ <http://example.org/Week6Scores> <http://dbpedia.org/ontology/subEvent> <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b19>  <NFL-CNN-9> .
+ <http://example.org/KareemHunt> <http://dbpedia.org/ontology/position> "Running Back"  <NFL-CNN-9> .
+ <http://example.org/JalenHurts> <http://dbpedia.org/ontology/statistic> <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b3>  <NFL-CNN-9> .
+ <http://example.org/TonyAdams> <http://dbpedia.org/ontology/position> "Defensive Player"  <NFL-CNN-9> .
+ <http://example.org/BuffaloBills> <http://dbpedia.org/ontology/record> "4-2"  <NFL-CNN-9> .
+ <http://example.org/NewYorkGiants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsTeam> <NFL-CNN-9> .
+ <http://example.org/Week6Scores> <http://dbpedia.org/ontology/subEvent> <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b10>  <NFL-CNN-9> .
+ <http://example.org/TyrodTaylor> <http://dbpedia.org/ontology/position> "Quarterback"  <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statistic> <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b20> <http://dbpedia.org/ontology/competitor> <http://example.org/LosAngelesRams> <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b21> <http://dbpedia.org/ontology/score> "14-20"  <NFL-CNN-9> .
+ <http://example.org/JeremiahOwusuKoramoah> <http://schema.org/memberOf> <http://example.org/ClevelandBrowns> <NFL-CNN-9> .
+ <http://example.org/KareemHunt> <http://dbpedia.org/ontology/statistic> <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b5>  <NFL-CNN-9> .
+ <http://example.org/ClevelandBrowns> <http://xmlns.com/foaf/0.1/name> "Cleveland Browns"  <NFL-CNN-9> .
+ <http://example.org/NewEnglandPatriots2007> <http://dbpedia.org/ontology/teamStatus> "Undefeated during the regular season"  <NFL-CNN-9> .
+ <http://example.org/ZachWilson> <http://dbpedia.org/ontology/position> "Back-up Quarterback"  <NFL-CNN-9> .
+ <http://example.org/JeremiahOwusuKoramoah> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-9> .
+ <http://example.org/Week6Scores> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <NFL-CNN-9> .
+ <http://example.org/JakeMoody> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NFL-CNN-9> .
+ <http://example.org/JalenHurts> <http://xmlns.com/foaf/0.1/name> "Jalen Hurts"  <NFL-CNN-9> .
+ <http://example.org/TonyAdams> <http://xmlns.com/foaf/0.1/name> "Tony Adams"  <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b5> <http://dbpedia.org/ontology/touchdown> "Team's only touchdown of the game"  <NFL-CNN-9> .
+ <http://example.org/ClevelandBrowns> <http://dbpedia.org/ontology/teamStatus> "Victory over San Francisco 49ers"  <NFL-CNN-9> .
+ <http://example.org/BreeceHall> <http://dbpedia.org/ontology/statistic> <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b2>  <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b14> <http://dbpedia.org/ontology/competitor> <http://example.org/ClevelandBrowns> <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b17> <http://dbpedia.org/ontology/competitor> <http://example.org/CarolinaPanthers> <NFL-CNN-9> .
+ <http://example.org/DeshaunWatson> <http://dbpedia.org/ontology/position> "Starting Quarterback"  <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b12> <http://dbpedia.org/ontology/competitor> <http://example.org/ChicagoBears> <NFL-CNN-9> .
+ <http://example.org/Week6Scores> <http://dbpedia.org/ontology/subEvent> <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b16>  <NFL-CNN-9> .
+ <http://example.org/DeshaunWatson> <http://schema.org/memberOf> <http://example.org/ClevelandBrowns> <NFL-CNN-9> .
+ <http://NFL-CNN-9.com/blank#na678ebfdab7348a683c7161b2e5e01b5b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statistic> <NFL-CNN-9> .

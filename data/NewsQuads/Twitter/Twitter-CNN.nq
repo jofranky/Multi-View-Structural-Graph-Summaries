@@ -1,0 +1,456 @@
+ <http://example.org/twitter/TwitterMigration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/sioc/ns#Topic> <Twitter-CNN-0> .
+ <http://example.org/twitter/Mastodon> <http://purl.org/dc/terms/description> "A social media app gaining popularity as an alternative to Twitter."  <Twitter-CNN-0> .
+ <http://example.org/twitter/TwitterGuide> <http://purl.org/dc/terms/description> "A step-by-step guide provided by Twitter with limited troubleshooting tips for downloading a user's archive."  <Twitter-CNN-0> .
+ <http://example.org/twitter/EugenRochko> <http://schema.org/jobTitle> "Creator of Mastodon"  <Twitter-CNN-0> .
+ <http://example.org/twitter/TwitterArchiveDownload> <http://schema.org/object> <http://example.org/twitter/TwitterArchive> <Twitter-CNN-0> .
+ <http://example.org/twitter/TwitterArchiveDownload> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Action> <Twitter-CNN-0> .
+ <http://example.org/twitter/RIPTwitter> <http://rdfs.org/sioc/ns#topic> "RIPTwitter"  <Twitter-CNN-0> .
+ <http://example.org/twitter/ElonMusk> <http://xmlns.com/foaf/0.1/page> <https://twitter.com/elonmusk> <Twitter-CNN-0> .
+ <http://example.org/twitter/ElonMusk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-CNN-0> .
+ <http://example.org/twitter/EugenRochko> <http://purl.org/dc/terms/description> "Eugen Rochko is considering ways to improve the experience of finding contacts on Mastodon as users migrate from Twitter."  <Twitter-CNN-0> .
+ <http://example.org/twitter/TwitterArchiveDownload> <http://purl.org/dc/terms/description> "The process of downloading a user's Twitter archive, including tweets, media, and contacts."  <Twitter-CNN-0> .
+ <http://example.org/twitter/ElonMusk> <http://xmlns.com/foaf/0.1/name> "Elon Musk"  <Twitter-CNN-0> .
+ <http://example.org/twitter/EugenRochko> <http://xmlns.com/foaf/0.1/name> "Eugen Rochko"  <Twitter-CNN-0> .
+ <http://example.org/twitter/RIPTwitter> <http://purl.org/dc/terms/description> "A hashtag trending on Twitter signaling issues within the company and potential departure of users."  <Twitter-CNN-0> .
+ <http://example.org/twitter/TwitterArchive> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/DataDownload> <Twitter-CNN-0> .
+ <http://example.org/twitter/TwitterUser> <http://rdfs.org/sioc/ns#account_of> <http://example.org/twitter/Twitter> <Twitter-CNN-0> .
+ <http://example.org/twitter/TwitterGuide> <http://schema.org/about> <http://example.org/twitter/TwitterArchiveDownload> <Twitter-CNN-0> .
+ <http://example.org/twitter/Mastodon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/sioc/ns#Site> <Twitter-CNN-0> .
+ <http://example.org/twitter/TwitterArchiveDownload> <http://schema.org/agent> <http://example.org/twitter/TwitterUser> <Twitter-CNN-0> .
+ <http://example.org/twitter/ElonMusk> <http://schema.org/jobTitle> "New owner of Twitter"  <Twitter-CNN-0> .
+ <http://example.org/twitter/TwitterUser> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/sioc/ns#UserAccount> <Twitter-CNN-0> .
+ <http://example.org/twitter/EugenRochko> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-CNN-0> .
+ <http://example.org/twitter/TwitterArchive> <http://purl.org/dc/terms/description> "An archive that includes a user's profile information, tweets, direct messages, media, and list of followers."  <Twitter-CNN-0> .
+ <http://example.org/twitter/RIPTwitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/sioc/ns#Microblog> <Twitter-CNN-0> .
+ <http://example.org/twitter/TwitterMigration> <http://purl.org/dc/terms/description> "A hashtag used by Twitter users to signal their migration to other platforms and to share their new account information."  <Twitter-CNN-0> .
+ <http://example.org/twitter/Twitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/sioc/ns#Site> <Twitter-CNN-0> .
+ <http://example.org/twitter/TwitterGuide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Twitter-CNN-0> .
+ <http://example.org/twitter/Twitter> <http://purl.org/dc/terms/description> "A social media platform where users are experiencing issues with data preservation services."  <Twitter-CNN-0> .
+ <http://example.org/twitter/Twitodon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <Twitter-CNN-0> .
+ <http://example.org/twitter/TwitterUser> <http://purl.org/dc/terms/description> "A user of Twitter who may be concerned about losing their account and digital memories."  <Twitter-CNN-0> .
+ <http://example.org/twitter/EugenRochko> <http://xmlns.com/foaf/0.1/page> <https://mastodon.social/@Gargron> <Twitter-CNN-0> .
+ <http://example.org/twitter/Twitodon> <http://purl.org/dc/terms/description> "A tool to help users find their Twitter followers and the accounts they followed on Mastodon."  <Twitter-CNN-0> .
+ <http://example.org/Alex_Stamos> <http://schema.org/comment> "Twitter is done as a platform for serious tech conversations"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-CNN-1> .
+ <http://dbpedia.org/resource/Adam_Mosseri> <http://schema.org/comment> "Threads is about more than replacing Twitter"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-CNN-1> .
+ <http://example.org/Alex_Stamos> <http://dbpedia.org/ontology/occupation> "director of the Stanford Internet Observatory"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-CNN-1> .
+ <http://dbpedia.org/resource/Adam_Mosseri> <http://dbpedia.org/ontology/employer> <http://example.org/Meta> <Twitter-CNN-1> .
+ <http://Twitter-CNN-1.com/blank#n27278bc06941449693fa44e21a323666b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/NumberOfEmployees> <Twitter-CNN-1> .
+ <http://example.org/Meta> <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Adam_Mosseri> <Twitter-CNN-1> .
+ <http://example.org/ThreadsApp> <http://dbpedia.org/ontology/numberOfUsers> "100000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-CNN-1> .
+ <http://example.org/Twitter> <http://dbpedia.org/ontology/numberOfEmployees> <http://Twitter-CNN-1.com/blank#n27278bc06941449693fa44e21a323666b1>  <Twitter-CNN-1> .
+ <http://example.org/Kim_Kardashian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Twitter-CNN-1> .
+ <http://example.org/Kim_Kardashian> <http://schema.org/memberOf> <http://example.org/ThreadsApp> <Twitter-CNN-1> .
+ <http://example.org/Meta> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Social_media> <Twitter-CNN-1> .
+ <http://dbpedia.org/resource/Elon_Musk> <http://schema.org/comment> "threats of litigation, proposed physical cage fight with Zuckerberg, sexual insult at Zuckerberg"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-CNN-1> .
+ <http://example.org/Twitter> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Social_media> <Twitter-CNN-1> .
+ <http://Twitter-CNN-1.com/blank#n27278bc06941449693fa44e21a323666b2> <http://dbpedia.org/ontology/rankDate> "February"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-CNN-1> .
+ <http://example.org/Wendys> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Twitter-CNN-1> .
+ <http://dbpedia.org/resource/Mark_Zuckerberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Twitter-CNN-1> .
+ <http://example.org/Wendys> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Fast_food> <Twitter-CNN-1> .
+ <http://dbpedia.org/resource/Cloudflare> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Internet> <Twitter-CNN-1> .
+ <http://example.org/USLawmakers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-CNN-1> .
+ <http://example.org/Matthew_Prince> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Chief_executive_officer> <Twitter-CNN-1> .
+ <http://example.org/Jeff_Bezos> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Businessperson> <Twitter-CNN-1> .
+ <http://example.org/MuskJetTracker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Twitter-CNN-1> .
+ <http://example.org/Kim_Kardashian> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Celebrity> <Twitter-CNN-1> .
+ <http://example.org/Matthew_Prince> <http://schema.org/comment> "Twitter traffic tanking"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-CNN-1> .
+ <http://example.org/MuskJetTracker> <http://schema.org/isPartOf> <http://example.org/ThreadsApp> <Twitter-CNN-1> .
+ <http://example.org/USLawmakers> <http://schema.org/memberOf> <http://example.org/ThreadsApp> <Twitter-CNN-1> .
+ <http://dbpedia.org/resource/Mark_Zuckerberg> <http://schema.org/announcement> "Threads surpassed 100 million users"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-CNN-1> .
+ <http://example.org/Wendys> <http://schema.org/comment> "suggested Zuckerberg should go to space"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-CNN-1> .
+ <http://dbpedia.org/resource/Adam_Mosseri> <http://dbpedia.org/ontology/occupation> "Instagram head"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-CNN-1> .
+ <http://example.org/Twitter> <http://dbpedia.org/ontology/product> <http://example.org/TwitterPlatform> <Twitter-CNN-1> .
+ <http://Twitter-CNN-1.com/blank#n27278bc06941449693fa44e21a323666b2> <http://dbpedia.org/ontology/rank> "35"^^<http://www.w3.org/2001/XMLSchema#int>  <Twitter-CNN-1> .
+ <http://example.org/Alex_Stamos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Twitter-CNN-1> .
+ <http://dbpedia.org/resource/Similarweb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Twitter-CNN-1> .
+ <http://example.org/ThreadsApp> <http://dbpedia.org/ontology/developer> <http://example.org/Meta> <Twitter-CNN-1> .
+ <http://example.org/Matthew_Prince> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/Cloudflare> <Twitter-CNN-1> .
+ <http://Twitter-CNN-1.com/blank#n27278bc06941449693fa44e21a323666b2> <http://dbpedia.org/ontology/rankDate> "Beginning of July"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-CNN-1> .
+ <http://example.org/Jeff_Bezos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Twitter-CNN-1> .
+ <http://example.org/Jeff_Bezos> <http://schema.org/memberOf> <http://example.org/ThreadsApp> <Twitter-CNN-1> .
+ <http://example.org/Meta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Twitter-CNN-1> .
+ <http://Twitter-CNN-1.com/blank#n27278bc06941449693fa44e21a323666b2> <http://dbpedia.org/ontology/rank> "37"^^<http://www.w3.org/2001/XMLSchema#int>  <Twitter-CNN-1> .
+ <http://example.org/ThreadsApp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <Twitter-CNN-1> .
+ <http://dbpedia.org/resource/Similarweb> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Web_analytics> <Twitter-CNN-1> .
+ <http://dbpedia.org/resource/Mark_Zuckerberg> <http://dbpedia.org/ontology/employer> <http://example.org/Meta> <Twitter-CNN-1> .
+ <http://example.org/TwitterPlatform> <http://schema.org/about> "service disruptions, exodus of top advertisers"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-CNN-1> .
+ <http://Twitter-CNN-1.com/blank#n27278bc06941449693fa44e21a323666b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Index> <Twitter-CNN-1> .
+ <http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Entrepreneur> <Twitter-CNN-1> .
+ <http://dbpedia.org/resource/Adam_Mosseri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Twitter-CNN-1> .
+ <http://example.org/David_Carr> <http://schema.org/comment> "Twitter traffic down 5% and 11%"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-CNN-1> .
+ <http://dbpedia.org/resource/Mark_Zuckerberg> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Chief_executive_officer> <Twitter-CNN-1> .
+ <http://Twitter-CNN-1.com/blank#n27278bc06941449693fa44e21a323666b2> <http://dbpedia.org/ontology/rank> "32"^^<http://www.w3.org/2001/XMLSchema#int>  <Twitter-CNN-1> .
+ <http://example.org/Matthew_Prince> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Twitter-CNN-1> .
+ <http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/employer> <http://example.org/Twitter> <Twitter-CNN-1> .
+ <http://example.org/USLawmakers> <http://dbpedia.org/ontology/numberOfMembers> "100"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-CNN-1> .
+ <http://example.org/ThreadsApp> <http://dbpedia.org/ontology/releaseDate> "less than a week ago"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-CNN-1> .
+ <http://example.org/Twitter> <http://dbpedia.org/ontology/owner> <http://dbpedia.org/resource/Elon_Musk> <Twitter-CNN-1> .
+ <http://example.org/MuskJetTracker> <http://schema.org/about> "tracks the movements of Musk’s private jet"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-CNN-1> .
+ <http://dbpedia.org/resource/Cloudflare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Twitter-CNN-1> .
+ <http://example.org/Meta> <http://dbpedia.org/ontology/product> <http://example.org/ThreadsApp> <Twitter-CNN-1> .
+ <http://example.org/TwitterPlatform> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <Twitter-CNN-1> .
+ <http://Twitter-CNN-1.com/blank#n27278bc06941449693fa44e21a323666b2> <http://dbpedia.org/ontology/rank> "40"^^<http://www.w3.org/2001/XMLSchema#int>  <Twitter-CNN-1> .
+ <http://example.org/David_Carr> <http://dbpedia.org/ontology/occupation> "senior insights manager"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-CNN-1> .
+ <http://Twitter-CNN-1.com/blank#n27278bc06941449693fa44e21a323666b2> <http://dbpedia.org/ontology/rankDate> "Spring"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-CNN-1> .
+ <http://example.org/David_Carr> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/Similarweb> <Twitter-CNN-1> .
+ <http://example.org/TwitterPlatform> <http://dbpedia.org/ontology/popularityRanking> <http://Twitter-CNN-1.com/blank#n27278bc06941449693fa44e21a323666b2>  <Twitter-CNN-1> .
+ <http://example.org/Meta> <http://dbpedia.org/ontology/keyPerson> <http://dbpedia.org/resource/Mark_Zuckerberg> <Twitter-CNN-1> .
+ <http://Twitter-CNN-1.com/blank#n27278bc06941449693fa44e21a323666b2> <http://dbpedia.org/ontology/rankDate> "January"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-CNN-1> .
+ <http://Twitter-CNN-1.com/blank#n27278bc06941449693fa44e21a323666b2> <http://dbpedia.org/ontology/rank> "34"^^<http://www.w3.org/2001/XMLSchema#int>  <Twitter-CNN-1> .
+ <http://Twitter-CNN-1.com/blank#n27278bc06941449693fa44e21a323666b1> <http://dbpedia.org/ontology/quantityAmount> "mass layoffs"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-CNN-1> .
+ <http://example.org/Twitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Twitter-CNN-1> .
+ <http://example.org/TwitterPlatform> <http://dbpedia.org/ontology/developer> <http://example.org/Twitter> <Twitter-CNN-1> .
+ <http://example.org/Alex_Stamos> <http://dbpedia.org/ontology/previousOccupation> "chief security officer at Facebook"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-CNN-1> .
+ <http://example.org/ThreadsApp> <http://dbpedia.org/ontology/popularity> "rapidly pass Twitter’s audience size"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-CNN-1> .
+ <http://example.org/David_Carr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Twitter-CNN-1> .
+ <http://dbpedia.org/resource/Elon_Musk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Twitter-CNN-1> .
+ <http://cnn.com/resource/MarkZuckerberg> <http://schema.org/name> "Mark Zuckerberg"  <Twitter-CNN-2> .
+ <http://cnn.com/resource/Spill> <http://dbpedia.org/ontology/founder> <http://cnn.com/resource/AlphonzoTerrell> <Twitter-CNN-2> .
+ <http://cnn.com/resource/EugenRochko> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Twitter-CNN-2> .
+ <http://cnn.com/resource/Threads> <http://dbpedia.org/ontology/launchDate> "2023-03-29"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-CNN-2> .
+ <http://cnn.com/resource/Twitter> <http://dbpedia.org/ontology/acquisitionDate> "2022-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Twitter-CNN-2> .
+ <http://cnn.com/resource/Cohost> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <Twitter-CNN-2> .
+ <http://cnn.com/resource/ElonMusk> <http://schema.org/name> "Elon Musk"  <Twitter-CNN-2> .
+ <http://cnn.com/resource/JaeKaplan> <http://schema.org/name> "Jae Kaplan"  <Twitter-CNN-2> .
+ <http://cnn.com/resource/AntiSoftwareSoftwareClub> <http://schema.org/owns> <http://cnn.com/resource/Cohost> <Twitter-CNN-2> .
+ <http://cnn.com/resource/Threads> <http://dbpedia.org/ontology/numberOfDownloads> "70000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-CNN-2> .
+ <http://cnn.com/resource/EugenRochko> <http://schema.org/founderOf> <http://cnn.com/resource/Mastodon> <Twitter-CNN-2> .
+ <http://cnn.com/resource/JackDorsey> <http://schema.org/founderOf> <http://cnn.com/resource/Bluesky> <Twitter-CNN-2> .
+ <http://cnn.com/resource/MarkZuckerberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Twitter-CNN-2> .
+ <http://cnn.com/resource/Threads> <http://dbpedia.org/ontology/developer> <http://cnn.com/resource/Meta> <Twitter-CNN-2> .
+ <http://cnn.com/resource/Twitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-CNN-2> .
+ <http://cnn.com/resource/Bluesky> <http://dbpedia.org/ontology/founder> <http://cnn.com/resource/JackDorsey> <Twitter-CNN-2> .
+ <http://cnn.com/resource/Spill> <http://schema.org/about> "Visual conversation at the speed of culture"  <Twitter-CNN-2> .
+ <http://cnn.com/resource/Twitter> <http://schema.org/founder> <http://cnn.com/resource/ElonMusk> <Twitter-CNN-2> .
+ <http://cnn.com/resource/SarahOh> <http://schema.org/name> "Sarah Oh"  <Twitter-CNN-2> .
+ <http://cnn.com/resource/Spill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <Twitter-CNN-2> .
+ <http://cnn.com/resource/EugenRochko> <http://schema.org/name> "Eugen Rochko"  <Twitter-CNN-2> .
+ <http://cnn.com/resource/Cohost> <http://schema.org/about> "Text-based social media feed, ad-free, chronological"  <Twitter-CNN-2> .
+ <http://cnn.com/resource/T2> <http://schema.org/about> "Social feed with 280-character limits, focus on safety"  <Twitter-CNN-2> .
+ <http://cnn.com/resource/JaeKaplan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Twitter-CNN-2> .
+ <http://cnn.com/resource/AlphonzoTerrell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Twitter-CNN-2> .
+ <http://cnn.com/resource/Bluesky> <http://schema.org/about> "Decentralized social network"  <Twitter-CNN-2> .
+ <http://cnn.com/resource/SarahOh> <http://schema.org/founderOf> <http://cnn.com/resource/T2> <Twitter-CNN-2> .
+ <http://cnn.com/resource/Bluesky> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <Twitter-CNN-2> .
+ <http://cnn.com/resource/Mastodon> <http://dbpedia.org/ontology/launchDate> "2016"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Twitter-CNN-2> .
+ <http://cnn.com/resource/AlphonzoTerrell> <http://schema.org/founderOf> <http://cnn.com/resource/Spill> <Twitter-CNN-2> .
+ <http://cnn.com/resource/SarahOh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Twitter-CNN-2> .
+ <http://cnn.com/resource/JackDorsey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Twitter-CNN-2> .
+ <http://cnn.com/resource/MarkZuckerberg> <http://schema.org/owns> <http://cnn.com/resource/Meta> <Twitter-CNN-2> .
+ <http://cnn.com/resource/T2> <http://dbpedia.org/ontology/founder> <http://cnn.com/resource/SarahOh> <Twitter-CNN-2> .
+ <http://cnn.com/resource/Twitter> <http://dbpedia.org/ontology/numberOfEmployees> "238000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-CNN-2> .
+ <http://cnn.com/resource/Twitter> <http://dbpedia.org/ontology/owner> <http://cnn.com/resource/ElonMusk> <Twitter-CNN-2> .
+ <http://cnn.com/resource/Meta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-CNN-2> .
+ <http://cnn.com/resource/Threads> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <Twitter-CNN-2> .
+ <http://cnn.com/resource/ElonMusk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Twitter-CNN-2> .
+ <http://cnn.com/resource/AntiSoftwareSoftwareClub> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-CNN-2> .
+ <http://cnn.com/resource/Mastodon> <http://schema.org/about> "Decentralized social network"  <Twitter-CNN-2> .
+ <http://cnn.com/resource/Mastodon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <Twitter-CNN-2> .
+ <http://cnn.com/resource/Meta> <http://schema.org/owns> <http://cnn.com/resource/Threads> <Twitter-CNN-2> .
+ <http://cnn.com/resource/T2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <Twitter-CNN-2> .
+ <http://cnn.com/resource/MarkZuckerberg> <http://schema.org/founderOf> <http://cnn.com/resource/Meta> <Twitter-CNN-2> .
+ <http://cnn.com/resource/AlphonzoTerrell> <http://schema.org/name> "Alphonzo Terrell"  <Twitter-CNN-2> .
+ <http://cnn.com/resource/JaeKaplan> <http://schema.org/founderOf> <http://cnn.com/resource/Cohost> <Twitter-CNN-2> .
+ <http://cnn.com/resource/Meta> <http://schema.org/founder> <http://dbpedia.org/resource/Mark_Zuckerberg> <Twitter-CNN-2> .
+ <http://cnn.com/resource/AntiSoftwareSoftwareClub> <http://schema.org/founder> <http://cnn.com/resource/JaeKaplan> <Twitter-CNN-2> .
+ <http://cnn.com/resource/Threads> <http://schema.org/about> "Real-time conversations online"  <Twitter-CNN-2> .
+ <http://cnn.com/resource/Cohost> <http://dbpedia.org/ontology/launchDate> "2022-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Twitter-CNN-2> .
+ <http://cnn.com/resource/JackDorsey> <http://schema.org/name> "Jack Dorsey"  <Twitter-CNN-2> .
+ <http://example.org/IssueVideoPlayerSlow> <http://schema.org/about> <http://example.org/AdInVideoPlayer> <Twitter-CNN-3> .
+ <http://example.org/IssueVideoNotStartAfterAd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ReviewAspect> <Twitter-CNN-3> .
+ <http://example.org/AdInVideoPlayer> <http://schema.org/name> "Video player advertisement"  <Twitter-CNN-3> .
+ <http://example.org/AdRelevanceFeedbackForm> <http://schema.org/reviewRating> <http://example.org/RatingScale> <Twitter-CNN-3> .
+ <http://example.org/IssueLoudAudio> <http://schema.org/about> <http://example.org/AdInVideoPlayer> <Twitter-CNN-3> .
+ <http://example.org/IssueOther> <http://schema.org/description> "Other issues"  <Twitter-CNN-3> .
+ <http://example.org/IssueLoudAudio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ReviewAspect> <Twitter-CNN-3> .
+ <http://example.org/IssueVideoPlayerSlow> <http://schema.org/description> "Video player was slow to load content"  <Twitter-CNN-3> .
+ <http://example.org/RatingScale> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Rating> <Twitter-CNN-3> .
+ <http://example.org/AdRelevanceFeedbackForm> <http://schema.org/about> <http://example.org/AdInVideoPlayer> <Twitter-CNN-3> .
+ <http://example.org/IssueVideoPlayerSlow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ReviewAspect> <Twitter-CNN-3> .
+ <http://example.org/IssueVideoNeverLoaded> <http://schema.org/about> <http://example.org/AdInVideoPlayer> <Twitter-CNN-3> .
+ <http://example.org/IssueAdFroze> <http://schema.org/about> <http://example.org/AdInVideoPlayer> <Twitter-CNN-3> .
+ <http://example.org/IssueAdFroze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ReviewAspect> <Twitter-CNN-3> .
+ <http://example.org/IssueOther> <http://schema.org/about> <http://example.org/AdInVideoPlayer> <Twitter-CNN-3> .
+ <http://example.org/RatingScale> <http://schema.org/bestRating> "5"^^<http://www.w3.org/2001/XMLSchema#int>  <Twitter-CNN-3> .
+ <http://example.org/IssueVideoNotStartAfterAd> <http://schema.org/about> <http://example.org/AdInVideoPlayer> <Twitter-CNN-3> .
+ <http://example.org/IssueVideoNotStartAfterAd> <http://schema.org/description> "Video content did not start after ad"  <Twitter-CNN-3> .
+ <http://example.org/AdInVideoPlayer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Twitter-CNN-3> .
+ <http://example.org/RatingScale> <http://schema.org/ratingValue> "3"^^<http://www.w3.org/2001/XMLSchema#int>  <Twitter-CNN-3> .
+ <http://example.org/IssueVideoNeverLoaded> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ReviewAspect> <Twitter-CNN-3> .
+ <http://example.org/IssueOther> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ReviewAspect> <Twitter-CNN-3> .
+ <http://example.org/RatingScale> <http://schema.org/worstRating> "1"^^<http://www.w3.org/2001/XMLSchema#int>  <Twitter-CNN-3> .
+ <http://example.org/IssueAdFroze> <http://schema.org/description> "Ad froze or did not finish loading"  <Twitter-CNN-3> .
+ <http://example.org/AdRelevanceFeedbackForm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> <Twitter-CNN-3> .
+ <http://example.org/IssueLoudAudio> <http://schema.org/description> "Audio on ad was too loud"  <Twitter-CNN-3> .
+ <http://example.org/IssueVideoNeverLoaded> <http://schema.org/description> "Video content never loaded"  <Twitter-CNN-3> .
+ <http://example.org/twitter/MTAStatement> <http://schema.org/datePublished> "2023-03-21"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-CNN-4> .
+ <http://example.org/twitter/DeveloperAccount> <http://schema.org/author> <http://example.org/twitter/Twitter> <Twitter-CNN-4> .
+ <http://example.org/twitter/NWSWarning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPosting> <Twitter-CNN-4> .
+ <http://example.org/twitter/MTAStatement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPosting> <Twitter-CNN-4> .
+ <http://example.org/twitter/PublicInstitutions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-CNN-4> .
+ <http://example.org/twitter/NWSWarning> <http://schema.org/text> "Multiple regional accounts run by the National Weather Service warn followers to expect fewer weather updates in connection with Twitter's platform changes."  <Twitter-CNN-4> .
+ <http://example.org/twitter/PolicyChange> <http://schema.org/startDate> "2023-03-28"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-CNN-4> .
+ <http://example.org/twitter/PolicyChange> <http://schema.org/description> "Twitter announces a policy change allowing verified government or publicly owned services to post automated tweets for free."  <Twitter-CNN-4> .
+ <http://example.org/twitter/Twitter> <http://schema.org/name> "Twitter"  <Twitter-CNN-4> .
+ <http://example.org/twitter/APIRestriction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Twitter-CNN-4> .
+ <http://example.org/twitter/Backlash> <http://schema.org/description> "Widespread backlash to Twitter's paid plans, costing up to $2.5 million per year for top-level access privileges."  <Twitter-CNN-4> .
+ <http://example.org/twitter/NationalWeatherService> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-CNN-4> .
+ <http://example.org/twitter/PolicyChange> <http://schema.org/name> "Twitter Policy Change"  <Twitter-CNN-4> .
+ <http://example.org/twitter/TwitterBlue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <Twitter-CNN-4> .
+ <http://example.org/twitter/Backlash> <http://schema.org/name> "Backlash to Twitter's Paid Plans"  <Twitter-CNN-4> .
+ <http://example.org/twitter/PublicInstitutions> <http://schema.org/name> "Public Institutions"  <Twitter-CNN-4> .
+ <http://example.org/twitter/DeveloperAccount> <http://schema.org/text> "One of the most important use cases for the Twitter API has always been public utility. Verified gov or publicly owned services who tweet weather alerts, transport updates and emergency notifications may use the API, for these critical purposes, for free."  <Twitter-CNN-4> .
+ <http://example.org/twitter/MetropolitanTransitAuthority> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-CNN-4> .
+ <http://example.org/twitter/MetropolitanTransitAuthority> <http://schema.org/name> "New York's Metropolitan Transit Authority"  <Twitter-CNN-4> .
+ <http://example.org/twitter/APIRestriction> <http://schema.org/description> "Twitter restricts third parties from easily accessing its application programming interface (API)."  <Twitter-CNN-4> .
+ <http://example.org/twitter/TwitterBlue> <http://schema.org/description> "Twitter's paid subscription program that may involve forcing institutions to pay to access Twitter's API."  <Twitter-CNN-4> .
+ <http://example.org/twitter/PolicyChange> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Twitter-CNN-4> .
+ <http://example.org/twitter/DeveloperAccount> <http://schema.org/datePublished> "2023-03-28"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-CNN-4> .
+ <http://example.org/twitter/MTAStatement> <http://schema.org/text> "New York's Metropolitan Transit Authority announces it will stop posting real-time transit alerts on Twitter, citing reliability issues with Twitter's platform and saying it does not pay tech platforms for the ability to provide the updates."  <Twitter-CNN-4> .
+ <http://example.org/twitter/TwitterBlue> <http://schema.org/name> "Twitter Blue"  <Twitter-CNN-4> .
+ <http://example.org/twitter/NWSWarning> <http://schema.org/datePublished> "2023-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Twitter-CNN-4> .
+ <http://example.org/twitter/VerificationAmbiguity> <http://schema.org/description> "Ambiguity regarding how Twitter plans to ensure that critical public safety and transit accounts would be 'verified'."  <Twitter-CNN-4> .
+ <http://example.org/twitter/Backlash> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Twitter-CNN-4> .
+ <http://example.org/twitter/APIRestriction> <http://schema.org/startDate> "2023-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Twitter-CNN-4> .
+ <http://example.org/twitter/Twitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-CNN-4> .
+ <http://example.org/twitter/NationalWeatherService> <http://schema.org/name> "National Weather Service"  <Twitter-CNN-4> .
+ <http://example.org/twitter/VerificationAmbiguity> <http://schema.org/name> "Ambiguity in Verification for Twitter API Access"  <Twitter-CNN-4> .
+ <http://example.org/twitter/DeveloperAccount> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPosting> <Twitter-CNN-4> .
+ <http://example.org/twitter/NWSWarning> <http://schema.org/author> <http://example.org/twitter/NationalWeatherService> <Twitter-CNN-4> .
+ <http://example.org/twitter/MTAStatement> <http://schema.org/author> <http://example.org/twitter/MetropolitanTransitAuthority> <Twitter-CNN-4> .
+ <http://example.org/twitter/APIRestriction> <http://schema.org/name> "Twitter API Access Restriction"  <Twitter-CNN-4> .
+ <http://example.org/twitter/VerificationAmbiguity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Twitter-CNN-4> .
+ <http://dbpedia.org/resource/Twitter> <http://dbpedia.org/ontology/product> <http://twitter.com/TweetDeck> <Twitter-CNN-5> .
+ <http://dbpedia.org/resource/Twitter> <http://schema.org/maximumIntValue> "500"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-CNN-5> .
+ <http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/ownership> <http://dbpedia.org/resource/Twitter> <Twitter-CNN-5> .
+ <http://dbpedia.org/resource/Elon_Musk> <http://schema.org/startDate> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Twitter-CNN-5> .
+ <http://twitter.com/TweetDeck> <http://schema.org/feature> "columns carry over"  <Twitter-CNN-5> .
+ <http://dbpedia.org/resource/Twitter> <http://dbpedia.org/ontology/problem> "advertiser exodus"  <Twitter-CNN-5> .
+ <http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Billionaire> <Twitter-CNN-5> .
+ <http://dbpedia.org/resource/Twitter> <http://schema.org/audience> <http://schema.org/VerifiedUsers> <Twitter-CNN-5> .
+ <http://dbpedia.org/resource/Twitter> <http://schema.org/maximumIntValue> "1000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-CNN-5> .
+ <http://dbpedia.org/resource/Elon_Musk> <http://schema.org/allegedReason> "unconfirmed"  <Twitter-CNN-5> .
+ <http://dbpedia.org/resource/Twitter> <http://schema.org/dateModified> "2023-03-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-CNN-5> .
+ <http://dbpedia.org/resource/Twitter> <http://dbpedia.org/ontology/announcement> "TweetDeck paywall"  <Twitter-CNN-5> .
+ <http://dbpedia.org/resource/Twitter> <http://dbpedia.org/ontology/owner> <http://dbpedia.org/resource/Elon_Musk> <Twitter-CNN-5> .
+ <http://dbpedia.org/resource/Twitter> <http://schema.org/datePosted> "2023-03-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-CNN-5> .
+ <http://dbpedia.org/resource/Twitter> <http://xmlns.com/foaf/0.1/status> "controversial"  <Twitter-CNN-5> .
+ <http://twitter.com/TweetDeck> <http://schema.org/audience> <http://schema.org/MediaOrganizations> <Twitter-CNN-5> .
+ <http://dbpedia.org/resource/Twitter> <http://dbpedia.org/ontology/service> <http://schema.org/SubscriptionService> <Twitter-CNN-5> .
+ <http://dbpedia.org/resource/Elon_Musk> <http://schema.org/reason> "extreme levels of data scraping & system manipulation"  <Twitter-CNN-5> .
+ <http://twitter.com/Twitter_Blue> <http://schema.org/offers> <http://schema.org/BlueCheckMark> <Twitter-CNN-5> .
+ <http://twitter.com/TweetDeck> <http://schema.org/audience> <http://schema.org/Businesses> <Twitter-CNN-5> .
+ <http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/activity> <http://dbpedia.org/ontology/RevenueStreamAddition> <Twitter-CNN-5> .
+ <http://twitter.com/TweetDeck> <http://schema.org/accessMode> "verified users only"  <Twitter-CNN-5> .
+ <http://twitter.com/Twitter_Blue> <http://schema.org/serviceType> "subscription service"  <Twitter-CNN-5> .
+ <http://dbpedia.org/resource/Twitter> <http://schema.org/maximumIntValue> "10000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-CNN-5> .
+ <http://dbpedia.org/resource/Twitter> <http://schema.org/cause> "Elon Musk takeover"  <Twitter-CNN-5> .
+ <http://twitter.com/TweetDeck> <http://schema.org/startDate> "2023-04-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-CNN-5> .
+ <http://dbpedia.org/resource/Twitter> <http://schema.org/audience> <http://schema.org/UnverifiedUsers> <Twitter-CNN-5> .
+ <http://dbpedia.org/resource/Twitter> <http://schema.org/audience> <http://schema.org/NewUnverifiedAccounts> <Twitter-CNN-5> .
+ <http://twitter.com/TweetDeck> <http://schema.org/feature> "saved searches carry over"  <Twitter-CNN-5> .
+ <http://dbpedia.org/resource/Twitter> <http://dbpedia.org/ontology/announcement> "temporary reading limits"  <Twitter-CNN-5> .
+ <http://twitter.com/TweetDeck> <http://schema.org/feature> "lists carry over"  <Twitter-CNN-5> .
+ <http://dbpedia.org/resource/Twitter> <http://schema.org/requires> "logged in account"  <Twitter-CNN-5> .
+ <http://dbpedia.org/resource/Twitter> <http://dbpedia.org/ontology/feature> "access restriction"  <Twitter-CNN-5> .
+ <http://twitter.com/TweetDeck> <http://schema.org/version> "new, improved"  <Twitter-CNN-5> .
+ <http://dbpedia.org/resource/Twitter> <http://dbpedia.org/ontology/feature> "reading limits"  <Twitter-CNN-5> .
+ <http://twitter.com/TweetDeck> <http://dbpedia.org/ontology/feature> "dashboard"  <Twitter-CNN-5> .
+ <http://twitter.com/TweetDeck> <http://dbpedia.org/ontology/feature> "organize and monitor accounts"  <Twitter-CNN-5> .
+ <http://dbpedia.org/resource/Twitter> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Twitter_Blue> <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Paul_Barrett> <http://dbpedia.org/ontology/employer> <http://www.stern.nyu.edu/Stern_Center_for_Business_and_Human_Rights> <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Sarah_Silverman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/John_Scott-Railton> <http://xmlns.com/foaf/0.1/name> "John Scott-Railton"  <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/John_Scott-Railton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Capitol_insurrection> <http://dbpedia.org/ontology/date> "2021-01-06"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Chris_Krebs> <http://xmlns.com/foaf/0.1/name> "Chris Krebs"  <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Donald_Trump> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/John_Scott-Railton> <http://dbpedia.org/ontology/field> "Cybersecurity and Disinformation"  <Twitter-CNN-6> .
+ <http://www.stern.nyu.edu/Stern_Center_for_Business_and_Human_Rights> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/New_York_University> <Twitter-CNN-6> .
+ <http://twitter.com/Brian_Poliakoff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/General_Mills> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Food_processing> <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Kathy_Griffin> <http://xmlns.com/foaf/0.1/name> "Kathy Griffin"  <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Twitter> <http://dbpedia.org/ontology/owner> <http://dbpedia.org/resource/Elon_Musk> <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/John_Scott-Railton> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/University_of_Toronto> <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Capitol_insurrection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Audi> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Automotive_industry> <Twitter-CNN-6> .
+ <http://twitter.com/Brian_Poliakoff> <http://dbpedia.org/ontology/title> "Former Global Head of Corporate and Customer Communications at Twitter"  <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Jen_Easterly> <http://dbpedia.org/ontology/title> "Director of CISA"  <Twitter-CNN-6> .
+ <http://twitter.com/Andrew_Haigh> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/Twitter> <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Audi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Twitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Twitter-CNN-6> .
+ <http://twitter.com/Yoel_Roth> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/Twitter> <Twitter-CNN-6> .
+ <http://twitter.com/Yoel_Roth> <http://xmlns.com/foaf/0.1/name> "Yoel Roth"  <Twitter-CNN-6> .
+ <http://twitter.com/Andrew_Haigh> <http://dbpedia.org/ontology/title> "Former Senior Curation Lead for Europe, the Middle East and Africa at Twitter"  <Twitter-CNN-6> .
+ <http://www.stern.nyu.edu/Stern_Center_for_Business_and_Human_Rights> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Paul_Barrett> <http://xmlns.com/foaf/0.1/name> "Paul Barrett"  <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/John_Scott-Railton> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Researcher> <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Kathy_Griffin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Jessica_González> <http://xmlns.com/foaf/0.1/name> "Jessica González"  <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Donald_Trump> <http://dbpedia.org/ontology/title> "Former President of the United States"  <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/Twitter> <Twitter-CNN-6> .
+ <http://www.stern.nyu.edu/Stern_Center_for_Business_and_Human_Rights> <http://dbpedia.org/ontology/field> "Business and Human Rights"  <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Chris_Krebs> <http://dbpedia.org/ontology/title> "Former Director of CISA"  <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/General_Mills> <http://schema.org/suspend> "Advertising on Twitter"  <Twitter-CNN-6> .
+ <http://twitter.com/Yoel_Roth> <http://dbpedia.org/ontology/title> "Head of Safety and Integrity at Twitter"  <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Audi> <http://schema.org/suspend> "Advertising on Twitter"  <Twitter-CNN-6> .
+ <http://twitter.com/Andrew_Haigh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Donald_Trump> <http://xmlns.com/foaf/0.1/name> "Donald Trump"  <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Kathy_Griffin> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Comedian> <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Paul_Barrett> <http://dbpedia.org/ontology/title> "Deputy Director of NYU's Stern Center for Business and Human Rights"  <Twitter-CNN-6> .
+ <https://www.cisa.gov/Cybersecurity_and_Infrastructure_Security_Agency> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Jen_Easterly> <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Toronto> <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/General_Mills> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Twitter_Blue> <Twitter-CNN-6> .
+ <http://twitter.com/Julie_Steele> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Twitter-CNN-6> .
+ <http://twitter.com/Andrew_Haigh> <http://xmlns.com/foaf/0.1/name> "Andrew Haigh"  <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Jessica_González> <http://dbpedia.org/ontology/title> "Co-CEO of Free Press"  <Twitter-CNN-6> .
+ <http://twitter.com/Brian_Poliakoff> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/Twitter> <Twitter-CNN-6> .
+ <https://www.cisa.gov/Cybersecurity_and_Infrastructure_Security_Agency> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/United_States> <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Entrepreneur> <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Audi> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Twitter_Blue> <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/University_of_Toronto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Capitol_insurrection> <http://dbpedia.org/ontology/cause> "Misinformation"  <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Twitter> <http://dbpedia.org/ontology/numberOfEmployees> "7500"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-CNN-6> .
+ <http://twitter.com/Brian_Poliakoff> <http://xmlns.com/foaf/0.1/name> "Brian Poliakoff"  <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Sarah_Silverman> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Comedian> <Twitter-CNN-6> .
+ <http://twitter.com/Julie_Steele> <http://dbpedia.org/ontology/title> "Former Head of Internal Communications at Twitter"  <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Chris_Krebs> <http://dbpedia.org/ontology/employer> <https://www.cisa.gov/Cybersecurity_and_Infrastructure_Security_Agency> <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Chris_Krebs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Paul_Barrett> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Academic> <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Sarah_Silverman> <http://xmlns.com/foaf/0.1/name> "Sarah Silverman"  <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/University_of_Toronto> <http://dbpedia.org/ontology/field> "Higher Education"  <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Twitter> <http://xmlns.com/foaf/0.1/homepage> <https://twitter.com> <Twitter-CNN-6> .
+ <http://twitter.com/Julie_Steele> <http://xmlns.com/foaf/0.1/name> "Julie Steele"  <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/General_Mills> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Jessica_González> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/title> "Owner of Twitter"  <Twitter-CNN-6> .
+ <http://twitter.com/Julie_Steele> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/Twitter> <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Jen_Easterly> <http://xmlns.com/foaf/0.1/name> "Jen Easterly"  <Twitter-CNN-6> .
+ <http://twitter.com/Yoel_Roth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Paul_Barrett> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Jen_Easterly> <http://dbpedia.org/ontology/employer> <https://www.cisa.gov/Cybersecurity_and_Infrastructure_Security_Agency> <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Donald_Trump> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Politician> <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Jen_Easterly> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Twitter-CNN-6> .
+ <https://www.cisa.gov/Cybersecurity_and_Infrastructure_Security_Agency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/GovernmentAgency> <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Twitter> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Social_media> <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Elon_Musk> <http://xmlns.com/foaf/0.1/name> "Elon Musk"  <Twitter-CNN-6> .
+ <http://dbpedia.org/resource/Elon_Musk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Twitter-CNN-6> .
+ <http://example.org/neverLoaded> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> <Twitter-CNN-7> .
+ <http://example.org/audioTooLoud> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#string> <Twitter-CNN-7> .
+ <http://example.org/UserFeedback1> <http://example.org/contentDidNotStartAfterAd> "Video content did not start after ad"  <Twitter-CNN-7> .
+ <http://example.org/otherIssues> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#string> <Twitter-CNN-7> .
+ <http://example.org/neverLoaded> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#string> <Twitter-CNN-7> .
+ <http://example.org/slowToLoad> <http://www.w3.org/2000/01/rdf-schema#domain> <http://example.org/AdFeedbackForm> <Twitter-CNN-7> .
+ <http://example.org/audioTooLoud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> <Twitter-CNN-7> .
+ <http://example.org/relevance> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#string> <Twitter-CNN-7> .
+ <http://example.org/UserFeedback1> <http://example.org/slowToLoad> "Video player was slow to load content"  <Twitter-CNN-7> .
+ <http://example.org/contentDidNotStartAfterAd> <http://www.w3.org/2000/01/rdf-schema#domain> <http://example.org/AdFeedbackForm> <Twitter-CNN-7> .
+ <http://example.org/relevance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> <Twitter-CNN-7> .
+ <http://example.org/otherIssues> <http://www.w3.org/2000/01/rdf-schema#domain> <http://example.org/AdFeedbackForm> <Twitter-CNN-7> .
+ <http://example.org/UserFeedback1> <http://example.org/audioTooLoud> "Audio on ad was too loud"  <Twitter-CNN-7> .
+ <http://example.org/frozeOrNotFinishedLoading> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#string> <Twitter-CNN-7> .
+ <http://example.org/UserFeedback1> <http://example.org/frozeOrNotFinishedLoading> "Ad froze or did not finish loading"  <Twitter-CNN-7> .
+ <http://example.org/UserFeedback1> <http://example.org/neverLoaded> "Video content never loaded"  <Twitter-CNN-7> .
+ <http://example.org/neverLoaded> <http://www.w3.org/2000/01/rdf-schema#domain> <http://example.org/AdFeedbackForm> <Twitter-CNN-7> .
+ <http://example.org/relevance> <http://www.w3.org/2000/01/rdf-schema#domain> <http://example.org/AdFeedbackForm> <Twitter-CNN-7> .
+ <http://example.org/UserFeedback1> <http://example.org/otherIssues> "Other issues"  <Twitter-CNN-7> .
+ <http://example.org/frozeOrNotFinishedLoading> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> <Twitter-CNN-7> .
+ <http://example.org/audioTooLoud> <http://www.w3.org/2000/01/rdf-schema#domain> <http://example.org/AdFeedbackForm> <Twitter-CNN-7> .
+ <http://example.org/AdFeedbackForm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> <Twitter-CNN-7> .
+ <http://example.org/contentDidNotStartAfterAd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> <Twitter-CNN-7> .
+ <http://example.org/UserFeedback1> <http://example.org/relevance> "How relevant is this ad to you?"  <Twitter-CNN-7> .
+ <http://example.org/slowToLoad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> <Twitter-CNN-7> .
+ <http://example.org/UserFeedback1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/AdFeedbackForm> <Twitter-CNN-7> .
+ <http://example.org/frozeOrNotFinishedLoading> <http://www.w3.org/2000/01/rdf-schema#domain> <http://example.org/AdFeedbackForm> <Twitter-CNN-7> .
+ <http://example.org/slowToLoad> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#string> <Twitter-CNN-7> .
+ <http://example.org/contentDidNotStartAfterAd> <http://www.w3.org/2000/01/rdf-schema#range> <http://www.w3.org/2001/XMLSchema#string> <Twitter-CNN-7> .
+ <http://example.org/otherIssues> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> <Twitter-CNN-7> .
+ <http://example.org/ontology#IssueVideoNotStartAfterAd> <http://example.org/ontology#description> "Video content did not start after ad"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-CNN-8> .
+ <http://example.org/ontology#AdRelevanceFeedbackForm> <http://example.org/ontology#includesIssue> <http://example.org/ontology#IssueVideoNeverLoaded> <Twitter-CNN-8> .
+ <http://example.org/ontology#IssueAdFroze> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FeedbackIssue> <Twitter-CNN-8> .
+ <http://example.org/ontology#AdRelevanceFeedbackForm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FeedbackForm> <Twitter-CNN-8> .
+ <http://example.org/ontology#IssueVideoNeverLoaded> <http://example.org/ontology#description> "Video content never loaded"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-CNN-8> .
+ <http://example.org/ontology#IssueAudioTooLoud> <http://example.org/ontology#description> "Audio on ad was too loud"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-CNN-8> .
+ <http://example.org/ontology#IssueAudioTooLoud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FeedbackIssue> <Twitter-CNN-8> .
+ <http://example.org/ontology#AdRelevanceFeedbackForm> <http://example.org/ontology#includesIssue> <http://example.org/ontology#IssueAudioTooLoud> <Twitter-CNN-8> .
+ <http://example.org/ontology#IssueOther> <http://example.org/ontology#description> "Other issues"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-CNN-8> .
+ <http://example.org/ontology#AdRelevanceFeedbackForm> <http://example.org/ontology#includesIssue> <http://example.org/ontology#IssueVideoNotStartAfterAd> <Twitter-CNN-8> .
+ <http://example.org/ontology#IssueVideoNotStartAfterAd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FeedbackIssue> <Twitter-CNN-8> .
+ <http://example.org/ontology#AdRelevanceFeedbackForm> <http://example.org/ontology#includesIssue> <http://example.org/ontology#IssueOther> <Twitter-CNN-8> .
+ <http://example.org/ontology#IssueAdFroze> <http://example.org/ontology#description> "Ad froze or did not finish loading"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-CNN-8> .
+ <http://example.org/ontology#IssueOther> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FeedbackIssue> <Twitter-CNN-8> .
+ <http://example.org/ontology#AdRelevanceFeedbackForm> <http://example.org/ontology#includesIssue> <http://example.org/ontology#IssueVideoPlayerSlow> <Twitter-CNN-8> .
+ <http://example.org/ontology#IssueVideoPlayerSlow> <http://example.org/ontology#description> "Video player was slow to load content"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-CNN-8> .
+ <http://example.org/ontology#IssueVideoPlayerSlow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FeedbackIssue> <Twitter-CNN-8> .
+ <http://example.org/ontology#AdRelevanceFeedbackForm> <http://example.org/ontology#includesIssue> <http://example.org/ontology#IssueAdFroze> <Twitter-CNN-8> .
+ <http://example.org/ontology#IssueVideoNeverLoaded> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FeedbackIssue> <Twitter-CNN-8> .
+ <http://example.org/MarkZuckerbergThreadsAccount> <http://xmlns.com/foaf/0.1/accountServiceHomepage> <http://example.org/ThreadsApp> <Twitter-CNN-9> .
+ <http://Twitter-CNN-9.com/blank#n65437f81bfb8413c803258101e16796ab4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Feature> <Twitter-CNN-9> .
+ <http://example.org/Instagram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <Twitter-CNN-9> .
+ <http://example.org/Meta> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Social_media> <Twitter-CNN-9> .
+ <http://example.org/Twitter> <http://xmlns.com/foaf/0.1/name> "Twitter"  <Twitter-CNN-9> .
+ <http://example.org/ElonMusk> <http://dbpedia.org/ontology/title> "Owner of Twitter"  <Twitter-CNN-9> .
+ <http://example.org/Twitter> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Social_media> <Twitter-CNN-9> .
+ <http://example.org/FacebookMessenger> <http://xmlns.com/foaf/0.1/name> "Facebook Messenger"  <Twitter-CNN-9> .
+ <http://example.org/ElonMuskTwitterAccount> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/OnlineAccount> <Twitter-CNN-9> .
+ <http://example.org/ThreadsApp> <http://dbpedia.org/ontology/releaseDate> "2023-07-06"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-CNN-9> .
+ <http://example.org/MarkZuckerbergThreadsAccount> <http://schema.org/about> "The vision for Threads is to create an open and friendly public space for conversation."  <Twitter-CNN-9> .
+ <http://example.org/TweetDeck> <http://dbpedia.org/ontology/developer> <http://example.org/Twitter> <Twitter-CNN-9> .
+ <http://example.org/TweetDeck> <http://schema.org/description> "A tool that allows people to organize and easily monitor the accounts they follow."  <Twitter-CNN-9> .
+ <http://example.org/TweetDeck> <http://xmlns.com/foaf/0.1/name> "TweetDeck"  <Twitter-CNN-9> .
+ <http://example.org/ThreadsApp> <http://dbpedia.org/ontology/feature> <http://Twitter-CNN-9.com/blank#n65437f81bfb8413c803258101e16796ab7>  <Twitter-CNN-9> .
+ <http://Twitter-CNN-9.com/blank#n65437f81bfb8413c803258101e16796ab3> <http://xmlns.com/foaf/0.1/name> "Trending topics"  <Twitter-CNN-9> .
+ <http://example.org/ThreadsApp> <http://xmlns.com/foaf/0.1/name> "Threads"  <Twitter-CNN-9> .
+ <http://example.org/FacebookMessenger> <http://dbpedia.org/ontology/developer> <http://example.org/Meta> <Twitter-CNN-9> .
+ <http://Twitter-CNN-9.com/blank#n65437f81bfb8413c803258101e16796ab6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Feature> <Twitter-CNN-9> .
+ <http://example.org/ThreadsApp> <http://dbpedia.org/ontology/feature> <http://Twitter-CNN-9.com/blank#n65437f81bfb8413c803258101e16796ab3>  <Twitter-CNN-9> .
+ <http://example.org/ThreadsApp> <http://dbpedia.org/ontology/description> "A new app intended to offer a space for real-time conversations online, similar to Twitter."  <Twitter-CNN-9> .
+ <http://example.org/ElonMuskTwitterAccount> <http://xmlns.com/foaf/0.1/accountName> "Elon Musk"  <Twitter-CNN-9> .
+ <http://example.org/FacebookMessenger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <Twitter-CNN-9> .
+ <http://example.org/ThreadsApp> <http://dbpedia.org/ontology/developer> <http://example.org/Meta> <Twitter-CNN-9> .
+ <http://example.org/ElonMuskTwitterAccount> <http://schema.org/comment> "Thank goodness they’re so sanely run."  <Twitter-CNN-9> .
+ <http://Twitter-CNN-9.com/blank#n65437f81bfb8413c803258101e16796ab8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Feature> <Twitter-CNN-9> .
+ <http://example.org/ThreadsApp> <http://dbpedia.org/ontology/feature> <http://Twitter-CNN-9.com/blank#n65437f81bfb8413c803258101e16796ab8>  <Twitter-CNN-9> .
+ <http://example.org/WhatsApp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <Twitter-CNN-9> .
+ <http://example.org/MarkZuckerberg> <http://xmlns.com/foaf/0.1/account> <http://example.org/MarkZuckerbergThreadsAccount> <Twitter-CNN-9> .
+ <http://example.org/MarkZuckerberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-CNN-9> .
+ <http://Twitter-CNN-9.com/blank#n65437f81bfb8413c803258101e16796ab2> <http://xmlns.com/foaf/0.1/name> "Hashtags"  <Twitter-CNN-9> .
+ <http://example.org/Meta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Twitter-CNN-9> .
+ <http://example.org/ThreadsApp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <Twitter-CNN-9> .
+ <http://example.org/ElonMusk> <http://xmlns.com/foaf/0.1/name> "Elon Musk"  <Twitter-CNN-9> .
+ <http://example.org/ThreadsApp> <http://dbpedia.org/ontology/feature> <http://Twitter-CNN-9.com/blank#n65437f81bfb8413c803258101e16796ab5>  <Twitter-CNN-9> .
+ <http://example.org/ThreadsApp> <http://dbpedia.org/ontology/feature> <http://Twitter-CNN-9.com/blank#n65437f81bfb8413c803258101e16796ab6>  <Twitter-CNN-9> .
+ <http://Twitter-CNN-9.com/blank#n65437f81bfb8413c803258101e16796ab4> <http://xmlns.com/foaf/0.1/name> "500 character limit for messages"  <Twitter-CNN-9> .
+ <http://Twitter-CNN-9.com/blank#n65437f81bfb8413c803258101e16796ab1> <http://schema.org/userInteractionCount> "30 million"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-CNN-9> .
+ <http://Twitter-CNN-9.com/blank#n65437f81bfb8413c803258101e16796ab2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Feature> <Twitter-CNN-9> .
+ <http://example.org/Twitter> <http://dbpedia.org/ontology/product> <http://example.org/TweetDeck> <Twitter-CNN-9> .
+ <http://example.org/TweetDeck> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <Twitter-CNN-9> .
+ <http://example.org/Meta> <http://xmlns.com/foaf/0.1/name> "Meta"  <Twitter-CNN-9> .
+ <http://example.org/MarkZuckerbergThreadsAccount> <http://xmlns.com/foaf/0.1/accountName> "Mark Zuckerberg"  <Twitter-CNN-9> .
+ <http://example.org/MarkZuckerberg> <http://xmlns.com/foaf/0.1/name> "Mark Zuckerberg"  <Twitter-CNN-9> .
+ <http://example.org/ThreadsApp> <http://dbpedia.org/ontology/operatingSystem> <http://dbpedia.org/resource/Android> <Twitter-CNN-9> .
+ <http://example.org/ElonMusk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-CNN-9> .
+ <http://example.org/WhatsApp> <http://xmlns.com/foaf/0.1/name> "WhatsApp"  <Twitter-CNN-9> .
+ <http://example.org/ElonMusk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Twitter-CNN-9> .
+ <http://Twitter-CNN-9.com/blank#n65437f81bfb8413c803258101e16796ab5> <http://xmlns.com/foaf/0.1/name> "Ability to repost and quote other Thread posts"  <Twitter-CNN-9> .
+ <http://example.org/ThreadsApp> <http://dbpedia.org/ontology/operatingSystem> <http://dbpedia.org/resource/IOS> <Twitter-CNN-9> .
+ <http://example.org/WhatsApp> <http://dbpedia.org/ontology/developer> <http://example.org/Meta> <Twitter-CNN-9> .
+ <http://example.org/ElonMusk> <http://xmlns.com/foaf/0.1/account> <http://example.org/ElonMuskTwitterAccount> <Twitter-CNN-9> .
+ <http://Twitter-CNN-9.com/blank#n65437f81bfb8413c803258101e16796ab8> <http://xmlns.com/foaf/0.1/name> "Thread accounts can be listed as public or private"  <Twitter-CNN-9> .
+ <http://example.org/ThreadsApp> <http://dbpedia.org/ontology/feature> <http://Twitter-CNN-9.com/blank#n65437f81bfb8413c803258101e16796ab4>  <Twitter-CNN-9> .
+ <http://example.org/Meta> <http://dbpedia.org/ontology/product> <http://example.org/ThreadsApp> <Twitter-CNN-9> .
+ <http://Twitter-CNN-9.com/blank#n65437f81bfb8413c803258101e16796ab3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Feature> <Twitter-CNN-9> .
+ <http://example.org/Instagram> <http://xmlns.com/foaf/0.1/name> "Instagram"  <Twitter-CNN-9> .
+ <http://example.org/MarkZuckerberg> <http://dbpedia.org/ontology/title> "CEO of Meta"  <Twitter-CNN-9> .
+ <http://example.org/MarkZuckerbergThreadsAccount> <http://schema.org/interactionStatistic> <http://Twitter-CNN-9.com/blank#n65437f81bfb8413c803258101e16796ab1>  <Twitter-CNN-9> .
+ <http://Twitter-CNN-9.com/blank#n65437f81bfb8413c803258101e16796ab7> <http://xmlns.com/foaf/0.1/name> "Verified Instagram accounts automatically verified on Threads"  <Twitter-CNN-9> .
+ <http://example.org/MarkZuckerbergThreadsAccount> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/OnlineAccount> <Twitter-CNN-9> .
+ <http://example.org/ElonMuskTwitterAccount> <http://xmlns.com/foaf/0.1/accountServiceHomepage> <http://example.org/Twitter> <Twitter-CNN-9> .
+ <http://Twitter-CNN-9.com/blank#n65437f81bfb8413c803258101e16796ab7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Feature> <Twitter-CNN-9> .
+ <http://example.org/MarkZuckerberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Twitter-CNN-9> .
+ <http://example.org/Twitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Twitter-CNN-9> .
+ <http://example.org/ThreadsApp> <http://dbpedia.org/ontology/feature> <http://Twitter-CNN-9.com/blank#n65437f81bfb8413c803258101e16796ab2>  <Twitter-CNN-9> .
+ <http://example.org/Instagram> <http://dbpedia.org/ontology/developer> <http://example.org/Meta> <Twitter-CNN-9> .
+ <http://example.org/MarkZuckerbergThreadsAccount> <http://schema.org/dateCreated> "2023-07-06"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-CNN-9> .
+ <http://Twitter-CNN-9.com/blank#n65437f81bfb8413c803258101e16796ab5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Feature> <Twitter-CNN-9> .
+ <http://Twitter-CNN-9.com/blank#n65437f81bfb8413c803258101e16796ab6> <http://xmlns.com/foaf/0.1/name> "Ability to share posts directly to Instagram Stories"  <Twitter-CNN-9> .

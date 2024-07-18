@@ -1,0 +1,618 @@
+ <http://nobelprize.org/terms/LiteraturePrize> <http://dbpedia.org/ontology/awarder> <http://dbpedia.org/resource/Swedish_Academy> <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Drew_Weissman> <http://xmlns.com/foaf/0.1/name> "Drew Weissman"  <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/NobelPrizes> <http://schema.org/startDate> "2023-10-03"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Anders_Olsson> <http://xmlns.com/foaf/0.1/name> "Anders Olsson"  <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/ChemistryPrize> <http://schema.org/awardDate> "2023-10-04"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/EconomicSciencesPrize> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Mats_Malm> <http://dbpedia.org/ontology/position> "permanent secretary"  <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/PhysicsPrize> <http://dbpedia.org/ontology/recipient> <http://dbpedia.org/resource/Pierre_Agostini> <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Katalin_Kariko> <http://xmlns.com/foaf/0.1/name> "Katalin Kariko"  <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Drew_Weissman> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/United_States> <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/NobelPrizes> <http://dbpedia.org/ontology/prize> <http://dbpedia.org/resource/MedicinePrize> <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Alfred_Nobel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Alexei_Ekimov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Jon_Fosse> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Norway> <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Pierre_Agostini> <http://xmlns.com/foaf/0.1/name> "Pierre Agostini"  <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Moungi_Bawendi> <http://dbpedia.org/ontology/affiliation> <http://dbpedia.org/resource/Massachusetts_Institute_of_Technology> <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/NobelPrizes> <http://dbpedia.org/ontology/founder> <http://dbpedia.org/resource/Alfred_Nobel> <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Swedish_Academy> <http://dbpedia.org/ontology/leader> <http://dbpedia.org/resource/Mats_Malm> <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Mats_Malm> <http://xmlns.com/foaf/0.1/name> "Mats Malm"  <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/MedicinePrize> <http://schema.org/description> "for discoveries that enabled the creation of mRNA vaccines against COVID-19"  <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Annie_Ernaux> <http://dbpedia.org/ontology/awardDate> "2022-10-05"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Louis_Brus> <http://dbpedia.org/ontology/affiliation> <http://dbpedia.org/resource/Columbia_University> <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/ChemistryPrize> <http://dbpedia.org/ontology/recipient> <http://dbpedia.org/resource/Moungi_Bawendi> <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/PhysicsPrize> <http://dbpedia.org/ontology/recipient> <http://dbpedia.org/resource/Anne_L'Huillier> <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Anne_L'Huillier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/LiteraturePrize> <http://schema.org/text> "for his innovative plays and prose, which give voice to the unsayable"  <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/LiteraturePrize> <http://schema.org/description> "Nobel Prize in literature"  <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Annie_Ernaux> <http://xmlns.com/foaf/0.1/name> "Annie Ernaux"  <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Swedish_Academy> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Stockholm> <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/MedicinePrize> <http://schema.org/awardDate> "2023-10-03"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Katalin_Kariko> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Anders_Olsson> <http://dbpedia.org/ontology/affiliation> <http://dbpedia.org/resource/Swedish_Academy> <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/ChemistryPrize> <http://dbpedia.org/ontology/recipient> <http://dbpedia.org/resource/Alexei_Ekimov> <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Alexei_Ekimov> <http://xmlns.com/foaf/0.1/name> "Alexei Ekimov"  <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Drew_Weissman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Katalin_Kariko> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Hungary> <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Annie_Ernaux> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/MedicinePrize> <http://dbpedia.org/ontology/recipient> <http://dbpedia.org/resource/Katalin_Kariko> <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/EconomicSciencesPrize> <http://schema.org/awardDate> "2023-10-09"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Anne_L'Huillier> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/France> <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/NobelPrizes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/NobelPrizes> <http://dbpedia.org/ontology/prize> <http://dbpedia.org/resource/PhysicsPrize> <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Anders_Olsson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Mats_Malm> <http://dbpedia.org/ontology/affiliation> <http://dbpedia.org/resource/Swedish_Academy> <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/PhysicsPrize> <http://schema.org/description> "for producing the first split-second glimpse into the super-fast world of spinning electrons"  <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/ChemistryPrize> <http://schema.org/description> "for their work with quantum dots"  <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Ferenc_Krausz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Moungi_Bawendi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Katalin_Kariko> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/United_States> <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/NobelPrizes> <http://dbpedia.org/ontology/prizeAmount> "11 million Swedish kronor"^^<http://www.w3.org/2001/XMLSchema#string>  <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Alfred_Nobel> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Sweden> <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Jon_Fosse> <http://nobelprize.org/terms/awarded> <http://nobelprize.org/terms/LiteraturePrize> <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/LiteraturePrize> <http://dbpedia.org/ontology/recipient> <http://dbpedia.org/resource/Jon_Fosse> <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Louis_Brus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/NobelPrizes> <http://dbpedia.org/ontology/prize> <http://dbpedia.org/resource/PeacePrize> <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/NobelPrizes> <http://dbpedia.org/ontology/prize> <http://dbpedia.org/resource/ChemistryPrize> <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Anders_Olsson> <http://dbpedia.org/ontology/position> "chair of the Nobel literature committee"  <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Ferenc_Krausz> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Hungary> <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/PeacePrize> <http://schema.org/awardDate> "2023-10-06"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Ferenc_Krausz> <http://xmlns.com/foaf/0.1/name> "Ferenc Krausz"  <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/NobelPrizes> <http://schema.org/location> <http://dbpedia.org/resource/Stockholm> <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Anne_L'Huillier> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Sweden> <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/PhysicsPrize> <http://dbpedia.org/ontology/recipient> <http://dbpedia.org/resource/Ferenc_Krausz> <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/MedicinePrize> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/LiteraturePrize> <http://schema.org/awardDate> "2023-10-05"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Annie_Ernaux> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Normandy> <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Mats_Malm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Jon_Fosse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/PhysicsPrize> <http://schema.org/awardDate> "2023-10-02"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Pierre_Agostini> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Alexei_Ekimov> <http://dbpedia.org/ontology/affiliation> <http://dbpedia.org/resource/Nanocrystals_Technology_Inc> <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Annie_Ernaux> <http://nobelprize.org/terms/awarded> <http://nobelprize.org/terms/LiteraturePrize> <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/PeacePrize> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Jon_Fosse> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Dramatist> <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Alfred_Nobel> <http://xmlns.com/foaf/0.1/name> "Alfred Nobel"  <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Louis_Brus> <http://xmlns.com/foaf/0.1/name> "Louis Brus"  <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Swedish_Academy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Jon_Fosse> <http://xmlns.com/foaf/0.1/name> "Jon Fosse"  <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/ChemistryPrize> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Anne_L'Huillier> <http://xmlns.com/foaf/0.1/name> "Anne L'Huillier"  <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/PhysicsPrize> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Jon_Fosse> <http://dbpedia.org/ontology/birthDate> "1959-09-29"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/NobelPrizes> <http://dbpedia.org/ontology/prize> <http://dbpedia.org/resource/EconomicSciencesPrize> <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Alfred_Nobel> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Inventor> <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/ChemistryPrize> <http://dbpedia.org/ontology/recipient> <http://dbpedia.org/resource/Louis_Brus> <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/NobelPrizes> <http://dbpedia.org/ontology/prize> <http://dbpedia.org/resource/LiteraturePrize> <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/MedicinePrize> <http://dbpedia.org/ontology/recipient> <http://dbpedia.org/resource/Drew_Weissman> <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/NobelPrizes> <http://schema.org/endDate> "2023-10-09"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Jon_Fosse> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Author> <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/LiteraturePrize> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Pierre_Agostini> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/France> <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Moungi_Bawendi> <http://xmlns.com/foaf/0.1/name> "Moungi Bawendi"  <NobelPrize-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Swedish_Academy> <http://xmlns.com/foaf/0.1/name> "Swedish Academy"  <NobelPrize-Al-Jazeera-0> .
+ <http://nobelprize.org/terms/EconomicsPrize> <http://www.w3.org/2000/01/rdf-schema#label> "Nobel Prize in Economics"  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/claudiaGoldin> <http://dbpedia.org/ontology/age> "77"^^<http://www.w3.org/2001/XMLSchema#integer>  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/RoyalSwedishAcademyOfSciences> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/claudiaGoldin> <http://dbpedia.org/ontology/researchArea> "labour market participation"  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/BankOfSwedenPrize> <http://dbpedia.org/ontology/award> "Nobel Prize"  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/ElinorOstrom> <http://nobelprize.org/terms/awardReceived> <http://nobelprize.org/terms/EconomicsPrize> <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/claudiaGoldin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/BenBernanke> <http://xmlns.com/foaf/0.1/name> "Ben Bernanke"  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/JonFosse> <http://nobelprize.org/terms/awardReceived> <http://nobelprize.org/terms/LiteraturePrize> <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/EstherDuflo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/BenBernanke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/BankOfSwedenPrize> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/claudiaGoldin> <http://dbpedia.org/ontology/researchArea> "gender pay gap"  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/NargesMohammadi> <http://xmlns.com/foaf/0.1/name> "Narges Mohammadi"  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/BankOfSwedenPrize> <http://dbpedia.org/ontology/foundingYear> "1968"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/NargesMohammadi> <http://dbpedia.org/ontology/awardYear> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/EconomicsPrize> <http://dbpedia.org/ontology/wikiPageExternalLink> <https://www.nobelprize.org/prizes/economic-sciences/> <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/claudiaGoldin> <http://dbpedia.org/ontology/occupation> <http://nobelprize.org/terms/Economist> <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/PeacePrize> <http://schema.org/awardCategory> "Peace"  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/PeacePrize> <http://www.w3.org/2000/01/rdf-schema#label> "Nobel Peace Prize"  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/LiteraturePrize> <http://www.w3.org/2000/01/rdf-schema#label> "Nobel Prize in Literature"  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/claudiaGoldin> <http://xmlns.com/foaf/0.1/name> "Claudia Goldin"  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/PhilipDybvig> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/claudiaGoldin> <http://nobelprize.org/terms/awardReceived> <http://nobelprize.org/terms/EconomicsPrize> <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/EconomicsPrize> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/claudiaGoldin> <http://dbpedia.org/ontology/researchArea> "women's earnings"  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/EstherDuflo> <http://nobelprize.org/terms/awardReceived> <http://nobelprize.org/terms/EconomicsPrize> <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/JonFosse> <http://dbpedia.org/ontology/awardYear> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/DouglasWDiamond> <http://dbpedia.org/ontology/awardYear> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/PeacePrize> <http://dbpedia.org/ontology/award> "Nobel Prize"  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/PhilipDybvig> <http://nobelprize.org/terms/awardReceived> <http://nobelprize.org/terms/EconomicsPrize> <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/ElinorOstrom> <http://dbpedia.org/ontology/awardYear> "2009"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/NargesMohammadi> <http://dbpedia.org/ontology/occupation> "women's rights campaigner"  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/DouglasWDiamond> <http://nobelprize.org/terms/awardReceived> <http://nobelprize.org/terms/EconomicsPrize> <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/JonFosse> <http://xmlns.com/foaf/0.1/name> "Jon Fosse"  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/claudiaGoldin> <http://dbpedia.org/ontology/researchArea> "social change"  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/NargesMohammadi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/PhilipDybvig> <http://xmlns.com/foaf/0.1/name> "Philip Dybvig"  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/claudiaGoldin> <http://dbpedia.org/ontology/birthYear> "1946"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/LiteraturePrize> <http://dbpedia.org/ontology/award> "Nobel Prize"  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/NargesMohammadi> <http://nobelprize.org/terms/awardReceived> <http://nobelprize.org/terms/PeacePrize> <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/claudiaGoldin> <http://dbpedia.org/ontology/researchArea> "economic change"  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/EconomicsPrize> <http://dbpedia.org/ontology/award> "Nobel Prize"  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/DouglasWDiamond> <http://xmlns.com/foaf/0.1/name> "Douglas W. Diamond"  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/ElinorOstrom> <http://xmlns.com/foaf/0.1/name> "Elinor Ostrom"  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/BankOfSwedenPrize> <http://dbpedia.org/ontology/wikiPageExternalLink> <https://www.nobelprize.org/prizes/economic-sciences/> <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/claudiaGoldin> <http://dbpedia.org/ontology/almaMater> <http://nobelprize.org/terms/HarvardUniversity> <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/EstherDuflo> <http://xmlns.com/foaf/0.1/name> "Esther Duflo"  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/RoyalSwedishAcademyOfSciences> <http://xmlns.com/foaf/0.1/name> "Royal Swedish Academy of Sciences"  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/PeacePrize> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/HarvardUniversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/SwedenCentralBank> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/EstherDuflo> <http://dbpedia.org/ontology/awardYear> "2019"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/BankOfSwedenPrize> <http://schema.org/awardCategory> "Economics"  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/BenBernanke> <http://dbpedia.org/ontology/awardYear> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/BankOfSwedenPrize> <http://dbpedia.org/ontology/foundedBy> <http://nobelprize.org/terms/SwedenCentralBank> <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/EconomicsPrize> <http://schema.org/awardCategory> "Economics"  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/JonFosse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/BenBernanke> <http://nobelprize.org/terms/awardReceived> <http://nobelprize.org/terms/EconomicsPrize> <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/NargesMohammadi> <http://dbpedia.org/ontology/status> "imprisoned"  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/DouglasWDiamond> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/BankOfSwedenPrize> <http://www.w3.org/2000/01/rdf-schema#label> "Bank of Sweden Prize in Economic Sciences in Memory of Alfred Nobel"  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/claudiaGoldin> <http://dbpedia.org/ontology/gender> "female"  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/HarvardUniversity> <http://xmlns.com/foaf/0.1/name> "Harvard University"  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/JonFosse> <http://dbpedia.org/ontology/occupation> "playwright"  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/claudiaGoldin> <http://dbpedia.org/ontology/researchArea> "economic history"  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/LiteraturePrize> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/LiteraturePrize> <http://schema.org/awardCategory> "Literature"  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/PhilipDybvig> <http://dbpedia.org/ontology/awardYear> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/ElinorOstrom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/SwedenCentralBank> <http://xmlns.com/foaf/0.1/name> "Sweden's central bank"  <NobelPrize-Al-Jazeera-1> .
+ <http://nobelprize.org/terms/MoungiBawendi> <http://xmlns.com/foaf/0.1/name> "Moungi Bawendi"  <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/ChemistryPrize2023> <http://nobelprize.org/terms/awardedTo> <http://nobelprize.org/terms/LouisBrus> <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/MedicinePrize2023> <http://nobelprize.org/terms/awardedTo> <http://nobelprize.org/terms/KatalinKariko> <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/LiteraturePrize2023> <http://nobelprize.org/terms/category> "literature"  <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/MedicinePrize2023> <http://nobelprize.org/terms/year> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/ChemistryPrize2023> <http://nobelprize.org/terms/year> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/MedicinePrize2023> <http://nobelprize.org/terms/category> "physiology or medicine"  <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/PeacePrize2023> <http://nobelprize.org/terms/awardedFor> "fight for freedom and against oppression of Iranian women"  <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/EconomicsPrize2023> <http://nobelprize.org/terms/announcementPending> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/EconomicsPrize2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://nobelprize.org/terms/NobelPrize> <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/JonFosse> <http://dbpedia.org/ontology/age> "64"^^<http://www.w3.org/2001/XMLSchema#integer>  <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/KatalinKariko> <http://dbpedia.org/ontology/affiliation> <http://dbpedia.org/resource/University_of_Pennsylvania> <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/ChemistryPrize2023> <http://nobelprize.org/terms/awardedTo> <http://nobelprize.org/terms/MoungiBawendi> <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/NargesMohammadi> <http://xmlns.com/foaf/0.1/name> "Narges Mohammadi"  <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/JonFosse> <http://dbpedia.org/ontology/literaryGenre> <http://dbpedia.org/resource/Play> <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/NargesMohammadi> <http://dbpedia.org/ontology/activism> "women's rights"  <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/LouisBrus> <http://xmlns.com/foaf/0.1/name> "Louis Brus"  <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/KatalinKariko> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/AlexeiEkimov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/DrewWeissman> <http://dbpedia.org/ontology/affiliation> <http://dbpedia.org/resource/University_of_Pennsylvania> <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/MedicinePrize2023> <http://nobelprize.org/terms/awardedTo> <http://nobelprize.org/terms/DrewWeissman> <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/JonFosse> <http://dbpedia.org/ontology/literaryGenre> <http://dbpedia.org/resource/Poetry> <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/JonFosse> <http://dbpedia.org/ontology/literaryGenre> <http://dbpedia.org/resource/Novel> <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/JonFosse> <http://dbpedia.org/ontology/literaryGenre> <http://dbpedia.org/resource/Essay> <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/MoungiBawendi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/PierreAgostini> <http://xmlns.com/foaf/0.1/name> "Pierre Agostini"  <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/LiteraturePrize2023> <http://nobelprize.org/terms/awardedFor> "innovative plays and prose which give voice to the unsayable"  <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/JonFosse> <http://dbpedia.org/ontology/literaryGenre> <http://dbpedia.org/resource/Children's_literature> <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/MedicinePrize2023> <http://nobelprize.org/terms/awardedFor> "research that led directly to the first mRNA vaccines to fight COVID-19"  <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/DrewWeissman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/PhysicsPrize2023> <http://nobelprize.org/terms/awardedTo> <http://nobelprize.org/terms/FerencKrausz> <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/JonFosse> <http://dbpedia.org/ontology/nationality> "Norwegian"  <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/JonFosse> <http://xmlns.com/foaf/0.1/name> "Jon Fosse"  <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/FerencKrausz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/PhysicsPrize2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://nobelprize.org/terms/NobelPrize> <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/ChemistryPrize2023> <http://nobelprize.org/terms/awardedFor> "discovery and synthesis of quantum dots"  <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/EconomicsPrize2023> <http://nobelprize.org/terms/category> "economics"  <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/NargesMohammadi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/LouisBrus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/LiteraturePrize2023> <http://nobelprize.org/terms/year> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/PhysicsPrize2023> <http://nobelprize.org/terms/awardedTo> <http://nobelprize.org/terms/PierreAgostini> <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/EconomicsPrize2023> <http://nobelprize.org/terms/year> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/PeacePrize2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://nobelprize.org/terms/NobelPrize> <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/PeacePrize2023> <http://nobelprize.org/terms/year> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/LiteraturePrize2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://nobelprize.org/terms/NobelPrize> <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/ChemistryPrize2023> <http://nobelprize.org/terms/awardedTo> <http://nobelprize.org/terms/AlexeiEkimov> <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/JonFosse> <http://dbpedia.org/ontology/literaryGenre> <http://dbpedia.org/resource/Short_story> <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/AlexeiEkimov> <http://xmlns.com/foaf/0.1/name> "Alexei Ekimov"  <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/MedicinePrize2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://nobelprize.org/terms/NobelPrize> <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/ChemistryPrize2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://nobelprize.org/terms/NobelPrize> <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/KatalinKariko> <http://xmlns.com/foaf/0.1/name> "Katalin Kariko"  <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/DrewWeissman> <http://xmlns.com/foaf/0.1/name> "Drew Weissman"  <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/FerencKrausz> <http://xmlns.com/foaf/0.1/name> "Ferenc Krausz"  <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/PhysicsPrize2023> <http://nobelprize.org/terms/awardedTo> <http://nobelprize.org/terms/AnneLHuillier> <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/PierreAgostini> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/PhysicsPrize2023> <http://nobelprize.org/terms/awardedFor> "experiments that produced pulses of light measured in attoseconds"  <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/PhysicsPrize2023> <http://nobelprize.org/terms/category> "physics"  <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/NargesMohammadi> <http://schema.org/slogan> "Woman, life, freedom"  <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/LiteraturePrize2023> <http://nobelprize.org/terms/awardedTo> <http://nobelprize.org/terms/JonFosse> <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/AnneLHuillier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/NargesMohammadi> <http://dbpedia.org/ontology/nationality> "Iranian"  <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/PeacePrize2023> <http://nobelprize.org/terms/awardedTo> <http://nobelprize.org/terms/NargesMohammadi> <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/AnneLHuillier> <http://nobelprize.org/terms/isWomanWinner> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/JonFosse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/NargesMohammadi> <http://dbpedia.org/ontology/prison> <http://dbpedia.org/ontology/Prison> <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/AnneLHuillier> <http://xmlns.com/foaf/0.1/name> "Anne L'Huillier"  <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/PeacePrize2023> <http://nobelprize.org/terms/category> "peace"  <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/DrewWeissman> <http://dbpedia.org/ontology/nationality> "American"  <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/JonFosse> <http://schema.org/translatorCount> "50"^^<http://www.w3.org/2001/XMLSchema#integer>  <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/ChemistryPrize2023> <http://nobelprize.org/terms/category> "chemistry"  <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/KatalinKariko> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Hungary> <NobelPrize-Al-Jazeera-2> .
+ <http://nobelprize.org/terms/PhysicsPrize2023> <http://nobelprize.org/terms/year> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-Al-Jazeera-2> .
+ <http://example.org/entities/NobelPrizeInLiterature2023> <http://data.nobelprize.org/terms/year> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-Al-Jazeera-3> .
+ <http://example.org/entities/NobelPrizeInLiterature2023> <http://data.nobelprize.org/terms/laureate> <http://example.org/entities/JonFosse> <NobelPrize-Al-Jazeera-3> .
+ <http://example.org/entities/JonFosse> <http://schema.org/nationality> "Norwegian"  <NobelPrize-Al-Jazeera-3> .
+ <http://example.org/entities/AnnouncementOfNobelPrizeInLiterature2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NobelPrize-Al-Jazeera-3> .
+ <http://example.org/entities/AnnouncementOfNobelPrizeInLiterature2023> <http://schema.org/eventStatus> <http://schema.org/EventScheduled> <NobelPrize-Al-Jazeera-3> .
+ <http://example.org/entities/AnnouncementOfNobelPrizeInLiterature2023> <http://schema.org/about> <http://example.org/entities/NobelPrizeInLiterature2023> <NobelPrize-Al-Jazeera-3> .
+ <http://example.org/entities/JonFosse> <http://schema.org/name> "Jon Fosse"  <NobelPrize-Al-Jazeera-3> .
+ <http://example.org/entities/NobelPrizeInLiterature2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.nobelprize.org/terms/Award> <NobelPrize-Al-Jazeera-3> .
+ <http://example.org/entities/NobelPrizeInLiterature2023> <http://data.nobelprize.org/terms/category> "Literature"  <NobelPrize-Al-Jazeera-3> .
+ <http://example.org/entities/JonFosse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NobelPrize-Al-Jazeera-3> .
+ <http://example.org/entities/AnnouncementOfNobelPrizeInLiterature2023> <http://schema.org/name> "Announcement of the Nobel Prize in Literature 2023 winner"  <NobelPrize-Al-Jazeera-3> .
+ <http://example.org/nobel#NobelFoundation> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Stockholm> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#Lawmakers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#UniversityProfessors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#LiteraturePrize> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Sweden> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#DeliberationDisclosure> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Regulation> <NobelPrize-Al-Jazeera-4> .
+ <http://dbpedia.org/resource/Alfred_Nobel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#PeacePrize> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.nobelprize.org/terms/NobelPrize> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#NobelPrizeSeason> <http://dbpedia.org/ontology/endDate> "2022-10-10"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#NobelPrizeAnnouncements> <http://example.org/nobel#ChemistryPrize> "2022-10-05"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#EconomicsPrize> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.nobelprize.org/terms/NobelPrize> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#LiteraturePrize> <http://data.nobelprize.org/terms/establishedBy> <http://dbpedia.org/resource/Alfred_Nobel> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#PeacePrizeCommittee> <http://dbpedia.org/ontology/independence> "fiercely independent"  <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#NobelFoundation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#MedicinePrize> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.nobelprize.org/terms/NobelPrize> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#NobelPrizes> <http://dbpedia.org/ontology/award> <http://example.org/nobel#EconomicsPrize> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#NobelPrizes> <http://dbpedia.org/ontology/award> <http://example.org/nobel#MedicinePrize> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#PhysicsPrize> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.nobelprize.org/terms/NobelPrize> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#NobelPrizeAnnouncements> <http://example.org/nobel#EconomicsPrize> "2022-10-10"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#NobelFoundation> <http://dbpedia.org/ontology/manages> <http://example.org/nobel#NobelPrizes> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#EconomicsPrize> <http://data.nobelprize.org/terms/establishedBy> <http://dbpedia.org/resource/Sveriges_Riksbank> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#PreviousLaureates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Group> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#ChemistryPrize> <http://data.nobelprize.org/terms/establishedBy> <http://dbpedia.org/resource/Alfred_Nobel> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#NobelPrizes> <http://dbpedia.org/ontology/award> <http://example.org/nobel#LiteraturePrize> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#PeacePrizeCommittee> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Oslo> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#NobelPrizes> <http://dbpedia.org/ontology/awardDate> "1901"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#NobelPrizeAnnouncements> <http://example.org/nobel#PeacePrize> "2022-10-07"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#NobelPrizes> <http://dbpedia.org/ontology/awardCeremonyDate> "December 10"  <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#EconomicsPrize> <http://dbpedia.org/ontology/foundingYear> "1968"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#NobelPrizeJudges> <http://dbpedia.org/ontology/prohibition> <http://example.org/nobel#DeliberationDisclosure> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#PhysicsPrize> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Sweden> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#PeacePrizeCommittee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#NobelPrizeAnnouncements> <http://example.org/nobel#LiteraturePrize> "2022-10-06"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#PhysicsPrize> <http://data.nobelprize.org/terms/establishedBy> <http://dbpedia.org/resource/Alfred_Nobel> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#EconomicsPrize> <http://dbpedia.org/ontology/foundedBy> "Bank of Sweden Prize in Economic Sciences in Memory of Alfred Nobel"  <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#ChemistryPrize> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.nobelprize.org/terms/NobelPrize> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#PeacePrize> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Norway> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#NobelPrizeSeason> <http://dbpedia.org/ontology/startDate> "2022-10-03"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#NobelPrizeNominations> <http://dbpedia.org/ontology/secrecyPeriod> "50 years"^^<http://www.w3.org/2001/XMLSchema#duration>  <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#NobelPrizes> <http://dbpedia.org/ontology/awardAmount> "10 million kronor"  <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#NobelPrizeAwardCount> <http://dbpedia.org/ontology/timePeriod> "1901-2021"^^<http://www.w3.org/2001/XMLSchema#string>  <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#LiteraturePrize> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://data.nobelprize.org/terms/NobelPrize> <NobelPrize-Al-Jazeera-4> .
+ <http://dbpedia.org/resource/Alfred_Nobel> <http://xmlns.com/foaf/0.1/name> "Alfred Nobel"  <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#NobelPrizes> <http://dbpedia.org/ontology/award> <http://example.org/nobel#PhysicsPrize> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#NobelPrizeJudges> <http://dbpedia.org/ontology/prohibitionPeriod> "50 years"^^<http://www.w3.org/2001/XMLSchema#duration>  <NobelPrize-Al-Jazeera-4> .
+ <http://dbpedia.org/resource/Alfred_Nobel> <http://dbpedia.org/ontology/deathDate> "1896-12-10"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#ChemistryPrize> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Sweden> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#NobelPrizes> <http://dbpedia.org/ontology/award> <http://example.org/nobel#ChemistryPrize> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#EconomicsPrize> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Sweden> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#PeacePrize> <http://data.nobelprize.org/terms/establishedBy> <http://dbpedia.org/resource/Alfred_Nobel> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#NobelPrizeAnnouncements> <http://example.org/nobel#MedicinePrize> "2022-10-03"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#MedicinePrize> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Sweden> <NobelPrize-Al-Jazeera-4> .
+ <http://dbpedia.org/resource/Alfred_Nobel> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Inventor> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#NobelPrizeNominations> <http://dbpedia.org/ontology/eligibleEntities> <http://example.org/nobel#PreviousLaureates> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#NobelPrizeNominations> <http://dbpedia.org/ontology/eligibleEntities> <http://example.org/nobel#Lawmakers> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#NobelPrizeNominations> <http://dbpedia.org/ontology/eligibleEntities> <http://example.org/nobel#CommitteeMembers> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#CommitteeMembers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Group> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#NobelPrizeAwardCount> <http://dbpedia.org/ontology/awardCount> "609"^^<http://www.w3.org/2001/XMLSchema#integer>  <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#NobelPrizes> <http://dbpedia.org/ontology/award> <http://example.org/nobel#PeacePrize> <NobelPrize-Al-Jazeera-4> .
+ <http://dbpedia.org/resource/Alfred_Nobel> <http://dbpedia.org/ontology/invention> <http://dbpedia.org/resource/Dynamite> <NobelPrize-Al-Jazeera-4> .
+ <http://dbpedia.org/resource/Alfred_Nobel> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Industrialist> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#NobelPrizeAnnouncements> <http://example.org/nobel#PhysicsPrize> "2022-10-04"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#MedicinePrize> <http://data.nobelprize.org/terms/establishedBy> <http://dbpedia.org/resource/Alfred_Nobel> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#NobelPrizeNominations> <http://dbpedia.org/ontology/eligibleEntities> <http://example.org/nobel#UniversityProfessors> <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/nobel#DeliberationDisclosure> <http://dbpedia.org/ontology/description> "Prohibits judges from discussing their deliberations"  <NobelPrize-Al-Jazeera-4> .
+ <http://example.org/people/KingCarlXVIGustaf> <http://xmlns.com/foaf/0.1/name> "King Carl XVI Gustaf"  <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/people/Moderna> <http://xmlns.com/foaf/0.1/name> "Moderna"  <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/prizes/NobelPrizePhysiologyOrMedicine2023> <http://nobelprize.org/terms/category> "Physiology or Medicine"  <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/people/MichaelElowitz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/people/SvantePaabo> <http://nobelprize.org/terms/category> "Physiology or Medicine"  <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/events/NobelPrizeAwardingCeremony> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/universities/SagansUniversity> <http://dbpedia.org/ontology/country> "Hungary"  <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/people/KatalinKariko> <http://dbpedia.org/ontology/birthPlace> "Hungary"  <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/people/Pfizer> <http://xmlns.com/foaf/0.1/name> "Pfizer"  <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/people/MichaelElowitz> <http://nobelprize.org/terms/role> "Frontrunner"  <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/prizes/NobelPrizePhysiologyOrMedicine2023> <http://nobelprize.org/terms/awardedBy> <http://example.org/events/NobelPrizeAwardingCeremony> <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/people/KatalinKariko> <http://dbpedia.org/ontology/affiliation> <http://example.org/universities/SagansUniversity> <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/universities/UniversityOfPennsylvania> <http://dbpedia.org/ontology/country> "United States"  <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/events/NobelPrizeAwardingCeremony> <http://www.w3.org/2000/01/rdf-schema#comment> "Formal ceremony for Nobel Prize distribution"  <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/people/Moderna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/people/StanislasLeibler> <http://dbpedia.org/ontology/nationality> "American"  <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/people/KatalinKariko> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/people/KatalinKariko> <http://nobelprize.org/terms/role> "Laureate"  <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/prizes/NobelPrizePhysiologyOrMedicine2023> <http://nobelprize.org/terms/laureates> <http://example.org/people/DrewWeissman> <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/people/KevanShokat> <http://xmlns.com/foaf/0.1/name> "Kevan Shokat"  <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/people/StanislasLeibler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/people/KatalinKariko> <http://dbpedia.org/ontology/affiliation> <http://example.org/universities/UniversityOfPennsylvania> <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/people/SvantePaabo> <http://dbpedia.org/ontology/nationality> "Swedish"  <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/people/SvantePaabo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/people/KevanShokat> <http://dbpedia.org/ontology/nationality> "American"  <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/people/DrewWeissman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/people/DrewWeissman> <http://nobelprize.org/terms/role> "Laureate"  <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/people/SvantePaabo> <http://nobelprize.org/terms/role> "Laureate"  <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/events/NobelPrizeAwardingCeremony> <http://dbpedia.org/ontology/participant> <http://example.org/people/KingCarlXVIGustaf> <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/prizes/NobelPrizePhysiologyOrMedicine2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://nobelprize.org/terms/Prize> <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/people/KingCarlXVIGustaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/people/KevanShokat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/universities/UniversityOfPennsylvania> <http://xmlns.com/foaf/0.1/name> "University of Pennsylvania"  <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/events/NobelPrizeAwardingCeremony> <http://dbpedia.org/ontology/location> "Stockholm"  <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/people/StanislasLeibler> <http://nobelprize.org/terms/role> "Frontrunner"  <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/events/NobelPrizeAwardingCeremony> <http://dbpedia.org/ontology/date> "2023-12-10"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/people/DrewWeissman> <http://dbpedia.org/ontology/birthPlace> "United States"  <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/prizes/NobelPrizePhysiologyOrMedicine2023> <http://nobelprize.org/terms/year> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/people/KatalinKariko> <http://xmlns.com/foaf/0.1/name> "Katalin Kariko"  <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/people/Pfizer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/universities/UniversityOfPennsylvania> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/University> <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/people/DrewWeissman> <http://dbpedia.org/ontology/affiliation> <http://example.org/universities/UniversityOfPennsylvania> <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/prizes/NobelPrizePhysiologyOrMedicine2023> <http://nobelprize.org/terms/awardedFor> "Research that led directly to the first mRNA vaccines to fight COVID-19"  <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/people/StanislasLeibler> <http://xmlns.com/foaf/0.1/name> "Stanislas Leibler"  <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/people/DrewWeissman> <http://xmlns.com/foaf/0.1/name> "Drew Weissman"  <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/people/KevanShokat> <http://nobelprize.org/terms/role> "Frontrunner"  <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/people/MichaelElowitz> <http://xmlns.com/foaf/0.1/name> "Michael Elowitz"  <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/people/SvantePaabo> <http://nobelprize.org/terms/year> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/people/MichaelElowitz> <http://dbpedia.org/ontology/nationality> "American"  <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/universities/SagansUniversity> <http://xmlns.com/foaf/0.1/name> "Sagan's University"  <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/universities/SagansUniversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/University> <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/people/SvantePaabo> <http://xmlns.com/foaf/0.1/name> "Svante Paabo"  <NobelPrize-Al-Jazeera-5> .
+ <http://example.org/prizes/NobelPrizePhysiologyOrMedicine2023> <http://nobelprize.org/terms/laureates> <http://example.org/people/KatalinKariko> <NobelPrize-Al-Jazeera-5> .
+ <http://nobelprize.org/nobel_prizes/peace/PeacePrize> <http://dbpedia.org/ontology/awardWinner> <http://dbpedia.org/resource/Aung_San_Suu_Kyi> <NobelPrize-Al-Jazeera-6> .
+ <http://NobelPrize-Al-Jazeera-6.com/blank#nefe122feca824b958753825f617af76db1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NobelPrize-Al-Jazeera-6> .
+ <http://nobelprize.org/nobel_prizes/peace/AlfredNobel> <http://dbpedia.org/ontology/award> <http://nobelprize.org/nobel_prizes/peace/PeacePrize> <NobelPrize-Al-Jazeera-6> .
+ <http://nobelprize.org/nobel_prizes/peace/thisYearCandidates> <http://schema.org/subEvent> <http://nobelprize.org/nobel_prizes/peace/announcement2023> <NobelPrize-Al-Jazeera-6> .
+ <http://nobelprize.org/nobel_prizes/peace/AlfredNobel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NobelPrize-Al-Jazeera-6> .
+ <http://nobelprize.org/nobel_prizes/peace/thisYearCandidates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NobelPrize-Al-Jazeera-6> .
+ <http://nobelprize.org/nobel_prizes/peace/thisYearCandidates> <http://schema.org/actor> <http://NobelPrize-Al-Jazeera-6.com/blank#nefe122feca824b958753825f617af76db1>  <NobelPrize-Al-Jazeera-6> .
+ <http://nobelprize.org/nobel_prizes/peace/PeacePrize> <http://dbpedia.org/ontology/awardWinner> <http://dbpedia.org/resource/Barack_Obama> <NobelPrize-Al-Jazeera-6> .
+ <http://nobelprize.org/nobel_prizes/peace/thisYearCandidates> <http://schema.org/eventStatus> "To be announced"  <NobelPrize-Al-Jazeera-6> .
+ <http://nobelprize.org/nobel_prizes/peace/PeacePrize> <http://dbpedia.org/ontology/awardWinner> <http://dbpedia.org/resource/Yitzhak_Rabin> <NobelPrize-Al-Jazeera-6> .
+ <http://nobelprize.org/nobel_prizes/peace/PeacePrize> <http://dbpedia.org/ontology/awardWinner> <http://dbpedia.org/resource/Henry_Kissinger> <NobelPrize-Al-Jazeera-6> .
+ <http://nobelprize.org/nobel_prizes/peace/PeacePrize> <http://dbpedia.org/ontology/awardDate> "1896-12-10"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-6> .
+ <http://nobelprize.org/nobel_prizes/peace/PeacePrize> <http://dbpedia.org/ontology/awardWinner> <http://dbpedia.org/resource/Dmitry_Muratov> <NobelPrize-Al-Jazeera-6> .
+ <http://nobelprize.org/nobel_prizes/peace/PeacePrize> <http://dbpedia.org/ontology/awardWinner> <http://dbpedia.org/resource/Yasser_Arafat> <NobelPrize-Al-Jazeera-6> .
+ <http://nobelprize.org/nobel_prizes/peace/PeacePrize> <http://dbpedia.org/ontology/awarder> <http://nobelprize.org/nobel_prizes/peace/Committee> <NobelPrize-Al-Jazeera-6> .
+ <http://nobelprize.org/nobel_prizes/peace/AlfredNobel> <http://xmlns.com/foaf/0.1/name> "Alfred Nobel"  <NobelPrize-Al-Jazeera-6> .
+ <http://nobelprize.org/nobel_prizes/peace/AlfredNobel> <http://dbpedia.org/ontology/deathDate> "1896-12-10"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-6> .
+ <http://nobelprize.org/nobel_prizes/peace/Committee> <http://dbpedia.org/ontology/member> <http://NobelPrize-Al-Jazeera-6.com/blank#nefe122feca824b958753825f617af76db5>  <NobelPrize-Al-Jazeera-6> .
+ <http://NobelPrize-Al-Jazeera-6.com/blank#nefe122feca824b958753825f617af76db1> <http://xmlns.com/foaf/0.1/name> "343 candidates"  <NobelPrize-Al-Jazeera-6> .
+ <http://nobelprize.org/nobel_prizes/peace/PeacePrize> <http://dbpedia.org/ontology/awardWinner> <http://dbpedia.org/resource/Maria_Ressa> <NobelPrize-Al-Jazeera-6> .
+ <http://nobelprize.org/nobel_prizes/peace/thisYearCandidates> <http://schema.org/startDate> "2023-10-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-6> .
+ <http://nobelprize.org/nobel_prizes/peace/announcement2023> <http://schema.org/startDate> "2023-10-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-6> .
+ <http://nobelprize.org/nobel_prizes/peace/PeacePrize> <http://dbpedia.org/ontology/awardWinner> <http://dbpedia.org/resource/Mikhail_Gorbachev> <NobelPrize-Al-Jazeera-6> .
+ <http://nobelprize.org/nobel_prizes/peace/PeacePrize> <http://dbpedia.org/ontology/awardWinner> <http://dbpedia.org/resource/Nelson_Mandela> <NobelPrize-Al-Jazeera-6> .
+ <http://NobelPrize-Al-Jazeera-6.com/blank#nefe122feca824b958753825f617af76db4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <NobelPrize-Al-Jazeera-6> .
+ <http://nobelprize.org/nobel_prizes/peace/PeacePrize> <http://dbpedia.org/ontology/awardWinner> <http://dbpedia.org/resource/Mother_Teresa> <NobelPrize-Al-Jazeera-6> .
+ <http://nobelprize.org/nobel_prizes/peace/PeacePrize> <http://dbpedia.org/ontology/awardWinner> <http://dbpedia.org/resource/Shimon_Peres> <NobelPrize-Al-Jazeera-6> .
+ <http://nobelprize.org/nobel_prizes/peace/PeacePrize> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> <NobelPrize-Al-Jazeera-6> .
+ <http://NobelPrize-Al-Jazeera-6.com/blank#nefe122feca824b958753825f617af76db5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NobelPrize-Al-Jazeera-6> .
+ <http://nobelprize.org/nobel_prizes/peace/announcement2023> <http://schema.org/name> "Nobel Peace Prize 2023 Announcement"  <NobelPrize-Al-Jazeera-6> .
+ <http://NobelPrize-Al-Jazeera-6.com/blank#nefe122feca824b958753825f617af76db2> <http://xmlns.com/foaf/0.1/name> "Winner of 2023"  <NobelPrize-Al-Jazeera-6> .
+ <http://NobelPrize-Al-Jazeera-6.com/blank#nefe122feca824b958753825f617af76db5> <http://xmlns.com/foaf/0.1/name> "5 members appointed by the Norwegian parliament"  <NobelPrize-Al-Jazeera-6> .
+ <http://NobelPrize-Al-Jazeera-6.com/blank#nefe122feca824b958753825f617af76db3> <http://xmlns.com/foaf/0.1/name> "251 individuals"  <NobelPrize-Al-Jazeera-6> .
+ <http://nobelprize.org/nobel_prizes/peace/PeacePrize> <http://dbpedia.org/ontology/prizeMoney> "900000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <NobelPrize-Al-Jazeera-6> .
+ <http://NobelPrize-Al-Jazeera-6.com/blank#nefe122feca824b958753825f617af76db3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NobelPrize-Al-Jazeera-6> .
+ <http://nobelprize.org/nobel_prizes/peace/PeacePrize2023> <http://dbpedia.org/ontology/awardWinner> <http://NobelPrize-Al-Jazeera-6.com/blank#nefe122feca824b958753825f617af76db2>  <NobelPrize-Al-Jazeera-6> .
+ <http://nobelprize.org/nobel_prizes/peace/PeacePrize> <http://dbpedia.org/ontology/awardWinner> <http://dbpedia.org/resource/Malala_Yousafzai> <NobelPrize-Al-Jazeera-6> .
+ <http://nobelprize.org/nobel_prizes/peace/PeacePrize2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> <NobelPrize-Al-Jazeera-6> .
+ <http://nobelprize.org/nobel_prizes/peace/PeacePrize2023> <http://dbpedia.org/ontology/nominee> <http://NobelPrize-Al-Jazeera-6.com/blank#nefe122feca824b958753825f617af76db3>  <NobelPrize-Al-Jazeera-6> .
+ <http://nobelprize.org/nobel_prizes/peace/Committee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <NobelPrize-Al-Jazeera-6> .
+ <http://nobelprize.org/nobel_prizes/peace/PeacePrize2023> <http://dbpedia.org/ontology/nominee> <http://NobelPrize-Al-Jazeera-6.com/blank#nefe122feca824b958753825f617af76db4>  <NobelPrize-Al-Jazeera-6> .
+ <http://NobelPrize-Al-Jazeera-6.com/blank#nefe122feca824b958753825f617af76db4> <http://xmlns.com/foaf/0.1/name> "92 organisations"  <NobelPrize-Al-Jazeera-6> .
+ <http://nobelprize.org/nobel_prizes/peace/thisYearCandidates> <http://schema.org/endDate> "2023-10-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-6> .
+ <http://NobelPrize-Al-Jazeera-6.com/blank#nefe122feca824b958753825f617af76db2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NobelPrize-Al-Jazeera-6> .
+ <http://nobelprize.org/nobel_prizes/peace/PeacePrize> <http://dbpedia.org/ontology/awardWinner> <http://dbpedia.org/resource/Abiy_Ahmed> <NobelPrize-Al-Jazeera-6> .
+ <http://nobelprize.org/nobel_prizes/peace/thisYearCandidates> <http://schema.org/workPerformed> <http://nobelprize.org/nobel_prizes/peace/PeacePrize2023> <NobelPrize-Al-Jazeera-6> .
+ <http://nobelprize.org/nobel_prizes/peace/PeacePrize2023> <http://dbpedia.org/ontology/award> <http://nobelprize.org/nobel_prizes/peace/PeacePrize> <NobelPrize-Al-Jazeera-6> .
+ <http://nobelprize.org/nobel_prizes/peace/announcement2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NobelPrize-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Nadia_Murad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Panzi_Hospital> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Hospital> <NobelPrize-Al-Jazeera-7> .
+ <http://data.nobelprize.org/terms/PeacePrize> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> <NobelPrize-Al-Jazeera-7> .
+ <http://NobelPrize-Al-Jazeera-7.com/blank#nfa5ba88d35da43c8833f178428019d58b4> <http://schema.org/endDate> "2023-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Denis_Mukwege> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Denis_Mukwege> <http://dbpedia.org/ontology/birthDate> "1955-03-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Martin_Fayulu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/United_Nations_Peacekeeping> <http://dbpedia.org/ontology/activity> <http://dbpedia.org/ontology/Peacekeeping> <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Denis_Mukwege> <http://data.nobelprize.org/terms/laureateIn> <http://data.nobelprize.org/terms/PeacePrize> <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Martin_Fayulu> <http://dbpedia.org/ontology/candidateFor> <http://dbpedia.org/resource/President_of_the_Democratic_Republic_of_the_Congo> <NobelPrize-Al-Jazeera-7> .
+ <http://data.nobelprize.org/terms/PeacePrize> <http://www.w3.org/2000/01/rdf-schema#label> "Nobel Peace Prize"  <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Panzi_Hospital> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Democratic_Republic_of_the_Congo> <NobelPrize-Al-Jazeera-7> .
+ <http://NobelPrize-Al-Jazeera-7.com/blank#nfa5ba88d35da43c8833f178428019d58b3> <http://schema.org/about> <http://dbpedia.org/resource/Martin_Fayulu> <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Nadia_Murad> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Nobel_Peace_Prize> <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Denis_Mukwege> <http://dbpedia.org/ontology/interest> <http://dbpedia.org/ontology/SexualViolence> <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/President_of_the_Democratic_Republic_of_the_Congo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalOffice> <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Denis_Mukwege> <http://xmlns.com/foaf/0.1/age> "68"^^<http://www.w3.org/2001/XMLSchema#integer>  <NobelPrize-Al-Jazeera-7> .
+ <http://NobelPrize-Al-Jazeera-7.com/blank#nfa5ba88d35da43c8833f178428019d58b5> <http://schema.org/eventDate> "2023-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Panzi_Hospital> <http://dbpedia.org/ontology/foundingDate> "1999"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-Al-Jazeera-7> .
+ <http://NobelPrize-Al-Jazeera-7.com/blank#nfa5ba88d35da43c8833f178428019d58b2> <http://schema.org/name> "Presidential candidacy announcement"  <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Denis_Mukwege> <http://dbpedia.org/ontology/specialization> <http://dbpedia.org/resource/Gynaecology> <NobelPrize-Al-Jazeera-7> .
+ <http://NobelPrize-Al-Jazeera-7.com/blank#nfa5ba88d35da43c8833f178428019d58b4> <http://schema.org/startDate> "XXXX-XX-XX"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-7> .
+ <http://NobelPrize-Al-Jazeera-7.com/blank#nfa5ba88d35da43c8833f178428019d58b3> <http://schema.org/location> <http://dbpedia.org/resource/Democratic_Republic_of_the_Congo> <NobelPrize-Al-Jazeera-7> .
+ <http://NobelPrize-Al-Jazeera-7.com/blank#nfa5ba88d35da43c8833f178428019d58b1> <http://dbpedia.org/ontology/startDate> "2019-01-24"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Democratic_Republic_of_the_Congo> <http://dbpedia.org/ontology/leader> <http://dbpedia.org/resource/Felix_Tshisekedi> <NobelPrize-Al-Jazeera-7> .
+ <http://NobelPrize-Al-Jazeera-7.com/blank#nfa5ba88d35da43c8833f178428019d58b5> <http://schema.org/deathCount> "56"^^<http://www.w3.org/2001/XMLSchema#integer>  <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Panzi_Hospital> <http://dbpedia.org/ontology/specialization> <http://dbpedia.org/ontology/RapeVictimCare> <NobelPrize-Al-Jazeera-7> .
+ <http://NobelPrize-Al-Jazeera-7.com/blank#nfa5ba88d35da43c8833f178428019d58b2> <http://schema.org/location> <http://dbpedia.org/resource/Kinshasa> <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/M23_Rebellion> <http://dbpedia.org/ontology/combatant> <http://dbpedia.org/resource/M23_(militant_group)> <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Democratic_Republic_of_the_Congo> <http://dbpedia.org/ontology/electionDate> "2023-12-20"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Denis_Mukwege> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Doctor> <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Denis_Mukwege> <http://xmlns.com/foaf/0.1/name> "Denis Mukwege"  <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Democratic_Republic_of_the_Congo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Denis_Mukwege> <http://dbpedia.org/ontology/candidateFor> <http://dbpedia.org/resource/President_of_the_Democratic_Republic_of_the_Congo> <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Panzi_Hospital> <http://dbpedia.org/ontology/foundedBy> <http://dbpedia.org/resource/Denis_Mukwege> <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Martin_Fayulu> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Politician> <NobelPrize-Al-Jazeera-7> .
+ <http://NobelPrize-Al-Jazeera-7.com/blank#nfa5ba88d35da43c8833f178428019d58b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/M23_(militant_group)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryUnit> <NobelPrize-Al-Jazeera-7> .
+ <http://NobelPrize-Al-Jazeera-7.com/blank#nfa5ba88d35da43c8833f178428019d58b2> <http://schema.org/eventDate> "2023-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Denis_Mukwege> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Nobel_Peace_Prize> <NobelPrize-Al-Jazeera-7> .
+ <http://NobelPrize-Al-Jazeera-7.com/blank#nfa5ba88d35da43c8833f178428019d58b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Denis_Mukwege> <http://dbpedia.org/ontology/activity> <http://dbpedia.org/ontology/Activism> <NobelPrize-Al-Jazeera-7> .
+ <http://NobelPrize-Al-Jazeera-7.com/blank#nfa5ba88d35da43c8833f178428019d58b3> <http://schema.org/name> "Presidential candidacy announcement"  <NobelPrize-Al-Jazeera-7> .
+ <http://NobelPrize-Al-Jazeera-7.com/blank#nfa5ba88d35da43c8833f178428019d58b5> <http://schema.org/name> "Protest against UN force"  <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Felix_Tshisekedi> <http://xmlns.com/foaf/0.1/name> "Felix Tshisekedi"  <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/United_Nations_Peacekeeping> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Nadia_Murad> <http://xmlns.com/foaf/0.1/name> "Nadia Murad"  <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/President_of_the_Democratic_Republic_of_the_Congo> <http://www.w3.org/2000/01/rdf-schema#label> "President of the Democratic Republic of the Congo"  <NobelPrize-Al-Jazeera-7> .
+ <http://NobelPrize-Al-Jazeera-7.com/blank#nfa5ba88d35da43c8833f178428019d58b2> <http://schema.org/about> <http://dbpedia.org/resource/Denis_Mukwege> <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Felix_Tshisekedi> <http://dbpedia.org/ontology/termPeriod> <http://NobelPrize-Al-Jazeera-7.com/blank#nfa5ba88d35da43c8833f178428019d58b1>  <NobelPrize-Al-Jazeera-7> .
+ <http://NobelPrize-Al-Jazeera-7.com/blank#nfa5ba88d35da43c8833f178428019d58b4> <http://schema.org/name> "United Nations peacekeeping force"  <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Martin_Fayulu> <http://xmlns.com/foaf/0.1/name> "Martin Fayulu"  <NobelPrize-Al-Jazeera-7> .
+ <http://NobelPrize-Al-Jazeera-7.com/blank#nfa5ba88d35da43c8833f178428019d58b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/M23_Rebellion> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Democratic_Republic_of_the_Congo> <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Democratic_Republic_of_the_Congo> <http://dbpedia.org/ontology/conflict> <http://dbpedia.org/resource/M23_Rebellion> <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/M23_(militant_group)> <http://www.w3.org/2000/01/rdf-schema#label> "M23"  <NobelPrize-Al-Jazeera-7> .
+ <http://NobelPrize-Al-Jazeera-7.com/blank#nfa5ba88d35da43c8833f178428019d58b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Democratic_Republic_of_the_Congo> <http://dbpedia.org/ontology/capital> <http://dbpedia.org/resource/Kinshasa> <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Felix_Tshisekedi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-7> .
+ <http://NobelPrize-Al-Jazeera-7.com/blank#nfa5ba88d35da43c8833f178428019d58b3> <http://schema.org/eventDate> "2023-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Denis_Mukwege> <http://dbpedia.org/ontology/workPlace> <http://dbpedia.org/resource/Panzi_Hospital> <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Felix_Tshisekedi> <http://dbpedia.org/ontology/office> <http://dbpedia.org/resource/President_of_the_Democratic_Republic_of_the_Congo> <NobelPrize-Al-Jazeera-7> .
+ <http://NobelPrize-Al-Jazeera-7.com/blank#nfa5ba88d35da43c8833f178428019d58b5> <http://schema.org/about> <http://dbpedia.org/resource/Democratic_Republic_of_the_Congo> <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/M23_Rebellion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Denis_Mukwege> <http://dbpedia.org/ontology/activity> <http://dbpedia.org/ontology/Surgical> <NobelPrize-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Denis_Mukwege> <http://dbpedia.org/ontology/interest> <http://dbpedia.org/ontology/Warfare> <NobelPrize-Al-Jazeera-7> .
+ <http://nobelprize.org/resource/nobel#PrizeInEconomicSciences> <http://dbpedia.org/ontology/foundingYear> "1968"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#NobelPeacePrize2023> <http://nobelprize.org/resource/nobel#nomineeCount> "351"^^<http://www.w3.org/2001/XMLSchema#int>  <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#KatalinKariko> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <NobelPrize-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Alfred_Nobel> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Sweden> <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#SwedishAcademy> <http://nobelprize.org/resource/nobel#awardsPrizeFor> <http://dbpedia.org/resource/Literature> <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#NobelPrizeInEconomicSciences2023> <http://dbpedia.org/ontology/announcementTime> "2023-10-09T09:45:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#NotableLaureates> <http://dbpedia.org/ontology/person> <http://dbpedia.org/resource/Martin_Luther_King_Jr> <NobelPrize-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Alfred_Nobel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#NobelPrizes> <http://dbpedia.org/ontology/foundedBy> <http://dbpedia.org/resource/Alfred_Nobel> <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#PrizeInEconomicSciences> <http://nobelprize.org/resource/nobel#awardsPrizeFor> <http://dbpedia.org/resource/Economic_Sciences> <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#DrewWeissman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#NobelPrizeInMedicineOrPhysiology2023> <http://dbpedia.org/ontology/awardWinner> <http://nobelprize.org/resource/nobel#KatalinKariko> <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#KatalinKariko> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Hungary> <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#NobelPrizes> <http://dbpedia.org/ontology/foundingYear> "1901"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#NobelPrizeInMedicineOrPhysiology2023> <http://dbpedia.org/ontology/relatedTo> <http://dbpedia.org/resource/Moderna> <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#RoyalSwedishAcademyOfSciences> <http://nobelprize.org/resource/nobel#awardsPrizeFor> <http://dbpedia.org/resource/Economic_Sciences> <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#NobelPeacePrize2023> <http://nobelprize.org/resource/nobel#announcementDate> "2023-10-06T09:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#NobelPrizeWinners> <http://dbpedia.org/ontology/totalNumber> "956"^^<http://www.w3.org/2001/XMLSchema#int>  <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#NobelPrize> <http://dbpedia.org/ontology/prizeCeremonyLocation> <http://dbpedia.org/resource/Stockholm_Concert_Hall> <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#NotableLaureates> <http://dbpedia.org/ontology/person> <http://dbpedia.org/resource/Niels_Bohr> <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#NobelPrizeInMedicineOrPhysiology2023> <http://dbpedia.org/ontology/relatedTo> <http://dbpedia.org/resource/Pfizer> <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#RefusedLaureates> <http://dbpedia.org/ontology/person> <http://dbpedia.org/resource/Le_Duc_Tho> <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#RoyalSwedishAcademyOfSciences> <http://nobelprize.org/resource/nobel#awardsPrizeFor> <http://dbpedia.org/resource/Chemistry> <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#NobelPrizeInMedicineOrPhysiology2023> <http://dbpedia.org/ontology/relatedTo> <http://dbpedia.org/resource/MRNA_vaccine> <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#NotableLaureates> <http://dbpedia.org/ontology/person> <http://dbpedia.org/resource/Marie_Curie> <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#NobelPrizeWinners> <http://dbpedia.org/ontology/totalNumberFemaleWinners> "61"^^<http://www.w3.org/2001/XMLSchema#int>  <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#NotableLaureates> <http://dbpedia.org/ontology/person> <http://dbpedia.org/resource/Ernest_Hemingway> <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#NobelPrizes> <http://dbpedia.org/ontology/award> <http://nobelprize.org/resource/nobel#NobelPeacePrize2023> <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#NobelPrizeInLiterature2023> <http://dbpedia.org/ontology/announcementTime> "2023-10-05T11:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#NotableLaureates> <http://dbpedia.org/ontology/person> <http://dbpedia.org/resource/Albert_Camus> <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#NobelPrizeInMedicineOrPhysiology2023> <http://dbpedia.org/ontology/awardWinner> <http://nobelprize.org/resource/nobel#DrewWeissman> <NobelPrize-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Alfred_Nobel> <http://xmlns.com/foaf/0.1/name> "Alfred Nobel"  <NobelPrize-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Alfred_Nobel> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Inventor> <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#ControversialLaureates> <http://dbpedia.org/ontology/person> <http://dbpedia.org/resource/Egas_Moniz> <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#RefusedLaureates> <http://dbpedia.org/ontology/person> <http://dbpedia.org/resource/Jean-Paul_Sartre> <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#NorwegianParliament> <http://nobelprize.org/resource/nobel#awardsPrizeFor> <http://nobelprize.org/resource/nobel#NobelPeacePrize2023> <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#NobelPrizeInPhysics2023> <http://dbpedia.org/ontology/announcementTime> "2023-10-03T09:45:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#NotableLaureates> <http://dbpedia.org/ontology/person> <http://dbpedia.org/resource/Nelson_Mandela> <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#KarolinskaInstitute> <http://nobelprize.org/resource/nobel#awardsPrizeFor> <http://dbpedia.org/resource/Physiology_or_Medicine> <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#KatalinKariko> <http://nobelprize.org/resource/nobel#awarded> <http://nobelprize.org/resource/nobel#NobelPrizeInMedicineOrPhysiology2023> <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#PrizeInEconomicSciences> <http://dbpedia.org/ontology/foundedBy> <http://dbpedia.org/resource/Sveriges_Riksbank> <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#NotableLaureates> <http://dbpedia.org/ontology/person> <http://dbpedia.org/resource/Mother_Teresa> <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#NobelPrize> <http://dbpedia.org/ontology/prizeCeremonyDate> "2023-12-10T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#DrewWeissman> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/United_States> <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#RoyalSwedishAcademyOfSciences> <http://nobelprize.org/resource/nobel#awardsPrizeFor> <http://dbpedia.org/resource/Physics> <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#NobelPrizeWinners> <http://dbpedia.org/ontology/totalNumberScientificCategories> "26"^^<http://www.w3.org/2001/XMLSchema#int>  <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#NobelPrizeInChemistry2023> <http://dbpedia.org/ontology/announcementTime> "2023-10-04T09:45:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#NobelPrize> <http://dbpedia.org/ontology/prizeCeremonyLocation> <http://dbpedia.org/resource/Oslo> <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#DrewWeissman> <http://nobelprize.org/resource/nobel#awarded> <http://nobelprize.org/resource/nobel#NobelPrizeInMedicineOrPhysiology2023> <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#NobelPrizes> <http://dbpedia.org/ontology/creator> <http://dbpedia.org/resource/Alfred_Nobel> <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#NobelPrize> <http://dbpedia.org/ontology/prizeAmount> "1000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <NobelPrize-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Alfred_Nobel> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Chemist> <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#NotableLaureates> <http://dbpedia.org/ontology/person> <http://dbpedia.org/resource/Albert_Einstein> <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/resource/nobel#NobelPrizeInMedicineOrPhysiology2023> <http://dbpedia.org/ontology/awardDate> "2023-10-02T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <NobelPrize-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Alfred_Nobel> <http://dbpedia.org/ontology/will> "prizes to those who, during the preceding year, have conferred the greatest benefit to humankind"  <NobelPrize-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Alfred_Nobel> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Businessman> <NobelPrize-Al-Jazeera-8> .
+ <http://nobelprize.org/terms/upcomingPrizes> <http://nobelprize.org/terms/literatureAnnouncement> "2023-10-05"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-9> .
+ <http://example.org/terms/AttosecondPulsesOfLight> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://nobelprize.org/terms/ScientificWork> <NobelPrize-Al-Jazeera-9> .
+ <http://nobelprize.org/terms/EconomicsPrize> <http://nobelprize.org/terms/category> "Economics"  <NobelPrize-Al-Jazeera-9> .
+ <http://nobelprize.org/terms/AlfredNobel> <http://nobelprize.org/terms/foundedPrizes> <http://NobelPrize-Al-Jazeera-9.com/blank#n2782e1c0bc2940568017e44989c5725bb5>  <NobelPrize-Al-Jazeera-9> .
+ <http://example.org/terms/AnneLHuillier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-9> .
+ <http://nobelprize.org/terms/PhysicsPrize2023> <http://nobelprize.org/terms/laureate> <http://example.org/terms/PierreAgostini> <NobelPrize-Al-Jazeera-9> .
+ <http://nobelprize.org/terms/AlfredNobel> <http://xmlns.com/foaf/0.1/name> "Alfred Nobel"  <NobelPrize-Al-Jazeera-9> .
+ <http://nobelprize.org/terms/PhysicsPrize2023> <http://nobelprize.org/terms/category> "Physics"  <NobelPrize-Al-Jazeera-9> .
+ <http://nobelprize.org/terms/AlfredNobel> <http://dbpedia.org/ontology/deathDate> "1896-12-10"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-9> .
+ <http://nobelprize.org/terms/MedicinePrize2023> <http://nobelprize.org/terms/year> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-Al-Jazeera-9> .
+ <http://nobelprize.org/terms/EconomicsPrize> <http://www.w3.org/2000/01/rdf-schema#label> "The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel"  <NobelPrize-Al-Jazeera-9> .
+ <http://NobelPrize-Al-Jazeera-9.com/blank#n2782e1c0bc2940568017e44989c5725bb1> <http://dbpedia.org/ontology/country> "United States"  <NobelPrize-Al-Jazeera-9> .
+ <http://example.org/terms/LastYearPhysicsPrize> <http://nobelprize.org/terms/year> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-Al-Jazeera-9> .
+ <http://example.org/terms/AntonZeilinger> <http://xmlns.com/foaf/0.1/name> "Anton Zeilinger"  <NobelPrize-Al-Jazeera-9> .
+ <http://nobelprize.org/terms/PhysicsPrize2023> <http://nobelprize.org/terms/amount> "11 million Swedish crowns"  <NobelPrize-Al-Jazeera-9> .
+ <http://nobelprize.org/terms/PhysicsPrize2023> <http://nobelprize.org/terms/amountUSD> "1 million USD"^^<http://www.w3.org/2001/XMLSchema#decimal>  <NobelPrize-Al-Jazeera-9> .
+ <http://nobelprize.org/terms/PhysicsPrize2023> <http://nobelprize.org/terms/laureate> <http://example.org/terms/FerencKrausz> <NobelPrize-Al-Jazeera-9> .
+ <http://nobelprize.org/terms/PhysicsPrize2023> <http://nobelprize.org/terms/reason> "for experimental methods that generate attosecond pulses of light for the study of electron dynamics in matter"  <NobelPrize-Al-Jazeera-9> .
+ <http://example.org/terms/AnneLHuillier> <http://xmlns.com/foaf/0.1/gender> "female"  <NobelPrize-Al-Jazeera-9> .
+ <http://example.org/terms/KatalinKariko> <http://xmlns.com/foaf/0.1/name> "Katalin Kariko"  <NobelPrize-Al-Jazeera-9> .
+ <http://example.org/terms/LastYearPhysicsPrize> <http://nobelprize.org/terms/laureate> <http://example.org/terms/AntonZeilinger> <NobelPrize-Al-Jazeera-9> .
+ <http://NobelPrize-Al-Jazeera-9.com/blank#n2782e1c0bc2940568017e44989c5725bb3> <http://dbpedia.org/ontology/country> "Germany"  <NobelPrize-Al-Jazeera-9> .
+ <http://nobelprize.org/terms/PhysicsPrize2023> <http://nobelprize.org/terms/laureate> <http://example.org/terms/AnneLHuillier> <NobelPrize-Al-Jazeera-9> .
+ <http://example.org/terms/JohnClauser> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-9> .
+ <http://nobelprize.org/terms/AlfredNobel> <http://dbpedia.org/ontology/occupation> "philanthropist"  <NobelPrize-Al-Jazeera-9> .
+ <http://nobelprize.org/terms/AlfredNobel> <http://dbpedia.org/ontology/occupation> "inventor"  <NobelPrize-Al-Jazeera-9> .
+ <http://example.org/terms/PierreAgostini> <http://dbpedia.org/ontology/affiliation> <http://NobelPrize-Al-Jazeera-9.com/blank#n2782e1c0bc2940568017e44989c5725bb1>  <NobelPrize-Al-Jazeera-9> .
+ <http://nobelprize.org/terms/PhysicsPrize2023> <http://nobelprize.org/terms/includesWork> <http://example.org/terms/AttosecondPulsesOfLight> <NobelPrize-Al-Jazeera-9> .
+ <http://example.org/terms/FerencKrausz> <http://dbpedia.org/ontology/affiliation> <http://NobelPrize-Al-Jazeera-9.com/blank#n2782e1c0bc2940568017e44989c5725bb3>  <NobelPrize-Al-Jazeera-9> .
+ <http://NobelPrize-Al-Jazeera-9.com/blank#n2782e1c0bc2940568017e44989c5725bb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/University> <NobelPrize-Al-Jazeera-9> .
+ <http://example.org/terms/AntonZeilinger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-9> .
+ <http://nobelprize.org/terms/AlfredNobel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-9> .
+ <http://NobelPrize-Al-Jazeera-9.com/blank#n2782e1c0bc2940568017e44989c5725bb5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://nobelprize.org/terms/NobelPrize> <NobelPrize-Al-Jazeera-9> .
+ <http://example.org/terms/AlainAspect> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-9> .
+ <http://nobelprize.org/terms/EconomicsPrize> <http://www.w3.org/2000/01/rdf-schema#comment> "The only Nobel that was not included in Alfred Nobel's will."  <NobelPrize-Al-Jazeera-9> .
+ <http://example.org/terms/JohnClauser> <http://xmlns.com/foaf/0.1/name> "John Clauser"  <NobelPrize-Al-Jazeera-9> .
+ <http://example.org/terms/AttosecondPulsesOfLight> <http://www.w3.org/2000/01/rdf-schema#label> "Experimental methods that generate attosecond pulses of light"  <NobelPrize-Al-Jazeera-9> .
+ <http://nobelprize.org/terms/PhysicsPrize2023> <http://www.w3.org/2000/01/rdf-schema#label> "2023 Nobel Prize in Physics"  <NobelPrize-Al-Jazeera-9> .
+ <http://example.org/terms/AlainAspect> <http://xmlns.com/foaf/0.1/name> "Alain Aspect"  <NobelPrize-Al-Jazeera-9> .
+ <http://NobelPrize-Al-Jazeera-9.com/blank#n2782e1c0bc2940568017e44989c5725bb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Institute> <NobelPrize-Al-Jazeera-9> .
+ <http://NobelPrize-Al-Jazeera-9.com/blank#n2782e1c0bc2940568017e44989c5725bb3> <http://dbpedia.org/ontology/name> "Ludwig Maximilian University of Munich"  <NobelPrize-Al-Jazeera-9> .
+ <http://nobelprize.org/terms/EconomicsPrize> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://nobelprize.org/terms/NobelPrize> <NobelPrize-Al-Jazeera-9> .
+ <http://example.org/terms/AnneLHuillier> <http://dbpedia.org/ontology/affiliation> <http://NobelPrize-Al-Jazeera-9.com/blank#n2782e1c0bc2940568017e44989c5725bb4>  <NobelPrize-Al-Jazeera-9> .
+ <http://example.org/terms/LastYearPhysicsPrize> <http://www.w3.org/2000/01/rdf-schema#label> "2022 Nobel Prize in Physics"  <NobelPrize-Al-Jazeera-9> .
+ <http://NobelPrize-Al-Jazeera-9.com/blank#n2782e1c0bc2940568017e44989c5725bb4> <http://dbpedia.org/ontology/name> "Lund University"  <NobelPrize-Al-Jazeera-9> .
+ <http://example.org/terms/AttosecondPulsesOfLight> <http://dbpedia.org/ontology/abstract> "The laureates' experiments have produced pulses of light so short that they are measured in attoseconds, thus demonstrating that these pulses can be used to provide images of processes inside atoms and molecules."  <NobelPrize-Al-Jazeera-9> .
+ <http://example.org/terms/DrewWeissman> <http://dbpedia.org/ontology/nationality> "US citizen"  <NobelPrize-Al-Jazeera-9> .
+ <http://nobelprize.org/terms/upcomingPrizes> <http://nobelprize.org/terms/chemistryAnnouncement> "2023-10-04"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-9> .
+ <http://example.org/terms/PierreAgostini> <http://xmlns.com/foaf/0.1/name> "Pierre Agostini"  <NobelPrize-Al-Jazeera-9> .
+ <http://NobelPrize-Al-Jazeera-9.com/blank#n2782e1c0bc2940568017e44989c5725bb5> <http://www.w3.org/2000/01/rdf-schema#label> "Nobel Prizes"  <NobelPrize-Al-Jazeera-9> .
+ <http://nobelprize.org/terms/PhysicsPrize2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://nobelprize.org/terms/NobelPrize> <NobelPrize-Al-Jazeera-9> .
+ <http://nobelprize.org/terms/MedicinePrize2023> <http://www.w3.org/2000/01/rdf-schema#label> "2023 Nobel Prize in Physiology or Medicine"  <NobelPrize-Al-Jazeera-9> .
+ <http://example.org/terms/LastYearPhysicsPrize> <http://nobelprize.org/terms/laureate> <http://example.org/terms/AlainAspect> <NobelPrize-Al-Jazeera-9> .
+ <http://example.org/terms/LastYearPhysicsPrize> <http://nobelprize.org/terms/reason> "for work on quantum entanglement"  <NobelPrize-Al-Jazeera-9> .
+ <http://example.org/terms/KatalinKariko> <http://dbpedia.org/ontology/nationality> "Hungarian-born US citizen"  <NobelPrize-Al-Jazeera-9> .
+ <http://example.org/terms/PierreAgostini> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-9> .
+ <http://nobelprize.org/terms/PhysicsPrize2023> <http://nobelprize.org/terms/awardCeremonyDate> "2023-12-10"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-9> .
+ <http://nobelprize.org/terms/MedicinePrize2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://nobelprize.org/terms/NobelPrize> <NobelPrize-Al-Jazeera-9> .
+ <http://nobelprize.org/terms/EconomicsPrize> <http://nobelprize.org/terms/creationYear> "1968"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-Al-Jazeera-9> .
+ <http://nobelprize.org/terms/MedicinePrize2023> <http://nobelprize.org/terms/reason> "for their groundbreaking technology that paved the way for messenger RNA (mRNA) COVID-19 vaccines"  <NobelPrize-Al-Jazeera-9> .
+ <http://nobelprize.org/terms/MedicinePrize2023> <http://nobelprize.org/terms/laureate> <http://example.org/terms/KatalinKariko> <NobelPrize-Al-Jazeera-9> .
+ <http://NobelPrize-Al-Jazeera-9.com/blank#n2782e1c0bc2940568017e44989c5725bb2> <http://dbpedia.org/ontology/name> "Max Planck Institute of Quantum Optics"  <NobelPrize-Al-Jazeera-9> .
+ <http://nobelprize.org/terms/upcomingPrizes> <http://nobelprize.org/terms/peaceAnnouncement> "2023-10-06"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-9> .
+ <http://example.org/terms/FerencKrausz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-9> .
+ <http://example.org/terms/LastYearPhysicsPrize> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://nobelprize.org/terms/NobelPrize> <NobelPrize-Al-Jazeera-9> .
+ <http://nobelprize.org/terms/MedicinePrize2023> <http://nobelprize.org/terms/category> "Physiology or Medicine"  <NobelPrize-Al-Jazeera-9> .
+ <http://nobelprize.org/terms/MedicinePrize2023> <http://nobelprize.org/terms/laureate> <http://example.org/terms/DrewWeissman> <NobelPrize-Al-Jazeera-9> .
+ <http://example.org/terms/LastYearPhysicsPrize> <http://nobelprize.org/terms/laureate> <http://example.org/terms/JohnClauser> <NobelPrize-Al-Jazeera-9> .
+ <http://NobelPrize-Al-Jazeera-9.com/blank#n2782e1c0bc2940568017e44989c5725bb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/University> <NobelPrize-Al-Jazeera-9> .
+ <http://example.org/terms/AnneLHuillier> <http://www.w3.org/2000/01/rdf-schema#comment> "Only the fifth woman to win a Nobel in physics."  <NobelPrize-Al-Jazeera-9> .
+ <http://nobelprize.org/terms/upcomingPrizes> <http://www.w3.org/2000/01/rdf-schema#label> "Upcoming Nobel Prizes announcements"  <NobelPrize-Al-Jazeera-9> .
+ <http://example.org/terms/KatalinKariko> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-9> .
+ <http://nobelprize.org/terms/upcomingPrizes> <http://nobelprize.org/terms/economicsAnnouncement> "2023-10-09"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-9> .
+ <http://nobelprize.org/terms/AlfredNobel> <http://dbpedia.org/ontology/nationality> "Swedish"  <NobelPrize-Al-Jazeera-9> .
+ <http://example.org/terms/FerencKrausz> <http://dbpedia.org/ontology/affiliation> <http://NobelPrize-Al-Jazeera-9.com/blank#n2782e1c0bc2940568017e44989c5725bb2>  <NobelPrize-Al-Jazeera-9> .
+ <http://example.org/terms/DrewWeissman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-Al-Jazeera-9> .
+ <http://NobelPrize-Al-Jazeera-9.com/blank#n2782e1c0bc2940568017e44989c5725bb3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/University> <NobelPrize-Al-Jazeera-9> .
+ <http://nobelprize.org/terms/PhysicsPrize2023> <http://nobelprize.org/terms/announcementDate> "2023-10-03"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-Al-Jazeera-9> .
+ <http://NobelPrize-Al-Jazeera-9.com/blank#n2782e1c0bc2940568017e44989c5725bb1> <http://dbpedia.org/ontology/name> "The Ohio State University"  <NobelPrize-Al-Jazeera-9> .
+ <http://example.org/terms/FerencKrausz> <http://xmlns.com/foaf/0.1/name> "Ferenc Krausz"  <NobelPrize-Al-Jazeera-9> .
+ <http://example.org/terms/DrewWeissman> <http://xmlns.com/foaf/0.1/name> "Drew Weissman"  <NobelPrize-Al-Jazeera-9> .
+ <http://example.org/terms/AnneLHuillier> <http://xmlns.com/foaf/0.1/name> "Anne L’Huillier"  <NobelPrize-Al-Jazeera-9> .
+ <http://nobelprize.org/terms/PhysicsPrize2023> <http://nobelprize.org/terms/year> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-Al-Jazeera-9> .
+ <http://NobelPrize-Al-Jazeera-9.com/blank#n2782e1c0bc2940568017e44989c5725bb4> <http://dbpedia.org/ontology/country> "Sweden"  <NobelPrize-Al-Jazeera-9> .

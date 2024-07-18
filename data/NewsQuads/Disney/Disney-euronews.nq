@@ -1,0 +1,728 @@
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/PhyllidaSwift> <http://schema.org/alumniOf> <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b1>  <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b17> <http://dbpedia.org/ontology/condition> "facial scarring"  <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b7> <http://xmlns.com/foaf/0.1/name> "United Artists Releasing"  <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b8> <http://xmlns.com/foaf/0.1/name> "Adam Pearson"  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/UnderTheSkin> <http://dbpedia.org/ontology/releaseDate> "2013"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/DragonSlayersUnited> <http://dbpedia.org/ontology/screeningEvent> <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b12>  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/TheMother> <http://dbpedia.org/ontology/character> <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b17>  <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/ANightmareOnElmStreet> <http://dbpedia.org/ontology/character> <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b19>  <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/AppleTV> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/HelloSunshine> <http://xmlns.com/foaf/0.1/name> "Hello Sunshine"  <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/DrJamesPartridge> <http://xmlns.com/foaf/0.1/name> "Dr. James Partridge OBE"  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/DrJamesPartridge> <http://dbpedia.org/ontology/founder> <http://faceequalityinternational.org/resource/FaceEqualityInternational> <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/FaceEqualityInternational> <http://dbpedia.org/ontology/foundationPlace> <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b4>  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/FaceEqualityInternational> <http://xmlns.com/foaf/0.1/name> "Face Equality International"  <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b2> <http://dbpedia.org/ontology/outcome> <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b3>  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/ChangingFacesUK> <http://dbpedia.org/ontology/country> "United Kingdom"  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/DragonSlayersUnited> <http://dbpedia.org/ontology/starring> <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b10>  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/AppleTV> <http://xmlns.com/foaf/0.1/name> "Apple TV"  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/FaceEqualityInternational> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/ontology/Charity> <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b12> <http://schema.org/startDate> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b16> <http://xmlns.com/foaf/0.1/name> "Jennifer Lopez"  <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/PhyllidaSwift> <http://schema.org/memberOf> <http://faceequalityinternational.org/resource/FaceEqualityInternational> <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/DragonSlayersUnited> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b2> <http://dbpedia.org/ontology/date> "2015"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/DrJamesPartridge> <http://dbpedia.org/ontology/occupation> "Burn survivor"  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/TheMother> <http://dbpedia.org/ontology/starring> <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b16>  <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/Netflix> <http://xmlns.com/foaf/0.1/name> "Netflix"  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/FaceEqualityInternational> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/ChangingFacesUK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/Netflix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/PhyllidaSwift> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Outcome> <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/PhyllidaSwift> <http://dbpedia.org/ontology/accident> <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b2>  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/PhyllidaSwift> <http://dbpedia.org/ontology/employer> <http://faceequalityinternational.org/resource/FaceEqualityInternational> <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/AmazonPrime> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/DrJamesPartridge> <http://dbpedia.org/ontology/founder> <http://faceequalityinternational.org/resource/ChangingFacesUK> <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/Wonder> <http://dbpedia.org/ontology/character> <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b15>  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/UnderTheSkin> <http://dbpedia.org/ontology/starring> <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b8>  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/UnderTheSkin> <http://dbpedia.org/ontology/director> <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b9>  <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b18> <http://xmlns.com/foaf/0.1/name> "Reese Witherspoon"  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/NoTimeToDie> <http://dbpedia.org/ontology/distributor> <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b7>  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/NoTimeToDie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b3> <http://dbpedia.org/ontology/result> "significant facial scarring"  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/Wonder> <http://dbpedia.org/ontology/director> <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b13>  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/HelloSunshine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/FaceEqualityInternational> <http://dbpedia.org/ontology/foundedBy> <http://faceequalityinternational.org/resource/DrJamesPartridge> <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b11> <http://xmlns.com/foaf/0.1/name> "Disney"  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/FaceEqualityInternational> <http://dbpedia.org/ontology/abbreviation> "FEI"  <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EducationalOrganization> <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/FaceEqualityInternational> <http://dbpedia.org/ontology/mission> "promote the campaign for ‘face equality’"  <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b6> <http://xmlns.com/foaf/0.1/name> "Universal Pictures"  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/JamesBondFilms> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MovieSeries> <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/Wonder> <http://dbpedia.org/ontology/starring> <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b14>  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/ChangingFacesUK> <http://xmlns.com/foaf/0.1/name> "Changing Faces"  <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/PhyllidaSwift> <http://dbpedia.org/ontology/occupation> <http://faceequalityinternational.org/resource/CEO> <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b9> <http://xmlns.com/foaf/0.1/name> "Jonathan Glazer"  <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b15> <http://dbpedia.org/ontology/condition> "Treacher Collins syndrome"  <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b5> <http://xmlns.com/foaf/0.1/name> "Rami Malek"  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/IamNotYourVillainCampaign> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b20> <http://xmlns.com/foaf/0.1/name> "New Line Cinema"  <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b10> <http://xmlns.com/foaf/0.1/name> "Adam Pearson"  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/BritishFilmInstitute> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b1> <http://schema.org/name> "Unknown University"  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/PhyllidaSwift> <http://xmlns.com/foaf/0.1/name> "Phyllida Swift"  <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/PhyllidaSwift> <http://schema.org/activistSince> "2015"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b12> <http://schema.org/name> "London Film Festival"  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/DrJamesPartridge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/DragonSlayersUnited> <http://dbpedia.org/ontology/sponsor> <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b11>  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/IamNotYourVillainCampaign> <http://schema.org/sponsor> <http://faceequalityinternational.org/resource/BritishFilmInstitute> <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b4> <http://dbpedia.org/ontology/country> "United Kingdom"  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/ThePhantomOfTheOpera> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/UnderTheSkin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/ANightmareOnElmStreet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MovieSeries> <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/BritishFilmInstitute> <http://xmlns.com/foaf/0.1/name> "British Film Institute"  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/PhyllidaSwift> <http://xmlns.com/foaf/0.1/topic_interest> "face equality"  <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/IamNotYourVillainCampaign> <http://schema.org/name> "I Am Not Your Villain"  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/IamNotYourVillainCampaign> <http://schema.org/startDate> "2018"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b13> <http://xmlns.com/foaf/0.1/name> "Stephen Chbosky"  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/TheMother> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b21> <http://schema.org/name> "The Phantom"  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/FaceEqualityInternational> <http://dbpedia.org/ontology/product> "Position Paper and Call To Hollywood"  <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b14> <http://xmlns.com/foaf/0.1/name> "Julia Roberts"  <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b17> <http://xmlns.com/foaf/0.1/name> "Joseph Fiennes"  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/HelloSunshine> <http://dbpedia.org/ontology/founder> <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b18>  <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b15> <http://schema.org/name> "Auggie Pullman"  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/JamesBondFilms> <http://schema.org/name> "James Bond films"  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/FaceEqualityInternational> <http://dbpedia.org/ontology/foundationYear> "2018"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b19> <http://xmlns.com/foaf/0.1/name> "Freddy Krueger"  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/DragonSlayersUnited> <http://dbpedia.org/ontology/starring> <http://faceequalityinternational.org/resource/PhyllidaSwift> <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/ThePhantomOfTheOpera> <http://dbpedia.org/ontology/character> <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b21>  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/Wonder> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/NoTimeToDie> <http://dbpedia.org/ontology/starring> <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b5>  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/TheMother> <http://dbpedia.org/ontology/releaseDate> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/ANightmareOnElmStreet> <http://dbpedia.org/ontology/distributor> <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b20>  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/NoTimeToDie> <http://dbpedia.org/ontology/distributor> <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b6>  <Disney-euronews-0> .
+ <http://Disney-euronews-0.com/blank#n759134eb77f34ddf8bf74cbffa24b6b5b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/BritishFilmInstitute> <http://dbpedia.org/ontology/abbreviation> "BFI"  <Disney-euronews-0> .
+ <http://faceequalityinternational.org/resource/AmazonPrime> <http://xmlns.com/foaf/0.1/name> "Amazon Prime"  <Disney-euronews-0> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b13> <http://dbpedia.org/ontology/businessSector> <http://dbpedia.org/resource/Artificial_intelligence> <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b3> <http://dbpedia.org/ontology/comparedTo> <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b5>  <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MarketValue> <Disney-euronews-1> .
+ <http://dbpedia.org/resource/Alphabet_Inc> <http://dbpedia.org/ontology/marketValue> <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b3>  <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b1> <http://dbpedia.org/ontology/percentage> "9.5"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b2> <http://schema.org/name> "Earnings Report Publication"  <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b2> <http://dbpedia.org/ontology/date> "2023-04-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-euronews-1> .
+ <http://dbpedia.org/resource/Alphabet_Inc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b3> <http://dbpedia.org/ontology/amount> "166000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b7> <http://schema.org/name> "Fifth-largest one-day decline in market value for any US company"  <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Audience> <Disney-euronews-1> .
+ <http://dbpedia.org/resource/Alphabet_Inc> <http://dbpedia.org/ontology/product> <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b9>  <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b3> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/United_States_dollar> <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b3> <http://dbpedia.org/ontology/equivalentCurrency> <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b4>  <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b3> <http://dbpedia.org/ontology/comparedTo> <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b6>  <Disney-euronews-1> .
+ <http://dbpedia.org/resource/Alphabet_Inc> <http://dbpedia.org/ontology/record> <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b7>  <Disney-euronews-1> .
+ <http://dbpedia.org/resource/Alphabet_Inc> <http://dbpedia.org/ontology/analyst> <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b12>  <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Disney-euronews-1> .
+ <http://dbpedia.org/resource/Alphabet_Inc> <http://dbpedia.org/ontology/parentCompany> <http://dbpedia.org/resource/Google> <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b1> <http://schema.org/priceChange> "loss"  <Disney-euronews-1> .
+ <http://dbpedia.org/resource/Alphabet_Inc> <http://dbpedia.org/ontology/clientType> <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b11>  <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b11> <http://schema.org/description> "high-growth and startup clients"  <Disney-euronews-1> .
+ <http://dbpedia.org/resource/Alphabet_Inc> <http://dbpedia.org/ontology/sharePrice> <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b1>  <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b12> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/Morningstar_Inc> <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-euronews-1> .
+ <http://dbpedia.org/resource/Alphabet_Inc> <http://xmlns.com/foaf/0.1/name> "Alphabet Inc"  <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SharePrice> <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b7> <http://dbpedia.org/ontology/rank> "5"^^<http://www.w3.org/2001/XMLSchema#integer>  <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EarningsReport> <Disney-euronews-1> .
+ <http://dbpedia.org/resource/Alphabet_Inc> <http://dbpedia.org/ontology/businessSector> <http://dbpedia.org/resource/Cloud_computing> <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b12> <http://schema.org/comment> "The firm is more exposed to high-growth and startup clients, which have been more aggressive with cost-control efforts."  <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/GrowthRate> <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b6> <http://dbpedia.org/ontology/marketCapitalization> "147460000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Service> <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Currency> <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b12> <http://xmlns.com/foaf/0.1/name> "Ali Mogharabi"  <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b9> <http://dbpedia.org/ontology/businessSector> <http://dbpedia.org/resource/Cloud_computing> <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b4> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/Euro> <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b5> <http://dbpedia.org/ontology/marketCapitalization> "157580000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b9> <http://dbpedia.org/ontology/growth> <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b10>  <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b8> <http://dbpedia.org/ontology/comparedToEstimate> "434000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b4> <http://dbpedia.org/ontology/amount> "157000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b8> <http://dbpedia.org/ontology/operatingIncome> "266000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-euronews-1> .
+ <http://dbpedia.org/resource/Alphabet_Inc> <http://dbpedia.org/ontology/earnings> <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b8>  <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b5> <http://xmlns.com/foaf/0.1/name> "Nike"  <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b1> <http://dbpedia.org/ontology/afterEvent> <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b2>  <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b6> <http://xmlns.com/foaf/0.1/name> "Disney"  <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b10> <http://dbpedia.org/ontology/rate> "near three-year low"  <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b10> <http://dbpedia.org/ontology/comparedTo> <http://dbpedia.org/resource/Microsoft> <Disney-euronews-1> .
+ <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b13> <http://schema.org/comment> "Slower roll-out of AI services delayed the earnings boost from the new technology."  <Disney-euronews-1> .
+ <http://dbpedia.org/resource/Alphabet_Inc> <http://dbpedia.org/ontology/service> <http://Disney-euronews-1.com/blank#n67ab2083a27145f99e3c981ff06f9da5b13>  <Disney-euronews-1> .
+ <http://example.org/ns#AmazonPrime> <http://schema.org/name> "Amazon Prime"  <Disney-euronews-2> .
+ <http://example.org/ns#NetflixCaliforniaHeadquarters> <http://schema.org/name> "Netflix's California headquarters"  <Disney-euronews-2> .
+ <http://example.org/ns#EuropeanParliamentCultureDivision> <http://schema.org/name> "European Parliament’s culture division"  <Disney-euronews-2> .
+ <http://example.org/ns#ECSA> <http://schema.org/employee> <http://example.org/ns#HelienneLindvall> <Disney-euronews-2> .
+ <http://example.org/ns#CultureInitiative> <http://schema.org/creator> <http://example.org/ns#EU> <Disney-euronews-2> .
+ <http://example.org/ns#PaulSakuma> <http://schema.org/name> "Paul Sakuma"  <Disney-euronews-2> .
+ <http://example.org/ns#GESAC> <http://schema.org/name> "The European Authors’ Societies (GESAC)"  <Disney-euronews-2> .
+ <http://example.org/ns#WGA> <http://schema.org/name> "Writers Guild of America (WGA)"  <Disney-euronews-2> .
+ <http://example.org/ns#VODServices> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Disney-euronews-2> .
+ <http://example.org/ns#GESAC> <http://schema.org/employee> <http://example.org/ns#VeroniqueDesbrosses> <Disney-euronews-2> .
+ <http://example.org/ns#EU> <http://schema.org/name> "European Union"  <Disney-euronews-2> .
+ <http://example.org/ns#CultureAndEducationCommittee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Disney-euronews-2> .
+ <http://example.org/ns#SAGAFTRA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Disney-euronews-2> .
+ <http://example.org/ns#ECSA> <http://schema.org/name> "European Composer and Songwriter Alliance (ECSA)"  <Disney-euronews-2> .
+ <http://example.org/ns#Netflix> <http://schema.org/location> <http://example.org/ns#NetflixCaliforniaHeadquarters> <Disney-euronews-2> .
+ <http://example.org/ns#ProposalToImproveWorkingLives> <http://schema.org/about> <http://example.org/ns#CultureProfessionals> <Disney-euronews-2> .
+ <http://example.org/ns#NetflixCaliforniaHeadquarters> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <Disney-euronews-2> .
+ <http://example.org/ns#CultureAndEmploymentCommittees> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Disney-euronews-2> .
+ <http://example.org/ns#DomenecRuizDevesa> <http://schema.org/memberOf> <http://example.org/ns#CultureAndEducationCommittee> <Disney-euronews-2> .
+ <http://Disney-euronews-2.com/blank#nfe68a507038447d3a6d0ba30a268ffb6b1> <http://schema.org/addressLocality> "California"  <Disney-euronews-2> .
+ <http://example.org/ns#HelienneLindvall> <http://schema.org/name> "Helienne Lindvall"  <Disney-euronews-2> .
+ <http://example.org/ns#CultureAndEducationCommittee> <http://schema.org/name> "Culture and Education Committee"  <Disney-euronews-2> .
+ <http://example.org/ns#GESAC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Disney-euronews-2> .
+ <http://example.org/ns#Netflix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Disney-euronews-2> .
+ <http://Disney-euronews-2.com/blank#nfe68a507038447d3a6d0ba30a268ffb6b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <Disney-euronews-2> .
+ <http://example.org/ns#CultureInitiative> <http://schema.org/legislationDate> "2023-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Disney-euronews-2> .
+ <http://example.org/ns#HelienneLindvall> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-2> .
+ <http://example.org/ns#ChrisPizzello> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-2> .
+ <http://example.org/ns#VeroniqueDesbrosses> <http://schema.org/jobTitle> "General Manager"  <Disney-euronews-2> .
+ <http://example.org/ns#DomenecRuizDevesa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-2> .
+ <http://example.org/ns#ProposalToImproveWorkingLives> <http://schema.org/creator> <http://example.org/ns#CultureAndEmploymentCommittees> <Disney-euronews-2> .
+ <http://example.org/ns#EuropeanParliamentCultureDivision> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Disney-euronews-2> .
+ <http://example.org/ns#ProposalToImproveWorkingLives> <http://schema.org/legislationDate> "2023-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Disney-euronews-2> .
+ <http://example.org/ns#AmazonPrime> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Disney-euronews-2> .
+ <http://example.org/ns#CultureInitiative> <http://schema.org/legislationLegalForce> <http://schema.org/InForce> <Disney-euronews-2> .
+ <http://example.org/ns#StrasbourgPlenarySession> <http://schema.org/startDate> "2023-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Disney-euronews-2> .
+ <http://example.org/ns#VODServices> <http://schema.org/name> "Video-on-demand services"  <Disney-euronews-2> .
+ <http://example.org/ns#PaulSakuma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-2> .
+ <http://example.org/ns#ChrisPizzello> <http://schema.org/name> "Chris Pizzello"  <Disney-euronews-2> .
+ <http://example.org/ns#ECSA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Disney-euronews-2> .
+ <http://example.org/ns#CultureInitiative> <http://schema.org/about> <http://example.org/ns#CultureProfessionals> <Disney-euronews-2> .
+ <http://example.org/ns#EuronewsCulture> <http://schema.org/url> <https://www.euronews.com/culture/2023/09/25/its-a-tentative-deal-hollywood-writers-strike-to-end-after-146-days-but-no-deal-yet-for-ac> <Disney-euronews-2> .
+ <http://example.org/ns#EU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Disney-euronews-2> .
+ <http://example.org/ns#Strasbourg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <Disney-euronews-2> .
+ <http://example.org/ns#NetflixCaliforniaHeadquarters> <http://schema.org/address> <http://Disney-euronews-2.com/blank#nfe68a507038447d3a6d0ba30a268ffb6b1>  <Disney-euronews-2> .
+ <http://example.org/ns#HelienneLindvall> <http://schema.org/jobTitle> "President"  <Disney-euronews-2> .
+ <http://Disney-euronews-2.com/blank#nfe68a507038447d3a6d0ba30a268ffb6b1> <http://schema.org/addressCountry> "USA"  <Disney-euronews-2> .
+ <http://example.org/ns#DomenecRuizDevesa> <http://schema.org/name> "Domenec Ruiz Devesa"  <Disney-euronews-2> .
+ <http://example.org/ns#DisneyPlus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Disney-euronews-2> .
+ <http://example.org/ns#DomenecRuizDevesa> <http://xmlns.com/foaf/0.1/title> "co-rapporteur"  <Disney-euronews-2> .
+ <http://example.org/ns#ProposalToImproveWorkingLives> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LegislationObject> <Disney-euronews-2> .
+ <http://example.org/ns#SAGAFTRA> <http://schema.org/name> "Screen Actors Guild‐American Federation of Television and Radio Artists (SAG-AFTRA)"  <Disney-euronews-2> .
+ <http://example.org/ns#DisneyPlus> <http://schema.org/name> "Disney+"  <Disney-euronews-2> .
+ <http://example.org/ns#StrasbourgPlenarySession> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Disney-euronews-2> .
+ <http://example.org/ns#Netflix> <http://schema.org/name> "Netflix"  <Disney-euronews-2> .
+ <http://example.org/ns#CultureProfessionals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Occupation> <Disney-euronews-2> .
+ <http://example.org/ns#StrasbourgPlenarySession> <http://schema.org/name> "November plenary session"  <Disney-euronews-2> .
+ <http://example.org/ns#CultureAndEmploymentCommittees> <http://schema.org/name> "Culture and Employment Committees of the European Parliament"  <Disney-euronews-2> .
+ <http://example.org/ns#StrasbourgPlenarySession> <http://schema.org/location> <http://example.org/ns#Strasbourg> <Disney-euronews-2> .
+ <http://example.org/ns#VeroniqueDesbrosses> <http://schema.org/name> "Véronique Desbrosses"  <Disney-euronews-2> .
+ <http://example.org/ns#CultureInitiative> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Legislation> <Disney-euronews-2> .
+ <http://example.org/ns#WGA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Disney-euronews-2> .
+ <http://example.org/ns#Strasbourg> <http://schema.org/name> "Strasbourg"  <Disney-euronews-2> .
+ <http://example.org/ns#EuronewsCulture> <http://schema.org/name> "Euronews Culture"  <Disney-euronews-2> .
+ <http://example.org/ns#CultureProfessionals> <http://schema.org/name> "European artists and culture workers"  <Disney-euronews-2> .
+ <http://example.org/ns#VeroniqueDesbrosses> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-2> .
+ <http://example.org/ns#CultureInitiative> <http://schema.org/isBasedOn> <http://example.org/ns#ProposalToImproveWorkingLives> <Disney-euronews-2> .
+ <http://example.org/ns#EuronewsCulture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Disney-euronews-2> .
+ <http://example.org/movies/MissionImpossibleDeadReckoningPartTwo> <http://purl.org/dc/terms/subject> "Mission: Impossible film series"  <Disney-euronews-3> .
+ <http://Disney-euronews-3.com/blank#n915cce79a5cc48aaba04934160a6068fb2> <http://schema.org/ratingValue> "567500000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-euronews-3> .
+ <http://Disney-euronews-3.com/blank#n915cce79a5cc48aaba04934160a6068fb1> <http://schema.org/aggregateRating> <http://Disney-euronews-3.com/blank#n915cce79a5cc48aaba04934160a6068fb2>  <Disney-euronews-3> .
+ <http://Disney-euronews-3.com/blank#n915cce79a5cc48aaba04934160a6068fb7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> <Disney-euronews-3> .
+ <http://Disney-euronews-3.com/blank#n915cce79a5cc48aaba04934160a6068fb6> <http://schema.org/currency> "EUR"  <Disney-euronews-3> .
+ <http://Disney-euronews-3.com/blank#n915cce79a5cc48aaba04934160a6068fb1> <http://schema.org/name> "Mission: Impossible - Dead Reckoning: Part One"  <Disney-euronews-3> .
+ <http://example.org/organizations/SAGAFTRA> <http://schema.org/name> "Screen Actors Guild-American Federation of Television and Radio Artists"  <Disney-euronews-3> .
+ <http://Disney-euronews-3.com/blank#n915cce79a5cc48aaba04934160a6068fb8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> <Disney-euronews-3> .
+ <http://example.org/movies/SpiderManBeyondTheSpiderVerse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <Disney-euronews-3> .
+ <http://example.org/movies/TopGunMaverick> <http://schema.org/aggregateRating> <http://Disney-euronews-3.com/blank#n915cce79a5cc48aaba04934160a6068fb5>  <Disney-euronews-3> .
+ <http://example.org/organizations/SAGAFTRA> <http://schema.org/negotiation> <http://Disney-euronews-3.com/blank#n915cce79a5cc48aaba04934160a6068fb4>  <Disney-euronews-3> .
+ <http://Disney-euronews-3.com/blank#n915cce79a5cc48aaba04934160a6068fb4> <http://schema.org/startDate> "2023-10-24"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-euronews-3> .
+ <http://Disney-euronews-3.com/blank#n915cce79a5cc48aaba04934160a6068fb6> <http://schema.org/ratingValue> "1400000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-euronews-3> .
+ <http://example.org/movies/TopGunMaverick> <http://schema.org/name> "Top Gun: Maverick"  <Disney-euronews-3> .
+ <http://Disney-euronews-3.com/blank#n915cce79a5cc48aaba04934160a6068fb7> <http://schema.org/currency> "USD"  <Disney-euronews-3> .
+ <http://Disney-euronews-3.com/blank#n915cce79a5cc48aaba04934160a6068fb4> <http://schema.org/eventStatus> "Scheduled"  <Disney-euronews-3> .
+ <http://example.org/movies/AQuietPlaceDayOne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <Disney-euronews-3> .
+ <http://example.org/movies/MissionImpossibleFallout> <http://schema.org/name> "Mission: Impossible Fallout"  <Disney-euronews-3> .
+ <http://example.org/movies/Venom3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <Disney-euronews-3> .
+ <http://Disney-euronews-3.com/blank#n915cce79a5cc48aaba04934160a6068fb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <Disney-euronews-3> .
+ <http://example.org/movies/Deadpool3> <http://purl.org/dc/terms/subject> "Marvel Studios"  <Disney-euronews-3> .
+ <http://Disney-euronews-3.com/blank#n915cce79a5cc48aaba04934160a6068fb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Disney-euronews-3> .
+ <http://example.org/movies/Deadpool3> <http://schema.org/name> "Deadpool 3"  <Disney-euronews-3> .
+ <http://example.org/movies/MissionImpossibleDeadReckoningPartTwo> <http://schema.org/datePublished> "2025-05-23"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-euronews-3> .
+ <http://example.org/movies/AQuietPlaceDayOne> <http://schema.org/datePublished> "2024-06-28"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-euronews-3> .
+ <http://example.org/organizations/SAGAFTRA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Disney-euronews-3> .
+ <http://example.org/movies/Deadpool3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <Disney-euronews-3> .
+ <http://example.org/movies/MissionImpossibleFallout> <http://schema.org/aggregateRating> <http://Disney-euronews-3.com/blank#n915cce79a5cc48aaba04934160a6068fb8>  <Disney-euronews-3> .
+ <http://Disney-euronews-3.com/blank#n915cce79a5cc48aaba04934160a6068fb5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> <Disney-euronews-3> .
+ <http://Disney-euronews-3.com/blank#n915cce79a5cc48aaba04934160a6068fb1> <http://schema.org/aggregateRating> <http://Disney-euronews-3.com/blank#n915cce79a5cc48aaba04934160a6068fb3>  <Disney-euronews-3> .
+ <http://example.org/movies/KungFuPanda4> <http://schema.org/name> "Kung Fu Panda 4"  <Disney-euronews-3> .
+ <http://example.org/movies/Venom3> <http://schema.org/name> "the third Venom film"  <Disney-euronews-3> .
+ <http://example.org/movies/AQuietPlaceDayOne> <http://schema.org/name> "A Quiet Place: Day One"  <Disney-euronews-3> .
+ <http://example.org/movies/KungFuPanda4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <Disney-euronews-3> .
+ <http://example.org/person/TomCruise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-3> .
+ <http://Disney-euronews-3.com/blank#n915cce79a5cc48aaba04934160a6068fb3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> <Disney-euronews-3> .
+ <http://Disney-euronews-3.com/blank#n915cce79a5cc48aaba04934160a6068fb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> <Disney-euronews-3> .
+ <http://Disney-euronews-3.com/blank#n915cce79a5cc48aaba04934160a6068fb8> <http://schema.org/currency> "EUR"  <Disney-euronews-3> .
+ <http://example.org/movies/MissionImpossibleDeadReckoningPartTwo> <http://schema.org/workExample> <http://Disney-euronews-3.com/blank#n915cce79a5cc48aaba04934160a6068fb1>  <Disney-euronews-3> .
+ <http://example.org/movies/MissionImpossibleFallout> <http://schema.org/aggregateRating> <http://Disney-euronews-3.com/blank#n915cce79a5cc48aaba04934160a6068fb7>  <Disney-euronews-3> .
+ <http://Disney-euronews-3.com/blank#n915cce79a5cc48aaba04934160a6068fb5> <http://schema.org/currency> "USD"  <Disney-euronews-3> .
+ <http://example.org/movies/MissionImpossibleFallout> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <Disney-euronews-3> .
+ <http://Disney-euronews-3.com/blank#n915cce79a5cc48aaba04934160a6068fb5> <http://schema.org/ratingValue> "1500000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-euronews-3> .
+ <http://example.org/movies/SpiderManBeyondTheSpiderVerse> <http://schema.org/name> "Spider-Man: Beyond the Spider-Verse"  <Disney-euronews-3> .
+ <http://example.org/movies/DunePartTwo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <Disney-euronews-3> .
+ <http://example.org/person/LupitaNyongo> <http://schema.org/name> "Lupita Nyong’o"  <Disney-euronews-3> .
+ <http://example.org/movies/DunePartTwo> <http://schema.org/name> "Dune: Part Two"  <Disney-euronews-3> .
+ <http://example.org/movies/MissionImpossibleDeadReckoningPartTwo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <Disney-euronews-3> .
+ <http://Disney-euronews-3.com/blank#n915cce79a5cc48aaba04934160a6068fb3> <http://schema.org/ratingValue> "531000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-euronews-3> .
+ <http://example.org/movies/TopGunMaverick> <http://schema.org/aggregateRating> <http://Disney-euronews-3.com/blank#n915cce79a5cc48aaba04934160a6068fb6>  <Disney-euronews-3> .
+ <http://Disney-euronews-3.com/blank#n915cce79a5cc48aaba04934160a6068fb3> <http://schema.org/currency> "EUR"  <Disney-euronews-3> .
+ <http://Disney-euronews-3.com/blank#n915cce79a5cc48aaba04934160a6068fb8> <http://schema.org/ratingValue> "741000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-euronews-3> .
+ <http://Disney-euronews-3.com/blank#n915cce79a5cc48aaba04934160a6068fb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AggregateRating> <Disney-euronews-3> .
+ <http://example.org/person/LupitaNyongo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-3> .
+ <http://Disney-euronews-3.com/blank#n915cce79a5cc48aaba04934160a6068fb2> <http://schema.org/currency> "USD"  <Disney-euronews-3> .
+ <http://example.org/movies/AQuietPlaceDayOne> <http://schema.org/actor> <http://example.org/person/LupitaNyongo> <Disney-euronews-3> .
+ <http://Disney-euronews-3.com/blank#n915cce79a5cc48aaba04934160a6068fb7> <http://schema.org/ratingValue> "791700000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-euronews-3> .
+ <http://example.org/movies/TopGunMaverick> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <Disney-euronews-3> .
+ <http://example.org/person/TomCruise> <http://schema.org/name> "Tom Cruise"  <Disney-euronews-3> .
+ <http://example.org/movies/MissionImpossibleDeadReckoningPartTwo> <http://schema.org/name> "Mission: Impossible – Dead Reckoning: Part Two"  <Disney-euronews-3> .
+ <http://example.org/GeorgeClooney> <http://schema.org/name> "George Clooney"  <Disney-euronews-4> .
+ <http://example.org/TedSarandos> <http://schema.org/affiliation> <http://example.org/Netflix> <Disney-euronews-4> .
+ <http://example.org/NegotiationEvent> <http://schema.org/organizer> <http://example.org/ActorsUnion> <Disney-euronews-4> .
+ <http://example.org/GeorgeClooney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-4> .
+ <http://example.org/NBCUniversal> <http://schema.org/name> "NBCUniversal"  <Disney-euronews-4> .
+ <http://example.org/ZoomMeeting> <http://schema.org/attendee> <http://example.org/RobertDeNiro> <Disney-euronews-4> .
+ <http://example.org/Emmys> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Disney-euronews-4> .
+ <http://example.org/ZoomMeeting> <http://schema.org/startDate> "2023-10-17"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-euronews-4> .
+ <http://example.org/Oscars> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Disney-euronews-4> .
+ <http://example.org/HalloweenGuidelines> <http://schema.org/author> <http://example.org/ActorsUnion> <Disney-euronews-4> .
+ <http://example.org/DavidZaslav> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-4> .
+ <http://example.org/ActorsUnion> <http://schema.org/interactionCount> "100"^^<http://www.w3.org/2001/XMLSchema#int>  <Disney-euronews-4> .
+ <http://example.org/Studios> <http://schema.org/name> "Hollywood Studios"  <Disney-euronews-4> .
+ <http://example.org/NBCUniversal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Disney-euronews-4> .
+ <http://example.org/Emmys> <http://schema.org/name> "Emmy Awards"  <Disney-euronews-4> .
+ <http://example.org/LeonardoDiCaprio> <http://schema.org/name> "Leonardo DiCaprio"  <Disney-euronews-4> .
+ <http://example.org/RyanReynolds> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-4> .
+ <http://example.org/NegotiationEvent> <http://schema.org/eventStatus> <http://schema.org/EventScheduled> <Disney-euronews-4> .
+ <http://example.org/HalloweenGuidelines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Disney-euronews-4> .
+ <http://example.org/DavidZaslav> <http://schema.org/affiliation> <http://example.org/WarnerBrosDiscovery> <Disney-euronews-4> .
+ <http://example.org/DonnaLangley> <http://schema.org/affiliation> <http://example.org/NBCUniversal> <Disney-euronews-4> .
+ <http://example.org/ActorsUnion> <http://schema.org/name> "SAG-AFTRA"  <Disney-euronews-4> .
+ <http://example.org/DonnaLangley> <http://schema.org/name> "Donna Langley"  <Disney-euronews-4> .
+ <http://example.org/Netflix> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Disney-euronews-4> .
+ <http://example.org/Disney> <http://schema.org/name> "Disney"  <Disney-euronews-4> .
+ <http://example.org/WarnerBrosDiscovery> <http://schema.org/name> "Warner Bros. Discovery"  <Disney-euronews-4> .
+ <http://example.org/Studios> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Disney-euronews-4> .
+ <http://example.org/ActorsUnion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Disney-euronews-4> .
+ <http://example.org/ScarlettJohansson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-4> .
+ <http://example.org/TedSarandos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-4> .
+ <http://example.org/DavidZaslav> <http://schema.org/name> "David Zaslav"  <Disney-euronews-4> .
+ <http://example.org/Oscars> <http://schema.org/name> "Oscar Awards"  <Disney-euronews-4> .
+ <http://example.org/BobIger> <http://schema.org/affiliation> <http://example.org/Disney> <Disney-euronews-4> .
+ <http://example.org/JointStatement> <http://schema.org/author> <http://example.org/Studios> <Disney-euronews-4> .
+ <http://example.org/ActorsUnion> <http://schema.org/actionStatus> <http://schema.org/ActiveActionStatus> <Disney-euronews-4> .
+ <http://example.org/JointStatement> <http://schema.org/author> <http://example.org/ActorsUnion> <Disney-euronews-4> .
+ <http://example.org/RobertDeNiro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-4> .
+ <http://example.org/NegotiationEvent> <http://schema.org/organizer> <http://example.org/Studios> <Disney-euronews-4> .
+ <http://example.org/Emmys> <http://schema.org/startDate> "2024-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Disney-euronews-4> .
+ <http://example.org/RyanReynoldsPost> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPosting> <Disney-euronews-4> .
+ <http://example.org/LeonardoDiCaprio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-4> .
+ <http://example.org/JointStatement> <http://schema.org/text> "Negotiations will resume tomorrow, with several studio executives expected to join."  <Disney-euronews-4> .
+ <http://example.org/ActorsUnion> <http://schema.org/startDate> "2023-07-21"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-euronews-4> .
+ <http://example.org/JointStatement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Disney-euronews-4> .
+ <http://example.org/ZoomMeeting> <http://schema.org/attendee> <http://example.org/ScarlettJohansson> <Disney-euronews-4> .
+ <http://example.org/Oscars> <http://schema.org/startDate> "2024-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Disney-euronews-4> .
+ <http://example.org/BobIger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-4> .
+ <http://example.org/RyanReynoldsPost> <http://schema.org/text> "Looks forward to screaming ‘scab’ at my 8 year old all night. She’s not in the union but she needs to learn."  <Disney-euronews-4> .
+ <http://example.org/LilyGladstone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-4> .
+ <http://example.org/ZoomMeeting> <http://schema.org/attendee> <http://example.org/GeorgeClooney> <Disney-euronews-4> .
+ <http://example.org/NegotiationEvent> <http://schema.org/startDate> "2023-10-24"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-euronews-4> .
+ <http://example.org/NegotiationEvent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Disney-euronews-4> .
+ <http://example.org/WarnerBrosDiscovery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Disney-euronews-4> .
+ <http://example.org/BobIger> <http://schema.org/name> "Bob Iger"  <Disney-euronews-4> .
+ <http://example.org/ZoomMeeting> <http://schema.org/organizer> <http://example.org/ActorsUnion> <Disney-euronews-4> .
+ <http://example.org/Disney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Disney-euronews-4> .
+ <http://example.org/HalloweenGuidelines> <http://schema.org/datePublished> "2023-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Disney-euronews-4> .
+ <http://example.org/LilyGladstone> <http://schema.org/name> "Lily Gladstone"  <Disney-euronews-4> .
+ <http://example.org/JointStatement> <http://schema.org/datePublished> "2023-10-21"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-euronews-4> .
+ <http://example.org/ScarlettJohansson> <http://schema.org/name> "Scarlett Johansson"  <Disney-euronews-4> .
+ <http://example.org/RyanReynolds> <http://schema.org/name> "Ryan Reynolds"  <Disney-euronews-4> .
+ <http://example.org/TedSarandos> <http://schema.org/name> "Ted Sarandos"  <Disney-euronews-4> .
+ <http://example.org/ZoomMeeting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Disney-euronews-4> .
+ <http://example.org/MartinScorsese> <http://schema.org/name> "Martin Scorsese"  <Disney-euronews-4> .
+ <http://example.org/DonnaLangley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-4> .
+ <http://example.org/Netflix> <http://schema.org/name> "Netflix"  <Disney-euronews-4> .
+ <http://example.org/MartinScorsese> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-4> .
+ <http://example.org/RyanReynoldsPost> <http://schema.org/author> <http://example.org/RyanReynolds> <Disney-euronews-4> .
+ <http://example.org/RyanReynoldsPost> <http://schema.org/datePublished> "2023-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Disney-euronews-4> .
+ <http://example.org/ActorsUnion> <http://schema.org/memberCount> "160000"^^<http://www.w3.org/2001/XMLSchema#int>  <Disney-euronews-4> .
+ <http://example.org/RobertDeNiro> <http://schema.org/name> "Robert De Niro"  <Disney-euronews-4> .
+ <http://example.org/HalloweenGuidelines> <http://schema.org/text> "Choose costumes inspired by generalised characters and figures (ghost, zombie, spider, etc), do not post photos of costumes inspired by struck content on social media."  <Disney-euronews-4> .
+ <http://example.org/OpenHouseBCNFestival> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Festival> <Disney-euronews-5> .
+ <http://example.org/JadaPinkettSmith> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-euronews-5> .
+ <http://example.org/WorthyBook> <http://schema.org/name> "Worthy"  <Disney-euronews-5> .
+ <http://example.org/WorthyBook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Book> <Disney-euronews-5> .
+ <http://example.org/TerryGilliam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-euronews-5> .
+ <http://example.org/ScorseseMovie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <Disney-euronews-5> .
+ <http://example.org/LouisVuittonFoundation> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Paris> <Disney-euronews-5> .
+ <http://example.org/LumiereFestival2023> <http://dbpedia.org/ontology/event> <http://example.org/InterviewWithTerryGilliam> <Disney-euronews-5> .
+ <http://example.org/AvivaStudios> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Venue> <Disney-euronews-5> .
+ <http://example.org/ScorseseMovie> <http://dbpedia.org/ontology/starring> <http://example.org/LilyGladstone> <Disney-euronews-5> .
+ <http://example.org/TerryGilliam> <http://xmlns.com/foaf/0.1/name> "Terry Gilliam"  <Disney-euronews-5> .
+ <http://example.org/WorthyBook> <http://dbpedia.org/ontology/author> <http://example.org/JadaPinkettSmith> <Disney-euronews-5> .
+ <http://example.org/ScorseseMovie> <http://dbpedia.org/ontology/starring> <http://example.org/RobertDeNiro> <Disney-euronews-5> .
+ <http://example.org/MarkRothkoExhibition> <http://dbpedia.org/ontology/location> <http://example.org/LouisVuittonFoundation> <Disney-euronews-5> .
+ <http://example.org/FranceArtHeist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ArtTheft> <Disney-euronews-5> .
+ <http://example.org/DESIblitzLiteratureFestival> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Festival> <Disney-euronews-5> .
+ <http://example.org/JapanMythsToMangaExhibition> <http://dbpedia.org/ontology/startDate> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Disney-euronews-5> .
+ <http://example.org/JapanMythsToMangaExhibition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Exhibition> <Disney-euronews-5> .
+ <http://example.org/FreeYourMind> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Danny_Boyle> <Disney-euronews-5> .
+ <http://example.org/OpenHouseBCNFestival> <http://dbpedia.org/ontology/eventDate> "2023-10-22"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-euronews-5> .
+ <http://example.org/ScorseseMovie> <http://schema.org/duration> "bum-numbing"  <Disney-euronews-5> .
+ <http://example.org/LeonardoDiCaprio> <http://xmlns.com/foaf/0.1/name> "Leonardo DiCaprio"  <Disney-euronews-5> .
+ <http://example.org/DESIblitzLiteratureFestival> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Birmingham> <Disney-euronews-5> .
+ <http://example.org/FundacioMiesVanDerRohe> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Barcelona> <Disney-euronews-5> .
+ <http://example.org/AvivaStudios> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Manchester> <Disney-euronews-5> .
+ <http://example.org/RobertDeNiro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-euronews-5> .
+ <http://example.org/LumierePrize> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> <Disney-euronews-5> .
+ <http://example.org/LeonardoDiCaprio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-euronews-5> .
+ <http://example.org/LillyReich> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-euronews-5> .
+ <http://example.org/LilyGladstone> <http://xmlns.com/foaf/0.1/name> "Lily Gladstone"  <Disney-euronews-5> .
+ <http://example.org/SpiderManOfParis> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Netflix> <Disney-euronews-5> .
+ <http://example.org/LillyReich> <http://xmlns.com/foaf/0.1/name> "Lilly Reich"  <Disney-euronews-5> .
+ <http://example.org/KillersOfTheFlowerMoonBook> <http://schema.org/name> "Killers of the Flower Moon: The Osage Murders and the Birth of the FBI"  <Disney-euronews-5> .
+ <http://example.org/ScorseseMovie> <http://dbpedia.org/ontology/basedOn> <http://example.org/KillersOfTheFlowerMoonBook> <Disney-euronews-5> .
+ <http://example.org/LumiereFestival2023> <http://dbpedia.org/ontology/startDate> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Disney-euronews-5> .
+ <http://example.org/ScorseseMovie> <http://dbpedia.org/ontology/starring> <http://example.org/LeonardoDiCaprio> <Disney-euronews-5> .
+ <http://example.org/LumiereFestival2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Festival> <Disney-euronews-5> .
+ <http://example.org/LilyGladstone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-euronews-5> .
+ <http://example.org/KillersOfTheFlowerMoonBook> <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/David_Grann> <Disney-euronews-5> .
+ <http://example.org/LouisVuittonFoundation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Building> <Disney-euronews-5> .
+ <http://example.org/JapanMythsToMangaExhibition> <http://dbpedia.org/ontology/endDate> "2024-09-08"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-euronews-5> .
+ <http://example.org/FranceArtHeist> <http://schema.org/description> "France's biggest art heist"  <Disney-euronews-5> .
+ <http://example.org/RobertDeNiro> <http://xmlns.com/foaf/0.1/name> "Robert De Niro"  <Disney-euronews-5> .
+ <http://example.org/ScorseseMovie> <http://schema.org/name> "Killers of the Flower Moon"  <Disney-euronews-5> .
+ <http://example.org/KillersOfTheFlowerMoonBook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Book> <Disney-euronews-5> .
+ <http://example.org/LumiereFestival2023> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Lyon> <Disney-euronews-5> .
+ <http://example.org/MarkRothkoExhibition> <http://dbpedia.org/ontology/startDate> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Disney-euronews-5> .
+ <http://example.org/WimWenders> <http://xmlns.com/foaf/0.1/name> "Wim Wenders"  <Disney-euronews-5> .
+ <http://example.org/MarkRothkoExhibition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Exhibition> <Disney-euronews-5> .
+ <http://example.org/JapanMythsToMangaExhibition> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/London> <Disney-euronews-5> .
+ <http://example.org/JadaPinkettSmith> <http://xmlns.com/foaf/0.1/name> "Jada Pinkett Smith"  <Disney-euronews-5> .
+ <http://example.org/LumiereFestival2023> <http://dbpedia.org/ontology/event> <http://example.org/InterviewWithWimWenders> <Disney-euronews-5> .
+ <http://example.org/SpiderManOfParis> <http://schema.org/name> "The Spider-Man of Paris"  <Disney-euronews-5> .
+ <http://example.org/DESIblitzLiteratureFestival> <http://dbpedia.org/ontology/startDate> "2023-10-20"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-euronews-5> .
+ <http://example.org/FundacioMiesVanDerRohe> <http://dbpedia.org/ontology/architect> <http://dbpedia.org/resource/Ludwig_Mies_van_der_Rohe> <Disney-euronews-5> .
+ <http://example.org/LumiereFestival2023> <http://dbpedia.org/ontology/endDate> "2023-10-22"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-euronews-5> .
+ <http://example.org/KillersOfTheFlowerMoonBook> <http://dbpedia.org/ontology/releaseDate> "2017"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Disney-euronews-5> .
+ <http://example.org/FundacioMiesVanDerRohe> <http://dbpedia.org/ontology/architect> <http://example.org/LillyReich> <Disney-euronews-5> .
+ <http://example.org/SpiderManOfParis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <Disney-euronews-5> .
+ <http://example.org/FreeYourMind> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TheatricalPlay> <Disney-euronews-5> .
+ <http://example.org/WimWenders> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-euronews-5> .
+ <http://example.org/DESIblitzLiteratureFestival> <http://dbpedia.org/ontology/endDate> "2023-10-28"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-euronews-5> .
+ <http://example.org/FundacioMiesVanDerRohe> <http://dbpedia.org/ontology/partOf> <http://example.org/OpenHouseBCNFestival> <Disney-euronews-5> .
+ <http://example.org/FundacioMiesVanDerRohe> <http://dbpedia.org/ontology/reconstructionYear> "1986"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Disney-euronews-5> .
+ <http://example.org/FundacioMiesVanDerRohe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Building> <Disney-euronews-5> .
+ <http://example.org/FreeYourMind> <http://dbpedia.org/ontology/location> <http://example.org/AvivaStudios> <Disney-euronews-5> .
+ <http://example.org/WimWenders> <http://dbpedia.org/ontology/award> <http://example.org/LumierePrize> <Disney-euronews-5> .
+ <http://example.org/ScorseseMovie> <http://schema.org/director> <http://dbpedia.org/resource/Martin_Scorsese> <Disney-euronews-5> .
+ <http://example.org/WorthyBook> <http://dbpedia.org/ontology/releaseDate> "2023-10-24"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-euronews-5> .
+ <http://example.org/entities/MEPsTravelIncident> <http://example.org/entities/toLocation> <http://example.org/entities/Strasbourg> <Disney-euronews-6> .
+ <http://example.org/entities/SNCFReseau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/entities/RailwayCompany> <Disney-euronews-6> .
+ <http://example.org/entities/SingleSeatDebate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/entities/PoliticalIssue> <Disney-euronews-6> .
+ <http://example.org/entities/PelleGeertsen> <http://example.org/entities/comment> "Could a new #Disneyland be a suitable use for the #Strasbourg buildings, if we ever manage to get a #SingleSeat for the EP? ... and will this inspire a #Disney movie: #EPlenary and the train that wanted to go on holiday…"  <Disney-euronews-6> .
+ <http://example.org/entities/MEPsTravelIncident> <http://example.org/entities/rerouteDuration> "PT45M"^^<http://www.w3.org/2001/XMLSchema#duration>  <Disney-euronews-6> .
+ <http://example.org/entities/MEPsTravelIncident> <http://example.org/entities/rerouted> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <Disney-euronews-6> .
+ <http://example.org/entities/EmmanuelFoulon> <http://xmlns.com/foaf/0.1/name> "Emmanuel Foulon"  <Disney-euronews-6> .
+ <http://example.org/entities/DisneylandParis> <http://www.w3.org/2000/01/rdf-schema#label> "Disneyland"  <Disney-euronews-6> .
+ <http://example.org/entities/MEPsTravelIncident> <http://example.org/entities/fromLocation> <http://example.org/entities/Brussels> <Disney-euronews-6> .
+ <http://example.org/entities/MEPsTravelIncident> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/entities/TravelEvent> <Disney-euronews-6> .
+ <http://example.org/entities/PlenarySessionOctober2023> <http://purl.org/dc/terms/endDate> "2023-10-19"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-euronews-6> .
+ <http://example.org/entities/EuropeanParliament> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/entities/PoliticalInstitution> <Disney-euronews-6> .
+ <http://example.org/entities/MEPsTravelIncident> <http://example.org/entities/accidentalDestination> <http://example.org/entities/MarneLaValleeStation> <Disney-euronews-6> .
+ <http://example.org/entities/Strasbourg> <http://www.w3.org/2000/01/rdf-schema#label> "Strasbourg"  <Disney-euronews-6> .
+ <http://example.org/entities/PlenarySessionOctober2023> <http://purl.org/dc/terms/startDate> "2023-10-16"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-euronews-6> .
+ <http://example.org/entities/PelleGeertsen> <http://example.org/entities/affiliation> <http://example.org/entities/EuropeanParliament> <Disney-euronews-6> .
+ <http://example.org/entities/EmmanuelFoulon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-euronews-6> .
+ <http://example.org/entities/MEPsGroup> <http://www.w3.org/2000/01/rdf-schema#label> "Several hundred MEPs"  <Disney-euronews-6> .
+ <http://example.org/entities/MEPsGroup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/entities/Group> <Disney-euronews-6> .
+ <http://example.org/entities/MEPsTravelIncident> <http://example.org/entities/plenarySessionPeriod> <http://example.org/entities/PlenarySessionOctober2023> <Disney-euronews-6> .
+ <http://example.org/entities/MarneLaValleeStation> <http://example.org/entities/serves> <http://example.org/entities/DisneylandParis> <Disney-euronews-6> .
+ <http://example.org/entities/EmmanuelFoulon> <http://example.org/entities/comment> "‘When magic comes to life’, Disney’s slogan soon to be that of the European Parliament?"  <Disney-euronews-6> .
+ <http://example.org/entities/EuropeanParliament> <http://example.org/entities/singleSeatIssue> <http://example.org/entities/SingleSeatDebate> <Disney-euronews-6> .
+ <http://example.org/entities/MEPsTravelIncident> <http://example.org/entities/involves> <http://example.org/entities/MEPsGroup> <Disney-euronews-6> .
+ <http://example.org/entities/Brussels> <http://www.w3.org/2000/01/rdf-schema#label> "Brussels"  <Disney-euronews-6> .
+ <http://example.org/entities/SNCFReseau> <http://example.org/entities/responsibleFor> <http://example.org/entities/MEPsTravelIncident> <Disney-euronews-6> .
+ <http://example.org/entities/PlenarySessionOctober2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/entities/PlenarySession> <Disney-euronews-6> .
+ <http://example.org/entities/PelleGeertsen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-euronews-6> .
+ <http://example.org/entities/PelleGeertsen> <http://xmlns.com/foaf/0.1/name> "Pelle Geertsen"  <Disney-euronews-6> .
+ <http://example.org/entities/SNCFReseau> <http://www.w3.org/2000/01/rdf-schema#label> "SNCF Réseau"  <Disney-euronews-6> .
+ <http://example.org/entities/SingleSeatDebate> <http://www.w3.org/2000/01/rdf-schema#label> "Single Seat for the European Parliament debate"  <Disney-euronews-6> .
+ <http://example.org/entities/DisneylandParis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/entities/ThemePark> <Disney-euronews-6> .
+ <http://example.org/entities/MarneLaValleeStation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/entities/TrainStation> <Disney-euronews-6> .
+ <http://example.org/entities/EuropeanParliament> <http://www.w3.org/2000/01/rdf-schema#label> "European Parliament"  <Disney-euronews-6> .
+ <http://example.org/entities/DisneylandParis> <http://example.org/entities/marketingSlogan> "The happiest place on earth"  <Disney-euronews-6> .
+ <http://example.org/entities/EmmanuelFoulon> <http://example.org/entities/affiliation> <http://example.org/entities/EuropeanParliament> <Disney-euronews-6> .
+ <http://example.org/entities/Strasbourg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/entities/City> <Disney-euronews-6> .
+ <http://example.org/entities/MarneLaValleeStation> <http://www.w3.org/2000/01/rdf-schema#label> "Marne-la-Vallée"  <Disney-euronews-6> .
+ <http://example.org/entities/MEPsTravelIncident> <http://example.org/entities/date> "2023-10-16"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-euronews-6> .
+ <http://example.org/entities/Brussels> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/entities/City> <Disney-euronews-6> .
+ <http://example.org/SnowWhiteAndTheSevenDwarfs> <http://dbpedia.org/ontology/releaseDate> "1937"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Disney-euronews-7> .
+ <http://example.org/Disneyland> <http://dbpedia.org/ontology/founder> <http://example.org/WaltDisney> <Disney-euronews-7> .
+ <http://example.org/Lucasfilm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-euronews-7> .
+ <http://example.org/ABC> <http://xmlns.com/foaf/0.1/name> "American Broadcasting Company"  <Disney-euronews-7> .
+ <http://example.org/DisneyBrothersStudio> <http://xmlns.com/foaf/0.1/name> "Disney Brothers Studio"  <Disney-euronews-7> .
+ <http://example.org/WaltDisneyWorld> <http://dbpedia.org/ontology/founder> <http://example.org/RoyDisney> <Disney-euronews-7> .
+ <http://example.org/DisneylandOpeningCeremony> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Disney-euronews-7> .
+ <http://example.org/MarvelStudios> <http://xmlns.com/foaf/0.1/name> "Marvel Studios"  <Disney-euronews-7> .
+ <http://example.org/WaltDisneyStudio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-euronews-7> .
+ <http://example.org/SnowWhiteAndTheSevenDwarfs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <Disney-euronews-7> .
+ <http://example.org/DisneyMovies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FilmSeries> <Disney-euronews-7> .
+ <http://example.org/DisneyParks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-euronews-7> .
+ <http://example.org/Disneyland> <http://dbpedia.org/ontology/theme> <http://example.org/MainStreetInspiredByMarceline> <Disney-euronews-7> .
+ <http://example.org/RoyDisney> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Businessman> <Disney-euronews-7> .
+ <http://example.org/DisneyHolidayResorts> <http://xmlns.com/foaf/0.1/name> "Disney Holiday Resorts"  <Disney-euronews-7> .
+ <http://example.org/DisneylandOpeningCeremony> <http://dbpedia.org/ontology/date> "1955-07-17"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-euronews-7> .
+ <http://example.org/WaltDisneyCompany> <http://dbpedia.org/ontology/subsidiary> <http://example.org/NationalGeographic> <Disney-euronews-7> .
+ <http://example.org/WaltDisneyCompany> <http://dbpedia.org/ontology/owner> <http://example.org/DisneyHolidayResorts> <Disney-euronews-7> .
+ <http://example.org/Disneyland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AmusementPark> <Disney-euronews-7> .
+ <http://example.org/WaltDisney> <http://xmlns.com/foaf/0.1/name> "Walter Elias Disney"  <Disney-euronews-7> .
+ <http://example.org/RoyDisney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-euronews-7> .
+ <http://example.org/WaltDisneyCompany> <http://xmlns.com/foaf/0.1/name> "The Walt Disney Company"  <Disney-euronews-7> .
+ <http://example.org/CoreDisneyAnimators> <http://xmlns.com/foaf/0.1/name> "Core Animators"  <Disney-euronews-7> .
+ <http://example.org/DisneyCruiseLines> <http://xmlns.com/foaf/0.1/name> "Disney Cruise Lines"  <Disney-euronews-7> .
+ <http://example.org/WaltDisney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-euronews-7> .
+ <http://example.org/WaltDisney> <http://dbpedia.org/ontology/birthDate> "1901-12-05"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-euronews-7> .
+ <http://example.org/ESPN> <http://xmlns.com/foaf/0.1/name> "ESPN"  <Disney-euronews-7> .
+ <http://example.org/WaltDisneyCompany> <http://dbpedia.org/ontology/foundedBy> <http://example.org/WaltDisney> <Disney-euronews-7> .
+ <http://example.org/WaltDisney> <http://dbpedia.org/ontology/knownFor> <http://example.org/DisneyMovies> <Disney-euronews-7> .
+ <http://example.org/DisneylandOpeningCeremony> <http://dbpedia.org/ontology/broadcastBy> <http://example.org/ABC> <Disney-euronews-7> .
+ <http://example.org/NationalGeographic> <http://xmlns.com/foaf/0.1/name> "National Geographic"  <Disney-euronews-7> .
+ <http://example.org/WaltDisneyCompany> <http://dbpedia.org/ontology/owner> <http://example.org/DisneyCruiseLines> <Disney-euronews-7> .
+ <http://example.org/DisneyCruiseLines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-euronews-7> .
+ <http://example.org/WaltDisneyCompany> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Entertainment> <Disney-euronews-7> .
+ <http://example.org/WaltDisney> <http://schema.org/voiceActorOf> <http://example.org/MickeyMouse> <Disney-euronews-7> .
+ <http://example.org/WaltDisney> <http://dbpedia.org/ontology/knownFor> <http://example.org/Disneyland> <Disney-euronews-7> .
+ <http://example.org/MarvelStudios> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-euronews-7> .
+ <http://example.org/ESPN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-euronews-7> .
+ <http://example.org/WaltDisneyCompany> <http://dbpedia.org/ontology/subsidiary> <http://example.org/Lucasfilm> <Disney-euronews-7> .
+ <http://example.org/WaltDisneyCompany> <http://dbpedia.org/ontology/subsidiary> <http://example.org/MarvelStudios> <Disney-euronews-7> .
+ <http://example.org/DisneyHolidayResorts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-euronews-7> .
+ <http://example.org/DisneyRealEstateCompanies> <http://xmlns.com/foaf/0.1/name> "Disney Real Estate Companies"  <Disney-euronews-7> .
+ <http://example.org/Disneyland> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/California> <Disney-euronews-7> .
+ <http://example.org/MickeyMouseMerchandise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Disney-euronews-7> .
+ <http://example.org/WaltDisneyWorld> <http://dbpedia.org/ontology/foundingDate> "1971"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Disney-euronews-7> .
+ <http://example.org/MainStreetInspiredByMarceline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Theme> <Disney-euronews-7> .
+ <http://example.org/AlicesWonderland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <Disney-euronews-7> .
+ <http://example.org/Lucasfilm> <http://xmlns.com/foaf/0.1/name> "Lucasfilm"  <Disney-euronews-7> .
+ <http://example.org/ABC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Broadcaster> <Disney-euronews-7> .
+ <http://example.org/WaltDisneyCompany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-euronews-7> .
+ <http://example.org/DisneyRealEstateCompanies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-euronews-7> .
+ <http://example.org/DisneyParks> <http://xmlns.com/foaf/0.1/name> "Disney Parks"  <Disney-euronews-7> .
+ <http://example.org/WaltDisneyCompany> <http://dbpedia.org/ontology/product> <http://example.org/DisneyMovies> <Disney-euronews-7> .
+ <http://example.org/MainStreetInspiredByMarceline> <http://xmlns.com/foaf/0.1/name> "Main Street"  <Disney-euronews-7> .
+ <http://example.org/WaltDisneyWorld> <http://xmlns.com/foaf/0.1/name> "Walt Disney World Resort"  <Disney-euronews-7> .
+ <http://example.org/MickeyMouseMerchandise> <http://xmlns.com/foaf/0.1/name> "Mickey Mouse Merchandise"  <Disney-euronews-7> .
+ <http://example.org/SnowWhiteAndTheSevenDwarfs> <http://dbpedia.org/ontology/producer> <http://example.org/WaltDisneyCompany> <Disney-euronews-7> .
+ <http://example.org/WaltDisneyCompany> <http://dbpedia.org/ontology/subsidiary> <http://example.org/TwentiethCenturyHomeEntertainment> <Disney-euronews-7> .
+ <http://example.org/UbIwerks> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Animator> <Disney-euronews-7> .
+ <http://example.org/TwentiethCenturyHomeEntertainment> <http://xmlns.com/foaf/0.1/name> "Twentieth Century Home Entertainment"  <Disney-euronews-7> .
+ <http://example.org/Disneyland> <http://dbpedia.org/ontology/foundingDate> "1955-07-17"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-euronews-7> .
+ <http://example.org/NineOldMen> <http://dbpedia.org/ontology/member> <http://example.org/CoreDisneyAnimators> <Disney-euronews-7> .
+ <http://example.org/DisneyBrothersStudio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-euronews-7> .
+ <http://example.org/AlicesWonderland> <http://xmlns.com/foaf/0.1/name> "Alice’s Wonderland"  <Disney-euronews-7> .
+ <http://example.org/WaltDisneyStudio> <http://xmlns.com/foaf/0.1/name> "The Walt Disney Studio"  <Disney-euronews-7> .
+ <http://example.org/WaltDisneyCompany> <http://dbpedia.org/ontology/foundingDate> "1923-10-16"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-euronews-7> .
+ <http://example.org/WaltDisney> <http://dbpedia.org/ontology/deathDate> "1966-12-15"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-euronews-7> .
+ <http://example.org/WaltDisneyCompany> <http://dbpedia.org/ontology/valuationYear> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Disney-euronews-7> .
+ <http://example.org/NineOldMen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Group> <Disney-euronews-7> .
+ <http://example.org/WaltDisneyCompany> <http://dbpedia.org/ontology/subsidiary> <http://example.org/ESPN> <Disney-euronews-7> .
+ <http://example.org/WaltDisneyCompany> <http://dbpedia.org/ontology/owner> <http://example.org/DisneyParks> <Disney-euronews-7> .
+ <http://example.org/WaltDisneyCompany> <http://dbpedia.org/ontology/owner> <http://example.org/DisneyRealEstateCompanies> <Disney-euronews-7> .
+ <http://example.org/SnowWhiteAndTheSevenDwarfs> <http://xmlns.com/foaf/0.1/name> "Snow White and the Seven Dwarfs"  <Disney-euronews-7> .
+ <http://example.org/Disneyland> <http://xmlns.com/foaf/0.1/name> "Disneyland"  <Disney-euronews-7> .
+ <http://example.org/ABC> <http://dbpedia.org/ontology/owner> <http://example.org/WaltDisneyCompany> <Disney-euronews-7> .
+ <http://example.org/UbIwerks> <http://xmlns.com/foaf/0.1/name> "Ub Iwerks"  <Disney-euronews-7> .
+ <http://example.org/DisneyMovies> <http://xmlns.com/foaf/0.1/name> "Disney movies"  <Disney-euronews-7> .
+ <http://example.org/TwentiethCenturyHomeEntertainment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-euronews-7> .
+ <http://example.org/WaltDisney> <http://dbpedia.org/ontology/knownFor> <http://example.org/MickeyMouseConcept> <Disney-euronews-7> .
+ <http://example.org/MickeyMouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FictionalCharacter> <Disney-euronews-7> .
+ <http://example.org/WaltDisneyWorld> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AmusementPark> <Disney-euronews-7> .
+ <http://example.org/MickeyMouse> <http://dbpedia.org/ontology/creator> <http://example.org/WaltDisney> <Disney-euronews-7> .
+ <http://example.org/WaltDisney> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Cartoonist> <Disney-euronews-7> .
+ <http://example.org/WaltDisneyCompany> <http://dbpedia.org/ontology/valuation> "203.63"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Disney-euronews-7> .
+ <http://example.org/UbIwerks> <http://dbpedia.org/ontology/notableWork> <http://example.org/MickeyMouse> <Disney-euronews-7> .
+ <http://example.org/WaltDisney> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Entrepreneur> <Disney-euronews-7> .
+ <http://example.org/WaltDisneyWorld> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Florida> <Disney-euronews-7> .
+ <http://example.org/DisneyBrothersStudio> <http://dbpedia.org/ontology/later> <http://example.org/WaltDisneyStudio> <Disney-euronews-7> .
+ <http://example.org/WaltDisneyStudio> <http://dbpedia.org/ontology/later> <http://example.org/WaltDisneyCompany> <Disney-euronews-7> .
+ <http://example.org/RoyDisney> <http://dbpedia.org/ontology/deathDate> "1971-12-20"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-euronews-7> .
+ <http://example.org/WaltDisneyCompany> <http://dbpedia.org/ontology/valuationCurrency> <http://dbpedia.org/resource/United_States_dollar> <Disney-euronews-7> .
+ <http://example.org/MickeyMouse> <http://xmlns.com/foaf/0.1/name> "Mickey Mouse"  <Disney-euronews-7> .
+ <http://example.org/RoyDisney> <http://dbpedia.org/ontology/related> <http://example.org/WaltDisneyCompany> <Disney-euronews-7> .
+ <http://example.org/UbIwerks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-euronews-7> .
+ <http://example.org/MickeyMouse> <http://dbpedia.org/ontology/creator> <http://example.org/UbIwerks> <Disney-euronews-7> .
+ <http://example.org/WaltDisneyCompany> <http://dbpedia.org/ontology/anniversary> "100th"^^<http://www.w3.org/2001/XMLSchema#string>  <Disney-euronews-7> .
+ <http://example.org/AlicesWonderland> <http://dbpedia.org/ontology/producer> <http://example.org/WaltDisneyCompany> <Disney-euronews-7> .
+ <http://example.org/WaltDisney> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Chicago> <Disney-euronews-7> .
+ <http://example.org/UbIwerks> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Cartoonist> <Disney-euronews-7> .
+ <http://example.org/CoreDisneyAnimators> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <Disney-euronews-7> .
+ <http://example.org/MainStreetInspiredByMarceline> <http://dbpedia.org/ontology/inspiredBy> <http://dbpedia.org/resource/Marceline_Missouri> <Disney-euronews-7> .
+ <http://example.org/NationalGeographic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Disney-euronews-7> .
+ <http://example.org/RoyDisney> <http://xmlns.com/foaf/0.1/name> "Roy Disney"  <Disney-euronews-7> .
+ <http://example.org/NineOldMen> <http://xmlns.com/foaf/0.1/name> "Nine Old Men"  <Disney-euronews-7> .
+ <http://example.org/MickeyMouse> <http://dbpedia.org/ontology/license> <http://example.org/MickeyMouseMerchandise> <Disney-euronews-7> .
+ <http://example.org/TinaMarrero> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-8> .
+ <http://example.org/MarcusBrooks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-8> .
+ <http://example.org/TheBear> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/TVSeries> <Disney-euronews-8> .
+ <http://example.org/ThermondoGmbH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Disney-euronews-8> .
+ <http://example.org/JobListings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ItemList> <Disney-euronews-8> .
+ <http://Disney-euronews-8.com/blank#ne70d71a924524c96bba3b5b9aee3a852b8> <http://schema.org/jobLocation> <http://Disney-euronews-8.com/blank#ne70d71a924524c96bba3b5b9aee3a852b9>  <Disney-euronews-8> .
+ <http://Disney-euronews-8.com/blank#ne70d71a924524c96bba3b5b9aee3a852b8> <http://schema.org/jobLocation> <http://Disney-euronews-8.com/blank#ne70d71a924524c96bba3b5b9aee3a852b10>  <Disney-euronews-8> .
+ <http://example.org/SydneyAdamu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-8> .
+ <http://Disney-euronews-8.com/blank#ne70d71a924524c96bba3b5b9aee3a852b7> <http://schema.org/title> "Junior Venture Developer Sales"  <Disney-euronews-8> .
+ <http://Disney-euronews-8.com/blank#ne70d71a924524c96bba3b5b9aee3a852b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-8> .
+ <http://example.org/CarmyBerzatto> <http://schema.org/jobTitle> "Chef"  <Disney-euronews-8> .
+ <http://Disney-euronews-8.com/blank#ne70d71a924524c96bba3b5b9aee3a852b8> <http://schema.org/title> "(Senior) Manager in the Audit Policy Department - Professional Practice Group"  <Disney-euronews-8> .
+ <http://example.org/TheBear> <http://schema.org/character> <http://Disney-euronews-8.com/blank#ne70d71a924524c96bba3b5b9aee3a852b3>  <Disney-euronews-8> .
+ <http://example.org/JobListings> <http://schema.org/itemListElement> <http://example.org/ErnstAndYoungGmbH> <Disney-euronews-8> .
+ <http://Disney-euronews-8.com/blank#ne70d71a924524c96bba3b5b9aee3a852b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> <Disney-euronews-8> .
+ <http://example.org/AffiliateContent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> <Disney-euronews-8> .
+ <http://example.org/CarmyBerzatto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-8> .
+ <http://example.org/Ebraheim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-8> .
+ <http://example.org/ThermondoGmbH> <http://schema.org/jobOpening> <http://Disney-euronews-8.com/blank#ne70d71a924524c96bba3b5b9aee3a852b7>  <Disney-euronews-8> .
+ <http://example.org/TheBear> <http://schema.org/containsSeason> <http://Disney-euronews-8.com/blank#ne70d71a924524c96bba3b5b9aee3a852b4>  <Disney-euronews-8> .
+ <http://Disney-euronews-8.com/blank#ne70d71a924524c96bba3b5b9aee3a852b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Disney-euronews-8> .
+ <http://Disney-euronews-8.com/blank#ne70d71a924524c96bba3b5b9aee3a852b11> <http://schema.org/title> "Chef"  <Disney-euronews-8> .
+ <http://example.org/Ebraheim> <http://schema.org/affiliation> <http://example.org/CulinarySchool> <Disney-euronews-8> .
+ <http://example.org/Luca> <http://schema.org/affiliation> <http://example.org/CopenhagenRestaurant> <Disney-euronews-8> .
+ <http://example.org/SodexoServicesGmbH> <http://schema.org/jobOpening> <http://Disney-euronews-8.com/blank#ne70d71a924524c96bba3b5b9aee3a852b11>  <Disney-euronews-8> .
+ <http://example.org/ErnstAndYoungGmbH> <http://schema.org/jobOpening> <http://Disney-euronews-8.com/blank#ne70d71a924524c96bba3b5b9aee3a852b8>  <Disney-euronews-8> .
+ <http://Disney-euronews-8.com/blank#ne70d71a924524c96bba3b5b9aee3a852b6> <http://schema.org/deathDate> "unknown"  <Disney-euronews-8> .
+ <http://example.org/CarmyBerzatto> <http://schema.org/affiliation> <http://example.org/MichelinStarRestaurant> <Disney-euronews-8> .
+ <http://example.org/EuronewsJobBoard> <http://schema.org/about> <http://example.org/JobListings> <Disney-euronews-8> .
+ <http://Disney-euronews-8.com/blank#ne70d71a924524c96bba3b5b9aee3a852b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-8> .
+ <http://example.org/ErnstAndYoungGmbH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Disney-euronews-8> .
+ <http://example.org/TheBear> <http://schema.org/award> "critically acclaimed"  <Disney-euronews-8> .
+ <http://example.org/AffiliateContent> <http://schema.org/producer> <http://example.org/EuronewsAffiliates> <Disney-euronews-8> .
+ <http://Disney-euronews-8.com/blank#ne70d71a924524c96bba3b5b9aee3a852b3> <http://xmlns.com/foaf/0.1/name> "Carmy Berzatto"  <Disney-euronews-8> .
+ <http://example.org/SydneyAdamu> <http://schema.org/affiliation> <http://example.org/TheBear> <Disney-euronews-8> .
+ <http://example.org/Luca> <http://xmlns.com/foaf/0.1/name> "Will Poulton"  <Disney-euronews-8> .
+ <http://Disney-euronews-8.com/blank#ne70d71a924524c96bba3b5b9aee3a852b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWorkSeason> <Disney-euronews-8> .
+ <http://example.org/TinaMarrero> <http://schema.org/affiliation> <http://example.org/CulinarySchool> <Disney-euronews-8> .
+ <http://Disney-euronews-8.com/blank#ne70d71a924524c96bba3b5b9aee3a852b11> <http://schema.org/jobLocation> <http://example.org/MunichOffice> <Disney-euronews-8> .
+ <http://Disney-euronews-8.com/blank#ne70d71a924524c96bba3b5b9aee3a852b10> <http://schema.org/addressLocality> "Frankfurt/Main"  <Disney-euronews-8> .
+ <http://example.org/Luca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-8> .
+ <http://Disney-euronews-8.com/blank#ne70d71a924524c96bba3b5b9aee3a852b5> <http://schema.org/seasonNumber> "2"  <Disney-euronews-8> .
+ <http://example.org/AffiliateContent> <http://schema.org/about> <http://example.org/AffiliateLinks> <Disney-euronews-8> .
+ <http://example.org/TheBear> <http://schema.org/actor> <http://Disney-euronews-8.com/blank#ne70d71a924524c96bba3b5b9aee3a852b2>  <Disney-euronews-8> .
+ <http://example.org/CousinRichie> <http://xmlns.com/foaf/0.1/name> "Ebon Moss-Bachrach"  <Disney-euronews-8> .
+ <http://Disney-euronews-8.com/blank#ne70d71a924524c96bba3b5b9aee3a852b9> <http://schema.org/addressLocality> "Stuttgart"  <Disney-euronews-8> .
+ <http://example.org/JobListings> <http://schema.org/itemListElement> <http://example.org/SodexoServicesGmbH> <Disney-euronews-8> .
+ <http://example.org/MarcusBrooks> <http://schema.org/affiliation> <http://example.org/CopenhagenRestaurant> <Disney-euronews-8> .
+ <http://example.org/SodexoServicesGmbH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Disney-euronews-8> .
+ <http://example.org/TheBear> <http://schema.org/containsSeason> <http://Disney-euronews-8.com/blank#ne70d71a924524c96bba3b5b9aee3a852b5>  <Disney-euronews-8> .
+ <http://example.org/EuronewsJobBoard> <http://schema.org/provider> <http://example.org/Euronews> <Disney-euronews-8> .
+ <http://example.org/AffiliateContent> <http://schema.org/isPartOf> <http://example.org/Euronews> <Disney-euronews-8> .
+ <http://Disney-euronews-8.com/blank#ne70d71a924524c96bba3b5b9aee3a852b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> <Disney-euronews-8> .
+ <http://example.org/AffiliateContent> <http://purl.org/dc/terms/creator> <http://Disney-euronews-8.com/blank#ne70d71a924524c96bba3b5b9aee3a852b1>  <Disney-euronews-8> .
+ <http://Disney-euronews-8.com/blank#ne70d71a924524c96bba3b5b9aee3a852b2> <http://xmlns.com/foaf/0.1/name> "Jeremy Allen White"  <Disney-euronews-8> .
+ <http://Disney-euronews-8.com/blank#ne70d71a924524c96bba3b5b9aee3a852b4> <http://schema.org/seasonNumber> "1"  <Disney-euronews-8> .
+ <http://Disney-euronews-8.com/blank#ne70d71a924524c96bba3b5b9aee3a852b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-8> .
+ <http://example.org/JobListings> <http://schema.org/itemListElement> <http://example.org/ThermondoGmbH> <Disney-euronews-8> .
+ <http://Disney-euronews-8.com/blank#ne70d71a924524c96bba3b5b9aee3a852b7> <http://schema.org/jobLocation> <http://example.org/BadGandersheim> <Disney-euronews-8> .
+ <http://Disney-euronews-8.com/blank#ne70d71a924524c96bba3b5b9aee3a852b1> <http://xmlns.com/foaf/0.1/name> "Aoife Barry"  <Disney-euronews-8> .
+ <http://example.org/CarmyBerzatto> <http://schema.org/sibling> <http://Disney-euronews-8.com/blank#ne70d71a924524c96bba3b5b9aee3a852b6>  <Disney-euronews-8> .
+ <http://example.org/MarcusBrooks> <http://schema.org/jobTitle> "Pastry Chef"  <Disney-euronews-8> .
+ <http://Disney-euronews-8.com/blank#ne70d71a924524c96bba3b5b9aee3a852b7> <http://schema.org/description> "Working towards making home energy climate neutral."  <Disney-euronews-8> .
+ <http://Disney-euronews-8.com/blank#ne70d71a924524c96bba3b5b9aee3a852b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWorkSeason> <Disney-euronews-8> .
+ <http://example.org/CousinRichie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-8> .
+ <http://Disney-euronews-8.com/blank#ne70d71a924524c96bba3b5b9aee3a852b11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> <Disney-euronews-8> .
+ <http://example.org/AffiliateContent> <http://schema.org/editor> <http://example.org/EuronewsEditorialStaff> <Disney-euronews-8> .
+ <http://example.org/EuronewsJobBoard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebSite> <Disney-euronews-8> .
+ <http://example.org/Luca> <http://schema.org/jobTitle> "Chef"  <Disney-euronews-8> .
+ <http://example.org/lumiere#Festival2023> <http://schema.org/attendee> <http://example.org/lumiere#AlexanderPayne> <Disney-euronews-9> .
+ <http://example.org/lumiere#Festival2023> <http://schema.org/attendee> <http://example.org/lumiere#KarinViard> <Disney-euronews-9> .
+ <http://example.org/lumiere#Festival2023> <http://schema.org/location> <http://example.org/lumiere#Lyon> <Disney-euronews-9> .
+ <http://example.org/lumiere#WorkOfWimWenders> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Disney-euronews-9> .
+ <http://example.org/lumiere#WesAnderson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-9> .
+ <http://example.org/lumiere#Festival2023> <http://schema.org/organizer> <http://Disney-euronews-9.com/blank#n4278fee3572d49ee87eb1dc6f00e07e7b1>  <Disney-euronews-9> .
+ <http://example.org/lumiere#MarisaParedes> <http://schema.org/name> "Marisa Paredes"  <Disney-euronews-9> .
+ <http://example.org/lumiere#AlfonsoCuaron> <http://schema.org/name> "Alfonso Cuarón"  <Disney-euronews-9> .
+ <http://example.org/lumiere#Festival2023> <http://schema.org/workFeatured> <http://example.org/lumiere#WorkOfWimWenders> <Disney-euronews-9> .
+ <http://example.org/lumiere#Festival2023> <http://schema.org/attendee> <http://example.org/lumiere#KojiYakusho> <Disney-euronews-9> .
+ <http://example.org/lumiere#Festival2023> <http://schema.org/eventEdition> "15"  <Disney-euronews-9> .
+ <http://example.org/lumiere#KojiYakusho> <http://schema.org/name> "Koji Yakusho"  <Disney-euronews-9> .
+ <http://example.org/lumiere#Festival2023> <http://schema.org/subEvent> <http://example.org/lumiere#TheBoyAndTheHeronScreening> <Disney-euronews-9> .
+ <http://example.org/lumiere#Festival2023> <http://schema.org/endDate> "2023-10-22"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-euronews-9> .
+ <http://example.org/lumiere#Festival2023> <http://schema.org/subEvent> <http://example.org/lumiere#TheExorcistScreening> <Disney-euronews-9> .
+ <http://example.org/lumiere#KillersOfTheFlowerMoonScreening> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Disney-euronews-9> .
+ <http://example.org/lumiere#Festival2023> <http://schema.org/subEvent> <http://example.org/lumiere#SilentCinemaCelebration> <Disney-euronews-9> .
+ <http://example.org/lumiere#AlexanderPayne> <http://schema.org/name> "Alexander Payne"  <Disney-euronews-9> .
+ <http://example.org/lumiere#TerryGilliam> <http://schema.org/name> "Terry Gilliam"  <Disney-euronews-9> .
+ <http://example.org/lumiere#AliceRohrwacher> <http://schema.org/name> "Alice Rohrwacher"  <Disney-euronews-9> .
+ <http://example.org/lumiere#WorkOfWimWenders> <http://schema.org/creator> <http://example.org/lumiere#WimWenders> <Disney-euronews-9> .
+ <http://example.org/lumiere#Festival2023> <http://schema.org/attendee> <http://example.org/lumiere#WimWenders> <Disney-euronews-9> .
+ <http://Disney-euronews-9.com/blank#n4278fee3572d49ee87eb1dc6f00e07e7b2> <http://schema.org/award> "Lumière Prize"  <Disney-euronews-9> .
+ <http://example.org/lumiere#WorkOfWimWenders> <http://schema.org/about> <http://Disney-euronews-9.com/blank#n4278fee3572d49ee87eb1dc6f00e07e7b2>  <Disney-euronews-9> .
+ <http://example.org/lumiere#AlfonsoCuaron> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-9> .
+ <http://example.org/lumiere#KarinViard> <http://schema.org/name> "Karin Viard"  <Disney-euronews-9> .
+ <http://example.org/lumiere#DocumentariesOnCinema> <http://schema.org/name> "Documentaries on Cinema"  <Disney-euronews-9> .
+ <http://example.org/lumiere#PhotoExhibitions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Disney-euronews-9> .
+ <http://example.org/lumiere#KarinViard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-9> .
+ <http://example.org/lumiere#DocumentariesOnCinema> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Disney-euronews-9> .
+ <http://example.org/lumiere#MarisaParedes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-9> .
+ <http://example.org/lumiere#Festival2023> <http://schema.org/subEvent> <http://example.org/lumiere#CultMoviesSeries> <Disney-euronews-9> .
+ <http://example.org/lumiere#KojiYakusho> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-9> .
+ <http://example.org/lumiere#TheBoyAndTheHeronScreening> <http://schema.org/name> "The Boy and the Heron Screening"  <Disney-euronews-9> .
+ <http://Disney-euronews-9.com/blank#n4278fee3572d49ee87eb1dc6f00e07e7b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Disney-euronews-9> .
+ <http://example.org/lumiere#WimWenders> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-9> .
+ <http://Disney-euronews-9.com/blank#n4278fee3572d49ee87eb1dc6f00e07e7b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-9> .
+ <http://example.org/lumiere#Festival2023> <http://schema.org/attendee> <http://example.org/lumiere#JonathanGlazer> <Disney-euronews-9> .
+ <http://example.org/lumiere#JonathanGlazer> <http://schema.org/name> "Jonathan Glazer"  <Disney-euronews-9> .
+ <http://example.org/lumiere#WimWenders> <http://schema.org/name> "Wim Wenders"  <Disney-euronews-9> .
+ <http://example.org/lumiere#Festival2023> <http://schema.org/name> "Lumière Festival 2023"  <Disney-euronews-9> .
+ <http://Disney-euronews-9.com/blank#n4278fee3572d49ee87eb1dc6f00e07e7b2> <http://schema.org/name> "Wim Wenders"  <Disney-euronews-9> .
+ <http://example.org/lumiere#SilentCinemaCelebration> <http://schema.org/name> "Silent Cinema Celebration"  <Disney-euronews-9> .
+ <http://example.org/lumiere#Festival2023> <http://schema.org/startDate> "2023-10-14"^^<http://www.w3.org/2001/XMLSchema#date>  <Disney-euronews-9> .
+ <http://example.org/lumiere#Festival2023> <http://schema.org/subEvent> <http://example.org/lumiere#PhotoExhibitions> <Disney-euronews-9> .
+ <http://example.org/lumiere#SilentCinemaCelebration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Disney-euronews-9> .
+ <http://example.org/lumiere#Festival2023> <http://schema.org/attendee> <http://example.org/lumiere#MarisaParedes> <Disney-euronews-9> .
+ <http://example.org/lumiere#WimWenders> <http://xmlns.com/foaf/0.1/depiction> <https://example.org/photo/wim_wenders.jpg> <Disney-euronews-9> .
+ <http://example.org/lumiere#AliceRohrwacher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-9> .
+ <http://example.org/lumiere#Festival2023> <http://schema.org/attendee> <http://example.org/lumiere#AlfonsoCuaron> <Disney-euronews-9> .
+ <http://example.org/lumiere#CultMoviesSeries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Disney-euronews-9> .
+ <http://example.org/lumiere#StarWarsThemedEvening> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Disney-euronews-9> .
+ <http://example.org/lumiere#Festival2023> <http://schema.org/attendee> <http://example.org/lumiere#WesAnderson> <Disney-euronews-9> .
+ <http://example.org/lumiere#JonathanGlazer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-9> .
+ <http://example.org/lumiere#TheBoyAndTheHeronScreening> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Disney-euronews-9> .
+ <http://example.org/lumiere#TheExorcistScreening> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Disney-euronews-9> .
+ <http://example.org/lumiere#KojiYakusho> <http://schema.org/award> "Best Actor Palme"  <Disney-euronews-9> .
+ <http://example.org/lumiere#PhotoExhibitions> <http://schema.org/name> "Photo Exhibitions by Wim Wenders"  <Disney-euronews-9> .
+ <http://example.org/lumiere#Lyon> <http://schema.org/name> "Lyon"  <Disney-euronews-9> .
+ <http://example.org/lumiere#Festival2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Disney-euronews-9> .
+ <http://example.org/lumiere#Festival2023> <http://schema.org/subEvent> <http://example.org/lumiere#DocumentariesOnCinema> <Disney-euronews-9> .
+ <http://example.org/lumiere#WesAnderson> <http://schema.org/name> "Wes Anderson"  <Disney-euronews-9> .
+ <http://example.org/lumiere#KillersOfTheFlowerMoonScreening> <http://schema.org/name> "Killers of the Flower Moon Screening"  <Disney-euronews-9> .
+ <http://Disney-euronews-9.com/blank#n4278fee3572d49ee87eb1dc6f00e07e7b1> <http://xmlns.com/foaf/0.1/name> "Institut Lumière"  <Disney-euronews-9> .
+ <http://example.org/lumiere#Festival2023> <http://schema.org/attendee> <http://example.org/lumiere#TerryGilliam> <Disney-euronews-9> .
+ <http://example.org/lumiere#TheExorcistScreening> <http://schema.org/name> "The Exorcist Screening"  <Disney-euronews-9> .
+ <http://example.org/lumiere#Lyon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <Disney-euronews-9> .
+ <http://example.org/lumiere#Festival2023> <http://schema.org/attendee> <http://example.org/lumiere#AliceRohrwacher> <Disney-euronews-9> .
+ <http://example.org/lumiere#AlexanderPayne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-9> .
+ <http://example.org/lumiere#Festival2023> <http://schema.org/subEvent> <http://example.org/lumiere#KillersOfTheFlowerMoonScreening> <Disney-euronews-9> .
+ <http://example.org/lumiere#StarWarsThemedEvening> <http://schema.org/name> "Star Wars Themed Evening"  <Disney-euronews-9> .
+ <http://example.org/lumiere#TerryGilliam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Disney-euronews-9> .
+ <http://example.org/lumiere#CultMoviesSeries> <http://schema.org/name> "Cult Movies Series"  <Disney-euronews-9> .
+ <http://example.org/lumiere#Festival2023> <http://schema.org/subEvent> <http://example.org/lumiere#StarWarsThemedEvening> <Disney-euronews-9> .

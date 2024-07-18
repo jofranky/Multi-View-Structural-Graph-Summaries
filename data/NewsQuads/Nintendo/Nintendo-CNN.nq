@@ -1,0 +1,582 @@
+ <http://example.org/ns#OLEDModel_Sales> <http://example.org/ns#unitsSold> "3.99"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-CNN-0> .
+ <http://example.org/ns#ProfitForecast_FullYear> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#FinancialForecast> <Nintendo-CNN-0> .
+ <http://dbpedia.org/resource/Shuntaro_Furukawa> <http://example.org/ns#companyCultureImportance> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <Nintendo-CNN-0> .
+ <http://dbpedia.org/resource/Sony_Group> <http://example.org/ns#forecastDowngrade> "2022-02-03"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-CNN-0> .
+ <http://dbpedia.org/resource/Nintendo_Co_Ltd> <http://example.org/ns#sold> <http://example.org/ns#OLEDModel_Sales> <Nintendo-CNN-0> .
+ <http://dbpedia.org/resource/Nintendo_Co_Ltd> <http://example.org/ns#operatingIncome> <http://example.org/ns#OperatingIncome_OctToDec2021> <Nintendo-CNN-0> .
+ <http://example.org/ns#SwitchUnits_SalesForecast> <http://example.org/ns#originalForecast> "24"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-CNN-0> .
+ <http://dbpedia.org/resource/Nintendo_Co_Ltd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#Company> <Nintendo-CNN-0> .
+ <http://example.org/ns#Metaverse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#Concept> <Nintendo-CNN-0> .
+ <http://dbpedia.org/resource/Shuntaro_Furukawa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-CNN-0> .
+ <http://example.org/ns#SwitchConsoles_9MonthsTo_Dec2021> <http://example.org/ns#beats> <http://dbpedia.org/resource/Wii> <Nintendo-CNN-0> .
+ <http://example.org/ns#ZeldaBotW_Sequel> <http://example.org/ns#unitsSold> "25"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-CNN-0> .
+ <http://example.org/ns#SwitchConsoles_9MonthsTo_Dec2021> <http://example.org/ns#unitsSold> "18.95"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-CNN-0> .
+ <http://dbpedia.org/resource/Kyoto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/City> <Nintendo-CNN-0> .
+ <http://dbpedia.org/resource/Shuntaro_Furukawa> <http://example.org/ns#role> "Nintendo President"  <Nintendo-CNN-0> .
+ <http://example.org/ns#SwitchUnits_SalesForecast> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#SalesForecast> <Nintendo-CNN-0> .
+ <http://example.org/ns#ZeldaBotW_Sequel> <http://example.org/ns#releaseYear> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Nintendo-CNN-0> .
+ <http://example.org/ns#SwitchLite_Handheld> <http://example.org/ns#unitsSold> "3.2"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-CNN-0> .
+ <http://dbpedia.org/resource/Nintendo_Co_Ltd> <http://example.org/ns#president> <http://dbpedia.org/resource/Shuntaro_Furukawa> <Nintendo-CNN-0> .
+ <http://dbpedia.org/resource/Shuntaro_Furukawa> <http://example.org/ns#stanceOnDeals> "not opposed"  <Nintendo-CNN-0> .
+ <http://example.org/ns#OperatingIncome_OctToDec2021> <http://example.org/ns#amount> "252.5"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-CNN-0> .
+ <http://dbpedia.org/resource/Nintendo_Co_Ltd> <http://example.org/ns#sold> <http://example.org/ns#SwitchUnits_SalesForecast> <Nintendo-CNN-0> .
+ <http://example.org/ns#SwitchConsoles_9MonthsTo_Dec2021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#SalesData> <Nintendo-CNN-0> .
+ <http://example.org/ns#PokemonLegendsArceus> <http://example.org/ns#title> "Pokemon Legends: Arceus"  <Nintendo-CNN-0> .
+ <http://example.org/ns#OLEDModel_Sales> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#SalesData> <Nintendo-CNN-0> .
+ <http://example.org/ns#OperatingIncome_OctToDec2021> <http://example.org/ns#yearOnYearChange> "10"^^<http://www.w3.org/2001/XMLSchema#percent>  <Nintendo-CNN-0> .
+ <http://dbpedia.org/resource/Nintendo_Co_Ltd> <http://example.org/ns#softwareSales> <http://example.org/ns#SoftwareSales_ContinuedStrong> <Nintendo-CNN-0> .
+ <http://example.org/ns#SwitchUnits_HomePortable> <http://example.org/ns#unitsSold> "11.8"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-CNN-0> .
+ <http://example.org/ns#OLEDModel_Sales> <http://example.org/ns#timePeriod> "2021-10-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-CNN-0> .
+ <http://example.org/ns#ProfitForecast_FullYear> <http://example.org/ns#timePeriod> "2021-04-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-CNN-0> .
+ <http://example.org/ns#SoftwareSales_ContinuedStrong> <http://example.org/ns#includes> <http://example.org/ns#PokemonLegendsArceus> <Nintendo-CNN-0> .
+ <http://dbpedia.org/resource/Nintendo_Co_Ltd> <http://example.org/ns#profitForecast> <http://example.org/ns#ProfitForecast_FullYear> <Nintendo-CNN-0> .
+ <http://dbpedia.org/resource/Shuntaro_Furukawa> <http://xmlns.com/foaf/0.1/name> "Shuntaro Furukawa"  <Nintendo-CNN-0> .
+ <http://example.org/ns#OperatingIncome_OctToDec2021> <http://example.org/ns#currency> "JPY"  <Nintendo-CNN-0> .
+ <http://example.org/ns#ProfitForecast_FullYear> <http://example.org/ns#change> "8"^^<http://www.w3.org/2001/XMLSchema#percent>  <Nintendo-CNN-0> .
+ <http://example.org/ns#ProfitForecast_FullYear> <http://example.org/ns#amount> "560"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-CNN-0> .
+ <http://example.org/ns#ProfitForecast_FullYear> <http://example.org/ns#currency> "JPY"  <Nintendo-CNN-0> .
+ <http://example.org/ns#SoftwareSales_ContinuedStrong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#SalesStatus> <Nintendo-CNN-0> .
+ <http://dbpedia.org/resource/Wii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#VideoGameConsole> <Nintendo-CNN-0> .
+ <http://example.org/ns#SwitchConsoles_9MonthsTo_Dec2021> <http://example.org/ns#totalSales> "100"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-CNN-0> .
+ <http://example.org/ns#SwitchUnits_HomePortable> <http://example.org/ns#product> "Nintendo Switch (home-portable)"  <Nintendo-CNN-0> .
+ <http://dbpedia.org/resource/Wii> <http://example.org/ns#manufacturer> <http://dbpedia.org/resource/Nintendo_Co_Ltd> <Nintendo-CNN-0> .
+ <http://dbpedia.org/resource/Meta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#Company> <Nintendo-CNN-0> .
+ <http://dbpedia.org/resource/Nintendo_Co_Ltd> <http://example.org/ns#sold> <http://example.org/ns#SwitchLite_Handheld> <Nintendo-CNN-0> .
+ <http://example.org/ns#SwitchUnits_SalesForecast> <http://example.org/ns#revisedForecast> "23"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-CNN-0> .
+ <http://example.org/ns#SwitchLite_Handheld> <http://example.org/ns#product> "Nintendo Switch Lite (handheld-only)"  <Nintendo-CNN-0> .
+ <http://dbpedia.org/resource/Nintendo_Co_Ltd> <http://example.org/ns#sold> <http://example.org/ns#SwitchConsoles_9MonthsTo_Dec2021> <Nintendo-CNN-0> .
+ <http://dbpedia.org/resource/Meta> <http://example.org/ns#investmentFocus> <http://example.org/ns#Metaverse> <Nintendo-CNN-0> .
+ <http://example.org/ns#OperatingIncome_OctToDec2021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#FinancialFigure> <Nintendo-CNN-0> .
+ <http://example.org/ns#OperatingIncome_OctToDec2021> <http://example.org/ns#timePeriod> "2021-10-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-CNN-0> .
+ <http://dbpedia.org/resource/Nintendo_Co_Ltd> <http://example.org/ns#stockSymbol> "NTDOY"  <Nintendo-CNN-0> .
+ <http://example.org/ns#PokemonLegendsArceus> <http://example.org/ns#reception> "praise"  <Nintendo-CNN-0> .
+ <http://example.org/ns#PokemonLegendsArceus> <http://example.org/ns#innovationLevel> "innovative"  <Nintendo-CNN-0> .
+ <http://example.org/ns#PokemonLegendsArceus> <http://example.org/ns#launchDate> "2022-01-28"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-CNN-0> .
+ <http://dbpedia.org/resource/Meta> <http://example.org/ns#formerlyKnownAs> "Facebook"  <Nintendo-CNN-0> .
+ <http://dbpedia.org/resource/Sony_Group> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#Company> <Nintendo-CNN-0> .
+ <http://example.org/ns#SwitchUnits_SalesForecast> <http://example.org/ns#timePeriod> "2021-04-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-CNN-0> .
+ <http://example.org/ns#SwitchConsoles_9MonthsTo_Dec2021> <http://example.org/ns#timePeriod> "2021-04-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-CNN-0> .
+ <http://dbpedia.org/resource/Nintendo_Co_Ltd> <http://example.org/ns#basedIn> <http://dbpedia.org/resource/Kyoto> <Nintendo-CNN-0> .
+ <http://dbpedia.org/resource/Nintendo_Co_Ltd> <http://example.org/ns#sold> <http://example.org/ns#SwitchUnits_HomePortable> <Nintendo-CNN-0> .
+ <http://example.org/ns#SwitchUnits_HomePortable> <http://example.org/ns#timePeriod> "2021-04-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-CNN-0> .
+ <http://example.org/ns#SoftwareSales_ContinuedStrong> <http://example.org/ns#includes> <http://example.org/ns#ZeldaBotW_Sequel> <Nintendo-CNN-0> .
+ <http://example.org/ns#Metaverse> <http://example.org/ns#industryInvestmentDriver> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <Nintendo-CNN-0> .
+ <http://example.org/ns#SwitchUnits_HomePortable> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#SalesData> <Nintendo-CNN-0> .
+ <http://example.org/ns#SwitchLite_Handheld> <http://example.org/ns#timePeriod> "2021-04-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-CNN-0> .
+ <http://example.org/ns#ZeldaBotW_Sequel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#VideoGame> <Nintendo-CNN-0> .
+ <http://example.org/ns#OLEDModel_Sales> <http://example.org/ns#launchDate> "2021-10-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-CNN-0> .
+ <http://example.org/ns#Metaverse> <http://example.org/ns#potentialInterest> <http://dbpedia.org/resource/Nintendo_Co_Ltd> <Nintendo-CNN-0> .
+ <http://example.org/ns#OLEDModel_Sales> <http://example.org/ns#product> "Nintendo Switch OLED model"  <Nintendo-CNN-0> .
+ <http://example.org/ns#PokemonLegendsArceus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#VideoGame> <Nintendo-CNN-0> .
+ <http://example.org/ns#SwitchLite_Handheld> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#SalesData> <Nintendo-CNN-0> .
+ <http://example.org/ns#ZeldaBotW_Sequel> <http://example.org/ns#title> "Legend of Zelda: Breath of the Wild sequel"  <Nintendo-CNN-0> .
+ <http://example.org/ns#MarioKartLiveHomeCircuit> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Nintendo_Switch> <Nintendo-CNN-1> .
+ <http://example.org/ns#SuperMarioBros35> <http://dbpedia.org/ontology/releaseDate> "2020-10-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-CNN-1> .
+ <http://example.org/ns#SuperMarioBros35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> <Nintendo-CNN-1> .
+ <http://example.org/ns#SuperMarioBros35> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Nintendo_Switch> <Nintendo-CNN-1> .
+ <http://example.org/ns#SuperMario3DAllStars> <http://dbpedia.org/ontology/computingPlatform> <http://dbpedia.org/resource/Nintendo_Switch> <Nintendo-CNN-1> .
+ <http://example.org/ns#DougBowser> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-CNN-1> .
+ <http://example.org/ns#SuperMario3DAllStars> <http://dbpedia.org/ontology/wikiPageExternalLink> <https://www.nintendo.com/games/detail/super-mario-3d-all-stars-switch/> <Nintendo-CNN-1> .
+ <http://example.org/ns#SuperMario3DWorld> <http://dbpedia.org/ontology/series> <http://dbpedia.org/resource/Super_Mario> <Nintendo-CNN-1> .
+ <http://example.org/ns#MarioKartLiveHomeCircuit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> <Nintendo-CNN-1> .
+ <http://example.org/ns#SuperMario3DWorld> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Nintendo_Switch> <Nintendo-CNN-1> .
+ <http://example.org/ns#Marios35thBirthday> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Nintendo_Switch> <Nintendo-CNN-1> .
+ <http://example.org/ns#Mario> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FictionalCharacter> <Nintendo-CNN-1> .
+ <http://example.org/ns#SuperMarioSunshine> <http://dbpedia.org/ontology/series> <http://dbpedia.org/resource/Super_Mario> <Nintendo-CNN-1> .
+ <http://example.org/ns#SuperMario3DAllStars> <http://dbpedia.org/ontology/releaseDate> "2020-09-18"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-CNN-1> .
+ <http://example.org/ns#BowsersFury> <http://dbpedia.org/ontology/series> <http://dbpedia.org/resource/Super_Mario> <Nintendo-CNN-1> .
+ <http://example.org/ns#BowsersFury> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> <Nintendo-CNN-1> .
+ <http://example.org/ns#Marios35thBirthday> <http://schema.org/startDate> "1985"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Nintendo-CNN-1> .
+ <http://example.org/ns#SuperMario3DWorld> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> <Nintendo-CNN-1> .
+ <http://example.org/ns#BowsersFury> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Nintendo_Switch> <Nintendo-CNN-1> .
+ <http://example.org/ns#MarioKartLiveHomeCircuit> <http://dbpedia.org/ontology/releaseDate> "2020-10-16"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-CNN-1> .
+ <http://example.org/ns#MarioKartLiveHomeCircuit> <http://dbpedia.org/ontology/wikiPageExternalLink> <https://www.nintendo.com/games/detail/mario-kart-live-home-circuit-switch/> <Nintendo-CNN-1> .
+ <http://example.org/ns#MushroomKingdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FictionalPlace> <Nintendo-CNN-1> .
+ <http://example.org/ns#Mario> <http://dbpedia.org/ontology/series> <http://dbpedia.org/resource/Super_Mario> <Nintendo-CNN-1> .
+ <http://example.org/ns#SuperMario3DAllStars> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/Nintendo> <Nintendo-CNN-1> .
+ <http://example.org/ns#SuperMario64> <http://dbpedia.org/ontology/series> <http://dbpedia.org/resource/Super_Mario> <Nintendo-CNN-1> .
+ <http://example.org/ns#SuperMarioSunshine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> <Nintendo-CNN-1> .
+ <http://example.org/ns#SuperMarioAllStars> <http://dbpedia.org/ontology/computingPlatform> <http://dbpedia.org/resource/Nintendo_Switch> <Nintendo-CNN-1> .
+ <http://example.org/ns#DougBowser> <http://dbpedia.org/ontology/position> "Nintendo of America president"  <Nintendo-CNN-1> .
+ <http://example.org/ns#SuperMario64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> <Nintendo-CNN-1> .
+ <http://example.org/ns#MushroomKingdom> <http://dbpedia.org/ontology/series> <http://dbpedia.org/resource/Super_Mario> <Nintendo-CNN-1> .
+ <http://example.org/ns#Marios35thBirthday> <http://dbpedia.org/ontology/organiser> <http://dbpedia.org/resource/Nintendo> <Nintendo-CNN-1> .
+ <http://example.org/ns#SuperMarioBros35> <http://dbpedia.org/ontology/computingPlatform> <http://dbpedia.org/resource/Nintendo_Switch> <Nintendo-CNN-1> .
+ <http://example.org/ns#Mario> <http://xmlns.com/foaf/0.1/name> "Mario"  <Nintendo-CNN-1> .
+ <http://example.org/ns#SuperMario3DAllStars> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Nintendo_Switch> <Nintendo-CNN-1> .
+ <http://example.org/ns#MarioKartLiveHomeCircuit> <http://dbpedia.org/ontology/computingPlatform> <http://dbpedia.org/resource/Nintendo_Switch> <Nintendo-CNN-1> .
+ <http://example.org/ns#SuperMario3DWorld> <http://dbpedia.org/ontology/previousWork> <http://dbpedia.org/resource/Super_Mario_3D_World> <Nintendo-CNN-1> .
+ <http://example.org/ns#Marios35thBirthday> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Nintendo-CNN-1> .
+ <http://example.org/ns#NintendoOfAmerica> <http://dbpedia.org/ontology/president> <http://example.org/ns#DougBowser> <Nintendo-CNN-1> .
+ <http://example.org/ns#SuperMarioAllStars> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/Nintendo> <Nintendo-CNN-1> .
+ <http://example.org/ns#SuperMario3DAllStars> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> <Nintendo-CNN-1> .
+ <http://example.org/ns#SuperMarioBros35> <http://dbpedia.org/ontology/wikiPageExternalLink> <https://www.nintendo.com/games/detail/super-mario-bros-35-switch/> <Nintendo-CNN-1> .
+ <http://example.org/ns#SuperMarioAllStars> <http://dbpedia.org/ontology/releaseDate> "1993"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Nintendo-CNN-1> .
+ <http://example.org/ns#BowsersFury> <http://dbpedia.org/ontology/computingPlatform> <http://dbpedia.org/resource/Nintendo_Switch> <Nintendo-CNN-1> .
+ <http://example.org/ns#SuperMario3DWorld> <http://dbpedia.org/ontology/computingPlatform> <http://dbpedia.org/resource/Nintendo_Switch> <Nintendo-CNN-1> .
+ <http://example.org/ns#SuperMarioGalaxy> <http://dbpedia.org/ontology/series> <http://dbpedia.org/resource/Super_Mario> <Nintendo-CNN-1> .
+ <http://example.org/ns#NintendoOfAmerica> <http://dbpedia.org/ontology/subsidiary> <http://dbpedia.org/resource/Nintendo> <Nintendo-CNN-1> .
+ <http://example.org/ns#Mario> <http://dbpedia.org/ontology/creator> <http://dbpedia.org/resource/Nintendo> <Nintendo-CNN-1> .
+ <http://example.org/ns#SuperMarioAllStars> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> <Nintendo-CNN-1> .
+ <http://example.org/ns#SuperMarioAllStars> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Nintendo_Switch> <Nintendo-CNN-1> .
+ <http://example.org/ns#SuperMarioGalaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> <Nintendo-CNN-1> .
+ <http://example.org/ns#SuperMarioBros35> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/Nintendo> <Nintendo-CNN-1> .
+ <http://example.org/ns#NintendoOfAmerica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-CNN-1> .
+ <http://example.org/ns#MarioKartLiveHomeCircuit> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/Nintendo> <Nintendo-CNN-1> .
+ <http://example.org/ns#DougBowser> <http://xmlns.com/foaf/0.1/name> "Doug Bowser"  <Nintendo-CNN-1> .
+ <https://archive.org/details/SuperNintendoGameManuals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Document> <Nintendo-CNN-2> .
+ <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#KerryHays> <http://xmlns.com/foaf/0.1/page> <https://www.twitch.tv/peebs> <Nintendo-CNN-2> .
+ <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#MarioFranchise> <http://dbpedia.org/ontology/creator> <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#ShigeruMiyamoto> <Nintendo-CNN-2> .
+ <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#DonkeyKong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> <Nintendo-CNN-2> .
+ <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#MarioFranchise> <http://dbpedia.org/ontology/releaseDate> "1981-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-CNN-2> .
+ <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#KerryHays> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-CNN-2> .
+ <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#SuperNintendo> <http://dbpedia.org/ontology/releaseDate> "1991-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-CNN-2> .
+ <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#DonkeyKong> <http://dbpedia.org/ontology/creator> <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#ShigeruMiyamoto> <Nintendo-CNN-2> .
+ <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#SuperNintendo> <http://dbpedia.org/ontology/computingPlatform> "Super Nintendo Entertainment System (SNES)"  <Nintendo-CNN-2> .
+ <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#SuperNintendoGameManualCollection> <http://purl.org/dc/terms/contributor> <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#KerryHays> <Nintendo-CNN-2> .
+ <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#SuperNintendoGameManualCollection> <http://dbpedia.org/ontology/numberOfItems> "700"^^<http://www.w3.org/2001/XMLSchema#integer>  <Nintendo-CNN-2> .
+ <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#KerryHays> <http://xmlns.com/foaf/0.1/interest> <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#VideoGamePreservation> <Nintendo-CNN-2> .
+ <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#SuperNintendoGameManualCollection> <http://purl.org/dc/terms/title> "Super Nintendo Game Manual Collection"  <Nintendo-CNN-2> .
+ <https://archive.org/details/SuperNintendoGameManuals> <http://purl.org/dc/terms/subject> <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#SuperNintendoGameManualCollection> <Nintendo-CNN-2> .
+ <https://archive.org/details/SuperNintendoGameManuals> <http://purl.org/dc/terms/format> "Digital scans"  <Nintendo-CNN-2> .
+ <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#MarioFranchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Franchise> <Nintendo-CNN-2> .
+ <https://archive.org/details/SuperNintendoGameManuals> <http://purl.org/dc/terms/accessRights> "Free access"  <Nintendo-CNN-2> .
+ <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#SuperNintendo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/GameConsole> <Nintendo-CNN-2> .
+ <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#VideoGamePreservation> <http://purl.org/dc/terms/description> "The act of preserving video games, their history, and related materials."  <Nintendo-CNN-2> .
+ <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#SuperNintendoGameManualCollection> <http://purl.org/dc/terms/coverage> "US"  <Nintendo-CNN-2> .
+ <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#MarioFranchise> <http://dbpedia.org/ontology/product> <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#DonkeyKong> <Nintendo-CNN-2> .
+ <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#ShigeruMiyamoto> <http://dbpedia.org/ontology/occupation> "Game designer"  <Nintendo-CNN-2> .
+ <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#SuperNintendoGameManualCollection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/ontology/bibo/Collection> <Nintendo-CNN-2> .
+ <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#SuperNintendoGameManualCollection> <http://purl.org/dc/terms/hasPart> <https://archive.org/details/SuperNintendoGameManuals> <Nintendo-CNN-2> .
+ <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#KerryHays> <http://xmlns.com/foaf/0.1/name> "Kerry Hays"  <Nintendo-CNN-2> .
+ <https://archive.org/details/SuperNintendoGameManuals> <http://xmlns.com/foaf/0.1/homepage> <https://archive.org/details/SuperNintendoGameManuals> <Nintendo-CNN-2> .
+ <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#KerryHays> <http://rdfs.org/sioc/ns#has_function> "Twitch streamer"  <Nintendo-CNN-2> .
+ <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#KerryHays> <http://dbpedia.org/ontology/occupation> "Video game preservationist"  <Nintendo-CNN-2> .
+ <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#KerryHays> <http://xmlns.com/foaf/0.1/nick> "Peebs"  <Nintendo-CNN-2> .
+ <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#DonkeyKong> <http://purl.org/dc/terms/title> "Donkey Kong"  <Nintendo-CNN-2> .
+ <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#VideoGamePreservation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Concept> <Nintendo-CNN-2> .
+ <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#SuperNintendoGameManualCollection> <http://purl.org/dc/terms/subject> <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#SuperNintendo> <Nintendo-CNN-2> .
+ <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#VideoGamePreservation> <http://www.w3.org/2000/01/rdf-schema#label> "Video game preservation"  <Nintendo-CNN-2> .
+ <https://archive.org/details/SuperNintendoGameManuals> <http://purl.org/dc/terms/issued> "2020-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-CNN-2> .
+ <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#DonkeyKong> <http://dbpedia.org/ontology/releaseDate> "1981-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-CNN-2> .
+ <https://archive.org/details/SuperNintendoGameManuals> <http://purl.org/dc/terms/creator> <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#KerryHays> <Nintendo-CNN-2> .
+ <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#DonkeyKong> <http://dbpedia.org/ontology/computingPlatform> "Arcade"  <Nintendo-CNN-2> .
+ <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#SuperNintendoGameManualCollection> <http://purl.org/dc/terms/description> "A collection of every single English-language Super Nintendo game manual."  <Nintendo-CNN-2> .
+ <https://archive.org/details/SuperNintendoGameManuals> <http://purl.org/dc/terms/title> "Super Nintendo Game Manuals Archive"  <Nintendo-CNN-2> .
+ <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#SuperNintendo> <http://dbpedia.org/ontology/manufacturer> "Nintendo"  <Nintendo-CNN-2> .
+ <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#SuperNintendoGameManualCollection> <http://purl.org/dc/terms/created> "1991-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-CNN-2> .
+ <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#ShigeruMiyamoto> <http://xmlns.com/foaf/0.1/name> "Shigeru Miyamoto"  <Nintendo-CNN-2> .
+ <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#ShigeruMiyamoto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-CNN-2> .
+ <file:///home/jonatan/Dokumente/GitHub/2023-mscthesis-jonatan/pyGPT4/#ShigeruMiyamoto> <http://dbpedia.org/ontology/nationality> "Japanese"  <Nintendo-CNN-2> .
+ <http://example.org/ontology/GoldenEye007> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <https://www.cnn.com/article-about-goldeneye-007> <Nintendo-CNN-3> .
+ <http://example.org/ontology/GoldenEye007Soundtrack> <http://dbpedia.org/ontology/composer> <http://dbpedia.org/resource/James_Bond_theme> <Nintendo-CNN-3> .
+ <http://example.org/ontology/GoldenEye007Soundtrack> <http://xmlns.com/foaf/0.1/name> "GoldenEye 007 Soundtrack"  <Nintendo-CNN-3> .
+ <http://example.org/ontology/GoldenEye007> <http://schema.org/gamePlatform> "Xbox"  <Nintendo-CNN-3> .
+ <http://example.org/ontology/PierceBrosnan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Nintendo-CNN-3> .
+ <http://example.org/ontology/IGN_Review> <http://schema.org/itemReviewed> <http://example.org/ontology/GoldenEye007> <Nintendo-CNN-3> .
+ <http://example.org/ontology/GoldenEye007Soundtrack> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalWork> <Nintendo-CNN-3> .
+ <http://example.org/ontology/GoldenEye007ReRelease> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Nintendo-CNN-3> .
+ <http://example.org/ontology/GoldenEye007> <http://dbpedia.org/ontology/computingPlatform> <http://dbpedia.org/resource/Xbox_(console)> <Nintendo-CNN-3> .
+ <http://example.org/ontology/GoldenEye007> <http://dbpedia.org/ontology/computingPlatform> <http://dbpedia.org/resource/Nintendo_64> <Nintendo-CNN-3> .
+ <http://example.org/ontology/JamesBond> <http://dbpedia.org/ontology/portrayedBy> <http://example.org/ontology/PierceBrosnan> <Nintendo-CNN-3> .
+ <http://example.org/ontology/XboxGamePass> <http://schema.org/offers> <http://example.org/ontology/GoldenEye007> <Nintendo-CNN-3> .
+ <http://example.org/ontology/GoldenEyeFilm> <http://dbpedia.org/ontology/starring> <http://example.org/ontology/PierceBrosnan> <Nintendo-CNN-3> .
+ <http://example.org/ontology/GoldenEye007ReRelease> <http://schema.org/eventStatus> <http://schema.org/EventScheduled> <Nintendo-CNN-3> .
+ <http://example.org/ontology/GoldenEyeFilm> <http://dbpedia.org/ontology/releaseDate> "1995"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Nintendo-CNN-3> .
+ <http://example.org/ontology/GoldenEye007> <http://schema.org/gamePlatform> "Nintendo Switch"  <Nintendo-CNN-3> .
+ <http://example.org/ontology/NintendoSwitchOnlineMembership> <http://schema.org/offers> <http://example.org/ontology/GoldenEye007> <Nintendo-CNN-3> .
+ <http://example.org/ontology/GoldenEye007ReRelease> <http://schema.org/workPerformed> <http://example.org/ontology/GoldenEye007> <Nintendo-CNN-3> .
+ <http://example.org/ontology/GoldenEye007> <http://dbpedia.org/ontology/computingPlatform> <http://dbpedia.org/resource/Nintendo_Switch> <Nintendo-CNN-3> .
+ <http://example.org/ontology/IGN_Review> <http://schema.org/datePublished> "1997"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Nintendo-CNN-3> .
+ <http://example.org/ontology/GoldenEye007ReRelease> <http://schema.org/startDate> "2023-03-31"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-CNN-3> .
+ <http://example.org/ontology/Rare> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Video_game_industry> <Nintendo-CNN-3> .
+ <http://example.org/ontology/GoldenEyeFilm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <Nintendo-CNN-3> .
+ <http://example.org/ontology/GoldenEye007> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/Rare_(company)> <Nintendo-CNN-3> .
+ <http://example.org/ontology/IGN_Review> <http://schema.org/reviewBody> "Praising its graphics as superb."  <Nintendo-CNN-3> .
+ <http://example.org/ontology/GoldenEye007> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/First-person_shooter> <Nintendo-CNN-3> .
+ <http://example.org/ontology/PierceBrosnan> <http://xmlns.com/foaf/0.1/name> "Pierce Brosnan"  <Nintendo-CNN-3> .
+ <http://example.org/ontology/IGN_Review> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> <Nintendo-CNN-3> .
+ <http://example.org/ontology/XboxGamePass> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <Nintendo-CNN-3> .
+ <http://example.org/ontology/IGN_Review> <http://schema.org/reviewAspect> "Graphics"  <Nintendo-CNN-3> .
+ <http://example.org/ontology/XboxGamePass> <http://schema.org/name> "Xbox Game Pass"  <Nintendo-CNN-3> .
+ <http://example.org/ontology/GoldenEye007Soundtrack> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Video_game_music> <Nintendo-CNN-3> .
+ <http://example.org/ontology/GoldenEye007> <http://dbpedia.org/ontology/releaseDate> "1997-08-25"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-CNN-3> .
+ <http://example.org/ontology/NintendoSwitchOnlineMembership> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <Nintendo-CNN-3> .
+ <http://example.org/ontology/IGN_Review> <http://schema.org/reviewRating> "9.7"^^<http://www.w3.org/2001/XMLSchema#float>  <Nintendo-CNN-3> .
+ <http://example.org/ontology/Rare> <http://dbpedia.org/ontology/product> <http://example.org/ontology/GoldenEye007> <Nintendo-CNN-3> .
+ <http://example.org/ontology/PierceBrosnan> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Actor> <Nintendo-CNN-3> .
+ <http://example.org/ontology/GoldenEye007> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> <Nintendo-CNN-3> .
+ <http://example.org/ontology/JamesBond> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FictionalCharacter> <Nintendo-CNN-3> .
+ <http://example.org/ontology/GoldenEye007> <http://dbpedia.org/ontology/basedOn> <http://dbpedia.org/resource/GoldenEye_(film)> <Nintendo-CNN-3> .
+ <http://example.org/ontology/NintendoSwitchOnlineMembership> <http://schema.org/name> "Nintendo Switch Online membership"  <Nintendo-CNN-3> .
+ <http://example.org/ontology/Rare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-CNN-3> .
+ <http://example.org/ns#SalesComparison2020H1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#Comparison> <Nintendo-CNN-4> .
+ <http://dbpedia.org/resource/Nintendo> <http://example.org/ns#hasForecast> <http://example.org/ns#ProfitForecast> <Nintendo-CNN-4> .
+ <http://example.org/ns#SoftwareSalesForecast> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#SalesForecast> <Nintendo-CNN-4> .
+ <http://example.org/ns#EarningsReport2021H1> <http://example.org/ns#profit> "219900000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-CNN-4> .
+ <http://example.org/ns#NetSalesForecast> <http://example.org/ns#holdsProjection> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <Nintendo-CNN-4> .
+ <http://example.org/ns#SoftwareSalesForecast> <http://example.org/ns#currentProjection> "20000000"^^<http://www.w3.org/2001/XMLSchema#int>  <Nintendo-CNN-4> .
+ <http://example.org/ns#NetSalesForecast> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#SalesForecast> <Nintendo-CNN-4> .
+ <http://example.org/ns#EarningsReport2021H1> <http://example.org/ns#timePeriod> "2021-04-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-CNN-4> .
+ <http://example.org/ns#GamingSoftware> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Nintendo-CNN-4> .
+ <http://example.org/ns#SwitchSalesForecast> <http://example.org/ns#product> <http://dbpedia.org/resource/Nintendo_Switch> <Nintendo-CNN-4> .
+ <http://example.org/ns#NintendoStockPerformance2021_11_04> <http://example.org/ns#stockClosingPercentageChange> "-1.7"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-CNN-4> .
+ <http://dbpedia.org/resource/Nintendo> <http://example.org/ns#hasForecast> <http://example.org/ns#SwitchSalesForecast> <Nintendo-CNN-4> .
+ <http://example.org/ns#SoftwareSalesForecast> <http://example.org/ns#increasedByPercentage> "5"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-CNN-4> .
+ <http://example.org/ns#SoftwareSalesForecast> <http://example.org/ns#product> <http://example.org/ns#GamingSoftware> <Nintendo-CNN-4> .
+ <http://example.org/ns#ProfitForecast> <http://example.org/ns#operatingProfitCurrency> "JPY"^^<http://www.w3.org/2001/XMLSchema#string>  <Nintendo-CNN-4> .
+ <http://example.org/ns#EarningsReport2021H1> <http://example.org/ns#sales> "624200000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-CNN-4> .
+ <http://dbpedia.org/resource/2020–2022_global_chip_shortage> <http://xmlns.com/foaf/0.1/name> "2020–2022 global chip shortage"^^<http://www.w3.org/2001/XMLSchema#string>  <Nintendo-CNN-4> .
+ <http://example.org/ns#SwitchSalesForecast> <http://example.org/ns#timeframe> <http://example.org/ns#FiscalYearEndMarchNext> <Nintendo-CNN-4> .
+ <http://dbpedia.org/resource/2020–2022_global_chip_shortage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Nintendo-CNN-4> .
+ <http://example.org/ns#FiscalYearEndMarchNext> <http://example.org/ns#endDate> "2022-03-31"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-CNN-4> .
+ <http://dbpedia.org/resource/Nintendo> <http://example.org/ns#hasForecast> <http://example.org/ns#NetSalesForecast> <Nintendo-CNN-4> .
+ <http://example.org/ns#SwitchSalesForecast> <http://example.org/ns#reducedByPercentage> "6"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-CNN-4> .
+ <http://example.org/ns#ProfitForecast> <http://example.org/ns#operatingProfit> "520000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-CNN-4> .
+ <http://dbpedia.org/resource/Kyoto> <http://xmlns.com/foaf/0.1/name> "Kyoto"^^<http://www.w3.org/2001/XMLSchema#string>  <Nintendo-CNN-4> .
+ <http://example.org/ns#EarningsReport2021H1> <http://example.org/ns#profitComparison> <http://example.org/ns#ProfitComparison2020H1> <Nintendo-CNN-4> .
+ <http://example.org/ns#ProfitForecast> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#FinancialForecast> <Nintendo-CNN-4> .
+ <http://dbpedia.org/resource/Kyoto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/City> <Nintendo-CNN-4> .
+ <http://example.org/ns#NintendoStockPerformance2021_11_04> <http://example.org/ns#date> "2021-11-04"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-CNN-4> .
+ <http://example.org/ns#EarningsReport2021H1> <http://example.org/ns#profitCurrency> "JPY"^^<http://www.w3.org/2001/XMLSchema#string>  <Nintendo-CNN-4> .
+ <http://dbpedia.org/resource/Nintendo> <http://example.org/ns#hasEarningsReport> <http://example.org/ns#EarningsReport2021H1> <Nintendo-CNN-4> .
+ <http://dbpedia.org/resource/Nintendo_Switch> <http://xmlns.com/foaf/0.1/name> "Nintendo Switch"^^<http://www.w3.org/2001/XMLSchema#string>  <Nintendo-CNN-4> .
+ <http://dbpedia.org/resource/Animal_Crossing_New_Horizons> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#VideoGame> <Nintendo-CNN-4> .
+ <http://example.org/ns#SalesComparison2020H1> <http://example.org/ns#percentageChange> "-19"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-CNN-4> .
+ <http://example.org/ns#EarningsReport2021H1> <http://example.org/ns#salesComparison> <http://example.org/ns#SalesComparison2020H1> <Nintendo-CNN-4> .
+ <http://example.org/ns#EarningsReport2021H1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#EarningsReport> <Nintendo-CNN-4> .
+ <http://example.org/ns#EarningsReport2021H1> <http://example.org/ns#salesCurrency> "JPY"^^<http://www.w3.org/2001/XMLSchema#string>  <Nintendo-CNN-4> .
+ <http://example.org/ns#FiscalYearEndMarchNext> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#Timeframe> <Nintendo-CNN-4> .
+ <http://example.org/ns#SwitchSalesForecast> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#SalesForecast> <Nintendo-CNN-4> .
+ <http://dbpedia.org/resource/Nintendo> <http://example.org/ns#hasForecast> <http://example.org/ns#SoftwareSalesForecast> <Nintendo-CNN-4> .
+ <http://example.org/ns#SwitchSalesForecast> <http://example.org/ns#previousProjection> "25500000"^^<http://www.w3.org/2001/XMLSchema#int>  <Nintendo-CNN-4> .
+ <http://example.org/ns#ProfitForecast> <http://example.org/ns#dividendIncreaseCurrency> "JPY"^^<http://www.w3.org/2001/XMLSchema#string>  <Nintendo-CNN-4> .
+ <http://example.org/ns#SwitchSales2020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#SalesPeriod> <Nintendo-CNN-4> .
+ <http://example.org/ns#NintendoStockPerformance2021_11_04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#StockPerformance> <Nintendo-CNN-4> .
+ <http://dbpedia.org/resource/Nintendo> <http://example.org/ns#hasStockPerformance> <http://example.org/ns#NintendoStockPerformance2021_11_04> <Nintendo-CNN-4> .
+ <http://example.org/ns#SwitchSales2020> <http://example.org/ns#timePeriod> "2020"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Nintendo-CNN-4> .
+ <http://example.org/ns#ProfitForecast> <http://example.org/ns#dividendIncrease> "60"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-CNN-4> .
+ <http://example.org/ns#SoftwareSalesForecast> <http://example.org/ns#timeframe> <http://example.org/ns#FiscalYearEndMarchNext> <Nintendo-CNN-4> .
+ <http://dbpedia.org/resource/Animal_Crossing_New_Horizons> <http://example.org/ns#contributionTo> <http://example.org/ns#SwitchSales2020> <Nintendo-CNN-4> .
+ <http://example.org/ns#ProfitComparison2020H1> <http://example.org/ns#percentageChange> "-25"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-CNN-4> .
+ <http://example.org/ns#SwitchSales2020> <http://example.org/ns#significantlyDrivenBy> <http://dbpedia.org/resource/Animal_Crossing_New_Horizons> <Nintendo-CNN-4> .
+ <http://dbpedia.org/resource/Nintendo> <http://example.org/ns#affectedBy> <http://dbpedia.org/resource/2020–2022_global_chip_shortage> <Nintendo-CNN-4> .
+ <http://dbpedia.org/resource/Nintendo_Switch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Nintendo-CNN-4> .
+ <http://dbpedia.org/resource/Nintendo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#Company> <Nintendo-CNN-4> .
+ <http://example.org/ns#GamingSoftware> <http://xmlns.com/foaf/0.1/name> "Gaming Software"^^<http://www.w3.org/2001/XMLSchema#string>  <Nintendo-CNN-4> .
+ <http://example.org/ns#SwitchSalesForecast> <http://example.org/ns#currentProjection> "24000000"^^<http://www.w3.org/2001/XMLSchema#int>  <Nintendo-CNN-4> .
+ <http://example.org/ns#ProfitComparison2020H1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#Comparison> <Nintendo-CNN-4> .
+ <http://example.org/ontology#FTC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Nintendo-CNN-5> .
+ <http://example.org/ontology#Nintendo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-CNN-5> .
+ <http://example.org/ontology#CallOfDuty> <http://schema.org/softwareVersion> "19"^^<http://www.w3.org/2001/XMLSchema#integer>  <Nintendo-CNN-5> .
+ <http://example.org/ontology#Microsoft> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-CNN-5> .
+ <http://example.org/ontology#MicrosoftNintendoDeal> <http://schema.org/underName> <http://example.org/ontology#Microsoft> <Nintendo-CNN-5> .
+ <http://example.org/ontology#MicrosoftSonyOffer> <http://schema.org/offeredBy> <http://example.org/ontology#Microsoft> <Nintendo-CNN-5> .
+ <http://Nintendo-CNN-5.com/blank#n0660390d69e14a909df677b70a918009b1> <http://schema.org/publisher> <http://dbpedia.org/resource/The_Wall_Street_Journal> <Nintendo-CNN-5> .
+ <http://example.org/ontology#Sony> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Video_game_industry> <Nintendo-CNN-5> .
+ <http://example.org/ontology#MicrosoftActivisionDeal> <http://schema.org/underName> <http://example.org/ontology#Microsoft> <Nintendo-CNN-5> .
+ <http://Nintendo-CNN-5.com/blank#n0660390d69e14a909df677b70a918009b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> <Nintendo-CNN-5> .
+ <http://example.org/ontology#MicrosoftSonyOffer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Nintendo-CNN-5> .
+ <http://Nintendo-CNN-5.com/blank#n0660390d69e14a909df677b70a918009b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> <Nintendo-CNN-5> .
+ <http://example.org/ontology#MicrosoftNintendoDeal> <http://schema.org/about> <http://example.org/ontology#CallOfDuty> <Nintendo-CNN-5> .
+ <http://Nintendo-CNN-5.com/blank#n0660390d69e14a909df677b70a918009b4> <http://schema.org/author> <http://example.org/ontology#EricAbbruzzese> <Nintendo-CNN-5> .
+ <http://Nintendo-CNN-5.com/blank#n0660390d69e14a909df677b70a918009b2> <http://schema.org/about> <http://example.org/ontology#MicrosoftNintendoDeal> <Nintendo-CNN-5> .
+ <http://example.org/ontology#BradSmith> <http://schema.org/memberOf> <http://example.org/ontology#Microsoft> <Nintendo-CNN-5> .
+ <http://example.org/ontology#MicrosoftNintendoDeal> <http://schema.org/duration> "P10Y"^^<http://www.w3.org/2001/XMLSchema#duration>  <Nintendo-CNN-5> .
+ <http://example.org/ontology#CallOfDuty> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/Activision_Blizzard> <Nintendo-CNN-5> .
+ <http://example.org/ontology#Microsoft> <http://xmlns.com/foaf/0.1/name> "Microsoft"  <Nintendo-CNN-5> .
+ <http://Nintendo-CNN-5.com/blank#n0660390d69e14a909df677b70a918009b4> <http://schema.org/about> <http://example.org/ontology#MicrosoftNintendoDeal> <Nintendo-CNN-5> .
+ <http://example.org/ontology#PhilSpencer> <http://schema.org/memberOf> <http://example.org/ontology#Microsoft> <Nintendo-CNN-5> .
+ <http://example.org/ontology#Sony> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-CNN-5> .
+ <http://example.org/ontology#FTC> <http://xmlns.com/foaf/0.1/name> "US Federal Trade Commission"  <Nintendo-CNN-5> .
+ <http://example.org/ontology#MicrosoftActivisionDeal> <http://schema.org/offeredBy> <http://example.org/ontology#Microsoft> <Nintendo-CNN-5> .
+ <http://example.org/ontology#ActivisionBlizzard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-CNN-5> .
+ <http://example.org/ontology#Xbox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Nintendo-CNN-5> .
+ <http://example.org/ontology#PhilSpencer> <http://dbpedia.org/ontology/occupation> "Head of Gaming"  <Nintendo-CNN-5> .
+ <http://example.org/ontology#MicrosoftSonyOffer> <http://schema.org/about> <http://example.org/ontology#CallOfDuty> <Nintendo-CNN-5> .
+ <http://example.org/ontology#BradSmith> <http://xmlns.com/foaf/0.1/currentProject> <http://example.org/ontology#Microsoft> <Nintendo-CNN-5> .
+ <http://example.org/ontology#MicrosoftSonyOffer> <http://schema.org/underName> <http://example.org/ontology#Microsoft> <Nintendo-CNN-5> .
+ <http://example.org/ontology#MicrosoftActivisionDeal> <http://dbpedia.org/ontology/subject> <http://example.org/ontology#ActivisionBlizzard> <Nintendo-CNN-5> .
+ <http://example.org/ontology#Nintendo> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Video_game_industry> <Nintendo-CNN-5> .
+ <http://example.org/ontology#BradSmith> <http://schema.org/publishes> <http://Nintendo-CNN-5.com/blank#n0660390d69e14a909df677b70a918009b1>  <Nintendo-CNN-5> .
+ <http://example.org/ontology#MicrosoftActivisionDeal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Nintendo-CNN-5> .
+ <http://example.org/ontology#BradSmith> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-CNN-5> .
+ <http://example.org/ontology#PlayStation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Nintendo-CNN-5> .
+ <http://example.org/ontology#SensorTower> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-CNN-5> .
+ <http://example.org/ontology#MicrosoftNintendoDeal> <http://schema.org/offeredBy> <http://example.org/ontology#Microsoft> <Nintendo-CNN-5> .
+ <http://example.org/ontology#MicrosoftSonyOffer> <http://dbpedia.org/ontology/organizer> <http://example.org/ontology#Microsoft> <Nintendo-CNN-5> .
+ <http://example.org/ontology#MicrosoftActivisionDeal> <http://schema.org/about> <http://example.org/ontology#ActivisionBlizzard> <Nintendo-CNN-5> .
+ <http://example.org/ontology#EricAbbruzzese> <http://schema.org/comment> <http://Nintendo-CNN-5.com/blank#n0660390d69e14a909df677b70a918009b4>  <Nintendo-CNN-5> .
+ <http://example.org/ontology#MicrosoftNintendoDeal> <http://schema.org/recipient> <http://example.org/ontology#Nintendo> <Nintendo-CNN-5> .
+ <http://example.org/ontology#PhilSpencer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-CNN-5> .
+ <http://example.org/ontology#MicrosoftNintendoDeal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Nintendo-CNN-5> .
+ <http://Nintendo-CNN-5.com/blank#n0660390d69e14a909df677b70a918009b1> <http://schema.org/about> <http://example.org/ontology#MicrosoftSonyOffer> <Nintendo-CNN-5> .
+ <http://example.org/ontology#MicrosoftNintendoDeal> <http://dbpedia.org/ontology/subject> <http://example.org/ontology#Nintendo> <Nintendo-CNN-5> .
+ <http://example.org/ontology#EricAbbruzzese> <http://dbpedia.org/ontology/occupation> "Analyst"  <Nintendo-CNN-5> .
+ <http://Nintendo-CNN-5.com/blank#n0660390d69e14a909df677b70a918009b2> <http://schema.org/author> <http://example.org/ontology#PhilSpencer> <Nintendo-CNN-5> .
+ <http://example.org/ontology#BradSmith> <http://xmlns.com/foaf/0.1/title> "President"  <Nintendo-CNN-5> .
+ <http://Nintendo-CNN-5.com/blank#n0660390d69e14a909df677b70a918009b4> <http://schema.org/reviewBody> "The effort to open up access to its games shows Microsoft is scrambling to overcome regulatory hurdles."  <Nintendo-CNN-5> .
+ <http://example.org/ontology#Steam> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/Valve_Corporation> <Nintendo-CNN-5> .
+ <http://Nintendo-CNN-5.com/blank#n0660390d69e14a909df677b70a918009b1> <http://schema.org/datePublished> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Nintendo-CNN-5> .
+ <http://example.org/ontology#MicrosoftActivisionDeal> <http://dbpedia.org/ontology/organizer> <http://example.org/ontology#Microsoft> <Nintendo-CNN-5> .
+ <http://example.org/ontology#Microsoft> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Redmond_Washington> <Nintendo-CNN-5> .
+ <http://Nintendo-CNN-5.com/blank#n0660390d69e14a909df677b70a918009b3> <http://schema.org/against> <http://example.org/ontology#MicrosoftActivisionDeal> <Nintendo-CNN-5> .
+ <http://example.org/ontology#Microsoft> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Software> <Nintendo-CNN-5> .
+ <http://example.org/ontology#NintendoSwitch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Nintendo-CNN-5> .
+ <http://example.org/ontology#Steam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <Nintendo-CNN-5> .
+ <http://example.org/ontology#FTC> <http://schema.org/intends> <http://Nintendo-CNN-5.com/blank#n0660390d69e14a909df677b70a918009b3>  <Nintendo-CNN-5> .
+ <http://example.org/ontology#MicrosoftActivisionDeal> <http://schema.org/price> "70000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-CNN-5> .
+ <http://example.org/ontology#Xbox> <http://dbpedia.org/ontology/manufacturer> <http://example.org/ontology#Microsoft> <Nintendo-CNN-5> .
+ <http://example.org/ontology#MicrosoftNintendoDeal> <http://dbpedia.org/ontology/organizer> <http://example.org/ontology#Microsoft> <Nintendo-CNN-5> .
+ <http://example.org/ontology#MicrosoftActivisionDeal> <http://schema.org/recipient> <http://example.org/ontology#ActivisionBlizzard> <Nintendo-CNN-5> .
+ <http://example.org/ontology#MicrosoftActivisionDeal> <http://schema.org/startDate> "2022-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Nintendo-CNN-5> .
+ <http://example.org/ontology#CallOfDuty> <http://dbpedia.org/ontology/releaseDate> "2003"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Nintendo-CNN-5> .
+ <http://example.org/ontology#EricAbbruzzese> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/ABI_Research> <Nintendo-CNN-5> .
+ <http://Nintendo-CNN-5.com/blank#n0660390d69e14a909df677b70a918009b2> <http://schema.org/datePublished> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Nintendo-CNN-5> .
+ <http://Nintendo-CNN-5.com/blank#n0660390d69e14a909df677b70a918009b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LegalAction> <Nintendo-CNN-5> .
+ <http://example.org/ontology#MicrosoftSonyOffer> <http://schema.org/duration> "P10Y"^^<http://www.w3.org/2001/XMLSchema#duration>  <Nintendo-CNN-5> .
+ <http://example.org/ontology#PlayStation> <http://dbpedia.org/ontology/manufacturer> <http://example.org/ontology#Sony> <Nintendo-CNN-5> .
+ <http://example.org/ontology#CallOfDuty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> <Nintendo-CNN-5> .
+ <http://example.org/ontology#ActivisionBlizzard> <http://xmlns.com/foaf/0.1/name> "Activision Blizzard"  <Nintendo-CNN-5> .
+ <http://example.org/ontology#MicrosoftSonyOffer> <http://schema.org/recipient> <http://example.org/ontology#Sony> <Nintendo-CNN-5> .
+ <http://Nintendo-CNN-5.com/blank#n0660390d69e14a909df677b70a918009b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPosting> <Nintendo-CNN-5> .
+ <http://example.org/ontology#SensorTower> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Analytics> <Nintendo-CNN-5> .
+ <http://example.org/ontology#EricAbbruzzese> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-CNN-5> .
+ <http://example.org/ontology#MicrosoftSonyOffer> <http://dbpedia.org/ontology/subject> <http://example.org/ontology#Sony> <Nintendo-CNN-5> .
+ <http://Nintendo-CNN-5.com/blank#n0660390d69e14a909df677b70a918009b1> <http://schema.org/author> <http://example.org/ontology#BradSmith> <Nintendo-CNN-5> .
+ <http://example.org/ontology#CallOfDuty> <http://schema.org/downloadCount> "250000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Nintendo-CNN-5> .
+ <http://example.org/ontology#PhilSpencer> <http://schema.org/publishes> <http://Nintendo-CNN-5.com/blank#n0660390d69e14a909df677b70a918009b2>  <Nintendo-CNN-5> .
+ <http://example.org/ontology#NintendoSwitch> <http://dbpedia.org/ontology/manufacturer> <http://example.org/ontology#Nintendo> <Nintendo-CNN-5> .
+ <http://example.org/ontology#GameBoy> <http://dbpedia.org/ontology/precededBy> <http://example.org/ontology#GameAndWatch> <Nintendo-CNN-6> .
+ <http://example.org/ontology#GameAndWatch> <http://dbpedia.org/ontology/discontinuedDate> "1991-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-CNN-6> .
+ <http://example.org/ontology#SuperMarioBrosTheLostLevels> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> <Nintendo-CNN-6> .
+ <http://example.org/ontology#GameAndWatch2020Edition> <http://dbpedia.org/ontology/feature> <http://example.org/ontology#SuperMarioBrosTheLostLevels> <Nintendo-CNN-6> .
+ <http://example.org/ontology#SuperMario64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> <Nintendo-CNN-6> .
+ <http://example.org/ontology#SuperMarioSunshine> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/Nintendo> <Nintendo-CNN-6> .
+ <http://example.org/ontology#Mario35thAnniversary> <http://dbpedia.org/ontology/related> <http://example.org/ontology#SuperMario64> <Nintendo-CNN-6> .
+ <http://example.org/ontology#NintendoEntertainmentSystem> <http://dbpedia.org/ontology/releaseDate> "1985-07-15"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-CNN-6> .
+ <http://example.org/ontology#GameAndWatch2020Edition> <http://dbpedia.org/ontology/releaseDate> "2020-11-13"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-CNN-6> .
+ <http://example.org/ontology#DirectionalPad> <http://dbpedia.org/ontology/firstAppearance> "1982-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-CNN-6> .
+ <http://example.org/ontology#DirectionalPad> <http://dbpedia.org/ontology/product> <http://example.org/ontology#DonkeyKongGameAndWatch> <Nintendo-CNN-6> .
+ <http://example.org/ontology#MrGameAndWatch> <http://dbpedia.org/ontology/creator> <http://dbpedia.org/resource/Nintendo> <Nintendo-CNN-6> .
+ <http://example.org/ontology#SuperMarioSunshine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> <Nintendo-CNN-6> .
+ <http://example.org/ontology#GameBoy> <http://dbpedia.org/ontology/releaseDate> "1989-04-21"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-CNN-6> .
+ <http://example.org/ontology#NESClassicEdition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Nintendo-CNN-6> .
+ <http://example.org/ontology#Mario35thAnniversary> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Nintendo-CNN-6> .
+ <http://example.org/ontology#Mario35thAnniversary> <http://dbpedia.org/ontology/organizer> <http://dbpedia.org/resource/Nintendo> <Nintendo-CNN-6> .
+ <http://example.org/ontology#Mario35thAnniversary> <http://dbpedia.org/ontology/related> <http://example.org/ontology#SuperMarioSunshine> <Nintendo-CNN-6> .
+ <http://example.org/ontology#SuperNintendoClassicEdition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Nintendo-CNN-6> .
+ <http://example.org/ontology#NESClassicEdition> <http://dbpedia.org/ontology/manufacturer> <http://dbpedia.org/resource/Nintendo> <Nintendo-CNN-6> .
+ <http://example.org/ontology#SuperMarioBros> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/Nintendo> <Nintendo-CNN-6> .
+ <http://example.org/ontology#GameAndWatch2020Edition> <http://dbpedia.org/ontology/numberOfItems> "3"^^<http://www.w3.org/2001/XMLSchema#integer>  <Nintendo-CNN-6> .
+ <http://example.org/ontology#NintendoEntertainmentSystem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Nintendo-CNN-6> .
+ <http://example.org/ontology#GameAndWatch2020Edition> <http://dbpedia.org/ontology/productLine> "Game & Watch"  <Nintendo-CNN-6> .
+ <http://example.org/ontology#SuperMarioGalaxy> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/Nintendo> <Nintendo-CNN-6> .
+ <http://example.org/ontology#GameAndWatch> <http://dbpedia.org/ontology/releaseDate> "1980-04-28"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-CNN-6> .
+ <http://example.org/ontology#GameAndWatch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Nintendo-CNN-6> .
+ <http://example.org/ontology#GameBoy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Nintendo-CNN-6> .
+ <http://example.org/ontology#SuperMarioBros> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> <Nintendo-CNN-6> .
+ <http://example.org/ontology#GameAndWatch2020Edition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Nintendo-CNN-6> .
+ <http://example.org/ontology#GameAndWatch2020Edition> <http://dbpedia.org/ontology/manufacturer> <http://dbpedia.org/resource/Nintendo> <Nintendo-CNN-6> .
+ <http://example.org/ontology#GameAndWatch> <http://dbpedia.org/ontology/productLine> "Game & Watch"  <Nintendo-CNN-6> .
+ <http://example.org/ontology#DonkeyKongGameAndWatch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Nintendo-CNN-6> .
+ <http://example.org/ontology#GameAndWatch2020Edition> <http://dbpedia.org/ontology/isVersionOf> <http://example.org/ontology#GameAndWatch> <Nintendo-CNN-6> .
+ <http://example.org/ontology#BallMarioVersion> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/Nintendo> <Nintendo-CNN-6> .
+ <http://example.org/ontology#DonkeyKongGameAndWatch> <http://dbpedia.org/ontology/productLine> "Game & Watch"  <Nintendo-CNN-6> .
+ <http://example.org/ontology#SuperSmashBros> <http://dbpedia.org/ontology/character> <http://example.org/ontology#MrGameAndWatch> <Nintendo-CNN-6> .
+ <http://example.org/ontology#GameAndWatch2020Edition> <http://dbpedia.org/ontology/feature> <http://example.org/ontology#SuperMarioBros> <Nintendo-CNN-6> .
+ <http://example.org/ontology#DonkeyKongGameAndWatch> <http://dbpedia.org/ontology/releaseDate> "1982-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-CNN-6> .
+ <http://example.org/ontology#SuperNintendoClassicEdition> <http://dbpedia.org/ontology/manufacturer> <http://dbpedia.org/resource/Nintendo> <Nintendo-CNN-6> .
+ <http://example.org/ontology#GameBoy> <http://dbpedia.org/ontology/manufacturer> <http://dbpedia.org/resource/Nintendo> <Nintendo-CNN-6> .
+ <http://example.org/ontology#DirectionalPad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ProductFeature> <Nintendo-CNN-6> .
+ <http://example.org/ontology#MrGameAndWatch> <http://xmlns.com/foaf/0.1/depiction> <http://example.org/images/mr_game_and_watch.jpg> <Nintendo-CNN-6> .
+ <http://example.org/ontology#GameAndWatch> <http://dbpedia.org/ontology/manufacturer> <http://dbpedia.org/resource/Nintendo> <Nintendo-CNN-6> .
+ <http://example.org/ontology#SuperSmashBros> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/Nintendo> <Nintendo-CNN-6> .
+ <http://example.org/ontology#MrGameAndWatch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Character> <Nintendo-CNN-6> .
+ <http://example.org/ontology#SuperMarioGalaxy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> <Nintendo-CNN-6> .
+ <http://example.org/ontology#NintendoEntertainmentSystem> <http://dbpedia.org/ontology/manufacturer> <http://dbpedia.org/resource/Nintendo> <Nintendo-CNN-6> .
+ <http://example.org/ontology#MrGameAndWatch> <http://dbpedia.org/ontology/appearance> <http://example.org/ontology#GameAndWatch> <Nintendo-CNN-6> .
+ <http://example.org/ontology#SuperMarioBrosTheLostLevels> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/Nintendo> <Nintendo-CNN-6> .
+ <http://example.org/ontology#SuperMario64> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/Nintendo> <Nintendo-CNN-6> .
+ <http://example.org/ontology#Mario35thAnniversary> <http://dbpedia.org/ontology/related> <http://example.org/ontology#SuperMarioGalaxy> <Nintendo-CNN-6> .
+ <http://example.org/ontology#GameAndWatch2020Edition> <http://dbpedia.org/ontology/feature> <http://example.org/ontology#BallMarioVersion> <Nintendo-CNN-6> .
+ <http://example.org/ontology#GameAndWatch> <http://dbpedia.org/ontology/numberOfItems> "59"^^<http://www.w3.org/2001/XMLSchema#integer>  <Nintendo-CNN-6> .
+ <http://example.org/ontology#DonkeyKongGameAndWatch> <http://dbpedia.org/ontology/manufacturer> <http://dbpedia.org/resource/Nintendo> <Nintendo-CNN-6> .
+ <http://example.org/ontology#SuperSmashBros> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> <Nintendo-CNN-6> .
+ <http://example.org/ontology#BallMarioVersion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> <Nintendo-CNN-6> .
+ <http://dbpedia.org/resource/Nikkei> <http://dbpedia.org/ontology/return> "91%"^^<http://www.w3.org/2001/XMLSchema#string>  <Nintendo-CNN-7> .
+ <http://example.org/nintendo/NTDOF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Stock> <Nintendo-CNN-7> .
+ <http://example.org/nintendo/Nintendo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-CNN-7> .
+ <http://example.org/nintendo/SwitchConsole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Nintendo-CNN-7> .
+ <http://dbpedia.org/resource/Zelda> <http://dbpedia.org/ontology/developer> <http://example.org/nintendo/Nintendo> <Nintendo-CNN-7> .
+ <http://dbpedia.org/resource/Metacritic> <http://dbpedia.org/ontology/reviews> <http://example.org/nintendo/TearsOfTheKingdom> <Nintendo-CNN-7> .
+ <http://example.org/nintendo/TearsOfTheKingdom> <http://schema.org/datePublished> "2023-05-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-CNN-7> .
+ <http://example.org/nintendo/SwitchSuccessor> <http://dbpedia.org/ontology/manufacturer> <http://example.org/nintendo/Nintendo> <Nintendo-CNN-7> .
+ <http://example.org/nintendo/DetectivePikachuReturns> <http://dbpedia.org/ontology/publisher> <http://example.org/nintendo/Nintendo> <Nintendo-CNN-7> .
+ <http://example.org/nintendo/SuperMarioBrosWonder> <http://dbpedia.org/ontology/publisher> <http://example.org/nintendo/Nintendo> <Nintendo-CNN-7> .
+ <http://example.org/nintendo/TearsOfTheKingdom> <http://dbpedia.org/ontology/review> <http://example.org/nintendo/TearsOfTheKingdomMetacritic> <Nintendo-CNN-7> .
+ <http://example.org/nintendo/DetectivePikachuReturns> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> <Nintendo-CNN-7> .
+ <http://dbpedia.org/resource/Nikkei> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FinancialAsset> <Nintendo-CNN-7> .
+ <http://example.org/nintendo/DetectivePikachuReturns> <http://dbpedia.org/ontology/developer> <http://example.org/nintendo/Nintendo> <Nintendo-CNN-7> .
+ <http://example.org/nintendo/TearsOfTheKingdomMetacritic> <http://schema.org/author> <http://dbpedia.org/resource/Metacritic> <Nintendo-CNN-7> .
+ <http://dbpedia.org/resource/The_Super_Mario_Bros._Movie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <Nintendo-CNN-7> .
+ <http://example.org/nintendo/TearsOfTheKingdom> <http://dbpedia.org/ontology/sales> "18510000"^^<http://www.w3.org/2001/XMLSchema#int>  <Nintendo-CNN-7> .
+ <http://example.org/nintendo/TearsOfTheKingdom> <http://dbpedia.org/ontology/publisher> <http://example.org/nintendo/Nintendo> <Nintendo-CNN-7> .
+ <http://example.org/nintendo/TearsOfTheKingdomMetacritic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> <Nintendo-CNN-7> .
+ <http://example.org/nintendo/SwitchConsole> <http://dbpedia.org/ontology/sales> "3910000"^^<http://www.w3.org/2001/XMLSchema#int>  <Nintendo-CNN-7> .
+ <http://example.org/nintendo/SwitchConsole> <http://schema.org/datePublished> "2023-04-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-CNN-7> .
+ <http://example.org/nintendo/SuperMarioBrosWonder> <http://dbpedia.org/ontology/developer> <http://example.org/nintendo/Nintendo> <Nintendo-CNN-7> .
+ <http://example.org/nintendo/NTDOF> <http://dbpedia.org/ontology/issuer> <http://example.org/nintendo/Nintendo> <Nintendo-CNN-7> .
+ <http://dbpedia.org/resource/Zelda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGameSeries> <Nintendo-CNN-7> .
+ <http://example.org/nintendo/SwitchConsole> <http://dbpedia.org/ontology/manufacturer> <http://example.org/nintendo/Nintendo> <Nintendo-CNN-7> .
+ <http://example.org/nintendo/Nintendo> <http://dbpedia.org/ontology/product> <http://example.org/nintendo/TearsOfTheKingdom> <Nintendo-CNN-7> .
+ <http://example.org/nintendo/SuperMarioBrosWonder> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> <Nintendo-CNN-7> .
+ <http://dbpedia.org/resource/Metacritic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Website> <Nintendo-CNN-7> .
+ <http://dbpedia.org/resource/The_Super_Mario_Bros._Movie> <http://dbpedia.org/ontology/boxOfficeLeader> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Nintendo-CNN-7> .
+ <http://example.org/nintendo/Nintendo> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Video_game_industry> <Nintendo-CNN-7> .
+ <http://example.org/nintendo/Nintendo> <http://dbpedia.org/ontology/product> <http://example.org/nintendo/DetectivePikachuReturns> <Nintendo-CNN-7> .
+ <http://example.org/nintendo/TearsOfTheKingdomMetacritic> <http://schema.org/reviewRating> "96"^^<http://www.w3.org/2001/XMLSchema#int>  <Nintendo-CNN-7> .
+ <http://example.org/nintendo/SwitchConsole> <http://dbpedia.org/ontology/successor> <http://example.org/nintendo/SwitchSuccessor> <Nintendo-CNN-7> .
+ <http://example.org/nintendo/TearsOfTheKingdom> <http://dbpedia.org/ontology/developer> <http://example.org/nintendo/Nintendo> <Nintendo-CNN-7> .
+ <http://example.org/nintendo/NTDOF> <http://dbpedia.org/ontology/return> "more than three-fold"^^<http://www.w3.org/2001/XMLSchema#string>  <Nintendo-CNN-7> .
+ <http://example.org/nintendo/SwitchConsole> <http://schema.org/name> "Nintendo Switch"  <Nintendo-CNN-7> .
+ <http://example.org/nintendo/Nintendo> <http://dbpedia.org/ontology/product> <http://example.org/nintendo/SuperMarioBrosWonder> <Nintendo-CNN-7> .
+ <http://example.org/nintendo/SwitchConsole> <http://dbpedia.org/ontology/releaseDate> "2017-03-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-CNN-7> .
+ <http://example.org/nintendo/TearsOfTheKingdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> <Nintendo-CNN-7> .
+ <http://example.org/nintendo/SwitchSuccessor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Nintendo-CNN-7> .
+ <http://example.org/nintendo/Nintendo> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Kyoto> <Nintendo-CNN-7> .
+ <http://example.org/nintendo/Nintendo> <http://dbpedia.org/ontology/product> <http://example.org/nintendo/SwitchConsole> <Nintendo-CNN-7> .
+ <http://dbpedia.org/resource/The_Super_Mario_Bros._Movie> <http://schema.org/name> "The Super Mario Bros. Movie"  <Nintendo-CNN-7> .
+ <http://example.org/nintendo/SwitchConsole> <http://dbpedia.org/ontology/sales> "15000000"^^<http://www.w3.org/2001/XMLSchema#int>  <Nintendo-CNN-7> .
+ <http://example.org/nintendo/SwitchConsole> <http://dbpedia.org/ontology/sales> "17970000"^^<http://www.w3.org/2001/XMLSchema#int>  <Nintendo-CNN-7> .
+ <http://dbpedia.org/resource/Zelda> <http://dbpedia.org/ontology/publisher> <http://example.org/nintendo/Nintendo> <Nintendo-CNN-7> .
+ <http://example.org/ontology#MicrosoftAcquisitionOfActivisionBlizzard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Nintendo-CNN-8> .
+ <http://example.org/ontology#FTC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Nintendo-CNN-8> .
+ <http://example.org/ontology#PhilSpencer> <http://xmlns.com/foaf/0.1/name> "Phil Spencer"  <Nintendo-CNN-8> .
+ <http://example.org/ontology#SensorTower> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Analytics_Industry> <Nintendo-CNN-8> .
+ <http://example.org/ontology#Nintendo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-CNN-8> .
+ <http://example.org/ontology#CallOfDuty> <http://schema.org/softwareVersion> "19"^^<http://www.w3.org/2001/XMLSchema#integer>  <Nintendo-CNN-8> .
+ <http://example.org/ontology#Microsoft> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-CNN-8> .
+ <http://example.org/ontology#BradSmith> <http://xmlns.com/foaf/0.1/title> "President"  <Nintendo-CNN-8> .
+ <http://example.org/ontology#MicrosoftNintendoDeal> <http://schema.org/party> <http://example.org/ontology#Microsoft> <Nintendo-CNN-8> .
+ <http://example.org/ontology#EricAbbruzzese> <http://dbpedia.org/ontology/occupation> "Analyst at ABI Research"  <Nintendo-CNN-8> .
+ <http://example.org/ontology#Microsoft> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Technology_Industry> <Nintendo-CNN-8> .
+ <http://example.org/ontology#MicrosoftSonyOffer> <http://dbpedia.org/ontology/product> <http://example.org/ontology#CallOfDuty> <Nintendo-CNN-8> .
+ <http://example.org/ontology#MicrosoftCommitmentToSteam> <http://schema.org/party> <http://example.org/ontology#Microsoft> <Nintendo-CNN-8> .
+ <http://example.org/ontology#Microsoft> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Redmond_Washington> <Nintendo-CNN-8> .
+ <http://example.org/ontology#FTCPlanToSue> <http://dbpedia.org/ontology/against> <http://example.org/ontology#MicrosoftAcquisitionOfActivisionBlizzard> <Nintendo-CNN-8> .
+ <http://example.org/ontology#FTCPlanToSue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Nintendo-CNN-8> .
+ <http://example.org/ontology#FTCPlanToSue> <http://schema.org/organizer> <http://example.org/ontology#FTC> <Nintendo-CNN-8> .
+ <http://example.org/ontology#MicrosoftNintendoDeal> <http://schema.org/startDate> "2023-03-28"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-CNN-8> .
+ <http://example.org/ontology#BradSmith> <http://schema.org/memberOf> <http://example.org/ontology#Microsoft> <Nintendo-CNN-8> .
+ <http://example.org/ontology#Sony> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/PlayStation_console> <Nintendo-CNN-8> .
+ <http://example.org/ontology#Steam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <Nintendo-CNN-8> .
+ <http://example.org/ontology#MicrosoftNintendoDeal> <http://schema.org/duration> "P10Y"^^<http://www.w3.org/2001/XMLSchema#duration>  <Nintendo-CNN-8> .
+ <http://example.org/ontology#MicrosoftCommitmentToSteam> <http://schema.org/party> <http://example.org/ontology#Steam> <Nintendo-CNN-8> .
+ <http://example.org/ontology#MicrosoftCommitmentToSteam> <http://schema.org/startDate> "2023-03-28"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-CNN-8> .
+ <http://example.org/ontology#MicrosoftCloudGamingService> <http://schema.org/serviceType> "Cloud Gaming"  <Nintendo-CNN-8> .
+ <http://example.org/ontology#MicrosoftAcquisitionOfActivisionBlizzard> <http://schema.org/offerPrice> "70000000000.0"^^<http://www.w3.org/2001/XMLSchema#float>  <Nintendo-CNN-8> .
+ <http://example.org/ontology#EricAbbruzzese> <http://xmlns.com/foaf/0.1/name> "Eric Abbruzzese"  <Nintendo-CNN-8> .
+ <http://example.org/ontology#CallOfDuty> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/Activision_Blizzard> <Nintendo-CNN-8> .
+ <http://example.org/ontology#Steam> <http://dbpedia.org/ontology/developer> <http://example.org/ontology#ValveCorporation> <Nintendo-CNN-8> .
+ <http://example.org/ontology#Microsoft> <http://xmlns.com/foaf/0.1/name> "Microsoft"  <Nintendo-CNN-8> .
+ <http://example.org/ontology#MicrosoftCommitmentToSteam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Agreement> <Nintendo-CNN-8> .
+ <http://example.org/ontology#CallOfDuty> <http://dbpedia.org/ontology/releaseDate> "2003"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Nintendo-CNN-8> .
+ <http://example.org/ontology#Sony> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-CNN-8> .
+ <http://example.org/ontology#MicrosoftSonyOffer> <http://schema.org/party> <http://example.org/ontology#Microsoft> <Nintendo-CNN-8> .
+ <http://example.org/ontology#FTC> <http://xmlns.com/foaf/0.1/name> "US Federal Trade Commission"  <Nintendo-CNN-8> .
+ <http://example.org/ontology#ActivisionBlizzard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-CNN-8> .
+ <http://example.org/ontology#PhilSpencer> <http://dbpedia.org/ontology/occupation> "Head of Gaming at Microsoft"  <Nintendo-CNN-8> .
+ <http://example.org/ontology#ValveCorporation> <http://xmlns.com/foaf/0.1/name> "Valve Corporation"  <Nintendo-CNN-8> .
+ <http://example.org/ontology#MicrosoftNintendoDeal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Agreement> <Nintendo-CNN-8> .
+ <http://example.org/ontology#BradSmith> <http://xmlns.com/foaf/0.1/currentProject> <http://example.org/ontology#Microsoft> <Nintendo-CNN-8> .
+ <http://example.org/ontology#MicrosoftSonyOffer> <http://schema.org/duration> "P10Y"^^<http://www.w3.org/2001/XMLSchema#duration>  <Nintendo-CNN-8> .
+ <http://example.org/ontology#CallOfDuty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VideoGame> <Nintendo-CNN-8> .
+ <http://example.org/ontology#ActivisionBlizzard> <http://xmlns.com/foaf/0.1/name> "Activision Blizzard"  <Nintendo-CNN-8> .
+ <http://example.org/ontology#BradSmith> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-CNN-8> .
+ <http://example.org/ontology#MicrosoftSonyOffer> <http://schema.org/startDate> "2023-03-27"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-CNN-8> .
+ <http://example.org/ontology#SensorTower> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-CNN-8> .
+ <http://example.org/ontology#MicrosoftCloudGamingService> <http://dbpedia.org/ontology/provider> <http://example.org/ontology#Microsoft> <Nintendo-CNN-8> .
+ <http://example.org/ontology#EricAbbruzzese> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-CNN-8> .
+ <http://example.org/ontology#MicrosoftSonyOffer> <http://schema.org/party> <http://example.org/ontology#Sony> <Nintendo-CNN-8> .
+ <http://example.org/ontology#MicrosoftAcquisitionOfActivisionBlizzard> <http://schema.org/startDate> "2022-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Nintendo-CNN-8> .
+ <http://example.org/ontology#ValveCorporation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Nintendo-CNN-8> .
+ <http://example.org/ontology#BradSmith> <http://xmlns.com/foaf/0.1/name> "Brad Smith"  <Nintendo-CNN-8> .
+ <http://example.org/ontology#MicrosoftNintendoDeal> <http://dbpedia.org/ontology/product> <http://example.org/ontology#CallOfDuty> <Nintendo-CNN-8> .
+ <http://example.org/ontology#PhilSpencer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Nintendo-CNN-8> .
+ <http://example.org/ontology#SensorTower> <http://xmlns.com/foaf/0.1/name> "SensorTower"  <Nintendo-CNN-8> .
+ <http://example.org/ontology#CallOfDuty> <http://schema.org/downloadCount> "250000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Nintendo-CNN-8> .
+ <http://example.org/ontology#MicrosoftCommitmentToSteam> <http://dbpedia.org/ontology/product> <http://example.org/ontology#CallOfDuty> <Nintendo-CNN-8> .
+ <http://example.org/ontology#Nintendo> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Nintendo_Switch> <Nintendo-CNN-8> .
+ <http://example.org/ontology#MicrosoftSonyOffer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Agreement> <Nintendo-CNN-8> .
+ <http://example.org/ontology#MicrosoftNintendoDeal> <http://schema.org/party> <http://example.org/ontology#Nintendo> <Nintendo-CNN-8> .
+ <http://example.org/ontology#MicrosoftCloudGamingService> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Service> <Nintendo-CNN-8> .
+ <http://example.org/ontology#MicrosoftAcquisitionOfActivisionBlizzard> <http://schema.org/organizer> <http://example.org/ontology#Microsoft> <Nintendo-CNN-8> .
+ <http://example.org/ns#Nintendo> <http://example.org/ns#reportedEarnings> <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b1>  <Nintendo-CNN-9> .
+ <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b3> <http://example.org/ns#forYearEnding> "2021-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Nintendo-CNN-9> .
+ <http://example.org/ns#Switch> <http://schema.org/releaseDate> "2017"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Nintendo-CNN-9> .
+ <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b2> <http://example.org/ns#unitsSold> "11600000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Nintendo-CNN-9> .
+ <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b5> <http://example.org/ns#platform> "Switch"  <Nintendo-CNN-9> .
+ <http://example.org/ns#Nintendo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Nintendo-CNN-9> .
+ <http://example.org/ns#Switch> <http://schema.org/manufacturer> <http://example.org/ns#Nintendo> <Nintendo-CNN-9> .
+ <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b1> <http://example.org/ns#operatingProfit> "229700000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-CNN-9> .
+ <http://example.org/ns#PlayStation5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#Console> <Nintendo-CNN-9> .
+ <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#VideoGame> <Nintendo-CNN-9> .
+ <http://example.org/ns#XboxSeriesX> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#Console> <Nintendo-CNN-9> .
+ <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b1> <http://example.org/ns#consoleSalesForecast> <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b4>  <Nintendo-CNN-9> .
+ <http://example.org/ns#XboxSeriesX> <http://schema.org/releaseDate> "2020"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Nintendo-CNN-9> .
+ <http://example.org/ns#Sony> <http://schema.org/name> "Sony"  <Nintendo-CNN-9> .
+ <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#ForecastRevision> <Nintendo-CNN-9> .
+ <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#ConsoleSalesForecast> <Nintendo-CNN-9> .
+ <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b5> <http://example.org/ns#copiesSold> "19400000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Nintendo-CNN-9> .
+ <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b3> <http://example.org/ns#timesRaised> "2"^^<http://www.w3.org/2001/XMLSchema#integer>  <Nintendo-CNN-9> .
+ <http://example.org/ns#Switch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#Console> <Nintendo-CNN-9> .
+ <http://example.org/ns#AtulGoyal> <http://schema.org/worksFor> <http://example.org/ns#Jefferies> <Nintendo-CNN-9> .
+ <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b5> <http://schema.org/name> "Animal Crossing: New Horizons"  <Nintendo-CNN-9> .
+ <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b6> <http://example.org/ns#games> "Super Mario 3D World, Bowser’s Fury"  <Nintendo-CNN-9> .
+ <http://example.org/ns#AtulGoyal> <http://schema.org/recommendation> "buy, but stay nimble"  <Nintendo-CNN-9> .
+ <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b1> <http://example.org/ns#recordHighConsoleSales> <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b2>  <Nintendo-CNN-9> .
+ <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b3> <http://example.org/ns#since> "2020-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Nintendo-CNN-9> .
+ <http://example.org/ns#Nintendo> <http://schema.org/name> "Nintendo"  <Nintendo-CNN-9> .
+ <http://example.org/ns#Jefferies> <http://schema.org/name> "Jefferies"  <Nintendo-CNN-9> .
+ <http://example.org/ns#Jefferies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Nintendo-CNN-9> .
+ <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b4> <http://example.org/ns#console> "Switch"  <Nintendo-CNN-9> .
+ <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b6> <http://example.org/ns#releaseYear> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Nintendo-CNN-9> .
+ <http://example.org/ns#DaiwaSecurities> <http://schema.org/name> "Daiwa Securities"  <Nintendo-CNN-9> .
+ <http://example.org/ns#SwitchLite> <http://schema.org/releaseDate> "2019"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Nintendo-CNN-9> .
+ <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b2> <http://example.org/ns#timePeriod> "2020 holiday season"  <Nintendo-CNN-9> .
+ <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b4> <http://example.org/ns#revisedProjectedSales> "26500000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Nintendo-CNN-9> .
+ <http://example.org/ns#AtulGoyal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Nintendo-CNN-9> .
+ <http://example.org/ns#Nintendo> <http://example.org/ns#profitMargin> "400"^^<http://www.w3.org/2001/XMLSchema#integer>  <Nintendo-CNN-9> .
+ <http://example.org/ns#Nintendo> <http://example.org/ns#upcomingTitles> <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b6>  <Nintendo-CNN-9> .
+ <http://example.org/ns#Nintendo> <http://example.org/ns#game> <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b5>  <Nintendo-CNN-9> .
+ <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b5> <http://example.org/ns#totalSales> "31200000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Nintendo-CNN-9> .
+ <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b3> <http://example.org/ns#currency> "JPY"  <Nintendo-CNN-9> .
+ <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b4> <http://example.org/ns#forYearEnding> "2021-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Nintendo-CNN-9> .
+ <http://example.org/ns#SwitchLite> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#Console> <Nintendo-CNN-9> .
+ <http://example.org/ns#Sony> <http://schema.org/tickerSymbol> "SNE"  <Nintendo-CNN-9> .
+ <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#FinancialReport> <Nintendo-CNN-9> .
+ <http://example.org/ns#XboxSeriesX> <http://schema.org/manufacturer> <http://example.org/ns#Microsoft> <Nintendo-CNN-9> .
+ <http://example.org/ns#TakaoSuzuki> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Nintendo-CNN-9> .
+ <http://example.org/ns#TakaoSuzuki> <http://schema.org/worksFor> <http://example.org/ns#DaiwaSecurities> <Nintendo-CNN-9> .
+ <http://example.org/ns#Microsoft> <http://schema.org/name> "Microsoft"  <Nintendo-CNN-9> .
+ <http://example.org/ns#Sony> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Nintendo-CNN-9> .
+ <http://example.org/ns#PlayStation5> <http://schema.org/releaseDate> "2020"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Nintendo-CNN-9> .
+ <http://example.org/ns#TakaoSuzuki> <http://schema.org/comment> "title line-up for [the upcoming fiscal year] seems lacking"  <Nintendo-CNN-9> .
+ <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#GameRelease> <Nintendo-CNN-9> .
+ <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b1> <http://example.org/ns#forQuarterEnding> "2020-12-31"^^<http://www.w3.org/2001/XMLSchema#date>  <Nintendo-CNN-9> .
+ <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b1> <http://example.org/ns#raisedForecasts> <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b3>  <Nintendo-CNN-9> .
+ <http://example.org/ns#SwitchLite> <http://schema.org/manufacturer> <http://example.org/ns#Nintendo> <Nintendo-CNN-9> .
+ <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b3> <http://example.org/ns#profitIncreasePercentage> "24"^^<http://www.w3.org/2001/XMLSchema#integer>  <Nintendo-CNN-9> .
+ <http://example.org/ns#PlayStation5> <http://schema.org/manufacturer> <http://example.org/ns#Sony> <Nintendo-CNN-9> .
+ <http://example.org/ns#DaiwaSecurities> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Nintendo-CNN-9> .
+ <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b2> <http://example.org/ns#console> "Switch"  <Nintendo-CNN-9> .
+ <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b5> <http://example.org/ns#timePeriod> "last nine months of 2020"  <Nintendo-CNN-9> .
+ <http://example.org/ns#Microsoft> <http://schema.org/tickerSymbol> "MSFT"  <Nintendo-CNN-9> .
+ <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ns#ConsoleSalesRecord> <Nintendo-CNN-9> .
+ <http://example.org/ns#AtulGoyal> <http://schema.org/jobTitle> "Equity Analyst"  <Nintendo-CNN-9> .
+ <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b4> <http://example.org/ns#initialProjectedSales> "19000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Nintendo-CNN-9> .
+ <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b1> <http://example.org/ns#currency> "JPY"  <Nintendo-CNN-9> .
+ <http://example.org/ns#Microsoft> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Nintendo-CNN-9> .
+ <http://example.org/ns#TakaoSuzuki> <http://schema.org/jobTitle> "Analyst"  <Nintendo-CNN-9> .
+ <http://Nintendo-CNN-9.com/blank#n14647cd95eca46339c0a15628b6bd388b3> <http://example.org/ns#estimatedAnnualProfit> "560000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Nintendo-CNN-9> .

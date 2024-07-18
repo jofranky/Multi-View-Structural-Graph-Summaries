@@ -1,0 +1,649 @@
+ <http://example.org/IyadAlrefaie> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/CoFounder> <Twitter-Al-Jazeera-0> .
+ <http://example.org/SadaSocial> <http://dbpedia.org/ontology/founder> <http://example.org/IyadAlrefaie> <Twitter-Al-Jazeera-0> .
+ <http://example.org/SadaSocial> <http://dbpedia.org/ontology/report> <http://example.org/SadaSocialOctoberReport> <Twitter-Al-Jazeera-0> .
+ <http://example.org/NadimNashif> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/ExecutiveDirector> <Twitter-Al-Jazeera-0> .
+ <http://example.org/FacebookIsraelAgreement> <http://dbpedia.org/ontology/description> "Agreement to strengthen cooperation against incitement to terror and murder."@en  <Twitter-Al-Jazeera-0> .
+ <http://example.org/TwitterAccount> <http://schema.org/serviceProvider> <http://dbpedia.org/resource/Twitter> <Twitter-Al-Jazeera-0> .
+ <http://example.org/TwitterAccount> <http://schema.org/followerCount> "hundreds of thousands"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-Al-Jazeera-0> .
+ <http://example.org/CybercrimeLawViolation> <http://schema.org/startDate> "2023-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-Al-Jazeera-0> .
+ <http://example.org/AibhinnKelleher> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/FacebookRepresentative> <Twitter-Al-Jazeera-0> .
+ <http://example.org/NadimNashif> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-0> .
+ <http://example.org/7amleh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-Al-Jazeera-0> .
+ <http://example.org/7amleh> <http://dbpedia.org/ontology/executiveDirector> <http://example.org/NadimNashif> <Twitter-Al-Jazeera-0> .
+ <http://example.org/PalestinianAuthority> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/West_Bank> <Twitter-Al-Jazeera-0> .
+ <http://example.org/QudsNewsNetwork> <http://dbpedia.org/ontology/topic> <http://dbpedia.org/resource/Palestine> <Twitter-Al-Jazeera-0> .
+ <http://example.org/AhmedJarrarTwitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPosting> <Twitter-Al-Jazeera-0> .
+ <http://example.org/IsraeliJusticeMinistryReport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Report> <Twitter-Al-Jazeera-0> .
+ <http://example.org/AhmedJarrar> <http://xmlns.com/foaf/0.1/account> <http://example.org/AhmedJarrarTwitter> <Twitter-Al-Jazeera-0> .
+ <http://example.org/SadaSocialOctoberReport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Report> <Twitter-Al-Jazeera-0> .
+ <http://example.org/IyadAlrefaie> <http://xmlns.com/foaf/0.1/name> "Iyad Alrefaie"  <Twitter-Al-Jazeera-0> .
+ <http://example.org/IsraeliJusticeMinistryReport> <http://schema.org/datePublished> "2017-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-Al-Jazeera-0> .
+ <http://example.org/AhmedJarrar> <http://xmlns.com/foaf/0.1/name> "Ahmed Jarrar"  <Twitter-Al-Jazeera-0> .
+ <http://example.org/SadaSocialOctoberReport> <http://schema.org/datePublished> "2023-10-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-Al-Jazeera-0> .
+ <http://example.org/QudsNewsNetwork> <http://dbpedia.org/ontology/topic> <http://dbpedia.org/resource/Israeli_occupation> <Twitter-Al-Jazeera-0> .
+ <http://example.org/AhmedJarrar> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Journalist> <Twitter-Al-Jazeera-0> .
+ <http://example.org/QudsNewsNetwork> <http://schema.org/member> <http://example.org/TwitterAccount> <Twitter-Al-Jazeera-0> .
+ <http://example.org/TwitterAccount> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaAccount> <Twitter-Al-Jazeera-0> .
+ <http://example.org/QudsNewsNetwork> <http://schema.org/name> "Quds News Network"  <Twitter-Al-Jazeera-0> .
+ <http://example.org/AibhinnKelleher> <http://xmlns.com/foaf/0.1/name> "Aibhinn Kelleher"  <Twitter-Al-Jazeera-0> .
+ <http://example.org/SadaSocial> <http://schema.org/name> "Sada Social"  <Twitter-Al-Jazeera-0> .
+ <http://example.org/TwitterAccount> <http://schema.org/accountSuspended> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <Twitter-Al-Jazeera-0> .
+ <http://example.org/NadimNashif> <http://xmlns.com/foaf/0.1/name> "Nadim Nashif"  <Twitter-Al-Jazeera-0> .
+ <http://example.org/SadaSocialOctoberReport> <http://schema.org/numberOfItems> "145"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-Al-Jazeera-0> .
+ <http://example.org/AhmedJarrarTwitter> <http://schema.org/author> <http://example.org/AhmedJarrar> <Twitter-Al-Jazeera-0> .
+ <http://example.org/QudsNewsNetwork> <http://dbpedia.org/ontology/numberOfStaff> "hundreds of thousands"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-Al-Jazeera-0> .
+ <http://example.org/AhmedJarrar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-0> .
+ <http://example.org/AhmedJarrarTwitter> <http://schema.org/comment> "Deleting and gagging accounts is a cowardly and weak decision. The voice of the press and free media cannot be silenced in modern times."@en  <Twitter-Al-Jazeera-0> .
+ <http://example.org/FacebookIsraelAgreement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Twitter-Al-Jazeera-0> .
+ <http://example.org/PalestinianAuthority> <http://dbpedia.org/ontology/accusation> <http://example.org/CybercrimeLawViolation> <Twitter-Al-Jazeera-0> .
+ <http://example.org/IyadAlrefaie> <http://dbpedia.org/ontology/associatedWith> <http://example.org/SadaSocial> <Twitter-Al-Jazeera-0> .
+ <http://example.org/IyadAlrefaie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-0> .
+ <http://example.org/7amleh> <http://schema.org/name> "7amleh, the Arab Center for Social Media Advancement"  <Twitter-Al-Jazeera-0> .
+ <http://example.org/NadimNashif> <http://dbpedia.org/ontology/associatedWith> <http://example.org/7amleh> <Twitter-Al-Jazeera-0> .
+ <http://example.org/QudsNewsNetwork> <http://schema.org/member> <http://example.org/FacebookPage> <Twitter-Al-Jazeera-0> .
+ <http://example.org/FacebookIsraelAgreement> <http://schema.org/organizer> <http://dbpedia.org/resource/Israel> <Twitter-Al-Jazeera-0> .
+ <http://example.org/TwitterAccount> <http://schema.org/dateSuspended> "2023-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-Al-Jazeera-0> .
+ <http://example.org/AhmedJarrarTwitter> <http://schema.org/about> <http://dbpedia.org/resource/Israeli_occupation> <Twitter-Al-Jazeera-0> .
+ <http://example.org/FacebookPage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaAccount> <Twitter-Al-Jazeera-0> .
+ <http://example.org/FacebookIsraelAgreement> <http://schema.org/startDate> "2016-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-Al-Jazeera-0> .
+ <http://example.org/IsraeliJusticeMinistryReport> <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/Israeli_Justice_Ministry> <Twitter-Al-Jazeera-0> .
+ <http://example.org/FacebookPage> <http://schema.org/serviceProvider> <http://dbpedia.org/resource/Facebook> <Twitter-Al-Jazeera-0> .
+ <http://example.org/FacebookPage> <http://schema.org/contentRestricted> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <Twitter-Al-Jazeera-0> .
+ <http://example.org/CybercrimeLawViolation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Twitter-Al-Jazeera-0> .
+ <http://example.org/AibhinnKelleher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-0> .
+ <http://Twitter-Al-Jazeera-0.com/blank#n35f79d98dd89421f89e174ede2345d22b1> <http://dbpedia.org/ontology/case> "2241"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-Al-Jazeera-0> .
+ <http://example.org/IsraeliJusticeMinistryReport> <http://dbpedia.org/ontology/statistics> <http://Twitter-Al-Jazeera-0.com/blank#n35f79d98dd89421f89e174ede2345d22b1>  <Twitter-Al-Jazeera-0> .
+ <http://Twitter-Al-Jazeera-0.com/blank#n35f79d98dd89421f89e174ede2345d22b1> <http://dbpedia.org/ontology/successRate> "70"^^<http://www.w3.org/2001/XMLSchema#percent>  <Twitter-Al-Jazeera-0> .
+ <http://example.org/SadaSocial> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-Al-Jazeera-0> .
+ <http://example.org/FacebookIsraelAgreement> <http://schema.org/organizer> <http://dbpedia.org/resource/Facebook> <Twitter-Al-Jazeera-0> .
+ <http://example.org/PalestinianAuthority> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Twitter-Al-Jazeera-0> .
+ <http://example.org/QudsNewsNetwork> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-Al-Jazeera-0> .
+ <http://example.org/CybercrimeLawViolation> <http://dbpedia.org/ontology/relatedTo> <http://example.org/QudsNewsNetwork> <Twitter-Al-Jazeera-0> .
+ <http://example.org/AustraliaInternetSafetyWatchdog> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Twitter-Al-Jazeera-1> .
+ <http://Twitter-Al-Jazeera-1.com/blank#n21e03710717a4689b1d0eee631ddbc82b1> <http://dbpedia.org/ontology/occupation> "self-proclaimed 'free speech absolutist'"  <Twitter-Al-Jazeera-1> .
+ <http://Twitter-Al-Jazeera-1.com/blank#n21e03710717a4689b1d0eee631ddbc82b1> <http://xmlns.com/foaf/0.1/name> "Elon Musk"  <Twitter-Al-Jazeera-1> .
+ <http://example.org/ComplaintsAboutOnlineHate> <http://dbpedia.org/ontology/quantity> "1"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-Al-Jazeera-1> .
+ <http://example.org/NationalIndigenousTelevision> <http://dbpedia.org/ontology/action> "taking a break from Twitter"  <Twitter-Al-Jazeera-1> .
+ <http://Twitter-Al-Jazeera-1.com/blank#n21e03710717a4689b1d0eee631ddbc82b7> <http://xmlns.com/foaf/0.1/name> "Elon Musk"  <Twitter-Al-Jazeera-1> .
+ <http://example.org/Referendum> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Australia> <Twitter-Al-Jazeera-1> .
+ <http://Twitter-Al-Jazeera-1.com/blank#n21e03710717a4689b1d0eee631ddbc82b3> <http://dbpedia.org/ontology/formerEmployeeOf> <http://dbpedia.org/resource/Twitter> <Twitter-Al-Jazeera-1> .
+ <http://example.org/InmanGrant> <http://xmlns.com/foaf/0.1/name> "Julie Inman Grant"  <Twitter-Al-Jazeera-1> .
+ <http://example.org/Twitter> <http://dbpedia.org/ontology/acquisitionDate> "2022-10"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Twitter-Al-Jazeera-1> .
+ <http://example.org/ComplaintsAboutOnlineHate> <http://dbpedia.org/ontology/about> <http://example.org/OnlineHate> <Twitter-Al-Jazeera-1> .
+ <http://example.org/Twitter> <http://dbpedia.org/ontology/vision> "the world’s most accurate real-time information source and a global town square for communication"  <Twitter-Al-Jazeera-1> .
+ <http://Twitter-Al-Jazeera-1.com/blank#n21e03710717a4689b1d0eee631ddbc82b1> <http://dbpedia.org/ontology/netWorth> "one of the world’s richest people"  <Twitter-Al-Jazeera-1> .
+ <http://Twitter-Al-Jazeera-1.com/blank#n21e03710717a4689b1d0eee631ddbc82b3> <http://xmlns.com/foaf/0.1/name> "Julie Inman Grant"  <Twitter-Al-Jazeera-1> .
+ <http://Twitter-Al-Jazeera-1.com/blank#n21e03710717a4689b1d0eee631ddbc82b3> <http://dbpedia.org/ontology/formerEmployeeOf> <http://dbpedia.org/resource/Microsoft> <Twitter-Al-Jazeera-1> .
+ <http://Twitter-Al-Jazeera-1.com/blank#n21e03710717a4689b1d0eee631ddbc82b6> <http://dbpedia.org/ontology/about> "impact assessments when reinstating banned accounts, engagement with communities subjected to online hate, enforcement of policies to ban hateful conduct"  <Twitter-Al-Jazeera-1> .
+ <http://example.org/MuskLetter> <http://dbpedia.org/ontology/author> <http://example.org/InmanGrant> <Twitter-Al-Jazeera-1> .
+ <http://Twitter-Al-Jazeera-1.com/blank#n21e03710717a4689b1d0eee631ddbc82b5> <http://xmlns.com/foaf/0.1/name> "Linda Yaccarino"  <Twitter-Al-Jazeera-1> .
+ <http://example.org/AustraliaInternetSafetyWatchdog> <http://xmlns.com/foaf/0.1/name> "e-safety commissioner"  <Twitter-Al-Jazeera-1> .
+ <http://Twitter-Al-Jazeera-1.com/blank#n21e03710717a4689b1d0eee631ddbc82b4> <http://dbpedia.org/ontology/currency> <http://dbpedia.org/resource/Australian_dollar> <Twitter-Al-Jazeera-1> .
+ <http://example.org/StanGrant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Twitter-Al-Jazeera-1> .
+ <http://Twitter-Al-Jazeera-1.com/blank#n21e03710717a4689b1d0eee631ddbc82b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Twitter-Al-Jazeera-1> .
+ <http://Twitter-Al-Jazeera-1.com/blank#n21e03710717a4689b1d0eee631ddbc82b4> <http://dbpedia.org/ontology/penalty> "700000.0"^^<http://www.w3.org/2001/XMLSchema#float>  <Twitter-Al-Jazeera-1> .
+ <http://example.org/StanGrant> <http://dbpedia.org/ontology/occupation> "Prominent Indigenous broadcaster"  <Twitter-Al-Jazeera-1> .
+ <http://example.org/InmanGrant> <http://dbpedia.org/ontology/request> <http://Twitter-Al-Jazeera-1.com/blank#n21e03710717a4689b1d0eee631ddbc82b6>  <Twitter-Al-Jazeera-1> .
+ <http://example.org/AustraliaRegulation> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Australia> <Twitter-Al-Jazeera-1> .
+ <http://example.org/Referendum> <http://dbpedia.org/ontology/about> "recognise Indigenous people in the constitution"  <Twitter-Al-Jazeera-1> .
+ <http://example.org/Twitter> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Australia> <Twitter-Al-Jazeera-1> .
+ <http://example.org/NationalIndigenousTelevision> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Broadcaster> <Twitter-Al-Jazeera-1> .
+ <http://Twitter-Al-Jazeera-1.com/blank#n21e03710717a4689b1d0eee631ddbc82b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Twitter-Al-Jazeera-1> .
+ <http://example.org/MuskLetter> <http://dbpedia.org/ontology/recipient> <http://Twitter-Al-Jazeera-1.com/blank#n21e03710717a4689b1d0eee631ddbc82b7>  <Twitter-Al-Jazeera-1> .
+ <http://example.org/MuskLetter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Document> <Twitter-Al-Jazeera-1> .
+ <http://example.org/StanGrant> <http://dbpedia.org/ontology/action> "announced a break from the media"  <Twitter-Al-Jazeera-1> .
+ <http://example.org/AustraliaRegulation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Legislation> <Twitter-Al-Jazeera-1> .
+ <http://example.org/Twitter> <http://dbpedia.org/ontology/mostComplainedAbout> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <Twitter-Al-Jazeera-1> .
+ <http://example.org/ComplaintsAboutOnlineHate> <http://dbpedia.org/ontology/reference> <http://example.org/MuskOwnedPlatform> <Twitter-Al-Jazeera-1> .
+ <http://Twitter-Al-Jazeera-1.com/blank#n21e03710717a4689b1d0eee631ddbc82b3> <http://dbpedia.org/ontology/position> "e-safety commissioner"  <Twitter-Al-Jazeera-1> .
+ <http://example.org/AustraliaInternetSafetyWatchdog> <http://dbpedia.org/ontology/deadline> "28"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-Al-Jazeera-1> .
+ <http://Twitter-Al-Jazeera-1.com/blank#n21e03710717a4689b1d0eee631ddbc82b4> <http://dbpedia.org/ontology/penaltyPeriod> "per day"  <Twitter-Al-Jazeera-1> .
+ <http://Twitter-Al-Jazeera-1.com/blank#n21e03710717a4689b1d0eee631ddbc82b6> <http://dbpedia.org/ontology/target> <http://example.org/Twitter> <Twitter-Al-Jazeera-1> .
+ <http://example.org/AustraliaInternetSafetyWatchdog> <http://dbpedia.org/ontology/threat> <http://Twitter-Al-Jazeera-1.com/blank#n21e03710717a4689b1d0eee631ddbc82b4>  <Twitter-Al-Jazeera-1> .
+ <http://Twitter-Al-Jazeera-1.com/blank#n21e03710717a4689b1d0eee631ddbc82b2> <http://dbpedia.org/ontology/amount> "fewer"  <Twitter-Al-Jazeera-1> .
+ <http://example.org/MuskOwnedPlatform> <http://dbpedia.org/ontology/numberOfUsers> <http://Twitter-Al-Jazeera-1.com/blank#n21e03710717a4689b1d0eee631ddbc82b2>  <Twitter-Al-Jazeera-1> .
+ <http://example.org/InmanGrant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Twitter-Al-Jazeera-1> .
+ <http://Twitter-Al-Jazeera-1.com/blank#n21e03710717a4689b1d0eee631ddbc82b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Quantity> <Twitter-Al-Jazeera-1> .
+ <http://example.org/Twitter> <http://dbpedia.org/ontology/contentModeratorRole> "stamping out abuse"  <Twitter-Al-Jazeera-1> .
+ <http://Twitter-Al-Jazeera-1.com/blank#n21e03710717a4689b1d0eee631ddbc82b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Twitter-Al-Jazeera-1> .
+ <http://example.org/MuskOwnedPlatform> <http://xmlns.com/foaf/0.1/name> "Twitter"  <Twitter-Al-Jazeera-1> .
+ <http://example.org/AustraliaRegulation> <http://dbpedia.org/ontology/subject> "regulate social media platforms"  <Twitter-Al-Jazeera-1> .
+ <http://example.org/MuskOwnedPlatform> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPlatform> <Twitter-Al-Jazeera-1> .
+ <http://example.org/StanGrant> <http://dbpedia.org/ontology/reason> "targeted abuse – 'relentless racial filth' on Twitter"  <Twitter-Al-Jazeera-1> .
+ <http://example.org/Twitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPlatform> <Twitter-Al-Jazeera-1> .
+ <http://example.org/ComplaintsAboutOnlineHate> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Australia> <Twitter-Al-Jazeera-1> .
+ <http://example.org/MuskOwnedPlatform> <http://dbpedia.org/ontology/owner> <http://Twitter-Al-Jazeera-1.com/blank#n21e03710717a4689b1d0eee631ddbc82b1>  <Twitter-Al-Jazeera-1> .
+ <http://Twitter-Al-Jazeera-1.com/blank#n21e03710717a4689b1d0eee631ddbc82b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/LegalAction> <Twitter-Al-Jazeera-1> .
+ <http://Twitter-Al-Jazeera-1.com/blank#n21e03710717a4689b1d0eee631ddbc82b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Twitter-Al-Jazeera-1> .
+ <http://example.org/ComplaintsAboutOnlineHate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statistic> <Twitter-Al-Jazeera-1> .
+ <http://example.org/Referendum> <http://dbpedia.org/ontology/year> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Twitter-Al-Jazeera-1> .
+ <http://example.org/MuskLetter> <http://dbpedia.org/ontology/date> "2022-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Twitter-Al-Jazeera-1> .
+ <http://Twitter-Al-Jazeera-1.com/blank#n21e03710717a4689b1d0eee631ddbc82b2> <http://dbpedia.org/ontology/comparedTo> "TikTok, Facebook, Instagram"  <Twitter-Al-Jazeera-1> .
+ <http://Twitter-Al-Jazeera-1.com/blank#n21e03710717a4689b1d0eee631ddbc82b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Action> <Twitter-Al-Jazeera-1> .
+ <http://example.org/ComplaintsAboutOnlineHate> <http://dbpedia.org/ontology/percentage> "33.33"^^<http://www.w3.org/2001/XMLSchema#float>  <Twitter-Al-Jazeera-1> .
+ <http://example.org/StanGrant> <http://xmlns.com/foaf/0.1/name> "Stan Grant"  <Twitter-Al-Jazeera-1> .
+ <http://example.org/Referendum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Twitter-Al-Jazeera-1> .
+ <http://example.org/Twitter> <http://dbpedia.org/ontology/ceo> <http://Twitter-Al-Jazeera-1.com/blank#n21e03710717a4689b1d0eee631ddbc82b5>  <Twitter-Al-Jazeera-1> .
+ <http://example.org/MuskLetter> <http://dbpedia.org/ontology/about> "fears that staff cuts would leave Twitter unable to meet Australian laws"  <Twitter-Al-Jazeera-1> .
+ <http://example.org/Twitter> <http://dbpedia.org/ontology/workforceReductionPercentage> "80"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-Al-Jazeera-1> .
+ <http://example.org/AustraliaInternetSafetyWatchdog> <http://dbpedia.org/ontology/agent> <http://Twitter-Al-Jazeera-1.com/blank#n21e03710717a4689b1d0eee631ddbc82b3>  <Twitter-Al-Jazeera-1> .
+ <http://example.org/NationalIndigenousTelevision> <http://dbpedia.org/ontology/reason> "the racism and hate experienced every day on the platform"  <Twitter-Al-Jazeera-1> .
+ <http://example.org/TeslaSharePriceDrop> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Twitter-Al-Jazeera-2> .
+ <http://example.org/TwitterPolicyChanges> <http://dbpedia.org/ontology/agent> <http://example.org/ElonMusk> <Twitter-Al-Jazeera-2> .
+ <http://Twitter-Al-Jazeera-2.com/blank#n4ab715733d6f4a2e9404364acf9d644eb3> <http://schema.org/startTime> "2022-12-28T22:11:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <Twitter-Al-Jazeera-2> .
+ <http://Twitter-Al-Jazeera-2.com/blank#n4ab715733d6f4a2e9404364acf9d644eb3> <http://dbpedia.org/ontology/numberOfInstances> "774"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-Al-Jazeera-2> .
+ <http://Twitter-Al-Jazeera-2.com/blank#n4ab715733d6f4a2e9404364acf9d644eb4> <http://schema.org/datePublished> "2022-12-29"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-Al-Jazeera-2> .
+ <http://example.org/TwitterWorkforceReduction> <http://dbpedia.org/ontology/time> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Twitter-Al-Jazeera-2> .
+ <http://example.org/TwitterPaidSubscriberService> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Service> <Twitter-Al-Jazeera-2> .
+ <http://example.org/TwitterPolicyChanges> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Twitter-Al-Jazeera-2> .
+ <http://example.org/Downdetector> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Twitter-Al-Jazeera-2> .
+ <http://Twitter-Al-Jazeera-2.com/blank#n4ab715733d6f4a2e9404364acf9d644eb1> <http://schema.org/text> "Major outage leaving many users unable to access Twitter"  <Twitter-Al-Jazeera-2> .
+ <http://Twitter-Al-Jazeera-2.com/blank#n4ab715733d6f4a2e9404364acf9d644eb2> <http://schema.org/startTime> "2022-12-28T07:30:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <Twitter-Al-Jazeera-2> .
+ <http://Twitter-Al-Jazeera-2.com/blank#n4ab715733d6f4a2e9404364acf9d644eb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Twitter-Al-Jazeera-2> .
+ <http://example.org/TwitterWorkforceReduction> <http://schema.org/description> "Slashed the platform's workforce"  <Twitter-Al-Jazeera-2> .
+ <http://example.org/ElonMusk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Twitter-Al-Jazeera-2> .
+ <http://example.org/Twitter> <http://dbpedia.org/ontology/product> <http://Twitter-Al-Jazeera-2.com/blank#n4ab715733d6f4a2e9404364acf9d644eb5>  <Twitter-Al-Jazeera-2> .
+ <http://example.org/TeslaSharePriceDrop> <http://schema.org/description> "Tesla's share price has plummeted nearly 70 percent this year"  <Twitter-Al-Jazeera-2> .
+ <http://example.org/ElonMusk> <http://dbpedia.org/ontology/ownerOf> <http://dbpedia.org/resource/Twitter> <Twitter-Al-Jazeera-2> .
+ <http://Twitter-Al-Jazeera-2.com/blank#n4ab715733d6f4a2e9404364acf9d644eb2> <http://schema.org/text> "Received over 8,700 user reports of problems with Twitter"  <Twitter-Al-Jazeera-2> .
+ <http://Twitter-Al-Jazeera-2.com/blank#n4ab715733d6f4a2e9404364acf9d644eb5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Twitter-Al-Jazeera-2> .
+ <http://Twitter-Al-Jazeera-2.com/blank#n4ab715733d6f4a2e9404364acf9d644eb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPosting> <Twitter-Al-Jazeera-2> .
+ <http://example.org/TwitterOutage> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Worldwide> <Twitter-Al-Jazeera-2> .
+ <http://example.org/Downdetector> <http://dbpedia.org/ontology/activity> <http://Twitter-Al-Jazeera-2.com/blank#n4ab715733d6f4a2e9404364acf9d644eb3>  <Twitter-Al-Jazeera-2> .
+ <http://Twitter-Al-Jazeera-2.com/blank#n4ab715733d6f4a2e9404364acf9d644eb2> <http://schema.org/endTime> "2022-12-28T22:11:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <Twitter-Al-Jazeera-2> .
+ <http://example.org/ElonMusk> <http://schema.org/jobTitle> "Chief Executive of Tesla"  <Twitter-Al-Jazeera-2> .
+ <http://example.org/TechnicalIssues> <http://schema.org/name> "Technical Issues"  <Twitter-Al-Jazeera-2> .
+ <http://example.org/TwitterCEOPoll> <http://dbpedia.org/ontology/agent> <http://example.org/ElonMusk> <Twitter-Al-Jazeera-2> .
+ <http://example.org/TwitterWorkforceReduction> <http://dbpedia.org/ontology/agent> <http://example.org/ElonMusk> <Twitter-Al-Jazeera-2> .
+ <http://example.org/ElonMusk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Twitter-Al-Jazeera-2> .
+ <http://example.org/TeslaSharePriceDrop> <http://dbpedia.org/ontology/time> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Twitter-Al-Jazeera-2> .
+ <http://example.org/Twitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPlatform> <Twitter-Al-Jazeera-2> .
+ <http://example.org/TeslaSharePriceDrop> <http://dbpedia.org/ontology/agent> <http://dbpedia.org/resource/Tesla_Inc> <Twitter-Al-Jazeera-2> .
+ <http://example.org/TwitterOutage> <http://dbpedia.org/ontology/cause> <http://example.org/TechnicalIssues> <Twitter-Al-Jazeera-2> .
+ <http://example.org/Twitter> <http://dbpedia.org/ontology/founder> <http://dbpedia.org/resource/Jack_Dorsey> <Twitter-Al-Jazeera-2> .
+ <http://example.org/Downdetector> <http://dbpedia.org/ontology/activity> <http://Twitter-Al-Jazeera-2.com/blank#n4ab715733d6f4a2e9404364acf9d644eb2>  <Twitter-Al-Jazeera-2> .
+ <http://Twitter-Al-Jazeera-2.com/blank#n4ab715733d6f4a2e9404364acf9d644eb6> <http://schema.org/name> "Twitter Mobile Version"  <Twitter-Al-Jazeera-2> .
+ <http://example.org/TwitterCEOPoll> <http://schema.org/description> "Musk said he would step down as Twitter's chief executive after users voted for him to go in a poll he created"  <Twitter-Al-Jazeera-2> .
+ <http://example.org/TwitterOutage> <http://dbpedia.org/ontology/time> "2022-12-28T07:13:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <Twitter-Al-Jazeera-2> .
+ <http://Twitter-Al-Jazeera-2.com/blank#n4ab715733d6f4a2e9404364acf9d644eb2> <http://dbpedia.org/ontology/numberOfInstances> "8700"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-Al-Jazeera-2> .
+ <http://example.org/TwitterPolicyChanges> <http://dbpedia.org/ontology/time> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Twitter-Al-Jazeera-2> .
+ <http://example.org/TwitterPaidSubscriberService> <http://schema.org/description> "Introduced a paid subscriber service"  <Twitter-Al-Jazeera-2> .
+ <http://example.org/TwitterCEOPoll> <http://dbpedia.org/ontology/time> "2022-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Twitter-Al-Jazeera-2> .
+ <http://example.org/Twitter> <http://dbpedia.org/ontology/owner> <http://example.org/ElonMusk> <Twitter-Al-Jazeera-2> .
+ <http://example.org/TwitterPolicyChanges> <http://schema.org/description> "Controversial changes to moderation policies"  <Twitter-Al-Jazeera-2> .
+ <http://example.org/TwitterWorkforceReduction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Twitter-Al-Jazeera-2> .
+ <http://Twitter-Al-Jazeera-2.com/blank#n4ab715733d6f4a2e9404364acf9d644eb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Outcome> <Twitter-Al-Jazeera-2> .
+ <http://example.org/TwitterOutage> <http://dbpedia.org/ontology/result> <http://Twitter-Al-Jazeera-2.com/blank#n4ab715733d6f4a2e9404364acf9d644eb1>  <Twitter-Al-Jazeera-2> .
+ <http://Twitter-Al-Jazeera-2.com/blank#n4ab715733d6f4a2e9404364acf9d644eb4> <http://schema.org/text> "Works for me"  <Twitter-Al-Jazeera-2> .
+ <http://example.org/TwitterPaidSubscriberService> <http://dbpedia.org/ontology/provider> <http://dbpedia.org/resource/Twitter> <Twitter-Al-Jazeera-2> .
+ <http://example.org/TwitterCEOPoll> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Twitter-Al-Jazeera-2> .
+ <http://example.org/TechnicalIssues> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Problem> <Twitter-Al-Jazeera-2> .
+ <http://example.org/ElonMusk> <http://dbpedia.org/ontology/networth> "44000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Twitter-Al-Jazeera-2> .
+ <http://example.org/Twitter> <http://dbpedia.org/ontology/product> <http://Twitter-Al-Jazeera-2.com/blank#n4ab715733d6f4a2e9404364acf9d644eb6>  <Twitter-Al-Jazeera-2> .
+ <http://Twitter-Al-Jazeera-2.com/blank#n4ab715733d6f4a2e9404364acf9d644eb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Activity> <Twitter-Al-Jazeera-2> .
+ <http://Twitter-Al-Jazeera-2.com/blank#n4ab715733d6f4a2e9404364acf9d644eb3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Activity> <Twitter-Al-Jazeera-2> .
+ <http://Twitter-Al-Jazeera-2.com/blank#n4ab715733d6f4a2e9404364acf9d644eb3> <http://schema.org/text> "Collected just 774 user reports of errors"  <Twitter-Al-Jazeera-2> .
+ <http://example.org/TwitterOutage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Twitter-Al-Jazeera-2> .
+ <http://example.org/ElonMusk> <http://schema.org/tweet> <http://Twitter-Al-Jazeera-2.com/blank#n4ab715733d6f4a2e9404364acf9d644eb4>  <Twitter-Al-Jazeera-2> .
+ <http://Twitter-Al-Jazeera-2.com/blank#n4ab715733d6f4a2e9404364acf9d644eb5> <http://schema.org/name> "Twitter Desktop Version"  <Twitter-Al-Jazeera-2> .
+ <http://example.org/ontology#MarkZuckerberg> <http://schema.org/worksFor> <http://example.org/ontology#Meta> <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#ElonMusk> <http://schema.org/owns> <http://example.org/ontology#Twitter> <Twitter-Al-Jazeera-3> .
+ <http://Twitter-Al-Jazeera-3.com/blank#na8cfbcd2d6624227a6e13a3e546a8e0eb3> <http://schema.org/name> "Direct Messages"  <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#Meta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#AlexSpiro> <http://schema.org/jobTitle> "Lawyer"  <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#MarkZuckerberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#Twitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#MetaPlatformsLawsuit> <http://schema.org/reportedBy> <http://example.org/ontology#Semafor> <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#AndyStone> <http://schema.org/statement> "No one on the Threads engineering team is a former Twitter employee — that’s just not a thing"  <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#MetaPlatformsLawsuit> <http://schema.org/about> <http://example.org/ontology#ThreadsApp> <Twitter-Al-Jazeera-3> .
+ <http://Twitter-Al-Jazeera-3.com/blank#na8cfbcd2d6624227a6e13a3e546a8e0eb1> <http://schema.org/description> "resemblance to the microblogging platform"  <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#Semafor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NewsMediaOrganization> <Twitter-Al-Jazeera-3> .
+ <http://Twitter-Al-Jazeera-3.com/blank#na8cfbcd2d6624227a6e13a3e546a8e0eb2> <http://schema.org/name> "Keyword Searches"  <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#Meta> <http://schema.org/name> "Meta"  <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#AlexSpiro> <http://schema.org/worksFor> <http://example.org/ontology#Twitter> <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#LetterToZuckerberg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#AlexSpiro> <http://schema.org/sends> <http://example.org/ontology#LetterToZuckerberg> <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#LetterToZuckerberg> <http://schema.org/about> <http://example.org/ontology#MetaPlatformsLawsuit> <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#Mastodon> <http://schema.org/name> "Mastodon"  <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#Twitter> <http://schema.org/accuses> <http://example.org/ontology#Meta> <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#Bluesky> <http://schema.org/name> "Bluesky"  <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#Bluesky> <http://schema.org/competesWith> <http://example.org/ontology#Twitter> <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#Meta> <http://schema.org/spokesperson> <http://example.org/ontology#AndyStone> <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#Twitter> <http://schema.org/threatens> <http://example.org/ontology#MetaPlatformsLawsuit> <Twitter-Al-Jazeera-3> .
+ <http://Twitter-Al-Jazeera-3.com/blank#na8cfbcd2d6624227a6e13a3e546a8e0eb1> <http://schema.org/name> "User Interface"  <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#ElonMusk> <http://schema.org/statement> "Competition is fine, cheating is not"  <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#Mastodon> <http://schema.org/competesWith> <http://example.org/ontology#Twitter> <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#ThreadsApp> <http://schema.org/doesNotSupport> <http://Twitter-Al-Jazeera-3.com/blank#na8cfbcd2d6624227a6e13a3e546a8e0eb3>  <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#Twitter> <http://schema.org/name> "Twitter"  <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#Twitter> <http://schema.org/demand> "immediate steps to stop using any Twitter trade secrets or other highly confidential information"  <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#AndyStone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#AndyStone> <http://schema.org/worksFor> <http://example.org/ontology#Meta> <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#AlexSpiro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#ThreadsApp> <http://schema.org/doesNotSupport> <http://Twitter-Al-Jazeera-3.com/blank#na8cfbcd2d6624227a6e13a3e546a8e0eb2>  <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#ElonMusk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#MetaPlatformsLawsuit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#Twitter> <http://schema.org/concern> "systematic, willful and unlawful misappropriation of Twitter’s trade secrets and other intellectual property"  <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#ThreadsApp> <http://schema.org/datePublished> "2023-03-29"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#Meta> <http://schema.org/parentOrganization> <http://example.org/ontology#Facebook> <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#Facebook> <http://schema.org/name> "Facebook"  <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#Facebook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#Semafor> <http://schema.org/reports> <http://example.org/ontology#MetaPlatformsLawsuit> <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#MarkZuckerberg> <http://schema.org/jobTitle> "CEO"  <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#AndyStone> <http://schema.org/jobTitle> "Spokesperson"  <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#MarkZuckerberg> <http://schema.org/name> "Mark Zuckerberg"  <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#ThreadsApp> <http://schema.org/feature> <http://Twitter-Al-Jazeera-3.com/blank#na8cfbcd2d6624227a6e13a3e546a8e0eb1>  <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#LetterToZuckerberg> <http://schema.org/recipient> <http://example.org/ontology#MarkZuckerberg> <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#AndyStone> <http://schema.org/name> "Andy Stone"  <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#Semafor> <http://schema.org/name> "Semafor"  <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#LetterToZuckerberg> <http://schema.org/author> <http://example.org/ontology#AlexSpiro> <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#Bluesky> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#Meta> <http://schema.org/launches> <http://example.org/ontology#ThreadsApp> <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#ThreadsApp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#AlexSpiro> <http://schema.org/name> "Alex Spiro"  <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#ElonMusk> <http://schema.org/name> "Elon Musk"  <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#ThreadsApp> <http://schema.org/numberOfDownloads> "30000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#Mastodon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#ThreadsApp> <http://schema.org/name> "Threads"  <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#Semafor> <http://schema.org/datePublished> "2023-03-30"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-Al-Jazeera-3> .
+ <http://example.org/ontology#ThreadsApp> <http://schema.org/competesWith> <http://example.org/ontology#Twitter> <Twitter-Al-Jazeera-3> .
+ <http://example.org/twitter/iPhoneAddon> <http://schema.org/price> "11"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/AlexHoward> <http://dbpedia.org/ontology/occupation> <http://example.org/twitter/OpenGovernmentAdvocate> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/BarackObama> <http://xmlns.com/foaf/0.1/name> "Barack Obama"  <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/StatusElonMusk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/TwitterVerificationService> <http://schema.org/offers> <http://example.org/twitter/PremiumSubscription> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/Twitter> <http://dbpedia.org/ontology/product> <http://example.org/twitter/TwitterVerificationService> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/LegacyVerifiedAccount> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/BarackObama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/ElonMuskAccount> <http://example.org/twitter/hasStatus> <http://example.org/twitter/StatusElonMusk> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/StatusElonMusk> <http://schema.org/datePublished> "2023-03-27"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/WilliamShatnerAccount> <http://xmlns.com/foaf/0.1/accountServiceHomepage> <https://twitter.com> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/ElonMusk> <http://dbpedia.org/ontology/title> "Chief Executive of Twitter"  <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/PremiumSubscription> <http://schema.org/addOn> <http://example.org/twitter/iPhoneAddon> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/iPhoneAddon> <http://schema.org/priceCurrency> "USD"  <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/StatusMonicaLewinsky> <http://schema.org/datePublished> "2023-03-26"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/MichelleObama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/WilliamShatner> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Actor> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/MonicaLewinsky> <http://xmlns.com/foaf/0.1/name> "Monica Lewinsky"  <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/ElonMusk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/ElonMusk> <http://schema.org/netWorth> "44bn"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/ElonMuskAccount> <http://xmlns.com/foaf/0.1/accountName> "@elonmusk"  <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/ElonMusk> <http://xmlns.com/foaf/0.1/name> "Elon Musk"  <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/PremiumSubscription> <http://schema.org/eligibleRegion> "Web"  <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/WilliamShatner> <http://xmlns.com/foaf/0.1/account> <http://example.org/twitter/WilliamShatnerAccount> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/AlexHoward> <http://dbpedia.org/ontology/title> "Director of the Digital Democracy Project"  <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/TaylorSwift> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/OpenGovernmentAdvocate> <http://www.w3.org/2000/01/rdf-schema#label> "Open Government Advocate"  <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/Beyonce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/PremiumSubscription> <http://schema.org/price> "8"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/WilliamShatner> <http://xmlns.com/foaf/0.1/name> "William Shatner"  <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/TaylorSwift> <http://xmlns.com/foaf/0.1/name> "Taylor Swift"  <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/ElonMuskAccount> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/OnlineAccount> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/iPhoneAddon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/ElonMuskAccount> <http://xmlns.com/foaf/0.1/accountServiceHomepage> <https://twitter.com> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/MonicaLewinskyAccount> <http://xmlns.com/foaf/0.1/accountServiceHomepage> <https://twitter.com> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/ElonMusk> <http://dbpedia.org/ontology/title> "Twitter owner"  <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/WilliamShatnerAccount> <http://xmlns.com/foaf/0.1/accountName> "@WilliamShatner"  <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/LegacyVerifiedAccount> <http://www.w3.org/2000/01/rdf-schema#label> "Legacy Verified Account"  <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/MonicaLewinskyAccount> <http://xmlns.com/foaf/0.1/accountName> "@MonicaLewinsky"  <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/StatusMonicaLewinsky> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/StatusWilliamShatner> <http://schema.org/datePublished> "2023-03-26"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/StephenKing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/Drake> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/Twitter> <http://schema.org/dateCreated> "2006"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/Drake> <http://xmlns.com/foaf/0.1/name> "Drake"  <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/MonicaLewinskyAccount> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/OnlineAccount> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/MichelleObama> <http://xmlns.com/foaf/0.1/name> "Michelle Obama"  <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/StatusMonicaLewinsky> <http://schema.org/text> "what universe is this fair to people who can suffer consequences for being impersonated? a lie travels half way around the world before truth even gets out the door."  <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/TuckerCarlson> <http://xmlns.com/foaf/0.1/name> "Tucker Carlson"  <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/MonicaLewinskyAccount> <http://example.org/twitter/hasStatus> <http://example.org/twitter/StatusMonicaLewinsky> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/StatusElonMusk> <http://schema.org/text> "It will be glorious"  <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/iPhoneAddon> <http://schema.org/eligibleRegion> "iPhone and iPad"  <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/Twitter> <http://schema.org/founder> <http://example.org/twitter/ElonMusk> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/PremiumSubscription> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Offer> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/AlexHoward> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/ElonMusk> <http://xmlns.com/foaf/0.1/account> <http://example.org/twitter/ElonMuskAccount> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/LegacyVerifiedAccount> <http://schema.org/description> "A legacy verified account on Twitter that may or may not be notable."  <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/WilliamShatnerAccount> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/OnlineAccount> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/TwitterVerificationService> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Service> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/AlexHoward> <http://xmlns.com/foaf/0.1/name> "Alex Howard"  <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/WilliamShatner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/StatusWilliamShatner> <http://schema.org/text> "I’ve been here for 15 years giving my (clock emoji) & witty thoughts all for bupkis. Now you’re telling me that I have to pay for something you gave me for free?"  <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/MonicaLewinsky> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/OpenGovernmentAdvocate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/MonicaLewinsky> <http://xmlns.com/foaf/0.1/account> <http://example.org/twitter/MonicaLewinskyAccount> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/StatusWilliamShatner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/Beyonce> <http://xmlns.com/foaf/0.1/name> "Beyoncé"  <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/StephenKing> <http://xmlns.com/foaf/0.1/name> "Stephen King"  <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/TwitterVerificationService> <http://schema.org/serviceType> "Social Media Verification"  <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/WilliamShatner> <http://dbpedia.org/ontology/age> "92"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/Twitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/ElonMusk> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Entrepreneur> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/WilliamShatnerAccount> <http://example.org/twitter/hasStatus> <http://example.org/twitter/StatusWilliamShatner> <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/PremiumSubscription> <http://schema.org/priceCurrency> "USD"  <Twitter-Al-Jazeera-4> .
+ <http://example.org/twitter/TuckerCarlson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-4> .
+ <http://example.org/AngeloCarusone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-5> .
+ <http://example.org/GeneralMillsInc> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Food_processing> <Twitter-Al-Jazeera-5> .
+ <http://example.org/TwitterPlatform> <http://dbpedia.org/ontology/feature> <http://example.org/BirdwatchTool> <Twitter-Al-Jazeera-5> .
+ <http://example.org/AngeloCarusone> <http://xmlns.com/foaf/0.1/name> "Angelo Carusone"  <Twitter-Al-Jazeera-5> .
+ <http://example.org/LayoffEvent> <http://dbpedia.org/ontology/cause> <http://example.org/RevenueDrop> <Twitter-Al-Jazeera-5> .
+ <http://example.org/KeithColeman> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/Twitter> <Twitter-Al-Jazeera-5> .
+ <http://example.org/HeadOfSafetyAndIntegrityAtTwitter> <http://dbpedia.org/ontology/title> "Head of Safety & Integrity"  <Twitter-Al-Jazeera-5> .
+ <http://example.org/LayoffEvent> <http://schema.org/startDate> "2022-11-04"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-Al-Jazeera-5> .
+ <http://example.org/YoelRoth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-5> .
+ <http://example.org/TwitterCivicIntegrityTeamManager> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <Twitter-Al-Jazeera-5> .
+ <http://example.org/ArnaudWeber> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/Twitter> <Twitter-Al-Jazeera-5> .
+ <http://example.org/TwitterBlue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Service> <Twitter-Al-Jazeera-5> .
+ <http://example.org/LayoffEvent> <http://dbpedia.org/ontology/reportedBy> <http://example.org/ReutersNewsAgency> <Twitter-Al-Jazeera-5> .
+ <http://example.org/TwitterPlatform> <http://dbpedia.org/ontology/creator> <http://example.org/TwitterInc> <Twitter-Al-Jazeera-5> .
+ <http://example.org/TwitterLawsuit> <http://dbpedia.org/ontology/reportedBy> <http://example.org/BloombergNews> <Twitter-Al-Jazeera-5> .
+ <http://example.org/AngeloCarusone> <http://dbpedia.org/ontology/occupation> <http://example.org/PresidentOfMediaMattersForAmerica> <Twitter-Al-Jazeera-5> .
+ <http://example.org/RevenueDrop> <http://schema.org/description> "Massive drop in revenue"  <Twitter-Al-Jazeera-5> .
+ <http://example.org/ArnaudWeber> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-5> .
+ <http://example.org/TwitterLawsuit> <http://dbpedia.org/ontology/date> "2022-11-03"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-Al-Jazeera-5> .
+ <http://example.org/EddiePerez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-5> .
+ <http://example.org/MediaMattersForAmerica> <http://dbpedia.org/ontology/partOf> <http://example.org/CivilRightsCoalition> <Twitter-Al-Jazeera-5> .
+ <http://example.org/EddiePerez> <http://dbpedia.org/ontology/formerOccupation> <http://example.org/TwitterCivicIntegrityTeamManager> <Twitter-Al-Jazeera-5> .
+ <http://example.org/LayoffEvent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Twitter-Al-Jazeera-5> .
+ <http://example.org/EmployeeAtTwitterBlue> <http://dbpedia.org/ontology/title> "Employee"  <Twitter-Al-Jazeera-5> .
+ <http://example.org/RonBaron> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-5> .
+ <http://example.org/VicePresidentOfProductAtTwitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <Twitter-Al-Jazeera-5> .
+ <http://example.org/PaywallBypassFeature> <http://schema.org/description> "Paywall bypass for certain publishers"  <Twitter-Al-Jazeera-5> .
+ <http://example.org/KeithColeman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-5> .
+ <http://example.org/OwnershipChange> <http://schema.org/date> "2022-10-27"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-Al-Jazeera-5> .
+ <http://example.org/PeterRahbar> <http://dbpedia.org/ontology/occupation> <http://example.org/EmploymentLawyer> <Twitter-Al-Jazeera-5> .
+ <http://example.org/VolkswagenAG> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Automotive_industry> <Twitter-Al-Jazeera-5> .
+ <http://example.org/SillyRobin> <http://xmlns.com/foaf/0.1/nick> "SillyRobin"  <Twitter-Al-Jazeera-5> .
+ <http://example.org/EmploymentLawyer> <http://dbpedia.org/ontology/title> "Employment Lawyer"  <Twitter-Al-Jazeera-5> .
+ <http://example.org/ElonMusk> <http://dbpedia.org/ontology/title> "CEO"  <Twitter-Al-Jazeera-5> .
+ <http://example.org/OwnershipChange> <http://dbpedia.org/ontology/agent> <http://example.org/ElonMusk> <Twitter-Al-Jazeera-5> .
+ <http://example.org/VolkswagenAG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Twitter-Al-Jazeera-5> .
+ <http://example.org/BirdwatchTool> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoftwareFeature> <Twitter-Al-Jazeera-5> .
+ <http://example.org/MediaMattersForAmerica> <http://dbpedia.org/ontology/type> <http://example.org/LeftWingMediaWatchdog> <Twitter-Al-Jazeera-5> .
+ <http://example.org/EmployeeAtTwitterBlue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <Twitter-Al-Jazeera-5> .
+ <http://example.org/EmploymentLawyer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <Twitter-Al-Jazeera-5> .
+ <http://example.org/KeithColeman> <http://dbpedia.org/ontology/position> <http://example.org/VicePresidentOfProductAtTwitter> <Twitter-Al-Jazeera-5> .
+ <http://example.org/VicePresidentOfProductAtTwitter> <http://dbpedia.org/ontology/title> "Vice President of Product"  <Twitter-Al-Jazeera-5> .
+ <http://example.org/RevenueDrop> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Twitter-Al-Jazeera-5> .
+ <http://example.org/LayoffEvent> <http://dbpedia.org/ontology/resultingIn> <http://example.org/ReducedWorkforce> <Twitter-Al-Jazeera-5> .
+ <http://example.org/ActingHeadOfHumanRightsAtTwitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <Twitter-Al-Jazeera-5> .
+ <http://example.org/PeterRahbar> <http://xmlns.com/foaf/0.1/name> "Peter Rahbar"  <Twitter-Al-Jazeera-5> .
+ <http://example.org/PaywallBypassFeature> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoftwareFeature> <Twitter-Al-Jazeera-5> .
+ <http://example.org/VicePresidentOfEngineeringAtTwitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <Twitter-Al-Jazeera-5> .
+ <http://example.org/YoelRoth> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/Twitter> <Twitter-Al-Jazeera-5> .
+ <http://example.org/TwitterCivicIntegrityTeamManager> <http://dbpedia.org/ontology/title> "Civic Integrity Team Manager"  <Twitter-Al-Jazeera-5> .
+ <http://example.org/YoelRoth> <http://xmlns.com/foaf/0.1/name> "Yoel Roth"  <Twitter-Al-Jazeera-5> .
+ <http://example.org/EddiePerez> <http://xmlns.com/foaf/0.1/name> "Eddie Perez"  <Twitter-Al-Jazeera-5> .
+ <http://example.org/VicePresidentOfEngineeringAtTwitter> <http://dbpedia.org/ontology/title> "Vice President of Engineering"  <Twitter-Al-Jazeera-5> .
+ <http://example.org/TwitterBlue> <http://dbpedia.org/ontology/feature> <http://example.org/PaywallBypassFeature> <Twitter-Al-Jazeera-5> .
+ <http://example.org/ElonMusk> <http://xmlns.com/foaf/0.1/name> "Elon Musk"  <Twitter-Al-Jazeera-5> .
+ <http://example.org/KeithColeman> <http://xmlns.com/foaf/0.1/name> "Keith Coleman"  <Twitter-Al-Jazeera-5> .
+ <http://example.org/OwnershipChange> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Twitter-Al-Jazeera-5> .
+ <http://example.org/TwitterInc> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Social_media> <Twitter-Al-Jazeera-5> .
+ <http://example.org/SillyRobin> <http://dbpedia.org/ontology/occupation> <http://example.org/EmployeeAtTwitterBlue> <Twitter-Al-Jazeera-5> .
+ <http://example.org/PeterRahbar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-5> .
+ <http://example.org/MediaMattersForAmerica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Twitter-Al-Jazeera-5> .
+ <http://example.org/TwitterPlatform> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Twitter-Al-Jazeera-5> .
+ <http://example.org/GeneralMillsInc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Twitter-Al-Jazeera-5> .
+ <http://example.org/BirdwatchTool> <http://dbpedia.org/ontology/creator> <http://example.org/KeithColeman> <Twitter-Al-Jazeera-5> .
+ <http://example.org/ElonMusk> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Entrepreneur> <Twitter-Al-Jazeera-5> .
+ <http://example.org/TwitterInc> <http://dbpedia.org/ontology/layoff> <http://example.org/LayoffEvent> <Twitter-Al-Jazeera-5> .
+ <http://example.org/ShannonRajSingh> <http://xmlns.com/foaf/0.1/name> "Shannon Raj Singh"  <Twitter-Al-Jazeera-5> .
+ <http://example.org/TwitterInc> <http://dbpedia.org/ontology/numberOfEmployees> "3700"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-Al-Jazeera-5> .
+ <http://example.org/RevenueDrop> <http://dbpedia.org/ontology/agent> <http://example.org/ElonMusk> <Twitter-Al-Jazeera-5> .
+ <http://example.org/ElonMusk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-5> .
+ <http://example.org/CivilRightsCoalition> <http://dbpedia.org/ontology/purpose> "Civil Rights Advocacy"  <Twitter-Al-Jazeera-5> .
+ <http://example.org/RonBaron> <http://xmlns.com/foaf/0.1/name> "Ron Baron"  <Twitter-Al-Jazeera-5> .
+ <http://example.org/TwitterBlue> <http://dbpedia.org/ontology/provider> <http://example.org/TwitterInc> <Twitter-Al-Jazeera-5> .
+ <http://example.org/ReducedWorkforce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Twitter-Al-Jazeera-5> .
+ <http://example.org/GeneralMotorsCo> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Automotive_industry> <Twitter-Al-Jazeera-5> .
+ <http://example.org/YoelRoth> <http://dbpedia.org/ontology/position> <http://example.org/HeadOfSafetyAndIntegrityAtTwitter> <Twitter-Al-Jazeera-5> .
+ <http://example.org/TwitterInc> <http://dbpedia.org/ontology/product> <http://example.org/TwitterPlatform> <Twitter-Al-Jazeera-5> .
+ <http://example.org/TwitterInc> <http://dbpedia.org/ontology/owner> <http://example.org/ElonMusk> <Twitter-Al-Jazeera-5> .
+ <http://example.org/EmployeeAtTwitterBlue> <http://dbpedia.org/ontology/employer> <http://example.org/TwitterBlue> <Twitter-Al-Jazeera-5> .
+ <http://example.org/TwitterLawsuit> <http://dbpedia.org/ontology/cause> <http://example.org/LayoffEvent> <Twitter-Al-Jazeera-5> .
+ <http://example.org/GeneralMotorsCo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Twitter-Al-Jazeera-5> .
+ <http://example.org/ArnaudWeber> <http://xmlns.com/foaf/0.1/name> "Arnaud Weber"  <Twitter-Al-Jazeera-5> .
+ <http://example.org/PresidentOfMediaMattersForAmerica> <http://dbpedia.org/ontology/employer> <http://example.org/MediaMattersForAmerica> <Twitter-Al-Jazeera-5> .
+ <http://example.org/ShannonRajSingh> <http://dbpedia.org/ontology/position> <http://example.org/ActingHeadOfHumanRightsAtTwitter> <Twitter-Al-Jazeera-5> .
+ <http://example.org/ArnaudWeber> <http://dbpedia.org/ontology/position> <http://example.org/VicePresidentOfEngineeringAtTwitter> <Twitter-Al-Jazeera-5> .
+ <http://example.org/ShannonRajSingh> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/Twitter> <Twitter-Al-Jazeera-5> .
+ <http://example.org/PresidentOfMediaMattersForAmerica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <Twitter-Al-Jazeera-5> .
+ <http://example.org/SillyRobin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-5> .
+ <http://example.org/TwitterInc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Twitter-Al-Jazeera-5> .
+ <http://example.org/PresidentOfMediaMattersForAmerica> <http://dbpedia.org/ontology/title> "President"  <Twitter-Al-Jazeera-5> .
+ <http://example.org/HeadOfSafetyAndIntegrityAtTwitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <Twitter-Al-Jazeera-5> .
+ <http://example.org/TwitterLawsuit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Twitter-Al-Jazeera-5> .
+ <http://example.org/LayoffEvent> <http://dbpedia.org/ontology/cause> <http://example.org/OwnershipChange> <Twitter-Al-Jazeera-5> .
+ <http://example.org/RonBaron> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Investor> <Twitter-Al-Jazeera-5> .
+ <http://example.org/ElonMusk> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/Twitter> <Twitter-Al-Jazeera-5> .
+ <http://example.org/ReducedWorkforce> <http://dbpedia.org/ontology/numberOfAffectedEmployees> "3700"^^<http://www.w3.org/2001/XMLSchema#integer>  <Twitter-Al-Jazeera-5> .
+ <http://example.org/CivilRightsCoalition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Twitter-Al-Jazeera-5> .
+ <http://example.org/ActingHeadOfHumanRightsAtTwitter> <http://dbpedia.org/ontology/title> "Acting Head of Human Rights"  <Twitter-Al-Jazeera-5> .
+ <http://example.org/ShannonRajSingh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-5> .
+ <http://example.org/StephenKing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-6> .
+ <http://example.org/LegacyAccount> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserAccount> <Twitter-Al-Jazeera-6> .
+ <http://example.org/KimKardashian> <http://dbpedia.org/ontology/checkmarkStatus> "removed"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-Al-Jazeera-6> .
+ <http://example.org/JeffBezosFakeAccount> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/UserAccount> <Twitter-Al-Jazeera-6> .
+ <http://example.org/TwitterBlue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Service> <Twitter-Al-Jazeera-6> .
+ <http://example.org/StephenKing> <http://schema.org/memberOf> <http://example.org/Twitter> <Twitter-Al-Jazeera-6> .
+ <http://example.org/BillGates> <http://dbpedia.org/ontology/checkmarkStatus> "removed"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-Al-Jazeera-6> .
+ <http://example.org/Twitter> <http://dbpedia.org/ontology/acquisition> <http://example.org/TwitterAcquisitionByElonMusk> <Twitter-Al-Jazeera-6> .
+ <http://example.org/Twitter> <http://dbpedia.org/ontology/founder> <http://example.org/JackDorsey> <Twitter-Al-Jazeera-6> .
+ <http://example.org/BillGates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-6> .
+ <http://example.org/BillGates> <http://schema.org/memberOf> <http://example.org/Twitter> <Twitter-Al-Jazeera-6> .
+ <http://example.org/LegacyAccount> <http://schema.org/memberOf> <http://example.org/Twitter> <Twitter-Al-Jazeera-6> .
+ <http://example.org/CheckmarkRemovalEvent> <http://dbpedia.org/ontology/date> "2023-04-20"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-Al-Jazeera-6> .
+ <http://example.org/KimKardashian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-6> .
+ <http://example.org/VerifiedMediaOutlet> <http://dbpedia.org/ontology/checkmarkStatus> "gold"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-Al-Jazeera-6> .
+ <http://example.org/JeffBezosFakeAccount> <http://schema.org/memberOf> <http://example.org/Twitter> <Twitter-Al-Jazeera-6> .
+ <http://example.org/StephenKing> <http://dbpedia.org/ontology/checkmarkStatus> "retained"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-Al-Jazeera-6> .
+ <http://example.org/GovernmentAgency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-Al-Jazeera-6> .
+ <http://example.org/VerifiedMediaOutlet> <http://schema.org/memberOf> <http://example.org/Twitter> <Twitter-Al-Jazeera-6> .
+ <http://example.org/GovernmentAgency> <http://schema.org/memberOf> <http://example.org/Twitter> <Twitter-Al-Jazeera-6> .
+ <http://example.org/TwitterBlue> <http://dbpedia.org/ontology/parentCompany> <http://example.org/Twitter> <Twitter-Al-Jazeera-6> .
+ <http://example.org/JeffBezos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-6> .
+ <http://example.org/HumanRightsWatch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Twitter-Al-Jazeera-6> .
+ <http://example.org/PopeFrancis> <http://dbpedia.org/ontology/checkmarkStatus> "removed"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-Al-Jazeera-6> .
+ <http://example.org/ImpersonationIssue> <http://dbpedia.org/ontology/cause> "Impersonation accounts"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-Al-Jazeera-6> .
+ <http://example.org/StephenKing> <http://xmlns.com/foaf/0.1/name> "Stephen King"  <Twitter-Al-Jazeera-6> .
+ <http://example.org/JeffBezos> <http://schema.org/memberOf> <http://example.org/Twitter> <Twitter-Al-Jazeera-6> .
+ <http://example.org/JeffBezos> <http://xmlns.com/foaf/0.1/name> "Jeff Bezos"  <Twitter-Al-Jazeera-6> .
+ <http://example.org/ElonMusk> <http://dbpedia.org/ontology/netWorth> "44bn"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Twitter-Al-Jazeera-6> .
+ <http://example.org/ImpersonationIssue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Twitter-Al-Jazeera-6> .
+ <http://example.org/PopeFrancis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-6> .
+ <http://example.org/ImpersonationIssue> <http://dbpedia.org/ontology/related> <http://example.org/TwitterBlue> <Twitter-Al-Jazeera-6> .
+ <http://example.org/HumanRightsWatch> <http://xmlns.com/foaf/0.1/name> "Human Rights Watch"  <Twitter-Al-Jazeera-6> .
+ <http://example.org/ElonMusk> <http://xmlns.com/foaf/0.1/name> "Elon Musk"  <Twitter-Al-Jazeera-6> .
+ <http://example.org/GovernmentAgency> <http://dbpedia.org/ontology/checkmarkStatus> "grey"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-Al-Jazeera-6> .
+ <http://example.org/PopeFrancis> <http://xmlns.com/foaf/0.1/name> "Pope Francis"  <Twitter-Al-Jazeera-6> .
+ <http://example.org/HumanRightsWatch> <http://schema.org/memberOf> <http://example.org/Twitter> <Twitter-Al-Jazeera-6> .
+ <http://example.org/BillGates> <http://xmlns.com/foaf/0.1/name> "Bill Gates"  <Twitter-Al-Jazeera-6> .
+ <http://example.org/ElonMusk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-6> .
+ <http://example.org/StephenKing> <http://dbpedia.org/ontology/claim> "Not subscribed to Twitter Blue"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-Al-Jazeera-6> .
+ <http://example.org/TwitterBlue> <http://dbpedia.org/ontology/price> "8"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Twitter-Al-Jazeera-6> .
+ <http://example.org/NAACP> <http://schema.org/memberOf> <http://example.org/Twitter> <Twitter-Al-Jazeera-6> .
+ <http://example.org/TwitterAcquisitionByElonMusk> <http://dbpedia.org/ontology/acquired> <http://example.org/Twitter> <Twitter-Al-Jazeera-6> .
+ <http://example.org/CheckmarkRemovalEvent> <http://dbpedia.org/ontology/related> <http://example.org/TwitterBlue> <Twitter-Al-Jazeera-6> .
+ <http://example.org/TwitterAcquisitionByElonMusk> <http://dbpedia.org/ontology/acquirer> <http://example.org/ElonMusk> <Twitter-Al-Jazeera-6> .
+ <http://example.org/CheckmarkRemovalEvent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Twitter-Al-Jazeera-6> .
+ <http://example.org/VerifiedMediaOutlet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Twitter-Al-Jazeera-6> .
+ <http://example.org/TwitterBlue> <http://dbpedia.org/ontology/founder> <http://example.org/ElonMusk> <Twitter-Al-Jazeera-6> .
+ <http://example.org/JeffBezosFakeAccount> <http://dbpedia.org/ontology/fakeDeclaration> "officially shutting down Amazon"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-Al-Jazeera-6> .
+ <http://example.org/KimKardashian> <http://schema.org/memberOf> <http://example.org/Twitter> <Twitter-Al-Jazeera-6> .
+ <http://example.org/LegacyAccount> <http://dbpedia.org/ontology/status> "verified"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-Al-Jazeera-6> .
+ <http://example.org/CheckmarkRemovalEvent> <http://dbpedia.org/ontology/cause> "Non-payment for Twitter Blue subscription"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-Al-Jazeera-6> .
+ <http://example.org/JeffBezos> <http://dbpedia.org/ontology/impersonatedAccount> <http://example.org/JeffBezosFakeAccount> <Twitter-Al-Jazeera-6> .
+ <http://example.org/ImpersonationIssue> <http://dbpedia.org/ontology/date> "2022-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Twitter-Al-Jazeera-6> .
+ <http://example.org/TwitterAcquisitionByElonMusk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Twitter-Al-Jazeera-6> .
+ <http://example.org/NAACP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Twitter-Al-Jazeera-6> .
+ <http://example.org/TwitterBlue> <http://dbpedia.org/ontology/launchYear> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Twitter-Al-Jazeera-6> .
+ <http://example.org/Twitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Twitter-Al-Jazeera-6> .
+ <http://example.org/TwitterAcquisitionByElonMusk> <http://dbpedia.org/ontology/price> "44bn"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Twitter-Al-Jazeera-6> .
+ <http://example.org/HumanRightsWatch> <http://dbpedia.org/ontology/checkmarkStatus> "removed"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-Al-Jazeera-6> .
+ <http://example.org/NAACP> <http://dbpedia.org/ontology/checkmarkStatus> "removed"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-Al-Jazeera-6> .
+ <http://example.org/NAACP> <http://xmlns.com/foaf/0.1/name> "National Association for the Advancement of Colored People"  <Twitter-Al-Jazeera-6> .
+ <http://example.org/PopeFrancis> <http://schema.org/memberOf> <http://example.org/Twitter> <Twitter-Al-Jazeera-6> .
+ <http://example.org/KimKardashian> <http://xmlns.com/foaf/0.1/name> "Kim Kardashian"  <Twitter-Al-Jazeera-6> .
+ <http://example.org/entities/ElonMusk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/VijayaGadde> <http://dbpedia.org/ontology/position> <http://example.org/entities/HeadLegalPolicyTrust_Twitter> <Twitter-Al-Jazeera-7> .
+ <http://Twitter-Al-Jazeera-7.com/blank#n6191e86a813a425b83cbe711701ee313b2> <http://dbpedia.org/ontology/causedBy> <http://example.org/entities/ElonMuskTakingControlOfTwitter> <Twitter-Al-Jazeera-7> .
+ <http://Twitter-Al-Jazeera-7.com/blank#n6191e86a813a425b83cbe711701ee313b1> <http://dbpedia.org/ontology/actor> <http://example.org/entities/ElonMusk> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/FiringNedSegal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/ElonMuskTakingControlOfTwitter> <http://dbpedia.org/ontology/result> <http://Twitter-Al-Jazeera-7.com/blank#n6191e86a813a425b83cbe711701ee313b1>  <Twitter-Al-Jazeera-7> .
+ <http://Twitter-Al-Jazeera-7.com/blank#n6191e86a813a425b83cbe711701ee313b2> <http://dbpedia.org/ontology/resultingEvent> <http://example.org/entities/FiringSeanEdgett> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/FiringVijayaGadde> <http://dbpedia.org/ontology/actor> <http://example.org/entities/ElonMusk> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/ElonMusk> <http://dbpedia.org/ontology/networth> "$44bn"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/FiringNedSegal> <http://dbpedia.org/ontology/actor> <http://example.org/entities/ElonMusk> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/FiringExecutives> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/ElonMuskTweet> <http://schema.org/articleBody> "the bird is freed"  <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/FiringExecutives> <http://dbpedia.org/ontology/actor> <http://example.org/entities/ElonMusk> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/ElonMuskTweet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPosting> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/PurchaseOfTwitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/NedSegal> <http://dbpedia.org/ontology/position> <http://example.org/entities/CFO_Twitter> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/ElonMuskTakingControlOfTwitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/ParagAgrawal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/NedSegal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/ElonMuskPoliticalViews> <http://dbpedia.org/ontology/ideology> "moderate"  <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/PurchaseOfTwitter> <http://dbpedia.org/ontology/actor> <http://example.org/entities/ElonMusk> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/FiringSeanEdgett> <http://schema.org/actionStatus> "Reported"  <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/FiringParagAgrawal> <http://dbpedia.org/ontology/actor> <http://example.org/entities/ElonMusk> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/ParagAgrawal> <http://dbpedia.org/ontology/employer> <http://example.org/entities/Twitter> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/PurchaseOfTwitter> <http://schema.org/price> "$44bn"^^<http://www.w3.org/2001/XMLSchema#string>  <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/ElonMuskTweet> <http://schema.org/datePublished> "2023-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/ElonMusk> <http://dbpedia.org/ontology/occupation> <http://example.org/entities/CEO_Tesla> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/Twitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/Twitter> <http://dbpedia.org/ontology/headquarter> <http://dbpedia.org/resource/United_States> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/VijayaGadde> <http://dbpedia.org/ontology/employer> <http://example.org/entities/Twitter> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/FiringParagAgrawal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/Twitter> <http://dbpedia.org/ontology/logo> "bird logo"  <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/ParagAgrawal> <http://dbpedia.org/ontology/position> <http://example.org/entities/CEO_Twitter> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/NedSegal> <http://xmlns.com/foaf/0.1/name> "Ned Segal"  <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/Twitter> <http://dbpedia.org/ontology/owner> <http://example.org/entities/ElonMusk> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/ElonMusk> <http://dbpedia.org/ontology/politicalParty> <http://dbpedia.org/resource/Republican_Party> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/VijayaGadde> <http://xmlns.com/foaf/0.1/name> "Vijaya Gadde"  <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/SeanEdgett> <http://dbpedia.org/ontology/employer> <http://example.org/entities/Twitter> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/FiringExecutives> <http://dbpedia.org/ontology/result> <http://Twitter-Al-Jazeera-7.com/blank#n6191e86a813a425b83cbe711701ee313b2>  <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/SeanEdgett> <http://xmlns.com/foaf/0.1/name> "Sean Edgett"  <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/ElonMuskPoliticalViews> <http://schema.org/author> <http://example.org/entities/ElonMusk> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/FiringParagAgrawal> <http://dbpedia.org/ontology/affected> <http://example.org/entities/ParagAgrawal> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/FiringSeanEdgett> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/ElonMusk> <http://xmlns.com/foaf/0.1/name> "Elon Musk"  <Twitter-Al-Jazeera-7> .
+ <http://Twitter-Al-Jazeera-7.com/blank#n6191e86a813a425b83cbe711701ee313b2> <http://dbpedia.org/ontology/resultingEvent> <http://example.org/entities/FiringNedSegal> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/FiringSeanEdgett> <http://dbpedia.org/ontology/affected> <http://example.org/entities/SeanEdgett> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/FiringSeanEdgett> <http://dbpedia.org/ontology/actor> <http://example.org/entities/ElonMusk> <Twitter-Al-Jazeera-7> .
+ <http://Twitter-Al-Jazeera-7.com/blank#n6191e86a813a425b83cbe711701ee313b1> <http://dbpedia.org/ontology/resultingEvent> <http://example.org/entities/FiringExecutives> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/FiringNedSegal> <http://schema.org/actionStatus> "Reported"  <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/ElonMuskTweet> <http://schema.org/author> <http://example.org/entities/ElonMusk> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/Twitter> <http://dbpedia.org/ontology/industry> "Social Media"  <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/NedSegal> <http://dbpedia.org/ontology/employer> <http://example.org/entities/Twitter> <Twitter-Al-Jazeera-7> .
+ <http://Twitter-Al-Jazeera-7.com/blank#n6191e86a813a425b83cbe711701ee313b2> <http://dbpedia.org/ontology/actor> <http://example.org/entities/ElonMusk> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/VijayaGadde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/FiringParagAgrawal> <http://schema.org/actionStatus> "Reported"  <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/Twitter> <http://xmlns.com/foaf/0.1/name> "Twitter"  <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/FiringVijayaGadde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Twitter-Al-Jazeera-7> .
+ <http://Twitter-Al-Jazeera-7.com/blank#n6191e86a813a425b83cbe711701ee313b1> <http://dbpedia.org/ontology/causedBy> <http://example.org/entities/PurchaseOfTwitter> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/PurchaseOfTwitter> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Free_speech> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/ElonMuskTakingControlOfTwitter> <http://dbpedia.org/ontology/influencedBy> <http://dbpedia.org/resource/Free_speech> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/ElonMuskTakingControlOfTwitter> <http://dbpedia.org/ontology/actor> <http://example.org/entities/ElonMusk> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/SeanEdgett> <http://dbpedia.org/ontology/position> <http://example.org/entities/GeneralCounsel_Twitter> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/ElonMusk> <http://xmlns.com/foaf/0.1/depiction> <https://twitter.com/elonmusk> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/PurchaseOfTwitter> <http://dbpedia.org/ontology/startDate> "2023-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/FiringVijayaGadde> <http://dbpedia.org/ontology/affected> <http://example.org/entities/VijayaGadde> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/ParagAgrawal> <http://xmlns.com/foaf/0.1/name> "Parag Agrawal"  <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/SeanEdgett> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-7> .
+ <http://Twitter-Al-Jazeera-7.com/blank#n6191e86a813a425b83cbe711701ee313b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Action> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/FiringNedSegal> <http://dbpedia.org/ontology/affected> <http://example.org/entities/NedSegal> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/ElonMuskPoliticalViews> <http://dbpedia.org/ontology/politicalParty> <http://dbpedia.org/resource/Republican_Party> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/ElonMuskPoliticalViews> <http://dbpedia.org/ontology/politicalParty> <http://dbpedia.org/resource/Democratic_Party> <Twitter-Al-Jazeera-7> .
+ <http://Twitter-Al-Jazeera-7.com/blank#n6191e86a813a425b83cbe711701ee313b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Action> <Twitter-Al-Jazeera-7> .
+ <http://Twitter-Al-Jazeera-7.com/blank#n6191e86a813a425b83cbe711701ee313b2> <http://dbpedia.org/ontology/resultingEvent> <http://example.org/entities/FiringParagAgrawal> <Twitter-Al-Jazeera-7> .
+ <http://Twitter-Al-Jazeera-7.com/blank#n6191e86a813a425b83cbe711701ee313b1> <http://schema.org/actionStatus> "Completed"  <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/ElonMuskPoliticalViews> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PoliticalView> <Twitter-Al-Jazeera-7> .
+ <http://Twitter-Al-Jazeera-7.com/blank#n6191e86a813a425b83cbe711701ee313b2> <http://schema.org/actionStatus> "Reported"  <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/FiringVijayaGadde> <http://schema.org/actionStatus> "Reported"  <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/PurchaseOfTwitter> <http://dbpedia.org/ontology/result> <http://example.org/entities/ElonMuskTakingControlOfTwitter> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/ElonMusk> <http://dbpedia.org/ontology/interest> <http://dbpedia.org/resource/Free_speech> <Twitter-Al-Jazeera-7> .
+ <http://Twitter-Al-Jazeera-7.com/blank#n6191e86a813a425b83cbe711701ee313b2> <http://dbpedia.org/ontology/resultingEvent> <http://example.org/entities/FiringVijayaGadde> <Twitter-Al-Jazeera-7> .
+ <http://example.org/entities/ElonMusk> <http://schema.org/description> "world’s richest man"  <Twitter-Al-Jazeera-7> .
+ <http://example.org/PrivacyInternationalAuthor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-8> .
+ <http://example.org/PrivacyInternationalAuthor> <http://xmlns.com/foaf/0.1/name> "Privacy International"  <Twitter-Al-Jazeera-8> .
+ <http://example.org/AdTechIndustryOpacity> <http://schema.org/datePublished> "2023-04-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-Al-Jazeera-8> .
+ <http://example.org/AdTechIndustryOpacity> <http://schema.org/author> <http://example.org/PrivacyInternationalAuthor> <Twitter-Al-Jazeera-8> .
+ <http://example.org/AdTechIndustryOpacity> <http://purl.org/dc/elements/1.1/publisher> <http://example.org/AlJazeera> <Twitter-Al-Jazeera-8> .
+ <http://example.org/AdTechIndustryOpacity> <http://schema.org/articleBody> "\n        In the wake of Elon Musk’s chaotic takeover of Twitter, several of the world’s largest ad agencies have advised clients to pause advertising their brands on the social media network due to concerns over “brand safety”. Thousands of Twitter employees either quit or were let go which reportedly affected moderation capacities, including those dedicated to ensuring adverts do not appear next to online content that could damage the image or reputation of a brand.\n        \n        But advertising on Twitter was risky even before Musk took over. In general, advertising on social media is fraught with serious traps for brands. Rolling news feeds plus potential widespread hate speech and disinformation could result in reputational damage with every scroll if there is a misstep.\n        \n        No airline wants their adverts placed next to breaking news of a plane crash. No brand would tolerate their product appearing beside posts soliciting child abuse material, praising terrorist acts or commending a famous footballer for drop-kicking his cat.\n        \n        Musk has reportedly tried wooing back some advertisers with generous incentives, such as offering to match their ad spending, but it is not clear whether this has worked.\n        \n        With no solid guarantee that brand-damaging incidents would be prevented, advertisers will likely return only when the new leadership of the company makes clear their plans for brand trust and safety, and rightly so.\n        \n        But beyond the walled garden of social media platform advertising, there is a whole online advertising industry ecosystem out there increasingly presenting a new challenge to brand safety. In our investigations of the ad tech and data broker industry, we have been shocked to see how intrusive and harmful it has become.\n        \n        These are companies you have never heard of, the mysterious “third parties” or “business partners” sometimes referenced in so many clicked-accept-but-didn’t-read privacy policies. Their business is to collect a huge amount of personal information from all over the internet and essentially sell it for marketing purposes.\n        \n        We have evidence of personal information being collected from pregnant women through online parenting clubs, from mothers who have just given birth in hospitals in the United Kingdom by marketing companies allowed in the wards and from people who have visited mental health websites in Europe. This data is then shared with third-party marketers without these people’s knowledge.\n        \n        Because of the nature of the data broker industry, sensitive information like this is likely being sold and resold and could end up in an advertiser’s data supply chain without them knowing.\n        \n        Imagine the damage to a brand’s reputation if data illegally collected from women who suffered miscarriages is found to be used by a company selling baby products. This could result in women already going through the trauma of losing a pregnancy repeatedly seeing online adverts for diapers and formula, for example.\n        \n        This is a horrific situation that a brand does not want to be anywhere near, but our question to advertisers is – can you be sure that no data in your supply chain has been collected in this way?\n        \n        We understand that brands may not have full visibility of what is going on lower down in the data supply chain and we believe that if brands did know, they would want to make a change. It is an issue of increasing importance, as privacy-focused NGOs are increasing their scrutiny and regulators are starting to take notice. It is only a matter of time before attention turns to the role of advertisers in financing this industry.\n        \n        We, at Privacy International, spent many months reaching out to advertisers, presenting our evidence, outlining our concerns and suggesting practical steps they can take to improve the online advertising landscape and reduce harm.\n        \n        Advertisers can start by raising these concerns with their ad agencies and exploring alternatives to the current advertising status quo. There is space for a privacy-respecting system that relies on minimum data from consumers, but the current ecosystem promotes an intrusive all-or-nothing approach.\n        \n        The truth is, surveillance-based advertising is not that effective and risking customers’ privacy is probably not a price worth paying for it. There is so little transparency in the industry that advertisers cannot know for sure how many consumers are actually exposed to their ads. There is also the issue of fraud, where clicks and views are inflated; one estimate puts losses for advertisers as a result of such practices at $23bn.\n        \n        To minimise their risks and protect their customers, companies could conduct a data supply chain audit, looking in particular at third-party databases and auction systems used by ad tech companies and data brokers.\n        \n        Companies already audit and monitor internal data practices, returns on ad spend, and protection for the brand image by controlling and verifying where ads are being served; they also do human rights due diligence in the whole supply chain. Utilising these existing audits to demand accountability and transparency on personal data usage can be a way to curb harmful practices and protect customers.\n        \n        Advertisers are already showing they can flex some muscle in public when it comes to protecting their brand. They can also do so to protect their customers, too and show them they care for their privacy.\n    "  <Twitter-Al-Jazeera-8> .
+ <http://example.org/AdTechIndustryOpacity> <http://schema.org/headline> "The opacity of the ad tech industry can be costly for brands. It’s time to embrace surveillance-free advertising."  <Twitter-Al-Jazeera-8> .
+ <http://example.org/AlJazeera> <http://xmlns.com/foaf/0.1/name> "Al Jazeera"  <Twitter-Al-Jazeera-8> .
+ <http://example.org/AlJazeera> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Twitter-Al-Jazeera-8> .
+ <http://example.org/AdTechIndustryOpacity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> <Twitter-Al-Jazeera-8> .
+ <http://example.org/QatarInvestmentAuthority> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Twitter-Al-Jazeera-9> .
+ <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b6> <http://xmlns.com/foaf/0.1/name> "Bank of America"  <Twitter-Al-Jazeera-9> .
+ <http://example.org/LarryEllison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-9> .
+ <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Investment> <Twitter-Al-Jazeera-9> .
+ <http://example.org/ElonMusk> <http://dbpedia.org/ontology/shareholding> <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b1>  <Twitter-Al-Jazeera-9> .
+ <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b8> <http://xmlns.com/foaf/0.1/name> "Mizuho"  <Twitter-Al-Jazeera-9> .
+ <http://example.org/TeslaShareSale> <http://dbpedia.org/ontology/owner> <http://example.org/ElonMusk> <Twitter-Al-Jazeera-9> .
+ <http://example.org/ElonMusk> <http://dbpedia.org/ontology/netWorth> "220000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Twitter-Al-Jazeera-9> .
+ <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bank> <Twitter-Al-Jazeera-9> .
+ <http://example.org/TwitterTakeover> <http://dbpedia.org/ontology/money> "44000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Twitter-Al-Jazeera-9> .
+ <http://example.org/BankLoans> <http://dbpedia.org/ontology/creditor> <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b6>  <Twitter-Al-Jazeera-9> .
+ <http://example.org/InvestmentFunds> <http://dbpedia.org/ontology/amount> "5200000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Twitter-Al-Jazeera-9> .
+ <http://example.org/TeslaShareSale> <http://dbpedia.org/ontology/amount> "15500000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Twitter-Al-Jazeera-9> .
+ <http://example.org/TeslaShareSale> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FinancialAsset> <Twitter-Al-Jazeera-9> .
+ <http://example.org/TwitterTakeover> <http://dbpedia.org/ontology/acquisitionOf> <http://dbpedia.org/resource/Twitter> <Twitter-Al-Jazeera-9> .
+ <http://example.org/BankLoans> <http://dbpedia.org/ontology/amount> "13000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Twitter-Al-Jazeera-9> .
+ <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b7> <http://xmlns.com/foaf/0.1/name> "Mitsubishi UFJ Financial Group"  <Twitter-Al-Jazeera-9> .
+ <http://example.org/BankLoans> <http://dbpedia.org/ontology/creditor> <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b10>  <Twitter-Al-Jazeera-9> .
+ <http://example.org/TwitterTakeover> <http://schema.org/endDate> "2022-08-31"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-Al-Jazeera-9> .
+ <http://example.org/QatarHolding> <http://dbpedia.org/ontology/investment> <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b3>  <Twitter-Al-Jazeera-9> .
+ <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b12> <http://dbpedia.org/ontology/timePeriod> "2022-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Twitter-Al-Jazeera-9> .
+ <http://example.org/BankLoans> <http://dbpedia.org/ontology/creditor> <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b7>  <Twitter-Al-Jazeera-9> .
+ <http://example.org/TwitterTakeover> <http://schema.org/agent> <http://example.org/ElonMusk> <Twitter-Al-Jazeera-9> .
+ <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Shareholding> <Twitter-Al-Jazeera-9> .
+ <http://example.org/Twitter> <http://dbpedia.org/ontology/operatingIncome> <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b12>  <Twitter-Al-Jazeera-9> .
+ <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Investment> <Twitter-Al-Jazeera-9> .
+ <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b10> <http://xmlns.com/foaf/0.1/name> "Societe Generale"  <Twitter-Al-Jazeera-9> .
+ <http://example.org/QatarInvestmentAuthority> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Qatar> <Twitter-Al-Jazeera-9> .
+ <http://example.org/BankLoans> <http://dbpedia.org/ontology/creditor> <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b5>  <Twitter-Al-Jazeera-9> .
+ <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b12> <http://dbpedia.org/ontology/operatingLoss> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <Twitter-Al-Jazeera-9> .
+ <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bank> <Twitter-Al-Jazeera-9> .
+ <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b2> <http://dbpedia.org/ontology/investedIn> <http://example.org/TwitterTakeover> <Twitter-Al-Jazeera-9> .
+ <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b11> <http://xmlns.com/foaf/0.1/name> "BNP Paribas"  <Twitter-Al-Jazeera-9> .
+ <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bank> <Twitter-Al-Jazeera-9> .
+ <http://example.org/PersonalContribution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FinancialAsset> <Twitter-Al-Jazeera-9> .
+ <http://example.org/QatarHolding> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Twitter-Al-Jazeera-9> .
+ <http://example.org/PrinceAlwaleedBinTalal> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Saudi_Arabia> <Twitter-Al-Jazeera-9> .
+ <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Financial> <Twitter-Al-Jazeera-9> .
+ <http://example.org/PersonalContribution> <http://dbpedia.org/ontology/amount> "27000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Twitter-Al-Jazeera-9> .
+ <http://example.org/ElonMusk> <http://xmlns.com/foaf/0.1/name> "Elon Musk"  <Twitter-Al-Jazeera-9> .
+ <http://example.org/LarryEllison> <http://dbpedia.org/ontology/investment> <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b2>  <Twitter-Al-Jazeera-9> .
+ <http://example.org/BankLoans> <http://dbpedia.org/ontology/creditor> <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b9>  <Twitter-Al-Jazeera-9> .
+ <http://example.org/TwitterTakeover> <http://schema.org/startDate> "2022-04-14"^^<http://www.w3.org/2001/XMLSchema#date>  <Twitter-Al-Jazeera-9> .
+ <http://example.org/LarryEllison> <http://dbpedia.org/ontology/founder> <http://dbpedia.org/resource/Oracle_Corporation> <Twitter-Al-Jazeera-9> .
+ <http://example.org/BankLoans> <http://dbpedia.org/ontology/creditor> <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b8>  <Twitter-Al-Jazeera-9> .
+ <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b9> <http://xmlns.com/foaf/0.1/name> "Barclays"  <Twitter-Al-Jazeera-9> .
+ <http://example.org/InvestmentFunds> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FinancialAsset> <Twitter-Al-Jazeera-9> .
+ <http://example.org/ElonMusk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-9> .
+ <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b4> <http://dbpedia.org/ontology/shares> "35000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Twitter-Al-Jazeera-9> .
+ <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bank> <Twitter-Al-Jazeera-9> .
+ <http://example.org/LarryEllison> <http://xmlns.com/foaf/0.1/name> "Larry Ellison"  <Twitter-Al-Jazeera-9> .
+ <http://example.org/TwitterTakeover> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Twitter-Al-Jazeera-9> .
+ <http://example.org/PrinceAlwaleedBinTalal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Twitter-Al-Jazeera-9> .
+ <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Shareholding> <Twitter-Al-Jazeera-9> .
+ <http://example.org/PersonalContribution> <http://dbpedia.org/ontology/owner> <http://example.org/ElonMusk> <Twitter-Al-Jazeera-9> .
+ <http://example.org/BankLoans> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FinancialAsset> <Twitter-Al-Jazeera-9> .
+ <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b2> <http://dbpedia.org/ontology/amount> "1000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Twitter-Al-Jazeera-9> .
+ <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b3> <http://dbpedia.org/ontology/investedIn> <http://example.org/TwitterTakeover> <Twitter-Al-Jazeera-9> .
+ <http://example.org/PrinceAlwaleedBinTalal> <http://dbpedia.org/ontology/shareholding> <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b4>  <Twitter-Al-Jazeera-9> .
+ <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b5> <http://xmlns.com/foaf/0.1/name> "Morgan Stanley"  <Twitter-Al-Jazeera-9> .
+ <http://example.org/BankLoans> <http://dbpedia.org/ontology/creditor> <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b11>  <Twitter-Al-Jazeera-9> .
+ <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bank> <Twitter-Al-Jazeera-9> .
+ <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b4> <http://dbpedia.org/ontology/company> <http://dbpedia.org/resource/Twitter> <Twitter-Al-Jazeera-9> .
+ <http://example.org/Twitter> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/California> <Twitter-Al-Jazeera-9> .
+ <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b1> <http://dbpedia.org/ontology/shares> "9.6"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Twitter-Al-Jazeera-9> .
+ <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bank> <Twitter-Al-Jazeera-9> .
+ <http://example.org/QatarHolding> <http://dbpedia.org/ontology/owner> <http://example.org/QatarInvestmentAuthority> <Twitter-Al-Jazeera-9> .
+ <http://example.org/Twitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Twitter-Al-Jazeera-9> .
+ <http://example.org/PrinceAlwaleedBinTalal> <http://xmlns.com/foaf/0.1/name> "Prince Alwaleed bin Talal"  <Twitter-Al-Jazeera-9> .
+ <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b5> <http://dbpedia.org/ontology/amount> "3500000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Twitter-Al-Jazeera-9> .
+ <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bank> <Twitter-Al-Jazeera-9> .
+ <http://Twitter-Al-Jazeera-9.com/blank#nfcde450ef3994c2391e663b033bd2c61b1> <http://dbpedia.org/ontology/company> <http://dbpedia.org/resource/Twitter> <Twitter-Al-Jazeera-9> .

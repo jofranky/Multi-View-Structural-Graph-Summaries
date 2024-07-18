@@ -1,0 +1,657 @@
+ <http://example.org/photographers/AlexanderZemlianichenko> <http://xmlns.com/foaf/0.1/name> "Alexander Zemlianichenko"  <StanfordUniversity-euronews-0> .
+ <http://example.org/photos/MoscowUndergroundPassage> <http://schema.org/dateCreated> "2023-09-01"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-euronews-0> .
+ <http://example.org/photographers/DmitriLovetsky> <http://xmlns.com/foaf/0.1/depiction> <http://example.org/photos/StPetersburgMilitaryAd> <StanfordUniversity-euronews-0> .
+ <http://example.org/universities/RUDNUniversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EducationalOrganization> <StanfordUniversity-euronews-0> .
+ <http://StanfordUniversity-euronews-0.com/blank#n983d63cf961444898c9bb8bbcd72df27b1> <http://schema.org/contactType> "editorial"  <StanfordUniversity-euronews-0> .
+ <http://example.org/photos/StPetersburgMilitaryAd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> <StanfordUniversity-euronews-0> .
+ <http://example.org/article> <http://purl.org/dc/elements/1.1/publisher> <http://example.org/publishers/Euronews> <StanfordUniversity-euronews-0> .
+ <http://example.org/photos/StPetersburgMilitaryAd> <http://schema.org/author> <http://example.org/photographers/DmitriLovetsky> <StanfordUniversity-euronews-0> .
+ <http://example.org/photos/MoscowUndergroundPassage> <http://schema.org/caption> "Pedestrian walks along an underground passage reflected in a marble wall"  <StanfordUniversity-euronews-0> .
+ <http://example.org/authors/AleksandarĐokić> <http://xmlns.com/foaf/0.1/name> "Aleksandar Đokić"  <StanfordUniversity-euronews-0> .
+ <http://example.org/article> <http://purl.org/dc/elements/1.1/date> "2023-10-01"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-euronews-0> .
+ <http://example.org/editors/KirillMartynov> <http://xmlns.com/foaf/0.1/name> "Kirill Martynov"  <StanfordUniversity-euronews-0> .
+ <http://example.org/authors/AleksandarĐokić> <http://xmlns.com/foaf/0.1/title> "Political scientist and analyst"  <StanfordUniversity-euronews-0> .
+ <http://example.org/article> <http://purl.org/dc/elements/1.1/language> "en"  <StanfordUniversity-euronews-0> .
+ <http://example.org/publications/NovayaGazetaEurope> <http://schema.org/name> "Novaya Gazeta Europe"  <StanfordUniversity-euronews-0> .
+ <http://example.org/photographers/AlexanderZemlianichenko> <http://xmlns.com/foaf/0.1/depiction> <http://example.org/photos/MoscowFountainKremlin> <StanfordUniversity-euronews-0> .
+ <http://StanfordUniversity-euronews-0.com/blank#n983d63cf961444898c9bb8bbcd72df27b1> <http://schema.org/email> "view@euronews.com"  <StanfordUniversity-euronews-0> .
+ <http://example.org/publishers/Euronews> <http://schema.org/contactPoint> <http://StanfordUniversity-euronews-0.com/blank#n983d63cf961444898c9bb8bbcd72df27b1>  <StanfordUniversity-euronews-0> .
+ <http://example.org/editors/KirillMartynov> <http://schema.org/jobTitle> "Editor-in-Chief"  <StanfordUniversity-euronews-0> .
+ <http://example.org/photos/StPetersburgMilitaryAd> <http://schema.org/dateCreated> "2023-10-01"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-euronews-0> .
+ <http://example.org/photographers/AlexanderZemlianichenko> <http://xmlns.com/foaf/0.1/depiction> <http://example.org/photos/MoscowUndergroundPassage> <StanfordUniversity-euronews-0> .
+ <http://example.org/editors/KirillMartynov> <http://xmlns.com/foaf/0.1/workplaceHomepage> <http://example.org/publications/NovayaGazetaEurope> <StanfordUniversity-euronews-0> .
+ <http://example.org/authors/AleksandarĐokić> <http://schema.org/jobTitle> "Political scientist and analyst"  <StanfordUniversity-euronews-0> .
+ <http://example.org/photographers/DmitriLovetsky> <http://xmlns.com/foaf/0.1/name> "Dmitri Lovetsky"  <StanfordUniversity-euronews-0> .
+ <http://example.org/photos/StPetersburgMilitaryAd> <http://schema.org/location> "St. Petersburg"  <StanfordUniversity-euronews-0> .
+ <http://example.org/publishers/Euronews> <http://schema.org/name> "Euronews"  <StanfordUniversity-euronews-0> .
+ <http://example.org/photographers/AlexanderZemlianichenko> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-euronews-0> .
+ <http://example.org/publications/NovayaGazetaEurope> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> <StanfordUniversity-euronews-0> .
+ <http://example.org/photographers/DmitriLovetsky> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-euronews-0> .
+ <http://example.org/publications/NovayaGazetaEurope> <http://schema.org/editor> <http://example.org/editors/KirillMartynov> <StanfordUniversity-euronews-0> .
+ <http://StanfordUniversity-euronews-0.com/blank#n983d63cf961444898c9bb8bbcd72df27b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ContactPoint> <StanfordUniversity-euronews-0> .
+ <http://example.org/universities/RUDNUniversity> <http://schema.org/alumni> <http://example.org/authors/AleksandarĐokić> <StanfordUniversity-euronews-0> .
+ <http://example.org/article> <http://purl.org/dc/elements/1.1/subject> "Totalitarianism"  <StanfordUniversity-euronews-0> .
+ <http://example.org/article> <http://purl.org/dc/elements/1.1/subject> "Freedom"  <StanfordUniversity-euronews-0> .
+ <http://example.org/publishers/Euronews> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <StanfordUniversity-euronews-0> .
+ <http://example.org/photos/StPetersburgMilitaryAd> <http://schema.org/caption> "Advertising screen depicting Russian army soldiers and promoting contract military service in the Russian army"  <StanfordUniversity-euronews-0> .
+ <http://example.org/photos/MoscowFountainKremlin> <http://schema.org/caption> "Woman films with a smartphone as she cools off next to a fountain in the Alexander Garden next to the Kremlin"  <StanfordUniversity-euronews-0> .
+ <http://example.org/article> <http://purl.org/dc/elements/1.1/subject> "Political Analysis"  <StanfordUniversity-euronews-0> .
+ <http://example.org/photos/MoscowUndergroundPassage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> <StanfordUniversity-euronews-0> .
+ <http://example.org/photographers/AlexanderZemlianichenko> <http://schema.org/jobTitle> "Photographer"  <StanfordUniversity-euronews-0> .
+ <http://example.org/photos/MoscowFountainKremlin> <http://schema.org/dateCreated> "2023-08-01"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-euronews-0> .
+ <http://example.org/authors/AleksandarĐokić> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-euronews-0> .
+ <http://example.org/article> <http://purl.org/dc/elements/1.1/description> "The article discusses the current political climate in Russia, drawing parallels with the Stalinist era and the repression experienced by citizens."  <StanfordUniversity-euronews-0> .
+ <http://example.org/universities/RUDNUniversity> <http://schema.org/name> "RUDN University"  <StanfordUniversity-euronews-0> .
+ <http://example.org/photos/MoscowFountainKremlin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> <StanfordUniversity-euronews-0> .
+ <http://example.org/photos/MoscowFountainKremlin> <http://schema.org/location> "Moscow"  <StanfordUniversity-euronews-0> .
+ <http://example.org/article> <http://purl.org/dc/elements/1.1/subject> "Russia"  <StanfordUniversity-euronews-0> .
+ <http://example.org/photographers/DmitriLovetsky> <http://schema.org/jobTitle> "Photographer"  <StanfordUniversity-euronews-0> .
+ <http://example.org/editors/KirillMartynov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-euronews-0> .
+ <http://example.org/article> <http://purl.org/dc/elements/1.1/title> "Leave, and if you haven’t yet, make plans to do so. In Russia, all of the previously eroded freedoms are now completely gone"  <StanfordUniversity-euronews-0> .
+ <http://example.org/photos/MoscowUndergroundPassage> <http://schema.org/location> "Moscow"  <StanfordUniversity-euronews-0> .
+ <http://example.org/article> <http://purl.org/dc/elements/1.1/creator> <http://example.org/authors/AleksandarĐokić> <StanfordUniversity-euronews-0> .
+ <http://example.org/article> <http://purl.org/dc/elements/1.1/subject> "Repression"  <StanfordUniversity-euronews-0> .
+ <http://example.org/photos/MoscowFountainKremlin> <http://schema.org/author> <http://example.org/photographers/AlexanderZemlianichenko> <StanfordUniversity-euronews-0> .
+ <http://example.org/authors/AleksandarĐokić> <http://xmlns.com/foaf/0.1/publications> <http://example.org/article> <StanfordUniversity-euronews-0> .
+ <http://example.org/photos/MoscowUndergroundPassage> <http://schema.org/author> <http://example.org/photographers/AlexanderZemlianichenko> <StanfordUniversity-euronews-0> .
+ <http://example.org/restaurant#SustainableFoodFuture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#Mesclun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Food> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#CompleteGarden> <http://schema.org/recipeIngredient> <http://example.org/restaurant#Honey> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#CompleteGarden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Recipe> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#DriedWholeCrickets> <http://schema.org/name> "Dried whole crickets"  <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#TheStarIngredient> <http://schema.org/name> "The Star Ingredient"  <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#EuropeanJournalismCentre> <http://schema.org/name> "European Journalism Centre"  <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#Carrots> <http://schema.org/name> "Carrots"  <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#LaurentVeyet> <http://xmlns.com/foaf/0.1/name> "Laurent Veyet"  <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#ArnoldVanHuis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#Hummus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Food> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#LaurentVeyet> <http://dbpedia.org/ontology/interest> <http://example.org/restaurant#EdibleInsects> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#Tomatoes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Food> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#LaurentVeyet> <http://schema.org/jobTitle> "Lyonnais chef"  <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#CompleteGarden> <http://schema.org/name> "Complete garden"  <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#ArnoldVanHuis> <http://xmlns.com/foaf/0.1/name> "Arnold Van Huis"  <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#EuropeanJournalismCentre> <http://schema.org/sponsor> <http://example.org/restaurant#BillMelindaGatesFoundation> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#Paris2ndArrondissement> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/France> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#CompleteGarden> <http://schema.org/recipeIngredient> <http://example.org/restaurant#DriedWholeMealworms> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#DriedWholeCrickets> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Food> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#CompleteGarden> <http://schema.org/recipeIngredient> <http://example.org/restaurant#Carrots> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#FermeDuTiret> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/France> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#DriedWholeMealworms> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Food> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#Inoveat> <http://schema.org/location> <http://example.org/restaurant#Paris2ndArrondissement> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#Mesclun> <http://schema.org/name> "Mesclun"  <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#Tomatoes> <http://schema.org/name> "Tomatoes"  <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#CompleteGarden> <http://schema.org/recipeIngredient> <http://example.org/restaurant#Mesclun> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#Honey> <http://schema.org/name> "Honey"  <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#Inoveat> <http://dbpedia.org/ontology/owner> <http://example.org/restaurant#LaurentVeyet> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#ArnoldVanHuis> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Professor> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#BillMelindaGatesFoundation> <http://schema.org/name> "Bill & Melinda Gates Foundation"  <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#CompleteGarden> <http://schema.org/recipeIngredient> <http://example.org/restaurant#DriedWholeCrickets> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#Carrots> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Food> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#CompleteGarden> <http://schema.org/recipeIngredient> <http://example.org/restaurant#FinelyGratedCheese> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#TheStarIngredient> <http://schema.org/funder> <http://example.org/restaurant#EuropeanJournalismCentre> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#Inoveat> <http://dbpedia.org/ontology/theme> <http://example.org/restaurant#EdibleInsects> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#EcoResponsibleCulinaryVision> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#FinelyGratedCheese> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Food> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#SustainableFoodFuture> <http://schema.org/name> "Sustainable food future"  <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#CompleteGarden> <http://schema.org/author> <http://example.org/restaurant#LaurentVeyet> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#LaurentVeyet> <http://dbpedia.org/ontology/interest> <http://example.org/restaurant#SustainableFoodFuture> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#LaurentVeyet> <http://dbpedia.org/ontology/interest> <http://example.org/restaurant#EcoResponsibleCulinaryVision> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#EdibleInsects> <http://schema.org/name> "Insects as food"  <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#ArnoldVanHuis> <http://dbpedia.org/ontology/author> <http://example.org/restaurant#BookOnEdibleInsects> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#GroundCricketPowder> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Food> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#FermeDuTiret> <http://xmlns.com/foaf/0.1/name> "Ferme du Tiret"  <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#EcoResponsibleCulinaryVision> <http://schema.org/name> "Eco-responsible culinary vision"  <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#Inoveat> <http://schema.org/name> "Inoveat"  <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#Thyme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Food> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#LaurentVeyet> <http://dbpedia.org/ontology/profession> <http://dbpedia.org/resource/Chef> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#BookOnEdibleInsects> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#TheStarIngredient> <http://schema.org/about> <http://example.org/restaurant#EdibleInsects> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#TheStarIngredient> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/RadioSeries> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#Paris2ndArrondissement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#CompleteGarden> <http://schema.org/recipeIngredient> <http://example.org/restaurant#Hummus> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#BookOnEdibleInsects> <http://schema.org/name> "Book on edible insects"  <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#LaurentVeyet> <http://xmlns.com/foaf/0.1/based_near> <http://example.org/restaurant#Inoveat> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#LaurentVeyet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#DriedWholeMealworms> <http://schema.org/name> "Dried whole mealworms"  <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#CompleteGarden> <http://schema.org/recipeIngredient> <http://example.org/restaurant#Tomatoes> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#FinelyGratedCheese> <http://schema.org/name> "Finely grated cheese"  <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#Hummus> <http://schema.org/name> "Hummus"  <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#ArnoldVanHuis> <http://dbpedia.org/ontology/workplace> <http://dbpedia.org/resource/Wageningen_University_and_Research_Centre> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#BillMelindaGatesFoundation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#GroundCricketPowder> <http://schema.org/name> "Ground cricket powder"  <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#BookOnEdibleInsects> <http://schema.org/author> <http://example.org/restaurant#ArnoldVanHuis> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#EdibleInsects> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#CompleteGarden> <http://schema.org/recipeIngredient> <http://example.org/restaurant#GroundCricketPowder> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#FermeDuTiret> <http://dbpedia.org/ontology/product> <http://example.org/restaurant#EdibleInsects> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#EuropeanJournalismCentre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#Thyme> <http://schema.org/name> "Thyme"  <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#Paris2ndArrondissement> <http://schema.org/name> "Paris’ 2nd arrondissement"  <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#CompleteGarden> <http://schema.org/recipeIngredient> <http://example.org/restaurant#Thyme> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#Honey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Food> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#FermeDuTiret> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Farm> <StanfordUniversity-euronews-1> .
+ <http://example.org/restaurant#Inoveat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Restaurant> <StanfordUniversity-euronews-1> .
+ <http://example.org/AbortionStatistics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statistic> <StanfordUniversity-euronews-2> .
+ <http://example.org/AbortionLawsUSSR> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Legislation> <StanfordUniversity-euronews-2> .
+ <http://example.org/OrthodoxChurchService> <http://dbpedia.org/ontology/participant> <http://example.org/OrthodoxChurch> <StanfordUniversity-euronews-2> .
+ <http://example.org/MikhailMurashko> <http://dbpedia.org/ontology/criticism> <http://example.org/CondemnationOfWomenPriorities> <StanfordUniversity-euronews-2> .
+ <http://example.org/OrthodoxChurchService> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Vladivostok> <StanfordUniversity-euronews-2> .
+ <http://example.org/MicheleRivkinFish> <http://xmlns.com/foaf/0.1/name> "Michele Rivkin-Fish"  <StanfordUniversity-euronews-2> .
+ <http://example.org/EmergencyContraceptives> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Drug> <StanfordUniversity-euronews-2> .
+ <http://example.org/OnlinePetitionKaliningrad> <http://schema.org/description> "Online petition against abortion ban in Kaliningrad with nearly 27,000 signatures"  <StanfordUniversity-euronews-2> .
+ <http://example.org/RussianActivists> <http://schema.org/description> "Activists in Russia urging complaints, petitions, and protests against abortion law changes"  <StanfordUniversity-euronews-2> .
+ <http://example.org/MotivationalQuestionnaire> <http://schema.org/description> "Online questionnaire outlining state support for continuing pregnancy"  <StanfordUniversity-euronews-2> .
+ <http://example.org/AbortionLawsUSSR> <http://schema.org/description> "Abortion laws in the Soviet Union allowed multiple procedures due to contraceptive difficulties"  <StanfordUniversity-euronews-2> .
+ <http://example.org/OrthodoxChurchService> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <StanfordUniversity-euronews-2> .
+ <http://example.org/AbortionStatistics> <http://schema.org/date> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <StanfordUniversity-euronews-2> .
+ <http://example.org/TatarstanPrivateClinics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <StanfordUniversity-euronews-2> .
+ <http://example.org/AntiAbortionPush> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <StanfordUniversity-euronews-2> .
+ <http://example.org/TalkingPointsForDoctors> <http://schema.org/description> "Talking points drawn up by Health Ministry to discourage women from terminating pregnancies"  <StanfordUniversity-euronews-2> .
+ <http://example.org/HealthMinistry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/GovernmentAgency> <StanfordUniversity-euronews-2> .
+ <http://example.org/SeniorLawmakers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <StanfordUniversity-euronews-2> .
+ <http://example.org/SovietUnion> <http://dbpedia.org/ontology/dissolutionYear> "1991"^^<http://www.w3.org/2001/XMLSchema#gYear>  <StanfordUniversity-euronews-2> .
+ <http://example.org/MorningAfterPills> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Drug> <StanfordUniversity-euronews-2> .
+ <http://example.org/SeniorLawmakers> <http://schema.org/description> "Lawmakers in Russia pushing for an outright ban on abortion in private clinics"  <StanfordUniversity-euronews-2> .
+ <http://example.org/RussianOrthodoxChurch> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Russia> <StanfordUniversity-euronews-2> .
+ <http://example.org/SovietUnion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <StanfordUniversity-euronews-2> .
+ <http://example.org/UkraineConflict> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> <StanfordUniversity-euronews-2> .
+ <http://example.org/OrthodoxChurch> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Russia> <StanfordUniversity-euronews-2> .
+ <http://example.org/UkraineConflict> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Ukraine> <StanfordUniversity-euronews-2> .
+ <http://example.org/MicheleRivkinFish> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-euronews-2> .
+ <http://example.org/UniversityOfNorthCarolinaAtChapelHill> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Chapel_Hill_North_Carolina> <StanfordUniversity-euronews-2> .
+ <http://example.org/Misoprostol> <http://schema.org/description> "Drug used to terminate pregnancies, restricted in Russia"  <StanfordUniversity-euronews-2> .
+ <http://example.org/StockPhrasesDocument> <http://schema.org/author> <http://example.org/HealthMinistry> <StanfordUniversity-euronews-2> .
+ <http://example.org/TalkingPointsForDoctors> <http://schema.org/author> <http://example.org/HealthMinistry> <StanfordUniversity-euronews-2> .
+ <http://example.org/PrivateClinics> <http://schema.org/description> "Private clinics in Russia stopping providing abortions"  <StanfordUniversity-euronews-2> .
+ <http://example.org/VladimirPutin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-euronews-2> .
+ <http://example.org/AbortionStatistics> <http://dbpedia.org/ontology/value> "4.1 million"^^<http://www.w3.org/2001/XMLSchema#integer>  <StanfordUniversity-euronews-2> .
+ <http://example.org/MorningAfterPills> <http://schema.org/description> "Emergency contraceptives known as morning-after pills, facing restrictions in Russia"  <StanfordUniversity-euronews-2> .
+ <http://example.org/MotivationalQuestionnaire> <http://schema.org/author> <http://example.org/HealthMinistry> <StanfordUniversity-euronews-2> .
+ <http://example.org/AbortionRestrictionPlan> <http://schema.org/description> "Plan to restrict access to abortion and emergency contraceptives in Russia"  <StanfordUniversity-euronews-2> .
+ <http://example.org/USSupremeCourtDecision> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <StanfordUniversity-euronews-2> .
+ <http://example.org/AbortionStatistics> <http://dbpedia.org/ontology/value> "517,000"^^<http://www.w3.org/2001/XMLSchema#integer>  <StanfordUniversity-euronews-2> .
+ <http://example.org/StockPhrasesDocument> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <StanfordUniversity-euronews-2> .
+ <http://example.org/UniversityOfNorthCarolinaAtChapelHill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <StanfordUniversity-euronews-2> .
+ <http://example.org/RussianWomen> <http://schema.org/description> "Women in Russia facing increasing restrictions on abortion rights"  <StanfordUniversity-euronews-2> .
+ <http://example.org/PrivateClinics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <StanfordUniversity-euronews-2> .
+ <http://example.org/Misoprostol> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Drug> <StanfordUniversity-euronews-2> .
+ <http://example.org/SovietUnion> <http://dbpedia.org/ontology/abortionPolicy> <http://example.org/AbortionLawsUSSR> <StanfordUniversity-euronews-2> .
+ <http://example.org/GynaecologistsPilotProject> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Project> <StanfordUniversity-euronews-2> .
+ <http://example.org/CondemnationOfWomenPriorities> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <StanfordUniversity-euronews-2> .
+ <http://example.org/MikhailMurashko> <http://dbpedia.org/ontology/office> "Health Minister of Russia"  <StanfordUniversity-euronews-2> .
+ <http://example.org/HealthMinistry> <http://dbpedia.org/ontology/responsibility> <http://example.org/TalkingPointsForDoctors> <StanfordUniversity-euronews-2> .
+ <http://example.org/KaliningradBan> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Kaliningrad> <StanfordUniversity-euronews-2> .
+ <http://example.org/MikhailMurashko> <http://xmlns.com/foaf/0.1/name> "Mikhail Murashko"  <StanfordUniversity-euronews-2> .
+ <http://example.org/Mifepristone> <http://schema.org/description> "Drug used to terminate pregnancies, restricted in Russia"  <StanfordUniversity-euronews-2> .
+ <http://example.org/HealthMinistryDecree> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Legislation> <StanfordUniversity-euronews-2> .
+ <http://example.org/AbortionStatistics> <http://schema.org/date> "1990"^^<http://www.w3.org/2001/XMLSchema#gYear>  <StanfordUniversity-euronews-2> .
+ <http://example.org/AbortionInRussia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Legislation> <StanfordUniversity-euronews-2> .
+ <http://example.org/USSupremeCourtDecision> <http://schema.org/date> "Last year"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-euronews-2> .
+ <http://example.org/RussianWomen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Demographic> <StanfordUniversity-euronews-2> .
+ <http://example.org/StockPhrasesDocument> <http://schema.org/description> "Document with stock phrases for doctors to use during abortion consultations"  <StanfordUniversity-euronews-2> .
+ <http://example.org/UkraineConflict> <http://dbpedia.org/ontology/combatant> <http://dbpedia.org/resource/Russia> <StanfordUniversity-euronews-2> .
+ <http://example.org/VladimirPutin> <http://dbpedia.org/ontology/alliance> <http://example.org/RussianOrthodoxChurch> <StanfordUniversity-euronews-2> .
+ <http://example.org/AbortionPillsSalesRise> <http://schema.org/description> "Significant rise in sales of abortion pills in Russia since the beginning of the Ukraine conflict"  <StanfordUniversity-euronews-2> .
+ <http://example.org/HealthMinistryDecree> <http://schema.org/description> "Decree restricting circulation of abortion pills in Russia"  <StanfordUniversity-euronews-2> .
+ <http://example.org/HealthMinistry> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Russia> <StanfordUniversity-euronews-2> .
+ <http://example.org/PriestConsultation> <http://schema.org/description> "Clinics refer women to a priest before getting an abortion in one Russian region"  <StanfordUniversity-euronews-2> .
+ <http://example.org/TatarstanPrivateClinics> <http://schema.org/description> "Private clinics in Tatarstan no longer providing abortions"  <StanfordUniversity-euronews-2> .
+ <http://example.org/CondemnationOfWomenPriorities> <http://schema.org/author> <http://example.org/MikhailMurashko> <StanfordUniversity-euronews-2> .
+ <http://example.org/GynaecologistsPilotProject> <http://schema.org/description> "Pilot project with gynaecologists trying to get women to reconsider having an abortion"  <StanfordUniversity-euronews-2> .
+ <http://example.org/StateIssuedGuidelines> <http://schema.org/description> "Guidelines for psychological consultations to discourage abortions"  <StanfordUniversity-euronews-2> .
+ <http://example.org/PriestConsultation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <StanfordUniversity-euronews-2> .
+ <http://example.org/GynaecologistsPilotProject> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Russia> <StanfordUniversity-euronews-2> .
+ <http://example.org/MicheleRivkinFish> <http://dbpedia.org/ontology/affiliation> <http://example.org/UniversityOfNorthCarolinaAtChapelHill> <StanfordUniversity-euronews-2> .
+ <http://example.org/EmergencyContraceptives> <http://schema.org/description> "Emergency contraceptives to become virtually unavailable and more expensive in Russia"  <StanfordUniversity-euronews-2> .
+ <http://example.org/CondemnationOfWomenPriorities> <http://schema.org/description> "Condemnation of women for prioritising education and career over childbearing"  <StanfordUniversity-euronews-2> .
+ <http://example.org/USSupremeCourtDecision> <http://schema.org/description> "US Supreme Court decision that rescinded the right to abortion"  <StanfordUniversity-euronews-2> .
+ <http://example.org/Mifepristone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Drug> <StanfordUniversity-euronews-2> .
+ <http://example.org/RussianOrthodoxChurch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ReligiousOrganisation> <StanfordUniversity-euronews-2> .
+ <http://example.org/TatarstanPrivateClinics> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Tatarstan> <StanfordUniversity-euronews-2> .
+ <http://example.org/StateIssuedGuidelines> <http://schema.org/author> <http://example.org/HealthMinistry> <StanfordUniversity-euronews-2> .
+ <http://example.org/OrthodoxChurch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ReligiousOrganisation> <StanfordUniversity-euronews-2> .
+ <http://example.org/VladimirPutin> <http://dbpedia.org/ontology/office> "President of Russia"  <StanfordUniversity-euronews-2> .
+ <http://example.org/KaliningradBan> <http://schema.org/description> "Proposed region-wide ban on abortion in Kaliningrad"  <StanfordUniversity-euronews-2> .
+ <http://example.org/VladimirPutin> <http://xmlns.com/foaf/0.1/name> "Vladimir Putin"  <StanfordUniversity-euronews-2> .
+ <http://example.org/RussianActivists> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <StanfordUniversity-euronews-2> .
+ <http://example.org/KaliningradBan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Legislation> <StanfordUniversity-euronews-2> .
+ <http://example.org/RussianGovernment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <StanfordUniversity-euronews-2> .
+ <http://example.org/MicheleRivkinFish> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Anthropologist> <StanfordUniversity-euronews-2> .
+ <http://example.org/AbortionInRussia> <http://schema.org/description> "Abortion legally allowed between 12 and 22 weeks in instances of rape in Russia"  <StanfordUniversity-euronews-2> .
+ <http://example.org/AbortionPillsSalesRise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <StanfordUniversity-euronews-2> .
+ <http://example.org/TalkingPointsForDoctors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <StanfordUniversity-euronews-2> .
+ <http://example.org/AntiAbortionPush> <http://schema.org/description> "Anti-abortion push in Russia during the war in Ukraine and economic uncertainty"  <StanfordUniversity-euronews-2> .
+ <http://example.org/OnlinePetitionKaliningrad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <StanfordUniversity-euronews-2> .
+ <http://example.org/RussianGovernment> <http://dbpedia.org/ontology/policy> <http://example.org/AbortionRestrictionPlan> <StanfordUniversity-euronews-2> .
+ <http://example.org/AbortionRestrictionPlan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Plan> <StanfordUniversity-euronews-2> .
+ <http://example.org/MikhailMurashko> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-euronews-2> .
+ <http://example.org/StateIssuedGuidelines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <StanfordUniversity-euronews-2> .
+ <http://example.org/MotivationalQuestionnaire> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <StanfordUniversity-euronews-2> .
+ <http://example.org/HealthMinistryDecree> <http://schema.org/date> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <StanfordUniversity-euronews-2> .
+ <http://example.org/ontology/BruceSpringsteen> <http://xmlns.com/foaf/0.1/name> "Bruce Springsteen"  <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/BobDylan> <http://example.org/ontology/soldRightsTo> <http://example.org/ontology/UniversalMusic> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/HarbourViewEquityPartners> <http://xmlns.com/foaf/0.1/name> "HarbourView Equity Partners"  <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/Sony> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/ChristineMcVieEstate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/PrimaryWave> <http://xmlns.com/foaf/0.1/name> "Primary Wave"  <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/ChristineMcVie> <http://example.org/ontology/wrote> <http://example.org/ontology/LittleLies> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/HarbourViewEquityPartners> <http://dbpedia.org/ontology/founder> <http://example.org/ontology/SherreseClarkeSoares> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/ChristineMcVie> <http://dbpedia.org/ontology/instrument> <http://example.org/ontology/Keyboard> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/StevieNicks> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Singer> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/SherreseClarkeSoares> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/LittleLies> <http://xmlns.com/foaf/0.1/name> "Little Lies"  <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/ScooterBraun> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/MusicExecutive> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/DontStop> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalWork> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/FleetwoodMac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalGroup> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/HarbourViewEquityPartners> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/ScooterBraun> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/BobDylan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/BruceSpringsteen> <http://example.org/ontology/soldRightsTo> <http://example.org/ontology/UnknownBuyer> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/SherreseClarkeSoares> <http://dbpedia.org/ontology/title> "Chief Executive"  <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/TaylorSwift> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Musician> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/ChristineMcVie> <http://example.org/ontology/memberOf> <http://example.org/ontology/FleetwoodMac> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/LittleLies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalWork> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/Sony> <http://xmlns.com/foaf/0.1/name> "Sony"  <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/ChristineMcVie> <http://dbpedia.org/ontology/age> "79"^^<http://www.w3.org/2001/XMLSchema#integer>  <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/BruceSpringsteen> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Musician> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/MickFleetwood> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/BMG> <http://xmlns.com/foaf/0.1/name> "BMG"  <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/BobDylan> <http://example.org/ontology/soldRightsTo> <http://example.org/ontology/Sony> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/Everywhere> <http://xmlns.com/foaf/0.1/name> "Everywhere"  <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/ChristineMcVieEstate> <http://xmlns.com/foaf/0.1/name> "Christine McVie’s estate"  <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/StevieNicks> <http://xmlns.com/foaf/0.1/name> "Stevie Nicks"  <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/FleetwoodMac> <http://xmlns.com/foaf/0.1/name> "Fleetwood Mac"  <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/ChristineMcVie> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Vocalist> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/SherreseClarkeSoares> <http://xmlns.com/foaf/0.1/name> "Sherrese Clarke Soares"  <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/ChristineMcVie> <http://xmlns.com/foaf/0.1/name> "Christine McVie"  <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/ChristineMcVie> <http://example.org/ontology/wrote> <http://example.org/ontology/Everywhere> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/StevieNicks> <http://example.org/ontology/memberOf> <http://example.org/ontology/FleetwoodMac> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/BruceSpringsteen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/Everywhere> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalWork> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/FleetwoodMac> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/ontology/RockMusic> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/ChristineMcVie> <http://dbpedia.org/ontology/birthDate> "1943-07-12"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/ScooterBraun> <http://xmlns.com/foaf/0.1/name> "Scooter Braun"  <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/ChristineMcVie> <http://dbpedia.org/ontology/deathDate> "2022-11-22"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/ChristineMcVie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/DontStop> <http://xmlns.com/foaf/0.1/name> "Don't Stop"  <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/StevieNicks> <http://example.org/ontology/soldRightsTo> <http://example.org/ontology/PrimaryWave> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/MickFleetwood> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Musician> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/BobDylan> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Songwriter> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/UnknownBuyer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/PrimaryWave> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/MickFleetwood> <http://example.org/ontology/coFounderOf> <http://example.org/ontology/FleetwoodMac> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/UnknownBuyer> <http://xmlns.com/foaf/0.1/name> "Unknown Buyer"  <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/UniversalMusic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/BobDylan> <http://xmlns.com/foaf/0.1/name> "Bob Dylan"  <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/ChristineMcVieEstate> <http://example.org/ontology/soldRightsTo> <http://example.org/ontology/HarbourViewEquityPartners> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/BMG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/ChristineMcVie> <http://example.org/ontology/wrote> <http://example.org/ontology/DontStop> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/TaylorSwift> <http://xmlns.com/foaf/0.1/name> "Taylor Swift"  <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/MickFleetwood> <http://example.org/ontology/soldRightsTo> <http://example.org/ontology/BMG> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/MickFleetwood> <http://xmlns.com/foaf/0.1/name> "Mick Fleetwood"  <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/TaylorSwift> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/BMG> <http://dbpedia.org/ontology/country> <http://dbpedia.org/ontology/Germany> <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/UniversalMusic> <http://xmlns.com/foaf/0.1/name> "Universal Music"  <StanfordUniversity-euronews-3> .
+ <http://example.org/ontology/StevieNicks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-euronews-3> .
+ <http://example.org/ChiomaNnadi> <http://xmlns.com/foaf/0.1/name> "Chioma Nnadi"  <StanfordUniversity-euronews-4> .
+ <http://example.org/BloomsburyPublishingUK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <StanfordUniversity-euronews-4> .
+ <http://example.org/VogueGlobalCreativeAndCulturalAdviser> <http://schema.org/roleName> "Global Creative and Cultural Adviser"  <StanfordUniversity-euronews-4> .
+ <http://example.org/EdwardEnninful> <http://schema.org/award> "UK’s most influential Black person"  <StanfordUniversity-euronews-4> .
+ <http://example.org/ChiomaNnadi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <StanfordUniversity-euronews-4> .
+ <http://example.org/EdwardEnninful> <http://xmlns.com/foaf/0.1/age> "51"^^<http://www.w3.org/2001/XMLSchema#integer>  <StanfordUniversity-euronews-4> .
+ <http://example.org/ChiomaNnadi> <http://schema.org/jobTitle> "Editor of Vogue’s US edition website"  <StanfordUniversity-euronews-4> .
+ <http://example.org/GrosvenorHouseHotel> <http://schema.org/name> "Grosvenor House Hotel"  <StanfordUniversity-euronews-4> .
+ <http://example.org/SurveyOnBlackBritishHistory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <StanfordUniversity-euronews-4> .
+ <http://example.org/AnnaWintour> <http://xmlns.com/foaf/0.1/name> "Anna Wintour"  <StanfordUniversity-euronews-4> .
+ <http://example.org/Powerlist2024> <http://purl.org/dc/elements/1.1/description> "An annual list that celebrates influential people of African, African Caribbean and African American heritage."  <StanfordUniversity-euronews-4> .
+ <http://example.org/VogueWorldEvent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <StanfordUniversity-euronews-4> .
+ <http://example.org/VogueWorldEvent> <http://schema.org/startDate> "2023-09-14"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-euronews-4> .
+ <http://example.org/SurveyOnBlackBritishHistory> <http://schema.org/datePublished> "2024"^^<http://www.w3.org/2001/XMLSchema#gYear>  <StanfordUniversity-euronews-4> .
+ <http://example.org/GrosvenorHouseHotel> <http://schema.org/address> "London, UK"  <StanfordUniversity-euronews-4> .
+ <http://example.org/VogueWorldEvent> <http://schema.org/attendee> <http://example.org/AnnaWintour> <StanfordUniversity-euronews-4> .
+ <http://example.org/Powerlist2024> <http://schema.org/startDate> "2024-10-27"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-euronews-4> .
+ <http://example.org/PowerfulMedia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <StanfordUniversity-euronews-4> .
+ <http://example.org/EdwardEnninful> <http://schema.org/affiliation> <http://example.org/VogueEditorialAdviser> <StanfordUniversity-euronews-4> .
+ <http://example.org/EdwardEnninful> <http://schema.org/affiliation> <http://example.org/BritishVogue> <StanfordUniversity-euronews-4> .
+ <http://example.org/SurveyOnBlackBritishHistory> <http://purl.org/dc/elements/1.1/description> "A survey showing that more than half of Britons are incapable of naming a single Black British historical figure."  <StanfordUniversity-euronews-4> .
+ <http://example.org/EdwardEnninful> <http://xmlns.com/foaf/0.1/name> "Edward Enninful"  <StanfordUniversity-euronews-4> .
+ <http://example.org/MichaelEboda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <StanfordUniversity-euronews-4> .
+ <http://example.org/YouGovUK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <StanfordUniversity-euronews-4> .
+ <http://example.org/VogueWorldEvent> <http://schema.org/location> "London, UK"  <StanfordUniversity-euronews-4> .
+ <http://example.org/BloomsburyPublishingUK> <http://xmlns.com/foaf/0.1/name> "Bloomsbury Publishing (UK)"  <StanfordUniversity-euronews-4> .
+ <http://example.org/SurveyOnBlackBritishHistory> <http://schema.org/publisher> <http://example.org/BloomsburyPublishingUK> <StanfordUniversity-euronews-4> .
+ <http://example.org/SurveyOnBlackBritishHistory> <http://schema.org/about> "Black British history"  <StanfordUniversity-euronews-4> .
+ <http://example.org/GrosvenorHouseHotel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <StanfordUniversity-euronews-4> .
+ <http://example.org/EdwardEnninful> <http://schema.org/jobTitle> "Editor-in-Chief of British Vogue"  <StanfordUniversity-euronews-4> .
+ <http://example.org/VogueWorldEvent> <http://schema.org/attendee> <http://example.org/EdwardEnninful> <StanfordUniversity-euronews-4> .
+ <http://example.org/EdwardEnninful> <http://schema.org/affiliation> <http://example.org/VogueGlobalCreativeAndCulturalAdviser> <StanfordUniversity-euronews-4> .
+ <http://example.org/BritishVogue> <http://xmlns.com/foaf/0.1/name> "British Vogue"  <StanfordUniversity-euronews-4> .
+ <http://example.org/SurveyOnBlackBritishHistory> <http://schema.org/author> <http://example.org/YouGovUK> <StanfordUniversity-euronews-4> .
+ <http://example.org/Powerlist2024> <http://schema.org/organizer> <http://example.org/PowerfulMedia> <StanfordUniversity-euronews-4> .
+ <http://example.org/Powerlist2024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <StanfordUniversity-euronews-4> .
+ <http://example.org/PowerfulMedia> <http://schema.org/founder> <http://example.org/MichaelEboda> <StanfordUniversity-euronews-4> .
+ <http://example.org/VogueWorldEvent> <http://schema.org/eventName> "Vogue World event"  <StanfordUniversity-euronews-4> .
+ <http://example.org/PowerfulMedia> <http://xmlns.com/foaf/0.1/name> "Powerful Media"  <StanfordUniversity-euronews-4> .
+ <http://example.org/EdwardEnninful> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <StanfordUniversity-euronews-4> .
+ <http://example.org/EdwardEnninful> <http://schema.org/alumniOf> <http://example.org/IDMagazine> <StanfordUniversity-euronews-4> .
+ <http://example.org/VogueGlobalCreativeAndCulturalAdviser> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Role> <StanfordUniversity-euronews-4> .
+ <http://example.org/VogueEditorialAdviser> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Role> <StanfordUniversity-euronews-4> .
+ <http://example.org/YouGovUK> <http://xmlns.com/foaf/0.1/name> "YouGov UK"  <StanfordUniversity-euronews-4> .
+ <http://example.org/BritishVogue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <StanfordUniversity-euronews-4> .
+ <http://example.org/IDMagazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <StanfordUniversity-euronews-4> .
+ <http://example.org/EdwardEnninful> <http://schema.org/successor> <http://example.org/ChiomaNnadi> <StanfordUniversity-euronews-4> .
+ <http://example.org/Powerlist2024> <http://schema.org/location> <http://example.org/GrosvenorHouseHotel> <StanfordUniversity-euronews-4> .
+ <http://example.org/BazLuhrmann> <http://xmlns.com/foaf/0.1/name> "Baz Luhrmann"  <StanfordUniversity-euronews-4> .
+ <http://example.org/IDMagazine> <http://xmlns.com/foaf/0.1/name> "i-D Magazine"  <StanfordUniversity-euronews-4> .
+ <http://example.org/MichaelEboda> <http://xmlns.com/foaf/0.1/name> "Michael Eboda"  <StanfordUniversity-euronews-4> .
+ <http://example.org/PowerfulMedia> <http://schema.org/publishingPrinciples> "Celebrating remarkable and inspirational black people in Britain"  <StanfordUniversity-euronews-4> .
+ <http://example.org/EdwardEnninful> <http://schema.org/birthDate> "1972"^^<http://www.w3.org/2001/XMLSchema#gYear>  <StanfordUniversity-euronews-4> .
+ <http://example.org/VogueWorldEvent> <http://schema.org/attendee> <http://example.org/BazLuhrmann> <StanfordUniversity-euronews-4> .
+ <http://example.org/MichaelEboda> <http://schema.org/jobTitle> "Chief Executive"  <StanfordUniversity-euronews-4> .
+ <http://example.org/BazLuhrmann> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <StanfordUniversity-euronews-4> .
+ <http://example.org/AnnaWintour> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <StanfordUniversity-euronews-4> .
+ <http://example.org/VogueEditorialAdviser> <http://schema.org/roleName> "Editorial Adviser"  <StanfordUniversity-euronews-4> .
+ <http://example.org/Powerlist2024> <http://schema.org/eventName> "Powerlist 2024"  <StanfordUniversity-euronews-4> .
+ <http://example.org/InsectRemovalRecommendation> <http://dbpedia.org/ontology/creator> <http://example.org/Experts> <StanfordUniversity-euronews-5> .
+ <http://example.org/InsectRemovalRecommendation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/InformationEntity> <StanfordUniversity-euronews-5> .
+ <http://example.org/Study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AcademicWork> <StanfordUniversity-euronews-5> .
+ <http://example.org/EarCondition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Disease> <StanfordUniversity-euronews-5> .
+ <http://example.org/MedicalProcedure> <http://dbpedia.org/ontology/instrument> <http://example.org/Otoscope> <StanfordUniversity-euronews-5> .
+ <http://example.org/MayoClinic> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/United_States> <StanfordUniversity-euronews-5> .
+ <http://example.org/Study> <http://dbpedia.org/ontology/content> "Most cases of insects in the ear canal are benign, but a small subset of patients can develop complications including infection, hearing loss and vestibular complaints related to the foreign body."  <StanfordUniversity-euronews-5> .
+ <http://example.org/DrTengchinWang> <http://dbpedia.org/ontology/affiliation> <http://example.org/TainanMunicipalHospital> <StanfordUniversity-euronews-5> .
+ <http://example.org/EarCondition> <http://dbpedia.org/ontology/symptom> <http://example.org/SleepProblems> <StanfordUniversity-euronews-5> .
+ <http://example.org/Otoscope> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Device> <StanfordUniversity-euronews-5> .
+ <http://example.org/ENTSpecialist> <http://www.w3.org/2000/01/rdf-schema#label> "ear, nose and throat specialist"  <StanfordUniversity-euronews-5> .
+ <http://example.org/Otoscope> <http://www.w3.org/2000/01/rdf-schema#label> "otoscope"  <StanfordUniversity-euronews-5> .
+ <http://StanfordUniversity-euronews-5.com/blank#n042af63e76214b3bb1b1dc63e84b6939b2> <http://www.w3.org/2000/01/rdf-schema#label> "removal of spider and exoskeleton"  <StanfordUniversity-euronews-5> .
+ <http://example.org/TuftsMedicalCentre> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/United_States> <StanfordUniversity-euronews-5> .
+ <http://example.org/Euronews> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> <StanfordUniversity-euronews-5> .
+ <http://example.org/Article> <http://dbpedia.org/ontology/author> <http://example.org/Euronews> <StanfordUniversity-euronews-5> .
+ <http://example.org/SuctionTube> <http://www.w3.org/2000/01/rdf-schema#label> "suction tube"  <StanfordUniversity-euronews-5> .
+ <http://example.org/ENTSpecialist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <StanfordUniversity-euronews-5> .
+ <http://example.org/LeftEar> <http://www.w3.org/2000/01/rdf-schema#label> "left ear canal"  <StanfordUniversity-euronews-5> .
+ <http://example.org/Article> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/WrittenWork> <StanfordUniversity-euronews-5> .
+ <http://example.org/SpiderExoskeleton> <http://www.w3.org/2000/01/rdf-schema#label> "moulted hard outer shell"  <StanfordUniversity-euronews-5> .
+ <http://example.org/SleepProblems> <http://www.w3.org/2000/01/rdf-schema#label> "problems sleeping"  <StanfordUniversity-euronews-5> .
+ <http://example.org/Patient> <http://dbpedia.org/ontology/gender> "female"^^<http://www.w3.org/2001/XMLSchema#string>  <StanfordUniversity-euronews-5> .
+ <http://example.org/NewEnglandJournalOfMedicine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AcademicJournal> <StanfordUniversity-euronews-5> .
+ <http://example.org/UniversityOfCincinnati> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Cincinnati> <StanfordUniversity-euronews-5> .
+ <http://example.org/SleepProblems> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Symptom> <StanfordUniversity-euronews-5> .
+ <http://example.org/LiviaChan> <http://dbpedia.org/ontology/givenName> "Livia"  <StanfordUniversity-euronews-5> .
+ <http://example.org/MayoClinic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Hospital> <StanfordUniversity-euronews-5> .
+ <http://example.org/TuftsMedicalCentre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Hospital> <StanfordUniversity-euronews-5> .
+ <http://example.org/NewEnglandJournalOfMedicine> <http://dbpedia.org/ontology/publisher> <http://example.org/ShortReport> <StanfordUniversity-euronews-5> .
+ <http://example.org/TainanMunicipalHospital> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Hospital> <StanfordUniversity-euronews-5> .
+ <http://example.org/StrangeSounds> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Symptom> <StanfordUniversity-euronews-5> .
+ <http://StanfordUniversity-euronews-5.com/blank#n042af63e76214b3bb1b1dc63e84b6939b1> <http://www.w3.org/2000/01/rdf-schema#label> "beating, clicking and rustling noises"  <StanfordUniversity-euronews-5> .
+ <http://example.org/MedicalProcedure> <http://dbpedia.org/ontology/outcome> <http://StanfordUniversity-euronews-5.com/blank#n042af63e76214b3bb1b1dc63e84b6939b2>  <StanfordUniversity-euronews-5> .
+ <http://example.org/PhysicianAssistant> <http://www.w3.org/2000/01/rdf-schema#label> "ear nose and throat physician assistant"  <StanfordUniversity-euronews-5> .
+ <http://example.org/DrTengchinWang> <http://dbpedia.org/ontology/givenName> "Tengchin"  <StanfordUniversity-euronews-5> .
+ <http://example.org/DrTengchinWang> <http://dbpedia.org/ontology/familyName> "Wang"  <StanfordUniversity-euronews-5> .
+ <http://example.org/InsectRemovalRecommendation> <http://dbpedia.org/ontology/content> "Do not try to remove any bugs from the ear with fingers or cotton swabs. Pour alcohol or oil into the ear if there is no hole in the eardrum so the insect floats out."  <StanfordUniversity-euronews-5> .
+ <http://example.org/MedicalProcedure> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MedicalProcedure> <StanfordUniversity-euronews-5> .
+ <http://example.org/UniversityOfCincinnatiResearchers> <http://dbpedia.org/ontology/affiliation> <http://example.org/UniversityOfCincinnati> <StanfordUniversity-euronews-5> .
+ <http://example.org/DrTengchinWang> <http://dbpedia.org/ontology/occupation> <http://example.org/ENTSpecialist> <StanfordUniversity-euronews-5> .
+ <http://example.org/LiviaChan> <http://dbpedia.org/ontology/familyName> "Chan"  <StanfordUniversity-euronews-5> .
+ <http://example.org/LeftEar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AnatomicalStructure> <StanfordUniversity-euronews-5> .
+ <http://example.org/LiviaChan> <http://dbpedia.org/ontology/affiliation> <http://example.org/TuftsMedicalCentre> <StanfordUniversity-euronews-5> .
+ <http://example.org/SpiderExoskeleton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AnatomicalStructure> <StanfordUniversity-euronews-5> .
+ <http://example.org/ShortReport> <http://www.w3.org/2000/01/rdf-schema#label> "short report"  <StanfordUniversity-euronews-5> .
+ <http://example.org/TainanMunicipalHospital> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Tainan> <StanfordUniversity-euronews-5> .
+ <http://example.org/ShortReport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/DocumentType> <StanfordUniversity-euronews-5> .
+ <http://example.org/LiviaChan> <http://dbpedia.org/ontology/occupation> <http://example.org/PhysicianAssistant> <StanfordUniversity-euronews-5> .
+ <http://example.org/Spider> <http://www.w3.org/2000/01/rdf-schema#label> "small spider"  <StanfordUniversity-euronews-5> .
+ <http://example.org/Study> <http://dbpedia.org/ontology/creator> <http://example.org/UniversityOfCincinnatiResearchers> <StanfordUniversity-euronews-5> .
+ <http://example.org/StrangeSounds> <http://www.w3.org/2000/01/rdf-schema#label> "strange sounds in left ear"  <StanfordUniversity-euronews-5> .
+ <http://example.org/Patient> <http://dbpedia.org/ontology/age> "64"^^<http://www.w3.org/2001/XMLSchema#int>  <StanfordUniversity-euronews-5> .
+ <http://example.org/UniversityOfCincinnati> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <StanfordUniversity-euronews-5> .
+ <http://example.org/MedicalProcedure> <http://dbpedia.org/ontology/method> "suction"^^<http://www.w3.org/2001/XMLSchema#string>  <StanfordUniversity-euronews-5> .
+ <http://example.org/StrangeSounds> <http://dbpedia.org/ontology/manifestation> <http://StanfordUniversity-euronews-5.com/blank#n042af63e76214b3bb1b1dc63e84b6939b1>  <StanfordUniversity-euronews-5> .
+ <http://example.org/EarCondition> <http://dbpedia.org/ontology/anatomicalLocation> <http://example.org/LeftEar> <StanfordUniversity-euronews-5> .
+ <http://example.org/Experts> <http://www.w3.org/2000/01/rdf-schema#label> "experts"  <StanfordUniversity-euronews-5> .
+ <http://example.org/EarCondition> <http://dbpedia.org/ontology/symptom> <http://example.org/StrangeSounds> <StanfordUniversity-euronews-5> .
+ <http://example.org/MedicalProcedure> <http://dbpedia.org/ontology/instrument> <http://example.org/SuctionTube> <StanfordUniversity-euronews-5> .
+ <http://example.org/NewEnglandJournalOfMedicine> <http://dbpedia.org/ontology/publicationDate> "2023-03-29"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-euronews-5> .
+ <http://example.org/UniversityOfCincinnatiResearchers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <StanfordUniversity-euronews-5> .
+ <http://example.org/SuctionTube> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Device> <StanfordUniversity-euronews-5> .
+ <http://example.org/Patient> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <StanfordUniversity-euronews-5> .
+ <http://example.org/LiviaChan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <StanfordUniversity-euronews-5> .
+ <http://example.org/Spider> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Species> <StanfordUniversity-euronews-5> .
+ <http://example.org/PhysicianAssistant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <StanfordUniversity-euronews-5> .
+ <http://example.org/DrTengchinWang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <StanfordUniversity-euronews-5> .
+ <http://example.org/Experts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <StanfordUniversity-euronews-5> .
+ <http://example.org/ontology#Rankin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#LavaLamp> <http://dbpedia.org/ontology/releaseDate> "1963-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#Mathmos> <http://dbpedia.org/ontology/foundedBy> <http://example.org/ontology#EdwardCravenWalker> <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#CamilleWalala> <http://xmlns.com/foaf/0.1/name> "Camille Walala"  <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#LavaLamp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#CressidaGranger> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#CressidaGranger> <http://dbpedia.org/ontology/employer> <http://example.org/ontology#Mathmos> <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#Mathmos> <http://dbpedia.org/ontology/foundingDate> "1992-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#Dorset> <http://dbpedia.org/ontology/isPartOf> <http://dbpedia.org/resource/South_West_England> <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#Mathmos> <http://xmlns.com/foaf/0.1/name> "Mathmos"  <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#LavaLamp> <http://dbpedia.org/ontology/industry> "Home decor"  <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#Dorset> <http://xmlns.com/foaf/0.1/name> "Dorset"  <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#LavaLamp> <http://dbpedia.org/ontology/associatedBand> <http://dbpedia.org/resource/The_Beatles> <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#AnniversaryEditions> <http://dbpedia.org/ontology/product> <http://example.org/ontology#LavaLamp> <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#LavaLampSong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MusicalWork> <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#StudioJob> <http://xmlns.com/foaf/0.1/name> "Studio Job"  <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#AstroLampSeries> <http://xmlns.com/foaf/0.1/name> "Astro Lamp"  <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#Mathmos> <http://dbpedia.org/ontology/location> <http://example.org/ontology#Poole> <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#EdwardCravenWalker> <http://dbpedia.org/ontology/occupation> "Designer"  <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#Mathmos> <http://dbpedia.org/ontology/formerName> "Crestworth"  <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#Mathmos> <http://dbpedia.org/ontology/industry> "Lighting"  <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#DuranDuranLimitedEditionLamp> <http://dbpedia.org/ontology/releaseDate> "2023-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#AnniversaryEditions> <http://dbpedia.org/ontology/releaseDate> "2023-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#SabineMarcelis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#NickRhodes> <http://xmlns.com/foaf/0.1/name> "Nick Rhodes"  <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#AnniversaryEditions> <http://xmlns.com/foaf/0.1/name> "60th Anniversary Limited Edition Lava Lamps"  <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#CamilleWalala> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#EdwardCravenWalker> <http://xmlns.com/foaf/0.1/based_near> <http://example.org/ontology#Dorset> <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#DuranDuranLimitedEditionLamp> <http://dbpedia.org/ontology/manufacturer> <http://example.org/ontology#Mathmos> <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#AstroLampSeries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ProductLine> <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#LavaLamp> <http://dbpedia.org/ontology/designer> <http://example.org/ontology#EdwardCravenWalker> <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#AstroLampSeries> <http://dbpedia.org/ontology/releaseDate> "1963-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#Mathmos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#DuranDuranLimitedEditionLamp> <http://dbpedia.org/ontology/associatedMusicalArtist> <http://dbpedia.org/resource/Duran_Duran> <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#LavaLampSong> <http://xmlns.com/foaf/0.1/name> "Lava Lamp"  <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#CressidaGranger> <http://dbpedia.org/ontology/occupation> "Managing Director"  <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#AnniversaryEditions> <http://dbpedia.org/ontology/manufacturer> <http://example.org/ontology#Mathmos> <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#Rankin> <http://xmlns.com/foaf/0.1/name> "Rankin"  <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#Poole> <http://xmlns.com/foaf/0.1/name> "Poole"  <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#LavaLampSong> <http://dbpedia.org/ontology/artist> <http://dbpedia.org/resource/Duran_Duran> <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#NickRhodes> <http://dbpedia.org/ontology/occupation> "Keyboardist"  <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#Poole> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_Kingdom> <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#EdwardCravenWalker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#DuranDuranLimitedEditionLamp> <http://xmlns.com/foaf/0.1/name> "Duran Duran Limited Edition Lava Lamp"  <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#Poole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#DuranDuranLimitedEditionLamp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#CressidaGranger> <http://xmlns.com/foaf/0.1/name> "Cressida Granger"  <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#LavaLamp> <http://dbpedia.org/ontology/abstract> "A symbol of counterculture and psychedelia, iconic piece of decor."@en  <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#EdwardCravenWalker> <http://xmlns.com/foaf/0.1/name> "Edward Craven Walker"  <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#LavaLamp> <http://dbpedia.org/ontology/manufacturer> <http://example.org/ontology#Mathmos> <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#AnniversaryEditions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ProductCollection> <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#StudioJob> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#LavaLamp> <http://dbpedia.org/ontology/productLine> <http://example.org/ontology#AstroLampSeries> <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#LavaLamp> <http://dbpedia.org/ontology/associatedMusicalArtist> <http://dbpedia.org/resource/Duran_Duran> <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#EdwardCravenWalker> <http://dbpedia.org/ontology/knownFor> <http://example.org/ontology#LavaLamp> <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#Mathmos> <http://dbpedia.org/ontology/product> <http://example.org/ontology#LavaLamp> <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#AstroLampSeries> <http://dbpedia.org/ontology/product> <http://example.org/ontology#LavaLamp> <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#LavaLampSong> <http://dbpedia.org/ontology/releaseDate> "2000-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#NickRhodes> <http://dbpedia.org/ontology/associatedMusicalArtist> <http://dbpedia.org/resource/Duran_Duran> <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#Dorset> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#NickRhodes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-euronews-6> .
+ <http://example.org/ontology#SabineMarcelis> <http://xmlns.com/foaf/0.1/name> "Sabine Marcelis"  <StanfordUniversity-euronews-6> .
+ <http://dbpedia.org/resource/The_Lion_King_II:_Simba's_Pride> <http://schema.org/about> "Romeo and Juliet-inspired sequel"  <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/The_Terminator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/The_Terminator> <http://dbpedia.org/ontology/inspiredBy> <http://dbpedia.org/resource/Harlan_Ellison> <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/Donnie_Darko> <http://schema.org/datePublished> "2001-10-26"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/The_Lion_King_II:_Simba's_Pride> <http://schema.org/datePublished> "1998-10-26"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/Donnie_Darko> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Jake_Gyllenhaal> <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/Suspiria_2018> <http://schema.org/about> "Remake of Dario Argento’s giallo horror classic"  <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/Boy_From_Heaven> <http://schema.org/datePublished> "2022-10-26"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/Suspiria_2018> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Luca_Guadagnino> <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/Donnie_Darko> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Newmarket_Films> <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/Suspiria_2018> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Amazon_Studios> <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/Boy_From_Heaven> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Memento> <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/The_Terminator> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Arnold_Schwarzenegger> <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/The_Terminator> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Linda_Hamilton> <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/The_Terminator> <http://schema.org/datePublished> "1984-10-26"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/The_Terminator> <http://schema.org/genre> "Sci-Fi"  <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/Boy_From_Heaven> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Tawfeek_Barhom> <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/The_Lion_King_II:_Simba's_Pride> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/The_Lion_King_II:_Simba's_Pride> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Disney> <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/Boy_From_Heaven> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Tarik_Saleh> <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/Donnie_Darko> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Richard_Kelly> <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/Donnie_Darko> <http://schema.org/genre> "Comedy"  <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/The_Terminator> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Michael_Biehn> <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/Suspiria_2018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/Boy_From_Heaven> <http://dbpedia.org/ontology/award> "Best Screenplay award at the 2022 Cannes Film Festival"  <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/Boy_From_Heaven> <http://schema.org/about> "Spy thriller"  <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/Boy_From_Heaven> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Fares_Fares> <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/Donnie_Darko> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Pandora_Cinema> <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/Donnie_Darko> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/The_Terminator> <http://schema.org/genre> "Horror"  <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/Boy_From_Heaven> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/Suspiria_2018> <http://schema.org/datePublished> "2018-10-26"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/The_Terminator> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/James_Cameron> <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/Donnie_Darko> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Patrick_Swayze> <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/Boy_From_Heaven> <http://schema.org/about> "Institutional and religious corruption in Egypt"  <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/Donnie_Darko> <http://schema.org/genre> "Sci-Fi"  <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/Boy_From_Heaven> <http://dbpedia.org/ontology/award> "François Chalais Prize"  <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/The_Terminator> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Orion_Pictures> <StanfordUniversity-euronews-7> .
+ <http://dbpedia.org/resource/The_Terminator> <http://schema.org/genre> "Action"  <StanfordUniversity-euronews-7> .
+ <http://example.org/ontology#BolognaUniversity> <http://dbpedia.org/ontology/location> <http://example.org/ontology#Bologna> <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#AsinelliTower> <http://example.org/ontology#isPartOfTwinTowers> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#GarisendaTower> <http://example.org/ontology#fundingSource> <http://example.org/ontology#ItalyNRRP> <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#ItalyGovernment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#Bologna> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "11.3426"^^<http://www.w3.org/2001/XMLSchema#float>  <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#GarisendaTower> <http://example.org/ontology#hasAcousticSensors> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#GarisendaTower> <http://example.org/ontology#hasBeenShortenedBy> "10.0"^^<http://www.w3.org/2001/XMLSchema#float>  <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#GarisendaTower> <http://dbpedia.org/ontology/constructionYear> "1119"^^<http://www.w3.org/2001/XMLSchema#gYear>  <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#GarisendaTower> <http://example.org/ontology#hasBeenUnderObservation> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#BolognaUniversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/University> <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#GarisendaTower> <http://example.org/ontology#hasStabilityConcern> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#GarisendaTower> <http://example.org/ontology#hasMortarReinforcementSince> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#MatteoLepore> <http://dbpedia.org/ontology/office> "Mayor of Bologna"  <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#ItalyGovernment> <http://example.org/ontology#criticises> <http://example.org/ontology#LocalCouncil> <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#RoadsAround> <http://example.org/ontology#GarisendaTower> <http://example.org/ontology#areClosed> <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#ItalyNRRP> <http://www.w3.org/2000/01/rdf-schema#label> "Italy's EU-funded National Recovery and Resilience Plan"  <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#GarisendaTower> <http://dbpedia.org/ontology/constructionYear> "1109"^^<http://www.w3.org/2001/XMLSchema#gYear>  <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#GarisendaTower> <http://example.org/ontology#hasSteelBandsSince> "2019"^^<http://www.w3.org/2001/XMLSchema#gYear>  <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#ItalyNRRP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FinancialProduct> <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#GarisendaTower> <http://dbpedia.org/ontology/owner> <http://example.org/ontology#LocalCouncil> <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#Bologna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/City> <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#GarisendaTower> <http://example.org/ontology#hasPendulumForTracking> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#GarisendaTower> <http://example.org/ontology#hasFundingAmount> "5000000.0"^^<http://www.w3.org/2001/XMLSchema#float>  <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#MatteoLepore> <http://example.org/ontology#commentsOn> <http://example.org/ontology#GarisendaTower> <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#GarisendaTower> <http://www.w3.org/2003/01/geo/wgs84_pos#long> "11.3464"^^<http://www.w3.org/2001/XMLSchema#float>  <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#ScientificTeam> <http://dbpedia.org/ontology/affiliation> <http://example.org/ontology#BolognaUniversity> <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#LuciaBorgonzoni> <http://example.org/ontology#criticises> <http://example.org/ontology#LocalCouncil> <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#LuciaBorgonzoni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#LuciaBorgonzoni> <http://example.org/ontology#expressesConcernAbout> <http://example.org/ontology#GarisendaTower> <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#GarisendaTower> <http://dbpedia.org/ontology/architecturalStyle> "Medieval"  <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#ScientificTeam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#Bologna> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "44.4949"^^<http://www.w3.org/2001/XMLSchema#float>  <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#AsinelliTower> <http://dbpedia.org/ontology/location> <http://example.org/ontology#Bologna> <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#GarisendaTower> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Building> <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#GarisendaTower> <http://example.org/ontology#hasAngle> "4.0"^^<http://www.w3.org/2001/XMLSchema#float>  <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#GarisendaTower> <http://example.org/ontology#hasHistoricSignificance> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#MatteoLepore> <http://xmlns.com/foaf/0.1/name> "Matteo Lepore"  <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#GarisendaTower> <http://example.org/ontology#hasScientificMonitoring> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#LocalCouncil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#GarisendaTower> <http://example.org/ontology#hasMonitoringTeam> <http://example.org/ontology#ScientificTeam> <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#GarisendaTower> <http://example.org/ontology#isPartOfTwinTowers> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#GarisendaTower> <http://www.w3.org/2003/01/geo/wgs84_pos#lat> "44.4942"^^<http://www.w3.org/2001/XMLSchema#float>  <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#GarisendaTower> <http://dbpedia.org/ontology/height> "48.0"^^<http://www.w3.org/2001/XMLSchema#float>  <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#LuciaBorgonzoni> <http://xmlns.com/foaf/0.1/name> "Lucia Borgonzoni"  <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#ItalyGovernment> <http://example.org/ontology#allocatesFunding> <http://example.org/ontology#GarisendaTower> <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#MatteoLepore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#LuciaBorgonzoni> <http://dbpedia.org/ontology/office> "Undersecretary for Italy's culture ministry"  <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#GarisendaTower> <http://example.org/ontology#hasUnusualMovementDetection> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#GarisendaTower> <http://dbpedia.org/ontology/location> <http://example.org/ontology#Bologna> <StanfordUniversity-euronews-8> .
+ <http://example.org/ontology#AsinelliTower> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Building> <StanfordUniversity-euronews-8> .
+ <http://example.org/entities/DanSexton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/Report> <http://purl.org/dc/terms/description> "A report by the IWF on the rise of child sexual abuse imagery on the Internet and the potential worsening of the situation due to AI-generated deepfake photos."  <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/AP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/StatementAboutInvestigation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> "IWF analysts discovered faces of famous children online as well as a massive demand for the creation of more images of children who’ve already been abused, possibly years ago."  <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/DavidThiel> <http://xmlns.com/foaf/0.1/name> "David Thiel"  <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/SouthKorea> <http://schema.org/name> "South Korea"  <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/ChildAbuse> <http://schema.org/name> "Child Sexual Abuse"  <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/IWF> <http://xmlns.com/foaf/0.1/homepage> <https://www.iwf.org.uk/> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/Report> <http://schema.org/mentions> <http://example.org/entities/ChildSexualAbuseImagery> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/Report> <http://purl.org/dc/terms/title> "Rise in child sexual abuse imagery on the Internet"  <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/StableDiffusion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/ChildSexualAbuseImagery> <http://purl.org/dc/terms/subject> <http://example.org/entities/ChildAbuse> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/GlobalAISafetyGathering> <http://schema.org/name> "Global AI safety gathering"  <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/London> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/DanSexton> <http://xmlns.com/foaf/0.1/made> <http://example.org/entities/StatementAboutInvestigation> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/SusieHargreaves> <http://xmlns.com/foaf/0.1/name> "Susie Hargreaves"  <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/Report> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/BritishGovernment> <http://xmlns.com/foaf/0.1/name> "British Government"  <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/Abusers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/DarkWebForums> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebSite> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/DanSexton> <http://schema.org/jobTitle> "Chief Technology Officer"  <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/StableDiffusion> <http://schema.org/softwareVersion> "1.0"  <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/ChildSexualAbuseImagery> <http://schema.org/contentRating> "Category A"  <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/GlobalAISafetyGathering> <http://schema.org/attendee> <http://example.org/entities/TechLeaders> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/StableDiffusion> <http://schema.org/dateCreated> "2022-08-01"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/TechLeaders> <http://xmlns.com/foaf/0.1/name> "Tech Leaders"  <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/StanfordInternetObservatory> <http://xmlns.com/foaf/0.1/name> "Stanford Internet Observatory"  <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/DarkWebForums> <http://schema.org/about> <http://example.org/entities/ChildSexualAbuseImagery> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/London> <http://schema.org/name> "London"  <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/SusieHargreaves> <http://schema.org/affiliation> <http://example.org/entities/IWF> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/StabilityAI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/DanSexton> <http://xmlns.com/foaf/0.1/made> <http://example.org/entities/StatementAboutHarm> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/DavidThiel> <http://schema.org/affiliation> <http://example.org/entities/StanfordInternetObservatory> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/StanfordInternetObservatory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/SouthKorea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/DarkWebForums> <http://purl.org/dc/terms/creator> <http://example.org/entities/Abusers> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/BusanDistrictCourt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/Report> <http://schema.org/mentions> <http://example.org/entities/DarkWebForums> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/ChildAbuse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/SusieHargreaves> <http://schema.org/jobTitle> "CEO"  <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/GlobalAISafetyGathering> <http://purl.org/dc/terms/date> "2023-04-03"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/GlobalAISafetyGathering> <http://schema.org/organizer> <http://example.org/entities/BritishGovernment> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/GlobalAISafetyGathering> <http://schema.org/attendee> <http://example.org/entities/KamalaHarris> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/UK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/BritishGovernment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/DavidThiel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/Report> <http://purl.org/dc/terms/creator> <http://example.org/entities/IWF> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/IWF> <http://schema.org/report> <http://example.org/entities/Report> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/IWF> <http://schema.org/event> <http://example.org/entities/ChildAbuse> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/ChildSexualAbuseImagery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/KamalaHarris> <http://xmlns.com/foaf/0.1/name> "Kamala Harris"  <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/StatementAboutHarm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/IWF> <http://xmlns.com/foaf/0.1/name> "Internet Watch Foundation"  <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/StatementAboutInvestigation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/description> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/KamalaHarris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/AP> <http://xmlns.com/foaf/0.1/name> "AP"  <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/StatementAboutHarm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> "This is happening right now and it needs to be addressed right now"  <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/StatementAboutHarm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://example.org/entities/ChildSexualAbuseImagery> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/GlobalAISafetyGathering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/UK> <http://schema.org/name> "United Kingdom"  <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/DanSexton> <http://xmlns.com/foaf/0.1/name> "Dan Sexton"  <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/Report> <http://schema.org/mentions> <http://example.org/entities/StableDiffusion> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/TechLeaders> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/Abusers> <http://xmlns.com/foaf/0.1/name> "Abusers"  <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/DavidThiel> <http://schema.org/jobTitle> "Chief Technologist"  <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/StatementAboutInvestigation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://example.org/entities/DarkWebForums> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/Euronews> <http://xmlns.com/foaf/0.1/name> "Euronews"  <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/StableDiffusion> <http://schema.org/creator> <http://example.org/entities/StabilityAI> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/StabilityAI> <http://xmlns.com/foaf/0.1/name> "Stability AI"  <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/StabilityAI> <http://schema.org/location> <http://example.org/entities/London> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/Euronews> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/DarkWeb> <http://schema.org/name> "Dark Web"  <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/StatementAboutInvestigation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/SusieHargreaves> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/BusanDistrictCourt> <http://schema.org/location> <http://example.org/entities/SouthKorea> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/IWF> <http://schema.org/location> <http://example.org/entities/UK> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/Report> <http://purl.org/dc/terms/date> "2023-03-28"^^<http://www.w3.org/2001/XMLSchema#date>  <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/BusanDistrictCourt> <http://xmlns.com/foaf/0.1/name> "Busan District Court"  <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/StatementAboutHarm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://purl.org/dc/terms/description> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/KamalaHarris> <http://schema.org/jobTitle> "US Vice President"  <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/DanSexton> <http://schema.org/affiliation> <http://example.org/entities/IWF> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/IWF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/DarkWeb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebSite> <StanfordUniversity-euronews-9> .
+ <http://example.org/entities/DarkWebForums> <http://schema.org/isPartOf> <http://example.org/entities/DarkWeb> <StanfordUniversity-euronews-9> .

@@ -1,0 +1,651 @@
+ <http://example.org/ontology#LifeExpectancyJapanWomen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#LifeExpectancy> <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#LifeExpectancyJapanWomen> <http://example.org/ontology#averageLifespan> "86"^^<http://www.w3.org/2001/XMLSchema#int>  <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#JessicaBaldwin> <http://xmlns.com/foaf/0.1/name> "Jessica Baldwin"  <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#AlcoholAbuse> <http://example.org/ontology#affects> "young men"  <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#LancetMagazine> <http://example.org/ontology#basedIn> "UK"  <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#ChildhoodMalnutritionRisk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#RiskFactor> <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#LifeExpectancyIcelandMen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#LifeExpectancy> <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#HeartAttacksAndStrokes> <http://example.org/ontology#deathRatio> "1 in 4"  <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#JessicaBaldwin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#ObesityRisk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#RiskFactor> <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#LifeExpectancyIcelandMen> <http://example.org/ontology#region> "Iceland"  <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#LifeExpectancyHaitiMen> <http://example.org/ontology#averageLifespan> "33"^^<http://www.w3.org/2001/XMLSchema#int>  <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#AlcoholAbuse> <http://www.w3.org/2000/01/rdf-schema#label> "Alcohol abuse"  <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#GlobalHealthStudy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Study> <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#ObesityRisk> <http://example.org/ontology#currentRanking> "1"^^<http://www.w3.org/2001/XMLSchema#int>  <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#LifeExpectancyIcelandMen> <http://example.org/ontology#averageLifespan> "80"^^<http://www.w3.org/2001/XMLSchema#int>  <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#AlJazeera> <http://xmlns.com/foaf/0.1/name> "Al Jazeera"  <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#AlJazeera> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#LifeExpectancyIcelandMen> <http://example.org/ontology#gender> "male"  <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#AlJazeera> <http://example.org/ontology#hasReporter> <http://example.org/ontology#JessicaBaldwin> <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#LifeExpectancyHaitiWomen> <http://example.org/ontology#averageLifespan> "44"^^<http://www.w3.org/2001/XMLSchema#int>  <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#AlcoholAbuse> <http://example.org/ontology#impactArea> <http://example.org/ontology#EasternEurope> <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#LatinAmerica> <http://example.org/ontology#nickname> "the homicide belt"  <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#ChildhoodMalnutritionRisk> <http://www.w3.org/2000/01/rdf-schema#label> "Childhood malnutrition as a risk factor for early death"  <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#LifeExpectancyHaitiWomen> <http://example.org/ontology#gender> "female"  <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#JessicaBaldwin> <http://example.org/ontology#reportsFrom> "London"  <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#ChildhoodMalnutritionRisk> <http://example.org/ontology#rankingIn1990> "1"^^<http://www.w3.org/2001/XMLSchema#int>  <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#Violence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#CauseOfDeath> <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#Suicide> <http://example.org/ontology#prevalentIn> <http://example.org/ontology#DevelopedCountriesInAsia> <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#LifeExpectancy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#DemographicData> <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#HeartAttacksAndStrokes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#CauseOfDeath> <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#LatinAmerica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Region> <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#AlcoholAbuse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#HealthIssue> <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#ObesityRisk> <http://www.w3.org/2000/01/rdf-schema#label> "Obesity as a risk factor for early death"  <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#ChildhoodMalnutritionRisk> <http://example.org/ontology#currentRanking> "8"^^<http://www.w3.org/2001/XMLSchema#int>  <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#LifeExpectancyHaitiWomen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#LifeExpectancy> <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#LifeExpectancyHaitiWomen> <http://example.org/ontology#region> "Haiti"  <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#AlcoholAbuse> <http://example.org/ontology#impactArea> <http://example.org/ontology#CentralAsia> <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#DevelopedCountriesInAsia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Region> <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#DevelopedCountriesInAsia> <http://www.w3.org/2000/01/rdf-schema#label> "Developed countries in Asia"  <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#LifeExpectancyHaitiMen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#LifeExpectancy> <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#Violence> <http://example.org/ontology#prevalentIn> <http://example.org/ontology#LatinAmerica> <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#LifeExpectancyHaitiMen> <http://example.org/ontology#region> "Haiti"  <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#LancetMagazine> <http://xmlns.com/foaf/0.1/name> "The Lancet"  <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#LifeExpectancyJapanWomen> <http://example.org/ontology#gender> "female"  <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#EasternEurope> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Region> <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#LatinAmerica> <http://www.w3.org/2000/01/rdf-schema#label> "Latin America"  <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#LifeExpectancyJapanWomen> <http://example.org/ontology#region> "Japan"  <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#GlobalHealthStudy> <http://example.org/ontology#finding> <http://example.org/ontology#ObesityRisk> <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#LifeExpectancyHaitiMen> <http://example.org/ontology#gender> "male"  <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#Suicide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#CauseOfDeath> <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#CentralAsia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Region> <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#GlobalHealthStudy> <http://example.org/ontology#finding> <http://example.org/ontology#ChildhoodMalnutritionRisk> <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#HeartAttacksAndStrokes> <http://www.w3.org/2000/01/rdf-schema#label> "Heart attacks and strokes"  <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#GlobalHealthStudy> <http://example.org/ontology#publishedBy> <http://example.org/ontology#LancetMagazine> <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#LancetMagazine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Obesity-Al-Jazeera-0> .
+ <http://example.org/ontology#HealthIssueMalnutrition> <http://www.w3.org/2000/01/rdf-schema#label> "Malnutrition"  <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#UAEObesityWomen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Statistic> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#RoadTrafficAccidentsTotalDeaths> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Statistic> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#SaudiArabiaObesityMen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Statistic> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#EgyptChildObesity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Statistic> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#OECD> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#HealthcareSpending> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FinancialCommitment> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#WorldBankMENAStrategy> <http://dbpedia.org/ontology/creator> <http://example.org/ontology#AminaSemlali> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#UAEObesityMen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Statistic> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#HealthIssueCarAccidents> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#HealthIssue> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#HealthIssueDepression> <http://www.w3.org/2000/01/rdf-schema#label> "Depression"  <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#OECDHealthcareSpending> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FinancialCommitment> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#OECDHealthcareSpending> <http://example.org/ontology#averagePercentage> "17"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#KuwaitObesityMen> <http://example.org/ontology#populationGroup> <http://example.org/ontology#Men> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#HealthIssueCarAccidents> <http://www.w3.org/2000/01/rdf-schema#label> "Car Accidents"  <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#HealthcareCostsLowIncomeCountries> <http://example.org/ontology#percentageCoveredByHouseholds> "55"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#AminaSemlali> <http://dbpedia.org/ontology/workPlace> <http://dbpedia.org/resource/World_Bank> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#KuwaitObesityWomen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Statistic> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#JordanObesityWomen> <http://example.org/ontology#percentage> "37.9"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#EgyptChildObesity> <http://example.org/ontology#percentage> "20"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#HealthSystemTransformation> <http://www.w3.org/2000/01/rdf-schema#label> "Transforming health systems to focus on preserving and promoting health"  <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#HealthIssueHighBloodPressure> <http://www.w3.org/2000/01/rdf-schema#label> "High Blood Pressure"  <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#SaudiArabiaObesityMen> <http://example.org/ontology#populationGroup> <http://example.org/ontology#Men> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#HealthIssueHeartDisease> <http://www.w3.org/2000/01/rdf-schema#label> "Heart Disease"  <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#UAEObesityWomen> <http://example.org/ontology#populationGroup> <http://example.org/ontology#Women> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#EgyptObesityWomen> <http://example.org/ontology#populationGroup> <http://example.org/ontology#Women> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#RoadTrafficAccidentsTotalDeaths> <http://example.org/ontology#year> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#YemenMalnutritionEmergency> <http://example.org/ontology#affectedGroup> <http://example.org/ontology#Children> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#HealthIssueRoadTrafficAccidents> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#HealthIssue> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#HealthIssueMalnutrition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#HealthIssue> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#KuwaitObesityWomen> <http://example.org/ontology#percentage> "55.2"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#KuwaitObesityMen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Statistic> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#HealthIssueUndernutrition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#HealthIssue> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#JordanObesityWomen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Statistic> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#RoadTrafficAccidentsTotalDeaths> <http://example.org/ontology#numberOfDeaths> "73500"^^<http://www.w3.org/2001/XMLSchema#integer>  <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#DepressionWomenMENA> <http://example.org/ontology#ageGroup> "15-49"^^<http://www.w3.org/2001/XMLSchema#string>  <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#HealthcareCostsLowIncomeCountries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FinancialStatistic> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#KuwaitObesityWomen> <http://example.org/ontology#populationGroup> <http://example.org/ontology#Women> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#EgyptObesityWomen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Statistic> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#RoadTrafficAccidentsYoungMenDeaths> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Statistic> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#YemenChildStunting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Statistic> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#EgyptChildStunting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Statistic> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#AminaSemlali> <http://xmlns.com/foaf/0.1/occupation> <http://example.org/ontology#HumanDevelopmentSpecialist> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#BahrainObesityMen> <http://example.org/ontology#populationGroup> <http://example.org/ontology#Men> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#EgyptObesityMen> <http://example.org/ontology#populationGroup> <http://example.org/ontology#Men> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#HealthIssueDepression> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#HealthIssue> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#HealthIssueObesity> <http://www.w3.org/2000/01/rdf-schema#label> "Obesity"  <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#MENAGovernments> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Entity> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#HealthcareCostsMiddleIncomeCountries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FinancialStatistic> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#HealthIssueHighBloodPressure> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#HealthIssue> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#HealthIssueDiabetes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#HealthIssue> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#BahrainObesityMen> <http://example.org/ontology#percentage> "21.2"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#HealthIssueObesity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#HealthIssue> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#WorldBankMENAStrategy> <http://example.org/ontology#focus> <http://example.org/ontology#HealthSystemTransformation> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#UAEObesityWomen> <http://example.org/ontology#percentage> "42.0"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#BahrainObesityWomen> <http://example.org/ontology#percentage> "37.9"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#HealthIssueStunting> <http://www.w3.org/2000/01/rdf-schema#label> "Stunting"  <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#AminaSemlali> <http://xmlns.com/foaf/0.1/name> "Amina Semlali"  <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#BahrainObesityWomen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Statistic> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#YemenChildStunting> <http://example.org/ontology#percentage> "60"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#RoadTrafficAccidentsYoungMenDeaths> <http://example.org/ontology#numberOfDeaths> "35900"^^<http://www.w3.org/2001/XMLSchema#integer>  <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#HealthSystemTransformation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Concept> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#HealthIssueUndernutrition> <http://www.w3.org/2000/01/rdf-schema#label> "Undernutrition"  <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#JordanObesityWomen> <http://example.org/ontology#populationGroup> <http://example.org/ontology#Women> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#OECD> <http://www.w3.org/2000/01/rdf-schema#label> "Organisation for Economic Co-operation and Development"  <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#SaudiArabiaObesityMen> <http://example.org/ontology#percentage> "23.0"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#KuwaitObesityMen> <http://example.org/ontology#percentage> "29.6"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#HealthIssueRoadTrafficAccidents> <http://www.w3.org/2000/01/rdf-schema#label> "Road Traffic Accidents"  <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#HealthcareCostsMiddleIncomeCountries> <http://example.org/ontology#percentageCoveredByHouseholds> "40"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#RoadTrafficAccidentsYoungMenDeaths> <http://example.org/ontology#year> "2010"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#HealthIssueStunting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#HealthIssue> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#HealthcareSpending> <http://example.org/ontology#averagePercentage> "8"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#EgyptChildStunting> <http://example.org/ontology#populationGroup> <http://example.org/ontology#ChildrenUnderFive> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#HumanDevelopmentSpecialist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#HealthIssueHeartDisease> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#HealthIssue> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#AminaSemlali> <http://dbpedia.org/ontology/region> <http://dbpedia.org/resource/Middle_East_and_North_Africa> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#EgyptChildStunting> <http://example.org/ontology#percentage> "30"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#UAEObesityMen> <http://example.org/ontology#populationGroup> <http://example.org/ontology#Men> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#AminaSemlali> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#BahrainObesityMen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Statistic> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#EgyptObesityMen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Statistic> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#DepressionWomenMENA> <http://example.org/ontology#leadingCause> <http://example.org/ontology#Depression> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#WorldBankMENAStrategy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Strategy> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#DepressionWomenMENA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#HealthStatistic> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#HealthIssueDiabetes> <http://www.w3.org/2000/01/rdf-schema#label> "Diabetes"  <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#YemenMalnutritionEmergency> <http://example.org/ontology#percentageStunted> "60"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#EgyptObesityMen> <http://example.org/ontology#percentage> "20"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#MENAGovernments> <http://example.org/ontology#commitment> <http://example.org/ontology#HealthcareSpending> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#EgyptChildObesity> <http://example.org/ontology#populationGroup> <http://example.org/ontology#ChildrenUnderFive> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#EgyptObesityWomen> <http://example.org/ontology#percentage> "50"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#YemenChildStunting> <http://example.org/ontology#populationGroup> <http://example.org/ontology#Children> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#YemenMalnutritionEmergency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#HealthEmergency> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#BahrainObesityWomen> <http://example.org/ontology#populationGroup> <http://example.org/ontology#Women> <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#UAEObesityMen> <http://example.org/ontology#percentage> "24.5"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-1> .
+ <http://example.org/ontology#AppetiteForProfit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Book> <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#BaylenLinnekin> <http://xmlns.com/foaf/0.1/name> "Baylen Linnekin"  <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#BarbaraMoore> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/President> <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#USObesityStatistics> <http://dbpedia.org/ontology/obesityRateByState> <http://Obesity-Al-Jazeera-2.com/blank#n669007b6ec2c4846bb6939d99672c203b5>  <Obesity-Al-Jazeera-2> .
+ <http://Obesity-Al-Jazeera-2.com/blank#n669007b6ec2c4846bb6939d99672c203b3> <http://dbpedia.org/ontology/target> <http://example.org/ontology#Schools> <Obesity-Al-Jazeera-2> .
+ <http://Obesity-Al-Jazeera-2.com/blank#n669007b6ec2c4846bb6939d99672c203b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statistic> <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#ObesityEpidemic> <http://dbpedia.org/ontology/cost> "$150bn"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-2> .
+ <http://Obesity-Al-Jazeera-2.com/blank#n669007b6ec2c4846bb6939d99672c203b1> <http://schema.org/healthCondition> <http://example.org/ontology#Obesity> <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#USObesityStatistics> <http://dbpedia.org/ontology/currentPercentageOfObeseAdults> "35.7"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#AppetiteForProfit> <http://dbpedia.org/ontology/author> <http://example.org/ontology#MicheleSimon> <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#InstituteOfMedicineReport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Document> <Obesity-Al-Jazeera-2> .
+ <http://Obesity-Al-Jazeera-2.com/blank#n669007b6ec2c4846bb6939d99672c203b1> <http://xmlns.com/foaf/0.1/name> "US Center for Disease Control and Prevention"  <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#KeepFoodLegal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#BaylenLinnekin> <http://dbpedia.org/ontology/organization> <http://example.org/ontology#KeepFoodLegal> <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#ShapeUpAmerica> <http://dbpedia.org/ontology/campaignForAwarenessOn> <http://example.org/ontology#ObesityEpidemic> <Obesity-Al-Jazeera-2> .
+ <http://Obesity-Al-Jazeera-2.com/blank#n669007b6ec2c4846bb6939d99672c203b2> <http://dbpedia.org/ontology/target> <http://example.org/ontology#ObesityEpidemic> <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#ShapeUpAmerica> <http://dbpedia.org/ontology/president> <http://example.org/ontology#BarbaraMoore> <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#USObesityStatistics> <http://dbpedia.org/ontology/annualMedicalCost> "$147bn"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#USObesityStatistics> <http://dbpedia.org/ontology/costOverTime> <http://Obesity-Al-Jazeera-2.com/blank#n669007b6ec2c4846bb6939d99672c203b4>  <Obesity-Al-Jazeera-2> .
+ <http://Obesity-Al-Jazeera-2.com/blank#n669007b6ec2c4846bb6939d99672c203b5> <http://dbpedia.org/ontology/percentage> "34"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#MicheleSimon> <http://xmlns.com/foaf/0.1/publications> <http://example.org/ontology#AppetiteForProfit> <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#USFoodIndustryLobby> <http://dbpedia.org/ontology/lobbyingFor> <http://Obesity-Al-Jazeera-2.com/blank#n669007b6ec2c4846bb6939d99672c203b2>  <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#InstituteOfMedicineReport> <http://dbpedia.org/ontology/author> <http://example.org/ontology#InstituteOfMedicine> <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#USObesityStatistics> <http://dbpedia.org/ontology/obesityRateByState> <http://Obesity-Al-Jazeera-2.com/blank#n669007b6ec2c4846bb6939d99672c203b6>  <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#InstituteOfMedicineReport> <http://dbpedia.org/ontology/subject> <http://example.org/ontology#ObesityEpidemic> <Obesity-Al-Jazeera-2> .
+ <http://Obesity-Al-Jazeera-2.com/blank#n669007b6ec2c4846bb6939d99672c203b6> <http://dbpedia.org/ontology/state> <http://dbpedia.org/resource/Colorado> <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#InstituteOfMedicine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#InstituteOfMedicineReport> <http://dbpedia.org/ontology/recommendation> <http://Obesity-Al-Jazeera-2.com/blank#n669007b6ec2c4846bb6939d99672c203b3>  <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#AppetiteForProfit> <http://dbpedia.org/ontology/subject> <http://example.org/ontology#USFoodIndustryLobby> <Obesity-Al-Jazeera-2> .
+ <http://Obesity-Al-Jazeera-2.com/blank#n669007b6ec2c4846bb6939d99672c203b3> <http://dbpedia.org/ontology/action> "Ensure quality physical activity and awareness of nutritional standards among children."  <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#BarbaraMoore> <http://xmlns.com/foaf/0.1/name> "Barbara Moore"  <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#USObesityStatistics> <http://dbpedia.org/ontology/percentageOfObeseAdults> "42"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#USFoodIndustryLobby> <http://dbpedia.org/ontology/influenceOn> <http://example.org/ontology#ObesityEpidemic> <Obesity-Al-Jazeera-2> .
+ <http://Obesity-Al-Jazeera-2.com/blank#n669007b6ec2c4846bb6939d99672c203b4> <http://dbpedia.org/ontology/amount> "$550bn"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-2> .
+ <http://Obesity-Al-Jazeera-2.com/blank#n669007b6ec2c4846bb6939d99672c203b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Recommendation> <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#USObesityStatistics> <http://dbpedia.org/ontology/expectedYear> "2030"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#ObesityEpidemic> <http://dbpedia.org/ontology/associatedWith> <http://Obesity-Al-Jazeera-2.com/blank#n669007b6ec2c4846bb6939d99672c203b1>  <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#BaylenLinnekin> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/ExecutiveDirector> <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#ObesityEpidemic> <http://dbpedia.org/ontology/deathCauseRank> "2"^^<http://www.w3.org/2001/XMLSchema#integer>  <Obesity-Al-Jazeera-2> .
+ <http://Obesity-Al-Jazeera-2.com/blank#n669007b6ec2c4846bb6939d99672c203b4> <http://dbpedia.org/ontology/timePeriod> "20 years"^^<http://www.w3.org/2001/XMLSchema#string>  <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#KeepFoodLegal> <http://dbpedia.org/ontology/executiveDirector> <http://example.org/ontology#BaylenLinnekin> <Obesity-Al-Jazeera-2> .
+ <http://Obesity-Al-Jazeera-2.com/blank#n669007b6ec2c4846bb6939d99672c203b5> <http://dbpedia.org/ontology/state> <http://dbpedia.org/resource/Mississippi> <Obesity-Al-Jazeera-2> .
+ <http://Obesity-Al-Jazeera-2.com/blank#n669007b6ec2c4846bb6939d99672c203b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statistic> <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#ObesityEpidemic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Disease> <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#BarbaraMoore> <http://dbpedia.org/ontology/organization> <http://example.org/ontology#ShapeUpAmerica> <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#InstituteOfMedicine> <http://xmlns.com/foaf/0.1/name> "Institute of Medicine"  <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#MicheleSimon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#BaylenLinnekin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-Al-Jazeera-2> .
+ <http://Obesity-Al-Jazeera-2.com/blank#n669007b6ec2c4846bb6939d99672c203b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Policy> <Obesity-Al-Jazeera-2> .
+ <http://Obesity-Al-Jazeera-2.com/blank#n669007b6ec2c4846bb6939d99672c203b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#USFoodIndustryLobby> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Food_industry> <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#ShapeUpAmerica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#USObesityStatistics> <http://dbpedia.org/ontology/percentageOfSeverelyObeseAdults> "11"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-2> .
+ <http://Obesity-Al-Jazeera-2.com/blank#n669007b6ec2c4846bb6939d99672c203b6> <http://dbpedia.org/ontology/percentage> "21"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#USFoodIndustryLobby> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#MicheleSimon> <http://xmlns.com/foaf/0.1/name> "Michele Simon"  <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#USObesityStatistics> <http://dbpedia.org/ontology/medicalCostPercentageOfAnnual> "9"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#BarbaraMoore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-Al-Jazeera-2> .
+ <http://Obesity-Al-Jazeera-2.com/blank#n669007b6ec2c4846bb6939d99672c203b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Cost> <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#KeepFoodLegal> <http://dbpedia.org/ontology/opposesGovernmentRegulationOn> <http://dbpedia.org/resource/Food_regulation> <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#ObesityEpidemic> <http://dbpedia.org/ontology/cause> <http://example.org/ontology#USFoodIndustryLobby> <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#MicheleSimon> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Author> <Obesity-Al-Jazeera-2> .
+ <http://example.org/ontology#InstituteOfMedicine> <http://dbpedia.org/ontology/publication> <http://example.org/ontology#InstituteOfMedicineReport> <Obesity-Al-Jazeera-2> .
+ <http://dbpedia.org/resource/Enrique_Cifuentes> <http://xmlns.com/foaf/0.1/name> "Enrique Cifuentes"  <Obesity-Al-Jazeera-3> .
+ <http://example.org/ObesityResearcher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Zipolite> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Cargill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Obesity-Al-Jazeera-3> .
+ <http://example.org/DirectorGeneralFAO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/North_American_Free_Trade_Agreement> <http://dbpedia.org/ontology/startDate> "1994-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Vicente_Fox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Walmart> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/North_American_Free_Trade_Agreement> <http://dbpedia.org/ontology/wikiPageExternalLink> <https://en.wikipedia.org/wiki/North_American_Free_Trade_Agreement> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/University_of_North_Carolina_at_Chapel_Hill> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Jose_Graziano_da_Silva> <http://dbpedia.org/ontology/occupation> <http://example.org/DirectorGeneralFAO> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Vicente_Fox> <http://dbpedia.org/ontology/occupation> <http://example.org/CEO_CocaColaMexico> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Walmart> <http://dbpedia.org/ontology/wikiPageExternalLink> <https://en.wikipedia.org/wiki/Walmart> <Obesity-Al-Jazeera-3> .
+ <http://example.org/DirectorGeneralFAO> <http://www.w3.org/2000/01/rdf-schema#label> "Director General of the FAO"  <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/UNESCO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Obesity-Al-Jazeera-3> .
+ <http://example.org/Obesity> <http://schema.org/associatedDisease> <http://dbpedia.org/resource/Obesity> <Obesity-Al-Jazeera-3> .
+ <http://example.org/ObesityResearcher> <http://www.w3.org/2000/01/rdf-schema#label> "Obesity researcher"  <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Oaxaca> <http://dbpedia.org/ontology/minimumAge> "18"^^<http://www.w3.org/2001/XMLSchema#int>  <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Cargill> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Agriculture> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Mexico> <http://dbpedia.org/ontology/governmentType> <http://dbpedia.org/resource/Federal_government> <Obesity-Al-Jazeera-3> .
+ <http://example.org/CoronavirusTsar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <Obesity-Al-Jazeera-3> .
+ <http://example.org/Author> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Mexico> <http://dbpedia.org/ontology/populationTotal> "126,014,024"^^<http://www.w3.org/2001/XMLSchema#int>  <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Enrique_Cifuentes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Zipolite> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Mexico> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Hugo_Lopez-Gatell> <http://xmlns.com/foaf/0.1/title> "Assistant Health Secretary"  <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Jose_Graziano_da_Silva> <http://xmlns.com/foaf/0.1/name> "Jose Graziano da Silva"  <Obesity-Al-Jazeera-3> .
+ <http://example.org/MedicalDoctor> <http://www.w3.org/2000/01/rdf-schema#label> "Medical doctor"  <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/North_American_Free_Trade_Agreement> <http://dbpedia.org/ontology/signatory> <http://dbpedia.org/resource/United_States> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Alyshia_Galvez> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <https://en.wikipedia.org/wiki/Alyshia_G%C3%A1lvez> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/UNESCO> <http://dbpedia.org/ontology/wikiPageExternalLink> <https://en.wikipedia.org/wiki/UNESCO> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Alyshia_Galvez> <http://dbpedia.org/ontology/occupation> <http://example.org/Author> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Donald_Trump> <http://xmlns.com/foaf/0.1/name> "Donald Trump"  <Obesity-Al-Jazeera-3> .
+ <http://example.org/Obesity> <http://schema.org/associatedDisease> <http://dbpedia.org/resource/Diabetes> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Hugo_Lopez-Gatell> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <https://en.wikipedia.org/wiki/Hugo_L%C3%B3pez-Gatell_Ram%C3%ADrez> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Donald_Trump> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/President_of_the_United_States> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Mexico> <http://dbpedia.org/ontology/deathRate> "70,000"^^<http://www.w3.org/2001/XMLSchema#int>  <Obesity-Al-Jazeera-3> .
+ <http://example.org/MedicalDoctor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Eating_NAFTA> <http://dbpedia.org/ontology/author> <http://dbpedia.org/resource/Alyshia_Galvez> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Hugo_Lopez-Gatell> <http://dbpedia.org/ontology/occupation> <http://example.org/CoronavirusTsar> <Obesity-Al-Jazeera-3> .
+ <http://example.org/CEO_CocaColaMexico> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Cargill> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Food_processing> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/North_American_Free_Trade_Agreement> <http://dbpedia.org/ontology/signatory> <http://dbpedia.org/resource/Mexico> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/University_of_North_Carolina_at_Chapel_Hill> <http://dbpedia.org/ontology/wikiPageExternalLink> <https://en.wikipedia.org/wiki/University_of_North_Carolina_at_Chapel_Hill> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Cargill> <http://dbpedia.org/ontology/wikiPageExternalLink> <https://en.wikipedia.org/wiki/Cargill> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Donald_Trump> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Mexico> <http://dbpedia.org/ontology/deathCause> <http://dbpedia.org/resource/COVID-19> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/North_American_Free_Trade_Agreement> <http://dbpedia.org/ontology/signatory> <http://dbpedia.org/resource/Canada> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Jose_Graziano_da_Silva> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <https://en.wikipedia.org/wiki/Jos%C3%A9_Graziano_da_Silva> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Eating_NAFTA> <http://dbpedia.org/ontology/wikiPageExternalLink> <https://en.wikipedia.org/wiki/Eating_NAFTA> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Enrique_Cifuentes> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <https://en.wikipedia.org/wiki/Enrique_Cifuentes> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Harvard_T.H._Chan_School_of_Public_Health> <http://dbpedia.org/ontology/wikiPageExternalLink> <https://en.wikipedia.org/wiki/Harvard_T.H._Chan_School_of_Public_Health> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Vicente_Fox> <http://xmlns.com/foaf/0.1/title> "Former President of Mexico"  <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Enrique_Cifuentes> <http://dbpedia.org/ontology/occupation> <http://example.org/MedicalDoctor> <Obesity-Al-Jazeera-3> .
+ <http://example.org/Obesity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/HealthAspect> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Alyshia_Galvez> <http://xmlns.com/foaf/0.1/name> "Alyshia Galvez"  <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Zipolite> <http://dbpedia.org/ontology/wikiPageExternalLink> <https://en.wikipedia.org/wiki/Zipolite> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Hugo_Lopez-Gatell> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Health_Secretary> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Donald_Trump> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <https://en.wikipedia.org/wiki/Donald_Trump> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Washington_University_Journal_of_Law_and_Policy> <http://dbpedia.org/ontology/wikiPageExternalLink> <https://en.wikipedia.org/wiki/Washington_University_Journal_of_Law_%26_Policy> <Obesity-Al-Jazeera-3> .
+ <http://example.org/Obesity> <http://schema.org/epidemiology> "Among the highest obesity levels and the highest child obesity rate in Mexico"  <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Barry_Popkin> <http://xmlns.com/foaf/0.1/name> "Barry Popkin"  <Obesity-Al-Jazeera-3> .
+ <http://example.org/CoronavirusTsar> <http://www.w3.org/2000/01/rdf-schema#label> "Government's coronavirus tsar"  <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Hugo_Lopez-Gatell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Walmart> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Retail> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Jose_Graziano_da_Silva> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Oaxaca> <http://schema.org/healthAspect> <http://example.org/Obesity> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Barry_Popkin> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <https://en.wikipedia.org/wiki/Barry_Popkin> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Vicente_Fox> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <https://en.wikipedia.org/wiki/Vicente_Fox> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Oaxaca> <http://dbpedia.org/ontology/populationTotal> "3,967,889"^^<http://www.w3.org/2001/XMLSchema#int>  <Obesity-Al-Jazeera-3> .
+ <http://example.org/CEO_CocaColaMexico> <http://www.w3.org/2000/01/rdf-schema#label> "CEO of Coca-Cola Mexico"  <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Hugo_Lopez-Gatell> <http://xmlns.com/foaf/0.1/name> "Hugo Lopez-Gatell"  <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Harvard_T.H._Chan_School_of_Public_Health> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <Obesity-Al-Jazeera-3> .
+ <http://example.org/Author> <http://www.w3.org/2000/01/rdf-schema#label> "Author"  <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/North_American_Free_Trade_Agreement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agreement> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Eating_NAFTA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Book> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Barry_Popkin> <http://dbpedia.org/ontology/occupation> <http://example.org/ObesityResearcher> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Food_and_Agriculture_Organization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Alyshia_Galvez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Mexico> <http://dbpedia.org/ontology/officialLanguage> <http://dbpedia.org/resource/Spanish_language> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Food_and_Agriculture_Organization> <http://dbpedia.org/ontology/wikiPageExternalLink> <https://en.wikipedia.org/wiki/Food_and_Agriculture_Organization> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Washington_University_Journal_of_Law_and_Policy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AcademicJournal> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Barry_Popkin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Oaxaca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <Obesity-Al-Jazeera-3> .
+ <http://dbpedia.org/resource/Mexico> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <Obesity-Al-Jazeera-3> .
+ <http://example.org/H1N1Pandemic> <http://schema.org/statistic> <http://example.org/ObesityRiskFactorH1N1> <Obesity-Al-Jazeera-4> .
+ <http://example.org/ObesityStatistics2016> <http://schema.org/value> "650000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Obesity-Al-Jazeera-4> .
+ <http://example.org/GlobalObesityStatistics> <http://schema.org/value> "1900000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Obesity-Al-Jazeera-4> .
+ <http://example.org/YoungPatients> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Body_mass_index> <Obesity-Al-Jazeera-4> .
+ <http://example.org/WHO> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/World_Health_Organization> <Obesity-Al-Jazeera-4> .
+ <http://example.org/Obesity> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Type_2_diabetes> <Obesity-Al-Jazeera-4> .
+ <http://example.org/NHS> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/National_Health_Service> <Obesity-Al-Jazeera-4> .
+ <http://example.org/ObesityRiskFactors> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Cardiovascular_disease> <Obesity-Al-Jazeera-4> .
+ <http://example.org/WHO> <http://schema.org/statistic> <http://example.org/GlobalObesityStatistics> <Obesity-Al-Jazeera-4> .
+ <http://example.org/NHS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Obesity-Al-Jazeera-4> .
+ <http://example.org/ObesityRiskFactorH1N1> <http://schema.org/name> "Obesity as an independent risk factor during H1N1 pandemic"  <Obesity-Al-Jazeera-4> .
+ <http://example.org/ObesityRiskFactorH1N1> <http://schema.org/associatedRiskFactor> <http://example.org/Obesity> <Obesity-Al-Jazeera-4> .
+ <http://example.org/H1N1Pandemic> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Influenza_A_virus_subtype_H1N1> <Obesity-Al-Jazeera-4> .
+ <http://example.org/NHS> <http://schema.org/statistic> <http://example.org/NHSObesityAudit> <Obesity-Al-Jazeera-4> .
+ <http://example.org/ObesityRiskFactorH1N1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalCondition> <Obesity-Al-Jazeera-4> .
+ <http://example.org/NHSObesityAudit> <http://schema.org/percent> "40"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-4> .
+ <http://example.org/GlobalObesityStatistics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/QuantitativeValue> <Obesity-Al-Jazeera-4> .
+ <http://example.org/NewYorkStudy> <http://schema.org/numberOfParticipants> "4000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Obesity-Al-Jazeera-4> .
+ <http://example.org/Obesity> <http://dbpedia.org/ontology/impact> <http://example.org/PoorerOutcomesForCoronavirus> <Obesity-Al-Jazeera-4> .
+ <http://example.org/ObesityRiskFactors> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Inflammation> <Obesity-Al-Jazeera-4> .
+ <http://example.org/ObesityRiskFactors> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Type_2_diabetes> <Obesity-Al-Jazeera-4> .
+ <http://example.org/ChinaStudy> <http://schema.org/conclusion> "Overweight or obese more than twice as likely to develop severe pneumonia with coronavirus"  <Obesity-Al-Jazeera-4> .
+ <http://example.org/WHO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Obesity-Al-Jazeera-4> .
+ <http://example.org/ObesityStatistics2016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> <Obesity-Al-Jazeera-4> .
+ <http://example.org/NewYorkStudy> <http://schema.org/about> <http://example.org/Obesity> <Obesity-Al-Jazeera-4> .
+ <http://example.org/YoungPatients> <http://schema.org/healthCondition> <http://example.org/IncreasedICURiskUnder60> <Obesity-Al-Jazeera-4> .
+ <http://example.org/ChinaStudy> <http://schema.org/about> <http://example.org/Obesity> <Obesity-Al-Jazeera-4> .
+ <http://example.org/Obesity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Disease> <Obesity-Al-Jazeera-4> .
+ <http://example.org/Obesity> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/COVID-19> <Obesity-Al-Jazeera-4> .
+ <http://example.org/NewYorkStudy> <http://schema.org/conclusion> "Obesity was the single biggest factor after age in COVID-19 hospital admissions"  <Obesity-Al-Jazeera-4> .
+ <http://example.org/NHSObesityAudit> <http://schema.org/conclusion> "Two thirds of seriously ill coronavirus patients are obese"  <Obesity-Al-Jazeera-4> .
+ <http://example.org/ObesityRiskFactors> <http://schema.org/name> "Risk factors associated with obesity"  <Obesity-Al-Jazeera-4> .
+ <http://example.org/Obesity> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Cardiovascular_disease> <Obesity-Al-Jazeera-4> .
+ <http://example.org/ChinaStudy> <http://schema.org/numberOfParticipants> "383"^^<http://www.w3.org/2001/XMLSchema#integer>  <Obesity-Al-Jazeera-4> .
+ <http://example.org/GlobalObesityStatistics> <http://schema.org/additionalProperty> <http://example.org/ObesityStatistics2016> <Obesity-Al-Jazeera-4> .
+ <http://example.org/IncreasedICURiskUnder60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalCondition> <Obesity-Al-Jazeera-4> .
+ <http://example.org/NewYorkStudy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalStudy> <Obesity-Al-Jazeera-4> .
+ <http://example.org/ChinaStudy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalStudy> <Obesity-Al-Jazeera-4> .
+ <http://example.org/NHSObesityAudit> <http://schema.org/populationAge> "under 60"^^<http://www.w3.org/2001/XMLSchema#string>  <Obesity-Al-Jazeera-4> .
+ <http://example.org/PoorerOutcomesForCoronavirus> <http://schema.org/name> "Poorer outcomes for those infected with coronavirus"  <Obesity-Al-Jazeera-4> .
+ <http://example.org/YoungPatients> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Demographics> <Obesity-Al-Jazeera-4> .
+ <http://example.org/H1N1Pandemic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/DiseaseOutbreak> <Obesity-Al-Jazeera-4> .
+ <http://example.org/IncreasedICURiskUnder60> <http://schema.org/name> "Increased ICU admission risk for young patients with high BMI"  <Obesity-Al-Jazeera-4> .
+ <http://example.org/ObesityRiskFactors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalCondition> <Obesity-Al-Jazeera-4> .
+ <http://example.org/IncreasedICURiskUnder60> <http://schema.org/associatedRiskFactor> <http://example.org/Obesity> <Obesity-Al-Jazeera-4> .
+ <http://example.org/NHSObesityAudit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalStudy> <Obesity-Al-Jazeera-4> .
+ <http://example.org/PoorerOutcomesForCoronavirus> <http://schema.org/associatedRiskFactor> <http://example.org/Obesity> <Obesity-Al-Jazeera-4> .
+ <http://example.org/ObesityStatistics2016> <http://schema.org/name> "Number of obese adults in 2016"  <Obesity-Al-Jazeera-4> .
+ <http://example.org/PoorerOutcomesForCoronavirus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalCondition> <Obesity-Al-Jazeera-4> .
+ <http://example.org/ObesityRiskFactors> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Intubation> <Obesity-Al-Jazeera-4> .
+ <http://example.org/WarningCOVID19FullForce> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Mexico> <Obesity-Al-Jazeera-5> .
+ <http://example.org/Obesity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Disease> <Obesity-Al-Jazeera-5> .
+ <http://example.org/Obesity> <http://www.w3.org/ns/sosa/isObservedIn> <http://example.org/Mexico> <Obesity-Al-Jazeera-5> .
+ <http://example.org/JohnHolman> <http://xmlns.com/foaf/0.1/name> "John Holman"  <Obesity-Al-Jazeera-5> .
+ <http://example.org/COVID-19> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Mexico> <Obesity-Al-Jazeera-5> .
+ <http://example.org/Obesity> <http://dbpedia.org/ontology/prevalence> "70"^^<http://www.w3.org/2001/XMLSchema#percent>  <Obesity-Al-Jazeera-5> .
+ <http://example.org/WarningCOVID19FullForce> <http://dbpedia.org/ontology/relatedDisease> <http://example.org/COVID-19> <Obesity-Al-Jazeera-5> .
+ <http://example.org/JohnHolman> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/Al_Jazeera> <Obesity-Al-Jazeera-5> .
+ <http://example.org/Mexico> <http://dbpedia.org/ontology/populationTotal> "70"^^<http://www.w3.org/2001/XMLSchema#percent>  <Obesity-Al-Jazeera-5> .
+ <http://example.org/JohnHolman> <http://dbpedia.org/ontology/report> <http://example.org/MexicoCOVID19Report> <Obesity-Al-Jazeera-5> .
+ <http://example.org/Mexico> <http://dbpedia.org/ontology/consumptionProcessedFood> "highest in Latin America"^^<http://www.w3.org/2001/XMLSchema#string>  <Obesity-Al-Jazeera-5> .
+ <http://example.org/MexicoCOVID19Report> <http://dbpedia.org/ontology/author> <http://example.org/JohnHolman> <Obesity-Al-Jazeera-5> .
+ <http://example.org/MexicoCOVID19Report> <http://dbpedia.org/ontology/subject> <http://example.org/Diabetes> <Obesity-Al-Jazeera-5> .
+ <http://example.org/Mexico> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <Obesity-Al-Jazeera-5> .
+ <http://example.org/COVID-19> <http://dbpedia.org/ontology/relatedDisease> <http://example.org/Obesity> <Obesity-Al-Jazeera-5> .
+ <http://example.org/JohnHolman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-Al-Jazeera-5> .
+ <http://example.org/MexicoCOVID19Report> <http://dbpedia.org/ontology/subject> <http://example.org/COVID-19> <Obesity-Al-Jazeera-5> .
+ <http://example.org/Diabetes> <http://dbpedia.org/ontology/prevalence> "1 in 7 adults"^^<http://www.w3.org/2001/XMLSchema#string>  <Obesity-Al-Jazeera-5> .
+ <http://example.org/COVID-19> <http://dbpedia.org/ontology/relatedDisease> <http://example.org/Diabetes> <Obesity-Al-Jazeera-5> .
+ <http://example.org/COVID-19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Disease> <Obesity-Al-Jazeera-5> .
+ <http://example.org/MexicoCOVID19Report> <http://dbpedia.org/ontology/subject> <http://example.org/Obesity> <Obesity-Al-Jazeera-5> .
+ <http://example.org/Diabetes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Disease> <Obesity-Al-Jazeera-5> .
+ <http://example.org/GovernmentOfMexico> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Obesity-Al-Jazeera-5> .
+ <http://example.org/WarningCOVID19FullForce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Obesity-Al-Jazeera-5> .
+ <http://example.org/MexicoCOVID19Report> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/WrittenWork> <Obesity-Al-Jazeera-5> .
+ <http://example.org/COVID-19> <http://dbpedia.org/ontology/impact> <http://example.org/Mexico> <Obesity-Al-Jazeera-5> .
+ <http://example.org/Diabetes> <http://www.w3.org/ns/sosa/isObservedIn> <http://example.org/Mexico> <Obesity-Al-Jazeera-5> .
+ <http://example.org/JohnHolman> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Journalist> <Obesity-Al-Jazeera-5> .
+ <http://example.org/Mexico> <http://dbpedia.org/ontology/populationDiabetes> "1 in 7 adults"^^<http://www.w3.org/2001/XMLSchema#string>  <Obesity-Al-Jazeera-5> .
+ <http://example.org/GovernmentOfMexico> <http://dbpedia.org/ontology/leader> <http://example.org/WarningCOVID19FullForce> <Obesity-Al-Jazeera-5> .
+ <http://example.org/MexicoCOVID19Report> <http://dbpedia.org/ontology/subject> <http://example.org/GovernmentOfMexico> <Obesity-Al-Jazeera-5> .
+ <http://worldobesityfederation.org/ontology#ObesityPrediction2023> <http://dbpedia.org/ontology/author> <http://worldobesityfederation.org/ontology#WorldObesityFederation> <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#ChildhoodObesityPrediction> <http://dbpedia.org/ontology/prediction> <http://Obesity-Al-Jazeera-6.com/blank#n30baa2b902d04a50b00db563343d310eb3>  <Obesity-Al-Jazeera-6> .
+ <http://Obesity-Al-Jazeera-6.com/blank#n30baa2b902d04a50b00db563343d310eb6> <http://dbpedia.org/ontology/unit> <http://dbpedia.org/resource/Trillion_USD> <Obesity-Al-Jazeera-6> .
+ <http://Obesity-Al-Jazeera-6.com/blank#n30baa2b902d04a50b00db563343d310eb2> <http://schema.org/healthCondition> <http://dbpedia.org/resource/Obesity> <Obesity-Al-Jazeera-6> .
+ <http://Obesity-Al-Jazeera-6.com/blank#n30baa2b902d04a50b00db563343d310eb9> <http://dbpedia.org/ontology/score> "25"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#EconomicCost> <http://dbpedia.org/ontology/cost> <http://Obesity-Al-Jazeera-6.com/blank#n30baa2b902d04a50b00db563343d310eb6>  <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#ChildhoodObesityPrediction> <http://dbpedia.org/ontology/referenceYear> "2035"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#ObesityPrediction2023> <http://dbpedia.org/ontology/abstract> "The report predicts that more than half of the world's population will be overweight or obese by 2035 without significant action."  <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#EconomicCost> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/StatisticalData> <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#BMIMeasurement> <http://dbpedia.org/ontology/calculationMethod> "A number calculated by dividing a person's weight in kilogrammes by their height in metres squared."  <Obesity-Al-Jazeera-6> .
+ <http://Obesity-Al-Jazeera-6.com/blank#n30baa2b902d04a50b00db563343d310eb9> <http://dbpedia.org/ontology/healthCondition> <http://dbpedia.org/resource/Overweight> <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#EconomicCost> <http://dbpedia.org/ontology/referenceYear> "2035"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Obesity-Al-Jazeera-6> .
+ <http://Obesity-Al-Jazeera-6.com/blank#n30baa2b902d04a50b00db563343d310eb10> <http://dbpedia.org/ontology/healthCondition> <http://dbpedia.org/resource/Obesity> <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#BMIMeasurement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Index> <Obesity-Al-Jazeera-6> .
+ <http://Obesity-Al-Jazeera-6.com/blank#n30baa2b902d04a50b00db563343d310eb4> <http://dbpedia.org/ontology/number> "175"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-6> .
+ <http://Obesity-Al-Jazeera-6.com/blank#n30baa2b902d04a50b00db563343d310eb11> <http://dbpedia.org/ontology/healthCondition> <http://dbpedia.org/resource/Overweight> <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#ObesityPrediction2023> <http://dbpedia.org/ontology/prediction> <http://Obesity-Al-Jazeera-6.com/blank#n30baa2b902d04a50b00db563343d310eb1>  <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#UNPresentation> <http://dbpedia.org/ontology/participant> <http://dbpedia.org/resource/United_Nations> <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#ObesityPrediction2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Report> <Obesity-Al-Jazeera-6> .
+ <http://Obesity-Al-Jazeera-6.com/blank#n30baa2b902d04a50b00db563343d310eb7> <http://dbpedia.org/ontology/population> "adolescents"  <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#LowIncomeCountries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/StatisticalData> <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#GlobalPopulationOverweightObese2020> <http://dbpedia.org/ontology/percentageOfPopulation> "38"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-6> .
+ <http://Obesity-Al-Jazeera-6.com/blank#n30baa2b902d04a50b00db563343d310eb1> <http://schema.org/populationScope> "world"  <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#UNPresentation> <http://dbpedia.org/ontology/presenter> <http://worldobesityfederation.org/ontology#WorldObesityFederation> <Obesity-Al-Jazeera-6> .
+ <http://Obesity-Al-Jazeera-6.com/blank#n30baa2b902d04a50b00db563343d310eb5> <http://dbpedia.org/ontology/note> "Childhood obesity could more than double from 2020 levels."  <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#LouiseBaur> <http://dbpedia.org/ontology/affiliation> <http://worldobesityfederation.org/ontology#WorldObesityFederation> <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#GlobalPopulationOverweightObese2020> <http://dbpedia.org/ontology/unit> <http://dbpedia.org/resource/Billion> <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#UNPresentation> <http://dbpedia.org/ontology/date> "next week"^^<http://www.w3.org/2001/XMLSchema#string>  <Obesity-Al-Jazeera-6> .
+ <http://Obesity-Al-Jazeera-6.com/blank#n30baa2b902d04a50b00db563343d310eb2> <http://schema.org/populationScope> "world"  <Obesity-Al-Jazeera-6> .
+ <http://Obesity-Al-Jazeera-6.com/blank#n30baa2b902d04a50b00db563343d310eb1> <http://schema.org/percentValue> "51"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#BMIMeasurement> <http://dbpedia.org/ontology/method> "Body Mass Index (BMI)"  <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#ObesityRatesRising> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/StatisticalData> <Obesity-Al-Jazeera-6> .
+ <http://Obesity-Al-Jazeera-6.com/blank#n30baa2b902d04a50b00db563343d310eb4> <http://dbpedia.org/ontology/about> <http://dbpedia.org/resource/Girl> <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#ObesityPrediction2023> <http://dbpedia.org/ontology/publicationYear> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Obesity-Al-Jazeera-6> .
+ <http://Obesity-Al-Jazeera-6.com/blank#n30baa2b902d04a50b00db563343d310eb3> <http://dbpedia.org/ontology/unit> <http://dbpedia.org/resource/Million> <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#GlobalPopulationOverweightObese2020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/StatisticalData> <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#LowIncomeCountries> <http://dbpedia.org/ontology/about> <http://Obesity-Al-Jazeera-6.com/blank#n30baa2b902d04a50b00db563343d310eb8>  <Obesity-Al-Jazeera-6> .
+ <http://Obesity-Al-Jazeera-6.com/blank#n30baa2b902d04a50b00db563343d310eb8> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Africa> <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#LouiseBaur> <http://schema.org/statement> "Policymakers needed to act now to prevent the situation from worsening."  <Obesity-Al-Jazeera-6> .
+ <http://Obesity-Al-Jazeera-6.com/blank#n30baa2b902d04a50b00db563343d310eb4> <http://dbpedia.org/ontology/unit> <http://dbpedia.org/resource/Million> <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#ChildhoodObesityPrediction> <http://dbpedia.org/ontology/comparedTo> <http://Obesity-Al-Jazeera-6.com/blank#n30baa2b902d04a50b00db563343d310eb5>  <Obesity-Al-Jazeera-6> .
+ <http://Obesity-Al-Jazeera-6.com/blank#n30baa2b902d04a50b00db563343d310eb8> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Asia> <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#WorldObesityFederation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#ObesityRatesRising> <http://dbpedia.org/ontology/about> <http://Obesity-Al-Jazeera-6.com/blank#n30baa2b902d04a50b00db563343d310eb7>  <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#UNPresentation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#BMIMeasurement> <http://dbpedia.org/ontology/threshold> <http://Obesity-Al-Jazeera-6.com/blank#n30baa2b902d04a50b00db563343d310eb10>  <Obesity-Al-Jazeera-6> .
+ <http://Obesity-Al-Jazeera-6.com/blank#n30baa2b902d04a50b00db563343d310eb7> <http://dbpedia.org/ontology/population> "children"  <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#ObesityPrediction2023> <http://dbpedia.org/ontology/prediction> <http://Obesity-Al-Jazeera-6.com/blank#n30baa2b902d04a50b00db563343d310eb2>  <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#GlobalPopulationOverweightObese2020> <http://dbpedia.org/ontology/number> "2.6"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#EconomicCost> <http://dbpedia.org/ontology/percentageOfGDP> "3"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-6> .
+ <http://Obesity-Al-Jazeera-6.com/blank#n30baa2b902d04a50b00db563343d310eb3> <http://dbpedia.org/ontology/about> <http://dbpedia.org/resource/Boy> <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#ObesityRatesRising> <http://dbpedia.org/ontology/note> "Obesity rates rising fastest among children and adolescents."  <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#ChildhoodObesityPrediction> <http://dbpedia.org/ontology/prediction> <http://Obesity-Al-Jazeera-6.com/blank#n30baa2b902d04a50b00db563343d310eb4>  <Obesity-Al-Jazeera-6> .
+ <http://Obesity-Al-Jazeera-6.com/blank#n30baa2b902d04a50b00db563343d310eb5> <http://dbpedia.org/ontology/number> "2020"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Obesity-Al-Jazeera-6> .
+ <http://Obesity-Al-Jazeera-6.com/blank#n30baa2b902d04a50b00db563343d310eb2> <http://schema.org/percentValue> "25"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#GlobalPopulationOverweightObese2020> <http://dbpedia.org/ontology/referenceYear> "2020"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#UNPresentation> <http://dbpedia.org/ontology/about> <http://worldobesityfederation.org/ontology#ObesityPrediction2023> <Obesity-Al-Jazeera-6> .
+ <http://Obesity-Al-Jazeera-6.com/blank#n30baa2b902d04a50b00db563343d310eb6> <http://dbpedia.org/ontology/amount> "4"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#BMIMeasurement> <http://dbpedia.org/ontology/threshold> <http://Obesity-Al-Jazeera-6.com/blank#n30baa2b902d04a50b00db563343d310eb9>  <Obesity-Al-Jazeera-6> .
+ <http://Obesity-Al-Jazeera-6.com/blank#n30baa2b902d04a50b00db563343d310eb3> <http://dbpedia.org/ontology/number> "208"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-6> .
+ <http://Obesity-Al-Jazeera-6.com/blank#n30baa2b902d04a50b00db563343d310eb1> <http://schema.org/healthCondition> <http://dbpedia.org/resource/Overweight> <Obesity-Al-Jazeera-6> .
+ <http://Obesity-Al-Jazeera-6.com/blank#n30baa2b902d04a50b00db563343d310eb10> <http://dbpedia.org/ontology/score> "30"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#LouiseBaur> <http://dbpedia.org/ontology/position> "President"  <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#GlobalPopulationOverweightObese2020> <http://dbpedia.org/ontology/about> <http://Obesity-Al-Jazeera-6.com/blank#n30baa2b902d04a50b00db563343d310eb11>  <Obesity-Al-Jazeera-6> .
+ <http://Obesity-Al-Jazeera-6.com/blank#n30baa2b902d04a50b00db563343d310eb11> <http://dbpedia.org/ontology/healthCondition> <http://dbpedia.org/resource/Obesity> <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#ChildhoodObesityPrediction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/StatisticalData> <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#LouiseBaur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Obesity-Al-Jazeera-6> .
+ <http://worldobesityfederation.org/ontology#LowIncomeCountries> <http://dbpedia.org/ontology/note> "Almost all of the countries expected to see the greatest increases in obesity are low or middle-income countries in Asia and Africa."  <Obesity-Al-Jazeera-6> .
+ <http://example.org/ontology#Obesity> <http://www.w3.org/2000/01/rdf-schema#label> "Obesity"@en  <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#OverweightOrObese> <http://www.w3.org/2000/01/rdf-schema#label> "Overweight or Obese"@en  <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#GlucoseIntolerance> <http://www.w3.org/2000/01/rdf-schema#label> "Glucose Intolerance"@en  <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#ObesityIncidence> <http://dbpedia.org/ontology/reference> <http://example.org/ontology#WorldwideContext> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#Exercise> <http://www.w3.org/2000/01/rdf-schema#label> "Exercise"@en  <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#WeightLossScience> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FieldOfStudy> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#PreventingFatDevelopment> <http://www.w3.org/2000/01/rdf-schema#label> "Preventing fat development"@en  <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#Exercise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Activity> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#ResearchBreakthroughs> <http://dbpedia.org/ontology/topic> <http://example.org/ontology#WeightLossScience> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#Obesity> <http://dbpedia.org/ontology/incidence> <http://example.org/ontology#ObesityIncidence> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#WorldwideContext> <http://dbpedia.org/ontology/populationType> <http://example.org/ontology#Adults> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#HoustonMethodistResearchInstitute> <http://dbpedia.org/ontology/researchOutput> <http://example.org/ontology#WeightLossDrugDiscovery> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#ObesityIncidence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statistic> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#BrownFat> <http://www.w3.org/2000/01/rdf-schema#label> "Brown Fat"@en  <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#ResearchBreakthroughs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#WeightLossMiracleDrug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Drug> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#VisceralFat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Tissue> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#WeightLossDrugDiscovery> <http://dbpedia.org/ontology/researchObjective> <http://example.org/ontology#WeightLossMiracleDrug> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#GlucoseIntolerance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Disease> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#FatDevelopmentResearch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ResearchProject> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#VisceralFat> <http://www.w3.org/2000/01/rdf-schema#label> "Visceral Fat"@en  <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#HealthyLifestyle> <http://dbpedia.org/ontology/related> <http://example.org/ontology#Exercise> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#MetabolicObesity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Condition> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#ResearchBreakthroughs> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/United_Kingdom> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#EnergyBurning> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BiologicalProcess> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#FatDevelopmentResearch> <http://dbpedia.org/ontology/researchObjective> <http://example.org/ontology#PreventingFatDevelopment> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#PreventingFatDevelopment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Objective> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#BrownFat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Tissue> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#HealthyLifestyle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lifestyle> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#WhiteFat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Tissue> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#Adults> <http://www.w3.org/2000/01/rdf-schema#label> "Adults"@en  <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#HealthyLifestyle> <http://dbpedia.org/ontology/related> <http://example.org/ontology#Diet> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#Obesity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Disease> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#Adults> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/DemographicGroup> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#ObesityIncidence> <http://dbpedia.org/ontology/pointInTime> "1980"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#QueenMaryUniversityOfLondon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/University> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#WeightLossIndustry> <http://dbpedia.org/ontology/revenueYear> "2017"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#QueenMaryUniversityOfLondon> <http://dbpedia.org/ontology/researchOutput> <http://example.org/ontology#FatDevelopmentResearch> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#WeightLossDrugDiscovery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ResearchProject> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#QatarResearch> <http://dbpedia.org/ontology/researchObjective> <http://example.org/ontology#PersonalizedWeightLossProgram> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#WhiteFat> <http://dbpedia.org/ontology/associatedDisease> <http://example.org/ontology#Obesity> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#MetabolicObesity> <http://www.w3.org/2000/01/rdf-schema#label> "Metabolic Obesity"@en  <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#WhiteFat> <http://www.w3.org/2000/01/rdf-schema#label> "White Fat"@en  <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#OverweightOrObese> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Condition> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#WeightLossIndustry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Industry> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#QueenMaryUniversityOfLondon> <http://xmlns.com/foaf/0.1/name> "Queen Mary University of London"@en  <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#HoustonMethodistResearchInstitute> <http://xmlns.com/foaf/0.1/name> "Houston Methodist Research Institute"@en  <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#WorldwideContext> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Demographics> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#WeightLossIndustry> <http://dbpedia.org/ontology/revenue> "320bn"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#QatarResearch> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Qatar> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#WorldwideContext> <http://dbpedia.org/ontology/condition> <http://example.org/ontology#OverweightOrObese> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#WeightLossMiracleDrug> <http://www.w3.org/2000/01/rdf-schema#label> "Weight-loss miracle drug"@en  <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#VisceralFat> <http://dbpedia.org/ontology/associatedDisease> <http://example.org/ontology#GlucoseIntolerance> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#Diet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Diet> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#WeightLossScience> <http://www.w3.org/2000/01/rdf-schema#label> "Science of Weight Loss"@en  <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#QatarResearch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ResearchProject> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#WorldwideContext> <http://dbpedia.org/ontology/populationTotal> "40 percent"^^<http://www.w3.org/2001/XMLSchema#string>  <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#EnergyBurning> <http://www.w3.org/2000/01/rdf-schema#label> "Energy burning"@en  <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#BrownFat> <http://dbpedia.org/ontology/function> <http://example.org/ontology#EnergyBurning> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#HoustonMethodistResearchInstitute> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#PersonalizedWeightLossProgram> <http://www.w3.org/2000/01/rdf-schema#label> "Personalized weight loss program"@en  <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#PersonalizedWeightLossProgram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/HealthProgram> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#ResearchBreakthroughs> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/United_States> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#HealthyLifestyle> <http://www.w3.org/2000/01/rdf-schema#label> "Healthy lifestyle"@en  <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#Diet> <http://www.w3.org/2000/01/rdf-schema#label> "Diet"@en  <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#ObesityIncidence> <http://dbpedia.org/ontology/value> "doubled"  <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#ResearchBreakthroughs> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Qatar> <Obesity-Al-Jazeera-7> .
+ <http://example.org/ontology#ObesityByCountry> <http://example.org/ontology#lowestBMIEurope> <http://example.org/ontology#SwissWomen> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#BosnianMen> <http://www.w3.org/2000/01/rdf-schema#label> "Bosnian men"  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#BosnianMen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#PopulationGroup> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#EastTimor> <http://www.w3.org/2000/01/rdf-schema#label> "East Timor"  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#AverageBMIChange> <http://example.org/ontology#femaleBMIRise> "2.3"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#China> <http://www.w3.org/2000/01/rdf-schema#label> "China"  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#ObesityRates> <http://example.org/ontology#percentageWomen> "21"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#MorbidObesityStats> <http://example.org/ontology#affectsWomenPercentage> "2"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#ProfessorMajidEzzati> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#TheLancet> <http://example.org/ontology#locatedIn> <http://example.org/ontology#UnitedKingdom> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#AverageBMIChange> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Finding> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#HighestBMI> <http://example.org/ontology#islandNations> <http://example.org/ontology#Polynesia> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#AmericanAdults> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#PopulationGroup> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#ProfessorMajidEzzati> <http://xmlns.com/foaf/0.1/name> "Majid Ezzati"  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#ProfessorMajidEzzati> <http://xmlns.com/foaf/0.1/workplaceHomepage> <http://example.org/ontology#ImperialCollegeLondonSchoolOfPublicHealth> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#LowestBMI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Finding> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#GlobalPopulation> <http://www.w3.org/2000/01/rdf-schema#label> "Global population"  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#HighestBMI> <http://example.org/ontology#islandNations> <http://example.org/ontology#Micronesia> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#UnitedStates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Country> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#ObesityByCountry> <http://example.org/ontology#mostObeseMenAndWomenCountries> <http://example.org/ontology#China> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#MorbidObesityStats> <http://example.org/ontology#affectsMenPercentage> "1"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#LowestBMI> <http://example.org/ontology#countries> <http://example.org/ontology#Eritrea> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#Ethiopia> <http://www.w3.org/2000/01/rdf-schema#label> "Ethiopia"  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#GlobalBMIReport> <http://example.org/ontology#findings> <http://example.org/ontology#UnderweightStats> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#GlobalBMIReport> <http://www.w3.org/2000/01/rdf-schema#label> "Body Mass Index (BMI) Analysis"  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#HighestBMI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Finding> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#ObesityRates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Finding> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#UnderweightStats> <http://example.org/ontology#IndiaBangladeshUnderweightMenPercentage> "20"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#Polynesia> <http://www.w3.org/2000/01/rdf-schema#label> "Polynesia"  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#Ethiopia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Country> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#ProfessorMajidEzzati> <http://xmlns.com/foaf/0.1/title> "Professor"  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#MorbidObesityStats> <http://example.org/ontology#totalMorbidlyObeseAdults> "55000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#UnitedStates> <http://www.w3.org/2000/01/rdf-schema#label> "United States"  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#GlobalBMIReport> <http://example.org/ontology#findings> <http://example.org/ontology#HighestBMI> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#SwissWomen> <http://www.w3.org/2000/01/rdf-schema#label> "Swiss women"  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#JapaneseAdults> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#PopulationGroup> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#EastTimor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Country> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#AmericanAdults> <http://www.w3.org/2000/01/rdf-schema#label> "American adults"  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#ObesityByCountry> <http://example.org/ontology#lowestBMIHighIncomeCountries> <http://example.org/ontology#AmericanAdults> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#Micronesia> <http://www.w3.org/2000/01/rdf-schema#label> "Micronesia"  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#GlobalBMIReport> <http://example.org/ontology#coversPopulation> <http://example.org/ontology#GlobalPopulation> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#GlobalBMIReport> <http://example.org/ontology#findings> <http://example.org/ontology#LowestBMI> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#GlobalBMIReport> <http://example.org/ontology#coversPeriod> "2014-12-31"^^<http://www.w3.org/2001/XMLSchema#date>  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#UnitedKingdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Country> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#ObesityByCountry> <http://example.org/ontology#lowestBMIEurope> <http://example.org/ontology#BosnianMen> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#ObesityByCountry> <http://www.w3.org/2000/01/rdf-schema#label> "Obesity distribution by country"  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#ObesityByCountry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Finding> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#GlobalBMIReport> <http://example.org/ontology#coversPeriod> "1975-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#SwissWomen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#PopulationGroup> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#GlobalBMIReport> <http://example.org/ontology#publishedBy> <http://example.org/ontology#TheLancet> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#Micronesia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Region> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#MorbidObesityStats> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Finding> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#LowestBMI> <http://example.org/ontology#countries> <http://example.org/ontology#EastTimor> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#UnderweightStats> <http://example.org/ontology#SouthAsiaUnderweightPopulationPercentage> "25"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#GlobalBMIReport> <http://example.org/ontology#findings> <http://example.org/ontology#ObesityByCountry> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#GlobalBMIReport> <http://example.org/ontology#findings> <http://example.org/ontology#AverageBMIChange> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#MorbidObesityStats> <http://www.w3.org/2000/01/rdf-schema#label> "Morbid obesity statistics"  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#China> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Country> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#UnderweightStats> <http://www.w3.org/2000/01/rdf-schema#label> "Underweight statistics in various regions"  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#UnderweightStats> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Finding> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#GlobalPopulation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#PopulationGroup> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#ObesityByCountry> <http://example.org/ontology#mostObeseMenAndWomenCountries> <http://example.org/ontology#UnitedStates> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#HighestBMI> <http://www.w3.org/2000/01/rdf-schema#label> "Highest average BMI by region"  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#UnitedKingdom> <http://www.w3.org/2000/01/rdf-schema#label> "United Kingdom"  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#LowestBMI> <http://www.w3.org/2000/01/rdf-schema#label> "Lowest average BMI by region"  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#TheLancet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#UnderweightStats> <http://example.org/ontology#CentralEastAfricaUnderweightWomenPercentage> "12"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#TheLancet> <http://www.w3.org/2000/01/rdf-schema#label> "The Lancet medical journal"  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#ObesityRates> <http://example.org/ontology#percentageMen> "18"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#ObesityRates> <http://www.w3.org/2000/01/rdf-schema#label> "Projected obesity rates by 2025"  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#ImperialCollegeLondonSchoolOfPublicHealth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#Polynesia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Region> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#Eritrea> <http://www.w3.org/2000/01/rdf-schema#label> "Eritrea"  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#GlobalBMIReport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#MedicalReport> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#ObesityByCountry> <http://example.org/ontology#lowestBMIHighIncomeCountries> <http://example.org/ontology#JapaneseAdults> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#Eritrea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Country> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#UnderweightStats> <http://example.org/ontology#IndiaBangladeshUnderweightWomenPercentage> "25"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#AverageBMIChange> <http://example.org/ontology#maleBMIRise> "2.5"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#UnderweightStats> <http://example.org/ontology#CentralEastAfricaUnderweightMenPercentage> "15"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#GlobalBMIReport> <http://example.org/ontology#findings> <http://example.org/ontology#ObesityRates> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#AverageBMIChange> <http://www.w3.org/2000/01/rdf-schema#label> "Average BMI change over four decades"  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#GlobalBMIReport> <http://example.org/ontology#findings> <http://example.org/ontology#MorbidObesityStats> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#LowestBMI> <http://example.org/ontology#countries> <http://example.org/ontology#Ethiopia> <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#GlobalBMIReport> <http://example.org/ontology#publishedOn> "2025-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#AverageBMIChange> <http://example.org/ontology#averageWeightIncreasePerDecadeKg> "1.5"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#JapaneseAdults> <http://www.w3.org/2000/01/rdf-schema#label> "Japanese adults"  <Obesity-Al-Jazeera-8> .
+ <http://example.org/ontology#ImperialCollegeLondonSchoolOfPublicHealth> <http://www.w3.org/2000/01/rdf-schema#label> "School of Public Health at Imperial College London"  <Obesity-Al-Jazeera-8> .
+ <http://example.org/SedentaryUrbanLifestyle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Lifestyle> <Obesity-Al-Jazeera-9> .
+ <http://example.org/S_Subramaniam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-Al-Jazeera-9> .
+ <http://example.org/Malaysia> <http://example.org/hasOverweightRate> <http://example.org/OverweightRateMalaysia> <Obesity-Al-Jazeera-9> .
+ <http://example.org/S_Subramaniam> <http://xmlns.com/foaf/0.1/name> "S Subramaniam"  <Obesity-Al-Jazeera-9> .
+ <http://example.org/ObesityObservation> <http://www.w3.org/ns/sosa/hasSimpleResult> "18"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-9> .
+ <http://example.org/ObesityEpidemic> <http://dbpedia.org/ontology/percentageAffected> "50"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-9> .
+ <http://example.org/HighCalorieDiet> <http://dbpedia.org/ontology/fatContent> <http://example.org/CoconutOil> <Obesity-Al-Jazeera-9> .
+ <http://example.org/ObesityRate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Index> <Obesity-Al-Jazeera-9> .
+ <http://example.org/Kuala_Lumpur> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/City> <Obesity-Al-Jazeera-9> .
+ <http://example.org/ObesityObservation> <http://www.w3.org/ns/sosa/resultTime> "2023-03-29T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <Obesity-Al-Jazeera-9> .
+ <http://example.org/NormalBMI> <http://dbpedia.org/ontology/minValue> "18.5"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-9> .
+ <http://example.org/ObesityRate> <http://dbpedia.org/ontology/percentage> "18"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-9> .
+ <http://example.org/Kuala_Lumpur> <http://dbpedia.org/ontology/country> <http://example.org/Malaysia> <Obesity-Al-Jazeera-9> .
+ <http://example.org/Kuih> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Food> <Obesity-Al-Jazeera-9> .
+ <http://example.org/E_Siong_Tee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-Al-Jazeera-9> .
+ <http://example.org/PalmOil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Oil> <Obesity-Al-Jazeera-9> .
+ <http://example.org/E_Siong_Tee> <http://dbpedia.org/ontology/position> "President of the Malaysia Nutrition Society"  <Obesity-Al-Jazeera-9> .
+ <http://example.org/Kuih> <http://dbpedia.org/ontology/ingredient> <http://example.org/Sugar> <Obesity-Al-Jazeera-9> .
+ <http://example.org/E_Siong_Tee> <http://xmlns.com/foaf/0.1/name> "E-Siong Tee"  <Obesity-Al-Jazeera-9> .
+ <http://example.org/Kuih> <http://dbpedia.org/ontology/ingredient> <http://example.org/GlutinousRice> <Obesity-Al-Jazeera-9> .
+ <http://example.org/HighCalorieDiet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Diet> <Obesity-Al-Jazeera-9> .
+ <http://example.org/BodyMassIndex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Index> <Obesity-Al-Jazeera-9> .
+ <http://example.org/ObesityObservation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/ns/sosa/Observation> <Obesity-Al-Jazeera-9> .
+ <http://example.org/Sugar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Food> <Obesity-Al-Jazeera-9> .
+ <http://example.org/ObeseBMI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/IndexRange> <Obesity-Al-Jazeera-9> .
+ <http://example.org/S_Subramaniam> <http://xmlns.com/foaf/0.1/title> "Health Minister"  <Obesity-Al-Jazeera-9> .
+ <http://example.org/ObesityObservation> <http://www.w3.org/ns/sosa/observedProperty> <http://example.org/ObesityRate> <Obesity-Al-Jazeera-9> .
+ <http://example.org/Kuih> <http://dbpedia.org/ontology/ingredient> <http://example.org/CoconutOil> <Obesity-Al-Jazeera-9> .
+ <http://example.org/ObesityEpidemic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Obesity-Al-Jazeera-9> .
+ <http://example.org/NormalBMI> <http://dbpedia.org/ontology/maxValue> "25"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-9> .
+ <http://example.org/CoconutOil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Oil> <Obesity-Al-Jazeera-9> .
+ <http://example.org/ObesityObservation> <http://dbpedia.org/ontology/source> <https://www.aljazeera.com> <Obesity-Al-Jazeera-9> .
+ <http://example.org/OverweightBMI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/IndexRange> <Obesity-Al-Jazeera-9> .
+ <http://example.org/S_Subramaniam> <http://www.w3.org/ns/sosa/madeObservation> <http://example.org/ObesityObservation> <Obesity-Al-Jazeera-9> .
+ <http://example.org/OverweightRateMalaysia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Index> <Obesity-Al-Jazeera-9> .
+ <http://example.org/ObesityEpidemic> <http://dbpedia.org/ontology/cause> <http://example.org/HighCalorieDiet> <Obesity-Al-Jazeera-9> .
+ <http://example.org/Malaysia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <Obesity-Al-Jazeera-9> .
+ <http://example.org/OverweightBMI> <http://dbpedia.org/ontology/maxValue> "30"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-9> .
+ <http://example.org/OverweightRateMalaysia> <http://dbpedia.org/ontology/percentage> "30"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-9> .
+ <http://example.org/HighCalorieDiet> <http://dbpedia.org/ontology/fatContent> <http://example.org/PalmOil> <Obesity-Al-Jazeera-9> .
+ <http://example.org/GlutinousRice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Food> <Obesity-Al-Jazeera-9> .
+ <http://example.org/ObesityEpidemic> <http://dbpedia.org/ontology/cause> <http://example.org/SedentaryUrbanLifestyle> <Obesity-Al-Jazeera-9> .
+ <http://example.org/BodyMassIndex> <http://dbpedia.org/ontology/measurementMethod> "weight in kilos divided by height in metres squared"  <Obesity-Al-Jazeera-9> .
+ <http://example.org/Malaysia> <http://dbpedia.org/ontology/healthMinister> <http://example.org/S_Subramaniam> <Obesity-Al-Jazeera-9> .
+ <http://example.org/Malaysia> <http://example.org/hasObesityRate> <http://example.org/ObesityRateMalaysia> <Obesity-Al-Jazeera-9> .
+ <http://example.org/NormalBMI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/IndexRange> <Obesity-Al-Jazeera-9> .
+ <http://example.org/OverweightBMI> <http://dbpedia.org/ontology/minValue> "25"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-9> .
+ <http://example.org/SedentaryUrbanLifestyle> <http://dbpedia.org/ontology/description> "A lifestyle with minimal physical activity and a focus on car transportation over walking"  <Obesity-Al-Jazeera-9> .
+ <http://example.org/ObeseBMI> <http://dbpedia.org/ontology/minValue> "30"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-Al-Jazeera-9> .
+ <http://example.org/ObesityEpidemic> <http://dbpedia.org/ontology/location> <http://example.org/Kuala_Lumpur> <Obesity-Al-Jazeera-9> .

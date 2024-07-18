@@ -1,0 +1,554 @@
+ <http://example.org/lhc#CERN> <http://xmlns.com/foaf/0.1/name> "European Centre for Nuclear Research"  <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#MiniatureBlackHole> <http://www.w3.org/2000/01/rdf-schema#comment> "Hypothetical black holes that could be created by the LHC, would decay via Hawking radiation."@en  <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#SurprisesInPhysics> <http://www.w3.org/2000/01/rdf-schema#comment> "The real discoveries at CERN may come from unpredicted surprises that will stun the world of physics."@en  <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#HiggsBoson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Particle> <CERN-Al-Jazeera-0> .
+ <http://CERN-Al-Jazeera-0.com/blank#nad145b00dd714a989877c2b58bb0dabab1> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/France> <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#HiggsBoson> <http://www.w3.org/2000/01/rdf-schema#label> "Higgs-Boson"  <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#StandardModel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ScientificTheory> <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#NewDimensions> <http://www.w3.org/2000/01/rdf-schema#comment> "The discovery of new particles by the LHC could hint at tiny new dimensions beyond the visible three spatial dimensions and time."@en  <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#GodParticle> <http://www.w3.org/2000/01/rdf-schema#comment> "A media nickname for the Higgs-Boson, not favored by some scientists."@en  <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#GodParticle> <http://dbpedia.org/ontology/subject> <http://example.org/lhc#HiggsBoson> <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#ParticleCollision> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#MaxTegmark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#MaxTegmark> <http://www.w3.org/2000/01/rdf-schema#comment> "Argued that some cutting edge science is as controversial as it is popular."@en  <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#MaxTegmark> <http://xmlns.com/foaf/0.1/name> "Max Tegmark"  <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#ScienceFiction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Genre> <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#Universe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#LHC> <http://dbpedia.org/ontology/abstract> "A particle collider that has achieved the highest energy collisions in a laboratory."@en  <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#MaxTegmark> <http://dbpedia.org/ontology/affiliation> <http://dbpedia.org/resource/Massachusetts_Institute_of_Technology> <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#LHC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Facility> <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#DebateAboutUniverse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Concept> <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#Breakthrough> <http://dbpedia.org/ontology/isPartOf> <http://example.org/lhc#LHC> <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#ScienceInterest> <http://www.w3.org/2000/01/rdf-schema#comment> "Rekindling interest in science as a potential legacy of the LHC."@en  <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#ScienceFiction> <http://www.w3.org/2000/01/rdf-schema#comment> "Some scientific ideas are dismissed as science fiction, which could be a danger to scientific progress."@en  <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#Breakthrough> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#SurprisesInPhysics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Concept> <CERN-Al-Jazeera-0> .
+ <http://CERN-Al-Jazeera-0.com/blank#nad145b00dd714a989877c2b58bb0dabab1> <http://dbpedia.org/ontology/isPartOf> "100km underground"^^<http://www.w3.org/2001/XMLSchema#string>  <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#LHC> <http://www.w3.org/2000/01/rdf-schema#label> "Large Hadron Collider"  <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#Breakthrough> <http://www.w3.org/2000/01/rdf-schema#comment> "A major breakthrough that could lead to a new form of physics."@en  <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#DebateAboutUniverse> <http://www.w3.org/2000/01/rdf-schema#comment> "Provoking debate about the universe as an achievement of CERN."@en  <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#LHC> <http://dbpedia.org/ontology/location> <http://CERN-Al-Jazeera-0.com/blank#nad145b00dd714a989877c2b58bb0dabab1>  <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#NewPhysics> <http://www.w3.org/2000/01/rdf-schema#comment> "A new form of physics that could be heralded by the LHC discoveries."@en  <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#MiniatureBlackHole> <http://www.w3.org/2000/01/rdf-schema#label> "Miniature black hole"  <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#ScienceInterest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Concept> <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#Universe> <http://www.w3.org/2000/01/rdf-schema#comment> "The LHC experiments could alter our concept of the universe."@en  <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#Breakthrough> <http://dbpedia.org/ontology/time> "Tuesday"^^<http://www.w3.org/2001/XMLSchema#string>  <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#GodParticle> <http://www.w3.org/2000/01/rdf-schema#label> "God particle"  <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#LHC> <http://dbpedia.org/ontology/operator> <http://example.org/lhc#CERN> <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#CERN> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Geneva> <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#GodParticle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Label> <CERN-Al-Jazeera-0> .
+ <http://CERN-Al-Jazeera-0.com/blank#nad145b00dd714a989877c2b58bb0dabab1> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Switzerland> <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#HiggsBoson> <http://www.w3.org/2000/01/rdf-schema#comment> "A sub-atomic particle integral to the standard model of particle physics, theorized to give mass to other elementary particles."@en  <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#MiniatureBlackHole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Concept> <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#NewPhysics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Concept> <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#StandardModel> <http://www.w3.org/2000/01/rdf-schema#comment> "A theory in particle physics that the Higgs-Boson is integral to."@en  <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#ParticleCollision> <http://dbpedia.org/ontology/isPartOf> <http://example.org/lhc#LHC> <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#ParticleCollision> <http://www.w3.org/2000/01/rdf-schema#comment> "Colliding sub-atomic particles at extremely high speeds."@en  <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#NewDimensions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Concept> <CERN-Al-Jazeera-0> .
+ <http://example.org/lhc#CERN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <CERN-Al-Jazeera-0> .
+ <http://example.org/valerieJamieson> <http://xmlns.com/foaf/0.1/name> "Valerie Jamieson"  <CERN-Al-Jazeera-1> .
+ <http://example.org/valerieJamieson> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/New_Scientist> <CERN-Al-Jazeera-1> .
+ <http://example.org/insideStory> <http://schema.org/episode> <http://example.org/insideStoryEpisode> <CERN-Al-Jazeera-1> .
+ <http://example.org/jonathanButterworth> <http://dbpedia.org/ontology/project> <http://example.org/AtlasExperiment> <CERN-Al-Jazeera-1> .
+ <http://example.org/ottoRossler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-Al-Jazeera-1> .
+ <http://example.org/jonathanButterworth> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Professor> <CERN-Al-Jazeera-1> .
+ <http://example.org/largeHadronCollider> <http://xmlns.com/foaf/0.1/name> "Large Hadron Collider"  <CERN-Al-Jazeera-1> .
+ <http://example.org/experiment> <http://dbpedia.org/ontology/instrument> <http://example.org/largeHadronCollider> <CERN-Al-Jazeera-1> .
+ <http://example.org/AtlasExperiment> <http://dbpedia.org/ontology/participant> <http://example.org/jonathanButterworth> <CERN-Al-Jazeera-1> .
+ <http://example.org/experiment> <http://dbpedia.org/ontology/cost> "most expensive scientific experiment of all time"^^<http://www.w3.org/2001/XMLSchema#string>  <CERN-Al-Jazeera-1> .
+ <http://example.org/cern> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Switzerland> <CERN-Al-Jazeera-1> .
+ <http://example.org/largeHadronCollider> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Instrument> <CERN-Al-Jazeera-1> .
+ <http://example.org/jonathanButterworth> <http://xmlns.com/foaf/0.1/name> "Jonathan Butterworth"  <CERN-Al-Jazeera-1> .
+ <http://example.org/largeHadronCollider> <http://dbpedia.org/ontology/length> "27km"^^<http://www.w3.org/2001/XMLSchema#string>  <CERN-Al-Jazeera-1> .
+ <http://example.org/largeHadronCollider> <http://schema.org/location> <http://CERN-Al-Jazeera-1.com/blank#n5a1e671928ed45829b38903ab235aab4b1>  <CERN-Al-Jazeera-1> .
+ <http://example.org/ottoRossler> <http://xmlns.com/foaf/0.1/name> "Otto Rossler"  <CERN-Al-Jazeera-1> .
+ <http://example.org/AtlasExperiment> <http://dbpedia.org/ontology/relatedTo> <http://example.org/largeHadronCollider> <CERN-Al-Jazeera-1> .
+ <http://example.org/largeHadronCollider> <http://dbpedia.org/ontology/abbreviation> "LHC"  <CERN-Al-Jazeera-1> .
+ <http://CERN-Al-Jazeera-1.com/blank#n5a1e671928ed45829b38903ab235aab4b3> <http://dbpedia.org/ontology/effect> "simulates conditions after the Big Bang"  <CERN-Al-Jazeera-1> .
+ <http://CERN-Al-Jazeera-1.com/blank#n5a1e671928ed45829b38903ab235aab4b3> <http://dbpedia.org/ontology/description> "collision of sub-atomic particles"  <CERN-Al-Jazeera-1> .
+ <http://example.org/ottoRossler> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/University_of_Tubingen> <CERN-Al-Jazeera-1> .
+ <http://example.org/insideStoryEpisode> <http://schema.org/datePublished> "2010-03-31"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-Al-Jazeera-1> .
+ <http://example.org/largeHadronCollider> <http://dbpedia.org/ontology/description> "biggest machine in the world"  <CERN-Al-Jazeera-1> .
+ <http://example.org/ottoRossler> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Professor> <CERN-Al-Jazeera-1> .
+ <http://example.org/jonathanButterworth> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/University_College_London> <CERN-Al-Jazeera-1> .
+ <http://example.org/valerieJamieson> <http://dbpedia.org/ontology/occupation> "features editor"  <CERN-Al-Jazeera-1> .
+ <http://example.org/jonathanButterworth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-Al-Jazeera-1> .
+ <http://example.org/valerieJamieson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-Al-Jazeera-1> .
+ <http://example.org/insideStory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/TVSeries> <CERN-Al-Jazeera-1> .
+ <http://example.org/insideStoryEpisode> <http://schema.org/guest> <http://example.org/valerieJamieson> <CERN-Al-Jazeera-1> .
+ <http://CERN-Al-Jazeera-1.com/blank#n5a1e671928ed45829b38903ab235aab4b3> <http://dbpedia.org/ontology/effect> "creates heat and energy"  <CERN-Al-Jazeera-1> .
+ <http://CERN-Al-Jazeera-1.com/blank#n5a1e671928ed45829b38903ab235aab4b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> <CERN-Al-Jazeera-1> .
+ <http://example.org/experiment> <http://dbpedia.org/ontology/result> <http://CERN-Al-Jazeera-1.com/blank#n5a1e671928ed45829b38903ab235aab4b3>  <CERN-Al-Jazeera-1> .
+ <http://CERN-Al-Jazeera-1.com/blank#n5a1e671928ed45829b38903ab235aab4b1> <http://schema.org/geo> <http://CERN-Al-Jazeera-1.com/blank#n5a1e671928ed45829b38903ab235aab4b2>  <CERN-Al-Jazeera-1> .
+ <http://example.org/experiment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <CERN-Al-Jazeera-1> .
+ <http://example.org/insideStoryEpisode> <http://schema.org/presenter> <http://CERN-Al-Jazeera-1.com/blank#n5a1e671928ed45829b38903ab235aab4b4>  <CERN-Al-Jazeera-1> .
+ <http://CERN-Al-Jazeera-1.com/blank#n5a1e671928ed45829b38903ab235aab4b4> <http://xmlns.com/foaf/0.1/name> "Imran Garda"  <CERN-Al-Jazeera-1> .
+ <http://CERN-Al-Jazeera-1.com/blank#n5a1e671928ed45829b38903ab235aab4b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <CERN-Al-Jazeera-1> .
+ <http://example.org/ottoRossler> <http://dbpedia.org/ontology/field> "theoretical biochemistry"  <CERN-Al-Jazeera-1> .
+ <http://example.org/insideStoryEpisode> <http://schema.org/guest> <http://example.org/jonathanButterworth> <CERN-Al-Jazeera-1> .
+ <http://example.org/cern> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <CERN-Al-Jazeera-1> .
+ <http://example.org/cern> <http://dbpedia.org/ontology/abbreviation> "CERN"  <CERN-Al-Jazeera-1> .
+ <http://example.org/cern> <http://xmlns.com/foaf/0.1/name> "European Centre for Nuclear Research"  <CERN-Al-Jazeera-1> .
+ <http://example.org/insideStoryEpisode> <http://schema.org/guest> <http://example.org/ottoRossler> <CERN-Al-Jazeera-1> .
+ <http://example.org/insideStoryEpisode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/TVEpisode> <CERN-Al-Jazeera-1> .
+ <http://CERN-Al-Jazeera-1.com/blank#n5a1e671928ed45829b38903ab235aab4b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-Al-Jazeera-1> .
+ <http://example.org/AtlasExperiment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Project> <CERN-Al-Jazeera-1> .
+ <http://example.org/experiment> <http://schema.org/organizer> <http://example.org/cern> <CERN-Al-Jazeera-1> .
+ <http://CERN-Al-Jazeera-1.com/blank#n5a1e671928ed45829b38903ab235aab4b2> <http://schema.org/elevation> "100m"^^<http://www.w3.org/2001/XMLSchema#string>  <CERN-Al-Jazeera-1> .
+ <http://CERN-Al-Jazeera-1.com/blank#n5a1e671928ed45829b38903ab235aab4b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <CERN-Al-Jazeera-1> .
+ <http://example.org/ontology#CERN> <http://example.org/ontology#location> <http://example.org/ontology#FacilityNearGeneva> <CERN-Al-Jazeera-2> .
+ <http://example.org/ontology#ScienceExperiment> <http://example.org/ontology#description> "one of the world’s most expensive, complex and successful science experiments"  <CERN-Al-Jazeera-2> .
+ <http://example.org/ontology#CERN> <http://purl.org/dc/terms/created> "1954-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-Al-Jazeera-2> .
+ <http://example.org/ontology#CERN> <http://example.org/ontology#hasAchievement> <http://example.org/ontology#ScienceExperiment> <CERN-Al-Jazeera-2> .
+ <http://example.org/ontology#CERN> <http://example.org/ontology#employs> <http://example.org/ontology#Engineers> <CERN-Al-Jazeera-2> .
+ <http://example.org/ontology#ScienceExperiment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Experiment> <CERN-Al-Jazeera-2> .
+ <http://example.org/ontology#CERN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#ResearchOrganization> <CERN-Al-Jazeera-2> .
+ <http://example.org/ontology#CERN> <http://example.org/ontology#employs> <http://example.org/ontology#Physicists> <CERN-Al-Jazeera-2> .
+ <http://example.org/ontology#AlJazeera> <http://xmlns.com/foaf/0.1/name> "Al Jazeera"  <CERN-Al-Jazeera-2> .
+ <http://example.org/ontology#TarekBazley> <http://xmlns.com/foaf/0.1/name> "Tarek Bazley"  <CERN-Al-Jazeera-2> .
+ <http://example.org/ontology#Geneva> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#City> <CERN-Al-Jazeera-2> .
+ <http://example.org/ontology#Engineers> <http://example.org/ontology#description> "world’s top engineers"  <CERN-Al-Jazeera-2> .
+ <http://example.org/ontology#Switzerland> <http://xmlns.com/foaf/0.1/name> "Switzerland"  <CERN-Al-Jazeera-2> .
+ <http://example.org/ontology#CERN> <http://xmlns.com/foaf/0.1/name> "European Organisation for Nuclear Research"  <CERN-Al-Jazeera-2> .
+ <http://example.org/ontology#Engineers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#ProfessionalGroup> <CERN-Al-Jazeera-2> .
+ <http://example.org/ontology#TarekBazley> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-Al-Jazeera-2> .
+ <http://example.org/ontology#TarekBazley> <http://example.org/ontology#role> <http://example.org/ontology#ScienceReporter> <CERN-Al-Jazeera-2> .
+ <http://example.org/ontology#AlJazeera> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Organization> <CERN-Al-Jazeera-2> .
+ <http://example.org/ontology#FacilityNearGeneva> <http://xmlns.com/foaf/0.1/name> "CERN's facilities"  <CERN-Al-Jazeera-2> .
+ <http://example.org/ontology#Physicists> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#ProfessionalGroup> <CERN-Al-Jazeera-2> .
+ <http://example.org/ontology#TarekBazley> <http://example.org/ontology#visited> <http://example.org/ontology#FacilityNearGeneva> <CERN-Al-Jazeera-2> .
+ <http://example.org/ontology#ScienceReporter> <http://example.org/ontology#employer> <http://example.org/ontology#AlJazeera> <CERN-Al-Jazeera-2> .
+ <http://example.org/ontology#Physicists> <http://example.org/ontology#description> "world’s top physicists"  <CERN-Al-Jazeera-2> .
+ <http://example.org/ontology#FacilityNearGeneva> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Facility> <CERN-Al-Jazeera-2> .
+ <http://example.org/ontology#Geneva> <http://xmlns.com/foaf/0.1/name> "Geneva"  <CERN-Al-Jazeera-2> .
+ <http://example.org/ontology#ScienceReporter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Occupation> <CERN-Al-Jazeera-2> .
+ <http://example.org/ontology#Engineers> <http://example.org/ontology#memberCount> "10000"^^<http://www.w3.org/2001/XMLSchema#integer>  <CERN-Al-Jazeera-2> .
+ <http://example.org/ontology#Physicists> <http://example.org/ontology#memberCount> "10000"^^<http://www.w3.org/2001/XMLSchema#integer>  <CERN-Al-Jazeera-2> .
+ <http://example.org/ontology#Switzerland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Country> <CERN-Al-Jazeera-2> .
+ <http://example.org/ontology#FacilityNearGeneva> <http://example.org/ontology#locatedIn> <http://example.org/ontology#Geneva> <CERN-Al-Jazeera-2> .
+ <http://example.org/ontology#Geneva> <http://example.org/ontology#isIn> <http://example.org/ontology#Switzerland> <CERN-Al-Jazeera-2> .
+ <http://example.org/ontology#CERN> <http://purl.org/dc/terms/subject> <http://example.org/ontology#NuclearResearch> <CERN-Al-Jazeera-2> .
+ <http://example.org/star_trek_antimatter/Positrons> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Particle> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/AntimatterAtoms> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ChemicalSubstance> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/Antimatter> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Positron> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/StarshipEnterprise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Spacecraft> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/AntimatterGravity> <http://dbpedia.org/ontology/abstract> "The behavior of antimatter in a gravitational field has been a subject of scientific investigation."@en  <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/Antimatter> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Cosmic_ray> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/GBARExperiment> <http://dbpedia.org/ontology/organisation> <http://example.org/star_trek_antimatter/CERN> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/Paul_Dirac> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/United_Kingdom> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/Jeffrey_Hangst> <http://dbpedia.org/ontology/abstract> "Jeffrey Hangst is a spokesperson for the ALPHA experiment and announced the results of the antimatter gravity test."@en  <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/AntimatterInNature> <http://dbpedia.org/ontology/abstract> "Antimatter is rarely found in nature but can be created in laboratories like CERN."@en  <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/AntimatterDiscovery> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Cosmic_ray> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/DiracEquation> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Quantum_mechanics> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/AntimatterMystery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Concept> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/PETScan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MedicalImaging> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/Antimatter> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/PET_scan> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/Jeffrey_Hangst> <http://dbpedia.org/ontology/affiliation> <http://example.org/star_trek_antimatter/ALPHAExperiment> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/StarshipEnterprise> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Star_Trek> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/Jeffrey_Hangst> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Physicist> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/EquivalencePrinciple> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/General_relativity> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/DiracEquation> <http://dbpedia.org/ontology/abstract> "The Dirac equation predicts the existence of antimatter."@en  <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/AntimatterAtoms> <http://dbpedia.org/ontology/abstract> "Scientists at CERN have been assembling antimatter atoms and trapping them in magnetic bottles."@en  <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/Paul_Dirac> <http://dbpedia.org/ontology/knownFor> <http://example.org/star_trek_antimatter/DiracEquation> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/Rebecca_Suarez> <http://dbpedia.org/ontology/affiliation> <http://dbpedia.org/resource/Uppsala_University> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/AntimatterGravityTest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/Antimatter> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Equivalence_principle> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/PETScan> <http://dbpedia.org/ontology/abstract> "PET scans use antiparticles to look through skin for cancers or heart function."@en  <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/Patrice_Perez> <http://dbpedia.org/ontology/affiliation> <http://example.org/star_trek_antimatter/GBARExperiment> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/Positrons> <http://dbpedia.org/ontology/abstract> "Positrons are the antiparticles of electrons and are used in PET scans and antimatter experiments at CERN."@en  <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/ALPHAExperiment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Project> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/Antimatter> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/CERN> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/ALPHAExperiment> <http://dbpedia.org/ontology/abstract> "The ALPHA experiment at CERN confirmed that antimatter falls down with gravity."@en  <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/AntimatterInNature> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Concept> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/EquivalencePrinciple> <http://dbpedia.org/ontology/abstract> "The equivalence principle states that all objects should fall at the same rate in a gravitational field."@en  <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/Antimatter> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Big_Bang> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/DiracEquation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Theory> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/AntimatterDiscovery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/Patrice_Perez> <http://dbpedia.org/ontology/abstract> "Patrice Perez is a spokesperson for the GBAR experiment at CERN."@en  <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/AntimatterGravityTest> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://example.org/star_trek_antimatter/ALPHAExperiment> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/Antimatter> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Gravity> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/AntimatterAndMatterAnnihilation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Phenomenon> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/Antimatter> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/General_relativity> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/AntimatterMystery> <http://dbpedia.org/ontology/abstract> "The lack of antimatter in the universe is one of the great unresolved mysteries in physics."@en  <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/CERN> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Switzerland> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/Antiprotons> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Particle> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/Antimatter> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Isotope> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/ALPHAExperiment> <http://dbpedia.org/ontology/organisation> <http://example.org/star_trek_antimatter/CERN> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/StarshipEnterprise> <http://dbpedia.org/ontology/abstract> "In Star Trek, the Starship Enterprise is powered by antimatter."@en  <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/AntimatterAndMatterAnnihilation> <http://dbpedia.org/ontology/abstract> "When antimatter meets normal matter, they annihilate with a powerful energy release."@en  <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/AntimatterDiscovery> <http://dbpedia.org/ontology/abstract> "Antimatter was discovered in nature in the trails of cosmic rays during a balloon mission."@en  <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/Antimatter> <http://dbpedia.org/ontology/abstract> "Antimatter has been a subject of fascination and concern in popular culture and scientific research."@en  <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/StandardModelOfPhysics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ScientificTheory> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/Paul_Dirac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Scientist> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/EquivalencePrinciple> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/PhysicalLaw> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/AntimatterGravity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Concept> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/AntimatterGravityTest> <http://dbpedia.org/ontology/abstract> "The antimatter gravity test confirmed that antimatter falls downward towards the center of the earth."@en  <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/Antimatter> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Electron> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/PETScan> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Positron_emission_tomography> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/Rebecca_Suarez> <http://dbpedia.org/ontology/abstract> "Rebecca Suarez is an experimental physicist at Uppsala University, not involved in the CERN antimatter project, but interested in its implications."@en  <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/Rebecca_Suarez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Physicist> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/GBARExperiment> <http://dbpedia.org/ontology/abstract> "The GBAR experiment at CERN is involved in capturing and stabilizing antimatter."@en  <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/Antimatter> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Jeffrey_Hangst> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/Antimatter> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Antiproton> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/StandardModelOfPhysics> <http://dbpedia.org/ontology/abstract> "The standard model of physics suggests equal amounts of matter and antimatter should have appeared after the Big Bang."@en  <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/Paul_Dirac> <http://dbpedia.org/ontology/field> <http://dbpedia.org/ontology/Physics> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/CERN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/GBARExperiment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Project> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/Antimatter> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Star_Trek> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/Positrons> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://example.org/star_trek_antimatter/PETScan> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/CERN> <http://dbpedia.org/ontology/abstract> "CERN is the world's largest particle accelerator where key experiments on antimatter are conducted."@en  <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/Antimatter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Concept> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/Patrice_Perez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Physicist> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/Antimatter> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Paul_Dirac> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/Antiprotons> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://example.org/star_trek_antimatter/CERN> <CERN-Al-Jazeera-3> .
+ <http://example.org/star_trek_antimatter/Antiprotons> <http://dbpedia.org/ontology/abstract> "Antiprotons are used at CERN to generate antimatter for experiments."@en  <CERN-Al-Jazeera-3> .
+ <http://example.org/JeffreyHangst> <http://xmlns.com/foaf/0.1/title> "Spokesman"  <CERN-Al-Jazeera-4> .
+ <http://example.org/HydrogenAtom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Atom> <CERN-Al-Jazeera-4> .
+ <http://example.org/AntimatterTrapping> <http://example.org/experimentIterations> "335"  <CERN-Al-Jazeera-4> .
+ <http://example.org/CERN> <http://example.org/abbreviation> "CERN"  <CERN-Al-Jazeera-4> .
+ <http://example.org/CliffSurko> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-Al-Jazeera-4> .
+ <http://example.org/CliffSurko> <http://xmlns.com/foaf/0.1/name> "Cliff Surko"  <CERN-Al-Jazeera-4> .
+ <http://example.org/AntihydrogenAtom> <http://example.org/oppositeOf> <http://example.org/HydrogenAtom> <CERN-Al-Jazeera-4> .
+ <http://example.org/CliffSurko> <http://example.org/fieldOfStudy> "Antimatter research"  <CERN-Al-Jazeera-4> .
+ <http://example.org/JeffreyHangst> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-Al-Jazeera-4> .
+ <http://example.org/AntimatterTrapping> <http://purl.org/dc/terms/description> "Creation and trapping of antihydrogen atoms"  <CERN-Al-Jazeera-4> .
+ <http://CERN-Al-Jazeera-4.com/blank#n54c4a50b47d044739c0712e1e4290781b1> <http://example.org/particleType> "Negatively charged antiproton"  <CERN-Al-Jazeera-4> .
+ <http://CERN-Al-Jazeera-4.com/blank#n54c4a50b47d044739c0712e1e4290781b2> <http://example.org/particleType> "Positively charged positron"  <CERN-Al-Jazeera-4> .
+ <http://example.org/NatureJournal> <http://schema.org/name> "Nature"  <CERN-Al-Jazeera-4> .
+ <http://example.org/CERN> <http://xmlns.com/foaf/0.1/name> "European Centre for Nuclear Research"  <CERN-Al-Jazeera-4> .
+ <http://example.org/AntimatterTrapping> <http://example.org/trappingDuration> "170 milliseconds"  <CERN-Al-Jazeera-4> .
+ <http://example.org/JeffreyHangst> <http://schema.org/affiliation> <http://example.org/CERN> <CERN-Al-Jazeera-4> .
+ <http://example.org/AntimatterTrapping> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Achievement> <CERN-Al-Jazeera-4> .
+ <http://example.org/AntimatterTrapping> <http://example.org/relatedTo> <http://example.org/BigBangTheory> <CERN-Al-Jazeera-4> .
+ <http://example.org/BigBangTheory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Theory> <CERN-Al-Jazeera-4> .
+ <http://example.org/AntihydrogenAtom> <http://example.org/consistsOf> <http://CERN-Al-Jazeera-4.com/blank#n54c4a50b47d044739c0712e1e4290781b2>  <CERN-Al-Jazeera-4> .
+ <http://example.org/JeffreyHangst> <http://xmlns.com/foaf/0.1/name> "Jeffrey Hangst"  <CERN-Al-Jazeera-4> .
+ <http://example.org/UniversityOfCaliforniaSanDiego> <http://xmlns.com/foaf/0.1/name> "University of California, San Diego"  <CERN-Al-Jazeera-4> .
+ <http://example.org/AntihydrogenAtom> <http://example.org/consistsOf> <http://CERN-Al-Jazeera-4.com/blank#n54c4a50b47d044739c0712e1e4290781b1>  <CERN-Al-Jazeera-4> .
+ <http://example.org/CERN> <http://example.org/hasSpokesperson> <http://example.org/JeffreyHangst> <CERN-Al-Jazeera-4> .
+ <http://example.org/CliffSurko> <http://schema.org/affiliation> <http://example.org/UniversityOfCaliforniaSanDiego> <CERN-Al-Jazeera-4> .
+ <http://example.org/CERN> <http://purl.org/dc/terms/location> "Switzerland"  <CERN-Al-Jazeera-4> .
+ <http://example.org/CERN> <http://example.org/reportedIn> <http://example.org/NatureJournal> <CERN-Al-Jazeera-4> .
+ <http://example.org/UniversityOfCaliforniaSanDiego> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/University> <CERN-Al-Jazeera-4> .
+ <http://example.org/NatureJournal> <http://purl.org/dc/terms/publisher> "British journal"  <CERN-Al-Jazeera-4> .
+ <http://example.org/HydrogenAtom> <http://purl.org/dc/terms/description> "Hydrogen atom"  <CERN-Al-Jazeera-4> .
+ <http://example.org/AntimatterTrapping> <http://example.org/trappedAntimatterQuantity> "38"  <CERN-Al-Jazeera-4> .
+ <http://example.org/CERN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ResearchInstitute> <CERN-Al-Jazeera-4> .
+ <http://example.org/NatureJournal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> <CERN-Al-Jazeera-4> .
+ <http://example.org/CERN> <http://example.org/hasAchievement> <http://example.org/AntimatterTrapping> <CERN-Al-Jazeera-4> .
+ <http://example.org/AntihydrogenAtom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Atom> <CERN-Al-Jazeera-4> .
+ <http://example.org/BigBangTheory> <http://purl.org/dc/terms/description> "The Big Bang explosion that created the universe"  <CERN-Al-Jazeera-4> .
+ <http://example.org/AntimatterTrapping> <http://example.org/significance> "A step closer to solving the puzzle of the universe's birth"  <CERN-Al-Jazeera-4> .
+ <http://example.org/AntimatterTrapping> <http://example.org/difficultyLevel> "Ten thousand times more difficult than creating untrapped antihydrogen atoms"  <CERN-Al-Jazeera-4> .
+ <http://CERN-Al-Jazeera-5.com/blank#n33273dcff8b14f659e0b5bdc06a9583cb1> <http://example.org/lhc#discoveryDate> "2012-07-04"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#PeterHiggs> <http://example.org/lhc#role> "physicist at the University of Edinburgh"  <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#SuperconductingMagnets> <http://www.w3.org/2000/01/rdf-schema#label> "superconducting magnets"  <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#Antimatter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/lhc#Matter> <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#ExoticParticles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/lhc#Particle> <CERN-Al-Jazeera-5> .
+ <http://CERN-Al-Jazeera-5.com/blank#n33273dcff8b14f659e0b5bdc06a9583cb1> <http://example.org/lhc#run> <http://CERN-Al-Jazeera-5.com/blank#n33273dcff8b14f659e0b5bdc06a9583cb2>  <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#BrianCole> <http://example.org/lhc#role> "professor of experimental nuclear physics at Columbia University"  <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#StandardModel> <http://www.w3.org/2000/01/rdf-schema#label> "Standard Model theory"  <CERN-Al-Jazeera-5> .
+ <http://CERN-Al-Jazeera-5.com/blank#n33273dcff8b14f659e0b5bdc06a9583cb2> <http://example.org/lhc#startDate> "2023-04-06"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#MikeLamont> <http://example.org/lhc#role> "CERN Director for Accelerators and Technology"  <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#MikeLamont> <http://example.org/lhc#statement> "This is a significant increase, paving the way for new discoveries."  <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#Antimatter> <http://example.org/lhc#question> "why there is considerably less antimatter in the universe compared to matter"  <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#Antimatter> <http://www.w3.org/2000/01/rdf-schema#label> "antimatter"  <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#DarkMatter> <http://example.org/lhc#cannotBeSeenDirectly> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#PeterHiggs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#HiggsBoson> <http://example.org/lhc#provides> "origin of mass"  <CERN-Al-Jazeera-5> .
+ <http://CERN-Al-Jazeera-5.com/blank#n33273dcff8b14f659e0b5bdc06a9583cb2> <http://example.org/lhc#name> "Run 3"  <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#ExoticParticles> <http://www.w3.org/2000/01/rdf-schema#label> "exotic particles"  <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#LargeHadronCollider> <http://example.org/lhc#hasPurpose> "to better understand the forces and phenomena that undergird existence"  <CERN-Al-Jazeera-5> .
+ <http://CERN-Al-Jazeera-5.com/blank#n33273dcff8b14f659e0b5bdc06a9583cb1> <http://example.org/lhc#temperatureUnit> "degrees celsius"  <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#LargeHadronCollider> <http://example.org/lhc#hasComponent> <http://example.org/lhc#LiquidHeliumDistributionSystem> <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#HiggsBoson> <http://example.org/lhc#discoveredBy> <http://example.org/lhc#LargeHadronCollider> <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#StandardModel> <http://example.org/lhc#outlines> "the fundamental building blocks and forces of the universe"  <CERN-Al-Jazeera-5> .
+ <http://CERN-Al-Jazeera-5.com/blank#n33273dcff8b14f659e0b5bdc06a9583cb2> <http://example.org/lhc#discovery> <http://example.org/lhc#ExoticParticles> <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#LiquidHeliumDistributionSystem> <http://www.w3.org/2000/01/rdf-schema#label> "liquid helium distribution system"  <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#ExoticParticles> <http://example.org/lhc#discoveredBy> <http://example.org/lhc#LargeHadronCollider> <CERN-Al-Jazeera-5> .
+ <http://CERN-Al-Jazeera-5.com/blank#n33273dcff8b14f659e0b5bdc06a9583cb1> <http://example.org/lhc#ringLength> "27km"^^<http://www.w3.org/2001/XMLSchema#decimal>  <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#MikeLamont> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#DarkMatter> <http://example.org/lhc#knownToExistDueTo> "its effect on observable objects, including its gravitational pull"  <CERN-Al-Jazeera-5> .
+ <http://CERN-Al-Jazeera-5.com/blank#n33273dcff8b14f659e0b5bdc06a9583cb1> <http://example.org/lhc#collisionEnergy> "13.6 trillion electronvolts"^^<http://www.w3.org/2001/XMLSchema#decimal>  <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#EnergyBoostingStructures> <http://www.w3.org/2000/01/rdf-schema#label> "energy-boosting structures"  <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#SuperconductingMagnets> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/lhc#Component> <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#HiggsBoson> <http://www.w3.org/2000/01/rdf-schema#label> "Higgs boson particle"  <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#LargeHadronCollider> <http://example.org/lhc#hasComponent> <http://example.org/lhc#SuperconductingMagnets> <CERN-Al-Jazeera-5> .
+ <http://CERN-Al-Jazeera-5.com/blank#n33273dcff8b14f659e0b5bdc06a9583cb1> <http://example.org/lhc#temperature> "-271.3"^^<http://www.w3.org/2001/XMLSchema#decimal>  <CERN-Al-Jazeera-5> .
+ <http://CERN-Al-Jazeera-5.com/blank#n33273dcff8b14f659e0b5bdc06a9583cb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/lhc#CollisionCapability> <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#LargeHadronCollider> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/lhc#Collider> <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#NASA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/lhc#SpaceAgency> <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#BrianCole> <http://example.org/lhc#statement> "The Higgs boson particle essentially provides the origin of mass."  <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#PeterHiggs> <http://example.org/lhc#relatedTo> <http://example.org/lhc#HiggsBoson> <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#HiggsBoson> <http://example.org/lhc#relatedTheory> <http://example.org/lhc#StandardModel> <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#BrianCole> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#LiquidHeliumDistributionSystem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/lhc#Component> <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#NASA> <http://www.w3.org/2000/01/rdf-schema#label> "United States space agency NASA"  <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#DarkMatter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/lhc#Matter> <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#CERN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/lhc#ResearchFacility> <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#LargeHadronCollider> <http://example.org/lhc#hasComponent> <http://example.org/lhc#EnergyBoostingStructures> <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#EnergyBoostingStructures> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/lhc#Component> <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#LargeHadronCollider> <http://example.org/lhc#hasCapability> <http://CERN-Al-Jazeera-5.com/blank#n33273dcff8b14f659e0b5bdc06a9583cb1>  <CERN-Al-Jazeera-5> .
+ <http://CERN-Al-Jazeera-5.com/blank#n33273dcff8b14f659e0b5bdc06a9583cb1> <http://example.org/lhc#speed> "near speed of light"  <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#CERN> <http://example.org/lhc#locatedIn> "Geneva"  <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#NASA> <http://example.org/lhc#studies> <http://example.org/lhc#DarkMatter> <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#DarkMatter> <http://www.w3.org/2000/01/rdf-schema#label> "dark matter"  <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#LargeHadronCollider> <http://example.org/lhc#shutdownDates> "2018-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-Al-Jazeera-5> .
+ <http://CERN-Al-Jazeera-5.com/blank#n33273dcff8b14f659e0b5bdc06a9583cb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/lhc#ExperimentRun> <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#BrianCole> <http://xmlns.com/foaf/0.1/name> "Brian Cole"  <CERN-Al-Jazeera-5> .
+ <http://CERN-Al-Jazeera-5.com/blank#n33273dcff8b14f659e0b5bdc06a9583cb1> <http://example.org/lhc#discovery> <http://example.org/lhc#HiggsBoson> <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#PeterHiggs> <http://xmlns.com/foaf/0.1/name> "Peter Higgs"  <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#StandardModel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/lhc#Theory> <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#LargeHadronCollider> <http://example.org/lhc#startDate> "2008-09-10"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#LargeHadronCollider> <http://example.org/lhc#shutdownDates> "2013-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#CERN> <http://www.w3.org/2000/01/rdf-schema#label> "European Organization for Nuclear Research"  <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#LargeHadronCollider> <http://www.w3.org/2000/01/rdf-schema#label> "Large Hadron Collider"  <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#LargeHadronCollider> <http://example.org/lhc#locatedAt> <http://example.org/lhc#CERN> <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#HiggsBoson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/lhc#Particle> <CERN-Al-Jazeera-5> .
+ <http://example.org/lhc#MikeLamont> <http://xmlns.com/foaf/0.1/name> "Mike Lamont"  <CERN-Al-Jazeera-5> .
+ <http://cern.ch/DiscoveryEvent> <http://purl.org/NET/c4dm/event.owl#place> <http://cern.ch/CERN> <CERN-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/University_of_Edinburgh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <CERN-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/University_of_Adelaide> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Australia> <CERN-Al-Jazeera-6> .
+ <http://cern.ch/RolfHeuer> <http://www.w3.org/2000/01/rdf-schema#comment> "We have reached a milestone in our understanding of nature."  <CERN-Al-Jazeera-6> .
+ <http://cern.ch/NewParticle> <http://www.w3.org/2000/01/rdf-schema#comment> "Consistent with the Higgs boson, believed to confer mass."  <CERN-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Peter_Higgs> <http://dbpedia.org/ontology/almaMater> <http://dbpedia.org/resource/University_of_Edinburgh> <CERN-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Anthony_Thomas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-Al-Jazeera-6> .
+ <http://CERN-Al-Jazeera-6.com/blank#nac45fdfd5949430cb8b1519bf9e4c20eb2> <http://xmlns.com/foaf/0.1/name> "Peter Higgs"  <CERN-Al-Jazeera-6> .
+ <http://cern.ch/StandardModel> <http://www.w3.org/2000/01/rdf-schema#comment> "Theory identifying the building blocks for matter and the particles that convey fundamental forces."  <CERN-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/AFP> <http://dbpedia.org/ontology/abbreviation> "AFP"  <CERN-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/AFP> <http://dbpedia.org/ontology/type> <http://dbpedia.org/resource/News_agency> <CERN-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/University_of_Edinburgh> <http://dbpedia.org/ontology/academicStaff> <http://CERN-Al-Jazeera-6.com/blank#nac45fdfd5949430cb8b1519bf9e4c20eb2>  <CERN-Al-Jazeera-6> .
+ <http://cern.ch/NewParticle> <http://www.w3.org/2000/01/rdf-schema#label> "New subatomic particle"  <CERN-Al-Jazeera-6> .
+ <http://cern.ch/CERN> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Switzerland> <CERN-Al-Jazeera-6> .
+ <http://cern.ch/YvesSirois> <http://xmlns.com/foaf/0.1/name> "Yves Sirois"  <CERN-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Peter_Higgs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Anthony_Thomas> <http://www.w3.org/2000/01/rdf-schema#comment> "Commented on the implications of the discovery."  <CERN-Al-Jazeera-6> .
+ <http://cern.ch/JoeIncandela> <http://www.w3.org/2000/01/rdf-schema#comment> "Spokesman for one of the two CERN experiments."  <CERN-Al-Jazeera-6> .
+ <http://cern.ch/CERN> <http://xmlns.com/foaf/0.1/name> "European Organisation for Nuclear Research"  <CERN-Al-Jazeera-6> .
+ <http://cern.ch/StandardModel> <http://www.w3.org/2000/01/rdf-schema#label> "Standard Model"  <CERN-Al-Jazeera-6> .
+ <http://cern.ch/JoeIncandela> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-Al-Jazeera-6> .
+ <http://cern.ch/JoeIncandela> <http://xmlns.com/foaf/0.1/name> "Joe Incandela"  <CERN-Al-Jazeera-6> .
+ <http://cern.ch/DiscoveryEvent> <http://www.w3.org/2000/01/rdf-schema#comment> "Rousing cheers and a standing ovation at CERN after presentation of data."  <CERN-Al-Jazeera-6> .
+ <http://CERN-Al-Jazeera-6.com/blank#nac45fdfd5949430cb8b1519bf9e4c20eb1> <http://xmlns.com/foaf/0.1/name> "European Organisation for Nuclear Research"  <CERN-Al-Jazeera-6> .
+ <http://cern.ch/BigBang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <CERN-Al-Jazeera-6> .
+ <http://cern.ch/NewParticle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Particle> <CERN-Al-Jazeera-6> .
+ <http://cern.ch/BigBang> <http://www.w3.org/2000/01/rdf-schema#comment> "Event that created the Higgs field according to the theory."  <CERN-Al-Jazeera-6> .
+ <http://cern.ch/RolfHeuer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-Al-Jazeera-6> .
+ <http://cern.ch/CERN> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Geneva> <CERN-Al-Jazeera-6> .
+ <http://cern.ch/DiscoveryEvent> <http://purl.org/NET/c4dm/event.owl#time> "2012-07-04"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-Al-Jazeera-6> .
+ <http://cern.ch/YvesSirois> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-Al-Jazeera-6> .
+ <http://CERN-Al-Jazeera-6.com/blank#nac45fdfd5949430cb8b1519bf9e4c20eb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <CERN-Al-Jazeera-6> .
+ <http://cern.ch/StandardModel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ScientificTheory> <CERN-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Anthony_Thomas> <http://dbpedia.org/ontology/affiliation> <http://dbpedia.org/resource/University_of_Adelaide> <CERN-Al-Jazeera-6> .
+ <http://cern.ch/BigBang> <http://dbpedia.org/ontology/pointInTime> "-13700000000.0"^^<http://www.w3.org/2001/XMLSchema#float>  <CERN-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Peter_Higgs> <http://www.w3.org/2000/01/rdf-schema#comment> "Expressed joy at the discovery of the particle."  <CERN-Al-Jazeera-6> .
+ <http://cern.ch/CERN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <CERN-Al-Jazeera-6> .
+ <http://cern.ch/CERN> <http://dbpedia.org/ontology/abbreviation> "CERN"  <CERN-Al-Jazeera-6> .
+ <http://CERN-Al-Jazeera-6.com/blank#nac45fdfd5949430cb8b1519bf9e4c20eb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/University_of_Adelaide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <CERN-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Peter_Higgs> <http://dbpedia.org/ontology/profession> <http://dbpedia.org/resource/Physicist> <CERN-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Peter_Higgs> <http://xmlns.com/foaf/0.1/name> "Peter Higgs"  <CERN-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/University_of_Edinburgh> <http://xmlns.com/foaf/0.1/name> "University of Edinburgh"  <CERN-Al-Jazeera-6> .
+ <http://cern.ch/NewParticle> <http://dbpedia.org/ontology/massUnit> <http://dbpedia.org/resource/Gigaelectronvolt> <CERN-Al-Jazeera-6> .
+ <http://cern.ch/DiscoveryEvent> <http://purl.org/NET/c4dm/event.owl#factor> <http://cern.ch/NewParticle> <CERN-Al-Jazeera-6> .
+ <http://cern.ch/RolfHeuer> <http://xmlns.com/foaf/0.1/name> "Rolf Heuer"  <CERN-Al-Jazeera-6> .
+ <http://cern.ch/NewParticle> <http://dbpedia.org/ontology/discoveredBy> <http://CERN-Al-Jazeera-6.com/blank#nac45fdfd5949430cb8b1519bf9e4c20eb1>  <CERN-Al-Jazeera-6> .
+ <http://cern.ch/DiscoveryEvent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/c4dm/event.owl#Event> <CERN-Al-Jazeera-6> .
+ <http://cern.ch/BigBang> <http://www.w3.org/2000/01/rdf-schema#label> "Big Bang"  <CERN-Al-Jazeera-6> .
+ <http://cern.ch/NewParticle> <http://dbpedia.org/ontology/mass> "125-126"^^<http://www.w3.org/2001/XMLSchema#float>  <CERN-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Anthony_Thomas> <http://xmlns.com/foaf/0.1/name> "Anthony Thomas"  <CERN-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/Peter_Higgs> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/United_Kingdom> <CERN-Al-Jazeera-6> .
+ <http://cern.ch/YvesSirois> <http://www.w3.org/2000/01/rdf-schema#comment> "CERN physicist who spoke to AFP news agency about the discovery."  <CERN-Al-Jazeera-6> .
+ <http://cern.ch/NewParticle> <http://dbpedia.org/ontology/discoveryYear> "2012"^^<http://www.w3.org/2001/XMLSchema#gYear>  <CERN-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/AFP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <CERN-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/University_of_Edinburgh> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_Kingdom> <CERN-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/AFP> <http://xmlns.com/foaf/0.1/name> "Agence France-Presse"  <CERN-Al-Jazeera-6> .
+ <http://dbpedia.org/resource/University_of_Adelaide> <http://xmlns.com/foaf/0.1/name> "University of Adelaide"  <CERN-Al-Jazeera-6> .
+ <http://cern.ch/RolfHeuer> <http://dbpedia.org/ontology/position> "CERN Director General"  <CERN-Al-Jazeera-6> .
+ <http://example.org/science#CERNDirectorGeneral> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#ResearchIntoHiggsParticle> <http://example.org/science#hasPotentialImplications> <http://example.org/science#ExistenceOfParallelUniverses> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#DarkEnergy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/science#CosmicComponent> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#ResearchIntoHiggsParticle> <http://example.org/science#hasPotentialImplications> <http://example.org/science#UnderstandingOfUniverse> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#BigBang> <http://example.org/science#gaveRiseTo> <http://example.org/science#Stars> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#UnderstandingOfUniverse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/science#ScientificConcept> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#Planets> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/science#CelestialBody> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#Life> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/science#BiologicalPhenomenon> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#CERN> <http://example.org/science#plannedEvent> <http://example.org/science#AnnouncementEvent> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#PaulineGagnon> <http://example.org/science#affiliation> <http://example.org/science#CERN> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#CERN> <http://example.org/science#hasPressOfficer> <http://example.org/science#RenildeVandenBroeck> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#VideoRelease> <http://example.org/science#mentions> <http://example.org/science#NewParticleObservation> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#DarkEnergy> <http://example.org/science#comprisesPercentageOfUniverse> "96"^^<http://www.w3.org/2001/XMLSchema#decimal>  <CERN-Al-Jazeera-7> .
+ <http://example.org/science#CERN> <http://example.org/science#hasDirectorGeneral> <http://example.org/science#CERNDirectorGeneral> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#CERN> <http://example.org/science#hasResearchTeam> <http://example.org/science#CMSTeam> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#BigBang> <http://example.org/science#gaveRiseTo> <http://example.org/science#Life> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#TechnicalGlitch> <http://example.org/science#resultedIn> <http://example.org/science#VideoRelease> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#LargeHadronCollider> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/science#ParticleAccelerator> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#PeterJenni> <http://example.org/science#affiliation> <http://example.org/science#CERN> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#CERNDirectorGeneral> <http://example.org/science#role> "Director General"  <CERN-Al-Jazeera-7> .
+ <http://example.org/science#VideoRelease> <http://example.org/science#causedBy> <http://example.org/science#TechnicalGlitch> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#UnderstandingOfUniverse> <http://example.org/science#relatedTo> <http://example.org/science#DarkMatter> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#HiggsParticle> <http://example.org/science#isTheoretical> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <CERN-Al-Jazeera-7> .
+ <http://example.org/science#PaulineGagnon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#CMSTeam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/science#ResearchTeam> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#HiggsParticle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/science#SubatomicParticle> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#VideoRelease> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/science#Event> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#AnnouncementEvent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/science#Event> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#RenildeVandenBroeck> <http://xmlns.com/foaf/0.1/name> "Renilde Vanden Broeck"  <CERN-Al-Jazeera-7> .
+ <http://example.org/science#Tevatron> <http://example.org/science#locatedAt> <http://example.org/science#Fermilab> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#AnnouncementEvent> <http://example.org/science#hasLocation> "Melbourne, Australia"  <CERN-Al-Jazeera-7> .
+ <http://example.org/science#PaulineGagnon> <http://example.org/science#role> "Particle Physicist"  <CERN-Al-Jazeera-7> .
+ <http://example.org/science#TheoryOfEvolution> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/science#BiologicalTheory> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#DarkMatter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/science#CosmicComponent> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#NewParticleObservation> <http://example.org/science#relatedTo> <http://example.org/science#HiggsParticle> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#VideoRelease> <http://example.org/science#relatedTo> <http://example.org/science#AnnouncementEvent> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#StandardModel> <http://example.org/science#comparedTo> <http://example.org/science#TheoryOfEvolution> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#CERN> <http://example.org/science#hasSpokesperson> <http://example.org/science#PeterJenni> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#PeterJenni> <http://xmlns.com/foaf/0.1/name> "Peter Jenni"  <CERN-Al-Jazeera-7> .
+ <http://example.org/science#Fermilab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/science#ResearchLaboratory> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#DarkMatter> <http://example.org/science#comprisesPercentageOfUniverse> "96"^^<http://www.w3.org/2001/XMLSchema#decimal>  <CERN-Al-Jazeera-7> .
+ <http://example.org/science#CERN> <http://example.org/science#hasResearchTeam> <http://example.org/science#ATLASTeam> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#Fermilab> <http://example.org/science#locatedNear> "Chicago"  <CERN-Al-Jazeera-7> .
+ <http://example.org/science#ATLASTeam> <http://example.org/science#hasFormerSpokesperson> <http://example.org/science#PeterJenni> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#DarkEnergy> <http://example.org/science#isPoorlyUnderstood> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <CERN-Al-Jazeera-7> .
+ <http://example.org/science#PhysicsConference> <http://example.org/science#locatedIn> "Melbourne, Australia"  <CERN-Al-Jazeera-7> .
+ <http://example.org/science#RenildeVandenBroeck> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#PaulineGagnon> <http://example.org/science#nationality> "Canadian"  <CERN-Al-Jazeera-7> .
+ <http://example.org/science#CERN> <http://example.org/science#locatedNear> "Geneva"  <CERN-Al-Jazeera-7> .
+ <http://example.org/science#JamesGillies> <http://example.org/science#affiliation> <http://example.org/science#CERN> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#StandardModel> <http://example.org/science#hasMissingPiece> <http://example.org/science#HiggsParticle> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#ExistenceOfParallelUniverses> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/science#ScientificConcept> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#UnderstandingOfUniverse> <http://example.org/science#relatedTo> <http://example.org/science#BigBang> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#HiggsParticle> <http://example.org/science#isMissingPieceOf> <http://example.org/science#StandardModel> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#ATLASTeam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/science#ResearchTeam> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#TheoryOfEvolution> <http://example.org/science#describes> <http://example.org/science#BiologicalDiversity> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#BigBang> <http://example.org/science#gaveRiseTo> <http://example.org/science#Planets> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#PhysicsConference> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/science#Conference> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#UnderstandingOfUniverse> <http://example.org/science#relatedTo> <http://example.org/science#DarkEnergy> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#JamesGillies> <http://xmlns.com/foaf/0.1/name> "James Gillies"  <CERN-Al-Jazeera-7> .
+ <http://example.org/science#LargeHadronCollider> <http://example.org/science#isWorldsBiggestParticleAccelerator> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <CERN-Al-Jazeera-7> .
+ <http://example.org/science#CERNDirectorGeneral> <http://example.org/science#affiliation> <http://example.org/science#CERN> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#PaulineGagnon> <http://xmlns.com/foaf/0.1/name> "Pauline Gagnon"  <CERN-Al-Jazeera-7> .
+ <http://example.org/science#AnnouncementEvent> <http://example.org/science#date> "Wednesday"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-Al-Jazeera-7> .
+ <http://example.org/science#Tevatron> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/science#ParticleAccelerator> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#NewParticleObservation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/science#ScientificObservation> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#BigBang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/science#CosmicEvent> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#TechnicalGlitch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/science#Event> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#JamesGillies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#Stars> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/science#CelestialBody> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#HiggsParticle> <http://example.org/science#relatedTo> <http://example.org/science#UniverseFormation> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#AnnouncementEvent> <http://example.org/science#relatedTo> <http://example.org/science#PhysicsConference> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#RenildeVandenBroeck> <http://example.org/science#locatedIn> "Melbourne"  <CERN-Al-Jazeera-7> .
+ <http://example.org/science#RenildeVandenBroeck> <http://example.org/science#affiliation> <http://example.org/science#CERN> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#ResearchIntoHiggsParticle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/science#ScientificResearch> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#CERN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/science#ResearchLaboratory> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#StandardModel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/science#TheoryOfPhysics> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#DarkMatter> <http://example.org/science#isPoorlyUnderstood> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <CERN-Al-Jazeera-7> .
+ <http://example.org/science#PeterJenni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#StandardModel> <http://example.org/science#describes> <http://example.org/science#FundamentalMakeupOfUniverse> <CERN-Al-Jazeera-7> .
+ <http://example.org/science#CERN> <http://example.org/science#hasFacility> <http://example.org/science#LargeHadronCollider> <CERN-Al-Jazeera-7> .
+ <http://cern.ch/RobertCailliau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-Al-Jazeera-8> .
+ <http://cern.ch/Universe> <http://www.w3.org/2000/01/rdf-schema#comment> "The planets, stars, and galaxies visible make up only a tiny four per cent of the universe."  <CERN-Al-Jazeera-8> .
+ <http://cern.ch/ParticleAccelerators> <http://www.w3.org/2000/01/rdf-schema#comment> "Used to understand the process of the creation of the universe."  <CERN-Al-Jazeera-8> .
+ <http://cern.ch/MichaelPeskin> <http://xmlns.com/foaf/0.1/name> "Michael Peskin"  <CERN-Al-Jazeera-8> .
+ <http://cern.ch/SpecialRelativity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cern.ch/Theory> <CERN-Al-Jazeera-8> .
+ <http://cern.ch/ChangKeeJung> <http://xmlns.com/foaf/0.1/title> "Professor at SUNY at Stoneybrook and T2K International Co-spokesperson"  <CERN-Al-Jazeera-8> .
+ <http://cern.ch/GranSassoLaboratory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cern.ch/Laboratory> <CERN-Al-Jazeera-8> .
+ <http://cern.ch/LargeHadronCollider> <http://www.w3.org/2000/01/rdf-schema#label> "Large Hadron Collider (LHC)"  <CERN-Al-Jazeera-8> .
+ <http://cern.ch/GranSassoLaboratory> <http://www.w3.org/2000/01/rdf-schema#label> "INFN Gran Sasso Laboratory"  <CERN-Al-Jazeera-8> .
+ <http://cern.ch/StandardModel> <http://www.w3.org/2000/01/rdf-schema#comment> "Embodying the behaviour of fundamental particles, missing the mechanism that gives rise to mass."  <CERN-Al-Jazeera-8> .
+ <http://cern.ch/RobertCailliau> <http://xmlns.com/foaf/0.1/title> "Formerly of CERN"  <CERN-Al-Jazeera-8> .
+ <http://cern.ch/MichaelPeskin> <http://xmlns.com/foaf/0.1/title> "Theoretical particle physicist at SLAC National Accelerator Laboratory at Stanford University"  <CERN-Al-Jazeera-8> .
+ <http://cern.ch/ChangKeeJung> <http://xmlns.com/foaf/0.1/name> "Chang Kee Jung"  <CERN-Al-Jazeera-8> .
+ <http://cern.ch/SpecialRelativity> <http://www.w3.org/2000/01/rdf-schema#label> "Einstein's theory of special relativity"  <CERN-Al-Jazeera-8> .
+ <http://cern.ch/ChangKeeJung> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-Al-Jazeera-8> .
+ <http://cern.ch/JamesGillies> <http://xmlns.com/foaf/0.1/name> "James Gillies"  <CERN-Al-Jazeera-8> .
+ <http://cern.ch/StandardModel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cern.ch/Theory> <CERN-Al-Jazeera-8> .
+ <http://cern.ch/LargeHadronCollider> <http://www.w3.org/2000/01/rdf-schema#comment> "CERN's largest particle accelerator, 27km in circumference, situated 100 metres underground."  <CERN-Al-Jazeera-8> .
+ <http://cern.ch/HiggsBoson> <http://www.w3.org/2000/01/rdf-schema#comment> "Hypothesised to give mass to particles when they interact with the Higgs field."  <CERN-Al-Jazeera-8> .
+ <http://cern.ch/Neutrinos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cern.ch/Particle> <CERN-Al-Jazeera-8> .
+ <http://example.org/experiments/HiggsBosonSearch> <http://www.w3.org/2000/01/rdf-schema#comment> "Could unlock secrets about the beginning of the universe."  <CERN-Al-Jazeera-8> .
+ <http://cern.ch/GranSassoLaboratory> <http://www.w3.org/2000/01/rdf-schema#comment> "Location where neutrinos were detected in the Opera experiment."  <CERN-Al-Jazeera-8> .
+ <http://cern.ch/MichaelPeskin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-Al-Jazeera-8> .
+ <http://cern.ch/ChangKeeJung> <http://www.w3.org/2000/01/rdf-schema#comment> "Discussed the implications of the Opera experiment on modern physics."  <CERN-Al-Jazeera-8> .
+ <http://cern.ch/Scientists> <http://www.w3.org/2000/01/rdf-schema#comment> "Scientists at CERN use particle accelerators to understand the process of the creation of the universe."  <CERN-Al-Jazeera-8> .
+ <http://cern.ch/JamesGillies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-Al-Jazeera-8> .
+ <http://cern.ch/AntonioEreditato> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-Al-Jazeera-8> .
+ <http://cern.ch/Neutrinos> <http://www.w3.org/2000/01/rdf-schema#comment> "Electrically neutral and have very little mass, can pass through solid objects."  <CERN-Al-Jazeera-8> .
+ <http://example.org/experiments/OperaExperiment> <http://www.w3.org/2000/01/rdf-schema#label> "Opera experiment"  <CERN-Al-Jazeera-8> .
+ <http://cern.ch/SpecialRelativity> <http://www.w3.org/2000/01/rdf-schema#comment> "Proposed in 1905, it posits that the speed of light is the limit of speed."  <CERN-Al-Jazeera-8> .
+ <http://example.org/experiments/HiggsBosonSearch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cern.ch/Experiment> <CERN-Al-Jazeera-8> .
+ <http://cern.ch/RobertCailliau> <http://xmlns.com/foaf/0.1/name> "Robert Cailliau"  <CERN-Al-Jazeera-8> .
+ <http://cern.ch/MichaelPeskin> <http://www.w3.org/2000/01/rdf-schema#comment> "Questioned the possibility of neutrinos being special enough to shatter special relativity."  <CERN-Al-Jazeera-8> .
+ <http://example.org/experiments/OperaExperiment> <http://www.w3.org/2000/01/rdf-schema#comment> "Certain particles appeared to travel faster than the speed of light."  <CERN-Al-Jazeera-8> .
+ <http://cern.ch/HiggsBoson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cern.ch/Particle> <CERN-Al-Jazeera-8> .
+ <http://example.org/experiments/OperaExperiment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cern.ch/Experiment> <CERN-Al-Jazeera-8> .
+ <http://example.org/experiments/HiggsBosonSearch> <http://www.w3.org/2000/01/rdf-schema#label> "Search for the Higgs boson particle"  <CERN-Al-Jazeera-8> .
+ <http://cern.ch/JamesGillies> <http://www.w3.org/2000/01/rdf-schema#comment> "Explained the purpose of particle accelerators and their role in creating new particles."  <CERN-Al-Jazeera-8> .
+ <http://cern.ch/JamesGillies> <http://xmlns.com/foaf/0.1/title> "Head of communications and lab spokesperson for CERN"  <CERN-Al-Jazeera-8> .
+ <http://cern.ch/AntonioEreditato> <http://www.w3.org/2000/01/rdf-schema#comment> "Spokesperson of the Opera experiment at the INFN Gran Sasso Laboratory."  <CERN-Al-Jazeera-8> .
+ <http://cern.ch/LargeHadronCollider> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cern.ch/ParticleAccelerator> <CERN-Al-Jazeera-8> .
+ <http://cern.ch/RobertCailliau> <http://www.w3.org/2000/01/rdf-schema#comment> "Explained the importance of detecting the Higgs Boson for the Standard Model."  <CERN-Al-Jazeera-8> .
+ <http://cern.ch/AntonioEreditato> <http://xmlns.com/foaf/0.1/name> "Antonio Ereditato"  <CERN-Al-Jazeera-8> .
+ <http://example.org/RobertCailliau> <http://dbpedia.org/ontology/knownFor> <http://example.org/CoBuildingWorldWideWeb> <CERN-Al-Jazeera-9> .
+ <http://example.org/CERN> <http://dbpedia.org/ontology/foundingYear> "1954"^^<http://www.w3.org/2001/XMLSchema#gYear>  <CERN-Al-Jazeera-9> .
+ <http://example.org/HumanMachineInteraction> <http://www.w3.org/2000/01/rdf-schema#label> "Human-machine interaction"@en  <CERN-Al-Jazeera-9> .
+ <http://example.org/CERN> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Geneva> <CERN-Al-Jazeera-9> .
+ <http://example.org/OpenAccess> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Concept> <CERN-Al-Jazeera-9> .
+ <http://example.org/Touchscreen> <http://www.w3.org/2000/01/rdf-schema#label> "Touchscreen technology"@en  <CERN-Al-Jazeera-9> .
+ <http://example.org/RobertCailliau> <http://xmlns.com/foaf/0.1/interest> <http://example.org/Engineering> <CERN-Al-Jazeera-9> .
+ <http://example.org/HumanMachineInteraction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Interest> <CERN-Al-Jazeera-9> .
+ <http://example.org/LargeHadronCollider> <http://dbpedia.org/ontology/constructionYears> "20"^^<http://www.w3.org/2001/XMLSchema#decimal>  <CERN-Al-Jazeera-9> .
+ <http://example.org/RobertCailliau> <http://dbpedia.org/ontology/retired> "2007"^^<http://www.w3.org/2001/XMLSchema#gYear>  <CERN-Al-Jazeera-9> .
+ <http://example.org/CERN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <CERN-Al-Jazeera-9> .
+ <http://example.org/CERN> <http://dbpedia.org/ontology/product> <http://example.org/Touchscreen> <CERN-Al-Jazeera-9> .
+ <http://example.org/BudgetOfLargeUniversity> <http://www.w3.org/2000/01/rdf-schema#label> "Budget of a large university"@en  <CERN-Al-Jazeera-9> .
+ <http://example.org/RobertCailliau> <http://xmlns.com/foaf/0.1/interest> <http://example.org/HumanMachineInteraction> <CERN-Al-Jazeera-9> .
+ <http://example.org/OpenAccess> <http://www.w3.org/2000/01/rdf-schema#label> "All scientific results are open for everyone to inspect"@en  <CERN-Al-Jazeera-9> .
+ <http://example.org/TimBernersLee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-Al-Jazeera-9> .
+ <http://example.org/Engineering> <http://www.w3.org/2000/01/rdf-schema#label> "Engineering studies"@en  <CERN-Al-Jazeera-9> .
+ <http://example.org/CERN> <http://dbpedia.org/ontology/product> <http://example.org/PETScanner> <CERN-Al-Jazeera-9> .
+ <http://example.org/RobertCailliau> <http://xmlns.com/foaf/0.1/depiction> <https://upload.wikimedia.org/wikipedia/commons/0/0c/Robert_Cailliau.jpg> <CERN-Al-Jazeera-9> .
+ <http://example.org/ParticleAccelerators> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Instrument> <CERN-Al-Jazeera-9> .
+ <http://example.org/PETScanner> <http://www.w3.org/2000/01/rdf-schema#label> "PET scanner technology"@en  <CERN-Al-Jazeera-9> .
+ <http://example.org/CERN> <http://dbpedia.org/ontology/field> <http://example.org/Physics> <CERN-Al-Jazeera-9> .
+ <http://example.org/RobertCailliau> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Belgium> <CERN-Al-Jazeera-9> .
+ <http://example.org/CERN> <http://dbpedia.org/ontology/product> <http://example.org/WorldWideWeb> <CERN-Al-Jazeera-9> .
+ <http://example.org/TimBernersLee> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/CERN> <CERN-Al-Jazeera-9> .
+ <http://example.org/RobertCailliau> <http://dbpedia.org/ontology/occupation> <http://example.org/ComputerScientist> <CERN-Al-Jazeera-9> .
+ <http://example.org/LargeHadronCollider> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Instrument> <CERN-Al-Jazeera-9> .
+ <http://example.org/RobertCailliau> <http://dbpedia.org/ontology/almaMater> <http://example.org/UniversityOfGhent> <CERN-Al-Jazeera-9> .
+ <http://example.org/ResearchInPhysics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ResearchField> <CERN-Al-Jazeera-9> .
+ <http://example.org/CoBuildingWorldWideWeb> <http://www.w3.org/2000/01/rdf-schema#label> "Co-building the World Wide Web"@en  <CERN-Al-Jazeera-9> .
+ <http://example.org/RobertCailliau> <http://xmlns.com/foaf/0.1/name> "Robert Cailliau"  <CERN-Al-Jazeera-9> .
+ <http://example.org/RobertCailliau> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/CERN> <CERN-Al-Jazeera-9> .
+ <http://example.org/CoBuildingWorldWideWeb> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/CERN> <CERN-Al-Jazeera-9> .
+ <http://example.org/Engineering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AcademicField> <CERN-Al-Jazeera-9> .
+ <http://example.org/Touchscreen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Technology> <CERN-Al-Jazeera-9> .
+ <http://example.org/UniversityOfGhent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <CERN-Al-Jazeera-9> .
+ <http://example.org/PETScanner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Technology> <CERN-Al-Jazeera-9> .
+ <http://example.org/ResearchInPhysics> <http://www.w3.org/2000/01/rdf-schema#label> "Basic research in physics"@en  <CERN-Al-Jazeera-9> .
+ <http://example.org/ResearchInPhysics> <http://dbpedia.org/ontology/publication> <http://example.org/PublicationOfResults> <CERN-Al-Jazeera-9> .
+ <http://example.org/CERN> <http://dbpedia.org/ontology/purpose> <http://example.org/ResearchInPhysics> <CERN-Al-Jazeera-9> .
+ <http://example.org/PublicationOfResults> <http://dbpedia.org/ontology/accessRights> <http://example.org/OpenAccess> <CERN-Al-Jazeera-9> .
+ <http://example.org/RobertCailliau> <http://dbpedia.org/ontology/birthDate> "1947-01-26"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-Al-Jazeera-9> .
+ <http://example.org/RobertCailliau> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-Al-Jazeera-9> .
+ <http://example.org/CERN> <http://dbpedia.org/ontology/product> <http://example.org/ParticleAccelerators> <CERN-Al-Jazeera-9> .
+ <http://example.org/ComputerScientist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <CERN-Al-Jazeera-9> .
+ <http://example.org/ParticleAccelerators> <http://www.w3.org/2000/01/rdf-schema#label> "Particle accelerators"@en  <CERN-Al-Jazeera-9> .
+ <http://example.org/CERN> <http://dbpedia.org/ontology/product> <http://example.org/LargeHadronCollider> <CERN-Al-Jazeera-9> .
+ <http://example.org/CERN> <http://dbpedia.org/ontology/budget> <http://example.org/BudgetOfLargeUniversity> <CERN-Al-Jazeera-9> .
+ <http://example.org/PublicationOfResults> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Activity> <CERN-Al-Jazeera-9> .
+ <http://example.org/UniversityOfGhent> <http://www.w3.org/2000/01/rdf-schema#label> "University of Ghent"@en  <CERN-Al-Jazeera-9> .
+ <http://example.org/CoBuildingWorldWideWeb> <http://dbpedia.org/ontology/startDate> "1989"^^<http://www.w3.org/2001/XMLSchema#gYear>  <CERN-Al-Jazeera-9> .
+ <http://example.org/ComputerScientist> <http://www.w3.org/2000/01/rdf-schema#label> "Computer scientist"@en  <CERN-Al-Jazeera-9> .
+ <http://example.org/TimBernersLee> <http://dbpedia.org/ontology/occupation> <http://example.org/ComputerScientist> <CERN-Al-Jazeera-9> .
+ <http://example.org/LargeHadronCollider> <http://www.w3.org/2000/01/rdf-schema#label> "Large Hadron Collider (LHC)"@en  <CERN-Al-Jazeera-9> .
+ <http://example.org/PublicationOfResults> <http://www.w3.org/2000/01/rdf-schema#label> "Publish the results to the world"@en  <CERN-Al-Jazeera-9> .
+ <http://example.org/TimBernersLee> <http://dbpedia.org/ontology/knownFor> <http://example.org/InventingWorldWideWeb> <CERN-Al-Jazeera-9> .
+ <http://example.org/CoBuildingWorldWideWeb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Project> <CERN-Al-Jazeera-9> .
+ <http://example.org/CoBuildingWorldWideWeb> <http://dbpedia.org/ontology/developer> <http://example.org/TimBernersLee> <CERN-Al-Jazeera-9> .
+ <http://example.org/BudgetOfLargeUniversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Budget> <CERN-Al-Jazeera-9> .
+ <http://example.org/CoBuildingWorldWideWeb> <http://dbpedia.org/ontology/developer> <http://example.org/RobertCailliau> <CERN-Al-Jazeera-9> .
+ <http://example.org/CERN> <http://dbpedia.org/ontology/missionStatement> "Study physics and tell the results"@en  <CERN-Al-Jazeera-9> .
+ <http://example.org/TimBernersLee> <http://xmlns.com/foaf/0.1/name> "Tim Berners-Lee"  <CERN-Al-Jazeera-9> .
+ <http://example.org/LargeHadronCollider> <http://dbpedia.org/ontology/length> "27-km"^^<http://www.w3.org/2001/XMLSchema#decimal>  <CERN-Al-Jazeera-9> .

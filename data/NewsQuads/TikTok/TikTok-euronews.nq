@@ -1,0 +1,760 @@
+ <http://example.org/UserReports> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <TikTok-euronews-0> .
+ <http://example.org/ActionsTaken> <http://schema.org/percentage> "16"^^<http://www.w3.org/2001/XMLSchema#decimal>  <TikTok-euronews-0> .
+ <http://example.org/LanguageSupport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ItemList> <TikTok-euronews-0> .
+ <http://example.org/TikTok> <http://schema.org/employee> <http://example.org/ContentModerationTeamEU> <TikTok-euronews-0> .
+ <http://example.org/X> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-euronews-0> .
+ <http://example.org/LanguageSupport> <http://schema.org/itemListElement> "French"  <TikTok-euronews-0> .
+ <http://example.org/ContentModerationTeamEU> <http://schema.org/numberOfEmployees> "5000"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-euronews-0> .
+ <http://example.org/UserReports> <http://schema.org/result> <http://example.org/ActionsTaken> <TikTok-euronews-0> .
+ <http://example.org/ContentModerationReport> <http://schema.org/mentions> <http://example.org/UserReports> <TikTok-euronews-0> .
+ <http://example.org/GermanSpeakers> <http://schema.org/numberOfItems> "860"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-euronews-0> .
+ <http://example.org/Instagram> <http://schema.org/name> "Instagram"  <TikTok-euronews-0> .
+ <http://example.org/FrenchSpeakers> <http://schema.org/jobTitle> "Content Moderator"  <TikTok-euronews-0> .
+ <http://example.org/Meta> <http://schema.org/owns> <http://example.org/Facebook> <TikTok-euronews-0> .
+ <http://example.org/TechPlatforms> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ItemList> <TikTok-euronews-0> .
+ <http://example.org/GermanSpeakers> <http://schema.org/jobTitle> "Content Moderator"  <TikTok-euronews-0> .
+ <http://example.org/TikTokReport> <http://schema.org/publisher> <http://example.org/TikTok> <TikTok-euronews-0> .
+ <http://example.org/ContentModerationReport> <http://schema.org/mentions> <http://example.org/ContentModerationTools> <TikTok-euronews-0> .
+ <http://example.org/ContentModerationTeamGlobal> <http://schema.org/numberOfEmployees> "40000"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-euronews-0> .
+ <http://example.org/DigitalServicesAct> <http://schema.org/datePublished> "2023-08-31"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-euronews-0> .
+ <http://example.org/FrenchSpeakers> <http://schema.org/numberOfItems> "650"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-euronews-0> .
+ <http://example.org/VideoRemovals> <http://schema.org/endDate> "2023-09-30"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-euronews-0> .
+ <http://example.org/VideoRemovals> <http://schema.org/location> <http://example.org/EuropeanUnion> <TikTok-euronews-0> .
+ <http://example.org/DigitalServicesAct> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Legislation> <TikTok-euronews-0> .
+ <http://example.org/ByteDance> <http://schema.org/name> "ByteDance"  <TikTok-euronews-0> .
+ <http://example.org/ActionsTaken> <http://schema.org/description> "Actions taken against videos deemed illegal or in violation of internal rules"  <TikTok-euronews-0> .
+ <http://example.org/Facebook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPlatform> <TikTok-euronews-0> .
+ <http://example.org/ContentModerationTeamEU> <http://schema.org/name> "EU Content Moderation Team"  <TikTok-euronews-0> .
+ <http://example.org/ContentModerationTeamGlobal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-euronews-0> .
+ <http://example.org/TikTok> <http://schema.org/parentOrganization> <http://example.org/ByteDance> <TikTok-euronews-0> .
+ <http://example.org/VideoRemovals> <http://schema.org/startDate> "2023-09-01"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-euronews-0> .
+ <http://example.org/LanguageSupport> <http://schema.org/itemListElement> "Turkish"  <TikTok-euronews-0> .
+ <http://example.org/VideoRemovals> <http://schema.org/description> "Removal of four million videos considered illegal or harmful"  <TikTok-euronews-0> .
+ <http://example.org/TikTok> <http://schema.org/employee> <http://example.org/ContentModerationTeamGlobal> <TikTok-euronews-0> .
+ <http://example.org/ContentModerationReport> <http://schema.org/mentions> <http://example.org/LanguageSupport> <TikTok-euronews-0> .
+ <http://example.org/FrenchSpeakers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <TikTok-euronews-0> .
+ <http://example.org/DigitalServicesAct> <http://schema.org/name> "European Digital Services Act (DSA)"  <TikTok-euronews-0> .
+ <http://example.org/ContentModerationReport> <http://schema.org/mentions> <http://example.org/ProactiveActions> <TikTok-euronews-0> .
+ <http://example.org/LanguageSupport> <http://schema.org/itemListElement> "English"  <TikTok-euronews-0> .
+ <http://example.org/EuropeanUnion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <TikTok-euronews-0> .
+ <http://example.org/ContentModerationTools> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <TikTok-euronews-0> .
+ <http://example.org/GermanSpeakers> <http://schema.org/knowsLanguage> "German"  <TikTok-euronews-0> .
+ <http://example.org/ContentModerationReport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Report> <TikTok-euronews-0> .
+ <http://example.org/TikTok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-euronews-0> .
+ <http://example.org/VideoRemovals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <TikTok-euronews-0> .
+ <http://example.org/GermanSpeakers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <TikTok-euronews-0> .
+ <http://example.org/ProactiveActions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <TikTok-euronews-0> .
+ <http://example.org/ProactiveActions> <http://schema.org/description> "The vast majority of actions taken by TikTok against illegal or harmful content are done proactively"  <TikTok-euronews-0> .
+ <http://example.org/TechPlatforms> <http://schema.org/itemListElement> <http://example.org/Meta> <TikTok-euronews-0> .
+ <http://example.org/TikTokReport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Report> <TikTok-euronews-0> .
+ <http://example.org/ByteDance> <http://schema.org/location> <http://example.org/China> <TikTok-euronews-0> .
+ <http://example.org/Meta> <http://schema.org/owns> <http://example.org/Instagram> <TikTok-euronews-0> .
+ <http://example.org/FrenchSpeakers> <http://schema.org/memberOf> <http://example.org/ContentModerationTeamEU> <TikTok-euronews-0> .
+ <http://example.org/TikTokReport> <http://schema.org/numberOfPages> "1"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-euronews-0> .
+ <http://example.org/UserReports> <http://schema.org/description> "TikTok received 35,000 reports related to 24,000 videos"  <TikTok-euronews-0> .
+ <http://example.org/LanguageSupport> <http://schema.org/itemListElement> "German"  <TikTok-euronews-0> .
+ <http://example.org/ContentModerationReport> <http://schema.org/about> <http://example.org/VideoRemovals> <TikTok-euronews-0> .
+ <http://example.org/Instagram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPlatform> <TikTok-euronews-0> .
+ <http://example.org/TikTok> <http://schema.org/name> "TikTok"  <TikTok-euronews-0> .
+ <http://example.org/DigitalServicesAct> <http://schema.org/appliesTo> <http://example.org/TechPlatforms> <TikTok-euronews-0> .
+ <http://example.org/ActionsTaken> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <TikTok-euronews-0> .
+ <http://example.org/TikTokReport> <http://schema.org/about> <http://example.org/DigitalServicesAct> <TikTok-euronews-0> .
+ <http://example.org/LanguageSupport> <http://schema.org/itemListElement> "Arabic"  <TikTok-euronews-0> .
+ <http://example.org/EuropeanUnion> <http://schema.org/name> "European Union"  <TikTok-euronews-0> .
+ <http://example.org/ContentModerationTools> <http://schema.org/featureList> "Automated tools"  <TikTok-euronews-0> .
+ <http://example.org/FrenchSpeakers> <http://schema.org/knowsLanguage> "French"  <TikTok-euronews-0> .
+ <http://example.org/GermanSpeakers> <http://schema.org/memberOf> <http://example.org/ContentModerationTeamEU> <TikTok-euronews-0> .
+ <http://example.org/ContentModerationTools> <http://schema.org/softwareHelp> <http://example.org/LanguageSupport> <TikTok-euronews-0> .
+ <http://example.org/ContentModerationTeamGlobal> <http://schema.org/name> "Global Content Moderation Team"  <TikTok-euronews-0> .
+ <http://example.org/Meta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-euronews-0> .
+ <http://example.org/X> <http://schema.org/alternateName> "formerly Twitter"  <TikTok-euronews-0> .
+ <http://example.org/China> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <TikTok-euronews-0> .
+ <http://example.org/TikTokReport> <http://schema.org/datePublished> "2023-09-01"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-euronews-0> .
+ <http://example.org/ContentModerationTeamEU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-euronews-0> .
+ <http://example.org/TechPlatforms> <http://schema.org/itemListElement> <http://example.org/X> <TikTok-euronews-0> .
+ <http://example.org/LanguageSupport> <http://schema.org/itemListElement> "24 official languages of the EU"  <TikTok-euronews-0> .
+ <http://example.org/TechPlatforms> <http://schema.org/itemListElement> <http://example.org/TikTok> <TikTok-euronews-0> .
+ <http://example.org/China> <http://schema.org/name> "China"  <TikTok-euronews-0> .
+ <http://example.org/ByteDance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-euronews-0> .
+ <http://example.org/Facebook> <http://schema.org/name> "Facebook"  <TikTok-euronews-0> .
+ <http://example.org/TikTokReport> <http://purl.org/dc/terms/subject> <http://example.org/ModerationPolicy> <TikTok-euronews-0> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#MatchingCriteria> <TikTok-euronews-1> .
+ <http://example.org/ontology/bumble#App> <http://example.org/ontology#purpose> "Friendships, Relationships, CasualDating"  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Finding> <TikTok-euronews-1> .
+ <http://example.org/ontology/badoo#App> <http://example.org/ontology#launchedIn> "Moscow"  <TikTok-euronews-1> .
+ <http://example.org/ontology/happn#App> <http://example.org/ontology#name> "Happn"  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Option> <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab10> <http://example.org/ontology#allows> <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab11>  <TikTok-euronews-1> .
+ <http://example.org/ontology/tinder#MatchmakerFeature> <http://example.org/ontology#commentedBy> <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab4>  <TikTok-euronews-1> .
+ <http://example.org/ontology/tinder#App> <http://example.org/ontology#options> <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab8>  <TikTok-euronews-1> .
+ <http://example.org/ontology/bumble#App> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#DatingApp> <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab2> <http://example.org/ontology#performedBy> <http://example.org/ontology#FriendsAndFamily> <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Person> <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab23> <http://example.org/ontology#about> <http://example.org/ontology/bumble#App> <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Finding> <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab25> <http://example.org/ontology#rank> "TopThree"  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#MatchingCriteria> <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Option> <TikTok-euronews-1> .
+ <http://example.org/ontology/tinder#MatchmakerFeature> <http://example.org/ontology#duration> "P1D"^^<http://www.w3.org/2001/XMLSchema#duration>  <TikTok-euronews-1> .
+ <http://example.org/ontology/badoo#App> <http://example.org/ontology#audience> "YoungerAudience"  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab21> <http://example.org/ontology#startDate> "2021-08-08"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Option> <TikTok-euronews-1> .
+ <http://example.org/ontology/lovoo#App> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#DatingApp> <TikTok-euronews-1> .
+ <http://example.org/ontology/hinge#App> <http://example.org/ontology#focus> "Relationships"  <TikTok-euronews-1> .
+ <http://example.org/ontology/apptweak#Report> <http://example.org/ontology#findings> <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab25>  <TikTok-euronews-1> .
+ <http://example.org/ontology/tinder#MatchmakerFeature> <http://example.org/ontology#functionality> <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab1>  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab22> <http://example.org/ontology#rank> "TopThree"  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Finding> <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab3> <http://example.org/ontology#actionType> "RejectProfiles"  <TikTok-euronews-1> .
+ <http://example.org/ontology/tinder#MatchmakerFeature> <http://example.org/ontology#description> "Allows users to grant others access to their accounts for 24 hours to suggest likes"  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab25> <http://example.org/ontology#about> <http://example.org/ontology/hinge#App> <TikTok-euronews-1> .
+ <http://example.org/ontology/hinge#App> <http://example.org/ontology#matchingCriteria> <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab17>  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab27> <http://example.org/ontology#inMonth> "2022-01"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab2> <http://example.org/ontology#actionType> "RecommendPotentialMatches"  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab17> <http://example.org/ontology#basedOn> "FacebookFriends"  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab15> <http://example.org/ontology#name> "Scores"  <TikTok-euronews-1> .
+ <http://example.org/ontology/badoo#App> <http://example.org/ontology#features> <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab13>  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab4> <http://example.org/ontology#name> "Melissa Hobley"  <TikTok-euronews-1> .
+ <http://example.org/ontology/badoo#App> <http://example.org/ontology#features> <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab16>  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#MatchingCriteria> <TikTok-euronews-1> .
+ <http://example.org/ontology/apptweak#Report> <http://example.org/ontology#coversPeriod> <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab21>  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab12> <http://example.org/ontology#name> "VideoChat"  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Action> <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Period> <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Feature> <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab3> <http://example.org/ontology#performedBy> <http://example.org/ontology#FriendsAndFamily> <TikTok-euronews-1> .
+ <http://example.org/ontology/tinder#App> <http://example.org/ontology#hasFeature> <http://example.org/ontology/tinder#MatchmakerFeature> <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Functionality> <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab14> <http://example.org/ontology#name> "Likes"  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Finding> <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Feature> <TikTok-euronews-1> .
+ <http://example.org/ontology/apptweak#Report> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Report> <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab4> <http://example.org/ontology#role> "Chief Marketing Officer at Tinder"  <TikTok-euronews-1> .
+ <http://example.org/ontology/meetic#App> <http://example.org/ontology#growthPeriod> <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab20>  <TikTok-euronews-1> .
+ <http://example.org/ontology/tinder#App> <http://example.org/ontology#options> <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab7>  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab21> <http://example.org/ontology#endDate> "2022-02-28"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab25> <http://example.org/ontology#inCountry> "UK"  <TikTok-euronews-1> .
+ <http://example.org/ontology/bumble#App> <http://example.org/ontology#launchDate> "2014"^^<http://www.w3.org/2001/XMLSchema#gYear>  <TikTok-euronews-1> .
+ <http://example.org/ontology/lovoo#App> <http://example.org/ontology#name> "Lovoo"  <TikTok-euronews-1> .
+ <http://example.org/ontology/meetic#App> <http://example.org/ontology#name> "Meetic"  <TikTok-euronews-1> .
+ <http://example.org/ontology/tinder#App> <http://example.org/ontology#influences> <http://example.org/ontology#OnlineDatingLandscape> <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Option> <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab26> <http://example.org/ontology#rank> "MostPopular"  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab27> <http://example.org/ontology#rank> "FastestGrowing"  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab18> <http://example.org/ontology#basedOn> "PersonalityAndLocation"  <TikTok-euronews-1> .
+ <http://example.org/ontology/meetic#App> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#DatingApp> <TikTok-euronews-1> .
+ <http://example.org/ontology/meetic#App> <http://example.org/ontology#focus> "LongTermRelationships"  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab8> <http://example.org/ontology#type> "ShortTerm"  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab6> <http://example.org/ontology#type> "OpenRelationships"  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab13> <http://example.org/ontology#name> "ProfileVisits"  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab19> <http://example.org/ontology#basedOn> "CrossedPaths"  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab27> <http://example.org/ontology#inCountry> "Spain"  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Period> <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Action> <TikTok-euronews-1> .
+ <http://example.org/ontology/tinder#MatchmakerFeature> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Feature> <TikTok-euronews-1> .
+ <http://example.org/ontology/tinder#App> <http://example.org/ontology#options> <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab6>  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab22> <http://example.org/ontology#about> <http://example.org/ontology/tinder#App> <TikTok-euronews-1> .
+ <http://example.org/ontology/badoo#App> <http://example.org/ontology#features> <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab14>  <TikTok-euronews-1> .
+ <http://example.org/ontology/badoo#App> <http://example.org/ontology#features> <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab12>  <TikTok-euronews-1> .
+ <http://example.org/ontology/tinder#App> <http://example.org/ontology#options> <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab5>  <TikTok-euronews-1> .
+ <http://example.org/ontology/apptweak#Report> <http://example.org/ontology#findings> <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab27>  <TikTok-euronews-1> .
+ <http://example.org/ontology/tinder#MatchmakerFeature> <http://example.org/ontology#launchedBy> <http://example.org/ontology#Tinder> <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab26> <http://example.org/ontology#inCountries> "Germany, Italy"  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab16> <http://example.org/ontology#name> "SendASong"  <TikTok-euronews-1> .
+ <http://example.org/ontology/badoo#App> <http://example.org/ontology#launchDate> "2006"^^<http://www.w3.org/2001/XMLSchema#gYear>  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab7> <http://example.org/ontology#type> "LongTerm"  <TikTok-euronews-1> .
+ <http://example.org/ontology/tinder#MatchmakerFeature> <http://example.org/ontology#purpose> "To make dating a team sport"  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab11> <http://example.org/ontology#actionType> "WomenMakeFirstContact"  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab26> <http://example.org/ontology#about> <http://example.org/ontology/lovoo#App> <TikTok-euronews-1> .
+ <http://example.org/ontology/apptweak#Report> <http://example.org/ontology#findings> <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab23>  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab1> <http://example.org/ontology#restricts> <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab3>  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Feature> <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab5> <http://example.org/ontology#type> "Monogamy"  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab9> <http://example.org/ontology#type> "StillFiguringItOut"  <TikTok-euronews-1> .
+ <http://example.org/ontology/badoo#App> <http://example.org/ontology#name> "Badoo"  <TikTok-euronews-1> .
+ <http://example.org/ontology/tinder#App> <http://example.org/ontology#name> "Tinder"  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Functionality> <TikTok-euronews-1> .
+ <http://example.org/ontology/canva#SydaProductions> <http://example.org/ontology#name> "sydaproductions"  <TikTok-euronews-1> .
+ <http://example.org/ontology/bumble#App> <http://example.org/ontology#name> "Bumble"  <TikTok-euronews-1> .
+ <http://example.org/ontology/hinge#App> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#DatingApp> <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab1> <http://example.org/ontology#allows> <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab2>  <TikTok-euronews-1> .
+ <http://example.org/ontology/meetic#App> <http://example.org/ontology#type> "PaidApp"  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab24> <http://example.org/ontology#rank> "TopCharts"  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Option> <TikTok-euronews-1> .
+ <http://example.org/ontology/badoo#App> <http://example.org/ontology#features> <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab15>  <TikTok-euronews-1> .
+ <http://example.org/ontology/happn#App> <http://example.org/ontology#matchingCriteria> <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab19>  <TikTok-euronews-1> .
+ <http://example.org/ontology/tinder#App> <http://example.org/ontology#options> <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab9>  <TikTok-euronews-1> .
+ <http://example.org/ontology/tinder#App> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#DatingApp> <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab20> <http://example.org/ontology#startDate> "2022-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-euronews-1> .
+ <http://example.org/ontology/tinder#App> <http://example.org/ontology#launchDate> "2012-09"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Action> <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab24> <http://example.org/ontology#inCountries> "France, Spain, Italy"  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab24> <http://example.org/ontology#about> <http://example.org/ontology/badoo#App> <TikTok-euronews-1> .
+ <http://example.org/ontology/bumble#App> <http://example.org/ontology#functionality> <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab10>  <TikTok-euronews-1> .
+ <http://example.org/ontology/tinder#MatchmakerFeature> <http://example.org/ontology#name> "Matchmaker"  <TikTok-euronews-1> .
+ <http://example.org/ontology/apptweak#Report> <http://example.org/ontology#findings> <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab26>  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Finding> <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab20> <http://example.org/ontology#endDate> "2022-01-31"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab27> <http://example.org/ontology#about> <http://example.org/ontology/meetic#App> <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Feature> <TikTok-euronews-1> .
+ <http://example.org/ontology/happn#App> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#DatingApp> <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab23> <http://example.org/ontology#rank> "TopDownloaded"  <TikTok-euronews-1> .
+ <http://example.org/ontology/badoo#App> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#DatingApp> <TikTok-euronews-1> .
+ <http://example.org/ontology/lovoo#App> <http://example.org/ontology#matchingCriteria> <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab18>  <TikTok-euronews-1> .
+ <http://example.org/ontology/apptweak#Report> <http://example.org/ontology#findings> <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab22>  <TikTok-euronews-1> .
+ <http://example.org/ontology/canva#SydaProductions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#User> <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Feature> <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab22> <http://example.org/ontology#inCountries> "UK, Germany, France, Spain, Italy"  <TikTok-euronews-1> .
+ <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Finding> <TikTok-euronews-1> .
+ <http://example.org/ontology/hinge#App> <http://example.org/ontology#name> "Hinge"  <TikTok-euronews-1> .
+ <http://example.org/ontology/apptweak#Report> <http://example.org/ontology#findings> <http://TikTok-euronews-1.com/blank#n5d4a170b169743dc867855ed6338ddeab24>  <TikTok-euronews-1> .
+ <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#ManagerRole> <TikTok-euronews-2> .
+ <http://example.org/ontology#RetailSectorHeads> <http://schema.org/member> <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b5>  <TikTok-euronews-2> .
+ <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <TikTok-euronews-2> .
+ <http://example.org/ontology#LabourParty> <http://example.org/ontology#conference> <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b14>  <TikTok-euronews-2> .
+ <http://example.org/ontology#YvetteCooper> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-euronews-2> .
+ <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Report> <TikTok-euronews-2> .
+ <http://example.org/ontology#YvetteCooper> <http://example.org/ontology#role> <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b13>  <TikTok-euronews-2> .
+ <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#MassShopliftingEvent> <TikTok-euronews-2> .
+ <http://example.org/ontology#GovernmentInWaiting> <http://example.org/ontology#plansToTackle> <http://example.org/ontology#TheftWithNewLaw> <TikTok-euronews-2> .
+ <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> <TikTok-euronews-2> .
+ <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Report> <TikTok-euronews-2> .
+ <http://example.org/ontology#PravinKharel> <http://xmlns.com/foaf/0.1/name> "Pravin Kharel"  <TikTok-euronews-2> .
+ <http://example.org/ontology#NewOffenceAssaultShopWorker> <http://example.org/ontology#proposedBy> <http://example.org/ontology#LabourParty> <TikTok-euronews-2> .
+ <http://example.org/ontology#RetailCrimeStatistics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Statistic> <TikTok-euronews-2> .
+ <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b4> <http://example.org/ontology#timeFrame> "this year"  <TikTok-euronews-2> .
+ <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b5> <http://schema.org/name> "Tesco"  <TikTok-euronews-2> .
+ <http://example.org/ontology#InflationInUK> <http://schema.org/validFrom> "2022-08-01"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-euronews-2> .
+ <http://example.org/ontology#RetailSectorHeads> <http://example.org/ontology#demandActionAgainst> <http://example.org/ontology#CriminalActivity> <TikTok-euronews-2> .
+ <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b11> <http://www.w3.org/2006/vcard/ns#street-address> "Oxford Street"  <TikTok-euronews-2> .
+ <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#ShadowHomeSecretaryRole> <TikTok-euronews-2> .
+ <http://example.org/ontology#NewOffenceAssaultShopWorker> <http://schema.org/description> "New offence of assaulting a shop worker"  <TikTok-euronews-2> .
+ <http://example.org/ontology#InflationInUK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#EconomicIndicator> <TikTok-euronews-2> .
+ <http://example.org/ontology#LabourParty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#PoliticalParty> <TikTok-euronews-2> .
+ <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Event> <TikTok-euronews-2> .
+ <http://example.org/ontology#YvetteCooper> <http://xmlns.com/foaf/0.1/name> "Yvette Cooper"  <TikTok-euronews-2> .
+ <http://example.org/ontology#JDSportsOxfordStreet> <http://example.org/ontology#event> <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b12>  <TikTok-euronews-2> .
+ <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b9> <http://example.org/ontology#percentageIncrease> "33"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-euronews-2> .
+ <http://example.org/ontology#NewOffenceAssaultShopWorker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Legislation> <TikTok-euronews-2> .
+ <http://example.org/ontology#TheftWithNewLaw> <http://schema.org/description> "A new law to tackle theft"  <TikTok-euronews-2> .
+ <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b13> <http://example.org/ontology#at> <http://example.org/ontology#LabourParty> <TikTok-euronews-2> .
+ <http://example.org/ontology#JDSportsOxfordStreet> <http://schema.org/location> <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b10>  <TikTok-euronews-2> .
+ <http://example.org/ontology#TheftWithNewLaw> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Legislation> <TikTok-euronews-2> .
+ <http://example.org/ontology#RetailCrimeStatistics> <http://example.org/ontology#currency> "GBP"  <TikTok-euronews-2> .
+ <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b10> <http://schema.org/address> <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b11>  <TikTok-euronews-2> .
+ <http://example.org/ontology#RetailSectorHeads> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-euronews-2> .
+ <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b6> <http://schema.org/name> "Boots"  <TikTok-euronews-2> .
+ <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Penalty> <TikTok-euronews-2> .
+ <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b15> <http://example.org/ontology#imprisonmentDuration> "2 years"^^<http://www.w3.org/2001/XMLSchema#duration>  <TikTok-euronews-2> .
+ <http://example.org/ontology#CoopSupermarketChain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-euronews-2> .
+ <http://example.org/ontology#BritishBusinesses> <http://schema.org/industry> "Retail"  <TikTok-euronews-2> .
+ <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b8> <http://example.org/ontology#itemsList> "meat, alcohol, confectionery"  <TikTok-euronews-2> .
+ <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b9> <http://example.org/ontology#timeFrame> "one year"  <TikTok-euronews-2> .
+ <http://example.org/ontology#RetailSectorHeads> <http://schema.org/member> <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b7>  <TikTok-euronews-2> .
+ <http://example.org/ontology#CoopSupermarketChain> <http://example.org/ontology#reportsSurgeInCrime> <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b9>  <TikTok-euronews-2> .
+ <http://example.org/ontology#PravinKharel> <http://example.org/ontology#role> <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b1>  <TikTok-euronews-2> .
+ <http://example.org/ontology#PravinKharel> <http://xmlns.com/foaf/0.1/age> "28"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-euronews-2> .
+ <http://example.org/ontology#CurrentLaw2014> <http://example.org/ontology#thresholdAmount> "200"^^<http://www.w3.org/2001/XMLSchema#decimal>  <TikTok-euronews-2> .
+ <http://example.org/ontology#RetailSectorHeads> <http://schema.org/member> <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b6>  <TikTok-euronews-2> .
+ <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b12> <http://example.org/ontology#date> "2022-08-01"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-euronews-2> .
+ <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b3> <http://www.w3.org/2006/vcard/ns#locality> "London"  <TikTok-euronews-2> .
+ <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b14> <http://example.org/ontology#date> "2023-09-26"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-euronews-2> .
+ <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b4> <http://example.org/ontology#percentageIncrease> "27"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-euronews-2> .
+ <http://example.org/ontology#PravinKharel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-euronews-2> .
+ <http://example.org/ontology#SainsburysLondon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Store> <TikTok-euronews-2> .
+ <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b7> <http://schema.org/name> "WHSmith"  <TikTok-euronews-2> .
+ <http://example.org/ontology#BRC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-euronews-2> .
+ <http://example.org/ontology#WaveOfThefts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#CriminalActivity> <TikTok-euronews-2> .
+ <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <TikTok-euronews-2> .
+ <http://example.org/ontology#BritishBusinesses> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-euronews-2> .
+ <http://example.org/ontology#BRC> <http://example.org/ontology#reportOnShoplifting> <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b4>  <TikTok-euronews-2> .
+ <http://example.org/ontology#ACS> <http://schema.org/name> "Convenience Stores Association"  <TikTok-euronews-2> .
+ <http://example.org/ontology#GovernmentInWaiting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#PoliticalEntity> <TikTok-euronews-2> .
+ <http://example.org/ontology#RetailCrimeStatistics> <http://example.org/ontology#costToBusinesses> "1000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <TikTok-euronews-2> .
+ <http://example.org/ontology#JDSportsOxfordStreet> <http://schema.org/name> "JD Sports"  <TikTok-euronews-2> .
+ <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b4> <http://example.org/ontology#locationScope> "ten of the UK’s biggest cities"  <TikTok-euronews-2> .
+ <http://example.org/ontology#LabourParty> <http://example.org/ontology#policy> <http://example.org/ontology#aimsToInvestigateAllShopliftingCrimes> <TikTok-euronews-2> .
+ <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <TikTok-euronews-2> .
+ <http://example.org/ontology#CurrentLaw2014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Legislation> <TikTok-euronews-2> .
+ <http://example.org/ontology#WaveOfThefts> <http://schema.org/description> "Wave of thefts and attacks against employees"  <TikTok-euronews-2> .
+ <http://example.org/ontology#BritishBusinesses> <http://example.org/ontology#facing> <http://example.org/ontology#WaveOfThefts> <TikTok-euronews-2> .
+ <http://example.org/ontology#CurrentLaw2014> <http://schema.org/dateCreated> "2014-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-euronews-2> .
+ <http://example.org/ontology#SainsburysLondon> <http://schema.org/location> <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b2>  <TikTok-euronews-2> .
+ <http://example.org/ontology#InflationInUK> <http://schema.org/value> "6.7"^^<http://www.w3.org/2001/XMLSchema#float>  <TikTok-euronews-2> .
+ <http://example.org/ontology#ACS> <http://example.org/ontology#reportOnStolenItems> <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b8>  <TikTok-euronews-2> .
+ <http://example.org/ontology#ACS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-euronews-2> .
+ <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b2> <http://schema.org/address> <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b3>  <TikTok-euronews-2> .
+ <http://example.org/ontology#SainsburysLondon> <http://schema.org/name> "Sainsbury's supermarket"  <TikTok-euronews-2> .
+ <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b1> <http://example.org/ontology#at> <http://example.org/ontology#SainsburysLondon> <TikTok-euronews-2> .
+ <http://example.org/ontology#JDSportsOxfordStreet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Store> <TikTok-euronews-2> .
+ <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Report> <TikTok-euronews-2> .
+ <http://example.org/ontology#BRC> <http://schema.org/name> "British Retail Federation"  <TikTok-euronews-2> .
+ <http://example.org/ontology#NewOffenceAssaultShopWorker> <http://example.org/ontology#potentialPenalty> <http://TikTok-euronews-2.com/blank#n75389149debe40e2be4d407091ba6ff4b15>  <TikTok-euronews-2> .
+ <http://TikTok-euronews-3.com/blank#nd29a4b57daed4d2a918cc6cfe22ff29ab1> <http://dbpedia.org/ontology/designer> <http://dbpedia.org/resource/Paco_Rabanne> <TikTok-euronews-3> .
+ <http://example.org/FeminismAndFashion> <http://schema.org/description> "Interconnection between feminism and fashion throughout history"^^<http://www.w3.org/2001/XMLSchema#string>  <TikTok-euronews-3> .
+ <http://example.org/Birkenstock> <http://dbpedia.org/ontology/stockExchange> <http://dbpedia.org/resource/New_York_Stock_Exchange> <TikTok-euronews-3> .
+ <http://example.org/CrocsShoe> <http://dbpedia.org/ontology/collaboration> <http://dbpedia.org/resource/Balenciaga> <TikTok-euronews-3> .
+ <http://example.org/KonradBirkenstock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-euronews-3> .
+ <http://example.org/RobertFliri> <http://xmlns.com/foaf/0.1/name> "Robert Fliri"^^<http://www.w3.org/2001/XMLSchema#string>  <TikTok-euronews-3> .
+ <http://example.org/MaryQuant> <http://xmlns.com/foaf/0.1/name> "Mary Quant"^^<http://www.w3.org/2001/XMLSchema#string>  <TikTok-euronews-3> .
+ <http://example.org/Birkenstock> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <TikTok-euronews-3> .
+ <http://example.org/Birkenstock> <http://dbpedia.org/ontology/founder> <http://example.org/KonradBirkenstock> <TikTok-euronews-3> .
+ <http://example.org/UglyShoeTrend> <http://dbpedia.org/ontology/relatedTo> <http://example.org/FeminismAndFashion> <TikTok-euronews-3> .
+ <http://dbpedia.org/resource/Yeezy> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/ontology/Fashion> <TikTok-euronews-3> .
+ <http://example.org/LuxuryCatwalks> <http://dbpedia.org/ontology/date> "1997"^^<http://www.w3.org/2001/XMLSchema#gYear>  <TikTok-euronews-3> .
+ <http://example.org/RobertFliri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-euronews-3> .
+ <http://example.org/Crocs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <TikTok-euronews-3> .
+ <http://example.org/UglyShoeTrend> <http://dbpedia.org/ontology/relatedTo> <http://example.org/AntiFashionMovement> <TikTok-euronews-3> .
+ <http://example.org/UglyChicMovement> <http://schema.org/description> "Movement embracing so-called ugly fashion"^^<http://www.w3.org/2001/XMLSchema#string>  <TikTok-euronews-3> .
+ <http://example.org/CrocsShoe> <http://dbpedia.org/ontology/feature> "Easy to slip on or off"^^<http://www.w3.org/2001/XMLSchema#string>  <TikTok-euronews-3> .
+ <http://example.org/DadTrainers> <http://dbpedia.org/ontology/collaboration> <http://dbpedia.org/resource/Yeezy> <TikTok-euronews-3> .
+ <http://example.org/Bloomers> <http://dbpedia.org/ontology/associationWith> <http://dbpedia.org/resource/Feminist_movement> <TikTok-euronews-3> .
+ <http://example.org/CrocsShoe> <http://dbpedia.org/ontology/material> "Waterproof materials"^^<http://www.w3.org/2001/XMLSchema#string>  <TikTok-euronews-3> .
+ <http://example.org/AmeliaBloomer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-euronews-3> .
+ <http://example.org/UglyShoeTrend> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FashionTrend> <TikTok-euronews-3> .
+ <http://example.org/Bloomers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <TikTok-euronews-3> .
+ <http://example.org/Valentino> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <TikTok-euronews-3> .
+ <http://example.org/FengChenWang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-euronews-3> .
+ <http://example.org/UglyShoeTrend> <http://dbpedia.org/ontology/relatedTo> <http://example.org/UglyChicMovement> <TikTok-euronews-3> .
+ <http://example.org/Dior> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/ontology/Fashion> <TikTok-euronews-3> .
+ <http://example.org/Birkenstock> <http://dbpedia.org/ontology/valuationDate> "before IPO"^^<http://www.w3.org/2001/XMLSchema#string>  <TikTok-euronews-3> .
+ <http://example.org/MaryQuant> <http://dbpedia.org/ontology/invention> <http://example.org/MiniSkirt> <TikTok-euronews-3> .
+ <http://example.org/DadTrainers> <http://dbpedia.org/ontology/relatedTo> <http://example.org/UglyShoeTrend> <TikTok-euronews-3> .
+ <http://TikTok-euronews-3.com/blank#nd29a4b57daed4d2a918cc6cfe22ff29ab1> <http://dbpedia.org/ontology/designer> <http://dbpedia.org/resource/Narciso_Rodriguez> <TikTok-euronews-3> .
+ <http://example.org/CrocsShoe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <TikTok-euronews-3> .
+ <http://example.org/LuxuryCatwalks> <http://dbpedia.org/ontology/participant> <http://TikTok-euronews-3.com/blank#nd29a4b57daed4d2a918cc6cfe22ff29ab1>  <TikTok-euronews-3> .
+ <http://example.org/UglyShoeTrend> <http://dbpedia.org/ontology/season> "Summer"^^<http://www.w3.org/2001/XMLSchema#string>  <TikTok-euronews-3> .
+ <http://example.org/AmeliaBloomer> <http://xmlns.com/foaf/0.1/name> "Amelia Bloomer"^^<http://www.w3.org/2001/XMLSchema#string>  <TikTok-euronews-3> .
+ <http://example.org/Bloomers> <http://dbpedia.org/ontology/relatedTo> <http://example.org/FeminismAndFashion> <TikTok-euronews-3> .
+ <http://example.org/Birkenstock> <http://dbpedia.org/ontology/foundationYear> "1897"^^<http://www.w3.org/2001/XMLSchema#gYear>  <TikTok-euronews-3> .
+ <http://example.org/VibramFiveFingers> <http://dbpedia.org/ontology/relatedTo> <http://example.org/UglyShoeTrend> <TikTok-euronews-3> .
+ <http://example.org/AntiFashionMovement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SocialMovement> <TikTok-euronews-3> .
+ <http://example.org/BirkenstockShoe> <http://dbpedia.org/ontology/collaboration> <http://example.org/Dior> <TikTok-euronews-3> .
+ <http://example.org/DadTrainers> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/ontology/Fashion> <TikTok-euronews-3> .
+ <http://example.org/DadTrainers> <http://schema.org/description> "Trainers worn for comfort over style"^^<http://www.w3.org/2001/XMLSchema#string>  <TikTok-euronews-3> .
+ <http://example.org/BirkenstockShoe> <http://dbpedia.org/ontology/appearance> <http://example.org/LuxuryCatwalks> <TikTok-euronews-3> .
+ <http://example.org/CrocsShoe> <http://dbpedia.org/ontology/feature> "Grip-focused soles"^^<http://www.w3.org/2001/XMLSchema#string>  <TikTok-euronews-3> .
+ <http://example.org/UglyShoeTrend> <http://schema.org/description> "The rise of the ugly shoe trend"^^<http://www.w3.org/2001/XMLSchema#string>  <TikTok-euronews-3> .
+ <http://example.org/Dior> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <TikTok-euronews-3> .
+ <http://example.org/FashionScene2017> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <TikTok-euronews-3> .
+ <http://example.org/BirkenstockShoe> <http://dbpedia.org/ontology/collaboration> <http://example.org/Valentino> <TikTok-euronews-3> .
+ <http://example.org/Birkenstock> <http://dbpedia.org/ontology/stockTicker> "BIRK"^^<http://www.w3.org/2001/XMLSchema#string>  <TikTok-euronews-3> .
+ <http://example.org/MiniSkirt> <http://dbpedia.org/ontology/associationWith> <http://dbpedia.org/resource/Twiggy> <TikTok-euronews-3> .
+ <http://dbpedia.org/resource/Twiggy> <http://xmlns.com/foaf/0.1/name> "Twiggy"^^<http://www.w3.org/2001/XMLSchema#string>  <TikTok-euronews-3> .
+ <http://example.org/FashionScene2017> <http://dbpedia.org/ontology/date> "2017"^^<http://www.w3.org/2001/XMLSchema#gYear>  <TikTok-euronews-3> .
+ <http://example.org/Crocs> <http://dbpedia.org/ontology/product> <http://example.org/CrocsShoe> <TikTok-euronews-3> .
+ <http://example.org/Bloomers> <http://schema.org/description> "Loose, functional garment worn underneath a below-the-knee skirt"^^<http://www.w3.org/2001/XMLSchema#string>  <TikTok-euronews-3> .
+ <http://example.org/Valentino> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/ontology/Fashion> <TikTok-euronews-3> .
+ <http://example.org/Crocs> <http://dbpedia.org/ontology/foundationYear> "2001"^^<http://www.w3.org/2001/XMLSchema#gYear>  <TikTok-euronews-3> .
+ <http://example.org/Birkenstock> <http://dbpedia.org/ontology/valuation> "$8.6 billion"^^<http://www.w3.org/2001/XMLSchema#string>  <TikTok-euronews-3> .
+ <http://dbpedia.org/resource/Balenciaga> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/ontology/Fashion> <TikTok-euronews-3> .
+ <http://example.org/VibramFiveFingers> <http://dbpedia.org/ontology/designer> <http://example.org/RobertFliri> <TikTok-euronews-3> .
+ <http://example.org/FashionScene2017> <http://dbpedia.org/ontology/participant> <http://dbpedia.org/resource/Balenciaga> <TikTok-euronews-3> .
+ <http://example.org/CrocsShoe> <http://dbpedia.org/ontology/collaboration> <http://dbpedia.org/resource/Christopher_Kane> <TikTok-euronews-3> .
+ <http://example.org/DadTrainers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <TikTok-euronews-3> .
+ <http://example.org/CrocsShoe> <http://dbpedia.org/ontology/relatedTo> <http://example.org/UglyShoeTrend> <TikTok-euronews-3> .
+ <http://example.org/MiniSkirt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <TikTok-euronews-3> .
+ <http://example.org/MiniSkirt> <http://dbpedia.org/ontology/associationWith> <http://dbpedia.org/resource/Sexual_revolution> <TikTok-euronews-3> .
+ <http://example.org/VibramFiveFingers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <TikTok-euronews-3> .
+ <http://example.org/CrocsShoe> <http://dbpedia.org/ontology/collaboration> <http://example.org/FengChenWang> <TikTok-euronews-3> .
+ <http://example.org/Birkenstock> <http://dbpedia.org/ontology/product> <http://example.org/BirkenstockShoe> <TikTok-euronews-3> .
+ <http://example.org/DadTrainers> <http://dbpedia.org/ontology/collaboration> <http://dbpedia.org/resource/Balenciaga> <TikTok-euronews-3> .
+ <http://dbpedia.org/resource/Balenciaga> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <TikTok-euronews-3> .
+ <http://example.org/MiniSkirt> <http://dbpedia.org/ontology/relatedTo> <http://example.org/FeminismAndFashion> <TikTok-euronews-3> .
+ <http://dbpedia.org/resource/Yeezy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Brand> <TikTok-euronews-3> .
+ <http://example.org/BirkenstockShoe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <TikTok-euronews-3> .
+ <http://example.org/FengChenWang> <http://xmlns.com/foaf/0.1/name> "Feng Chen Wang"^^<http://www.w3.org/2001/XMLSchema#string>  <TikTok-euronews-3> .
+ <http://example.org/VibramFiveFingers> <http://dbpedia.org/ontology/collaboration> <http://dbpedia.org/resource/Balenciaga> <TikTok-euronews-3> .
+ <http://example.org/MaryQuant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-euronews-3> .
+ <http://example.org/FeminismAndFashion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Concept> <TikTok-euronews-3> .
+ <http://example.org/Birkenstock> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/ontology/Fashion> <TikTok-euronews-3> .
+ <http://example.org/DadTrainers> <http://dbpedia.org/ontology/appearance> <http://example.org/FashionScene2017> <TikTok-euronews-3> .
+ <http://example.org/AmeliaBloomer> <http://dbpedia.org/ontology/invention> <http://example.org/Bloomers> <TikTok-euronews-3> .
+ <http://example.org/BirkenstockShoe> <http://dbpedia.org/ontology/relatedTo> <http://example.org/UglyShoeTrend> <TikTok-euronews-3> .
+ <http://example.org/BirkenstockShoe> <http://schema.org/category> "Orthopaedic shoe"^^<http://www.w3.org/2001/XMLSchema#string>  <TikTok-euronews-3> .
+ <http://example.org/Birkenstock> <http://dbpedia.org/ontology/foundationPlace> <http://dbpedia.org/resource/Germany> <TikTok-euronews-3> .
+ <http://example.org/BirkenstockShoe> <http://dbpedia.org/ontology/designer> <http://example.org/KonradBirkenstock> <TikTok-euronews-3> .
+ <http://example.org/KonradBirkenstock> <http://xmlns.com/foaf/0.1/name> "Konrad Birkenstock"^^<http://www.w3.org/2001/XMLSchema#string>  <TikTok-euronews-3> .
+ <http://dbpedia.org/resource/Twiggy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-euronews-3> .
+ <http://example.org/VibramFiveFingers> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/ontology/Sports> <TikTok-euronews-3> .
+ <http://example.org/Crocs> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/ontology/Fashion> <TikTok-euronews-3> .
+ <http://example.org/AntiFashionMovement> <http://schema.org/description> "Movement challenging conventional beauty standards"^^<http://www.w3.org/2001/XMLSchema#string>  <TikTok-euronews-3> .
+ <http://example.org/UglyChicMovement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SocialMovement> <TikTok-euronews-3> .
+ <http://example.org/LuxuryCatwalks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <TikTok-euronews-3> .
+ <http://example.org/AngelaHistory> <http://dbpedia.org/ontology/location> <http://example.org/Qingtian> <TikTok-euronews-4> .
+ <http://example.org/SocialMediaProfiles> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPosting> <TikTok-euronews-4> .
+ <http://TikTok-euronews-4.com/blank#nd1ddc784c93f423fa51051def472e2d6b2> <http://schema.org/interactionType> <http://schema.org/FollowAction> <TikTok-euronews-4> .
+ <http://example.org/SocialMediaProfiles> <http://schema.org/interactionStatistic> <http://TikTok-euronews-4.com/blank#nd1ddc784c93f423fa51051def472e2d6b7>  <TikTok-euronews-4> .
+ <http://example.org/AngelaVideos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWorkSeries> <TikTok-euronews-4> .
+ <http://example.org/Alessandro> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Rome> <TikTok-euronews-4> .
+ <http://TikTok-euronews-4.com/blank#nd1ddc784c93f423fa51051def472e2d6b7> <http://schema.org/userInteractionCount> "15200000"^^<http://www.w3.org/2001/XMLSchema#int>  <TikTok-euronews-4> .
+ <http://TikTok-euronews-4.com/blank#nd1ddc784c93f423fa51051def472e2d6b1> <http://schema.org/interactionStatistic> <http://TikTok-euronews-4.com/blank#nd1ddc784c93f423fa51051def472e2d6b2>  <TikTok-euronews-4> .
+ <http://example.org/MichelaRullo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-euronews-4> .
+ <http://TikTok-euronews-4.com/blank#nd1ddc784c93f423fa51051def472e2d6b2> <http://schema.org/userInteractionCount> "500000"^^<http://www.w3.org/2001/XMLSchema#int>  <TikTok-euronews-4> .
+ <http://example.org/VideoSeries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <TikTok-euronews-4> .
+ <http://example.org/Angela> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-euronews-4> .
+ <http://example.org/AngelaVideos> <http://schema.org/creator> <http://example.org/Angela> <TikTok-euronews-4> .
+ <http://example.org/EnneAgency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <TikTok-euronews-4> .
+ <http://example.org/Angela> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/China> <TikTok-euronews-4> .
+ <http://example.org/Angela> <http://dbpedia.org/ontology/parent> <http://example.org/Alessandro> <TikTok-euronews-4> .
+ <http://example.org/ChristianCarboni> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-euronews-4> .
+ <http://example.org/EnneAgency> <http://xmlns.com/foaf/0.1/name> "Enne"  <TikTok-euronews-4> .
+ <http://example.org/Angela> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://TikTok-euronews-4.com/blank#nd1ddc784c93f423fa51051def472e2d6b1>  <TikTok-euronews-4> .
+ <http://example.org/Angela> <http://dbpedia.org/ontology/occupation> <http://example.org/StoreOwner> <TikTok-euronews-4> .
+ <http://example.org/ChristianCarboni> <http://xmlns.com/foaf/0.1/name> "Christian Carboni"  <TikTok-euronews-4> .
+ <http://example.org/SocialMediaProfiles> <http://schema.org/about> <http://example.org/AnMegastore> <TikTok-euronews-4> .
+ <http://example.org/Qingtian> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <TikTok-euronews-4> .
+ <http://example.org/VideoSeries> <http://schema.org/about> <http://example.org/AnMegastore> <TikTok-euronews-4> .
+ <http://example.org/RacismInItaly> <http://dbpedia.org/ontology/related> <http://example.org/AngelaVideos> <TikTok-euronews-4> .
+ <http://TikTok-euronews-4.com/blank#nd1ddc784c93f423fa51051def472e2d6b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SocialMediaPosting> <TikTok-euronews-4> .
+ <http://TikTok-euronews-4.com/blank#nd1ddc784c93f423fa51051def472e2d6b1> <http://schema.org/interactionStatistic> <http://TikTok-euronews-4.com/blank#nd1ddc784c93f423fa51051def472e2d6b3>  <TikTok-euronews-4> .
+ <http://example.org/Angela> <http://dbpedia.org/ontology/age> "59"^^<http://www.w3.org/2001/XMLSchema#int>  <TikTok-euronews-4> .
+ <http://example.org/ChristianCarboni> <http://dbpedia.org/ontology/occupation> <http://example.org/CoFounder> <TikTok-euronews-4> .
+ <http://example.org/Alessandro> <http://dbpedia.org/ontology/age> "31"^^<http://www.w3.org/2001/XMLSchema#int>  <TikTok-euronews-4> .
+ <http://TikTok-euronews-4.com/blank#nd1ddc784c93f423fa51051def472e2d6b5> <http://xmlns.com/foaf/0.1/depicts> <http://example.org/MichelaRullo> <TikTok-euronews-4> .
+ <http://example.org/EnneAgency> <http://dbpedia.org/ontology/product> <http://example.org/SocialMediaMarketing> <TikTok-euronews-4> .
+ <http://TikTok-euronews-4.com/blank#nd1ddc784c93f423fa51051def472e2d6b3> <http://schema.org/interactionType> <http://schema.org/LikeAction> <TikTok-euronews-4> .
+ <http://TikTok-euronews-4.com/blank#nd1ddc784c93f423fa51051def472e2d6b7> <http://schema.org/interactionType> <http://schema.org/LikeAction> <TikTok-euronews-4> .
+ <http://TikTok-euronews-4.com/blank#nd1ddc784c93f423fa51051def472e2d6b4> <http://schema.org/dateCreated> "2023-09-19"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-euronews-4> .
+ <http://TikTok-euronews-4.com/blank#nd1ddc784c93f423fa51051def472e2d6b6> <http://schema.org/interactionType> <http://schema.org/FollowAction> <TikTok-euronews-4> .
+ <http://example.org/Angela> <http://xmlns.com/foaf/0.1/gender> "female"  <TikTok-euronews-4> .
+ <http://TikTok-euronews-4.com/blank#nd1ddc784c93f423fa51051def472e2d6b5> <http://schema.org/dateCreated> "2023-09-19"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-euronews-4> .
+ <http://example.org/AngelaHistory> <http://dbpedia.org/ontology/participant> <http://example.org/Angela> <TikTok-euronews-4> .
+ <http://example.org/Alessandro> <http://dbpedia.org/ontology/parent> <http://example.org/Angela> <TikTok-euronews-4> .
+ <http://example.org/AngelaVideos> <http://schema.org/about> <http://example.org/AnMegastore> <TikTok-euronews-4> .
+ <http://example.org/AngelaVideos> <http://schema.org/datePublished> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <TikTok-euronews-4> .
+ <http://TikTok-euronews-4.com/blank#nd1ddc784c93f423fa51051def472e2d6b3> <http://schema.org/userInteractionCount> "15200000"^^<http://www.w3.org/2001/XMLSchema#int>  <TikTok-euronews-4> .
+ <http://example.org/AngelaVideos> <http://schema.org/mentions> <http://example.org/RacismInItaly> <TikTok-euronews-4> .
+ <http://example.org/SocialMediaProfiles> <http://schema.org/author> <http://example.org/Angela> <TikTok-euronews-4> .
+ <http://example.org/AnMegastore> <http://dbpedia.org/ontology/owner> <http://example.org/Angela> <TikTok-euronews-4> .
+ <http://TikTok-euronews-4.com/blank#nd1ddc784c93f423fa51051def472e2d6b6> <http://schema.org/userInteractionCount> "500000"^^<http://www.w3.org/2001/XMLSchema#int>  <TikTok-euronews-4> .
+ <http://example.org/SocialMediaProfiles> <http://schema.org/interactionStatistic> <http://TikTok-euronews-4.com/blank#nd1ddc784c93f423fa51051def472e2d6b6>  <TikTok-euronews-4> .
+ <http://example.org/Qingtian> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/China> <TikTok-euronews-4> .
+ <http://example.org/VideoSeries> <http://schema.org/author> <http://example.org/EnneAgency> <TikTok-euronews-4> .
+ <http://example.org/EnneAgency> <http://dbpedia.org/ontology/founder> <http://example.org/ChristianCarboni> <TikTok-euronews-4> .
+ <http://TikTok-euronews-4.com/blank#nd1ddc784c93f423fa51051def472e2d6b1> <http://schema.org/about> <http://example.org/AnMegastore> <TikTok-euronews-4> .
+ <http://example.org/AnMegastore> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Rome> <TikTok-euronews-4> .
+ <http://example.org/VideoSeries> <http://schema.org/dateCreated> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <TikTok-euronews-4> .
+ <http://example.org/VideoSeries> <http://schema.org/mentions> <http://example.org/MichelaRullo> <TikTok-euronews-4> .
+ <http://example.org/AngelaHistory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <TikTok-euronews-4> .
+ <http://example.org/AnMegastore> <http://xmlns.com/foaf/0.1/name> "An Megastore"  <TikTok-euronews-4> .
+ <http://example.org/RacismInItaly> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SocialIssue> <TikTok-euronews-4> .
+ <http://example.org/AnMegastore> <http://dbpedia.org/ontology/foundingDate> "2017-09-19"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-euronews-4> .
+ <http://example.org/AnMegastore> <http://dbpedia.org/ontology/foundingYear> "2017"^^<http://www.w3.org/2001/XMLSchema#gYear>  <TikTok-euronews-4> .
+ <http://example.org/AnMegastore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Shop> <TikTok-euronews-4> .
+ <http://example.org/EnneAgency> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Marketing> <TikTok-euronews-4> .
+ <http://example.org/Alessandro> <http://dbpedia.org/ontology/occupation> <http://example.org/StoreAssistant> <TikTok-euronews-4> .
+ <http://example.org/Angela> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Italian> <TikTok-euronews-4> .
+ <http://example.org/RacismInItaly> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Italy> <TikTok-euronews-4> .
+ <http://example.org/MichelaRullo> <http://xmlns.com/foaf/0.1/name> "Michela Rullo"  <TikTok-euronews-4> .
+ <http://TikTok-euronews-4.com/blank#nd1ddc784c93f423fa51051def472e2d6b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Image> <TikTok-euronews-4> .
+ <http://example.org/Qingtian> <http://dbpedia.org/ontology/isPartOf> <http://example.org/AngelaHistory> <TikTok-euronews-4> .
+ <http://TikTok-euronews-4.com/blank#nd1ddc784c93f423fa51051def472e2d6b1> <http://schema.org/datePosted> "2023-09-19"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-euronews-4> .
+ <http://example.org/Angela> <http://xmlns.com/foaf/0.1/depiction> <http://TikTok-euronews-4.com/blank#nd1ddc784c93f423fa51051def472e2d6b4>  <TikTok-euronews-4> .
+ <http://example.org/ChristianCarboni> <http://dbpedia.org/ontology/employer> <http://example.org/EnneAgency> <TikTok-euronews-4> .
+ <http://example.org/Alessandro> <http://xmlns.com/foaf/0.1/name> "Alessandro"  <TikTok-euronews-4> .
+ <http://TikTok-euronews-4.com/blank#nd1ddc784c93f423fa51051def472e2d6b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Image> <TikTok-euronews-4> .
+ <http://TikTok-euronews-4.com/blank#nd1ddc784c93f423fa51051def472e2d6b4> <http://xmlns.com/foaf/0.1/depicts> <http://example.org/Angela> <TikTok-euronews-4> .
+ <http://example.org/Angela> <http://dbpedia.org/ontology/residence> <http://dbpedia.org/resource/Rome> <TikTok-euronews-4> .
+ <http://example.org/MichelaRullo> <http://xmlns.com/foaf/0.1/depiction> <http://TikTok-euronews-4.com/blank#nd1ddc784c93f423fa51051def472e2d6b5>  <TikTok-euronews-4> .
+ <http://example.org/AngelaHistory> <http://dbpedia.org/ontology/time> "1983"^^<http://www.w3.org/2001/XMLSchema#gYear>  <TikTok-euronews-4> .
+ <http://example.org/Alessandro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-euronews-4> .
+ <http://example.org/Angela> <http://xmlns.com/foaf/0.1/name> "Angela"  <TikTok-euronews-4> .
+ <http://example.org/HygieneConcern> <http://schema.org/description> "A question of hygiene and how we feel when we aren’t wearing clean clothes."  <TikTok-euronews-5> .
+ <http://example.org/HouseholdBillsImpact> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EconomicImpact> <TikTok-euronews-5> .
+ <http://example.org/Casper2006> <http://dbpedia.org/ontology/isPartOf> <http://example.org/Wyoming> <TikTok-euronews-5> .
+ <http://example.org/StellaMcCartney> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://example.org/NoWashMovementInitiation> <TikTok-euronews-5> .
+ <http://example.org/RyanSoderlin> <http://dbpedia.org/ontology/employer> <http://example.org/CasperStarTribune> <TikTok-euronews-5> .
+ <http://example.org/StellaMcCartneyQuote> <http://schema.org/publisher> <http://example.org/TheObserver> <TikTok-euronews-5> .
+ <http://example.org/GlobalWarming> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EnvironmentalIssue> <TikTok-euronews-5> .
+ <http://example.org/WaterUsageInBathing> <http://schema.org/description> "The quantities and use of water in bathing have a negative impact on the environment."  <TikTok-euronews-5> .
+ <http://example.org/BreathableFabrics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <TikTok-euronews-5> .
+ <http://example.org/CasperStarTribune> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Newspaper> <TikTok-euronews-5> .
+ <http://example.org/StellaMcCartney> <http://xmlns.com/foaf/0.1/name> "Stella McCartney"  <TikTok-euronews-5> .
+ <http://example.org/JoeyJackson> <http://xmlns.com/foaf/0.1/name> "Joey Jackson"  <TikTok-euronews-5> .
+ <http://example.org/NoWashMovementInitiation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <TikTok-euronews-5> .
+ <http://example.org/RyanSoderlin> <http://xmlns.com/foaf/0.1/name> "Ryan Soderlin"  <TikTok-euronews-5> .
+ <http://example.org/NoWashMovementPopularity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <TikTok-euronews-5> .
+ <http://example.org/JoeyJackson> <http://dbpedia.org/ontology/location> <http://example.org/Casper2006> <TikTok-euronews-5> .
+ <http://example.org/JoeyJackson> <http://dbpedia.org/ontology/occupation> <http://example.org/Student> <TikTok-euronews-5> .
+ <http://example.org/TikTok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <TikTok-euronews-5> .
+ <http://example.org/WashingMachines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <TikTok-euronews-5> .
+ <http://example.org/GarmentDurability> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Concept> <TikTok-euronews-5> .
+ <http://example.org/StellaMcCartneyQuote> <http://schema.org/text> "basically in life, rule of thumb, if you don't absolutely have to clean anything, don’t clean it"  <TikTok-euronews-5> .
+ <http://example.org/HouseholdBillsImpact> <http://schema.org/description> "Expenses increasing due to the cost-of-living crisis, this has a negative impact on household bills."  <TikTok-euronews-5> .
+ <http://example.org/JoeyJackson> <http://dbpedia.org/ontology/occupation> <http://example.org/PartTimeRoughneck> <TikTok-euronews-5> .
+ <http://example.org/StellaMcCartneyQuote> <http://schema.org/author> <http://example.org/StellaMcCartney> <TikTok-euronews-5> .
+ <http://example.org/WashingMachines> <http://dbpedia.org/ontology/relatedTo> <http://example.org/WaterConsumption> <TikTok-euronews-5> .
+ <http://example.org/GlobalWarming> <http://dbpedia.org/ontology/cause> <http://example.org/CarbonIntensiveDetergentsImpact> <TikTok-euronews-5> .
+ <http://example.org/GarmentDurability> <http://schema.org/description> "Washing clothes less frequently is better for the durability of a garment."  <TikTok-euronews-5> .
+ <http://example.org/TikTok> <http://dbpedia.org/ontology/product> <http://example.org/NoWashMovementPopularity> <TikTok-euronews-5> .
+ <http://example.org/RyanSoderlin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-euronews-5> .
+ <http://example.org/Wools> <http://schema.org/description> "Wools are known for their natural self-cleaning and odourless properties."  <TikTok-euronews-5> .
+ <http://example.org/StellaMcCartneyQuote> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <TikTok-euronews-5> .
+ <http://example.org/WashingMachines> <http://dbpedia.org/ontology/percentageOfTotal> "17"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-euronews-5> .
+ <http://example.org/Casper2006> <http://dbpedia.org/ontology/time> "2006"^^<http://www.w3.org/2001/XMLSchema#gYear>  <TikTok-euronews-5> .
+ <http://example.org/JoeyJackson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-euronews-5> .
+ <http://example.org/TikTok> <http://dbpedia.org/ontology/industry> "Social Media"  <TikTok-euronews-5> .
+ <http://example.org/NoWashMovementPopularity> <http://dbpedia.org/ontology/numberOfViews> "15000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-euronews-5> .
+ <http://example.org/StellaMcCartney> <http://dbpedia.org/ontology/occupation> <http://example.org/FashionDesigner> <TikTok-euronews-5> .
+ <http://example.org/GlobalWarming> <http://dbpedia.org/ontology/cause> <http://example.org/WaterUsageInBathing> <TikTok-euronews-5> .
+ <http://example.org/TikTok> <http://xmlns.com/foaf/0.1/name> "TikTok"  <TikTok-euronews-5> .
+ <http://example.org/WaterConsumption> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Consumption> <TikTok-euronews-5> .
+ <http://example.org/WaterUsageInBathing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EnvironmentalImpact> <TikTok-euronews-5> .
+ <http://example.org/NoWashMovementInitiation> <http://schema.org/description> "Initiated by fashion designer Stella McCartney and made popular by social media platform TikTok, the 'no wash' movement aims to save money and the planet."  <TikTok-euronews-5> .
+ <http://example.org/BreathableFabrics> <http://schema.org/description> "Breathable fabrics such as cotton can be worn to reduce the need for washing."  <TikTok-euronews-5> .
+ <http://example.org/Wools> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <TikTok-euronews-5> .
+ <http://example.org/TheObserver> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Newspaper> <TikTok-euronews-5> .
+ <http://example.org/CasperStarTribune> <http://xmlns.com/foaf/0.1/name> "Casper Star-Tribune"  <TikTok-euronews-5> .
+ <http://example.org/CarbonIntensiveDetergentsImpact> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EnvironmentalImpact> <TikTok-euronews-5> .
+ <http://example.org/WaterConsumption> <http://dbpedia.org/ontology/relatedTo> <http://example.org/HouseholdBillsImpact> <TikTok-euronews-5> .
+ <http://example.org/NoWashMovementPopularity> <http://dbpedia.org/ontology/influencedBy> <http://example.org/StellaMcCartney> <TikTok-euronews-5> .
+ <http://example.org/HygieneConcern> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Concern> <TikTok-euronews-5> .
+ <http://example.org/Casper2006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <TikTok-euronews-5> .
+ <http://example.org/CarbonIntensiveDetergentsImpact> <http://schema.org/description> "Carbon-intensive detergents have a negative impact on the environment."  <TikTok-euronews-5> .
+ <http://example.org/TheObserver> <http://xmlns.com/foaf/0.1/name> "The Observer"  <TikTok-euronews-5> .
+ <http://example.org/StellaMcCartney> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-euronews-5> .
+ <http://example.org/ccdh/ImranAhmed> <http://schema.org/name> "Imran Ahmed"  <TikTok-euronews-6> .
+ <http://example.org/fda/USFoodAndDrugAdministration> <http://schema.org/name> "US Food and Drug Administration"  <TikTok-euronews-6> .
+ <http://example.org/tiktok/TikTok> <http://schema.org/applicationCategory> "Social Media"  <TikTok-euronews-6> .
+ <http://example.org/drugs/BodybuildingDrugs> <http://schema.org/isBasedOnUrl> <http://example.org/tiktok/CreativeCenterTool> <TikTok-euronews-6> .
+ <http://TikTok-euronews-6.com/blank#nedd9cf71f4f246768e44c09292526014b3> <http://schema.org/contentSize> "587 million views"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-euronews-6> .
+ <http://example.org/drugs/Peptides> <http://schema.org/name> "peptides"  <TikTok-euronews-6> .
+ <http://example.org/drugs/Peptides> <http://schema.org/description> "stimulate the release of human growth hormones and aid in athletic performance"  <TikTok-euronews-6> .
+ <http://example.org/tiktok/BenRathe> <http://schema.org/affiliation> <http://example.org/ByteDanceLtd> <TikTok-euronews-6> .
+ <http://example.org/drugs/SARMs> <http://schema.org/name> "selective androgen receptor modulators"  <TikTok-euronews-6> .
+ <http://example.org/tiktok/TikTok> <http://schema.org/audience> <http://TikTok-euronews-6.com/blank#nedd9cf71f4f246768e44c09292526014b1>  <TikTok-euronews-6> .
+ <http://example.org/tiktok/TikTok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <TikTok-euronews-6> .
+ <http://example.org/drugs/Steroids> <http://schema.org/description> "synthetic hormones that mimic the effects of testosterone"  <TikTok-euronews-6> .
+ <http://example.org/Report> <http://schema.org/about> <http://example.org/tiktok/TikTok> <TikTok-euronews-6> .
+ <http://example.org/Report> <http://schema.org/author> <http://example.org/ccdh/CenterForCounteringDigitalHate> <TikTok-euronews-6> .
+ <http://example.org/Report> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Report> <TikTok-euronews-6> .
+ <http://example.org/ByteDanceLtd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-euronews-6> .
+ <http://example.org/ByteDanceLtd> <http://schema.org/location> "China"  <TikTok-euronews-6> .
+ <http://TikTok-euronews-6.com/blank#nedd9cf71f4f246768e44c09292526014b2> <http://schema.org/about> <http://example.org/drugs/PerformanceEnhancingDrugs> <TikTok-euronews-6> .
+ <http://example.org/ccdh/CenterForCounteringDigitalHate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-euronews-6> .
+ <http://example.org/Report> <http://schema.org/mentions> <http://example.org/drugs/BodybuildingDrugs> <TikTok-euronews-6> .
+ <http://example.org/drugs/SARMs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/DrugClass> <TikTok-euronews-6> .
+ <http://example.org/Report> <http://schema.org/mentions> <http://example.org/drugs/Peptides> <TikTok-euronews-6> .
+ <http://example.org/ccdh/ImranAhmed> <http://schema.org/jobTitle> "CEO"  <TikTok-euronews-6> .
+ <http://example.org/ccdh/CenterForCounteringDigitalHate> <http://schema.org/name> "Anglo-American non-profit Center for Countering Digital Hate"  <TikTok-euronews-6> .
+ <http://example.org/drugs/Peptides> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/DrugClass> <TikTok-euronews-6> .
+ <http://example.org/tiktok/TikTok> <http://schema.org/mentions> <http://example.org/drugs/BodybuildingDrugs> <TikTok-euronews-6> .
+ <http://example.org/ByteDanceLtd> <http://schema.org/name> "ByteDance Ltd."  <TikTok-euronews-6> .
+ <http://example.org/drugs/Steroids> <http://schema.org/legalStatus> "illegal without prescription in US"  <TikTok-euronews-6> .
+ <http://TikTok-euronews-6.com/blank#nedd9cf71f4f246768e44c09292526014b3> <http://schema.org/about> <http://example.org/drugs/Steroids> <TikTok-euronews-6> .
+ <http://example.org/drugs/Steroids> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/DrugClass> <TikTok-euronews-6> .
+ <http://TikTok-euronews-6.com/blank#nedd9cf71f4f246768e44c09292526014b1> <http://schema.org/percentage> "72"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-euronews-6> .
+ <http://example.org/drugs/BodybuildingDrugs> <http://schema.org/name> "bodybuilding drugs"  <TikTok-euronews-6> .
+ <http://example.org/drugs/Steroids> <http://schema.org/name> "anabolic-androgenic steroids"  <TikTok-euronews-6> .
+ <http://example.org/tiktok/BenRathe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <TikTok-euronews-6> .
+ <http://example.org/Report> <http://schema.org/datePublished> "2023-03-30"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-euronews-6> .
+ <http://example.org/Report> <http://schema.org/mentions> <http://example.org/drugs/SARMs> <TikTok-euronews-6> .
+ <http://TikTok-euronews-6.com/blank#nedd9cf71f4f246768e44c09292526014b1> <http://schema.org/audienceType> "users aged 18 to 24"  <TikTok-euronews-6> .
+ <http://example.org/Report> <http://schema.org/mentions> <http://example.org/drugs/Steroids> <TikTok-euronews-6> .
+ <http://example.org/drugs/BodybuildingDrugs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Drug> <TikTok-euronews-6> .
+ <http://TikTok-euronews-6.com/blank#nedd9cf71f4f246768e44c09292526014b3> <http://schema.org/isPartOf> <http://example.org/US> <TikTok-euronews-6> .
+ <http://example.org/ccdh/CenterForCounteringDigitalHate> <http://schema.org/founder> <http://example.org/ccdh/ImranAhmed> <TikTok-euronews-6> .
+ <http://example.org/drugs/BodybuildingDrugs> <http://schema.org/video> <http://TikTok-euronews-6.com/blank#nedd9cf71f4f246768e44c09292526014b3>  <TikTok-euronews-6> .
+ <http://example.org/drugs/Peptides> <http://schema.org/legalStatus> "not approved by FDA for over-the-counter use"  <TikTok-euronews-6> .
+ <http://example.org/ccdh/ImranAhmed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <TikTok-euronews-6> .
+ <http://example.org/fda/USFoodAndDrugAdministration> <http://schema.org/issued> <http://TikTok-euronews-6.com/blank#nedd9cf71f4f246768e44c09292526014b2>  <TikTok-euronews-6> .
+ <http://example.org/tiktok/BenRathe> <http://schema.org/name> "Ben Rathe"  <TikTok-euronews-6> .
+ <http://example.org/tiktok/TikTok> <http://schema.org/vendor> <http://example.org/ByteDanceLtd> <TikTok-euronews-6> .
+ <http://TikTok-euronews-6.com/blank#nedd9cf71f4f246768e44c09292526014b2> <http://schema.org/dateIssued> "2023-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <TikTok-euronews-6> .
+ <http://example.org/tiktok/TikTok> <http://schema.org/name> "TikTok"  <TikTok-euronews-6> .
+ <http://example.org/drugs/SARMs> <http://schema.org/legalStatus> "not approved by FDA for over-the-counter use"  <TikTok-euronews-6> .
+ <http://example.org/drugs/SARMs> <http://schema.org/alternateName> "SARMs"  <TikTok-euronews-6> .
+ <http://example.org/tiktok/BenRathe> <http://schema.org/jobTitle> "TikTok spokesperson"  <TikTok-euronews-6> .
+ <http://example.org/fda/USFoodAndDrugAdministration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GovernmentOrganization> <TikTok-euronews-6> .
+ <http://example.org/MilliAbrams> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-euronews-7> .
+ <http://TikTok-euronews-7.com/blank#n726f4925c16046b1959b0ae94030d85bb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <TikTok-euronews-7> .
+ <http://example.org/Knitting> <http://schema.org/description> "A craft and hobby involving the creation of textiles and garments using yarn and needles."  <TikTok-euronews-7> .
+ <http://example.org/RaymondLam> <http://xmlns.com/foaf/0.1/name> "Raymond Lam"  <TikTok-euronews-7> .
+ <http://example.org/Knitwear> <http://dbpedia.org/ontology/location> <http://TikTok-euronews-7.com/blank#n726f4925c16046b1959b0ae94030d85bb1>  <TikTok-euronews-7> .
+ <http://example.org/Knitting> <http://dbpedia.org/ontology/popularity> "Increasing"^^<http://www.w3.org/2001/XMLSchema#string>  <TikTok-euronews-7> .
+ <http://example.org/KnittingTutorials> <http://schema.org/source> "Internet platforms like TikTok and YouTube"  <TikTok-euronews-7> .
+ <http://example.org/FashionIndustry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Industry> <TikTok-euronews-7> .
+ <http://example.org/JNaePhillips> <http://xmlns.com/foaf/0.1/name> "J'Nae Phillips"  <TikTok-euronews-7> .
+ <http://example.org/KnittingBenefits> <http://schema.org/itemListElement> "Sustainable fashion"  <TikTok-euronews-7> .
+ <http://example.org/JenniferWalderdorff> <http://xmlns.com/foaf/0.1/name> "Jennifer Walderdorff"  <TikTok-euronews-7> .
+ <http://example.org/Knitting> <http://dbpedia.org/ontology/relation> <http://example.org/ClimateCrisis> <TikTok-euronews-7> .
+ <http://example.org/Knitwear> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <TikTok-euronews-7> .
+ <http://example.org/Knitting> <http://dbpedia.org/ontology/relation> <http://example.org/FastFashion> <TikTok-euronews-7> .
+ <http://example.org/KnittingBenefits> <http://schema.org/itemListElement> "Unique wardrobe pieces"  <TikTok-euronews-7> .
+ <http://example.org/KnittingTutorials> <http://schema.org/about> <http://example.org/Knitting> <TikTok-euronews-7> .
+ <http://example.org/FashionCapitals> <http://schema.org/itemListElement> "Paris"  <TikTok-euronews-7> .
+ <http://TikTok-euronews-7.com/blank#n726f4925c16046b1959b0ae94030d85bb1> <http://xmlns.com/foaf/0.1/name> "Fashion capitals"  <TikTok-euronews-7> .
+ <http://example.org/KnittingBenefits> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ItemList> <TikTok-euronews-7> .
+ <http://example.org/Fendi> <http://dbpedia.org/ontology/activity> <http://example.org/FashionShow> <TikTok-euronews-7> .
+ <http://example.org/FashionIndustry> <http://dbpedia.org/ontology/blamedFor> <http://example.org/ClimateCrisisWorsening> <TikTok-euronews-7> .
+ <http://example.org/MilliAbrams> <http://dbpedia.org/ontology/occupation> "From Tribe Yarns"  <TikTok-euronews-7> .
+ <http://example.org/FashionShow> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <TikTok-euronews-7> .
+ <http://example.org/Lyon> <http://dbpedia.org/ontology/activity> <http://example.org/KnittingFestival> <TikTok-euronews-7> .
+ <http://example.org/FashionExperts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <TikTok-euronews-7> .
+ <http://example.org/Knitwear> <http://dbpedia.org/ontology/presence> "Runways"^^<http://www.w3.org/2001/XMLSchema#string>  <TikTok-euronews-7> .
+ <http://example.org/JenniferWalderdorff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-euronews-7> .
+ <http://example.org/ClimateCrisisWorsening> <http://schema.org/description> "The worsening of the climate crisis, for which the fashion industry is partly blamed."  <TikTok-euronews-7> .
+ <http://example.org/JulianaHerc> <http://xmlns.com/foaf/0.1/name> "Juliana Herc"  <TikTok-euronews-7> .
+ <http://example.org/JulianaHerc> <http://dbpedia.org/ontology/occupation> "Fashion designer"  <TikTok-euronews-7> .
+ <http://example.org/FashionExperts> <http://dbpedia.org/ontology/discusses> <http://example.org/Knitting> <TikTok-euronews-7> .
+ <http://example.org/KnittingFestival> <http://dbpedia.org/ontology/location> <http://example.org/Lyon> <TikTok-euronews-7> .
+ <http://example.org/LilyJames> <http://xmlns.com/foaf/0.1/name> "Lily James"  <TikTok-euronews-7> .
+ <http://example.org/AW23Collection> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <TikTok-euronews-7> .
+ <http://example.org/KnittingFestival> <http://schema.org/description> "A festival celebrating knitting, fabrics, and yarns."  <TikTok-euronews-7> .
+ <http://example.org/JulianaHerc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-euronews-7> .
+ <http://example.org/Fendi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <TikTok-euronews-7> .
+ <http://example.org/LilyJames> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-euronews-7> .
+ <http://example.org/KnittingHealthBenefits> <http://schema.org/itemListElement> "Therapeutic benefits"  <TikTok-euronews-7> .
+ <http://example.org/LilyJames> <http://dbpedia.org/ontology/occupation> "Actress"  <TikTok-euronews-7> .
+ <http://example.org/VivienneWestwood> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-euronews-7> .
+ <http://example.org/ClimateCrisis> <http://schema.org/description> "A crisis related to the changing climate, often associated with global warming and environmental harm."  <TikTok-euronews-7> .
+ <http://example.org/FastFashion> <http://schema.org/description> "A term used to describe clothing production that emphasizes making fashion trends quickly and cheaply available to consumers."  <TikTok-euronews-7> .
+ <http://example.org/KnittingHealthBenefits> <http://schema.org/itemListElement> "Mindfulness"  <TikTok-euronews-7> .
+ <http://example.org/KnittingHealthBenefits> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ItemList> <TikTok-euronews-7> .
+ <http://example.org/KnittingGroups> <http://schema.org/description> "Local groups where people come together to knit and share their work."  <TikTok-euronews-7> .
+ <http://example.org/AW23Collection> <http://schema.org/description> "A collection featuring knitted fabrics and 'undone' pieces."  <TikTok-euronews-7> .
+ <http://example.org/KnittingFestival> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <TikTok-euronews-7> .
+ <http://example.org/ClimateCrisisWorsening> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <TikTok-euronews-7> .
+ <http://example.org/FashionShow> <http://dbpedia.org/ontology/theme> "Spring/Summer 2024 collection"  <TikTok-euronews-7> .
+ <http://example.org/KnittingBenefits> <http://schema.org/itemListElement> "Reduced greenhouse gas emissions"  <TikTok-euronews-7> .
+ <http://example.org/FashionCapitals> <http://schema.org/itemListElement> "London"  <TikTok-euronews-7> .
+ <http://example.org/FashionCapitals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ItemList> <TikTok-euronews-7> .
+ <http://example.org/JNaePhillips> <http://dbpedia.org/ontology/occupation> "Insights Editor at Canvas8"  <TikTok-euronews-7> .
+ <http://example.org/AlexaChung> <http://dbpedia.org/ontology/occupation> "Style icon"  <TikTok-euronews-7> .
+ <http://example.org/Lyon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/resource/Lyon> <TikTok-euronews-7> .
+ <http://example.org/FashionCapitals> <http://schema.org/itemListElement> "New York"  <TikTok-euronews-7> .
+ <http://example.org/AlexaChung> <http://xmlns.com/foaf/0.1/name> "Alexa Chung"  <TikTok-euronews-7> .
+ <http://example.org/MilliAbrams> <http://xmlns.com/foaf/0.1/name> "Milli Abrams"  <TikTok-euronews-7> .
+ <http://example.org/VivienneWestwood> <http://dbpedia.org/ontology/occupation> "Fashion designer"  <TikTok-euronews-7> .
+ <http://example.org/FashionShow> <http://dbpedia.org/ontology/participant> <http://example.org/Fendi> <TikTok-euronews-7> .
+ <http://example.org/ClimateCrisis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EnvironmentalIssue> <TikTok-euronews-7> .
+ <http://example.org/KnittingHealthBenefits> <http://schema.org/itemListElement> "Stress reduction"  <TikTok-euronews-7> .
+ <http://example.org/VivienneWestwood> <http://dbpedia.org/ontology/collection> <http://example.org/AW23Collection> <TikTok-euronews-7> .
+ <http://example.org/RaymondLam> <http://dbpedia.org/ontology/occupation> "Fashion expert from Vendula London"  <TikTok-euronews-7> .
+ <http://example.org/EuronewsCulture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <TikTok-euronews-7> .
+ <http://example.org/KnittingGroups> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <TikTok-euronews-7> .
+ <http://example.org/JenniferWalderdorff> <http://dbpedia.org/ontology/occupation> "Fashion analyst"  <TikTok-euronews-7> .
+ <http://example.org/Knitting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Hobby> <TikTok-euronews-7> .
+ <http://example.org/KnittingTutorials> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/InformationContentEntity> <TikTok-euronews-7> .
+ <http://example.org/KnittingBenefits> <http://schema.org/itemListElement> "Long lasting clothing"  <TikTok-euronews-7> .
+ <http://example.org/RaymondLam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-euronews-7> .
+ <http://example.org/FashionCapitals> <http://schema.org/itemListElement> "Milan"  <TikTok-euronews-7> .
+ <http://example.org/EuronewsCulture> <http://schema.org/description> "A media outlet that covers cultural topics and events."  <TikTok-euronews-7> .
+ <http://example.org/AlexaChung> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-euronews-7> .
+ <http://example.org/JNaePhillips> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-euronews-7> .
+ <http://example.org/FastFashion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Industry> <TikTok-euronews-7> .
+ <http://example.org/IndonesiaBan> <http://schema.org/name> "Indonesia's Ban on TikTok E-Commerce"  <TikTok-euronews-8> .
+ <http://example.org/TikTok> <http://schema.org/mentions> <http://example.org/ECommerceBan> <TikTok-euronews-8> .
+ <http://example.org/ByteDance> <http://schema.org/owns> <http://example.org/TikTok> <TikTok-euronews-8> .
+ <http://example.org/AP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-euronews-8> .
+ <http://example.org/ByteDance> <http://schema.org/affectedBy> <http://example.org/IndonesiaBan> <TikTok-euronews-8> .
+ <http://example.org/AssociatedPress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-euronews-8> .
+ <http://example.org/GovernmentAnnouncement> <http://schema.org/mentions> <http://example.org/TikTokShop> <TikTok-euronews-8> .
+ <http://example.org/newsArticle> <http://schema.org/sourceOrganization> <http://example.org/Euronews> <TikTok-euronews-8> .
+ <http://example.org/Instagram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebSite> <TikTok-euronews-8> .
+ <http://example.org/ZulkifliHasan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-euronews-8> .
+ <http://example.org/IncomeDecrease> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <TikTok-euronews-8> .
+ <http://example.org/Meta> <http://schema.org/owns> <http://example.org/Facebook> <TikTok-euronews-8> .
+ <http://example.org/StevanieAhua> <http://schema.org/loss> <http://example.org/IncomeDecrease> <TikTok-euronews-8> .
+ <http://example.org/TikTok> <http://schema.org/numberOfEmployees> "6 million sellers and nearly 7 million affiliate creators"^^<http://www.w3.org/2001/XMLSchema#string>  <TikTok-euronews-8> .
+ <http://example.org/Euronews> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-euronews-8> .
+ <http://example.org/StevanieAhua> <http://xmlns.com/foaf/0.1/age> "60"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-euronews-8> .
+ <http://example.org/IndonesianGovernment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GovernmentOrganization> <TikTok-euronews-8> .
+ <http://example.org/Instagram> <http://schema.org/parentOrganization> <http://example.org/Meta> <TikTok-euronews-8> .
+ <http://example.org/newsArticle> <http://schema.org/articleBody> "\n    From now on, people can still see ads when scrolling on their phones, but not directly purchase the products they see on their screen.\n    "  <TikTok-euronews-8> .
+ <http://example.org/IncomeDecrease> <http://schema.org/description> "\n    Her income suffered a 60% decrease in a few months, following increased competition coming from social media.\n    "  <TikTok-euronews-8> .
+ <http://example.org/ZulkifliHasan> <http://xmlns.com/foaf/0.1/name> "Zulkifli Hasan"  <TikTok-euronews-8> .
+ <http://example.org/IncomeDecrease> <http://schema.org/name> "Income Decrease"  <TikTok-euronews-8> .
+ <http://example.org/TikTok> <http://schema.org/location> <http://example.org/Indonesia> <TikTok-euronews-8> .
+ <http://example.org/StatementOnECommerce> <http://schema.org/datePublished> "2023-04-04"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-euronews-8> .
+ <http://example.org/TikTok> <http://xmlns.com/foaf/0.1/name> "TikTok"  <TikTok-euronews-8> .
+ <http://example.org/GovernmentAnnouncement> <http://schema.org/recipient> <http://example.org/AssociatedPress> <TikTok-euronews-8> .
+ <http://example.org/AP> <http://xmlns.com/foaf/0.1/name> "AP"  <TikTok-euronews-8> .
+ <http://example.org/TikTok> <http://schema.org/parentOrganization> <http://example.org/ByteDance> <TikTok-euronews-8> .
+ <http://example.org/StatementOnECommerce> <http://schema.org/about> <http://example.org/ECommerceBan> <TikTok-euronews-8> .
+ <http://example.org/GovernmentAnnouncement> <http://schema.org/text> "\n    TikTok said it regretted the government’s announcement, especially how it will impact the livelihoods of the six million sellers and nearly seven million affiliate creators who use TikTok Shop.\n    "  <TikTok-euronews-8> .
+ <http://example.org/TikTok> <http://schema.org/regrets> <http://example.org/GovernmentAnnouncement> <TikTok-euronews-8> .
+ <http://example.org/StatementOnECommerce> <http://schema.org/text> "\n    E-commerce cannot become social media. It is separated.\n    Any government would protect local small businesses.\n    "  <TikTok-euronews-8> .
+ <http://example.org/ByteDance> <http://xmlns.com/foaf/0.1/name> "ByteDance"  <TikTok-euronews-8> .
+ <http://example.org/IndonesiaBan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <TikTok-euronews-8> .
+ <http://example.org/ZulkifliHasan> <http://xmlns.com/foaf/0.1/made> <http://example.org/StatementOnECommerce> <TikTok-euronews-8> .
+ <http://example.org/StevanieAhua> <http://schema.org/jobTitle> "Jeans Seller"  <TikTok-euronews-8> .
+ <http://example.org/newsArticle> <http://schema.org/contributor> <http://example.org/AP> <TikTok-euronews-8> .
+ <http://example.org/TikTok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-euronews-8> .
+ <http://example.org/ECommerceBan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <TikTok-euronews-8> .
+ <http://example.org/Facebook> <http://xmlns.com/foaf/0.1/name> "Facebook"  <TikTok-euronews-8> .
+ <http://example.org/Meta> <http://xmlns.com/foaf/0.1/name> "Meta"  <TikTok-euronews-8> .
+ <http://example.org/TikTokShop> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <TikTok-euronews-8> .
+ <http://example.org/IncomeDecrease> <http://schema.org/amount> "60%"^^<http://www.w3.org/2001/XMLSchema#string>  <TikTok-euronews-8> .
+ <http://example.org/IndonesiaBan> <http://schema.org/location> <http://example.org/Indonesia> <TikTok-euronews-8> .
+ <http://example.org/TikTokShop> <http://schema.org/brand> <http://example.org/TikTok> <TikTok-euronews-8> .
+ <http://example.org/newsArticle> <http://schema.org/contributor> <http://example.org/AFP> <TikTok-euronews-8> .
+ <http://example.org/ECommerceBan> <http://schema.org/name> "Ban on Direct E-Commerce Purchases"  <TikTok-euronews-8> .
+ <http://example.org/StevanieAhua> <http://schema.org/contactPoint> <http://example.org/AFP> <TikTok-euronews-8> .
+ <http://example.org/ByteDance> <http://schema.org/location> <http://example.org/China> <TikTok-euronews-8> .
+ <http://example.org/Meta> <http://schema.org/owns> <http://example.org/Instagram> <TikTok-euronews-8> .
+ <http://example.org/AFP> <http://xmlns.com/foaf/0.1/name> "AFP"  <TikTok-euronews-8> .
+ <http://example.org/GovernmentAnnouncement> <http://schema.org/author> <http://example.org/IndonesianGovernment> <TikTok-euronews-8> .
+ <http://example.org/GovernmentAnnouncement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <TikTok-euronews-8> .
+ <http://example.org/StatementOnECommerce> <http://schema.org/author> <http://example.org/ZulkifliHasan> <TikTok-euronews-8> .
+ <http://example.org/Euronews> <http://xmlns.com/foaf/0.1/name> "Euronews"  <TikTok-euronews-8> .
+ <http://example.org/StatementOnECommerce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <TikTok-euronews-8> .
+ <http://example.org/StevanieAhua> <http://xmlns.com/foaf/0.1/name> "Stevanie Ahua"  <TikTok-euronews-8> .
+ <http://example.org/AFP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-euronews-8> .
+ <http://example.org/AssociatedPress> <http://xmlns.com/foaf/0.1/name> "Associated Press"  <TikTok-euronews-8> .
+ <http://example.org/ZulkifliHasan> <http://schema.org/jobTitle> "Trade Minister"  <TikTok-euronews-8> .
+ <http://example.org/Facebook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WebSite> <TikTok-euronews-8> .
+ <http://example.org/Instagram> <http://xmlns.com/foaf/0.1/name> "Instagram"  <TikTok-euronews-8> .
+ <http://example.org/newsArticle> <http://purl.org/dc/terms/issued> "2023-04-04"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-euronews-8> .
+ <http://example.org/IndonesiaBan> <http://schema.org/participant> <http://example.org/TikTok> <TikTok-euronews-8> .
+ <http://example.org/Meta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-euronews-8> .
+ <http://example.org/IndonesianGovernment> <http://xmlns.com/foaf/0.1/name> "Indonesian Government"  <TikTok-euronews-8> .
+ <http://example.org/StevanieAhua> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-euronews-8> .
+ <http://example.org/Facebook> <http://schema.org/parentOrganization> <http://example.org/Meta> <TikTok-euronews-8> .
+ <http://example.org/newsArticle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NewsArticle> <TikTok-euronews-8> .
+ <http://example.org/ByteDance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-euronews-8> .
+ <http://example.org/ECommerceBan> <http://schema.org/startDate> "2023-04-04"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-euronews-8> .
+ <http://example.org/ECommerceBan> <http://schema.org/description> "\n    The move, effective immediately, comes amid complaints by local business owners they are losing significant revenue to online competitors.\n    "  <TikTok-euronews-8> .
+ <http://example.org/IndonesiaBan> <http://schema.org/numberOfAffected> "125 million users"^^<http://www.w3.org/2001/XMLSchema#string>  <TikTok-euronews-8> .
+ <http://example.org/RaouiaNaji> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Tunisia> <TikTok-euronews-9> .
+ <http://example.org/LienjangClinic> <http://schema.org/location> <http://example.org/Gangnam> <TikTok-euronews-9> .
+ <http://example.org/BeautyStandards> <http://schema.org/description> "One in three South Korean women have undergone plastic surgery."  <TikTok-euronews-9> .
+ <http://example.org/ShehzeenAhmad> <http://schema.org/worksFor> <http://example.org/DubaiCosmeticSurgery> <TikTok-euronews-9> .
+ <http://example.org/PrimaAesthetics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalOrganization> <TikTok-euronews-9> .
+ <http://example.org/DrGlynEstebanez> <http://xmlns.com/foaf/0.1/name> "Dr Glyn Estebanez"  <TikTok-euronews-9> .
+ <http://example.org/ShehzeenAhmad> <http://xmlns.com/foaf/0.1/name> "Shehzeen Ahmad"  <TikTok-euronews-9> .
+ <http://example.org/Gangnam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <TikTok-euronews-9> .
+ <http://example.org/BeautyClinics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalOrganization> <TikTok-euronews-9> .
+ <http://example.org/DrGlynEstebanez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <TikTok-euronews-9> .
+ <http://example.org/Botox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Drug> <TikTok-euronews-9> .
+ <http://example.org/SouthKorea> <http://schema.org/description> "South Korea attracts 17 million tourists annually."  <TikTok-euronews-9> .
+ <http://example.org/DrGlynEstebanez> <http://schema.org/description> "Dr Glyn Estebanez is an aesthetic surgeon at Prima Aesthetics in Chester, UK."  <TikTok-euronews-9> .
+ <http://example.org/DrGlynEstebanez> <http://schema.org/worksFor> <http://example.org/PrimaAesthetics> <TikTok-euronews-9> .
+ <http://example.org/MuseClinic> <http://xmlns.com/foaf/0.1/name> "Muse Plastic Surgery"  <TikTok-euronews-9> .
+ <http://example.org/DubaiCosmeticSurgery> <http://schema.org/location> <http://dbpedia.org/resource/Dubai> <TikTok-euronews-9> .
+ <http://example.org/Botox> <http://schema.org/currency> "EUR"  <TikTok-euronews-9> .
+ <http://example.org/Botox> <http://schema.org/cost> "20"^^<http://www.w3.org/2001/XMLSchema#decimal>  <TikTok-euronews-9> .
+ <http://example.org/PrimaAesthetics> <http://schema.org/location> <http://dbpedia.org/resource/Chester> <TikTok-euronews-9> .
+ <http://example.org/LienjangClinic> <http://xmlns.com/foaf/0.1/name> "Lienjang Plastic Surgery"  <TikTok-euronews-9> .
+ <http://example.org/ShehzeenAhmad> <http://schema.org/description> "Shehzeen Ahmad is the managing director at Dubai Cosmetic Surgery."  <TikTok-euronews-9> .
+ <http://example.org/DubaiCosmeticSurgery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalOrganization> <TikTok-euronews-9> .
+ <http://example.org/RaouiaNaji> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <TikTok-euronews-9> .
+ <http://example.org/RaouiaNaji> <http://xmlns.com/foaf/0.1/name> "Raouia Naji"  <TikTok-euronews-9> .
+ <http://example.org/Botox> <http://schema.org/description> "Botox costs as low as €20 in South Korea."  <TikTok-euronews-9> .
+ <http://example.org/RaouiaNaji> <http://schema.org/description> "Raouia Naji is a medical doctor from Tunisia who visited Lienjang Clinic for cosmetic procedures."  <TikTok-euronews-9> .
+ <http://example.org/BeautyClinics> <http://schema.org/location> <http://dbpedia.org/resource/Seoul> <TikTok-euronews-9> .
+ <http://example.org/ShehzeenAhmad> <http://dbpedia.org/ontology/profession> <http://schema.org/ManagingDirector> <TikTok-euronews-9> .
+ <http://example.org/SouthKorea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <TikTok-euronews-9> .
+ <http://example.org/BeautyClinics> <http://schema.org/description> "Clinics in South Korea offer botox at rock bottom prices."  <TikTok-euronews-9> .
+ <http://example.org/ShehzeenAhmad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <TikTok-euronews-9> .
+ <http://example.org/DubaiCosmeticSurgery> <http://xmlns.com/foaf/0.1/name> "Dubai Cosmetic Surgery"  <TikTok-euronews-9> .
+ <http://example.org/Gangnam> <http://schema.org/description> "Gangnam is the heart of South Korea's beauty tourism."  <TikTok-euronews-9> .
+ <http://example.org/DrGlynEstebanez> <http://dbpedia.org/ontology/profession> <http://dbpedia.org/ontology/Surgeon> <TikTok-euronews-9> .
+ <http://example.org/SouthKorea> <http://dbpedia.org/ontology/population> "17000000"^^<http://www.w3.org/2001/XMLSchema#int>  <TikTok-euronews-9> .
+ <http://example.org/PrimaAesthetics> <http://xmlns.com/foaf/0.1/name> "Prima Aesthetics"  <TikTok-euronews-9> .
+ <http://example.org/BeautyStandards> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> <TikTok-euronews-9> .
+ <http://example.org/MuseClinic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalOrganization> <TikTok-euronews-9> .
+ <http://example.org/LienjangClinic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalOrganization> <TikTok-euronews-9> .
+ <http://example.org/RaouiaNaji> <http://dbpedia.org/ontology/profession> <http://dbpedia.org/ontology/MedicalDoctor> <TikTok-euronews-9> .
+ <http://example.org/MuseClinic> <http://schema.org/location> <http://example.org/Gangnam> <TikTok-euronews-9> .

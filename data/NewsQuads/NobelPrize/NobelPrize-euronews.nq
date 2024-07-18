@@ -1,0 +1,627 @@
+ <http://example.org/Silicate> <http://schema.org/memberOf> <http://example.org/THRIVEShellClimateSmartAgricultureChallenge> <NobelPrize-euronews-0> .
+ <http://example.org/ConcreteDustSequestration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EnvironmentalIssue> <NobelPrize-euronews-0> .
+ <http://example.org/ConcreteDustUse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <NobelPrize-euronews-0> .
+ <http://example.org/Silicate> <http://schema.org/founder> <http://example.org/MauriceBryson> <NobelPrize-euronews-0> .
+ <http://example.org/Silicate> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Sligo> <NobelPrize-euronews-0> .
+ <http://example.org/ConcreteDustUse> <http://schema.org/author> <http://example.org/Silicate> <NobelPrize-euronews-0> .
+ <http://example.org/CarEmissionComparison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statistic> <NobelPrize-euronews-0> .
+ <http://example.org/CarbonRemovalCredits> <http://schema.org/description> "Credits sold to businesses for climate footprint reduction, measured by the amount of carbon sequestered."  <NobelPrize-euronews-0> .
+ <http://example.org/CarbonDioxideRemovalPotential> <http://schema.org/description> "The process has the potential to remove up to between 50 and 100 million tonnes of carbon dioxide per year in the American Midwest."  <NobelPrize-euronews-0> .
+ <http://example.org/US_Trial> <http://schema.org/startDate> "Date of the first trial start"^^<http://schema.org/Date>  <NobelPrize-euronews-0> .
+ <http://example.org/Silicate> <http://schema.org/description> "An Irish tech startup trialling the use of concrete dust on farms to combat climate change."  <NobelPrize-euronews-0> .
+ <http://example.org/FundingForSilicate> <http://schema.org/funder> <http://example.org/THRIVEShellClimateSmartAgricultureChallenge> <NobelPrize-euronews-0> .
+ <http://example.org/CarbonDioxideRemovalPotential> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statistic> <NobelPrize-euronews-0> .
+ <http://example.org/THRIVEShellClimateSmartAgricultureChallenge> <http://schema.org/award> <http://example.org/FundingForSilicate> <NobelPrize-euronews-0> .
+ <http://example.org/FundingForSilicate> <http://schema.org/description> "Funding received for the pilot project from the competition."  <NobelPrize-euronews-0> .
+ <http://example.org/FundingForSilicate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MonetaryGrant> <NobelPrize-euronews-0> .
+ <http://example.org/US_Trial> <http://dbpedia.org/ontology/participant> <http://example.org/Silicate> <NobelPrize-euronews-0> .
+ <http://example.org/ConcreteDustUse> <http://schema.org/description> "Concrete dust spread over farmland to sequester carbon dioxide and improve soil quality and crop productivity."  <NobelPrize-euronews-0> .
+ <http://example.org/THRIVEShellClimateSmartAgricultureChallenge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Competition> <NobelPrize-euronews-0> .
+ <http://example.org/ConcreteDustSequestration> <http://schema.org/description> "Concrete dust could permanently sequester up to 100 tonnes of carbon dioxide from the atmosphere."  <NobelPrize-euronews-0> .
+ <http://example.org/ConcreteDustUse> <http://schema.org/about> <http://example.org/EnhancedWeathering> <NobelPrize-euronews-0> .
+ <http://example.org/MauriceBryson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NobelPrize-euronews-0> .
+ <http://example.org/FundingForSilicate> <http://schema.org/recipient> <http://example.org/Silicate> <NobelPrize-euronews-0> .
+ <http://example.org/Silicate> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <NobelPrize-euronews-0> .
+ <http://example.org/US_Trial> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <NobelPrize-euronews-0> .
+ <http://example.org/US_Trial> <http://schema.org/description> "First trial in the US, spreading hundreds of tonnes of crushed waste concrete onto farmland."  <NobelPrize-euronews-0> .
+ <http://example.org/EnhancedWeatheringTechnology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Technology> <NobelPrize-euronews-0> .
+ <http://example.org/CarbonRemovalCredits> <http://schema.org/manufacturer> <http://example.org/Silicate> <NobelPrize-euronews-0> .
+ <http://example.org/EnhancedWeathering> <http://schema.org/description> "Accelerated form of chemical weathering where rocks eroded by rainwater sequester carbon dioxide, becoming bicarbonate."  <NobelPrize-euronews-0> .
+ <http://example.org/CarEmissionComparison> <http://schema.org/description> "For comparison, a car emits around 4.6 tonnes of carbon dioxide annually."  <NobelPrize-euronews-0> .
+ <http://example.org/EnhancedWeatheringTechnology> <http://schema.org/description> "Aims to permanently remove millions of tonnes of carbon dioxide from the atmosphere."  <NobelPrize-euronews-0> .
+ <http://example.org/THRIVEShellClimateSmartAgricultureChallenge> <http://schema.org/description> "Awarded prize money to Silicate for the pilot project."  <NobelPrize-euronews-0> .
+ <http://example.org/MauriceBryson> <http://schema.org/name> "Maurice Bryson"  <NobelPrize-euronews-0> .
+ <http://example.org/CarbonRemovalCredits> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <NobelPrize-euronews-0> .
+ <http://example.org/EnhancedWeathering> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ChemicalProcess> <NobelPrize-euronews-0> .
+ <http://example.org/US_Trial> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Chicago> <NobelPrize-euronews-0> .
+ <http://example.org/MauriceBryson> <http://schema.org/jobTitle> "CEO and co-founder of Silicate"  <NobelPrize-euronews-0> .
+ <http://example.org/Silicate> <http://dbpedia.org/ontology/industry> "Tech"  <NobelPrize-euronews-0> .
+ <http://example.org/Silicate> <http://dbpedia.org/ontology/product> <http://example.org/EnhancedWeatheringTechnology> <NobelPrize-euronews-0> .
+ <http://NobelPrize-euronews-1.com/blank#nb2c6efc7c12f4273a32d6590764e8f4db1> <http://example.org/swedish_academy/name> "Radio Sweden"  <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/SwedishAcademyDictionary> <http://example.org/swedish_academy/title> "Swedish Academy Dictionary"  <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/person/ChristianMattsson> <http://example.org/swedish_academy/role> "Editor"  <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/person/ChristianMattsson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/swedish_academy/Person> <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/SwedishAcademyDictionary> <http://example.org/swedish_academy/editor> <http://example.org/swedish_academy/person/ChristianMattsson> <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/SwedishAcademy> <http://example.org/swedish_academy/establishmentYear> "1786"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/SwedishAcademyDictionary> <http://example.org/swedish_academy/additionalWordsTimeframe> "next seven years"  <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/dictionary/volume/Volume_A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/swedish_academy/Volume> <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/SwedishAcademy> <http://example.org/swedish_academy/founder> "King Gustav III"  <NobelPrize-euronews-1> .
+ <http://NobelPrize-euronews-1.com/blank#nb2c6efc7c12f4273a32d6590764e8f4db1> <http://example.org/swedish_academy/comparedDictionary> "Oxford English Dictionary"  <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/SwedishAcademyDictionary> <http://example.org/swedish_academy/startedYear> "1883"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/SwedishAcademy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/swedish_academy/Institution> <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/person/ChristianMattsson> <http://example.org/swedish_academy/affiliation> <http://example.org/swedish_academy/SwedishAcademy> <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/SwedishAcademyDictionary> <http://example.org/swedish_academy/volumeCount> "39"^^<http://www.w3.org/2001/XMLSchema#int>  <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/SwedishAcademyDictionary> <http://example.org/swedish_academy/additionalWordsCount> "10000"^^<http://www.w3.org/2001/XMLSchema#int>  <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/SwedishAcademy> <http://example.org/swedish_academy/associatedWith> <http://example.org/swedish_academy/SwedishAcademyDictionary> <NobelPrize-euronews-1> .
+ <http://NobelPrize-euronews-1.com/blank#nb2c6efc7c12f4273a32d6590764e8f4db1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/swedish_academy/RadioProgram> <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/dictionary/Word_Allergy> <http://example.org/swedish_academy/missingInVolume> <http://example.org/swedish_academy/dictionary/volume/Volume_A> <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/SwedishAcademyDictionary> <http://example.org/swedish_academy/onlineAvailability> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/dictionary/Word_BarbieDoll> <http://example.org/swedish_academy/inDictionary> <http://example.org/swedish_academy/SwedishAcademyDictionary> <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/dictionary/volume/Volume_A> <http://example.org/swedish_academy/publicationYear> "1893"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/dictionary/volume/Volume_39> <http://example.org/swedish_academy/status> "Sent to printers"  <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/dictionary/Word_BarbieDoll> <http://example.org/swedish_academy/plannedAdditionYear> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/SwedishAcademy> <http://example.org/swedish_academy/nobelPrizeCategory> "Literature"  <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/dictionary/volume/Volume_39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/swedish_academy/Volume> <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/SwedishAcademyDictionary> <http://example.org/swedish_academy/printEditionLimit> "200"^^<http://www.w3.org/2001/XMLSchema#int>  <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/SwedishAcademyDictionary> <http://example.org/swedish_academy/pageCount> "33111"^^<http://www.w3.org/2001/XMLSchema#int>  <NobelPrize-euronews-1> .
+ <http://NobelPrize-euronews-1.com/blank#nb2c6efc7c12f4273a32d6590764e8f4db1> <http://example.org/swedish_academy/comparedDictionaryEdition> "third edition"  <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/dictionary/Word_Allergy> <http://example.org/swedish_academy/inDictionary> <http://example.org/swedish_academy/SwedishAcademyDictionary> <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/dictionary/volume/Volume_A> <http://example.org/swedish_academy/sequenceNumber> "1"^^<http://www.w3.org/2001/XMLSchema#int>  <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/SwedishAcademyDictionary> <http://example.org/swedish_academy/historicalCoverage> "from the 16th century up to today's date"  <NobelPrize-euronews-1> .
+ <http://NobelPrize-euronews-1.com/blank#nb2c6efc7c12f4273a32d6590764e8f4db1> <http://example.org/swedish_academy/comparedDictionaryProgress> "halfway through"  <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/SwedishAcademy> <http://example.org/swedish_academy/values> "purity, vigor and majesty"  <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/dictionary/Word_BarbieDoll> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/swedish_academy/Word> <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/SwedishAcademy> <http://example.org/swedish_academy/purpose> "nurturing Sweden's language and literature"  <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/dictionary/Word_Allergy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/swedish_academy/Word> <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/SwedishAcademyDictionary> <http://example.org/swedish_academy/completionYear> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/dictionary/volume/Volume_39> <http://example.org/swedish_academy/printDate> "last week"  <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/SwedishAcademyDictionary> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/swedish_academy/Dictionary> <NobelPrize-euronews-1> .
+ <http://NobelPrize-euronews-1.com/blank#nb2c6efc7c12f4273a32d6590764e8f4db1> <http://example.org/swedish_academy/mentionedDictionary> <http://example.org/swedish_academy/SwedishAcademyDictionary> <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/dictionary/Word_Allergy> <http://example.org/swedish_academy/introductionYear> "1920s"^^<http://www.w3.org/2001/XMLSchema#decade>  <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/SwedishAcademyDictionary> <http://example.org/swedish_academy/languageCoverage> "Swedish"  <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/dictionary/volume/Volume_39> <http://example.org/swedish_academy/sequenceNumber> "39"^^<http://www.w3.org/2001/XMLSchema#int>  <NobelPrize-euronews-1> .
+ <http://example.org/swedish_academy/SwedishAcademyDictionary> <http://example.org/swedish_academy/employeeCount> "137"^^<http://www.w3.org/2001/XMLSchema#int>  <NobelPrize-euronews-1> .
+ <http://dbpedia.org/resource/Brian_Cox> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Golden_Globe_Award> <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/007:_Road_To_A_Million> <http://dbpedia.org/ontology/releaseDate> "2022-11-10"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/007:_Road_To_A_Million> <http://dbpedia.org/ontology/creator> <http://dbpedia.org/resource/Ian_Fleming> <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/007:_Road_To_A_Million> <http://schema.org/name> "007: Road To A Million"  <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/Shakespeare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-euronews-2> .
+ <http://NobelPrize-euronews-2.com/blank#nf9be10ce5abf45589c1deb809961a2edb4> <http://schema.org/about> "We don't muck around with Shakespeare - we shouldn't muck around with James Bond."@en  <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/Vladimir_Putin> <http://xmlns.com/foaf/0.1/name> "Vladimir Putin"  <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/Shakespeare> <http://xmlns.com/foaf/0.1/name> "William Shakespeare"  <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/Brian_Cox> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Scotland> <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/Boris_Johnson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/Donald_Trump> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/Puffin_Books> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Publisher> <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/Boris_Johnson> <http://xmlns.com/foaf/0.1/name> "Boris Johnson"  <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/007:_Road_To_A_Million> <http://dbpedia.org/ontology/abstract> "The show will see nine pairs of contestants sent around the world to endure physical and psychological challenges in Bond-inspired locations, competing to win a £1 million prize."@en  <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/Ian_Fleming_Publications> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/Vladimir_Putin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/007:_Road_To_A_Million> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Reality_television> <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/Donald_Trump> <http://schema.org/alternateName> "Pink Pinocchio"  <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/Boris_Johnson> <http://dbpedia.org/ontology/education> <http://dbpedia.org/resource/Eton_College> <NobelPrize-euronews-2> .
+ <http://NobelPrize-euronews-2.com/blank#nf9be10ce5abf45589c1deb809961a2edb1> <http://schema.org/name> "The Controller"  <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/Brian_Cox> <http://xmlns.com/foaf/0.1/name> "Brian Cox"  <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/Brian_Cox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/James_Bond> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/Brian_Cox> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Actor> <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/Ian_Fleming_Publications> <http://dbpedia.org/ontology/work> <http://dbpedia.org/resource/Ian_Fleming's_James_Bond_books> <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/Brian_Cox> <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Emmy_Award> <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/Puffin_Books> <http://dbpedia.org/ontology/publication> <http://NobelPrize-euronews-2.com/blank#nf9be10ce5abf45589c1deb809961a2edb3>  <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/Brian_Cox> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <https://www.imdb.com/name/nm0004051/> <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/Vladimir_Putin> <http://schema.org/alternateName> "Borsch and Tears"  <NobelPrize-euronews-2> .
+ <http://NobelPrize-euronews-2.com/blank#nf9be10ce5abf45589c1deb809961a2edb2> <http://schema.org/description> "Commissioned sensitivity readers and re-edited the texts to remove racist references and words."@en  <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/007:_Road_To_A_Million> <http://schema.org/actor> <http://dbpedia.org/resource/Brian_Cox> <NobelPrize-euronews-2> .
+ <http://NobelPrize-euronews-2.com/blank#nf9be10ce5abf45589c1deb809961a2edb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Role> <NobelPrize-euronews-2> .
+ <http://NobelPrize-euronews-2.com/blank#nf9be10ce5abf45589c1deb809961a2edb3> <http://dbpedia.org/ontology/abstract> "Changed references to 'fat' and 'ugly' characters."@en  <NobelPrize-euronews-2> .
+ <http://NobelPrize-euronews-2.com/blank#nf9be10ce5abf45589c1deb809961a2edb4> <http://schema.org/author> <http://dbpedia.org/resource/Brian_Cox> <NobelPrize-euronews-2> .
+ <http://NobelPrize-euronews-2.com/blank#nf9be10ce5abf45589c1deb809961a2edb1> <http://dbpedia.org/ontology/inShow> <http://dbpedia.org/resource/007:_Road_To_A_Million> <NobelPrize-euronews-2> .
+ <http://NobelPrize-euronews-2.com/blank#nf9be10ce5abf45589c1deb809961a2edb1> <http://dbpedia.org/ontology/characterRole> "A puppet master inspired by Bond villains such as Blofeld"  <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/Brian_Cox> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Manhunter> <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/Ian_Fleming_Publications> <http://dbpedia.org/ontology/activity> <http://NobelPrize-euronews-2.com/blank#nf9be10ce5abf45589c1deb809961a2edb2>  <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/Brian_Cox> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Zodiac_(film)> <NobelPrize-euronews-2> .
+ <http://NobelPrize-euronews-2.com/blank#nf9be10ce5abf45589c1deb809961a2edb2> <http://dbpedia.org/ontology/resultingProduct> "Reissued James Bond books with disclaimers and updates."@en  <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/Brian_Cox> <http://dbpedia.org/ontology/knownFor> <http://dbpedia.org/resource/Succession_(TV_series)> <NobelPrize-euronews-2> .
+ <http://NobelPrize-euronews-2.com/blank#nf9be10ce5abf45589c1deb809961a2edb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Activity> <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/Brian_Cox> <http://dbpedia.org/ontology/birthDate> "1946-06-01"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/007:_Road_To_A_Million> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/TVSeries> <NobelPrize-euronews-2> .
+ <http://NobelPrize-euronews-2.com/blank#nf9be10ce5abf45589c1deb809961a2edb3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Book> <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/Brian_Cox> <http://dbpedia.org/ontology/role> <http://NobelPrize-euronews-2.com/blank#nf9be10ce5abf45589c1deb809961a2edb1>  <NobelPrize-euronews-2> .
+ <http://NobelPrize-euronews-2.com/blank#nf9be10ce5abf45589c1deb809961a2edb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <NobelPrize-euronews-2> .
+ <http://NobelPrize-euronews-2.com/blank#nf9be10ce5abf45589c1deb809961a2edb3> <http://schema.org/name> "Roald Dahl Classic Collection"  <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/007:_Road_To_A_Million> <http://dbpedia.org/ontology/network> <http://dbpedia.org/resource/Amazon_Prime_Video> <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/James_Bond> <http://dbpedia.org/ontology/subjectOf> <http://NobelPrize-euronews-2.com/blank#nf9be10ce5abf45589c1deb809961a2edb4>  <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/Donald_Trump> <http://xmlns.com/foaf/0.1/name> "Donald Trump"  <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/James_Bond> <http://dbpedia.org/ontology/creator> <http://dbpedia.org/resource/Ian_Fleming> <NobelPrize-euronews-2> .
+ <http://dbpedia.org/resource/The_Terminator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <NobelPrize-euronews-3> .
+ <http://dbpedia.org/resource/The_Terminator> <http://dbpedia.org/ontology/inspiredBy> <http://dbpedia.org/resource/Harlan_Ellison> <NobelPrize-euronews-3> .
+ <http://dbpedia.org/resource/Donnie_Darko> <http://schema.org/datePublished> "2001-10-26"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-euronews-3> .
+ <http://dbpedia.org/resource/The_Lion_King_II:_Simba's_Pride> <http://schema.org/datePublished> "1998-10-26"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-euronews-3> .
+ <http://dbpedia.org/resource/Donnie_Darko> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Jake_Gyllenhaal> <NobelPrize-euronews-3> .
+ <http://dbpedia.org/resource/Boy_From_Heaven> <http://schema.org/datePublished> "2022-10-26"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-euronews-3> .
+ <http://dbpedia.org/resource/The_Terminator> <http://purl.org/dc/elements/1.1/description> "A cult favourite that spawned a highly lucrative movie franchise."@en  <NobelPrize-euronews-3> .
+ <http://dbpedia.org/resource/Donnie_Darko> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Newmarket_Films> <NobelPrize-euronews-3> .
+ <http://dbpedia.org/resource/Boy_From_Heaven> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Memento_Films> <NobelPrize-euronews-3> .
+ <http://dbpedia.org/resource/The_Lion_King_II:_Simba's_Pride> <http://purl.org/dc/elements/1.1/description> "A Romeo and Juliet-inspired sequel."@en  <NobelPrize-euronews-3> .
+ <http://dbpedia.org/resource/The_Terminator> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Arnold_Schwarzenegger> <NobelPrize-euronews-3> .
+ <http://dbpedia.org/resource/Boy_From_Heaven> <http://dbpedia.org/ontology/award> "François Chalais Prize"  <NobelPrize-euronews-3> .
+ <http://dbpedia.org/resource/The_Terminator> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Linda_Hamilton> <NobelPrize-euronews-3> .
+ <http://dbpedia.org/resource/The_Terminator> <http://schema.org/datePublished> "1984-10-26"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-euronews-3> .
+ <http://dbpedia.org/resource/Boy_From_Heaven> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Tawfeek_Barhom> <NobelPrize-euronews-3> .
+ <http://dbpedia.org/resource/The_Lion_King_II:_Simba's_Pride> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <NobelPrize-euronews-3> .
+ <http://dbpedia.org/resource/The_Lion_King_II:_Simba's_Pride> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Disney> <NobelPrize-euronews-3> .
+ <http://dbpedia.org/resource/Suspiria_(2018_film)> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Luca_Guadagnino> <NobelPrize-euronews-3> .
+ <http://dbpedia.org/resource/Boy_From_Heaven> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Tarik_Saleh> <NobelPrize-euronews-3> .
+ <http://dbpedia.org/resource/Donnie_Darko> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Richard_Kelly> <NobelPrize-euronews-3> .
+ <http://dbpedia.org/resource/Suspiria_(2018_film)> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Amazon_Studios> <NobelPrize-euronews-3> .
+ <http://dbpedia.org/resource/The_Terminator> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Michael_Biehn> <NobelPrize-euronews-3> .
+ <http://dbpedia.org/resource/Boy_From_Heaven> <http://dbpedia.org/ontology/award> "Best Screenplay award at the 2022 Cannes Film Festival"  <NobelPrize-euronews-3> .
+ <http://dbpedia.org/resource/Boy_From_Heaven> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Fares_Fares> <NobelPrize-euronews-3> .
+ <http://dbpedia.org/resource/Donnie_Darko> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Pandora_Cinema> <NobelPrize-euronews-3> .
+ <http://dbpedia.org/resource/Boy_From_Heaven> <http://purl.org/dc/elements/1.1/description> "A film about a young student trapped in a labyrinth of corruption in Egypt."@en  <NobelPrize-euronews-3> .
+ <http://dbpedia.org/resource/Donnie_Darko> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <NobelPrize-euronews-3> .
+ <http://dbpedia.org/resource/Boy_From_Heaven> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <NobelPrize-euronews-3> .
+ <http://dbpedia.org/resource/Suspiria_(2018_film)> <http://purl.org/dc/elements/1.1/description> "A remake of Dario Argento’s giallo horror classic."@en  <NobelPrize-euronews-3> .
+ <http://dbpedia.org/resource/Donnie_Darko> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Patrick_Swayze> <NobelPrize-euronews-3> .
+ <http://dbpedia.org/resource/Donnie_Darko> <http://purl.org/dc/elements/1.1/description> "A cult hit with a time travel adventure centred on predeterminism."@en  <NobelPrize-euronews-3> .
+ <http://dbpedia.org/resource/Suspiria_(2018_film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <NobelPrize-euronews-3> .
+ <http://dbpedia.org/resource/Suspiria_(2018_film)> <http://schema.org/datePublished> "2018-10-26"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-euronews-3> .
+ <http://dbpedia.org/resource/The_Terminator> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Orion_Pictures> <NobelPrize-euronews-3> .
+ <http://dbpedia.org/resource/The_Terminator> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/James_Cameron> <NobelPrize-euronews-3> .
+ <http://example.org/PoliticalStrategist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-euronews-4> .
+ <http://NobelPrize-euronews-4.com/blank#n7864a4a54956459bbe511a4a5c4251e8b1> <http://schema.org/mentions> <http://example.org/PresidentialCampaign> <NobelPrize-euronews-4> .
+ <http://example.org/Kremlin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <NobelPrize-euronews-4> .
+ <http://NobelPrize-euronews-4.com/blank#n7864a4a54956459bbe511a4a5c4251e8b1> <http://schema.org/isBasedOn> <http://example.org/PresidentialCampaign> <NobelPrize-euronews-4> .
+ <http://example.org/Prizes> <http://schema.org/name> "Prizes"  <NobelPrize-euronews-4> .
+ <http://example.org/Meduza> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <NobelPrize-euronews-4> .
+ <http://NobelPrize-euronews-4.com/blank#n7864a4a54956459bbe511a4a5c4251e8b1> <http://schema.org/about> <http://example.org/Raffle> <NobelPrize-euronews-4> .
+ <http://example.org/Critics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Demographic> <NobelPrize-euronews-4> .
+ <http://example.org/Putin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-euronews-4> .
+ <http://example.org/Meduza> <http://xmlns.com/foaf/0.1/name> "Meduza"  <NobelPrize-euronews-4> .
+ <http://example.org/Raffle> <http://schema.org/name> "It’s in Our Family"  <NobelPrize-euronews-4> .
+ <http://NobelPrize-euronews-4.com/blank#n7864a4a54956459bbe511a4a5c4251e8b1> <http://xmlns.com/foaf/0.1/topic> <http://example.org/ConstitutionalChanges2020> <NobelPrize-euronews-4> .
+ <http://NobelPrize-euronews-4.com/blank#n7864a4a54956459bbe511a4a5c4251e8b1> <http://xmlns.com/foaf/0.1/topic> <http://example.org/PutinPresidentialBid> <NobelPrize-euronews-4> .
+ <http://example.org/PresidentialCampaign> <http://schema.org/organizer> <http://example.org/Putin> <NobelPrize-euronews-4> .
+ <http://NobelPrize-euronews-4.com/blank#n7864a4a54956459bbe511a4a5c4251e8b1> <http://schema.org/mentions> <http://example.org/ConstitutionalChanges2020> <NobelPrize-euronews-4> .
+ <http://NobelPrize-euronews-4.com/blank#n7864a4a54956459bbe511a4a5c4251e8b1> <http://schema.org/mentions> <http://example.org/PutinPresidentialBid> <NobelPrize-euronews-4> .
+ <http://example.org/RussiaForum> <http://schema.org/description> "An event to exhibit the achievements of Vladimir Putin's rule."  <NobelPrize-euronews-4> .
+ <http://example.org/Prizes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <NobelPrize-euronews-4> .
+ <http://example.org/PutinPresidentialBid> <http://schema.org/organizer> <http://example.org/Putin> <NobelPrize-euronews-4> .
+ <http://example.org/RussiaForum> <http://schema.org/name> "Russia Forum"  <NobelPrize-euronews-4> .
+ <http://NobelPrize-euronews-4.com/blank#n7864a4a54956459bbe511a4a5c4251e8b1> <http://schema.org/isBasedOn> <http://example.org/PoliticalStrategist> <NobelPrize-euronews-4> .
+ <http://NobelPrize-euronews-4.com/blank#n7864a4a54956459bbe511a4a5c4251e8b1> <http://xmlns.com/foaf/0.1/topic> <http://example.org/Raffle> <NobelPrize-euronews-4> .
+ <http://example.org/ConstitutionalChanges2020> <http://schema.org/description> "Constitutional changes allowing Putin to run for a fifth and sixth term in office."  <NobelPrize-euronews-4> .
+ <http://NobelPrize-euronews-4.com/blank#n7864a4a54956459bbe511a4a5c4251e8b1> <http://xmlns.com/foaf/0.1/topic> <http://example.org/SupportBase> <NobelPrize-euronews-4> .
+ <http://example.org/Tasks> <http://schema.org/description> "Tasks aimed at creating home comfort, such as preparing a dish, performing a song or doing an act of kindness."  <NobelPrize-euronews-4> .
+ <http://NobelPrize-euronews-4.com/blank#n7864a4a54956459bbe511a4a5c4251e8b1> <http://schema.org/datePublished> "2023-03-29"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-euronews-4> .
+ <http://NobelPrize-euronews-4.com/blank#n7864a4a54956459bbe511a4a5c4251e8b1> <http://schema.org/mentions> <http://example.org/SupportBase> <NobelPrize-euronews-4> .
+ <http://example.org/Report> <http://schema.org/description> "A report on the fallout from the war and Western sanctions' impact on Russia's population."  <NobelPrize-euronews-4> .
+ <http://NobelPrize-euronews-4.com/blank#n7864a4a54956459bbe511a4a5c4251e8b1> <http://schema.org/isBasedOn> <http://example.org/Raffle> <NobelPrize-euronews-4> .
+ <http://NobelPrize-euronews-4.com/blank#n7864a4a54956459bbe511a4a5c4251e8b1> <http://schema.org/isBasedOn> <http://example.org/SupportBase> <NobelPrize-euronews-4> .
+ <http://example.org/Raffle> <http://schema.org/startDate> "2023-11-04"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-euronews-4> .
+ <http://example.org/Raffle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NobelPrize-euronews-4> .
+ <http://example.org/PresidentialCampaign> <http://schema.org/name> "Vladimir Putin’s presidential campaign"  <NobelPrize-euronews-4> .
+ <http://example.org/RussiaForum> <http://schema.org/startDate> "2023-11-04"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-euronews-4> .
+ <http://NobelPrize-euronews-4.com/blank#n7864a4a54956459bbe511a4a5c4251e8b1> <http://schema.org/isBasedOn> <http://example.org/Report> <NobelPrize-euronews-4> .
+ <http://NobelPrize-euronews-4.com/blank#n7864a4a54956459bbe511a4a5c4251e8b1> <http://xmlns.com/foaf/0.1/topic> <http://example.org/Putin> <NobelPrize-euronews-4> .
+ <http://NobelPrize-euronews-4.com/blank#n7864a4a54956459bbe511a4a5c4251e8b1> <http://schema.org/mentions> <http://example.org/Report> <NobelPrize-euronews-4> .
+ <http://example.org/Putin> <http://dbpedia.org/ontology/office> "President of Russia"  <NobelPrize-euronews-4> .
+ <http://NobelPrize-euronews-4.com/blank#n7864a4a54956459bbe511a4a5c4251e8b1> <http://schema.org/mentions> <http://example.org/Putin> <NobelPrize-euronews-4> .
+ <http://example.org/RussiaForum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NobelPrize-euronews-4> .
+ <http://example.org/Meduza> <http://xmlns.com/foaf/0.1/reports> <http://NobelPrize-euronews-4.com/blank#n7864a4a54956459bbe511a4a5c4251e8b1>  <NobelPrize-euronews-4> .
+ <http://NobelPrize-euronews-4.com/blank#n7864a4a54956459bbe511a4a5c4251e8b1> <http://xmlns.com/foaf/0.1/topic> <http://example.org/Critics> <NobelPrize-euronews-4> .
+ <http://example.org/Critics> <http://schema.org/description> "Liberals, younger voters and those in Moscow and St Petersburg."  <NobelPrize-euronews-4> .
+ <http://example.org/ConstitutionalChanges2020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Legislation> <NobelPrize-euronews-4> .
+ <http://example.org/PresidentialCampaign> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NobelPrize-euronews-4> .
+ <http://NobelPrize-euronews-4.com/blank#n7864a4a54956459bbe511a4a5c4251e8b1> <http://schema.org/mentions> <http://example.org/Critics> <NobelPrize-euronews-4> .
+ <http://example.org/Putin> <http://xmlns.com/foaf/0.1/name> "Vladimir Putin"  <NobelPrize-euronews-4> .
+ <http://example.org/Kremlin> <http://xmlns.com/foaf/0.1/name> "The Kremlin"  <NobelPrize-euronews-4> .
+ <http://NobelPrize-euronews-4.com/blank#n7864a4a54956459bbe511a4a5c4251e8b1> <http://schema.org/isBasedOn> <http://example.org/Critics> <NobelPrize-euronews-4> .
+ <http://example.org/Prizes> <http://schema.org/description> "30 housing certificates worth five million rubles, 300 holidays around Russia and other prizes."  <NobelPrize-euronews-4> .
+ <http://example.org/PutinPresidentialBid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <NobelPrize-euronews-4> .
+ <http://example.org/Raffle> <http://schema.org/description> "A raffle to create a positive background for Vladimir Putin’s 2024 presidential campaign."  <NobelPrize-euronews-4> .
+ <http://example.org/Raffle> <http://schema.org/organizer> <http://example.org/Kremlin> <NobelPrize-euronews-4> .
+ <http://example.org/SupportBase> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Demographic> <NobelPrize-euronews-4> .
+ <http://NobelPrize-euronews-4.com/blank#n7864a4a54956459bbe511a4a5c4251e8b1> <http://schema.org/isBasedOn> <http://example.org/ConstitutionalChanges2020> <NobelPrize-euronews-4> .
+ <http://NobelPrize-euronews-4.com/blank#n7864a4a54956459bbe511a4a5c4251e8b1> <http://schema.org/isBasedOn> <http://example.org/PutinPresidentialBid> <NobelPrize-euronews-4> .
+ <http://NobelPrize-euronews-4.com/blank#n7864a4a54956459bbe511a4a5c4251e8b1> <http://xmlns.com/foaf/0.1/topic> <http://example.org/PoliticalStrategist> <NobelPrize-euronews-4> .
+ <http://NobelPrize-euronews-4.com/blank#n7864a4a54956459bbe511a4a5c4251e8b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NewsArticle> <NobelPrize-euronews-4> .
+ <http://example.org/Tasks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <NobelPrize-euronews-4> .
+ <http://example.org/PresidentialCampaign> <http://schema.org/subEvent> <http://example.org/Raffle> <NobelPrize-euronews-4> .
+ <http://example.org/PoliticalStrategist> <http://xmlns.com/foaf/0.1/name> "Unnamed political strategist"  <NobelPrize-euronews-4> .
+ <http://NobelPrize-euronews-4.com/blank#n7864a4a54956459bbe511a4a5c4251e8b1> <http://schema.org/mentions> <http://example.org/PoliticalStrategist> <NobelPrize-euronews-4> .
+ <http://example.org/SupportBase> <http://schema.org/description> "Middle-aged and elderly, pensioners, state employees, workers at state-owned companies and women."  <NobelPrize-euronews-4> .
+ <http://example.org/PutinPresidentialBid> <http://schema.org/name> "Vladimir Putin’s 2024 presidential bid"  <NobelPrize-euronews-4> .
+ <http://NobelPrize-euronews-4.com/blank#n7864a4a54956459bbe511a4a5c4251e8b1> <http://xmlns.com/foaf/0.1/topic> <http://example.org/Report> <NobelPrize-euronews-4> .
+ <http://example.org/ConstitutionalChanges2020> <http://schema.org/date> "2020"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-euronews-4> .
+ <http://example.org/Report> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <NobelPrize-euronews-4> .
+ <http://NobelPrize-euronews-4.com/blank#n7864a4a54956459bbe511a4a5c4251e8b1> <http://xmlns.com/foaf/0.1/topic> <http://example.org/PresidentialCampaign> <NobelPrize-euronews-4> .
+ <http://example.org/Meduza> <http://schema.org/location> <http://dbpedia.org/resource/Latvia> <NobelPrize-euronews-4> .
+ <http://www.gphg.org/horlogerie/en/GrandPrixHorlogerieDeGeneve> <http://schema.org/startDate> "2023-11-09"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb17> <http://schema.org/name> "1969 DeltaWorks nomination"  <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/Bulgari> <http://schema.org/award> <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb15>  <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/NickFoulkes> <http://schema.org/jobTitle> "President of the 2023 GPHG jury"  <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb14> <http://schema.org/name> "Jewellery category nomination"  <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/GrandPrixHorlogerieDeGeneve> <http://schema.org/workPerformed> <http://www.gphg.org/horlogerie/en/NominatedTimepieces> <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb18> <http://xmlns.com/foaf/0.1/name> "Pascal Raffy"  <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/Bovet> <http://schema.org/award> <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb21>  <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/Gronefeld> <http://schema.org/memberOf> <http://www.gphg.org/horlogerie/en/GrandPrixHorlogerieDeGeneve> <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb16> <http://xmlns.com/foaf/0.1/name> "Bart Grönefeld"  <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/GrandPrixHorlogerieDeGeneve> <http://schema.org/description> "The pinnacle of the Swiss watch industry calendar."  <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/TourLocations> <http://schema.org/itemListElement> "New York"  <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/Bulgari> <http://schema.org/memberOf> <http://www.gphg.org/horlogerie/en/GrandPrixHorlogerieDeGeneve> <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb6> <http://schema.org/addressCountry> "Switzerland"  <NobelPrize-euronews-5> .
+ <http://euronews.com/culture> <http://schema.org/name> "Euronews Culture"  <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb5> <http://schema.org/category> "mechanical clock"  <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/Bovet> <http://schema.org/memberOf> <http://www.gphg.org/horlogerie/en/GrandPrixHorlogerieDeGeneve> <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb3> <http://schema.org/category> "calendar and astronomy"  <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb15> <http://schema.org/name> "Petite Aiguille category nomination"  <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb4> <http://schema.org/category> "jewellery"  <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/TourLocations> <http://schema.org/itemListElement> "Macao"  <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/NominatedTimepieces> <http://schema.org/exampleOfWork> <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb1>  <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb7> <http://schema.org/jobTitle> "watch collector"  <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb11> <http://xmlns.com/foaf/0.1/name> "CEO of watch brand MB&F"  <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb12> <http://xmlns.com/foaf/0.1/name> "Jean-Christophe Babin"  <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/NominatedTimepieces> <http://schema.org/exampleOfWork> <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb5>  <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb11> <http://dbpedia.org/ontology/year> "last year"  <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/NickFoulkes> <http://schema.org/worksFor> <http://www.gphg.org/horlogerie/en/fondation-du-grand-prix-dhorlogerie-de-geneve> <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/Bovet> <http://schema.org/award> <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb19>  <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/Jury> <http://schema.org/member> <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb9>  <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/Gronefeld> <http://schema.org/founder> <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb16>  <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/TourLocations> <http://schema.org/itemListElement> "Kuala Lumpur"  <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/NominatedTimepieces> <http://schema.org/exampleOfWork> <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb3>  <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb6> <http://schema.org/addressLocality> "Geneva"  <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/Jury> <http://schema.org/member> <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb11>  <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/GrandPrixHorlogerieDeGeneve> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/Jury> <http://schema.org/member> <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb7>  <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/TheatreDuLeman> <http://schema.org/name> "Théatre du Léman"  <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/Gronefeld> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/TourLocations> <http://schema.org/itemListElement> "Geneva"  <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/GPHGCeremony> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/c4dm/event.owl#Event> <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/Bulgari> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/NominatedTimepieces> <http://schema.org/exampleOfWork> <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb2>  <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb1> <http://schema.org/category> "ladies’"  <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/NominatedTimepieces> <http://schema.org/about> "Ninety timepieces nominated across 15 categories"  <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/NominatedTimepieces> <http://schema.org/exampleOfWork> <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb4>  <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/GPHGCeremony> <http://purl.org/NET/c4dm/event.owl#time> "2023-11-09T18:30:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/Bovet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/NominatedTimepieces> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/TourLocations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ItemList> <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb10> <http://schema.org/jobTitle> "auctioneer"  <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/Jury> <http://schema.org/member> <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb8>  <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/Bulgari> <http://schema.org/award> <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb14>  <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/TheatreDuLeman> <http://schema.org/address> <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb6>  <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb13> <http://schema.org/name> "Tourbillon category nomination"  <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/TourLocations> <http://schema.org/itemListElement> "Hong Kong"  <NobelPrize-euronews-5> .
+ <http://euronews.com/culture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BroadcastService> <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/GPHGCeremony> <http://schema.org/broadcastOfEvent> <http://euronews.com/culture> <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/NickFoulkes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/GrandPrixHorlogerieDeGeneve> <http://schema.org/location> <http://www.gphg.org/horlogerie/en/TheatreDuLeman> <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/Jury> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/Bovet> <http://schema.org/ceo> <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb18>  <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/NickFoulkes> <http://xmlns.com/foaf/0.1/name> "Nick Foulkes"  <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb9> <http://schema.org/jobTitle> "journalist"  <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/TheatreDuLeman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/Jury> <http://schema.org/member> <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb10>  <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb2> <http://schema.org/category> "men’s"  <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/Bulgari> <http://schema.org/award> <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb13>  <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb20> <http://schema.org/name> "Astérium nomination"  <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/Bulgari> <http://schema.org/ceo> <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb12>  <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/NickFoulkes> <http://schema.org/affiliation> <http://www.gphg.org/horlogerie/en/Jury> <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/Bovet> <http://schema.org/award> <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb20>  <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/GrandPrixHorlogerieDeGeneve> <http://schema.org/name> "Grand Prix d’Horlogerie de Genève"  <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb11> <http://dbpedia.org/ontology/award> "Aiguille d’Or"  <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb21> <http://schema.org/name> "Virtuoso XI nomination"  <NobelPrize-euronews-5> .
+ <http://euronews.com/culture> <http://schema.org/startDate> "2023-11-09T18:30:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb19> <http://schema.org/name> "Récital 27 nomination"  <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/GrandPrixHorlogerieDeGeneve> <http://schema.org/eventStatus> <http://schema.org/EventScheduled> <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb8> <http://schema.org/jobTitle> "watchmaker"  <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/Gronefeld> <http://schema.org/award> <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb17>  <NobelPrize-euronews-5> .
+ <http://NobelPrize-euronews-5.com/blank#n4e4007598d1e41838a319cdfa697255eb3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/GPHGCeremony> <http://purl.org/NET/c4dm/event.owl#place> <http://www.gphg.org/horlogerie/en/TheatreDuLeman> <NobelPrize-euronews-5> .
+ <http://www.gphg.org/horlogerie/en/Bulgari> <http://schema.org/founder> "Sotirios Voulgaris"  <NobelPrize-euronews-5> .
+ <https://euronews.com/culture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BroadcastService> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/GrandPrixHorlogerieDeGeneve> <http://schema.org/startDate> "2023-11-09"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/Bovet> <http://schema.org/ceo> <http://www.gphg.org/horlogerie/en/PascalRaffy> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/JeanChristopheBabin> <http://schema.org/jobTitle> "CEO of Bulgari"  <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/NickFoulkes> <http://schema.org/jobTitle> "President of the 2023 GPHG jury"  <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/GrandPrixHorlogerieDeGeneve> <http://schema.org/organizer> <http://www.gphg.org/horlogerie/en/FondationDuGrandPrixDHorlogerieDeGeneve> <NobelPrize-euronews-6> .
+ <https://euronews.com/culture> <http://schema.org/name> "Euronews Culture"  <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/PascalRaffy> <http://schema.org/jobTitle> "CEO of Bovet"  <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/SerpentiCleopatra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/Recital27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/GrandPrixHorlogerieDeGeneve> <http://schema.org/description> "The pinnacle of the Swiss watch industry calendar."  <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/MBandF> <http://purl.org/goodrelations/v1#award> <http://www.gphg.org/horlogerie/en/AiguilleDOr> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/Bovet> <http://schema.org/name> "Bovet"  <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/Groenefeld> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/Asterium> <http://schema.org/manufacturer> <http://www.gphg.org/horlogerie/en/Bovet> <NobelPrize-euronews-6> .
+ <http://NobelPrize-euronews-6.com/blank#nc09c81daa6c44732b848056c336639a2b1> <http://xmlns.com/foaf/0.1/name> "Bart Grönefeld"  <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/PascalRaffy> <http://xmlns.com/foaf/0.1/name> "Pascal Raffy"  <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/GrandPrixHorlogerieDeGeneve> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/TheatreDuLeman> <http://schema.org/address> "Geneva, Switzerland"  <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/FondationDuGrandPrixDHorlogerieDeGeneve> <http://schema.org/name> "Fondation du Grand Prix d'Horlogerie de Genève"  <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/TheatreDuLeman> <http://schema.org/name> "Théatre du Léman"  <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/DeltaWorks1969> <http://schema.org/manufacturer> <http://www.gphg.org/horlogerie/en/Groenefeld> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/SerpentiCleopatra> <http://schema.org/category> "Jewellery"  <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/OctoRomaAutomatic> <http://schema.org/manufacturer> <http://www.gphg.org/horlogerie/en/Bulgari> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/MBandF> <http://schema.org/founder> <http://www.gphg.org/horlogerie/en/MaxBusser> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/GPHG2023Ceremony> <http://purl.org/NET/c4dm/event.owl#place> <http://www.gphg.org/horlogerie/en/TheatreDuLeman> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/Recital27> <http://schema.org/manufacturer> <http://www.gphg.org/horlogerie/en/Bovet> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/Bulgari> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/Recital27> <http://schema.org/category> "Men’s Complication"  <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/VirtuosoXI> <http://schema.org/manufacturer> <http://www.gphg.org/horlogerie/en/Bovet> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/NickFoulkes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/MBandF> <http://schema.org/ceo> <http://www.gphg.org/horlogerie/en/MaxBusser> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/Bovet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/NickFoulkes> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Author> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/JeanChristopheBabin> <http://xmlns.com/foaf/0.1/name> "Jean-Christophe Babin"  <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/FondationDuGrandPrixDHorlogerieDeGeneve> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/AiguilleDOr> <http://schema.org/name> "Aiguille d’Or"  <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/Bulgari> <http://schema.org/ceo> <http://www.gphg.org/horlogerie/en/JeanChristopheBabin> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/GPHG2023Ceremony> <http://schema.org/broadcastOfEvent> <https://euronews.com/culture> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/VirtuosoXI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/GrandPrixHorlogerieDeGeneve> <http://schema.org/location> <http://www.gphg.org/horlogerie/en/TheatreDuLeman> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/MaxBusser> <http://schema.org/jobTitle> "CEO of MB&F"  <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/OctoRomaStrikingPapillonTourbillon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/NickFoulkes> <http://xmlns.com/foaf/0.1/name> "Nick Foulkes"  <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/MBandF> <http://schema.org/name> "MB&F"  <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/MBandF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/NickFoulkes> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Historian> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/Asterium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/TheatreDuLeman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/PascalRaffy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/AiguilleDOr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/JeanChristopheBabin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/VirtuosoXI> <http://schema.org/category> "Tourbillon"  <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/OctoRomaAutomatic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/Groenefeld> <http://schema.org/name> "Grönefeld"  <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/DeltaWorks1969> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/Bulgari> <http://schema.org/name> "Bulgari"  <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/OctoRomaStrikingPapillonTourbillon> <http://schema.org/category> "Tourbillon"  <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/NickFoulkes> <http://xmlns.com/foaf/0.1/member> <http://www.gphg.org/horlogerie/en/FondationDuGrandPrixDHorlogerieDeGeneve> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/OctoRomaStrikingPapillonTourbillon> <http://schema.org/manufacturer> <http://www.gphg.org/horlogerie/en/Bulgari> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/SerpentiCleopatra> <http://schema.org/manufacturer> <http://www.gphg.org/horlogerie/en/Bulgari> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/MaxBusser> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/GrandPrixHorlogerieDeGeneve> <http://schema.org/name> "Grand Prix d’Horlogerie de Genève"  <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/Groenefeld> <http://schema.org/founder> <http://NobelPrize-euronews-6.com/blank#nc09c81daa6c44732b848056c336639a2b1>  <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/GPHG2023Ceremony> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/NET/c4dm/event.owl#Event> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/GPHG2023Ceremony> <http://purl.org/NET/c4dm/event.owl#productOrService> <http://www.gphg.org/horlogerie/en/GrandPrixHorlogerieDeGeneve> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/NickFoulkes> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Journalist> <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/OctoRomaAutomatic> <http://schema.org/category> "Petite Aiguille"  <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/GPHG2023Ceremony> <http://purl.org/NET/c4dm/event.owl#time> "2023-11-09T18:30:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/MaxBusser> <http://xmlns.com/foaf/0.1/name> "Max Büsser"  <NobelPrize-euronews-6> .
+ <http://www.gphg.org/horlogerie/en/Asterium> <http://schema.org/category> "Calendar and Astronomy"  <NobelPrize-euronews-6> .
+ <http://dbpedia.org/resource/Britney_Spears> <http://example.org/ontology#demandedDisclaimer> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NobelPrize-euronews-7> .
+ <http://example.org/ontology#SeedOfChucky> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#BritneySpearsCarCrashScene> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FilmScene> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#BrockWinkless> <http://example.org/ontology#operates> <http://example.org/ontology#ChuckyMouth> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#TalkyTina> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#EvilDollCharacter> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#BritneySpearsCarCrashScene> <http://example.org/ontology#includesLine> "Oops, I did it again!"^^<http://www.w3.org/2001/XMLSchema#string>  <NobelPrize-euronews-7> .
+ <http://example.org/ontology#CharlesLeeRayName> <http://example.org/ontology#references> <http://dbpedia.org/resource/Lee_Harvey_Oswald> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#Chucky> <http://example.org/ontology#goal> <http://example.org/ontology#PossessingHumanBody> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#CharlesLeeRayName> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Name> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#Chucky> <http://example.org/ontology#possessedBy> <http://example.org/ontology#CharlesLeeRay> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#ChildsPlayHorrorMovies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FilmSeries> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#ChuckyTheNotoriousKillerDollDay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Celebration> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#ChildsPlay> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Tom_Holland_(director)> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#ChuckyTheNotoriousKillerDollDay> <http://example.org/ontology#positionInTime> "6 days before"^^<http://www.w3.org/2001/XMLSchema#string>  <NobelPrize-euronews-7> .
+ <http://example.org/ontology#ChuckyThemeSong> <http://example.org/ontology#lyricsBy> <http://example.org/ontology#SimonStokes> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#ChuckyThemeSong> <http://example.org/ontology#wasAxed> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NobelPrize-euronews-7> .
+ <http://dbpedia.org/resource/Britney_Spears> <http://example.org/ontology#disassociatedFrom> <http://example.org/ontology#SeedOfChucky> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#SeedOfChucky> <http://example.org/ontology#featuresCharacter> <http://example.org/ontology#Tiffany> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#ChuckyThemeSong> <http://example.org/ontology#composedBy> <http://dbpedia.org/resource/Joe_Renzetti> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#HauntedToySubgenre> <http://example.org/ontology#includesMovies> <http://dbpedia.org/resource/M3GAN> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#ChuckyTheNotoriousKillerDollDay> <http://example.org/ontology#celebrates> <http://example.org/ontology#Chucky> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#ChuckyFranchise> <http://example.org/ontology#inspiredBy> <http://example.org/ontology#TalkyTina> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#BrockWinkless> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Puppeteer> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#ChildsPlayHorrorMovies> <http://example.org/ontology#providesScares> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NobelPrize-euronews-7> .
+ <http://example.org/ontology#Chucky> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#HorrorIcon> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#Chucky> <http://example.org/ontology#hasNickname> "Chucky"^^<http://www.w3.org/2001/XMLSchema#string>  <NobelPrize-euronews-7> .
+ <http://example.org/ontology#ChildsPlayHorrorMovies> <http://example.org/ontology#releaseDate> "1988-11-09"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-euronews-7> .
+ <http://example.org/ontology#ChuckyFranchise> <http://example.org/ontology#creator> <http://dbpedia.org/resource/Don_Mancini> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#CharlesLeeRayName> <http://example.org/ontology#references> <http://dbpedia.org/resource/Charles_Manson> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#HauntedToySubgenre> <http://example.org/ontology#influencedBy> <http://example.org/ontology#ChuckyFranchise> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#TheLivingDollEpisode> <http://example.org/ontology#partOfSeries> <http://dbpedia.org/resource/The_Twilight_Zone> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#CharlesLeeRay> <http://example.org/ontology#performs> <http://example.org/ontology#SoulTransferIntoDoll> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#BritneySpearsCarCrashScene> <http://example.org/ontology#depicts> <http://example.org/ontology#BritneySpearsLookALikeDeath> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#CharlesLeeRay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#SerialKiller> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#BritneySpearsCarCrashScene> <http://example.org/ontology#causedControversyWith> <http://dbpedia.org/resource/Britney_Spears> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#ChuckyFranchise> <http://example.org/ontology#inspiredBy> <http://example.org/ontology#MyBuddyDoll> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#MyBuddyDoll> <http://example.org/ontology#fromDecade> "1980s"^^<http://www.w3.org/2001/XMLSchema#string>  <NobelPrize-euronews-7> .
+ <http://example.org/ontology#HauntedToySubgenre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#HorrorSubgenre> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#ChuckyTheNotoriousKillerDollDay> <http://example.org/ontology#associatedWith> <http://example.org/ontology#ChildsPlayHorrorMovies> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#CharlesLeeRayName> <http://example.org/ontology#references> <http://dbpedia.org/resource/James_Earl_Ray> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#HauntedToySubgenre> <http://example.org/ontology#includesMovies> <http://dbpedia.org/resource/Annabelle> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#MyBuddyDoll> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Toy> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#TalkyTina> <http://example.org/ontology#appearsIn> <http://example.org/ontology#TheLivingDollEpisode> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#PracticalEffects> <http://example.org/ontology#involvesAnimatronics> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NobelPrize-euronews-7> .
+ <http://example.org/ontology#ChildsPlayHorrorMovies> <http://example.org/ontology#hasSubgenre> <http://example.org/ontology#HauntedToySubgenre> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#ChuckyThemeSong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Song> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#ChildsPlay> <http://example.org/ontology#actorInvolvement> <http://dbpedia.org/resource/John_Franklin_(actor)> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#Tiffany> <http://example.org/ontology#appearsIn> <http://example.org/ontology#SeedOfChucky> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#Chucky> <http://example.org/ontology#appearanceCount> "8 movies"^^<http://www.w3.org/2001/XMLSchema#string>  <NobelPrize-euronews-7> .
+ <http://example.org/ontology#ChuckyFranchise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FilmSeries> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#TheLivingDollEpisode> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionEpisode> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#ChildsPlay> <http://example.org/ontology#employs> <http://example.org/ontology#PracticalEffects> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#ChildsPlay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#BritneySpearsLookALikeDeath> <http://example.org/ontology#causedBy> <http://example.org/ontology#Chucky> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#ChuckyTheNotoriousKillerDollDay> <http://example.org/ontology#relatedTo> <http://example.org/ontology#Halloween> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#CharlesLeeRay> <http://example.org/ontology#hasAlias> "Chucky"^^<http://www.w3.org/2001/XMLSchema#string>  <NobelPrize-euronews-7> .
+ <http://example.org/ontology#Tiffany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Character> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#BritneySpearsLookALikeDeath> <http://example.org/ontology#involves> <http://example.org/ontology#CarExplosion> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#Chucky> <http://example.org/ontology#isCharacterIn> <http://example.org/ontology#ChildsPlayHorrorMovies> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#ChildsPlay> <http://example.org/ontology#puppeteerLead> <http://example.org/ontology#BrockWinkless> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#Chucky> <http://example.org/ontology#portrayedBy> <http://dbpedia.org/resource/Brad_Dourif> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#PracticalEffects> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#SpecialEffectsTechnique> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#BritneySpearsLookALikeDeath> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#DeathScene> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#SeedOfChucky> <http://example.org/ontology#includesScene> <http://example.org/ontology#BritneySpearsCarCrashScene> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#ChuckyThemeSong> <http://example.org/ontology#featuresInstruments> "cheerleader vocals, keyboards"^^<http://www.w3.org/2001/XMLSchema#string>  <NobelPrize-euronews-7> .
+ <http://dbpedia.org/resource/Britney_Spears> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#ChuckyFranchise> <http://example.org/ontology#director> <http://dbpedia.org/resource/Tom_Holland_(director)> <NobelPrize-euronews-7> .
+ <http://example.org/ontology#MyBuddyDoll> <http://example.org/ontology#forGender> "boys"^^<http://www.w3.org/2001/XMLSchema#string>  <NobelPrize-euronews-7> .
+ <http://example.org/ontology#PracticalEffects> <http://example.org/ontology#requiresPuppeteers> "11"^^<http://www.w3.org/2001/XMLSchema#integer>  <NobelPrize-euronews-7> .
+ <http://example.org/ontology#ChildsPlayHorrorMovies> <http://example.org/ontology#includesCampAndHumor> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <NobelPrize-euronews-7> .
+ <http://NobelPrize-euronews-8.com/blank#n90f37aaf61a34b18b778f2e6b93027cdb5> <http://www.w3.org/2000/01/rdf-schema#label> "nail bar"  <NobelPrize-euronews-8> .
+ <http://example.org/EllenVanLoon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <NobelPrize-euronews-8> .
+ <http://NobelPrize-euronews-8.com/blank#n90f37aaf61a34b18b778f2e6b93027cdb6> <http://www.w3.org/2000/01/rdf-schema#label> "event space"  <NobelPrize-euronews-8> .
+ <http://example.org/Sustainability> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> <NobelPrize-euronews-8> .
+ <http://NobelPrize-euronews-8.com/blank#n90f37aaf61a34b18b778f2e6b93027cdb3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Facility> <NobelPrize-euronews-8> .
+ <http://example.org/DaycareAndMedicalCentre> <http://www.w3.org/2000/01/rdf-schema#label> "daycare and medical centre for the elderly"  <NobelPrize-euronews-8> .
+ <http://example.org/EllenVanLoon> <http://dbpedia.org/ontology/affiliation> <http://example.org/OMA> <NobelPrize-euronews-8> .
+ <http://example.org/StPaulsCathedral> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Building> <NobelPrize-euronews-8> .
+ <http://example.org/JohnMordenCentre> <http://dbpedia.org/ontology/theme> <http://NobelPrize-euronews-8.com/blank#n90f37aaf61a34b18b778f2e6b93027cdb9>  <NobelPrize-euronews-8> .
+ <http://NobelPrize-euronews-8.com/blank#n90f37aaf61a34b18b778f2e6b93027cdb7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Facility> <NobelPrize-euronews-8> .
+ <http://example.org/JohnMordenCentre> <http://dbpedia.org/ontology/photograph> <http://example.org/JimStephensonPhotos> <NobelPrize-euronews-8> .
+ <http://NobelPrize-euronews-8.com/blank#n90f37aaf61a34b18b778f2e6b93027cdb1> <http://www.w3.org/2000/01/rdf-schema#label> "timber"  <NobelPrize-euronews-8> .
+ <http://example.org/riba/StirlingPrize2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Award> <NobelPrize-euronews-8> .
+ <http://example.org/MaeArchitects> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ArchitecturalFirm> <NobelPrize-euronews-8> .
+ <http://example.org/JohnMordenCentre> <http://dbpedia.org/ontology/hasPart> <http://NobelPrize-euronews-8.com/blank#n90f37aaf61a34b18b778f2e6b93027cdb5>  <NobelPrize-euronews-8> .
+ <http://example.org/ChristopherWren> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Architect> <NobelPrize-euronews-8> .
+ <http://example.org/JohnMordenCentre> <http://dbpedia.org/ontology/capacity> "300"^^<http://www.w3.org/2001/XMLSchema#int>  <NobelPrize-euronews-8> .
+ <http://NobelPrize-euronews-8.com/blank#n90f37aaf61a34b18b778f2e6b93027cdb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Facility> <NobelPrize-euronews-8> .
+ <http://example.org/JohnMordenCentre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Building> <NobelPrize-euronews-8> .
+ <http://example.org/JohnMordenCentre> <http://dbpedia.org/ontology/constructionMaterial> <http://NobelPrize-euronews-8.com/blank#n90f37aaf61a34b18b778f2e6b93027cdb2>  <NobelPrize-euronews-8> .
+ <http://NobelPrize-euronews-8.com/blank#n90f37aaf61a34b18b778f2e6b93027cdb9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Sustainability> <NobelPrize-euronews-8> .
+ <http://example.org/JohnMordenCentre> <http://dbpedia.org/ontology/architect> <http://example.org/MaeArchitects> <NobelPrize-euronews-8> .
+ <http://example.org/JohnMordenCentre> <http://dbpedia.org/ontology/award> <http://example.org/riba/StirlingPrize2023> <NobelPrize-euronews-8> .
+ <http://example.org/MaeArchitects> <http://www.w3.org/2000/01/rdf-schema#label> "Mæ"  <NobelPrize-euronews-8> .
+ <http://example.org/ChristopherWren> <http://dbpedia.org/ontology/birthDate> "1632-10-20"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-euronews-8> .
+ <http://example.org/SocialProgramme> <http://www.w3.org/2000/01/rdf-schema#label> "Social Programme"  <NobelPrize-euronews-8> .
+ <http://NobelPrize-euronews-8.com/blank#n90f37aaf61a34b18b778f2e6b93027cdb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Material> <NobelPrize-euronews-8> .
+ <http://example.org/JohnMordenCentre> <http://www.w3.org/2000/01/rdf-schema#label> "John Morden Centre"  <NobelPrize-euronews-8> .
+ <http://example.org/ChristopherWren> <http://www.w3.org/2000/01/rdf-schema#label> "Christopher Wren"  <NobelPrize-euronews-8> .
+ <http://example.org/JimStephensonPhotos> <http://dbpedia.org/ontology/creator> <http://example.org/JimStephenson> <NobelPrize-euronews-8> .
+ <http://example.org/JohnMordenCentre> <http://dbpedia.org/ontology/owner> <http://example.org/MordenCollege> <NobelPrize-euronews-8> .
+ <http://example.org/JimStephenson> <http://www.w3.org/2000/01/rdf-schema#label> "Jim Stephenson"  <NobelPrize-euronews-8> .
+ <http://example.org/EllenVanLoon> <http://www.w3.org/2000/01/rdf-schema#label> "Ellen van Loon"  <NobelPrize-euronews-8> .
+ <http://example.org/riba/StirlingPrize2023> <http://www.w3.org/2000/01/rdf-schema#label> "Royal Institute of British Architects Stirling Prize 2023"  <NobelPrize-euronews-8> .
+ <http://NobelPrize-euronews-8.com/blank#n90f37aaf61a34b18b778f2e6b93027cdb3> <http://www.w3.org/2000/01/rdf-schema#label> "treatment rooms"  <NobelPrize-euronews-8> .
+ <http://example.org/RoyalInstituteOfBritishArchitects> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <NobelPrize-euronews-8> .
+ <http://example.org/OMA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ArchitecturalFirm> <NobelPrize-euronews-8> .
+ <http://example.org/JohnMordenCentre> <http://dbpedia.org/ontology/hasPart> <http://NobelPrize-euronews-8.com/blank#n90f37aaf61a34b18b778f2e6b93027cdb7>  <NobelPrize-euronews-8> .
+ <http://example.org/DaycareAndMedicalCentre> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BuildingType> <NobelPrize-euronews-8> .
+ <http://example.org/RoyalInstituteOfBritishArchitects> <http://www.w3.org/2000/01/rdf-schema#label> "Royal Institute of British Architects"  <NobelPrize-euronews-8> .
+ <http://example.org/JohnMordenCentre> <http://dbpedia.org/ontology/hasPart> <http://NobelPrize-euronews-8.com/blank#n90f37aaf61a34b18b778f2e6b93027cdb6>  <NobelPrize-euronews-8> .
+ <http://NobelPrize-euronews-8.com/blank#n90f37aaf61a34b18b778f2e6b93027cdb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Material> <NobelPrize-euronews-8> .
+ <http://example.org/Sustainability> <http://www.w3.org/2000/01/rdf-schema#label> "Sustainability"  <NobelPrize-euronews-8> .
+ <http://example.org/EllenVanLoon> <http://dbpedia.org/ontology/occupation> <http://example.org/Architect> <NobelPrize-euronews-8> .
+ <http://NobelPrize-euronews-8.com/blank#n90f37aaf61a34b18b778f2e6b93027cdb2> <http://www.w3.org/2000/01/rdf-schema#label> "brick"  <NobelPrize-euronews-8> .
+ <http://example.org/SocialProgramme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2000/01/rdf-schema#Class> <NobelPrize-euronews-8> .
+ <http://example.org/JohnMordenCentre> <http://dbpedia.org/ontology/use> <http://example.org/DaycareAndMedicalCentre> <NobelPrize-euronews-8> .
+ <http://example.org/MordenCollege> <http://dbpedia.org/ontology/architect> <http://example.org/ChristopherWren> <NobelPrize-euronews-8> .
+ <http://NobelPrize-euronews-8.com/blank#n90f37aaf61a34b18b778f2e6b93027cdb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Facility> <NobelPrize-euronews-8> .
+ <http://example.org/JimStephensonPhotos> <http://xmlns.com/foaf/0.1/depicts> <http://example.org/JohnMordenCentre> <NobelPrize-euronews-8> .
+ <http://example.org/ChristopherWrenBuildings> <http://www.w3.org/2000/01/rdf-schema#label> "Sir Christopher Wren buildings"  <NobelPrize-euronews-8> .
+ <http://example.org/JohnMordenCentre> <http://dbpedia.org/ontology/location> <http://example.org/London> <NobelPrize-euronews-8> .
+ <http://example.org/OriginalGradeIListedComplex> <http://www.w3.org/2000/01/rdf-schema#label> "original Grade I-listed complex"  <NobelPrize-euronews-8> .
+ <http://example.org/ChristopherWren> <http://dbpedia.org/ontology/work> <http://example.org/StPaulsCathedral> <NobelPrize-euronews-8> .
+ <http://example.org/JohnMordenCentre> <http://dbpedia.org/ontology/hasPart> <http://NobelPrize-euronews-8.com/blank#n90f37aaf61a34b18b778f2e6b93027cdb4>  <NobelPrize-euronews-8> .
+ <http://example.org/JohnMordenCentre> <http://dbpedia.org/ontology/hasPart> <http://NobelPrize-euronews-8.com/blank#n90f37aaf61a34b18b778f2e6b93027cdb3>  <NobelPrize-euronews-8> .
+ <http://example.org/JimStephensonPhotos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> <NobelPrize-euronews-8> .
+ <http://example.org/riba/StirlingPrize2023> <http://dbpedia.org/ontology/givenBy> <http://example.org/RoyalInstituteOfBritishArchitects> <NobelPrize-euronews-8> .
+ <http://example.org/JohnMordenCentre> <http://dbpedia.org/ontology/theme> <http://NobelPrize-euronews-8.com/blank#n90f37aaf61a34b18b778f2e6b93027cdb8>  <NobelPrize-euronews-8> .
+ <http://example.org/MordenCollege> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <NobelPrize-euronews-8> .
+ <http://NobelPrize-euronews-8.com/blank#n90f37aaf61a34b18b778f2e6b93027cdb8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/SocialProgramme> <NobelPrize-euronews-8> .
+ <http://example.org/JohnMordenCentre> <http://dbpedia.org/ontology/adjacentBuilding> <http://example.org/ChristopherWrenBuildings> <NobelPrize-euronews-8> .
+ <http://example.org/StPaulsCathedral> <http://dbpedia.org/ontology/rebuildingYear> "1666"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-euronews-8> .
+ <http://example.org/London> <http://www.w3.org/2000/01/rdf-schema#label> "London"  <NobelPrize-euronews-8> .
+ <http://example.org/MordenCollege> <http://dbpedia.org/ontology/building> <http://example.org/OriginalGradeIListedComplex> <NobelPrize-euronews-8> .
+ <http://example.org/ChristopherWrenBuildings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Building> <NobelPrize-euronews-8> .
+ <http://NobelPrize-euronews-8.com/blank#n90f37aaf61a34b18b778f2e6b93027cdb7> <http://www.w3.org/2000/01/rdf-schema#label> "well-being facilities"  <NobelPrize-euronews-8> .
+ <http://NobelPrize-euronews-8.com/blank#n90f37aaf61a34b18b778f2e6b93027cdb5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Facility> <NobelPrize-euronews-8> .
+ <http://example.org/London> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/City> <NobelPrize-euronews-8> .
+ <http://example.org/JohnMordenCentre> <http://dbpedia.org/ontology/constructionMaterial> <http://NobelPrize-euronews-8.com/blank#n90f37aaf61a34b18b778f2e6b93027cdb1>  <NobelPrize-euronews-8> .
+ <http://example.org/JimStephenson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Photographer> <NobelPrize-euronews-8> .
+ <http://example.org/OriginalGradeIListedComplex> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Building> <NobelPrize-euronews-8> .
+ <http://example.org/ChristopherWren> <http://dbpedia.org/ontology/deathDate> "1723-02-25"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-euronews-8> .
+ <http://NobelPrize-euronews-8.com/blank#n90f37aaf61a34b18b778f2e6b93027cdb9> <http://www.w3.org/2000/01/rdf-schema#label> "sustainable construction"  <NobelPrize-euronews-8> .
+ <http://NobelPrize-euronews-8.com/blank#n90f37aaf61a34b18b778f2e6b93027cdb8> <http://www.w3.org/2000/01/rdf-schema#label> "strong social programme"  <NobelPrize-euronews-8> .
+ <http://NobelPrize-euronews-8.com/blank#n90f37aaf61a34b18b778f2e6b93027cdb4> <http://www.w3.org/2000/01/rdf-schema#label> "hair salon"  <NobelPrize-euronews-8> .
+ <http://example.org/StPaulsCathedral> <http://www.w3.org/2000/01/rdf-schema#label> "St Paul's Cathedral"  <NobelPrize-euronews-8> .
+ <http://example.org/OMA> <http://www.w3.org/2000/01/rdf-schema#label> "OMA"  <NobelPrize-euronews-8> .
+ <http://example.org/StPaulsCathedral> <http://dbpedia.org/ontology/location> <http://example.org/London> <NobelPrize-euronews-8> .
+ <http://dbpedia.org/resource/Spectre_(2015_film)> <http://dbpedia.org/ontology/releaseDate> "2015"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Amazon_Company> <http://www.w3.org/2000/01/rdf-schema#comment> "The Bond franchise was sold to Amazon as part of the MGM catalogue in 2021."  <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Barbara_Broccoli> <http://xmlns.com/foaf/0.1/name> "Barbara Broccoli"  <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Barbara_Broccoli> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Daniel_Craig> <http://xmlns.com/foaf/0.1/name> "Daniel Craig"  <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Daniel_Craig> <http://dbpedia.org/ontology/activeYearsStartYear> "2006"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/007_Road_to_a_Million> <http://dbpedia.org/ontology/presenter> <http://dbpedia.org/resource/Brian_Cox_(actor)> <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Daniel_Craig> <http://www.w3.org/2000/01/rdf-schema#comment> "Daniel Craig's first stint in the tuxedo of the famous fictional spy was in 2006 in the franchise reinvention Casino Royale."  <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Brian_Cox_(actor)> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Actor> <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Skyfall> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Michael_G_Wilson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Casino_Royale> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Christopher_Nolan> <http://www.w3.org/2000/01/rdf-schema#comment> "In September, there were rumours that Christopher Nolan was in talks to direct the next Bond film."  <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Spectre_(2015_film)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/007_Road_to_a_Million> <http://dbpedia.org/ontology/broadcastDate> "2022-11-10"^^<http://www.w3.org/2001/XMLSchema#date>  <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/No_Time_to_Die> <http://www.w3.org/2000/01/rdf-schema#label> "No Time To Die"  <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Barbara_Broccoli> <http://dbpedia.org/ontology/associatedWith> <http://dbpedia.org/resource/James_Bond_film_series> <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/007_Road_to_a_Million> <http://dbpedia.org/ontology/format> "Unscripted TV"  <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Brian_Cox_(actor)> <http://www.w3.org/2000/01/rdf-schema#comment> "Brian Cox, a Succession star, will host the global adventure series 007: Road to a Million."  <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Barbara_Broccoli> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Film_producer> <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Daniel_Craig> <http://dbpedia.org/ontology/characterRole> <http://dbpedia.org/resource/James_Bond> <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Michael_G_Wilson> <http://dbpedia.org/ontology/associatedWith> <http://dbpedia.org/resource/James_Bond_film_series> <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/No_Time_to_Die> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Skyfall> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Daniel_Craig> <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/James_Bond_film_series> <http://dbpedia.org/ontology/producer> <http://NobelPrize-euronews-9.com/blank#n62c909e227ae426f8cde67b18b116c1fb1>  <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/James_Bond_film_series> <http://dbpedia.org/ontology/producer> <http://NobelPrize-euronews-9.com/blank#n62c909e227ae426f8cde67b18b116c1fb2>  <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Michael_G_Wilson> <http://www.w3.org/2000/01/rdf-schema#comment> "Michael G Wilson helms the Bond films alongside his half-sister, Barbara Broccoli."  <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/007_Road_to_a_Million> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TelevisionShow> <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Spectre_(2015_film)> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Daniel_Craig> <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Amazon_Company> <http://dbpedia.org/ontology/acquisition> <http://dbpedia.org/resource/Metro-Goldwyn-Mayer> <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Spectre_(2015_film)> <http://www.w3.org/2000/01/rdf-schema#label> "Spectre"  <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Daniel_Craig> <http://dbpedia.org/ontology/activeYearsEndYear> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Christopher_Nolan> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Film_director> <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Prime_Video> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Service> <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/007_Road_to_a_Million> <http://dbpedia.org/ontology/broadcastNetwork> <http://dbpedia.org/resource/Prime_Video> <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/No_Time_to_Die> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Daniel_Craig> <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Christopher_Nolan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Prime_Video> <http://www.w3.org/2000/01/rdf-schema#comment> "007: Road to a Million will air on 10 November on Prime Video."  <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Quantum_of_Solace> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Daniel_Craig> <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Quantum_of_Solace> <http://www.w3.org/2000/01/rdf-schema#label> "Quantum of Solace"  <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Brian_Cox_(actor)> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Brian_Cox_(actor)> <http://xmlns.com/foaf/0.1/name> "Brian Cox"  <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/007_Road_to_a_Million> <http://dbpedia.org/ontology/prize> "£1 million"^^<http://www.w3.org/2001/XMLSchema#string>  <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/James_Bond_film_series> <http://www.w3.org/2000/01/rdf-schema#comment> "The James Bond film series is a long-running franchise that is being reinvented for the next chapter."  <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Prime_Video> <http://dbpedia.org/ontology/provider> <http://dbpedia.org/resource/Amazon_Company> <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Casino_Royale> <http://www.w3.org/2000/01/rdf-schema#label> "Casino Royale"  <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/No_Time_to_Die> <http://dbpedia.org/ontology/releaseDate> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Skyfall> <http://dbpedia.org/ontology/releaseDate> "2012"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-euronews-9> .
+ <http://NobelPrize-euronews-9.com/blank#n62c909e227ae426f8cde67b18b116c1fb2> <http://xmlns.com/foaf/0.1/name> "Michael G Wilson"  <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Michael_G_Wilson> <http://xmlns.com/foaf/0.1/name> "Michael G Wilson"  <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Amazon_Company> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Prime_Video> <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Daniel_Craig> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Actor> <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Quantum_of_Solace> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Movie> <NobelPrize-euronews-9> .
+ <http://NobelPrize-euronews-9.com/blank#n62c909e227ae426f8cde67b18b116c1fb1> <http://xmlns.com/foaf/0.1/name> "Barbara Broccoli"  <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Christopher_Nolan> <http://xmlns.com/foaf/0.1/name> "Christopher Nolan"  <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Daniel_Craig> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Michael_G_Wilson> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Film_producer> <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Barbara_Broccoli> <http://www.w3.org/2000/01/rdf-schema#comment> "Barbara Broccoli is a 007 franchise producer who revealed that executives haven’t even begun to map out the next chapter of the long-running franchise, which includes modernizing the series."  <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/007_Road_to_a_Million> <http://www.w3.org/2000/01/rdf-schema#comment> "007: Road to a Million is a global adventure series that will follow nine pairs of contestants, enduring physical and psychological challenges in Bond-inspired locations, competing to win a £1 million prize."  <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Quantum_of_Solace> <http://dbpedia.org/ontology/releaseDate> "2008"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Skyfall> <http://www.w3.org/2000/01/rdf-schema#label> "Skyfall"  <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Casino_Royale> <http://dbpedia.org/ontology/releaseDate> "2006"^^<http://www.w3.org/2001/XMLSchema#gYear>  <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Casino_Royale> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Daniel_Craig> <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/Amazon_Company> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <NobelPrize-euronews-9> .
+ <http://dbpedia.org/resource/James_Bond_film_series> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FilmSeries> <NobelPrize-euronews-9> .

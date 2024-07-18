@@ -1,0 +1,651 @@
+ <http://example.org/soccer/FemaleMuslimPlayers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Description> <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/Zurich> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Place> <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/HeadCover> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Description> <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/Jordan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Place> <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/JeromeValcke> <http://xmlns.com/foaf/0.1/title> "FIFA Secretary-General"  <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/HeadCoverTrial> <http://example.org/soccer/duration> "two-year"  <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/HeadCoverAuthorization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://example.org/soccer/FIFA> <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/MaleSikhPlayers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Description> <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/FIFA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/requestingOrganization> <http://www.w3.org/2000/01/rdf-schema#label> "organization that requested the trial"  <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/HeadCoverAuthorization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://example.org/soccer/HeadCover> <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/outcome> <http://www.w3.org/2000/01/rdf-schema#label> "outcome of the trial"  <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/HeadCoverTrial> <http://example.org/soccer/requestingOrganization> <http://example.org/soccer/AFC> <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/colourRequirement> <http://www.w3.org/2000/01/rdf-schema#label> "colour requirement"  <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/liftedYear> <http://www.w3.org/2000/01/rdf-schema#label> "year the ban was lifted"  <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/AFC> <http://xmlns.com/foaf/0.1/name> "Asian Football Confederation"  <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/FIFA> <http://xmlns.com/foaf/0.1/name> "FIFA"  <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/Canada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Place> <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/HeadCover> <http://example.org/soccer/basicDesign> "yes"  <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/MaleSikhPlayers> <http://www.w3.org/2000/01/rdf-schema#label> "male Sikh players"  <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/WomensUnder17WorldCup2016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Description> <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/WomensUnder17WorldCup2016> <http://www.w3.org/2000/01/rdf-schema#label> "2016 women’s under-17 World Cup"  <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/HeadCoverBan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Description> <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/HeadCover> <http://example.org/soccer/allowedFor> "religious purposes"  <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/Canada> <http://xmlns.com/foaf/0.1/name> "Canada"  <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/duration> <http://www.w3.org/2000/01/rdf-schema#label> "duration of the trial"  <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/hostsEvent> <http://www.w3.org/2000/01/rdf-schema#label> "hosts the event"  <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/FIFA> <http://www.w3.org/2000/01/rdf-schema#label> "Football’s world governing body"  <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/AFC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/HeadCoverTrial> <http://example.org/soccer/outcome> "successful"  <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/HeadCoverBan> <http://example.org/soccer/reasonForBan> "risk of injury to the head or neck"  <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/Zurich> <http://xmlns.com/foaf/0.1/name> "Zurich"  <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/authorizesHeadCover> <http://www.w3.org/2000/01/rdf-schema#label> "authorizes the wearing of head covers"  <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/Jordan> <http://xmlns.com/foaf/0.1/name> "Jordan"  <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/FemaleMuslimPlayers> <http://www.w3.org/2000/01/rdf-schema#label> "female Muslim players"  <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/HeadCoverAuthorization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/Jordan> <http://example.org/soccer/hostsEvent> <http://example.org/soccer/WomensUnder17WorldCup2016> <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/HeadCoverTrial> <http://www.w3.org/2000/01/rdf-schema#label> "head cover trial"  <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/MaleSikhPlayers> <http://example.org/soccer/allowedToWear> <http://example.org/soccer/HeadCover> <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/IFAB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/IFAB> <http://xmlns.com/foaf/0.1/based_near> <http://example.org/soccer/Zurich> <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/HeadCoverBan> <http://www.w3.org/2000/01/rdf-schema#label> "head cover ban"  <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/HeadCoverBan> <http://example.org/soccer/liftedYear> "2012"^^<http://www.w3.org/2001/XMLSchema#gYear>  <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/JeromeValcke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/reasonForBan> <http://www.w3.org/2000/01/rdf-schema#label> "reason for the ban"  <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/HeadCoverAuthorization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://example.org/soccer/authorizesHeadCover> <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/FemaleMuslimPlayers> <http://example.org/soccer/allowedToWear> <http://example.org/soccer/HeadCover> <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/basicDesign> <http://www.w3.org/2000/01/rdf-schema#label> "basic design"  <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/JeromeValcke> <http://xmlns.com/foaf/0.1/name> "Jerome Valcke"  <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/allowedToWear> <http://www.w3.org/2000/01/rdf-schema#label> "is allowed to wear"  <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/IFAB> <http://www.w3.org/2000/01/rdf-schema#label> "the sport’s lawmakers"  <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/IFAB> <http://xmlns.com/foaf/0.1/name> "International Football Association Board"  <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/HeadCover> <http://example.org/soccer/colourRequirement> "same as the team jersey"  <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/HeadCover> <http://www.w3.org/2000/01/rdf-schema#label> "head cover"  <FIFA-Al-Jazeera-0> .
+ <http://example.org/soccer/HeadCoverTrial> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Description> <FIFA-Al-Jazeera-0> .
+ <http://example.org/PSSI> <http://dbpedia.org/ontology/abbreviation> "PSSI"  <FIFA-Al-Jazeera-1> .
+ <http://example.org/JokoWidodo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-Al-Jazeera-1> .
+ <http://example.org/LetterFromFIFA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Document> <FIFA-Al-Jazeera-1> .
+ <http://example.org/JokoWidodo> <http://dbpedia.org/ontology/statement> "Based on the letter, thank God, Indonesian football is not sanctioned by FIFA"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-Al-Jazeera-1> .
+ <http://example.org/JokoWidodo> <http://xmlns.com/foaf/0.1/name> "Joko Widodo"  <FIFA-Al-Jazeera-1> .
+ <http://example.org/PersebayaSurabaya> <http://xmlns.com/foaf/0.1/name> "Persebaya Surabaya"  <FIFA-Al-Jazeera-1> .
+ <http://example.org/LetterFromFIFA> <http://dbpedia.org/ontology/mentions> <http://example.org/StadiumTragedy> <FIFA-Al-Jazeera-1> .
+ <http://example.org/Indonesia> <http://dbpedia.org/ontology/population> "277 million"^^<http://www.w3.org/2001/XMLSchema#integer>  <FIFA-Al-Jazeera-1> .
+ <http://example.org/StadiumTragedy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <FIFA-Al-Jazeera-1> .
+ <http://example.org/LetterFromFIFA> <http://dbpedia.org/ontology/mentions> <http://example.org/U20WorldCup> <FIFA-Al-Jazeera-1> .
+ <http://example.org/PSSI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <FIFA-Al-Jazeera-1> .
+ <http://example.org/StadiumSafetyImprovement> <http://dbpedia.org/ontology/participant> <http://dbpedia.org/resource/Asian_Football_Confederation> <FIFA-Al-Jazeera-1> .
+ <http://example.org/StadiumTragedy> <http://dbpedia.org/ontology/injury> "many died later of their injuries"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-Al-Jazeera-1> .
+ <http://example.org/JokoWidodo> <http://dbpedia.org/ontology/office> "President of Indonesia"  <FIFA-Al-Jazeera-1> .
+ <http://example.org/FIFA> <http://xmlns.com/foaf/0.1/name> "FIFA"  <FIFA-Al-Jazeera-1> .
+ <http://example.org/StadiumTragedy> <http://dbpedia.org/ontology/date> "2022-10-01"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-Al-Jazeera-1> .
+ <http://example.org/LetterFromFIFA> <http://dbpedia.org/ontology/mentions> <http://example.org/PSSI> <FIFA-Al-Jazeera-1> .
+ <http://example.org/Investigation> <http://dbpedia.org/ontology/subject> <http://example.org/StadiumTragedy> <FIFA-Al-Jazeera-1> .
+ <http://example.org/IndonesianDomesticLeague> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsLeague> <FIFA-Al-Jazeera-1> .
+ <http://example.org/GianniInfantino> <http://dbpedia.org/ontology/office> "President of FIFA"  <FIFA-Al-Jazeera-1> .
+ <http://example.org/Investigation> <http://dbpedia.org/ontology/agent> <http://example.org/JokoWidodo> <FIFA-Al-Jazeera-1> .
+ <http://example.org/U20WorldCup> <http://dbpedia.org/ontology/year> "next year"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-Al-Jazeera-1> .
+ <http://example.org/KanjuruhanStadium> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Malang_city> <FIFA-Al-Jazeera-1> .
+ <http://example.org/LetterFromFIFA> <http://dbpedia.org/ontology/author> <http://example.org/GianniInfantino> <FIFA-Al-Jazeera-1> .
+ <http://example.org/IndonesianDomesticLeague> <http://dbpedia.org/ontology/suspension> "Since last weekend's tragedy, the domestic league has been suspended"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-Al-Jazeera-1> .
+ <http://example.org/Investigation> <http://dbpedia.org/ontology/agent> <http://dbpedia.org/resource/Indonesian_National_Police> <FIFA-Al-Jazeera-1> .
+ <http://example.org/PersebayaSurabaya> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-Al-Jazeera-1> .
+ <http://example.org/Indonesia> <http://xmlns.com/foaf/0.1/name> "Indonesia"  <FIFA-Al-Jazeera-1> .
+ <http://example.org/StadiumSafetyImprovement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Project> <FIFA-Al-Jazeera-1> .
+ <http://example.org/LetterFromFIFA> <http://dbpedia.org/ontology/mentions> <http://example.org/FIFA> <FIFA-Al-Jazeera-1> .
+ <http://example.org/KanjuruhanStadium> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/East_Java> <FIFA-Al-Jazeera-1> .
+ <http://example.org/Investigation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <FIFA-Al-Jazeera-1> .
+ <http://example.org/StadiumTragedy> <http://dbpedia.org/ontology/location> <http://example.org/KanjuruhanStadium> <FIFA-Al-Jazeera-1> .
+ <http://example.org/StadiumSafetyImprovement> <http://dbpedia.org/ontology/participant> <http://example.org/Indonesia> <FIFA-Al-Jazeera-1> .
+ <http://example.org/PSSI> <http://xmlns.com/foaf/0.1/name> "Indonesia's national football association"  <FIFA-Al-Jazeera-1> .
+ <http://example.org/StadiumTragedy> <http://dbpedia.org/ontology/numberOfDeaths> "131"^^<http://www.w3.org/2001/XMLSchema#integer>  <FIFA-Al-Jazeera-1> .
+ <http://example.org/StadiumTragedy> <http://dbpedia.org/ontology/cause> "police use of tear gas"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-Al-Jazeera-1> .
+ <http://example.org/Investigation> <http://dbpedia.org/ontology/agent> <http://example.org/PSSI> <FIFA-Al-Jazeera-1> .
+ <http://example.org/AremaFC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-Al-Jazeera-1> .
+ <http://example.org/CriminalCharges> <http://dbpedia.org/ontology/subject> "six people, including three police officers"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-Al-Jazeera-1> .
+ <http://example.org/KanjuruhanStadium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Stadium> <FIFA-Al-Jazeera-1> .
+ <http://example.org/GianniInfantino> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-Al-Jazeera-1> .
+ <http://example.org/FIFA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <FIFA-Al-Jazeera-1> .
+ <http://example.org/JokoWidodo> <http://xmlns.com/foaf/0.1/accountName> "@jokowi"  <FIFA-Al-Jazeera-1> .
+ <http://example.org/Investigation> <http://dbpedia.org/ontology/agent> <http://dbpedia.org/resource/Indonesian_Ministry_of_Youth_and_Sports> <FIFA-Al-Jazeera-1> .
+ <http://example.org/JokoWidodo> <http://dbpedia.org/ontology/youtube> "https://www.youtube.com/user/presidentialoffice"  <FIFA-Al-Jazeera-1> .
+ <http://example.org/FIFA> <http://dbpedia.org/ontology/abbreviation> "FIFA"  <FIFA-Al-Jazeera-1> .
+ <http://example.org/LetterFromFIFA> <http://dbpedia.org/ontology/recipient> <http://example.org/JokoWidodo> <FIFA-Al-Jazeera-1> .
+ <http://example.org/CriminalCharges> <http://dbpedia.org/ontology/agent> <http://dbpedia.org/resource/Indonesian_National_Police> <FIFA-Al-Jazeera-1> .
+ <http://example.org/JokoWidodo> <http://dbpedia.org/ontology/tweet> "Saya telah menerima surat dari FIFA menyusul pembicaraan melalui telepon saya dengan Presiden FIFA, Gianni Infantino, beberapa waktu lalu. Bagaimana keputusan FIFA atas tragedi sepak bola di Stadion Kanjuruhan, 1 Oktober lalu? https://t.co/tsKciY53ZZ"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-Al-Jazeera-1> .
+ <http://example.org/CriminalCharges> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <FIFA-Al-Jazeera-1> .
+ <http://example.org/GianniInfantino> <http://xmlns.com/foaf/0.1/name> "Gianni Infantino"  <FIFA-Al-Jazeera-1> .
+ <http://example.org/U20WorldCup> <http://dbpedia.org/ontology/participant> <http://example.org/Indonesia> <FIFA-Al-Jazeera-1> .
+ <http://example.org/U20WorldCup> <http://dbpedia.org/ontology/continent> "five continents"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-Al-Jazeera-1> .
+ <http://example.org/CriminalCharges> <http://dbpedia.org/ontology/cause> "stadium did not have a proper operating certificate"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-Al-Jazeera-1> .
+ <http://example.org/Indonesia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <FIFA-Al-Jazeera-1> .
+ <http://example.org/AremaFC> <http://xmlns.com/foaf/0.1/name> "Arema FC"  <FIFA-Al-Jazeera-1> .
+ <http://example.org/StadiumSafetyImprovement> <http://dbpedia.org/ontology/objective> "to improve stadium safety to prevent another tragedy"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-Al-Jazeera-1> .
+ <http://example.org/U20WorldCup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsEvent> <FIFA-Al-Jazeera-1> .
+ <http://example.org/StadiumSafetyImprovement> <http://dbpedia.org/ontology/participant> <http://example.org/FIFA> <FIFA-Al-Jazeera-1> .
+ <http://example.org/LetterFromFIFA> <http://dbpedia.org/ontology/mentions> <http://example.org/Indonesia> <FIFA-Al-Jazeera-1> .
+ <http://example.org/KanjuruhanStadium> <http://xmlns.com/foaf/0.1/name> "Kanjuruhan football stadium"  <FIFA-Al-Jazeera-1> .
+ <http://example.org/CriminalCharges> <http://dbpedia.org/ontology/date> "2022-10-06"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-Al-Jazeera-1> .
+ <http://example.org/FIFA> <http://dbpedia.org/ontology/president> <http://example.org/GianniInfantino> <FIFA-Al-Jazeera-1> .
+ <http://example.org/U20WorldCup> <http://dbpedia.org/ontology/numberOfParticipants> "24"^^<http://www.w3.org/2001/XMLSchema#integer>  <FIFA-Al-Jazeera-1> .
+ <http://example.org/entities/ConfederationOfAfricanFootballPlan> <http://dbpedia.org/ontology/appeal> <http://FIFA-Al-Jazeera-2.com/blank#n3f45e3b6dbf24618af4ae94b085e4263b6>  <FIFA-Al-Jazeera-2> .
+ <http://FIFA-Al-Jazeera-2.com/blank#n3f45e3b6dbf24618af4ae94b085e4263b3> <http://dbpedia.org/ontology/description> "Payments made and received by entities owned by or connected to Musa Hassan Bility and his family"  <FIFA-Al-Jazeera-2> .
+ <http://fifa.com/entities/ElevenAgainstEbola> <http://dbpedia.org/ontology/participant> <http://dbpedia.org/resource/Cristiano_Ronaldo> <FIFA-Al-Jazeera-2> .
+ <http://FIFA-Al-Jazeera-2.com/blank#n3f45e3b6dbf24618af4ae94b085e4263b3> <http://dbpedia.org/ontology/beneficiary> <http://example.org/entities/MusaHassanBilityFamily> <FIFA-Al-Jazeera-2> .
+ <http://FIFA-Al-Jazeera-2.com/blank#n3f45e3b6dbf24618af4ae94b085e4263b1> <http://dbpedia.org/ontology/duration> "10 years"^^<http://www.w3.org/2001/XMLSchema#duration>  <FIFA-Al-Jazeera-2> .
+ <http://example.org/entities/MusaHassanBilityResistance> <http://dbpedia.org/ontology/description> "Resistance within CAF's top committee against a plan for FIFA's Samoura effectively running the Cairo-based organisation"  <FIFA-Al-Jazeera-2> .
+ <http://fifa.com/entities/FatmaSamoura> <http://xmlns.com/foaf/0.1/name> "Fatma Samoura"  <FIFA-Al-Jazeera-2> .
+ <http://fifa.com/entities/ElevenAgainstEbola> <http://dbpedia.org/ontology/organizer> <http://fifa.com/entities/FIFA> <FIFA-Al-Jazeera-2> .
+ <http://fifa.com/entities/FatmaSamoura> <http://dbpedia.org/ontology/secondment> <http://FIFA-Al-Jazeera-2.com/blank#n3f45e3b6dbf24618af4ae94b085e4263b5>  <FIFA-Al-Jazeera-2> .
+ <http://example.org/entities/LiberianFootballAssociation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <FIFA-Al-Jazeera-2> .
+ <http://example.org/entities/ConfederationOfAfricanFootball> <http://dbpedia.org/ontology/headquarters> <http://dbpedia.org/resource/Cairo> <FIFA-Al-Jazeera-2> .
+ <http://FIFA-Al-Jazeera-2.com/blank#n3f45e3b6dbf24618af4ae94b085e4263b6> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Switzerland> <FIFA-Al-Jazeera-2> .
+ <http://example.org/entities/LiberianFootballAssociation> <http://dbpedia.org/ontology/abbreviation> "LFA"  <FIFA-Al-Jazeera-2> .
+ <http://fifa.com/entities/FatmaSamoura> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-Al-Jazeera-2> .
+ <http://example.org/entities/ConfederationOfAfricanFootballPlan> <http://dbpedia.org/ontology/proponent> <http://fifa.com/entities/FIFA> <FIFA-Al-Jazeera-2> .
+ <http://FIFA-Al-Jazeera-2.com/blank#n3f45e3b6dbf24618af4ae94b085e4263b2> <http://dbpedia.org/ontology/findings> "Conflicts of interest, misappropriation of funds"  <FIFA-Al-Jazeera-2> .
+ <http://example.org/entities/MusaHassanBility> <http://dbpedia.org/ontology/ban> <http://FIFA-Al-Jazeera-2.com/blank#n3f45e3b6dbf24618af4ae94b085e4263b1>  <FIFA-Al-Jazeera-2> .
+ <http://fifa.com/entities/ElevenAgainstEbola> <http://dbpedia.org/ontology/partner> <http://dbpedia.org/resource/World_Health_Organization> <FIFA-Al-Jazeera-2> .
+ <http://FIFA-Al-Jazeera-2.com/blank#n3f45e3b6dbf24618af4ae94b085e4263b6> <http://dbpedia.org/ontology/appellant> <http://example.org/entities/MusaHassanBility> <FIFA-Al-Jazeera-2> .
+ <http://FIFA-Al-Jazeera-2.com/blank#n3f45e3b6dbf24618af4ae94b085e4263b2> <http://dbpedia.org/ontology/relatedTo> <http://FIFA-Al-Jazeera-2.com/blank#n3f45e3b6dbf24618af4ae94b085e4263b3>  <FIFA-Al-Jazeera-2> .
+ <http://FIFA-Al-Jazeera-2.com/blank#n3f45e3b6dbf24618af4ae94b085e4263b4> <http://dbpedia.org/ontology/campaign> <http://fifa.com/entities/ElevenAgainstEbola> <FIFA-Al-Jazeera-2> .
+ <http://fifa.com/entities/ElevenAgainstEbola> <http://dbpedia.org/ontology/startDate> "2014"^^<http://www.w3.org/2001/XMLSchema#gYear>  <FIFA-Al-Jazeera-2> .
+ <http://example.org/entities/ConfederationOfAfricanFootball> <http://dbpedia.org/ontology/abbreviation> "CAF"  <FIFA-Al-Jazeera-2> .
+ <http://FIFA-Al-Jazeera-2.com/blank#n3f45e3b6dbf24618af4ae94b085e4263b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Ban> <FIFA-Al-Jazeera-2> .
+ <http://FIFA-Al-Jazeera-2.com/blank#n3f45e3b6dbf24618af4ae94b085e4263b4> <http://dbpedia.org/ontology/description> "Misappropriation of the funds granted under FIFA's '11 against Ebola' campaign"  <FIFA-Al-Jazeera-2> .
+ <http://FIFA-Al-Jazeera-2.com/blank#n3f45e3b6dbf24618af4ae94b085e4263b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Secondment> <FIFA-Al-Jazeera-2> .
+ <http://example.org/entities/LiberianFootballAssociation> <http://dbpedia.org/ontology/financialAudit> <http://FIFA-Al-Jazeera-2.com/blank#n3f45e3b6dbf24618af4ae94b085e4263b2>  <FIFA-Al-Jazeera-2> .
+ <http://FIFA-Al-Jazeera-2.com/blank#n3f45e3b6dbf24618af4ae94b085e4263b6> <http://dbpedia.org/ontology/appealedTo> <http://dbpedia.org/resource/Court_of_Arbitration_for_Sport> <FIFA-Al-Jazeera-2> .
+ <http://FIFA-Al-Jazeera-2.com/blank#n3f45e3b6dbf24618af4ae94b085e4263b6> <http://dbpedia.org/ontology/purpose> "To declare invalid the agreement by which FIFA Secretary General Fatma Samoura will be sent on a secondment to overhaul the African governing body"  <FIFA-Al-Jazeera-2> .
+ <http://FIFA-Al-Jazeera-2.com/blank#n3f45e3b6dbf24618af4ae94b085e4263b1> <http://dbpedia.org/ontology/startDate> "190621061006926"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <FIFA-Al-Jazeera-2> .
+ <http://example.org/entities/ConfederationOfAfricanFootballPlan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Plan> <FIFA-Al-Jazeera-2> .
+ <http://example.org/entities/ConfederationOfAfricanFootballPlan> <http://dbpedia.org/ontology/legalStatus> "Breach of CAF's legal statutes"  <FIFA-Al-Jazeera-2> .
+ <http://FIFA-Al-Jazeera-2.com/blank#n3f45e3b6dbf24618af4ae94b085e4263b5> <http://dbpedia.org/ontology/duration> "6 months"^^<http://www.w3.org/2001/XMLSchema#duration>  <FIFA-Al-Jazeera-2> .
+ <http://FIFA-Al-Jazeera-2.com/blank#n3f45e3b6dbf24618af4ae94b085e4263b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FinancialActivity> <FIFA-Al-Jazeera-2> .
+ <http://FIFA-Al-Jazeera-2.com/blank#n3f45e3b6dbf24618af4ae94b085e4263b5> <http://dbpedia.org/ontology/employer> <http://example.org/entities/ConfederationOfAfricanFootball> <FIFA-Al-Jazeera-2> .
+ <http://example.org/entities/MusaHassanBility> <http://xmlns.com/foaf/0.1/name> "Musa Hassan Bility"  <FIFA-Al-Jazeera-2> .
+ <http://example.org/entities/MusaHassanBilityResistance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <FIFA-Al-Jazeera-2> .
+ <http://fifa.com/entities/ElevenAgainstEbola> <http://dbpedia.org/ontology/purpose> "Raising awareness of the medical emergency in Africa"  <FIFA-Al-Jazeera-2> .
+ <http://example.org/entities/MusaHassanBilityResistance> <http://dbpedia.org/ontology/against> <http://example.org/entities/ConfederationOfAfricanFootballPlan> <FIFA-Al-Jazeera-2> .
+ <http://FIFA-Al-Jazeera-2.com/blank#n3f45e3b6dbf24618af4ae94b085e4263b2> <http://dbpedia.org/ontology/auditOf> <http://example.org/entities/LiberianFootballAssociation> <FIFA-Al-Jazeera-2> .
+ <http://example.org/entities/LiberianFootballAssociation> <http://xmlns.com/foaf/0.1/name> "Liberian Football Association"  <FIFA-Al-Jazeera-2> .
+ <http://FIFA-Al-Jazeera-2.com/blank#n3f45e3b6dbf24618af4ae94b085e4263b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/LegalAppeal> <FIFA-Al-Jazeera-2> .
+ <http://FIFA-Al-Jazeera-2.com/blank#n3f45e3b6dbf24618af4ae94b085e4263b1> <http://dbpedia.org/ontology/reason> "Misappropriation of FIFA funds, receipt of benefits, conflict of interest"  <FIFA-Al-Jazeera-2> .
+ <http://example.org/entities/LiberianFootballAssociation> <http://dbpedia.org/ontology/leader> <http://example.org/entities/MusaHassanBility> <FIFA-Al-Jazeera-2> .
+ <http://FIFA-Al-Jazeera-2.com/blank#n3f45e3b6dbf24618af4ae94b085e4263b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FinancialActivity> <FIFA-Al-Jazeera-2> .
+ <http://example.org/entities/ConfederationOfAfricanFootball> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <FIFA-Al-Jazeera-2> .
+ <http://example.org/entities/MusaHassanBility> <http://dbpedia.org/ontology/occupation> <http://fifa.com/entities/FootballOfficial> <FIFA-Al-Jazeera-2> .
+ <http://example.org/entities/MusaHassanBilityResistance> <http://dbpedia.org/ontology/participant> <http://example.org/entities/MusaHassanBility> <FIFA-Al-Jazeera-2> .
+ <http://FIFA-Al-Jazeera-2.com/blank#n3f45e3b6dbf24618af4ae94b085e4263b2> <http://dbpedia.org/ontology/auditor> <http://fifa.com/entities/FIFA> <FIFA-Al-Jazeera-2> .
+ <http://FIFA-Al-Jazeera-2.com/blank#n3f45e3b6dbf24618af4ae94b085e4263b3> <http://dbpedia.org/ontology/agent> <http://example.org/entities/MusaHassanBility> <FIFA-Al-Jazeera-2> .
+ <http://FIFA-Al-Jazeera-2.com/blank#n3f45e3b6dbf24618af4ae94b085e4263b5> <http://dbpedia.org/ontology/description> "Overhaul the African governing body"  <FIFA-Al-Jazeera-2> .
+ <http://FIFA-Al-Jazeera-2.com/blank#n3f45e3b6dbf24618af4ae94b085e4263b1> <http://dbpedia.org/ontology/authority> <http://fifa.com/entities/EthicsCommittee> <FIFA-Al-Jazeera-2> .
+ <http://fifa.com/entities/FatmaSamoura> <http://dbpedia.org/ontology/occupation> <http://fifa.com/entities/SecretaryGeneral> <FIFA-Al-Jazeera-2> .
+ <http://FIFA-Al-Jazeera-2.com/blank#n3f45e3b6dbf24618af4ae94b085e4263b1> <http://dbpedia.org/ontology/violatedRule> <http://fifa.com/entities/CodeOfEthics> <FIFA-Al-Jazeera-2> .
+ <http://FIFA-Al-Jazeera-2.com/blank#n3f45e3b6dbf24618af4ae94b085e4263b2> <http://dbpedia.org/ontology/relatedTo> <http://FIFA-Al-Jazeera-2.com/blank#n3f45e3b6dbf24618af4ae94b085e4263b4>  <FIFA-Al-Jazeera-2> .
+ <http://FIFA-Al-Jazeera-2.com/blank#n3f45e3b6dbf24618af4ae94b085e4263b5> <http://dbpedia.org/ontology/employee> <http://fifa.com/entities/FatmaSamoura> <FIFA-Al-Jazeera-2> .
+ <http://FIFA-Al-Jazeera-2.com/blank#n3f45e3b6dbf24618af4ae94b085e4263b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/FinancialAudit> <FIFA-Al-Jazeera-2> .
+ <http://example.org/entities/ConfederationOfAfricanFootball> <http://dbpedia.org/ontology/executive> <http://example.org/entities/MusaHassanBility> <FIFA-Al-Jazeera-2> .
+ <http://example.org/entities/ConfederationOfAfricanFootball> <http://xmlns.com/foaf/0.1/name> "Confederation of African Football"  <FIFA-Al-Jazeera-2> .
+ <http://fifa.com/entities/FatmaSamoura> <http://dbpedia.org/ontology/nationality> <http://dbpedia.org/resource/Senegal> <FIFA-Al-Jazeera-2> .
+ <http://fifa.com/entities/ElevenAgainstEbola> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Campaign> <FIFA-Al-Jazeera-2> .
+ <http://example.org/entities/MusaHassanBility> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-Al-Jazeera-2> .
+ <http://FIFA-Al-Jazeera-2.com/blank#n3f45e3b6dbf24618af4ae94b085e4263b1> <http://dbpedia.org/ontology/agent> <http://example.org/entities/MusaHassanBility> <FIFA-Al-Jazeera-2> .
+ <http://example.org/fifa/WorldCup2022> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Qatar> <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/FIFA> <http://dbpedia.org/ontology/revenueIncrease> "1000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/Algorand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/Algorand> <http://dbpedia.org/ontology/sponsor> <http://example.org/fifa/WorldCup2022> <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/Ooredoo> <http://dbpedia.org/ontology/sponsor> <http://example.org/fifa/WorldCup2022> <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/WorldCup2023> <http://dbpedia.org/ontology/organizer> <http://example.org/fifa/FIFA> <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/WorldCup2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/Wanda> <http://dbpedia.org/ontology/sponsor> <http://example.org/fifa/WorldCup2026> <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/Fox> <http://dbpedia.org/ontology/broadcastRightsHolder> <http://example.org/fifa/WorldCup2022> <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/WorldCup2018> <http://dbpedia.org/ontology/revenue> "6400000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/QatarWorldCupTotalPrizePot> <http://dbpedia.org/ontology/money> "440000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/Ooredoo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/CocaCola> <http://dbpedia.org/ontology/sponsor> <http://example.org/fifa/WorldCup2026> <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/Adidas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/WorldCup2018> <http://dbpedia.org/ontology/organizer> <http://example.org/fifa/FIFA> <FIFA-Al-Jazeera-3> .
+ <http://FIFA-Al-Jazeera-3.com/blank#n62eaff118a7540d2b0ac8c3578bea244b2> <http://dbpedia.org/ontology/endDate> "2015-12-21"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/WorldCup2026> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/United_States> <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/QatarEnergy> <http://dbpedia.org/ontology/sponsor> <http://example.org/fifa/WorldCup2022> <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/BeIN_Sports> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/WorldCup2023> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/New_Zealand> <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/WorldCup2018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/QatarEnergy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/FIFA> <http://dbpedia.org/ontology/president> <http://FIFA-Al-Jazeera-3.com/blank#n62eaff118a7540d2b0ac8c3578bea244b1>  <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/QNB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/FIFA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/QNB> <http://dbpedia.org/ontology/sponsor> <http://example.org/fifa/WorldCup2022> <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/BeIN_Sports> <http://dbpedia.org/ontology/broadcastRightsHolder> <http://example.org/fifa/WorldCup2022> <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/CocaCola> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/WorldCup2023> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Australia> <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/Wanda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/WorldCup2022> <http://dbpedia.org/ontology/organizer> <http://example.org/fifa/FIFA> <FIFA-Al-Jazeera-3> .
+ <http://FIFA-Al-Jazeera-3.com/blank#n62eaff118a7540d2b0ac8c3578bea244b2> <http://dbpedia.org/ontology/startDate> "2011-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/WorldCup2026> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Mexico> <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/Fox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/WorldCup2026> <http://dbpedia.org/ontology/numberOfTeams> "48"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/WorldCup2026> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Canada> <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/WorldCup2022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/FIFA> <http://xmlns.com/foaf/0.1/name> "FIFA"  <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/QatarWorldCupWinnerPrize> <http://dbpedia.org/ontology/money> "44000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/QatarWorldCupWinnerPrize> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Prize> <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/Adidas> <http://dbpedia.org/ontology/sponsor> <http://example.org/fifa/WorldCup2026> <FIFA-Al-Jazeera-3> .
+ <http://FIFA-Al-Jazeera-3.com/blank#n62eaff118a7540d2b0ac8c3578bea244b1> <http://dbpedia.org/ontology/presidencyPeriod> <http://FIFA-Al-Jazeera-3.com/blank#n62eaff118a7540d2b0ac8c3578bea244b2>  <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/CryptoDotCom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/FIFA> <http://dbpedia.org/ontology/revenue> "7500000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/WorldCup2022> <http://dbpedia.org/ontology/previousEvent> <http://example.org/fifa/WorldCup2018> <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/CryptoDotCom> <http://dbpedia.org/ontology/sponsor> <http://example.org/fifa/WorldCup2022> <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/WorldCup2018> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Russia> <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/QatarWorldCupTotalPrizePot> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Prize> <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/WorldCup2026> <http://dbpedia.org/ontology/organizer> <http://example.org/fifa/FIFA> <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/WorldCup2026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <FIFA-Al-Jazeera-3> .
+ <http://example.org/fifa/WorldCup2022> <http://dbpedia.org/ontology/revenue> "7500000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <FIFA-Al-Jazeera-3> .
+ <http://FIFA-Al-Jazeera-3.com/blank#n62eaff118a7540d2b0ac8c3578bea244b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-Al-Jazeera-3> .
+ <http://FIFA-Al-Jazeera-3.com/blank#n62eaff118a7540d2b0ac8c3578bea244b1> <http://xmlns.com/foaf/0.1/name> "Sepp Blatter"  <FIFA-Al-Jazeera-3> .
+ <http://example.org/ontology#ClubWorldCup2025> <http://example.org/ontology#numberOfTeams> "32"^^<http://www.w3.org/2001/XMLSchema#integer>  <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#Canada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Country> <FIFA-Al-Jazeera-4> .
+ <http://FIFA-Al-Jazeera-4.com/blank#ncd875342c0b9418594fff7de81817b79b3> <http://example.org/ontology#country> "Rwanda"  <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#ContinentalChampionsCompetition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FootballEvent> <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#FIFA> <http://example.org/ontology#congressLocation> <http://FIFA-Al-Jazeera-4.com/blank#ncd875342c0b9418594fff7de81817b79b3>  <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#AnnualCompetition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FootballEvent> <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#SeattleSounders> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FootballClub> <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#HostCitiesList> <http://example.org/ontology#numberOfCities> "11"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-Al-Jazeera-4> .
+ <http://FIFA-Al-Jazeera-4.com/blank#ncd875342c0b9418594fff7de81817b79b3> <http://example.org/ontology#city> "Kigali"  <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#Chelsea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FootballClub> <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#WorldCup2026> <http://example.org/ontology#matchesIncrease> "40"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#FIFA> <http://example.org/ontology#president> <http://example.org/ontology#GianniInfantino> <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#WorldCup2026> <http://example.org/ontology#format> <http://example.org/ontology#TwelveGroupsOfFour> <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#Flamengo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FootballClub> <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#ConfederationChampionsList> <http://example.org/ontology#includes> <http://example.org/ontology#Flamengo> <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#UnitedStates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Country> <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#WorldCup2026> <http://example.org/ontology#numberOfTeams> "48"^^<http://www.w3.org/2001/XMLSchema#integer>  <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#First48TeamTournament> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#TournamentFormat> <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#FIFA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#First48TeamTournament> <http://example.org/ontology#previousFormat> <http://example.org/ontology#SixteenGroupsOfThree> <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#First48TeamTournament> <http://example.org/ontology#hostCities> <http://example.org/ontology#HostCitiesList> <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#ConfederationChampionsList> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#TeamList> <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#HostCitiesList> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#HostCities> <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#AnnualCompetition> <http://example.org/ontology#currentTeams> "7"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#ContinentalChampionsCompetition> <http://example.org/ontology#startDate> "2024"^^<http://www.w3.org/2001/XMLSchema#gYear>  <FIFA-Al-Jazeera-4> .
+ <http://FIFA-Al-Jazeera-4.com/blank#ncd875342c0b9418594fff7de81817b79b2> <http://example.org/ontology#champion> <http://example.org/ontology#UEFAChampionsLeagueWinner> <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#ConfederationChampionsList> <http://example.org/ontology#includes> <http://example.org/ontology#RealMadrid> <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#Palmeiras> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FootballClub> <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#First48TeamTournament> <http://example.org/ontology#stadiumType> "NFL stadiums"  <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#WorldCup2026> <http://example.org/ontology#coHostedBy> <http://example.org/ontology#UnitedStates> <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#FIFA> <http://xmlns.com/foaf/0.1/name> "FIFA"  <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#OtherContinentalChampions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FootballClub> <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#WorldCup2026> <http://example.org/ontology#finalistsPlay> "8 games"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#ConfederationChampionsList> <http://example.org/ontology#includes> <http://example.org/ontology#Palmeiras> <FIFA-Al-Jazeera-4> .
+ <http://FIFA-Al-Jazeera-4.com/blank#ncd875342c0b9418594fff7de81817b79b1> <http://example.org/ontology#bestThirdPlacedTeams> "8"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#UEFAChampionsLeagueWinner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FootballClub> <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#ConfederationChampionsList> <http://example.org/ontology#includes> <http://example.org/ontology#Chelsea> <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#WorldCup2026> <http://example.org/ontology#coHostedBy> <http://example.org/ontology#Canada> <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#HostCitiesList> <http://example.org/ontology#inCountry> <http://example.org/ontology#UnitedStates> <FIFA-Al-Jazeera-4> .
+ <http://FIFA-Al-Jazeera-4.com/blank#ncd875342c0b9418594fff7de81817b79b2> <http://example.org/ontology#playoffWinners> <http://example.org/ontology#OtherContinentalChampions> <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#SixteenGroupsOfThree> <http://example.org/ontology#rejected> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#HostCitiesList> <http://example.org/ontology#numberOfCities> "3"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#Mexico> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Country> <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#HostCitiesList> <http://example.org/ontology#inCountry> <http://example.org/ontology#Canada> <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#SixteenGroupsOfThree> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#TournamentFormat> <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#WorldCup2026> <http://example.org/ontology#numberOfMatches> "104"^^<http://www.w3.org/2001/XMLSchema#integer>  <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#WorldCup2026> <http://example.org/ontology#coHostedBy> <http://example.org/ontology#Mexico> <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#ContinentalChampionsCompetition> <http://example.org/ontology#participants> <http://FIFA-Al-Jazeera-4.com/blank#ncd875342c0b9418594fff7de81817b79b2>  <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#WorldCup2026> <http://example.org/ontology#additionalTickets> "1.5 million"  <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#ClubWorldCup2025> <http://example.org/ontology#frequency> "every four years"  <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#HostCitiesList> <http://example.org/ontology#numberOfCities> "2"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#WorldCup2026> <http://example.org/ontology#location> "North America"  <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#ConfederationChampionsList> <http://example.org/ontology#includes> <http://example.org/ontology#SeattleSounders> <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#HostCitiesList> <http://example.org/ontology#inCountry> <http://example.org/ontology#Mexico> <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#WorldCup2026> <http://example.org/ontology#inauguralEvent> <http://example.org/ontology#First48TeamTournament> <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#ClubWorldCup2025> <http://example.org/ontology#startDate> "2025-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#ClubWorldCup2025> <http://example.org/ontology#eligibleTeams> <http://example.org/ontology#ConfederationChampionsList> <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#AnnualCompetition> <http://example.org/ontology#discontinuedAfter> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#GianniInfantino> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#TwelveGroupsOfFour> <http://example.org/ontology#advancementCriteria> <http://FIFA-Al-Jazeera-4.com/blank#ncd875342c0b9418594fff7de81817b79b1>  <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#WorldCup2026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FootballEvent> <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#ClubWorldCup2025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FootballEvent> <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#GianniInfantino> <http://xmlns.com/foaf/0.1/name> "Gianni Infantino"  <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#TwelveGroupsOfFour> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#TournamentFormat> <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#RealMadrid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FootballClub> <FIFA-Al-Jazeera-4> .
+ <http://FIFA-Al-Jazeera-4.com/blank#ncd875342c0b9418594fff7de81817b79b1> <http://example.org/ontology#topTeams> "2"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#TwelveGroupsOfFour> <http://example.org/ontology#groupStageMatches> "3"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-Al-Jazeera-4> .
+ <http://example.org/ontology#WorldCup2026> <http://example.org/ontology#expectedRevenue> "$11bn"  <FIFA-Al-Jazeera-4> .
+ <http://example.org/FIFA_Club_World_Cup> <http://dbpedia.org/ontology/participant> <http://example.org/Wydad_AC> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Flamengo> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Brazil> <FIFA-Al-Jazeera-5> .
+ <http://example.org/FIFA_Club_World_Cup> <http://dbpedia.org/ontology/participant> <http://example.org/Seattle_Sounders> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Gabriel_Barbosa> <http://dbpedia.org/ontology/goalsScored> "65"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-Al-Jazeera-5> .
+ <http://example.org/Seattle_Sounders> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/United_States> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Salem_al-Dawsari> <http://dbpedia.org/ontology/team> <http://example.org/Al_Hilal> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Real_Madrid> <http://xmlns.com/foaf/0.1/name> "Real Madrid"  <FIFA-Al-Jazeera-5> .
+ <http://example.org/Ibn_Batouta_Stadium> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Tangier> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Karim_Benzema> <http://xmlns.com/foaf/0.1/name> "Karim Benzema"  <FIFA-Al-Jazeera-5> .
+ <http://example.org/FIFA_Club_World_Cup> <http://dbpedia.org/ontology/participant> <http://example.org/Flamengo> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Real_Madrid> <http://dbpedia.org/ontology/isPartOf> <http://example.org/FIFA_Club_World_Cup> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Al_Hilal> <http://xmlns.com/foaf/0.1/name> "Al Hilal"  <FIFA-Al-Jazeera-5> .
+ <http://example.org/FIFA_Club_World_Cup> <http://dbpedia.org/ontology/participant> <http://example.org/Real_Madrid> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Seattle_Sounders> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Al_Hilal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Gabriel_Barbosa> <http://dbpedia.org/ontology/team> <http://example.org/Flamengo> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Prince_Moulay_Abdellah_Stadium> <http://xmlns.com/foaf/0.1/name> "Prince Moulay Abdellah Stadium"  <FIFA-Al-Jazeera-5> .
+ <http://example.org/Gabriel_Barbosa> <http://xmlns.com/foaf/0.1/name> "Gabriel Barbosa"  <FIFA-Al-Jazeera-5> .
+ <http://example.org/Real_Madrid> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Spain> <FIFA-Al-Jazeera-5> .
+ <http://example.org/FIFA_Club_World_Cup> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Morocco> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Prince_Moulay_Abdellah_Stadium> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Rabat> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Seattle_Sounders> <http://xmlns.com/foaf/0.1/name> "Seattle Sounders"  <FIFA-Al-Jazeera-5> .
+ <http://example.org/Vinicius_Junior> <http://xmlns.com/foaf/0.1/name> "Vinicius Junior"  <FIFA-Al-Jazeera-5> .
+ <http://example.org/Auckland_City> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Flamengo> <http://dbpedia.org/ontology/isPartOf> <http://example.org/FIFA_Club_World_Cup> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Karim_Benzema> <http://dbpedia.org/ontology/team> <http://example.org/Real_Madrid> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Arturo_Vidal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Salem_al-Dawsari> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Arturo_Vidal> <http://xmlns.com/foaf/0.1/name> "Arturo Vidal"  <FIFA-Al-Jazeera-5> .
+ <http://example.org/FIFA_Club_World_Cup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Tournament> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Flamengo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Prince_Moulay_Abdellah_Stadium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Stadium> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Ibn_Batouta_Stadium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Stadium> <FIFA-Al-Jazeera-5> .
+ <http://example.org/FIFA_Club_World_Cup> <http://dbpedia.org/ontology/format> "Club competition"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-Al-Jazeera-5> .
+ <http://example.org/Real_Madrid> <http://dbpedia.org/ontology/championships> "4"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-Al-Jazeera-5> .
+ <http://example.org/Al_Hilal> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Saudi_Arabia> <FIFA-Al-Jazeera-5> .
+ <http://example.org/FIFA_Club_World_Cup> <http://dbpedia.org/ontology/edition> "19th"^^<http://www.w3.org/2001/XMLSchema#string>  <FIFA-Al-Jazeera-5> .
+ <http://example.org/Seattle_Sounders> <http://dbpedia.org/ontology/isPartOf> <http://example.org/FIFA_Club_World_Cup> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Al_Ahly> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Wydad_AC> <http://dbpedia.org/ontology/isPartOf> <http://example.org/FIFA_Club_World_Cup> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Vinicius_Junior> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Al_Hilal> <http://dbpedia.org/ontology/isPartOf> <http://example.org/FIFA_Club_World_Cup> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Ibn_Batouta_Stadium> <http://xmlns.com/foaf/0.1/name> "Ibn Batouta Stadium"  <FIFA-Al-Jazeera-5> .
+ <http://example.org/Real_Madrid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Al_Ahly> <http://dbpedia.org/ontology/isPartOf> <http://example.org/FIFA_Club_World_Cup> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Auckland_City> <http://dbpedia.org/ontology/isPartOf> <http://example.org/FIFA_Club_World_Cup> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Auckland_City> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/New_Zealand> <FIFA-Al-Jazeera-5> .
+ <http://example.org/FIFA_Club_World_Cup> <http://dbpedia.org/ontology/startDate> "2023-02-01"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-Al-Jazeera-5> .
+ <http://example.org/Ibn_Batouta_Stadium> <http://dbpedia.org/ontology/capacity> "65000"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-Al-Jazeera-5> .
+ <http://example.org/Gabriel_Barbosa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Wydad_AC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Al_Ahly> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Egypt> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Arturo_Vidal> <http://dbpedia.org/ontology/team> <http://example.org/Flamengo> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Gabriel_Barbosa> <http://dbpedia.org/ontology/appearances> "105"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-Al-Jazeera-5> .
+ <http://example.org/FIFA_Club_World_Cup> <http://dbpedia.org/ontology/participant> <http://example.org/Auckland_City> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Al_Ahly> <http://xmlns.com/foaf/0.1/name> "Al Ahly"  <FIFA-Al-Jazeera-5> .
+ <http://example.org/Salem_al-Dawsari> <http://xmlns.com/foaf/0.1/name> "Salem al-Dawsari"  <FIFA-Al-Jazeera-5> .
+ <http://example.org/FIFA_Club_World_Cup> <http://dbpedia.org/ontology/participant> <http://example.org/Al_Ahly> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Flamengo> <http://xmlns.com/foaf/0.1/name> "Flamengo"  <FIFA-Al-Jazeera-5> .
+ <http://example.org/Wydad_AC> <http://xmlns.com/foaf/0.1/name> "Wydad AC"  <FIFA-Al-Jazeera-5> .
+ <http://example.org/Wydad_AC> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Morocco> <FIFA-Al-Jazeera-5> .
+ <http://example.org/FIFA_Club_World_Cup> <http://dbpedia.org/ontology/participant> <http://example.org/Al_Hilal> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Vinicius_Junior> <http://dbpedia.org/ontology/team> <http://example.org/Real_Madrid> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Karim_Benzema> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-Al-Jazeera-5> .
+ <http://example.org/Prince_Moulay_Abdellah_Stadium> <http://dbpedia.org/ontology/capacity> "52000"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-Al-Jazeera-5> .
+ <http://example.org/Auckland_City> <http://xmlns.com/foaf/0.1/name> "Auckland City"  <FIFA-Al-Jazeera-5> .
+ <http://example.org/ontology/1.0#GianniInfantino> <http://example.org/ontology/1.0#nationality> "Swiss-Italian"  <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#GianniInfantino> <http://fifa.com/ontology/1.0#nextWomenWorldCupLocation> <http://example.org/ontology/1.0#AustraliaNewZealand> <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#NorthAmerica> <http://www.w3.org/2000/01/rdf-schema#label> "North America"  <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#FIFA73rdCongress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/1.0#Event> <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#Kigali> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/1.0#City> <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#GianniInfantino> <http://fifa.com/ontology/1.0#termStart> "2016"^^<http://www.w3.org/2001/XMLSchema#gYear>  <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#GianniInfantino> <http://fifa.com/ontology/1.0#termEnd> "2027"^^<http://www.w3.org/2001/XMLSchema#gYear>  <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#GianniInfantino> <http://fifa.com/ontology/1.0#position> "President"  <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#JosephBlatter> <http://fifa.com/ontology/1.0#position> "Former President"  <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#Norway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/1.0#Country> <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#Germany> <http://fifa.com/ontology/1.0#supportForInfantino> "no active support"  <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#GianniInfantino> <http://example.org/ontology/1.0#profession> "lawyer"  <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#GianniInfantino> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#GianniInfantino> <http://xmlns.com/foaf/0.1/name> "Gianni Infantino"  <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#JosephBlatter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#GianniInfantino> <http://fifa.com/ontology/1.0#nextMenWorldCupLocation> <http://example.org/ontology/1.0#NorthAmerica> <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#JosephBlatter> <http://xmlns.com/foaf/0.1/name> "Joseph Blatter"  <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#GianniInfantino> <http://fifa.com/ontology/1.0#reElectionEvent> <http://example.org/ontology/1.0#FIFA73rdCongress> <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#GianniInfantino> <http://fifa.com/ontology/1.0#womenWorldCupTeams> "32"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#JosephBlatter> <http://fifa.com/ontology/1.0#suspensionStatus> "suspended"  <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#Sweden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/1.0#Country> <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#AustraliaNewZealand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/1.0#Region> <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#GianniInfantino> <http://example.org/ontology/1.0#age> "52"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#GianniInfantino> <http://fifa.com/ontology/1.0#reElectionLocation> <http://example.org/ontology/1.0#Kigali> <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#GianniInfantino> <http://fifa.com/ontology/1.0#incomeProjection> "11bn"^^<http://www.w3.org/2001/XMLSchema#decimal>  <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#GianniInfantino> <http://fifa.com/ontology/1.0#reElectionDate> "2023-03-16"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#GianniInfantino> <http://fifa.com/ontology/1.0#menWorldCupTeams> "48"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#Kigali> <http://example.org/ontology/1.0#country> <http://example.org/ontology/1.0#Rwanda> <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#Germany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/1.0#Country> <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#Norway> <http://fifa.com/ontology/1.0#supportForInfantino> "no active support"  <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#Sweden> <http://fifa.com/ontology/1.0#supportForInfantino> "no active support"  <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#FIFA73rdCongress> <http://www.w3.org/2000/01/rdf-schema#label> "73rd FIFA Congress"  <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#GianniInfantino> <http://fifa.com/ontology/1.0#reElectionConfirmedBy> "acclamation"  <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#NorthAmerica> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/1.0#Region> <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#AustraliaNewZealand> <http://www.w3.org/2000/01/rdf-schema#label> "Australia and New Zealand"  <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#GianniInfantino> <http://fifa.com/ontology/1.0#previousIncome> "7.5bn"^^<http://www.w3.org/2001/XMLSchema#decimal>  <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#FIFA73rdCongress> <http://example.org/ontology/1.0#location> <http://example.org/ontology/1.0#Kigali> <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#Rwanda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/1.0#Country> <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#Kigali> <http://www.w3.org/2000/01/rdf-schema#label> "Kigali"  <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#FIFA73rdCongress> <http://example.org/ontology/1.0#date> "2023-03-16"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-Al-Jazeera-6> .
+ <http://example.org/ontology/1.0#Rwanda> <http://www.w3.org/2000/01/rdf-schema#label> "Rwanda"  <FIFA-Al-Jazeera-6> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-Al-Jazeera-7> .
+ <http://example.org/BorisJohnson> <http://xmlns.com/foaf/0.1/name> "Boris Johnson"  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b1> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://dbpedia.org/resource/Real_Madrid_CF> <FIFA-Al-Jazeera-7> .
+ <http://example.org/UEFA> <http://dbpedia.org/ontology/leader> <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b15>  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b15> <http://xmlns.com/foaf/0.1/name> "Aleksander Ceferin"  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b18> <http://schema.org/datePublished> "2021-04-20"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b13> <http://xmlns.com/foaf/0.1/name> "Inter_Milan"  <FIFA-Al-Jazeera-7> .
+ <http://example.org/BorisJohnson> <http://xmlns.com/foaf/0.1/made> <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b18>  <FIFA-Al-Jazeera-7> .
+ <http://example.org/JurgenKlopp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statement> <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b5> <http://xmlns.com/foaf/0.1/name> "Manchester_City"  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b3> <http://xmlns.com/foaf/0.1/name> "Arsenal"  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-Al-Jazeera-7> .
+ <http://example.org/FIFA> <http://dbpedia.org/ontology/leader> <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b14>  <FIFA-Al-Jazeera-7> .
+ <http://example.org/SuperLeague> <http://dbpedia.org/ontology/participant> <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b7>  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b16> <http://schema.org/text> "At FIFA we can only and strongly disapprove the creation of the Super League, of a Super League which is a closed shop, a breakaway from the current institutions, from the leagues, from the associations, from UEFA, and from FIFA."  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-Al-Jazeera-7> .
+ <http://example.org/UEFA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b16> <http://schema.org/datePublished> "2021-04-20"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b19> <http://schema.org/datePublished> "2021-04-20"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b6> <http://xmlns.com/foaf/0.1/name> "Manchester_United"  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b20> <http://schema.org/text> "Whenever there is a change, there are always people who oppose it … and we are doing this to save football at this critical moment."  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b15> <http://schema.org/jobTitle> "President"  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-Al-Jazeera-7> .
+ <http://example.org/SuperLeague> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsEvent> <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b20> <http://schema.org/about> <http://example.org/SuperLeague> <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statement> <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b10> <http://xmlns.com/foaf/0.1/name> "Real_Madrid"  <FIFA-Al-Jazeera-7> .
+ <http://example.org/SuperLeague> <http://schema.org/eventStatus> "Proposed"  <FIFA-Al-Jazeera-7> .
+ <http://example.org/GianniInfantino> <http://schema.org/jobTitle> "FIFA President"  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b21> <http://schema.org/datePublished> "2021-04-19"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-Al-Jazeera-7> .
+ <http://example.org/AleksanderCeferin> <http://xmlns.com/foaf/0.1/name> "Aleksander Ceferin"  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b7> <http://xmlns.com/foaf/0.1/name> "Tottenham_Hotspur"  <FIFA-Al-Jazeera-7> .
+ <http://example.org/SuperLeague> <http://dbpedia.org/ontology/participant> <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b2>  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b11> <http://xmlns.com/foaf/0.1/name> "Juventus"  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b18> <http://schema.org/text> "It is your game – and you can rest assured that I’m going to do everything I can to give this ludicrous plan a straight red."  <FIFA-Al-Jazeera-7> .
+ <http://example.org/AleksanderCeferin> <http://xmlns.com/foaf/0.1/made> <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b17>  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b14> <http://xmlns.com/foaf/0.1/name> "Gianni Infantino"  <FIFA-Al-Jazeera-7> .
+ <http://example.org/JurgenKlopp> <http://xmlns.com/foaf/0.1/made> <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b21>  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b21> <http://schema.org/text> "The competition's closed nature was not right."  <FIFA-Al-Jazeera-7> .
+ <http://example.org/NasserAlKhelaifi> <http://xmlns.com/foaf/0.1/name> "Nasser Al-Khelaifi"  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b4> <http://xmlns.com/foaf/0.1/name> "Chelsea"  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b2> <http://xmlns.com/foaf/0.1/name> "Liverpool"  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b19> <http://schema.org/text> "We believe that any proposal without the support of UEFA – an organisation that has been working to progress the interests of European football for nearly 70 years – does not resolve the issues currently facing the football community, but is instead driven by self-interest."  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b1> <http://schema.org/jobTitle> "President"  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b17> <http://schema.org/about> <http://example.org/SuperLeague> <FIFA-Al-Jazeera-7> .
+ <http://example.org/NasserAlKhelaifi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b17> <http://schema.org/datePublished> "2021-04-19"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statement> <FIFA-Al-Jazeera-7> .
+ <http://example.org/SuperLeague> <http://dbpedia.org/ontology/participant> <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b10>  <FIFA-Al-Jazeera-7> .
+ <http://example.org/FlorentinoPerez> <http://xmlns.com/foaf/0.1/isPrimaryTopicOf> <http://dbpedia.org/resource/Real_Madrid_CF> <FIFA-Al-Jazeera-7> .
+ <http://example.org/SuperLeague> <http://dbpedia.org/ontology/participant> <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b5>  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-Al-Jazeera-7> .
+ <http://example.org/JurgenKlopp> <http://schema.org/jobTitle> "Liverpool Coach"  <FIFA-Al-Jazeera-7> .
+ <http://example.org/JurgenKlopp> <http://xmlns.com/foaf/0.1/name> "Jurgen Klopp"  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-Al-Jazeera-7> .
+ <http://example.org/SuperLeague> <http://dbpedia.org/ontology/participant> <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b11>  <FIFA-Al-Jazeera-7> .
+ <http://example.org/GianniInfantino> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statement> <FIFA-Al-Jazeera-7> .
+ <http://example.org/SuperLeague> <http://dbpedia.org/ontology/participant> <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b9>  <FIFA-Al-Jazeera-7> .
+ <http://example.org/SuperLeague> <http://dbpedia.org/ontology/participant> <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b12>  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-Al-Jazeera-7> .
+ <http://example.org/FIFA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <FIFA-Al-Jazeera-7> .
+ <http://example.org/FlorentinoPerez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b14> <http://schema.org/jobTitle> "President"  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b21> <http://schema.org/about> <http://example.org/SuperLeague> <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statement> <FIFA-Al-Jazeera-7> .
+ <http://example.org/GianniInfantino> <http://xmlns.com/foaf/0.1/name> "Gianni Infantino"  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-Al-Jazeera-7> .
+ <http://example.org/SuperLeague> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Europe> <FIFA-Al-Jazeera-7> .
+ <http://example.org/SuperLeague> <http://dbpedia.org/ontology/organiser> <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b1>  <FIFA-Al-Jazeera-7> .
+ <http://example.org/FlorentinoPerez> <http://xmlns.com/foaf/0.1/made> <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b20>  <FIFA-Al-Jazeera-7> .
+ <http://example.org/NasserAlKhelaifi> <http://schema.org/jobTitle> "President of Paris Saint-Germain"  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b18> <http://schema.org/about> <http://example.org/SuperLeague> <FIFA-Al-Jazeera-7> .
+ <http://example.org/NasserAlKhelaifi> <http://xmlns.com/foaf/0.1/made> <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b19>  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b1> <http://xmlns.com/foaf/0.1/name> "Florentino Perez"  <FIFA-Al-Jazeera-7> .
+ <http://example.org/AleksanderCeferin> <http://schema.org/jobTitle> "UEFA President"  <FIFA-Al-Jazeera-7> .
+ <http://example.org/SuperLeague> <http://dbpedia.org/ontology/participant> <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b3>  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b9> <http://xmlns.com/foaf/0.1/name> "Atletico_Madrid"  <FIFA-Al-Jazeera-7> .
+ <http://example.org/SuperLeague> <http://dbpedia.org/ontology/participant> <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b8>  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b17> <http://schema.org/text> "Gentlemen, you made a huge mistake."  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b12> <http://xmlns.com/foaf/0.1/name> "AC_Milan"  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statement> <FIFA-Al-Jazeera-7> .
+ <http://example.org/SuperLeague> <http://dbpedia.org/ontology/participant> <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b6>  <FIFA-Al-Jazeera-7> .
+ <http://example.org/BorisJohnson> <http://schema.org/jobTitle> "British Prime Minister"  <FIFA-Al-Jazeera-7> .
+ <http://example.org/SuperLeague> <http://dbpedia.org/ontology/participant> <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b13>  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b20> <http://schema.org/datePublished> "2021-04-19"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-Al-Jazeera-7> .
+ <http://example.org/SuperLeague> <http://dbpedia.org/ontology/participant> <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b4>  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-Al-Jazeera-7> .
+ <http://example.org/AleksanderCeferin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-Al-Jazeera-7> .
+ <http://example.org/BorisJohnson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-Al-Jazeera-7> .
+ <http://example.org/FlorentinoPerez> <http://schema.org/jobTitle> "President of Real Madrid"  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b8> <http://xmlns.com/foaf/0.1/name> "Barcelona"  <FIFA-Al-Jazeera-7> .
+ <http://example.org/GianniInfantino> <http://xmlns.com/foaf/0.1/made> <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b16>  <FIFA-Al-Jazeera-7> .
+ <http://example.org/FlorentinoPerez> <http://xmlns.com/foaf/0.1/name> "Florentino Perez"  <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b16> <http://schema.org/about> <http://example.org/SuperLeague> <FIFA-Al-Jazeera-7> .
+ <http://FIFA-Al-Jazeera-7.com/blank#n633a8b64af114e399dcb508a76eb4c33b19> <http://schema.org/about> <http://example.org/SuperLeague> <FIFA-Al-Jazeera-7> .
+ <http://dbpedia.org/resource/Qatar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b4> <http://dbpedia.org/ontology/equipment> <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b6>  <FIFA-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Hummel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <FIFA-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/FIFA> <http://xmlns.com/foaf/0.1/name> "FIFA"  <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b10> <http://dbpedia.org/ontology/agent> <http://dbpedia.org/resource/DBU> <FIFA-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/FIFA> <http://dbpedia.org/ontology/leaderTitle> "Secretary-General"  <FIFA-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Hummel> <http://dbpedia.org/ontology/product> <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b7>  <FIFA-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/DBU> <http://dbpedia.org/ontology/director> <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b1>  <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b8> <http://schema.org/description> "Hummel received criticism after the announcement for manufacturing about a third of its apparel in China, as well as Pakistan and Bangladesh, where human rights and labour laws have been called into question."  <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b5> <http://www.w3.org/2000/01/rdf-schema#label> "toned-down kit"  <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b3> <http://dbpedia.org/ontology/agent> <http://dbpedia.org/resource/DBU> <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b5> <http://dbpedia.org/ontology/manufacturer> <http://dbpedia.org/resource/Hummel> <FIFA-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/DBU> <http://xmlns.com/foaf/0.1/name> "Danish football federation"  <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b3> <http://schema.org/text> "wear pro-human rights training shirts at the World Cup in Qatar"  <FIFA-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Gianni_Infantino> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b5> <http://schema.org/description> "A 'toned-down' kit with a third all-black kit representing the 'colour of mourning'."  <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b6> <http://schema.org/description> "The proposed training kit would have contained the text 'human rights for all'."  <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b11> <http://dbpedia.org/ontology/agent> <http://dbpedia.org/resource/Jakob_Jensen> <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b2> <http://xmlns.com/foaf/0.1/page> <https://www.ritzau.dk> <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b2> <http://schema.org/memberOf> <http://dbpedia.org/resource/DBU> <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b2> <http://xmlns.com/foaf/0.1/name> "Jakob Jensen"  <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <FIFA-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Fatma_Samoura> <http://xmlns.com/foaf/0.1/name> "Fatma Samoura"  <FIFA-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Gianni_Infantino> <http://xmlns.com/foaf/0.1/name> "Gianni Infantino"  <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b7> <http://www.w3.org/2000/01/rdf-schema#label> "all-black kit"  <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b11> <http://dbpedia.org/ontology/place> <http://dbpedia.org/resource/Qatar> <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b9> <http://dbpedia.org/ontology/organiser> <http://dbpedia.org/resource/Qatar> <FIFA-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Fatma_Samoura> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b6> <http://www.w3.org/2000/01/rdf-schema#label> "proposed training kit"  <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b9> <http://schema.org/description> "Qatar's World Cup organising committee had previously responded to Denmark's World Cup kit, saying Qatar had used the tournament 'as a catalyst to drive change' and had reformed its migrant worker laws."  <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b3> <http://schema.org/description> "The proposed training kit would have contained the text 'human rights for all'."  <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b1> <http://xmlns.com/foaf/0.1/page> <https://www.ritzau.dk> <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b1> <http://xmlns.com/foaf/0.1/name> "Jakob Jensen"  <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b1> <http://schema.org/memberOf> <http://dbpedia.org/resource/DBU> <FIFA-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Hummel> <http://dbpedia.org/ontology/criticism> <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b8>  <FIFA-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Qatar> <http://dbpedia.org/ontology/WorldCup> <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b9>  <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b7> <http://schema.org/description> "This shirt carries with it a message. We don't wish to be visible during a tournament that has cost thousands of people their lives."  <FIFA-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/DBU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <FIFA-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/FIFA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b1> <http://xmlns.com/foaf/0.1/title> "Director"  <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b10> <http://schema.org/description> "Jensen said that despite FIFA's rejection of the proposed training kit, the DBU would continue its efforts to raise concerns."  <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b3> <http://dbpedia.org/ontology/recipient> <http://dbpedia.org/resource/FIFA> <FIFA-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Denmark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b4> <http://dbpedia.org/ontology/equipment> <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b5>  <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b3> <http://dbpedia.org/ontology/date> "Thursday"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Fatma_Samoura> <http://schema.org/jobTitle> "FIFA Secretary-General"  <FIFA-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/DBU> <http://dbpedia.org/ontology/request> <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b3>  <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b6> <http://dbpedia.org/ontology/manufacturer> <http://dbpedia.org/resource/Hummel> <FIFA-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Hummel> <http://xmlns.com/foaf/0.1/name> "Hummel"  <FIFA-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/FIFA> <http://dbpedia.org/ontology/leader> <http://dbpedia.org/resource/Gianni_Infantino> <FIFA-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/FIFA> <http://dbpedia.org/ontology/leader> <http://dbpedia.org/resource/Fatma_Samoura> <FIFA-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/DBU> <http://dbpedia.org/ontology/abbreviation> "DBU"  <FIFA-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/DBU> <http://schema.org/member> <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b2>  <FIFA-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Denmark> <http://dbpedia.org/ontology/soccerTeam> <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b4>  <FIFA-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/FIFA> <http://dbpedia.org/ontology/leaderTitle> "President"  <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b2> <http://xmlns.com/foaf/0.1/title> "Director"  <FIFA-Al-Jazeera-8> .
+ <http://dbpedia.org/resource/Gianni_Infantino> <http://schema.org/jobTitle> "FIFA President"  <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b3> <http://dbpedia.org/ontology/status> "rejected"  <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b11> <http://schema.org/description> "Jensen said he had travelled to Qatar three times in the last 10 months, where he had met migrant workers who had told him that the dialogue they had conducted 'makes a difference'."  <FIFA-Al-Jazeera-8> .
+ <http://FIFA-Al-Jazeera-8.com/blank#nc25422ff1ea8492f897a8a3ef4294209b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SoccerClub> <FIFA-Al-Jazeera-8> .
+ <http://data.fifa.org/ontology#diplomaticCrisis> <http://www.w3.org/2000/01/rdf-schema#comment> "The regional diplomatic crisis involved several Gulf nations."  <FIFA-Al-Jazeera-9> .
+ <http://data.fifa.org/ontology#expansionMeeting> <http://dbpedia.org/ontology/date> "2019-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <FIFA-Al-Jazeera-9> .
+ <http://data.fifa.org/ontology#expansionDeadline> <http://www.w3.org/2000/01/rdf-schema#comment> "A decision on the expansion could not be taken before the deadline of June."  <FIFA-Al-Jazeera-9> .
+ <http://data.fifa.org/ontology#expansionMeeting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <FIFA-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Bahrain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <FIFA-Al-Jazeera-9> .
+ <http://data.fifa.org/ontology#humanRightsAssessment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://dbpedia.org/resource/Qatar_2022_FIFA_World_Cup> <FIFA-Al-Jazeera-9> .
+ <http://data.fifa.org/ontology#expansionDeadline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://dbpedia.org/ontology/date> <FIFA-Al-Jazeera-9> .
+ <http://data.fifa.org/ontology#expansionPlan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://dbpedia.org/resource/Qatar_2022_FIFA_World_Cup> <FIFA-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/2026_FIFA_World_Cup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsEvent> <FIFA-Al-Jazeera-9> .
+ <http://data.fifa.org/ontology#cohostConsideration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://dbpedia.org/resource/Kuwait> <FIFA-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/2026_FIFA_World_Cup> <http://dbpedia.org/ontology/organiser> <http://dbpedia.org/resource/FIFA> <FIFA-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/2026_FIFA_World_Cup> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/United_States> <FIFA-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Kuwait> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <FIFA-Al-Jazeera-9> .
+ <http://data.fifa.org/ontology#humanRightsAssessment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> <FIFA-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Saudi_Arabia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <FIFA-Al-Jazeera-9> .
+ <http://data.fifa.org/ontology#diplomaticCrisis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <FIFA-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Oman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <FIFA-Al-Jazeera-9> .
+ <http://data.fifa.org/ontology#expansionPlan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://data.fifa.org/ontology#expansionStatus> <FIFA-Al-Jazeera-9> .
+ <http://data.fifa.org/ontology#stadium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Stadium> <FIFA-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/FIFA> <http://xmlns.com/foaf/0.1/name> "Fédération Internationale de Football Association"  <FIFA-Al-Jazeera-9> .
+ <http://data.fifa.org/ontology#stadium> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Kuwait> <FIFA-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Fatma_Samoura> <http://xmlns.com/foaf/0.1/name> "Fatma Samoura"  <FIFA-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Qatar_2022_FIFA_World_Cup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SportsEvent> <FIFA-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/2026_FIFA_World_Cup> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Mexico> <FIFA-Al-Jazeera-9> .
+ <http://data.fifa.org/ontology#stadium> <http://dbpedia.org/ontology/capacity> "60000"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/FIFA> <http://dbpedia.org/ontology/leader> <http://FIFA-Al-Jazeera-9.com/blank#n2f72a284bdf54c129dc55c6fee448048b1>  <FIFA-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/2026_FIFA_World_Cup> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Canada> <FIFA-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/2026_FIFA_World_Cup> <http://dbpedia.org/ontology/numberOfTeams> "48"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-Al-Jazeera-9> .
+ <http://data.fifa.org/ontology#expansionPlan> <http://www.w3.org/2000/01/rdf-schema#comment> "FIFA abandoned plans to expand the 2022 Qatar World Cup to 48 nations."  <FIFA-Al-Jazeera-9> .
+ <http://data.fifa.org/ontology#expansionDeadline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://data.fifa.org/ontology#expansionPlan> <FIFA-Al-Jazeera-9> .
+ <http://FIFA-Al-Jazeera-9.com/blank#n2f72a284bdf54c129dc55c6fee448048b1> <http://xmlns.com/foaf/0.1/name> "Gianni Infantino"  <FIFA-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Fatma_Samoura> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <FIFA-Al-Jazeera-9> .
+ <http://data.fifa.org/ontology#boycott> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <FIFA-Al-Jazeera-9> .
+ <http://data.fifa.org/ontology#expansionMeeting> <http://www.w3.org/2000/01/rdf-schema#comment> "A meeting of the FIFA Council in March authorised Infantino to work with Qatar on the feasibility of expansion."  <FIFA-Al-Jazeera-9> .
+ <http://data.fifa.org/ontology#humanRightsAssessment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> "Human Rights Risks"  <FIFA-Al-Jazeera-9> .
+ <http://data.fifa.org/ontology#humanRightsAssessment> <http://www.w3.org/2000/01/rdf-schema#comment> "FIFA Secretary General Fatma Samoura offered assurances for an assessment of human rights risks."  <FIFA-Al-Jazeera-9> .
+ <http://data.fifa.org/ontology#cohostConsideration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://dbpedia.org/ontology/country> <FIFA-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/FIFA> <http://dbpedia.org/ontology/abbreviation> "FIFA"  <FIFA-Al-Jazeera-9> .
+ <http://FIFA-Al-Jazeera-9.com/blank#n2f72a284bdf54c129dc55c6fee448048b1> <http://dbpedia.org/ontology/position> "FIFA President"  <FIFA-Al-Jazeera-9> .
+ <http://data.fifa.org/ontology#expansionMeeting> <http://dbpedia.org/ontology/organiser> <http://dbpedia.org/resource/FIFA_Council> <FIFA-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/James_Dorsey> <http://xmlns.com/foaf/0.1/name> "James Dorsey"  <FIFA-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Qatar_2022_FIFA_World_Cup> <http://dbpedia.org/ontology/followingEvent> <http://dbpedia.org/resource/2026_FIFA_World_Cup> <FIFA-Al-Jazeera-9> .
+ <http://data.fifa.org/ontology#expansionDeadline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> "2019-06"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <FIFA-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/FIFA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <FIFA-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/James_Dorsey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <FIFA-Al-Jazeera-9> .
+ <http://data.fifa.org/ontology#cohostConsideration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> <http://dbpedia.org/resource/Oman> <FIFA-Al-Jazeera-9> .
+ <http://data.fifa.org/ontology#cohostConsideration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#subject> <http://dbpedia.org/resource/Qatar_2022_FIFA_World_Cup> <FIFA-Al-Jazeera-9> .
+ <http://data.fifa.org/ontology#expansionDeadline> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> <FIFA-Al-Jazeera-9> .
+ <http://data.fifa.org/ontology#expansionPlan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#object> "Abandoned"  <FIFA-Al-Jazeera-9> .
+ <http://data.fifa.org/ontology#cohostConsideration> <http://www.w3.org/2000/01/rdf-schema#comment> "Kuwait and Oman were considered as cohosts for the World Cup."  <FIFA-Al-Jazeera-9> .
+ <http://data.fifa.org/ontology#stadium> <http://xmlns.com/foaf/0.1/name> "Sabah Al-Salem Stadium"  <FIFA-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/United_Arab_Emirates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <FIFA-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/James_Dorsey> <http://www.w3.org/2000/01/rdf-schema#comment> "Author of The Turbulent World of Middle East Soccer."  <FIFA-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Qatar_2022_FIFA_World_Cup> <http://dbpedia.org/ontology/previousEvent> <http://dbpedia.org/resource/2018_FIFA_World_Cup> <FIFA-Al-Jazeera-9> .
+ <http://data.fifa.org/ontology#stadium> <http://xmlns.com/foaf/0.1/name> "Jaber Al-Ahmad International Stadium"  <FIFA-Al-Jazeera-9> .
+ <http://data.fifa.org/ontology#expansionPlan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> <FIFA-Al-Jazeera-9> .
+ <http://FIFA-Al-Jazeera-9.com/blank#n2f72a284bdf54c129dc55c6fee448048b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <FIFA-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Qatar_2022_FIFA_World_Cup> <http://dbpedia.org/ontology/endDate> "2022-12-18"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/FIFA> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Zürich> <FIFA-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Fatma_Samoura> <http://dbpedia.org/ontology/position> "FIFA Secretary General"  <FIFA-Al-Jazeera-9> .
+ <http://data.fifa.org/ontology#stadium> <http://dbpedia.org/ontology/capacity> "26000"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-Al-Jazeera-9> .
+ <http://data.fifa.org/ontology#cohostConsideration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement> <FIFA-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Qatar_2022_FIFA_World_Cup> <http://dbpedia.org/ontology/organiser> <http://dbpedia.org/resource/FIFA> <FIFA-Al-Jazeera-9> .
+ <http://data.fifa.org/ontology#boycott> <http://www.w3.org/2000/01/rdf-schema#comment> "The boycott of Qatar by Saudi Arabia, the UAE, Bahrain, and Egypt could impact the World Cup attendance."  <FIFA-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Qatar_2022_FIFA_World_Cup> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Qatar> <FIFA-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Qatar_2022_FIFA_World_Cup> <http://dbpedia.org/ontology/numberOfTeams> "32"^^<http://www.w3.org/2001/XMLSchema#int>  <FIFA-Al-Jazeera-9> .
+ <http://dbpedia.org/resource/Qatar_2022_FIFA_World_Cup> <http://dbpedia.org/ontology/startDate> "2022-11-21"^^<http://www.w3.org/2001/XMLSchema#date>  <FIFA-Al-Jazeera-9> .
+ <http://data.fifa.org/ontology#humanRightsAssessment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#predicate> <http://dbpedia.org/ontology/assessment> <FIFA-Al-Jazeera-9> .

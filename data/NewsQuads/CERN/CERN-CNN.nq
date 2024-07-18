@@ -1,0 +1,637 @@
+ <http://dbpedia.org/resource/Lagrange_point> <http://dbpedia.org/ontology/distance> "1600000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <CERN-CNN-0> .
+ <http://example.org/EuclidMission> <http://dbpedia.org/ontology/operator> <http://dbpedia.org/resource/European_Space_Agency> <CERN-CNN-0> .
+ <http://example.org/EuclidMission> <http://dbpedia.org/ontology/launchRocket> <http://dbpedia.org/resource/Falcon_9> <CERN-CNN-0> .
+ <http://dbpedia.org/resource/Nancy_Grace_Roman_Space_Telescope> <http://dbpedia.org/ontology/launchDate> "2027-05"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <CERN-CNN-0> .
+ <http://example.org/EditorCNN> <http://schema.org/jobTitle> "Editor"  <CERN-CNN-0> .
+ <http://dbpedia.org/resource/Nancy_Grace_Roman_Space_Telescope> <http://dbpedia.org/ontology/missionOverlap> <http://example.org/EuclidMission> <CERN-CNN-0> .
+ <http://example.org/EuclidMission> <http://dbpedia.org/ontology/telescopeSensitivity> "visible light, near-infrared"  <CERN-CNN-0> .
+ <http://example.org/JasonRhodes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <CERN-CNN-0> .
+ <http://example.org/JasonRhodes> <http://dbpedia.org/ontology/position> "senior research scientist"  <CERN-CNN-0> .
+ <http://example.org/EuclidMission> <http://dbpedia.org/ontology/spacecraft> <http://dbpedia.org/resource/Euclid_(spacecraft)> <CERN-CNN-0> .
+ <http://dbpedia.org/resource/Edwin_Hubble> <http://dbpedia.org/ontology/discovery> "expansion of the universe"  <CERN-CNN-0> .
+ <http://example.org/EuclidMission> <http://dbpedia.org/ontology/launchDate> "2023-03-18T11:12:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <CERN-CNN-0> .
+ <http://dbpedia.org/resource/Nancy_Grace_Roman_Space_Telescope> <http://dbpedia.org/ontology/studySubject> "cosmic acceleration"  <CERN-CNN-0> .
+ <http://dbpedia.org/resource/Euclid_(spacecraft)> <http://dbpedia.org/ontology/destination> <http://dbpedia.org/resource/Lagrange_point> <CERN-CNN-0> .
+ <http://example.org/YunWang> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/California_Institute_of_Technology> <CERN-CNN-0> .
+ <http://example.org/EuclidMission> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SpaceMission> <CERN-CNN-0> .
+ <http://example.org/JasonRhodes> <http://dbpedia.org/ontology/statement> "Twenty-five years after its discovery, the universe’s accelerated expansion remains one of the most pressing mysteries in astrophysics"  <CERN-CNN-0> .
+ <http://dbpedia.org/resource/Euclid_(spacecraft)> <http://dbpedia.org/ontology/mass> "1.2"^^<http://www.w3.org/2001/XMLSchema#decimal>  <CERN-CNN-0> .
+ <http://example.org/YunWang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <CERN-CNN-0> .
+ <http://example.org/VisibleLightCamera> <http://schema.org/name> "Visible Light Camera"  <CERN-CNN-0> .
+ <http://example.org/EditorCNN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <CERN-CNN-0> .
+ <http://dbpedia.org/resource/James_Webb_Space_Telescope> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Lagrange_point> <CERN-CNN-0> .
+ <http://example.org/WonderTheoryNewsletter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Newsletter> <CERN-CNN-0> .
+ <http://example.org/NearInfraredCameraSpectrometer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Instrument> <CERN-CNN-0> .
+ <http://example.org/EuclidMission> <http://dbpedia.org/ontology/launchSite> <http://dbpedia.org/resource/Cape_Canaveral_Space_Force_Station> <CERN-CNN-0> .
+ <http://example.org/WonderTheoryNewsletter> <http://schema.org/about> "science"  <CERN-CNN-0> .
+ <http://dbpedia.org/resource/Euclid_(spacecraft)> <http://dbpedia.org/ontology/manufacturer> <http://dbpedia.org/resource/SpaceX> <CERN-CNN-0> .
+ <http://dbpedia.org/resource/Georges_Lemaître> <http://dbpedia.org/ontology/discovery> "expansion of the universe"  <CERN-CNN-0> .
+ <http://example.org/JasonRhodes> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Jet_Propulsion_Laboratory> <CERN-CNN-0> .
+ <http://example.org/EuclidMission> <http://dbpedia.org/ontology/instrument> <http://example.org/NearInfraredCameraSpectrometer> <CERN-CNN-0> .
+ <http://example.org/EuclidMission> <http://dbpedia.org/ontology/instrument> <http://example.org/VisibleLightCamera> <CERN-CNN-0> .
+ <http://dbpedia.org/resource/Euclid_(spacecraft)> <http://dbpedia.org/ontology/diameter> "1.2"^^<http://www.w3.org/2001/XMLSchema#decimal>  <CERN-CNN-0> .
+ <http://dbpedia.org/resource/Euclid_(spacecraft)> <http://dbpedia.org/ontology/manufacturer> <http://dbpedia.org/resource/European_Space_Agency> <CERN-CNN-0> .
+ <http://example.org/CNN> <http://dbpedia.org/ontology/product> <http://example.org/WonderTheoryNewsletter> <CERN-CNN-0> .
+ <http://example.org/EuclidMission> <http://dbpedia.org/ontology/purpose> "to observe the dark side of the universe, including dark matter and dark energy"  <CERN-CNN-0> .
+ <http://example.org/YunWang> <http://dbpedia.org/ontology/position> "senior research scientist"  <CERN-CNN-0> .
+ <http://example.org/NearInfraredCameraSpectrometer> <http://schema.org/name> "Near-Infrared Camera/Spectrometer"  <CERN-CNN-0> .
+ <http://example.org/CNN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <CERN-CNN-0> .
+ <http://example.org/WonderTheoryNewsletter> <http://dbpedia.org/ontology/editor> <http://example.org/EditorCNN> <CERN-CNN-0> .
+ <http://dbpedia.org/resource/Nancy_Grace_Roman_Space_Telescope> <http://dbpedia.org/ontology/telescopeSensitivity> "infrared light"  <CERN-CNN-0> .
+ <http://example.org/VisibleLightCamera> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Instrument> <CERN-CNN-0> .
+ <http://example.org/YunWang> <http://dbpedia.org/ontology/statement> "Together, Euclid and Roman will add up to much more than the sum of their parts"  <CERN-CNN-0> .
+ <http://example.org/EuclidMission> <http://dbpedia.org/ontology/missionDuration> "P6Y"^^<http://www.w3.org/2001/XMLSchema#duration>  <CERN-CNN-0> .
+ <http://example.org/EuclidMission> <http://dbpedia.org/ontology/telescopeAperture> "1.2"^^<http://www.w3.org/2001/XMLSchema#decimal>  <CERN-CNN-0> .
+ <http://dbpedia.org/resource/Euclid_(spacecraft)> <http://dbpedia.org/ontology/orbit> "sun-Earth Lagrange point L2"  <CERN-CNN-0> .
+ <http://cern.ch/CERN> <http://example.org/website> <http://cern.ch/> <CERN-CNN-1> .
+ <http://www.cnn.com/WonderTheory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Newsletter> <CERN-CNN-1> .
+ <http://cern.ch/CERN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ResearchOrganization> <CERN-CNN-1> .
+ <http://example.org/MichelangeloMangano> <http://example.org/statement> "There is still plenty of room for new phenomena beyond what is predicted by the Standard Model."  <CERN-CNN-1> .
+ <http://example.org/FrancoisEnglert> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Physicist> <CERN-CNN-1> .
+ <http://CERN-CNN-1.com/blank#n67123aed318a48c38c49311972849655b4> <http://example.org/absorb> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>  <CERN-CNN-1> .
+ <http://CERN-CNN-1.com/blank#n67123aed318a48c38c49311972849655b1> <http://example.org/underneath> <http://example.org/Alps> <CERN-CNN-1> .
+ <http://www.cnn.com/WonderTheory> <http://example.org/title> "Wonder Theory"  <CERN-CNN-1> .
+ <http://CERN-CNN-1.com/blank#n67123aed318a48c38c49311972849655b2> <http://example.org/study> <http://example.org/SubatomicParticles> <CERN-CNN-1> .
+ <http://example.org/DarkMatter> <http://example.org/property> <http://CERN-CNN-1.com/blank#n67123aed318a48c38c49311972849655b3>  <CERN-CNN-1> .
+ <http://example.org/DarkMatter> <http://example.org/interactionWithLight> <http://CERN-CNN-1.com/blank#n67123aed318a48c38c49311972849655b4>  <CERN-CNN-1> .
+ <http://example.org/PeterHiggs> <http://example.org/theorized> <http://example.org/HiggsBoson> <CERN-CNN-1> .
+ <http://cern.ch/LHC> <http://example.org/temperatureUnit> <http://example.org/Celsius> <CERN-CNN-1> .
+ <http://cern.ch/LHC> <http://example.org/lengthUnit> <http://example.org/Kilometers> <CERN-CNN-1> .
+ <http://cern.ch/CERN> <http://example.org/location> <http://example.org/SwissFrenchBorder> <CERN-CNN-1> .
+ <http://CERN-CNN-1.com/blank#n67123aed318a48c38c49311972849655b6> <http://example.org/elementaryParticles> <http://example.org/Interactions> <CERN-CNN-1> .
+ <http://example.org/MichelangeloMangano> <http://example.org/affiliation> <http://cern.ch/CERN> <CERN-CNN-1> .
+ <http://cern.ch/CMS> <http://example.org/focus> <http://CERN-CNN-1.com/blank#n67123aed318a48c38c49311972849655b7>  <CERN-CNN-1> .
+ <http://example.org/FrancoisEnglert> <http://example.org/theorized> <http://example.org/HiggsBoson> <CERN-CNN-1> .
+ <http://CERN-CNN-1.com/blank#n67123aed318a48c38c49311972849655b5> <http://example.org/name> "Fabiola Gianotti"  <CERN-CNN-1> .
+ <http://cern.ch/LHC> <http://example.org/runNumber> "3"^^<http://www.w3.org/2001/XMLSchema#integer>  <CERN-CNN-1> .
+ <http://example.org/LucaMalgeri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Spokesperson> <CERN-CNN-1> .
+ <http://example.org/LucaMalgeri> <http://example.org/statement> "The Higgs boson itself may point to new phenomena, including some that could be responsible for the dark matter in the universe."  <CERN-CNN-1> .
+ <http://CERN-CNN-1.com/blank#n67123aed318a48c38c49311972849655b4> <http://example.org/reflect> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>  <CERN-CNN-1> .
+ <http://example.org/StandardModel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Theory> <CERN-CNN-1> .
+ <http://cern.ch/HiggsBoson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/SubatomicParticle> <CERN-CNN-1> .
+ <http://www.cnn.com/WonderTheory> <http://example.org/topic> <http://example.org/Science> <CERN-CNN-1> .
+ <http://CERN-CNN-1.com/blank#n67123aed318a48c38c49311972849655b7> <http://example.org/searchFor> <http://example.org/NewPhenomena> <CERN-CNN-1> .
+ <http://CERN-CNN-1.com/blank#n67123aed318a48c38c49311972849655b2> <http://example.org/study> <http://example.org/DarkMatter> <CERN-CNN-1> .
+ <http://www.cnn.com/WonderTheory> <http://example.org/description> "Explore the universe with news on fascinating discoveries, scientific advancements and more."  <CERN-CNN-1> .
+ <http://example.org/StandardModel> <http://example.org/massProblem> <http://example.org/Unexplained> <CERN-CNN-1> .
+ <http://CERN-CNN-1.com/blank#n67123aed318a48c38c49311972849655b7> <http://example.org/searchFor> <http://example.org/DarkMatter> <CERN-CNN-1> .
+ <http://example.org/PeterHiggs> <http://example.org/nobelPrizeYear> "2013"^^<http://www.w3.org/2001/XMLSchema#gYear>  <CERN-CNN-1> .
+ <http://example.org/StandardModel> <http://example.org/describes> <http://CERN-CNN-1.com/blank#n67123aed318a48c38c49311972849655b6>  <CERN-CNN-1> .
+ <http://CERN-CNN-1.com/blank#n67123aed318a48c38c49311972849655b1> <http://example.org/border> <http://example.org/SwissFrenchBorder> <CERN-CNN-1> .
+ <http://CERN-CNN-1.com/blank#n67123aed318a48c38c49311972849655b7> <http://example.org/study> <http://example.org/PropertiesOfMatter> <CERN-CNN-1> .
+ <http://cern.ch/CMS> <http://example.org/fullForm> "Compact Muon Solenoid"  <CERN-CNN-1> .
+ <http://cern.ch/CMS> <http://example.org/partOf> <http://cern.ch/LHC> <CERN-CNN-1> .
+ <http://example.org/DarkMatter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Matter> <CERN-CNN-1> .
+ <http://cern.ch/LHC> <http://example.org/circumference> "27"^^<http://www.w3.org/2001/XMLSchema#decimal>  <CERN-CNN-1> .
+ <http://cern.ch/CERN> <http://example.org/directorGeneral> <http://CERN-CNN-1.com/blank#n67123aed318a48c38c49311972849655b5>  <CERN-CNN-1> .
+ <http://example.org/MichelangeloMangano> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Theorist> <CERN-CNN-1> .
+ <http://cern.ch/LHC> <http://example.org/name> "Large Hadron Collider"  <CERN-CNN-1> .
+ <http://cern.ch/HiggsBoson> <http://example.org/relatedTo> <http://example.org/BigBang> <CERN-CNN-1> .
+ <http://example.org/FrancoisEnglert> <http://example.org/nobelPrizeYear> "2013"^^<http://www.w3.org/2001/XMLSchema#gYear>  <CERN-CNN-1> .
+ <http://cern.ch/LHC> <http://example.org/location> <http://CERN-CNN-1.com/blank#n67123aed318a48c38c49311972849655b1>  <CERN-CNN-1> .
+ <http://cern.ch/CMS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Experiment> <CERN-CNN-1> .
+ <http://CERN-CNN-1.com/blank#n67123aed318a48c38c49311972849655b4> <http://example.org/emit> "false"^^<http://www.w3.org/2001/XMLSchema#boolean>  <CERN-CNN-1> .
+ <http://cern.ch/LHC> <http://example.org/restartDate> "April"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <CERN-CNN-1> .
+ <http://CERN-CNN-1.com/blank#n67123aed318a48c38c49311972849655b3> <http://example.org/elusive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <CERN-CNN-1> .
+ <http://CERN-CNN-1.com/blank#n67123aed318a48c38c49311972849655b3> <http://example.org/invisible> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <CERN-CNN-1> .
+ <http://example.org/PeterHiggs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Physicist> <CERN-CNN-1> .
+ <http://cern.ch/HiggsBoson> <http://example.org/discoveryYear> "2012"^^<http://www.w3.org/2001/XMLSchema#gYear>  <CERN-CNN-1> .
+ <http://cern.ch/LHC> <http://example.org/operationPeriod> <http://example.org/FourYears> <CERN-CNN-1> .
+ <http://cern.ch/LHC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ParticleAccelerator> <CERN-CNN-1> .
+ <http://cern.ch/HiggsBoson> <http://example.org/massProviderFor> <http://example.org/Matter> <CERN-CNN-1> .
+ <http://cern.ch/HiggsBoson> <http://example.org/discoveredBy> <http://cern.ch/LHC> <CERN-CNN-1> .
+ <http://cern.ch/LHC> <http://example.org/temperature> "-271.3"^^<http://www.w3.org/2001/XMLSchema#decimal>  <CERN-CNN-1> .
+ <http://CERN-CNN-1.com/blank#n67123aed318a48c38c49311972849655b6> <http://example.org/forces> <http://example.org/Interactions> <CERN-CNN-1> .
+ <http://example.org/LucaMalgeri> <http://example.org/affiliation> <http://cern.ch/CMS> <CERN-CNN-1> .
+ <http://cern.ch/LHC> <http://example.org/purpose> <http://CERN-CNN-1.com/blank#n67123aed318a48c38c49311972849655b2>  <CERN-CNN-1> .
+ <http://CERN-CNN-1.com/blank#n67123aed318a48c38c49311972849655b2> <http://example.org/study> <http://example.org/HiggsBoson> <CERN-CNN-1> .
+ <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Topic> <CERN-CNN-2> .
+ <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b11> <http://dbpedia.org/ontology/theme> "Digital Health"  <CERN-CNN-2> .
+ <http://example.org/ces/WorldEconomicForum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <CERN-CNN-2> .
+ <http://example.org/ces/CES> <http://dbpedia.org/ontology/subject> <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b3>  <CERN-CNN-2> .
+ <http://dbpedia.org/resource/Amazon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <CERN-CNN-2> .
+ <http://example.org/ces/ConsumerTechnologyAssociation> <http://dbpedia.org/ontology/president> <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b5>  <CERN-CNN-2> .
+ <http://example.org/ces/ConsumerTechnologyAssociation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <CERN-CNN-2> .
+ <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b9> <http://xmlns.com/foaf/0.1/name> "Mary Barra"  <CERN-CNN-2> .
+ <http://dbpedia.org/resource/Intel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <CERN-CNN-2> .
+ <http://example.org/ces/ConsumerTechAssociationStatement> <http://dbpedia.org/ontology/content> "actively tracking the emerging news and science around the new Omicron variant"  <CERN-CNN-2> .
+ <http://example.org/ces/CES> <http://dbpedia.org/ontology/numberOfAttendees> <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b1>  <CERN-CNN-2> .
+ <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b1> <http://dbpedia.org/ontology/role> "media"  <CERN-CNN-2> .
+ <http://example.org/ces/CES> <http://dbpedia.org/ontology/numberOfExhibitors> "2200"^^<http://www.w3.org/2001/XMLSchema#integer>  <CERN-CNN-2> .
+ <http://dbpedia.org/resource/General_Motors> <http://dbpedia.org/ontology/ceo> <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b9>  <CERN-CNN-2> .
+ <http://dbpedia.org/resource/Mary_Barra> <http://xmlns.com/foaf/0.1/name> "Mary Barra"  <CERN-CNN-2> .
+ <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b5> <http://xmlns.com/foaf/0.1/name> "Gary Shapiro"  <CERN-CNN-2> .
+ <http://example.org/ces/ConsumerTechnologyAssociation> <http://xmlns.com/foaf/0.1/name> "Consumer Technology Association"  <CERN-CNN-2> .
+ <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b6> <http://dbpedia.org/ontology/publishedBy> <http://example.org/ces/LinkedIn> <CERN-CNN-2> .
+ <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Document> <CERN-CNN-2> .
+ <http://example.org/ces/OmicronVariant> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Disease> <CERN-CNN-2> .
+ <http://example.org/ces/CES> <http://dbpedia.org/ontology/theme> "tech"  <CERN-CNN-2> .
+ <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <CERN-CNN-2> .
+ <http://example.org/ces/CES> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Conference> <CERN-CNN-2> .
+ <http://dbpedia.org/resource/Microsoft> <http://dbpedia.org/ontology/industry> "Technology"  <CERN-CNN-2> .
+ <http://dbpedia.org/resource/Pete_Buttigieg> <http://dbpedia.org/ontology/occupation> "US Transportation Secretary"  <CERN-CNN-2> .
+ <http://example.org/ces/CES> <http://dbpedia.org/ontology/duration> "1 day less"  <CERN-CNN-2> .
+ <http://example.org/ces/LinkedIn> <http://dbpedia.org/ontology/industry> "Professional Networking"  <CERN-CNN-2> .
+ <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b7> <http://dbpedia.org/ontology/title> "CES will and must go on"  <CERN-CNN-2> .
+ <http://example.org/ces/CES> <http://dbpedia.org/ontology/previousEvent> <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b2>  <CERN-CNN-2> .
+ <http://example.org/ces/GaryShapiro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-CNN-2> .
+ <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b7> <http://dbpedia.org/ontology/publishedBy> <http://example.org/ces/LinkedIn> <CERN-CNN-2> .
+ <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <CERN-CNN-2> .
+ <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Document> <CERN-CNN-2> .
+ <http://dbpedia.org/resource/General_Motors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <CERN-CNN-2> .
+ <http://example.org/ces/CES> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Las_Vegas> <CERN-CNN-2> .
+ <http://dbpedia.org/resource/General_Motors> <http://dbpedia.org/ontology/industry> "Automotive"  <CERN-CNN-2> .
+ <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-CNN-2> .
+ <http://dbpedia.org/resource/Jen_Easterly> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-CNN-2> .
+ <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <CERN-CNN-2> .
+ <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b9> <http://dbpedia.org/ontology/position> "CEO"  <CERN-CNN-2> .
+ <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <CERN-CNN-2> .
+ <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b2> <http://dbpedia.org/ontology/format> "virtual"  <CERN-CNN-2> .
+ <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b10> <http://dbpedia.org/ontology/theme> "mass-adoption of electric vehicles"  <CERN-CNN-2> .
+ <http://dbpedia.org/resource/Mary_Barra> <http://dbpedia.org/ontology/keynote> <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b10>  <CERN-CNN-2> .
+ <http://dbpedia.org/resource/Mary_Barra> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-CNN-2> .
+ <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b12> <http://dbpedia.org/ontology/status> "postponed"  <CERN-CNN-2> .
+ <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b3> <http://www.w3.org/2000/01/rdf-schema#label> "Omicron Covid-19 variant"  <CERN-CNN-2> .
+ <http://dbpedia.org/resource/General_Motors> <http://dbpedia.org/ontology/product> <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b8>  <CERN-CNN-2> .
+ <http://example.org/ces/ConsumerTechAssociationStatement> <http://dbpedia.org/ontology/about> <http://example.org/ces/OmicronVariant> <CERN-CNN-2> .
+ <http://example.org/ces/GaryShapiro> <http://xmlns.com/foaf/0.1/name> "Gary Shapiro"  <CERN-CNN-2> .
+ <http://example.org/ces/CES> <http://schema.org/startDate> "2020-01-05"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-CNN-2> .
+ <http://dbpedia.org/resource/James_Clyburn> <http://dbpedia.org/ontology/occupation> "House Majority Whip"  <CERN-CNN-2> .
+ <http://example.org/ces/GaryShapiro> <http://xmlns.com/foaf/0.1/title> "CTA president"  <CERN-CNN-2> .
+ <http://dbpedia.org/resource/Microsoft> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <CERN-CNN-2> .
+ <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <CERN-CNN-2> .
+ <http://dbpedia.org/resource/Google> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <CERN-CNN-2> .
+ <http://dbpedia.org/resource/James_Clyburn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-CNN-2> .
+ <http://example.org/ces/LinkedIn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <CERN-CNN-2> .
+ <http://example.org/ces/CES> <http://dbpedia.org/ontology/organizer> <http://example.org/ces/ConsumerTechnologyAssociation> <CERN-CNN-2> .
+ <http://dbpedia.org/resource/Amazon> <http://dbpedia.org/ontology/industry> "Technology"  <CERN-CNN-2> .
+ <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b6> <http://dbpedia.org/ontology/title> "CES will and must go on"  <CERN-CNN-2> .
+ <http://dbpedia.org/resource/Google> <http://dbpedia.org/ontology/industry> "Technology"  <CERN-CNN-2> .
+ <http://dbpedia.org/resource/Intel> <http://dbpedia.org/ontology/industry> "Technology"  <CERN-CNN-2> .
+ <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-CNN-2> .
+ <http://example.org/ces/ConsumerTechAssociationStatement> <http://dbpedia.org/ontology/author> <http://example.org/ces/ConsumerTechnologyAssociation> <CERN-CNN-2> .
+ <http://example.org/ces/GaryShapiro> <http://xmlns.com/foaf/0.1/publications> <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b7>  <CERN-CNN-2> .
+ <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b4> <http://www.w3.org/2000/01/rdf-schema#label> "masks, proof of vaccination, self-test kits"  <CERN-CNN-2> .
+ <http://dbpedia.org/resource/Mary_Barra> <http://dbpedia.org/ontology/position> "CEO of General Motors"  <CERN-CNN-2> .
+ <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b8> <http://dbpedia.org/ontology/releaseDate> "2022-01-05"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-CNN-2> .
+ <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b2> <http://dbpedia.org/ontology/year> "2020"^^<http://www.w3.org/2001/XMLSchema#gYear>  <CERN-CNN-2> .
+ <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Agent> <CERN-CNN-2> .
+ <http://example.org/ces/CES> <http://dbpedia.org/ontology/requirement> <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b4>  <CERN-CNN-2> .
+ <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b5> <http://xmlns.com/foaf/0.1/publications> <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b6>  <CERN-CNN-2> .
+ <http://example.org/ces/ConsumerTechAssociationStatement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Document> <CERN-CNN-2> .
+ <http://example.org/ces/OmicronVariant> <http://www.w3.org/2000/01/rdf-schema#label> "Omicron Covid-19 variant"  <CERN-CNN-2> .
+ <http://example.org/ces/WorldEconomicForum> <http://dbpedia.org/ontology/event> <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b12>  <CERN-CNN-2> .
+ <http://dbpedia.org/resource/Meta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <CERN-CNN-2> .
+ <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b2> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Las_Vegas> <CERN-CNN-2> .
+ <http://dbpedia.org/resource/Pete_Buttigieg> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-CNN-2> .
+ <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b8> <http://dbpedia.org/ontology/type> "Electric Pickup Truck"  <CERN-CNN-2> .
+ <http://dbpedia.org/resource/Meta> <http://dbpedia.org/ontology/formerName> "Facebook"  <CERN-CNN-2> .
+ <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b12> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Davos> <CERN-CNN-2> .
+ <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b1> <http://dbpedia.org/ontology/number> "3300"^^<http://www.w3.org/2001/XMLSchema#integer>  <CERN-CNN-2> .
+ <http://dbpedia.org/resource/Jen_Easterly> <http://dbpedia.org/ontology/occupation> "Cybersecurity and Infrastructure Security Agency Director"  <CERN-CNN-2> .
+ <http://example.org/ces/CES> <http://dbpedia.org/ontology/status> "in-person"  <CERN-CNN-2> .
+ <http://dbpedia.org/resource/Abbott_Laboratories> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <CERN-CNN-2> .
+ <http://dbpedia.org/resource/Meta> <http://dbpedia.org/ontology/industry> "Technology"  <CERN-CNN-2> .
+ <http://dbpedia.org/resource/Abbott_Laboratories> <http://dbpedia.org/ontology/keynote> <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b11>  <CERN-CNN-2> .
+ <http://CERN-CNN-2.com/blank#ncd1bbb57458943629ccc6c075e1130d5b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Policy> <CERN-CNN-2> .
+ <http://dbpedia.org/resource/Abbott_Laboratories> <http://dbpedia.org/ontology/industry> "Medical Devices"  <CERN-CNN-2> .
+ <http://example.org/CES2022Virtual> <http://dbpedia.org/ontology/format> "Virtual"  <CERN-CNN-3> .
+ <http://example.org/WorldEconomicForum> <http://dbpedia.org/ontology/endDate> "2023-01-31"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-CNN-3> .
+ <http://example.org/CES> <http://dbpedia.org/ontology/followingEvent> <http://example.org/CES2022Virtual> <CERN-CNN-3> .
+ <http://example.org/ConsumerTechnologyAssociation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <CERN-CNN-3> .
+ <http://example.org/Pinterest> <http://dbpedia.org/ontology/stockTicker> "PINS"  <CERN-CNN-3> .
+ <http://example.org/CES> <http://dbpedia.org/ontology/organizer> <http://example.org/ConsumerTechnologyAssociation> <CERN-CNN-3> .
+ <http://example.org/SarahSobolewski> <http://schema.org/name> "Sarah Sobolewski"  <CERN-CNN-3> .
+ <http://example.org/MikeSievert> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <CERN-CNN-3> .
+ <http://example.org/MikeSievert> <http://schema.org/worksFor> <http://example.org/TMobile> <CERN-CNN-3> .
+ <http://example.org/Amazon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <CERN-CNN-3> .
+ <http://example.org/SarahSobolewski> <http://schema.org/worksFor> <http://example.org/Amazon> <CERN-CNN-3> .
+ <http://example.org/CES2020> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Las_Vegas> <CERN-CNN-3> .
+ <http://example.org/LasVegasEconomicImpact> <http://schema.org/currency> "USD"  <CERN-CNN-3> .
+ <http://example.org/CES> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Las_Vegas> <CERN-CNN-3> .
+ <http://CERN-CNN-3.com/blank#nd0cb4b48c40b45a2a48e2697a4ad61fab1> <http://schema.org/author> <http://example.org/SarahSobolewski> <CERN-CNN-3> .
+ <http://example.org/CES> <http://dbpedia.org/ontology/previousEvent> <http://example.org/CES2020> <CERN-CNN-3> .
+ <http://example.org/WorldEconomicForum> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Davos> <CERN-CNN-3> .
+ <http://example.org/MobileWorldCongress> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Barcelona> <CERN-CNN-3> .
+ <http://example.org/KamranMumtaz> <http://schema.org/worksFor> <http://example.org/Meta> <CERN-CNN-3> .
+ <http://example.org/CES2022Virtual> <http://dbpedia.org/ontology/startDate> "2022-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-CNN-3> .
+ <http://example.org/WorldEconomicForum> <http://dbpedia.org/ontology/startDate> "2023-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-CNN-3> .
+ <http://example.org/MobileWorldCongress> <http://dbpedia.org/ontology/status> "Cancelled"  <CERN-CNN-3> .
+ <http://example.org/TMobile> <http://dbpedia.org/ontology/stockTicker> "TMUS"  <CERN-CNN-3> .
+ <http://example.org/Amazon> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Technology> <CERN-CNN-3> .
+ <http://example.org/Amazon> <http://dbpedia.org/ontology/stockTicker> "AMZN"  <CERN-CNN-3> .
+ <http://example.org/KamranMumtaz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <CERN-CNN-3> .
+ <http://example.org/CES> <http://dbpedia.org/ontology/endDate> "2023-01-08"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-CNN-3> .
+ <http://example.org/CES> <http://dbpedia.org/ontology/theme> "Tech industry's trends"  <CERN-CNN-3> .
+ <http://example.org/Verge> <http://dbpedia.org/ontology/name> "The Verge"  <CERN-CNN-3> .
+ <http://example.org/CES> <http://example.org/economicImpact> <http://example.org/LasVegasEconomicImpact> <CERN-CNN-3> .
+ <http://example.org/WorldEconomicForum> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Conference> <CERN-CNN-3> .
+ <http://CERN-CNN-3.com/blank#nd0cb4b48c40b45a2a48e2697a4ad61fab2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Statement> <CERN-CNN-3> .
+ <http://CERN-CNN-3.com/blank#nd0cb4b48c40b45a2a48e2697a4ad61fab1> <http://schema.org/datePublished> "2023-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-CNN-3> .
+ <http://example.org/MikeSievert> <http://schema.org/name> "Mike Sievert"  <CERN-CNN-3> .
+ <http://example.org/Meta> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Technology> <CERN-CNN-3> .
+ <http://example.org/LasVegasEconomicImpact> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MonetaryAmount> <CERN-CNN-3> .
+ <http://example.org/RSACybersecurityConference> <http://dbpedia.org/ontology/endDate> "2023-02-28"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-CNN-3> .
+ <http://example.org/Twitter> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Technology> <CERN-CNN-3> .
+ <http://example.org/CES> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Conference> <CERN-CNN-3> .
+ <http://example.org/Meta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <CERN-CNN-3> .
+ <http://example.org/CES> <http://schema.org/eventStatus> <http://schema.org/EventScheduled> <CERN-CNN-3> .
+ <http://example.org/Meta> <http://dbpedia.org/ontology/formerName> "Facebook"  <CERN-CNN-3> .
+ <http://example.org/Pinterest> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Technology> <CERN-CNN-3> .
+ <http://example.org/SarahSobolewski> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <CERN-CNN-3> .
+ <http://CERN-CNN-3.com/blank#nd0cb4b48c40b45a2a48e2697a4ad61fab3> <http://schema.org/text> "T-Mobile’s entire team looks forward to an in-person CES 2023, which we hope includes an on-stage keynote in front of a live audience."  <CERN-CNN-3> .
+ <http://example.org/KamranMumtaz> <http://schema.org/name> "Kamran Mumtaz"  <CERN-CNN-3> .
+ <http://example.org/CES2020> <http://dbpedia.org/ontology/numberOfExhibitors> "4000"^^<http://www.w3.org/2001/XMLSchema#integer>  <CERN-CNN-3> .
+ <http://example.org/CES2022Virtual> <http://dbpedia.org/ontology/endDate> "2022-01-31"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-CNN-3> .
+ <http://CERN-CNN-3.com/blank#nd0cb4b48c40b45a2a48e2697a4ad61fab2> <http://schema.org/datePublished> "2023-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-CNN-3> .
+ <http://example.org/CES2020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Conference> <CERN-CNN-3> .
+ <http://example.org/LasVegasEconomicImpact> <http://schema.org/value> "291000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <CERN-CNN-3> .
+ <http://example.org/CES2020> <http://dbpedia.org/ontology/endDate> "2020-01-31"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-CNN-3> .
+ <http://example.org/CNN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/NewsMediaOrganization> <CERN-CNN-3> .
+ <http://example.org/Meta> <http://dbpedia.org/ontology/stockTicker> "FB"  <CERN-CNN-3> .
+ <http://example.org/CES> <http://dbpedia.org/ontology/startDate> "2023-01-05"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-CNN-3> .
+ <http://example.org/TMobile> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Telecommunications> <CERN-CNN-3> .
+ <http://example.org/WorldEconomicForum> <http://dbpedia.org/ontology/status> "Postponed"  <CERN-CNN-3> .
+ <http://example.org/MobileWorldCongress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Conference> <CERN-CNN-3> .
+ <http://CERN-CNN-3.com/blank#nd0cb4b48c40b45a2a48e2697a4ad61fab1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Statement> <CERN-CNN-3> .
+ <http://example.org/RSACybersecurityConference> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Conference> <CERN-CNN-3> .
+ <http://example.org/Amazon> <http://example.org/statement> <http://CERN-CNN-3.com/blank#nd0cb4b48c40b45a2a48e2697a4ad61fab1>  <CERN-CNN-3> .
+ <http://CERN-CNN-3.com/blank#nd0cb4b48c40b45a2a48e2697a4ad61fab1> <http://schema.org/text> "Due to the quickly shifting situation and uncertainty around the Omicron variant, we will no longer have an on-site presence at CES."  <CERN-CNN-3> .
+ <http://CERN-CNN-3.com/blank#nd0cb4b48c40b45a2a48e2697a4ad61fab3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Statement> <CERN-CNN-3> .
+ <http://example.org/CES2020> <http://dbpedia.org/ontology/startDate> "2020-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-CNN-3> .
+ <http://example.org/CES2022Virtual> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Conference> <CERN-CNN-3> .
+ <http://example.org/CES> <http://dbpedia.org/ontology/numberOfExhibitors> "1800"^^<http://www.w3.org/2001/XMLSchema#integer>  <CERN-CNN-3> .
+ <http://example.org/TMobile> <http://example.org/statement> <http://CERN-CNN-3.com/blank#nd0cb4b48c40b45a2a48e2697a4ad61fab3>  <CERN-CNN-3> .
+ <http://CERN-CNN-3.com/blank#nd0cb4b48c40b45a2a48e2697a4ad61fab2> <http://schema.org/text> "Out of an abundance of caution and care for our employees, we won’t be attending CES in-person due to the evolving public health concerns related to COVID-19."  <CERN-CNN-3> .
+ <http://example.org/Verge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/NewsMediaOrganization> <CERN-CNN-3> .
+ <http://example.org/MobileWorldCongress> <http://dbpedia.org/ontology/startDate> "2020-02-01"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-CNN-3> .
+ <http://example.org/ConsumerTechnologyAssociation> <http://dbpedia.org/ontology/name> "Consumer Technology Association"  <CERN-CNN-3> .
+ <http://example.org/MikeSievert> <http://schema.org/jobTitle> "CEO"  <CERN-CNN-3> .
+ <http://CERN-CNN-3.com/blank#nd0cb4b48c40b45a2a48e2697a4ad61fab3> <http://schema.org/datePublished> "2023-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-CNN-3> .
+ <http://example.org/Twitter> <http://dbpedia.org/ontology/stockTicker> "TWTR"  <CERN-CNN-3> .
+ <http://CERN-CNN-3.com/blank#nd0cb4b48c40b45a2a48e2697a4ad61fab2> <http://schema.org/author> <http://example.org/KamranMumtaz> <CERN-CNN-3> .
+ <http://example.org/RSACybersecurityConference> <http://dbpedia.org/ontology/status> "Postponed"  <CERN-CNN-3> .
+ <http://example.org/Twitter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <CERN-CNN-3> .
+ <http://example.org/RSACybersecurityConference> <http://dbpedia.org/ontology/startDate> "2023-02-01"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-CNN-3> .
+ <http://example.org/TMobile> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <CERN-CNN-3> .
+ <http://example.org/Pinterest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <CERN-CNN-3> .
+ <http://example.org/CNN> <http://dbpedia.org/ontology/name> "CNN"  <CERN-CNN-3> .
+ <http://example.org/MobileWorldCongress> <http://dbpedia.org/ontology/endDate> "2020-02-29"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-CNN-3> .
+ <http://example.org/Meta> <http://example.org/statement> <http://CERN-CNN-3.com/blank#nd0cb4b48c40b45a2a48e2697a4ad61fab2>  <CERN-CNN-3> .
+ <http://example.org/ces2022#Sony_Interactive_Entertainment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <CERN-CNN-4> .
+ <http://example.org/ces2022#Flex_G> <http://dbpedia.org/ontology/feature> "Tri-fold tablet design"  <CERN-CNN-4> .
+ <http://example.org/ces2022#CES> <http://dbpedia.org/ontology/theme> "Consumer Electronics"  <CERN-CNN-4> .
+ <http://example.org/ces2022#Meta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <CERN-CNN-4> .
+ <http://example.org/ces2022#VR2_Sense_Controller> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <CERN-CNN-4> .
+ <http://example.org/ces2022#Samsung> <http://dbpedia.org/ontology/product> <http://example.org/ces2022#Flex_S> <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb1> <http://xmlns.com/foaf/0.1/status> "Attended in person despite pandemic"  <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb8> <http://xmlns.com/foaf/0.1/page> <https://example.org/nextbase_marketing_officer> <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb1> <http://xmlns.com/foaf/0.1/experience> "Eleventh year attending CES"  <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb2> <http://xmlns.com/foaf/0.1/status> "Pre-recorded presentation"  <CERN-CNN-4> .
+ <http://example.org/ces2022#Meta> <http://dbpedia.org/ontology/product> <http://example.org/ces2022#Oculus_Gaming_System> <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb3> <http://schema.org/jobTitle> "President and CEO"  <CERN-CNN-4> .
+ <http://example.org/ces2022#CES> <http://dbpedia.org/ontology/attendanceMode> <http://schema.org/OfflineEventAttendanceMode> <CERN-CNN-4> .
+ <http://example.org/ces2022#General_Motors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <CERN-CNN-4> .
+ <http://example.org/ces2022#GAF_Energy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <CERN-CNN-4> .
+ <http://example.org/ces2022#GAF_Energy> <http://dbpedia.org/ontology/product> <http://example.org/ces2022#Solar_Roof_Shingle> <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb2> <http://schema.org/jobTitle> "CEO"  <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb3> <http://xmlns.com/foaf/0.1/name> "Jim Ryan"  <CERN-CNN-4> .
+ <http://example.org/ces2022#GAF_Energy> <http://dbpedia.org/ontology/president> <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb1>  <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb7> <http://schema.org/name> "Color-Changing Capability"  <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <CERN-CNN-4> .
+ <http://example.org/ces2022#Nextbase> <http://dbpedia.org/ontology/marketingOfficer> <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb8>  <CERN-CNN-4> .
+ <http://example.org/ces2022#Sony> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <CERN-CNN-4> .
+ <http://example.org/ces2022#Sony_Interactive_Entertainment> <http://dbpedia.org/ontology/president> <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb3>  <CERN-CNN-4> .
+ <http://example.org/ces2022#Asus> <http://dbpedia.org/ontology/product> <http://example.org/ces2022#Zenbook_17_Fold> <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb6> <http://schema.org/value> "Amplifies in-game sensations"^^<http://www.w3.org/2001/XMLSchema#string>  <CERN-CNN-4> .
+ <http://example.org/ces2022#Amagami_Ham_Ham> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <CERN-CNN-4> .
+ <http://example.org/ces2022#Flex_G> <http://schema.org/name> "Samsung Flex G"  <CERN-CNN-4> .
+ <http://example.org/ces2022#BMW> <http://dbpedia.org/ontology/feature> <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb7>  <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb1> <http://schema.org/memberOf> <http://example.org/ces2022#CES> <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb9> <http://schema.org/name> "OLED Display"  <CERN-CNN-4> .
+ <http://example.org/ces2022#Asus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb2> <http://xmlns.com/foaf/0.1/name> "Mary Barra"  <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb5> <http://schema.org/value> "Included"^^<http://www.w3.org/2001/XMLSchema#string>  <CERN-CNN-4> .
+ <http://example.org/ces2022#BMW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <CERN-CNN-4> .
+ <http://example.org/ces2022#LG> <http://dbpedia.org/ontology/product> <http://example.org/ces2022#Vision_Omnipod> <CERN-CNN-4> .
+ <http://example.org/ces2022#LG> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <CERN-CNN-4> .
+ <http://example.org/ces2022#BMW> <http://dbpedia.org/ontology/product> <http://example.org/ces2022#BMW_iX_Flow> <CERN-CNN-4> .
+ <http://example.org/ces2022#Vision_Omnipod> <http://schema.org/name> "LG Vision Omnipod"  <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb1> <http://xmlns.com/foaf/0.1/name> "Martin DeBono"  <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb4> <http://dbpedia.org/ontology/feature> <http://example.org/ces2022#VR2_Sense_Controller> <CERN-CNN-4> .
+ <http://example.org/ces2022#Samsung> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <CERN-CNN-4> .
+ <http://example.org/ces2022#CES> <http://dbpedia.org/ontology/status> "Different due to pandemic"  <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb6> <http://schema.org/name> "Headset Feedback"  <CERN-CNN-4> .
+ <http://example.org/ces2022#Nextbase_IQ> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb3> <http://xmlns.com/foaf/0.1/page> <https://example.org/sony_interactive_entertainment_president> <CERN-CNN-4> .
+ <http://example.org/ces2022#Amagami_Ham_Ham> <http://schema.org/name> "Amagami Ham Ham"  <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb2> <http://xmlns.com/foaf/0.1/made> <http://example.org/ces2022#CES_Kickoff_Event> <CERN-CNN-4> .
+ <http://example.org/ces2022#CES> <http://dbpedia.org/ontology/startDate> "2022-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-CNN-4> .
+ <http://example.org/ces2022#Meta> <http://xmlns.com/foaf/0.1/name> "Facebook Parent Company"  <CERN-CNN-4> .
+ <http://example.org/ces2022#Sony_Interactive_Entertainment> <http://dbpedia.org/ontology/product> <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb4>  <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb7> <http://schema.org/value> "Electronic panels change color between white and dark gray"^^<http://www.w3.org/2001/XMLSchema#string>  <CERN-CNN-4> .
+ <http://example.org/ces2022#Nextbase> <http://dbpedia.org/ontology/product> <http://example.org/ces2022#Nextbase_IQ> <CERN-CNN-4> .
+ <http://example.org/ces2022#VR2_Sense_Controller> <http://dbpedia.org/ontology/feature> <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb6>  <CERN-CNN-4> .
+ <http://example.org/ces2022#Samsung> <http://dbpedia.org/ontology/product> <http://example.org/ces2022#Flex_G> <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb10> <http://schema.org/name> "Amenities"  <CERN-CNN-4> .
+ <http://example.org/ces2022#CES> <http://schema.org/name> "CES 2022"  <CERN-CNN-4> .
+ <http://example.org/ces2022#Amagami_Ham_Ham> <http://dbpedia.org/ontology/type> "Stuffed Animal"  <CERN-CNN-4> .
+ <http://example.org/ces2022#Vision_Omnipod> <http://dbpedia.org/ontology/type> "Autonomous Vehicle Concept"  <CERN-CNN-4> .
+ <http://example.org/ces2022#Nextbase_IQ> <http://dbpedia.org/ontology/type> "Smart Dash Camera"  <CERN-CNN-4> .
+ <http://example.org/ces2022#Zenbook_17_Fold> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <CERN-CNN-4> .
+ <http://example.org/ces2022#VR2_Sense_Controller> <http://dbpedia.org/ontology/feature> <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb5>  <CERN-CNN-4> .
+ <http://example.org/ces2022#VR2_Sense_Controller> <http://schema.org/name> "VR2 Sense Controller"  <CERN-CNN-4> .
+ <http://example.org/ces2022#Meta> <http://dbpedia.org/ontology/hiring> "Massive hiring spree to build out the metaverse"  <CERN-CNN-4> .
+ <http://example.org/ces2022#Zenbook_17_Fold> <http://schema.org/name> "Asus Zenbook 17 Fold"  <CERN-CNN-4> .
+ <http://example.org/ces2022#John_Deere> <http://dbpedia.org/ontology/product> <http://example.org/ces2022#Self_Driving_Tractor> <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb1> <http://schema.org/jobTitle> "President"  <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> <CERN-CNN-4> .
+ <http://example.org/ces2022#Vision_Omnipod> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <CERN-CNN-4> .
+ <http://example.org/ces2022#Flex_S> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <CERN-CNN-4> .
+ <http://example.org/ces2022#Nextbase_IQ> <http://schema.org/manufacturer> <http://example.org/ces2022#Nextbase> <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <CERN-CNN-4> .
+ <http://example.org/ces2022#Vision_Omnipod> <http://dbpedia.org/ontology/feature> <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb10>  <CERN-CNN-4> .
+ <http://example.org/ces2022#Nextbase_IQ> <http://schema.org/name> "Nextbase IQ"  <CERN-CNN-4> .
+ <http://example.org/ces2022#Flex_S> <http://dbpedia.org/ontology/feature> "Tri-fold tablet design"  <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb8> <http://xmlns.com/foaf/0.1/name> "Richard Browning"  <CERN-CNN-4> .
+ <http://example.org/ces2022#CES> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Consumer_Electronics_Show> <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb4> <http://schema.org/name> "PlayStation VR2"  <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb9> <http://schema.org/value> "17-inch foldable"^^<http://www.w3.org/2001/XMLSchema#string>  <CERN-CNN-4> .
+ <http://example.org/ces2022#Sony> <http://dbpedia.org/ontology/announcement> "Plans for its own car brand"  <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb8> <http://schema.org/jobTitle> "Chief Marketing and Sales Officer"  <CERN-CNN-4> .
+ <http://example.org/ces2022#John_Deere> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <CERN-CNN-4> .
+ <http://example.org/ces2022#Zenbook_17_Fold> <http://dbpedia.org/ontology/type> "Foldable Laptop"  <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb10> <http://schema.org/value> "Fridge, Reclining Chair, Entertainment Screen, AI Assistant"^^<http://www.w3.org/2001/XMLSchema#string>  <CERN-CNN-4> .
+ <http://example.org/ces2022#Nextbase> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <CERN-CNN-4> .
+ <http://example.org/ces2022#Amagami_Ham_Ham> <http://dbpedia.org/ontology/feature> "Nibbles on finger to relieve stress"  <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb3> <http://xmlns.com/foaf/0.1/depiction> <https://example.org/images/jim_ryan.jpg> <CERN-CNN-4> .
+ <http://example.org/ces2022#Zenbook_17_Fold> <http://dbpedia.org/ontology/feature> <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb9>  <CERN-CNN-4> .
+ <http://example.org/ces2022#General_Motors> <http://dbpedia.org/ontology/ceo> <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb2>  <CERN-CNN-4> .
+ <http://example.org/ces2022#GAF_Energy> <http://xmlns.com/foaf/0.1/name> "GAF Energy"  <CERN-CNN-4> .
+ <http://example.org/ces2022#Meta> <http://dbpedia.org/ontology/marketPosition> "Market leader in metaverse"  <CERN-CNN-4> .
+ <http://example.org/ces2022#Flex_S> <http://schema.org/name> "Samsung Flex S"  <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <CERN-CNN-4> .
+ <http://example.org/ces2022#Flex_G> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <CERN-CNN-4> .
+ <http://example.org/ces2022#CES> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <CERN-CNN-4> .
+ <http://CERN-CNN-4.com/blank#n931c0dbfee324be1b82d4c234e7cb67fb5> <http://schema.org/name> "Eye Tracking"  <CERN-CNN-4> .
+ <http://cnn.com/article> <http://schema.org/datePublished> "2023-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-CNN-5> .
+ <http://dbpedia.org/resource/Gattaca> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Jude_Law> <CERN-CNN-5> .
+ <http://dbpedia.org/resource/ChatGPT> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/OpenAI> <CERN-CNN-5> .
+ <http://dbpedia.org/resource/Siri> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/Apple_Inc> <CERN-CNN-5> .
+ <http://dbpedia.org/resource/Argonne_National_Laboratory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <CERN-CNN-5> .
+ <http://dbpedia.org/resource/CRISPR-Cas9> <http://dbpedia.org/ontology/product> <http://dbpedia.org/resource/Gene_editing> <CERN-CNN-5> .
+ <http://dbpedia.org/resource/He_Jiankui> <http://dbpedia.org/ontology/convictionFor> <http://dbpedia.org/resource/Gene_editing> <CERN-CNN-5> .
+ <http://cnn.com/Melissa_Monique_Littlefield> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Professor> <CERN-CNN-5> .
+ <http://cnn.com/Melissa_Monique_Littlefield> <http://dbpedia.org/ontology/workPlace> <http://dbpedia.org/resource/University_of_Illinois_Urbana-Champaign> <CERN-CNN-5> .
+ <http://dbpedia.org/resource/He_Jiankui> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Scientist> <CERN-CNN-5> .
+ <http://dbpedia.org/resource/Gattaca> <http://dbpedia.org/ontology/releaseDate> "1997-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-CNN-5> .
+ <http://cnn.com/Melissa_Monique_Littlefield> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Speculative_fiction> <CERN-CNN-5> .
+ <http://dbpedia.org/resource/Gattaca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <CERN-CNN-5> .
+ <http://dbpedia.org/resource/Siri> <http://schema.org/about> <http://dbpedia.org/resource/Artificial_intelligence> <CERN-CNN-5> .
+ <http://dbpedia.org/resource/Gattaca> <http://dbpedia.org/ontology/inspiredBy> <http://dbpedia.org/resource/Human_Genome_Project> <CERN-CNN-5> .
+ <http://cnn.com/article> <http://schema.org/publisher> <http://cnn.com/CNN> <CERN-CNN-5> .
+ <http://dbpedia.org/resource/Contagion> <http://dbpedia.org/ontology/releaseDate> "2011-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-CNN-5> .
+ <http://cnn.com/article> <http://schema.org/text> "Great sci-fi films are both fantastical and prescient. They can whisk viewers to a galaxy far, far away or exaggerate real scenarios on a fictionalized version of our planet. ..."  <CERN-CNN-5> .
+ <http://cnn.com/Melissa_Monique_Littlefield> <http://xmlns.com/foaf/0.1/name> "Melissa Monique Littlefield"  <CERN-CNN-5> .
+ <http://dbpedia.org/resource/M3GAN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <CERN-CNN-5> .
+ <http://cnn.com/article> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> <CERN-CNN-5> .
+ <http://dbpedia.org/resource/Her> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <CERN-CNN-5> .
+ <http://dbpedia.org/resource/M3GAN> <http://dbpedia.org/ontology/releaseDate> "2022-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-CNN-5> .
+ <http://cnn.com/Lisa_Yaszek> <http://dbpedia.org/ontology/workPlace> <http://dbpedia.org/resource/Georgia_Institute_of_Technology> <CERN-CNN-5> .
+ <http://cnn.com/Lisa_Yaszek> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Professor> <CERN-CNN-5> .
+ <http://dbpedia.org/resource/Victoria_Gray> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-CNN-5> .
+ <http://cnn.com/Lisa_Yaszek> <http://xmlns.com/foaf/0.1/name> "Lisa Yaszek"  <CERN-CNN-5> .
+ <http://dbpedia.org/resource/Contagion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <CERN-CNN-5> .
+ <http://cnn.com/article> <http://schema.org/author> <http://cnn.com/Lisa_Yaszek> <CERN-CNN-5> .
+ <http://dbpedia.org/resource/Gattaca> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Ethan_Hawke> <CERN-CNN-5> .
+ <http://dbpedia.org/resource/Gattaca> <http://schema.org/about> <http://dbpedia.org/resource/Gene_editing> <CERN-CNN-5> .
+ <http://dbpedia.org/resource/Her> <http://schema.org/about> <http://dbpedia.org/resource/Artificial_intelligence> <CERN-CNN-5> .
+ <http://dbpedia.org/resource/CRISPR-Cas9> <http://dbpedia.org/ontology/discovered> "2012-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-CNN-5> .
+ <http://dbpedia.org/resource/Victoria_Gray> <http://dbpedia.org/ontology/treatedWith> <http://dbpedia.org/resource/CRISPR-Cas9> <CERN-CNN-5> .
+ <http://dbpedia.org/resource/ChatGPT> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <CERN-CNN-5> .
+ <http://cnn.com/article> <http://schema.org/about> <http://cnn.com/sci-fi-films> <CERN-CNN-5> .
+ <http://dbpedia.org/resource/Her> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Joaquin_Phoenix> <CERN-CNN-5> .
+ <http://dbpedia.org/resource/Victoria_Gray> <http://xmlns.com/foaf/0.1/name> "Victoria Gray"  <CERN-CNN-5> .
+ <http://dbpedia.org/resource/He_Jiankui> <http://dbpedia.org/ontology/conviction> "2019-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-CNN-5> .
+ <http://dbpedia.org/resource/University_of_Illinois_Urbana-Champaign> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <CERN-CNN-5> .
+ <http://cnn.com/Melissa_Monique_Littlefield> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-CNN-5> .
+ <http://dbpedia.org/resource/M3GAN> <http://schema.org/about> <http://dbpedia.org/resource/Artificial_intelligence> <CERN-CNN-5> .
+ <http://dbpedia.org/resource/University_of_Illinois_Urbana-Champaign> <http://dbpedia.org/ontology/faculty> <http://cnn.com/Melissa_Monique_Littlefield> <CERN-CNN-5> .
+ <http://dbpedia.org/resource/Covid-19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Disease> <CERN-CNN-5> .
+ <http://dbpedia.org/resource/CRISPR-Cas9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Technology> <CERN-CNN-5> .
+ <http://dbpedia.org/resource/Contagion> <http://schema.org/about> <http://dbpedia.org/resource/Pandemic> <CERN-CNN-5> .
+ <http://dbpedia.org/resource/Victoria_Gray> <http://schema.org/healthCondition> <http://dbpedia.org/resource/Sickle_cell_disease> <CERN-CNN-5> .
+ <http://dbpedia.org/resource/M3GAN> <http://schema.org/about> <http://dbpedia.org/resource/Robot> <CERN-CNN-5> .
+ <http://cnn.com/Lisa_Yaszek> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-CNN-5> .
+ <http://cnn.com/Lisa_Yaszek> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Science_fiction_studies> <CERN-CNN-5> .
+ <http://dbpedia.org/resource/Gattaca> <http://dbpedia.org/ontology/inspiredBy> <http://dbpedia.org/resource/Dolly_(sheep)> <CERN-CNN-5> .
+ <http://dbpedia.org/resource/Covid-19> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Worldwide> <CERN-CNN-5> .
+ <http://cnn.com/Melissa_Monique_Littlefield> <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Science_fiction> <CERN-CNN-5> .
+ <http://dbpedia.org/resource/He_Jiankui> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <CERN-CNN-5> .
+ <http://dbpedia.org/resource/Siri> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <CERN-CNN-5> .
+ <http://dbpedia.org/resource/Argonne_National_Laboratory> <http://dbpedia.org/ontology/operator> <http://dbpedia.org/resource/United_States_Department_of_Energy> <CERN-CNN-5> .
+ <http://dbpedia.org/resource/Her> <http://dbpedia.org/ontology/releaseDate> "2013-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-CNN-5> .
+ <http://dbpedia.org/resource/CRISPR-Cas9> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Biotechnology> <CERN-CNN-5> .
+ <http://dbpedia.org/resource/He_Jiankui> <http://xmlns.com/foaf/0.1/name> "He Jiankui"  <CERN-CNN-5> .
+ <http://dbpedia.org/resource/ChatGPT> <http://schema.org/about> <http://dbpedia.org/resource/Artificial_intelligence> <CERN-CNN-5> .
+ <http://dbpedia.org/resource/Covid-19> <http://dbpedia.org/ontology/outbreakDate> "2020-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-CNN-5> .
+ <http://dbpedia.org/resource/Yun_Wang> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/California_Institute_of_Technology> <CERN-CNN-6> .
+ <http://example.org/EuclidMission> <http://dbpedia.org/ontology/missionStatus> <http://dbpedia.org/ontology/Active> <CERN-CNN-6> .
+ <http://dbpedia.org/resource/Jason_Rhodes> <http://dbpedia.org/ontology/occupation> "Senior Research Scientist"  <CERN-CNN-6> .
+ <http://example.org/EuclidMission> <http://dbpedia.org/ontology/launchRocket> <http://dbpedia.org/resource/Falcon_9> <CERN-CNN-6> .
+ <http://example.org/EuclidMission> <http://dbpedia.org/ontology/operator> <http://dbpedia.org/resource/European_Space_Agency> <CERN-CNN-6> .
+ <http://dbpedia.org/resource/Euclid_(spacecraft)> <http://dbpedia.org/ontology/orbit> <http://dbpedia.org/resource/Lagrange_pointL2> <CERN-CNN-6> .
+ <http://dbpedia.org/resource/Yun_Wang> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <CERN-CNN-6> .
+ <http://example.org/EuclidMission> <http://dbpedia.org/property/missionDuration> "6 years"^^<http://www.w3.org/2001/XMLSchema#duration>  <CERN-CNN-6> .
+ <http://dbpedia.org/resource/Euclid_of_Alexandria> <http://dbpedia.org/ontology/influenced> <http://dbpedia.org/resource/Euclid_(spacecraft)> <CERN-CNN-6> .
+ <http://example.org/EuclidMission> <http://dbpedia.org/ontology/spacecraft> <http://dbpedia.org/resource/Euclid_(spacecraft)> <CERN-CNN-6> .
+ <http://example.org/EuclidMission> <http://dbpedia.org/ontology/launchDate> "2023-03-18T11:12:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <CERN-CNN-6> .
+ <http://example.org/WonderTheoryNewsletter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> <CERN-CNN-6> .
+ <http://example.org/EuclidMission> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/SpaceMission> <CERN-CNN-6> .
+ <http://dbpedia.org/resource/Edwin_Hubble> <http://dbpedia.org/ontology/discovery> "Expansion of the universe"  <CERN-CNN-6> .
+ <http://dbpedia.org/resource/Nancy_Grace_Roman_Space_Telescope> <http://dbpedia.org/ontology/objective> "Study cosmic acceleration and create three-dimensional maps of the universe."@en  <CERN-CNN-6> .
+ <http://dbpedia.org/resource/Yun_Wang> <http://dbpedia.org/ontology/statement> "Together, Euclid and Roman will add up to much more than the sum of their parts."@en  <CERN-CNN-6> .
+ <http://example.org/WonderTheoryNewsletter> <http://schema.org/publisher> <http://example.org/CNN> <CERN-CNN-6> .
+ <http://example.org/VisibleLightCamera> <http://schema.org/name> "Visible Light Camera"  <CERN-CNN-6> .
+ <http://dbpedia.org/resource/Yun_Wang> <http://dbpedia.org/ontology/occupation> "Senior Research Scientist"  <CERN-CNN-6> .
+ <http://example.org/WonderTheoryNewsletter> <http://schema.org/name> "Wonder Theory science newsletter"  <CERN-CNN-6> .
+ <http://dbpedia.org/resource/Jason_Rhodes> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/Jet_Propulsion_Laboratory> <CERN-CNN-6> .
+ <http://example.org/NearInfraredCameraSpectrometer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Instrument> <CERN-CNN-6> .
+ <http://example.org/EuclidMission> <http://dbpedia.org/ontology/launchSite> <http://dbpedia.org/resource/Cape_Canaveral_Space_Force_Station> <CERN-CNN-6> .
+ <http://dbpedia.org/resource/Nancy_Grace_Roman_Space_Telescope> <http://dbpedia.org/ontology/launchYear> "2027"^^<http://www.w3.org/2001/XMLSchema#gYear>  <CERN-CNN-6> .
+ <http://dbpedia.org/resource/James_Webb_Space_Telescope> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Lagrange_pointL2> <CERN-CNN-6> .
+ <http://dbpedia.org/resource/Euclid_(spacecraft)> <http://dbpedia.org/ontology/distanceFromEarth> "1600000.0"^^<http://www.w3.org/2001/XMLSchema#float>  <CERN-CNN-6> .
+ <http://example.org/EuclidMission> <http://dbpedia.org/ontology/instrument> <http://example.org/NearInfraredCameraSpectrometer> <CERN-CNN-6> .
+ <http://example.org/EuclidMission> <http://dbpedia.org/ontology/instrument> <http://example.org/VisibleLightCamera> <CERN-CNN-6> .
+ <http://example.org/CNN> <http://dbpedia.org/ontology/product> <http://example.org/WonderTheoryNewsletter> <CERN-CNN-6> .
+ <http://example.org/WonderTheoryNewsletter> <http://schema.org/about> <http://dbpedia.org/resource/Universe> <CERN-CNN-6> .
+ <http://dbpedia.org/resource/Jason_Rhodes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <CERN-CNN-6> .
+ <http://dbpedia.org/resource/Georges_Lemaître> <http://dbpedia.org/ontology/discovery> "Expansion of the universe"  <CERN-CNN-6> .
+ <http://example.org/NearInfraredCameraSpectrometer> <http://schema.org/name> "Near-Infrared Camera/Spectrometer"  <CERN-CNN-6> .
+ <http://example.org/CNN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <CERN-CNN-6> .
+ <http://example.org/VisibleLightCamera> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Instrument> <CERN-CNN-6> .
+ <http://dbpedia.org/resource/Jason_Rhodes> <http://dbpedia.org/ontology/statement> "Twenty-five years after its discovery, the universe’s accelerated expansion remains one of the most pressing mysteries in astrophysics."@en  <CERN-CNN-6> .
+ <http://dbpedia.org/resource/Euclid_(spacecraft)> <http://dbpedia.org/ontology/diameter> "1.2"^^<http://www.w3.org/2001/XMLSchema#float>  <CERN-CNN-6> .
+ <http://example.org/EuclidMission> <http://dbpedia.org/ontology/objective> "To observe the dark side of the universe, including dark matter and dark energy."@en  <CERN-CNN-6> .
+ <http://example.org/survey/1> <http://example.org/terms/VideoContentDidNotStartAfterAd> "Video content did not start after ad"  <CERN-CNN-7> .
+ <http://example.org/terms/AudioOnAdWasTooLoud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> <CERN-CNN-7> .
+ <http://example.org/survey/1> <http://example.org/terms/VideoPlayerSlowToLoad> "Video player was slow to load content"  <CERN-CNN-7> .
+ <http://example.org/survey/1> <http://example.org/terms/AudioOnAdWasTooLoud> "Audio on ad was too loud"  <CERN-CNN-7> .
+ <http://example.org/terms/VideoPlayerSlowToLoad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> <CERN-CNN-7> .
+ <http://example.org/survey/1> <http://example.org/terms/VideoContentNeverLoaded> "Video content never loaded"  <CERN-CNN-7> .
+ <http://example.org/terms/VideoContentDidNotStartAfterAd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> <CERN-CNN-7> .
+ <http://example.org/terms/VideoContentNeverLoaded> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> <CERN-CNN-7> .
+ <http://example.org/terms/OtherIssues> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> <CERN-CNN-7> .
+ <http://example.org/survey/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Resource> <CERN-CNN-7> .
+ <http://example.org/survey/1> <http://example.org/terms/AdFrozeOrDidNotFinishLoading> "Ad froze or did not finish loading"  <CERN-CNN-7> .
+ <http://example.org/survey/1> <http://example.org/terms/OtherIssues> "Other issues"  <CERN-CNN-7> .
+ <http://example.org/terms/AdFrozeOrDidNotFinishLoading> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/1999/02/22-rdf-syntax-ns#Property> <CERN-CNN-7> .
+ <http://example.org/survey/1> <http://example.org/terms/relatedToAd> <http://example.org/ad/12345> <CERN-CNN-7> .
+ <http://example.org/company/Acer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/company/TechCompany> <CERN-CNN-8> .
+ <http://example.org/ces/ConsumerElectronicsShow2023> <http://example.org/event/hasTheme> <http://example.org/event/FoldableDevices> <CERN-CNN-8> .
+ <http://example.org/company/Meta> <http://example.org/event/ignitedInterestIn> <http://example.org/event/Metaverse> <CERN-CNN-8> .
+ <http://example.org/cta/ConsumerTechnologyAssociation> <http://example.org/event/hosts> <http://example.org/ces/ConsumerElectronicsShow2023> <CERN-CNN-8> .
+ <http://example.org/ces/ConsumerElectronicsShow2023> <http://example.org/event/features> <http://example.org/company/Delta> <CERN-CNN-8> .
+ <http://example.org/ces/ConsumerElectronicsShow2023> <http://example.org/event/features> <http://example.org/company/Sony> <CERN-CNN-8> .
+ <http://example.org/company/Kohler> <http://example.org/product/offers> <http://example.org/product/AromatherapyShowerSystem> <CERN-CNN-8> .
+ <http://example.org/product/FlexHybridPrototype> <http://example.org/product/hasFeature> <http://example.org/product/SlidableDisplay> <CERN-CNN-8> .
+ <http://example.org/ces/ConsumerElectronicsShow2023> <http://example.org/event/features> <http://example.org/company/Amazon> <CERN-CNN-8> .
+ <http://example.org/company/Meta> <http://example.org/event/changedNameFrom> "Facebook"  <CERN-CNN-8> .
+ <http://example.org/product/WithingsUScan> <http://example.org/product/monitors> <http://example.org/product/Metabolism> <CERN-CNN-8> .
+ <http://example.org/company/HTC> <http://example.org/product/expectedToLaunch> <http://example.org/product/ViveFocus3> <CERN-CNN-8> .
+ <http://example.org/company/Meta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/company/TechCompany> <CERN-CNN-8> .
+ <http://example.org/ces/ConsumerElectronicsShow2023> <http://example.org/event/hasTheme> <http://example.org/event/Sustainability> <CERN-CNN-8> .
+ <http://example.org/product/WithingsUScan> <http://example.org/product/monitors> <http://example.org/product/VitaminDeficiencies> <CERN-CNN-8> .
+ <http://example.org/product/FlexHybridPrototype> <http://example.org/product/hasFeature> <http://example.org/product/FoldableDisplay> <CERN-CNN-8> .
+ <http://example.org/person/GaryShapiro> <http://example.org/person/worksFor> <http://example.org/cta/ConsumerTechnologyAssociation> <CERN-CNN-8> .
+ <http://example.org/product/AromatherapyShowerSystem> <http://example.org/product/hasFeature> <http://example.org/product/ScentsInfusion> <CERN-CNN-8> .
+ <http://example.org/person/GaryShapiro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/person/President> <CERN-CNN-8> .
+ <http://example.org/product/eKinektBicycleDesk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/product/ElectronicDevice> <CERN-CNN-8> .
+ <http://example.org/product/ElectricRamPickupTruckConcept> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/product/Vehicle> <CERN-CNN-8> .
+ <http://example.org/product/ViveFocus3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/product/VirtualRealityDevice> <CERN-CNN-8> .
+ <http://example.org/ces/ConsumerElectronicsShow2023> <http://example.org/event/features> <http://example.org/company/BMW> <CERN-CNN-8> .
+ <http://example.org/company/HTC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/company/TechCompany> <CERN-CNN-8> .
+ <http://example.org/company/SamsungDisplay> <http://example.org/product/offers> <http://example.org/product/FlexHybridPrototype> <CERN-CNN-8> .
+ <http://example.org/product/ViveFocus3> <http://example.org/product/hasEmphasisOn> <http://example.org/event/Metaverse> <CERN-CNN-8> .
+ <http://example.org/product/WithingsUScan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/product/HealthDevice> <CERN-CNN-8> .
+ <http://example.org/company/Stellantis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/company/AutomotiveCompany> <CERN-CNN-8> .
+ <http://example.org/event/Metaverse> <http://example.org/event/hasInterestLevel> "Simmered"  <CERN-CNN-8> .
+ <http://example.org/product/eKinektBicycleDesk> <http://example.org/product/generates> <http://example.org/product/KineticEnergy> <CERN-CNN-8> .
+ <http://example.org/product/UScanCycleSync> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/product/HealthDevice> <CERN-CNN-8> .
+ <http://example.org/company/Kohler> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/company/TechCompany> <CERN-CNN-8> .
+ <http://example.org/ces/ConsumerElectronicsShow2023> <http://example.org/event/features> <http://example.org/company/Samsung> <CERN-CNN-8> .
+ <http://example.org/product/NewUserInterfaceForCars> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/product/VehicleFeature> <CERN-CNN-8> .
+ <http://example.org/cta/ConsumerTechnologyAssociation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/event/EventOrganizer> <CERN-CNN-8> .
+ <http://example.org/product/UScanCycleSync> <http://example.org/product/tracks> <http://example.org/event/Periods> <CERN-CNN-8> .
+ <http://example.org/ces/ConsumerElectronicsShow2023> <http://example.org/event/hasLivestreamOption> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <CERN-CNN-8> .
+ <http://example.org/product/FlexHybridPrototype> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/product/ElectronicDevice> <CERN-CNN-8> .
+ <http://example.org/company/Acer> <http://example.org/product/offers> <http://example.org/product/eKinektBicycleDesk> <CERN-CNN-8> .
+ <http://example.org/company/BMW> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/company/AutomotiveCompany> <CERN-CNN-8> .
+ <http://example.org/ces/ConsumerElectronicsShow2023> <http://example.org/event/features> <http://example.org/company/JohnDeere> <CERN-CNN-8> .
+ <http://example.org/ces/ConsumerElectronicsShow2023> <http://example.org/event/hasAttendeeCount> "100000"^^<http://www.w3.org/2001/XMLSchema#integer>  <CERN-CNN-8> .
+ <http://example.org/product/AromatherapyShowerSystem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/product/ElectronicDevice> <CERN-CNN-8> .
+ <http://example.org/product/WithingsUScan> <http://example.org/product/monitors> <http://example.org/product/Hydration> <CERN-CNN-8> .
+ <http://example.org/ces/ConsumerElectronicsShow2023> <http://example.org/event/hasEndDate> "2023-01-08"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-CNN-8> .
+ <http://example.org/company/Stellantis> <http://example.org/product/willShow> <http://example.org/product/ElectricRamPickupTruckConcept> <CERN-CNN-8> .
+ <http://example.org/product/UScanCycleSync> <http://example.org/product/tracks> <http://example.org/event/OvulationCycles> <CERN-CNN-8> .
+ <http://example.org/company/Meta> <http://example.org/event/investsIn> <http://example.org/product/VirtualRealityTechnologies> <CERN-CNN-8> .
+ <http://example.org/ces/ConsumerElectronicsShow2023> <http://example.org/event/hasPercentageOfFortune500Participation> "60"^^<http://www.w3.org/2001/XMLSchema#integer>  <CERN-CNN-8> .
+ <http://example.org/product/WithingsUScan> <http://example.org/product/hasVariant> <http://example.org/product/UScanCycleSync> <CERN-CNN-8> .
+ <http://example.org/ces/ConsumerElectronicsShow2023> <http://example.org/event/isInYear> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <CERN-CNN-8> .
+ <http://example.org/company/BMW> <http://example.org/product/willReveal> <http://example.org/product/NewUserInterfaceForCars> <CERN-CNN-8> .
+ <http://example.org/product/NewUserInterfaceForCars> <http://example.org/product/isImportantFor> <http://example.org/event/LuxuryCarMarket> <CERN-CNN-8> .
+ <http://example.org/product/eKinektBicycleDesk> <http://example.org/product/allowsActivities> <http://example.org/event/Working> <CERN-CNN-8> .
+ <http://example.org/ces/ConsumerElectronicsShow2023> <http://example.org/event/hasStartDate> "2023-01-05"^^<http://www.w3.org/2001/XMLSchema#date>  <CERN-CNN-8> .
+ <http://example.org/product/ElectricRamPickupTruckConcept> <http://example.org/product/isElectric> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <CERN-CNN-8> .
+ <http://example.org/product/WithingsUScan> <http://example.org/product/hasPrice> "500"^^<http://www.w3.org/2001/XMLSchema#decimal>  <CERN-CNN-8> .
+ <http://example.org/company/Meta> <http://example.org/event/investsIn> <http://example.org/product/AugmentedRealityTechnologies> <CERN-CNN-8> .
+ <http://example.org/ces/ConsumerElectronicsShow2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/event/TechConference> <CERN-CNN-8> .
+ <http://example.org/ces/ConsumerElectronicsShow2023> <http://example.org/event/hasTheme> <http://example.org/event/ArtificialIntelligence> <CERN-CNN-8> .
+ <http://example.org/cta/ConsumerTechnologyAssociation> <http://example.org/event/hasPresident> <http://example.org/person/GaryShapiro> <CERN-CNN-8> .
+ <http://example.org/event/Metaverse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/event/TechTrend> <CERN-CNN-8> .
+ <http://example.org/ces/ConsumerElectronicsShow2023> <http://example.org/event/hasLocation> "Las Vegas"  <CERN-CNN-8> .
+ <http://example.org/ces/ConsumerElectronicsShow2023> <http://example.org/event/hasPreviousYearAttendeeCount> "45000"^^<http://www.w3.org/2001/XMLSchema#integer>  <CERN-CNN-8> .
+ <http://example.org/company/SamsungDisplay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/company/TechCompany> <CERN-CNN-8> .
+ <http://example.org/product/eKinektBicycleDesk> <http://example.org/product/allowsActivities> <http://example.org/event/Pedaling> <CERN-CNN-8> .
+ <http://example.org/event/Metaverse> <http://example.org/event/wasHotTopicInYear> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <CERN-CNN-8> .
+ <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <CERN-CNN-9> .
+ <http://dbpedia.org/resource/Apple_Inc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <CERN-CNN-9> .
+ <http://example.org/CES2021> <http://dbpedia.org/ontology/theme> <http://example.org/AnxietyAndStressTheme> <CERN-CNN-9> .
+ <http://example.org/CES2021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <CERN-CNN-9> .
+ <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b8> <http://dbpedia.org/ontology/status> "In development"  <CERN-CNN-9> .
+ <http://example.org/CES2021> <http://schema.org/name> "CES 2021"  <CERN-CNN-9> .
+ <http://example.org/CES2020> <http://schema.org/name> "CES 2020"  <CERN-CNN-9> .
+ <http://example.org/KeurigLikeMachineForSoftServeIceCream> <http://schema.org/name> "Keurig-like machine for soft-serve ice cream"  <CERN-CNN-9> .
+ <http://example.org/CES2020> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Las_Vegas> <CERN-CNN-9> .
+ <http://example.org/BrianKwon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <CERN-CNN-9> .
+ <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b6> <http://schema.org/name> "Lock box for Amazon packages"  <CERN-CNN-9> .
+ <http://example.org/BrianKwon> <http://schema.org/name> "Brian Kwon"  <CERN-CNN-9> .
+ <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b4> <http://dbpedia.org/ontology/purpose> "Regulate stress"  <CERN-CNN-9> .
+ <http://example.org/StartupNeon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <CERN-CNN-9> .
+ <http://example.org/CES2021> <http://dbpedia.org/ontology/date> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <CERN-CNN-9> .
+ <http://example.org/LonelinessTheme> <http://schema.org/name> "Loneliness"  <CERN-CNN-9> .
+ <http://example.org/AppleRacialEquityAndJusticeInitiative> <http://schema.org/name> "Apple Racial Equity and Justice Initiative"  <CERN-CNN-9> .
+ <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <CERN-CNN-9> .
+ <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b7> <http://schema.org/name> "Car seat pad"  <CERN-CNN-9> .
+ <http://dbpedia.org/resource/Apple_Inc> <http://dbpedia.org/ontology/product> <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b12>  <CERN-CNN-9> .
+ <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b5> <http://schema.org/name> "Smart storage box"  <CERN-CNN-9> .
+ <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <CERN-CNN-9> .
+ <http://dbpedia.org/resource/Apple_Inc> <http://dbpedia.org/ontology/product> <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b10>  <CERN-CNN-9> .
+ <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b8> <http://dbpedia.org/ontology/manufacturer> <http://dbpedia.org/resource/Samsung> <CERN-CNN-9> .
+ <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b1> <http://schema.org/name> "Robots that call 911"  <CERN-CNN-9> .
+ <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b7> <http://dbpedia.org/ontology/purpose> "Send alert if child is forgotten in the backseat"  <CERN-CNN-9> .
+ <http://example.org/AnxietyAndStressTheme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> <CERN-CNN-9> .
+ <http://example.org/AppleRacialEquityAndJusticeInitiative> <http://dbpedia.org/ontology/founder> <http://dbpedia.org/resource/Apple_Inc> <CERN-CNN-9> .
+ <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <CERN-CNN-9> .
+ <http://example.org/StartupNeon> <http://schema.org/name> "Neon"  <CERN-CNN-9> .
+ <http://example.org/CES2020> <http://dbpedia.org/ontology/product> <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b1>  <CERN-CNN-9> .
+ <http://example.org/AppleRacialEquityAndJusticeInitiative> <http://dbpedia.org/ontology/startDate> "June 2020"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <CERN-CNN-9> .
+ <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <CERN-CNN-9> .
+ <http://dbpedia.org/resource/LG_Electronics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <CERN-CNN-9> .
+ <http://example.org/CES2021> <http://dbpedia.org/ontology/product> <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b4>  <CERN-CNN-9> .
+ <http://example.org/CES2020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <CERN-CNN-9> .
+ <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <CERN-CNN-9> .
+ <http://example.org/CES2020> <http://dbpedia.org/ontology/product> <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b2>  <CERN-CNN-9> .
+ <http://dbpedia.org/resource/Apple_Inc> <http://dbpedia.org/ontology/product> <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b11>  <CERN-CNN-9> .
+ <http://example.org/KeurigLikeMachineForSoftServeIceCream> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <CERN-CNN-9> .
+ <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b3> <http://schema.org/name> "Artificial humans"  <CERN-CNN-9> .
+ <http://dbpedia.org/resource/LG_Electronics> <http://dbpedia.org/ontology/ceo> <http://example.org/BrianKwon> <CERN-CNN-9> .
+ <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <CERN-CNN-9> .
+ <http://example.org/CES2020> <http://dbpedia.org/ontology/theme> <http://example.org/LonelinessTheme> <CERN-CNN-9> .
+ <http://example.org/CES2020> <http://dbpedia.org/ontology/date> "January 2020"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <CERN-CNN-9> .
+ <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b9> <http://schema.org/name> "AirPop Active+ Smart Mask"  <CERN-CNN-9> .
+ <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b2> <http://schema.org/name> "Mechanical companion cats"  <CERN-CNN-9> .
+ <http://example.org/CES2020> <http://dbpedia.org/ontology/product> <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b3>  <CERN-CNN-9> .
+ <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b11> <http://schema.org/name> "Transparent TV"  <CERN-CNN-9> .
+ <http://example.org/CES2021> <http://dbpedia.org/ontology/format> "All-digital event"  <CERN-CNN-9> .
+ <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <CERN-CNN-9> .
+ <http://example.org/BrianKwon> <http://dbpedia.org/ontology/position> "CEO of LG Electronics"  <CERN-CNN-9> .
+ <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <CERN-CNN-9> .
+ <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b3> <http://dbpedia.org/ontology/developer> <http://example.org/StartupNeon> <CERN-CNN-9> .
+ <http://example.org/CES2021> <http://dbpedia.org/ontology/product> <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b5>  <CERN-CNN-9> .
+ <http://example.org/CES2021> <http://dbpedia.org/ontology/product> <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b7>  <CERN-CNN-9> .
+ <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b8> <http://dbpedia.org/ontology/purpose> "Help with household chores"  <CERN-CNN-9> .
+ <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <CERN-CNN-9> .
+ <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b10> <http://schema.org/name> "Rollable phone"  <CERN-CNN-9> .
+ <http://example.org/LonelinessTheme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> <CERN-CNN-9> .
+ <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b12> <http://schema.org/name> "Cadillac’s self-driving party bus concept"  <CERN-CNN-9> .
+ <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b9> <http://dbpedia.org/ontology/purpose> "Monitor and filter air"  <CERN-CNN-9> .
+ <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b1> <http://dbpedia.org/ontology/purpose> "Assistance when you fall down"  <CERN-CNN-9> .
+ <http://example.org/AppleRacialEquityAndJusticeInitiative> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Program> <CERN-CNN-9> .
+ <http://example.org/CES2021> <http://dbpedia.org/ontology/product> <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b6>  <CERN-CNN-9> .
+ <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b4> <http://schema.org/name> "Wearable for the ears"  <CERN-CNN-9> .
+ <http://example.org/AppleRacialEquityAndJusticeInitiative> <http://dbpedia.org/ontology/fundingAmount> "$100 million"^^<http://www.w3.org/2001/XMLSchema#decimal>  <CERN-CNN-9> .
+ <http://example.org/CES2021> <http://dbpedia.org/ontology/product> <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b9>  <CERN-CNN-9> .
+ <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b8> <http://schema.org/name> "Samsung’s Bot Handy"  <CERN-CNN-9> .
+ <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <CERN-CNN-9> .
+ <http://example.org/CES2021> <http://dbpedia.org/ontology/product> <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b8>  <CERN-CNN-9> .
+ <http://example.org/AnxietyAndStressTheme> <http://schema.org/name> "Anxiety and Stress"  <CERN-CNN-9> .
+ <http://example.org/AppleRacialEquityAndJusticeInitiative> <http://dbpedia.org/ontology/purpose> "Address systemic racism and create opportunities for communities of color"  <CERN-CNN-9> .
+ <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <CERN-CNN-9> .
+ <http://CERN-CNN-9.com/blank#n1f58b535e41f43cb81cb2434c24caa18b5> <http://dbpedia.org/ontology/purpose> "Lock up pill supply or credit cards"  <CERN-CNN-9> .

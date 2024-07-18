@@ -1,0 +1,716 @@
+ <http://dbpedia.org/resource/Josep_Borrell> <http://xmlns.com/foaf/0.1/name> "Josep Borrell"  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Moussa_Faki> <http://schema.org/comment> "Termed the decision 'deeply regrettable'."  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://example.org/Amesh_Adalja> <http://xmlns.com/foaf/0.1/name> "Dr Amesh Adalja"  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/World_Health_Organization> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Geneva> <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://example.org/Tedros_Adhanom> <http://schema.org/comment> "Tedros regrets Trump’s decision to halt funding of the UN body and emphasizes unity against the coronavirus."  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://example.org/FundingHaltToWHO> <http://example.org/criticizedBy> <http://example.org/CriticsGroup> <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Sergei_Ryabkov> <http://xmlns.com/foaf/0.1/name> "Sergei Ryabkov"  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Moussa_Faki> <http://xmlns.com/foaf/0.1/name> "Moussa Faki Mahamat"  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Moussa_Faki> <http://dbpedia.org/ontology/position> "African Union head"  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Jacinda_Ardern> <http://dbpedia.org/ontology/office> "Prime Minister of New Zealand"  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://example.org/GlobalReaction> <http://schema.org/description> "Reaction to Trump’s move was fast and furious worldwide."  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Donald_Trump> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://example.org/William_Schaffner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Eliot_Engel> <http://schema.org/comment> "Accuses the president of deflecting from his administration's mismanagement of the crisis."  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://example.org/Protect_Our_Care> <http://dbpedia.org/ontology/leader> <http://example.org/Leslie_Dach> <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://example.org/Tedros_Adhanom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://example.org/FundingHaltToWHO> <http://example.org/hasConsequence> <http://example.org/GlobalReaction> <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/World_Health_Organization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Pierre_Somse> <http://xmlns.com/foaf/0.1/name> "Pierre Somse"  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://example.org/Tedros_Adhanom> <http://xmlns.com/foaf/0.1/name> "Tedros Adhanom Ghebreyesus"  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Antonio_Guterres> <http://dbpedia.org/ontology/office> "United Nations Secretary-General"  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Vanderbilt_University_Medical_Center> <http://dbpedia.org/ontology/member> <http://example.org/William_Schaffner> <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://example.org/Leslie_Dach> <http://schema.org/comment> "Criticizes Trump's decision as a distraction from his administration's failures."  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Jacinda_Ardern> <http://schema.org/comment> "Supports WHO and its role in providing reliable advice."  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Josep_Borrell> <http://dbpedia.org/ontology/office> "EU foreign policy chief"  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://example.org/Leslie_Dach> <http://xmlns.com/foaf/0.1/name> "Leslie Dach"  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/World_Health_Organization> <http://dbpedia.org/ontology/abbreviation> "WHO"  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://example.org/Patrice_Harris> <http://dbpedia.org/ontology/position> "AMA President"  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Scott_Morrison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://example.org/William_Schaffner> <http://schema.org/comment> "Emphasizes the need for global community cooperation against the virus."  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Sergei_Ryabkov> <http://dbpedia.org/ontology/office> "Russian Deputy Foreign Minister"  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://example.org/Amesh_Adalja> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Scott_Morrison> <http://schema.org/comment> "Sympathizes with Trump's criticisms but acknowledges WHO's important work."  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://example.org/William_Schaffner> <http://xmlns.com/foaf/0.1/name> "Dr William Schaffner"  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Jacinda_Ardern> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://example.org/Amesh_Adalja> <http://schema.org/comment> "The move sends the wrong message during the middle of a pandemic."  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/World_Health_Organization> <http://dbpedia.org/ontology/leader> <http://example.org/Tedros_Adhanom> <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Josep_Borrell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/American_Medical_Association> <http://dbpedia.org/ontology/leader> <http://example.org/Patrice_Harris> <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://example.org/Tedros_Adhanom> <http://dbpedia.org/ontology/position> "Director-General of WHO"  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Eliot_Engel> <http://dbpedia.org/ontology/office> "Chairman of US House of Representatives Foreign Affairs Committee"  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Donald_Trump> <http://xmlns.com/foaf/0.1/name> "Donald Trump"  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/American_Medical_Association> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/World_Health_Organization> <http://dbpedia.org/ontology/budgetTotal> "400000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://example.org/CriticsGroup> <http://schema.org/comment> "Critics call US president’s move ‘a dangerous step in the wrong direction’ after he cuts 15 percent of UN agency budget."  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/World_Health_Organization> <http://dbpedia.org/ontology/budgetYear> "2019"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Antonio_Guterres> <http://xmlns.com/foaf/0.1/name> "Antonio Guterres"  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Pierre_Somse> <http://dbpedia.org/ontology/office> "Health Minister of Central African Republic"  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Johns_Hopkins_Center_for_Health_Security> <http://dbpedia.org/ontology/member> <http://example.org/Amesh_Adalja> <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://example.org/FundingHaltToWHO> <http://dbpedia.org/ontology/date> "2020-04-15"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Antonio_Guterres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://example.org/FundingHaltToWHO> <http://schema.org/description> "US President Donald Trump instructed his administration to temporarily halt funding to the World Health Organization (WHO) over its handling of the coronavirus pandemic."  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://example.org/Amesh_Adalja> <http://dbpedia.org/ontology/occupation> "Infectious disease expert and senior scholar"  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Sergei_Ryabkov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://example.org/Patrice_Harris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Eliot_Engel> <http://xmlns.com/foaf/0.1/name> "Eliot Engel"  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Scott_Morrison> <http://dbpedia.org/ontology/office> "Prime Minister of Australia"  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://example.org/FundingHaltToWHO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://example.org/Protect_Our_Care> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Donald_Trump> <http://example.org/hasDirected> <http://example.org/FundingHaltToWHO> <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://example.org/CriticsGroup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Jacinda_Ardern> <http://xmlns.com/foaf/0.1/name> "Jacinda Ardern"  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Josep_Borrell> <http://schema.org/comment> "The 27-nation bloc 'deeply' regrets the suspension of funds."  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Johns_Hopkins_Center_for_Health_Security> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://example.org/CriticsGroup> <http://schema.org/name> "Critics"  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://example.org/Patrice_Harris> <http://schema.org/comment> "Called the funding cut 'a dangerous step in the wrong direction'."  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://example.org/Leslie_Dach> <http://dbpedia.org/ontology/position> "Chair of Protect Our Care"  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Sergei_Ryabkov> <http://schema.org/comment> "Expresses concern over the US decision to freeze WHO funding."  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://example.org/William_Schaffner> <http://dbpedia.org/ontology/occupation> "Infectious disease expert"  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Centers_for_Disease_Control_and_Prevention> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Scott_Morrison> <http://xmlns.com/foaf/0.1/name> "Scott Morrison"  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Moussa_Faki> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Eliot_Engel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Antonio_Guterres> <http://schema.org/comment> "This is 'not the time' to reduce resources for WHO operations."  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Pierre_Somse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Vanderbilt_University_Medical_Center> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Centers_for_Disease_Control_and_Prevention> <http://schema.org/comment> "Directed requests for comment to the White House."  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://example.org/Leslie_Dach> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Pierre_Somse> <http://schema.org/comment> "Says Trump's move will have harmful effects on world health."  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://example.org/GlobalReaction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Donald_Trump> <http://dbpedia.org/ontology/office> "President of the United States"  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://example.org/Patrice_Harris> <http://xmlns.com/foaf/0.1/name> "Patrice Harris"  <WorldHealthOrganization-Al-Jazeera-0> .
+ <http://dbpedia.org/resource/Protect_Our_Care> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/World_Health_Organization> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Geneva> <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Antonio_Guterres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Amesh_Adalja> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Donald_Trump> <http://schema.org/donation> <http://WorldHealthOrganization-Al-Jazeera-1.com/blank#nccbd1df9e0774951947353b3d6a7351fb1>  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Eliot_Engel> <http://schema.org/comment> "Trump's political playbook is to deflect from his administration's mismanagement"  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Tedros_Adhanom> <http://xmlns.com/foaf/0.1/name> "Tedros Adhanom Ghebreyesus"  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Donald_Trump> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://WorldHealthOrganization-Al-Jazeera-1.com/blank#nccbd1df9e0774951947353b3d6a7351fb1> <http://schema.org/value> "400000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Josep_Borrell> <http://schema.org/comment> "Regrets the suspension of funds to WHO"  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/US_Centers_for_Disease_Control_and_Prevention> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/World_Health_Organization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Amesh_Adalja> <http://schema.org/comment> "WHO makes mistakes but reforms should be after the pandemic"  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Pierre_Somse> <http://dbpedia.org/ontology/position> "Health Minister of Central African Republic"  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Scott_Morrison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Donald_Trump> <http://xmlns.com/foaf/0.1/title> "US President"  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Scott_Morrison> <http://schema.org/comment> "Sympathises with Trump's criticisms but acknowledges WHO's important work"  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Scott_Morrison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Jacinda_Ardern> <http://schema.org/comment> "WHO has provided advice we can rely on"  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/American_Medical_Association> <http://dbpedia.org/ontology/comment> "Cutting WHO funding is a dangerous step in the wrong direction"  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Antonio_Guterres> <http://dbpedia.org/ontology/position> "United Nations Secretary-General"  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Moussa_Faki_Mahamat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Jacinda_Ardern> <http://dbpedia.org/ontology/position> "Prime Minister of New Zealand"  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/World_Health_Organization> <http://dbpedia.org/ontology/comment> "Failed in its basic duty according to Donald Trump"  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Scott_Morrison> <http://dbpedia.org/ontology/position> "Prime Minister of Australia"  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Eliot_Engel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Jacinda_Ardern> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Tedros_Adhanom> <http://dbpedia.org/ontology/position> "Director-General of the WHO"  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Pierre_Somse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Josep_Borrell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Amesh_Adalja> <http://dbpedia.org/ontology/position> "Senior Scholar at Johns Hopkins Center for Health Security"  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Sergei_Ryabkov> <http://schema.org/comment> "US freezing funding of the WHO is concerning"  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/American_Medical_Association> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Tedros_Adhanom> <http://schema.org/comment> "Regrets Trump's decision to halt funding"  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://WorldHealthOrganization-Al-Jazeera-1.com/blank#nccbd1df9e0774951947353b3d6a7351fb1> <http://schema.org/validThrough> "2019"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Josep_Borrell> <http://dbpedia.org/ontology/position> "EU foreign policy chief"  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Tedros_Adhanom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/World_Health_Organization> <http://dbpedia.org/ontology/budgetTotal> "400000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Johns_Hopkins_Center_for_Health_Security> <http://dbpedia.org/ontology/comment> "Move sends the wrong message during a pandemic"  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Tedros_Adhanom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://WorldHealthOrganization-Al-Jazeera-1.com/blank#nccbd1df9e0774951947353b3d6a7351fb2> <http://dbpedia.org/ontology/cause> <http://WorldHealthOrganization-Al-Jazeera-1.com/blank#nccbd1df9e0774951947353b3d6a7351fb3>  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Amesh_Adalja> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Antonio_Guterres> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://WorldHealthOrganization-Al-Jazeera-1.com/blank#nccbd1df9e0774951947353b3d6a7351fb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/William_Schaffner> <http://dbpedia.org/ontology/position> "Infectious disease expert at Vanderbilt University Medical Center"  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Sergei_Ryabkov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://WorldHealthOrganization-Al-Jazeera-1.com/blank#nccbd1df9e0774951947353b3d6a7351fb3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/US_Centers_for_Disease_Control_and_Prevention> <http://dbpedia.org/ontology/comment> "Directed requests for comment to the White House"  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Moussa_Faki_Mahamat> <http://dbpedia.org/ontology/position> "African Union head"  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Donald_Trump> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://WorldHealthOrganization-Al-Jazeera-1.com/blank#nccbd1df9e0774951947353b3d6a7351fb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MonetaryAmount> <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Sergei_Ryabkov> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Protect_Our_Care> <http://dbpedia.org/ontology/comment> "Cutting WHO funding is a transparent attempt by Trump to distract"  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/World_Health_Organization> <http://dbpedia.org/ontology/leader> <http://dbpedia.org/resource/Tedros_Adhanom> <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://WorldHealthOrganization-Al-Jazeera-1.com/blank#nccbd1df9e0774951947353b3d6a7351fb3> <http://schema.org/name> "Handling of the coronavirus pandemic"  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Antonio_Guterres> <http://schema.org/comment> "Not the time to reduce resources for WHO operations"  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Donald_Trump> <http://schema.org/memberOf> <http://dbpedia.org/resource/World_Health_Organization> <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Johns_Hopkins_Center_for_Health_Security> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Pierre_Somse> <http://schema.org/comment> "Trump's move will have harmful effects on world health"  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/William_Schaffner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://WorldHealthOrganization-Al-Jazeera-1.com/blank#nccbd1df9e0774951947353b3d6a7351fb1> <http://schema.org/currency> "USD"  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://WorldHealthOrganization-Al-Jazeera-1.com/blank#nccbd1df9e0774951947353b3d6a7351fb2> <http://schema.org/name> "Halting funding to the WHO"  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Vanderbilt_University_Medical_Center> <http://dbpedia.org/ontology/comment> "Need to work tougher as a global community"  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Donald_Trump> <http://schema.org/action> <http://WorldHealthOrganization-Al-Jazeera-1.com/blank#nccbd1df9e0774951947353b3d6a7351fb2>  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Moussa_Faki_Mahamat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/William_Schaffner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Jacinda_Ardern> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Eliot_Engel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Josep_Borrell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://WorldHealthOrganization-Al-Jazeera-1.com/blank#nccbd1df9e0774951947353b3d6a7351fb1> <http://dbpedia.org/ontology/percentage> "15"^^<http://www.w3.org/2001/XMLSchema#integer>  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Pierre_Somse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Vanderbilt_University_Medical_Center> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/William_Schaffner> <http://schema.org/comment> "Virus doesn't need passports"  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Moussa_Faki_Mahamat> <http://schema.org/comment> "Decision to suspend funding to WHO is deeply regrettable"  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/World_Health_Organization> <http://dbpedia.org/ontology/criticism> "Promoted China's disinformation about the virus"  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Sergei_Ryabkov> <http://dbpedia.org/ontology/position> "Russian Deputy Foreign Minister"  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Donald_Trump> <http://dbpedia.org/ontology/office> "President of the United States"  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://dbpedia.org/resource/Eliot_Engel> <http://dbpedia.org/ontology/position> "Chairman of US House of Representatives Foreign Affairs Committee"  <WorldHealthOrganization-Al-Jazeera-1> .
+ <http://example.org/ontology#EllenJohnsonSirleaf> <http://xmlns.com/foaf/0.1/title> "Former President of Liberia"  <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#HelenClark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#DrFelicityHarvey> <http://example.org/ontology#position> <http://example.org/ontology#CoChairOfIndependentOversightAndAdvisoryCommittee> <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#G20RomeMeeting> <http://purl.org/dc/terms/date> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#GracaMachel> <http://xmlns.com/foaf/0.1/name> "Graça Machel"  <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#PaulMartin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#ElhadjAsSy> <http://xmlns.com/foaf/0.1/name> "Elhadj As Sy"  <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#Article> <http://purl.org/dc/terms/creator> <http://example.org/ontology#DrFelicityHarvey> <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#Article> <http://purl.org/dc/terms/publisher> "Al Jazeera"  <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#WHO> <http://example.org/ontology#financialHealth> <http://example.org/ontology#SoundFinancialHealthRequired> <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#EllenJohnsonSirleaf> <http://example.org/ontology#position> <http://example.org/ontology#CoChairOfIndependentPanelForPandemicPreparednessAndResponse> <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#Article> <http://schema.org/author> <http://example.org/ontology#HelenClark> <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#WHO> <http://example.org/ontology#investmentInNoncommunicableDiseasesPrevention> <http://example.org/ontology#Underfunded> <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#WHO> <http://example.org/ontology#percentageOfAssessedContributions> "16"^^<http://www.w3.org/2001/XMLSchema#percent>  <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#IndependentOversightAndAdvisoryCommittee> <http://xmlns.com/foaf/0.1/name> "Independent Oversight and Advisory Committee for the WHO Health Emergencies Programme"  <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#DrFelicityHarvey> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#ElhadjAsSy> <http://example.org/ontology#position> <http://example.org/ontology#CoChairOfGlobalPreparednessMonitoringBoard> <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#Article> <http://purl.org/dc/terms/creator> <http://example.org/ontology#PaulMartin> <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#GlobalPreparednessMonitoringBoard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Organization> <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#IndependentPanelForPandemicPreparednessAndResponse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Organization> <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#EllenJohnsonSirleaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#G20RomeMeeting> <http://example.org/ontology#outcome> <http://example.org/ontology#InadequateFundingResponse> <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#Article> <http://purl.org/dc/terms/creator> <http://example.org/ontology#GracaMachel> <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#GlobalPreparednessMonitoringBoard> <http://xmlns.com/foaf/0.1/name> "Global Preparedness Monitoring Board"  <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#WHO> <http://example.org/ontology#roleInPandemics> <http://example.org/ontology#LeadingAuthorityOnGlobalHealth> <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#GracaMachel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#GracaMachel> <http://example.org/ontology#position> <http://example.org/ontology#CoFounderOfTheElders> <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#GlobalCommissionOnDrugPolicy> <http://xmlns.com/foaf/0.1/name> "Global Commission on Drug Policy"  <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#WHO> <http://example.org/ontology#percentageOfVoluntaryContributions> "84"^^<http://www.w3.org/2001/XMLSchema#percent>  <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#GlobalCommissionOnDrugPolicy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Organization> <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#ElhadjAsSy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#WHO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Organization> <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#GracaMachel> <http://xmlns.com/foaf/0.1/title> "Former First Lady of Mozambique and South Africa"  <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#ElhadjAsSy> <http://xmlns.com/foaf/0.1/title> "Former Secretary General of the International Federation of the Red Cross and Red Crescent Societies"  <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#EllenJohnsonSirleaf> <http://xmlns.com/foaf/0.1/name> "Ellen Johnson Sirleaf"  <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#Article> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#Article> <http://purl.org/dc/terms/title> "The funding problems of the WHO"  <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#HelenClark> <http://example.org/ontology#position> <http://example.org/ontology#ChairOfGlobalCommissionOnDrugPolicy> <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#IndependentOversightAndAdvisoryCommittee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Organization> <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#WHO> <http://example.org/ontology#fundingSource> <http://example.org/ontology#MemberStates> <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#TheElders> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Organization> <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#WHO> <http://example.org/ontology#mission> "deliver health for all"  <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#WHO> <http://example.org/ontology#investmentInPandemicPreparedness> <http://example.org/ontology#Underfunded> <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#HelenClark> <http://xmlns.com/foaf/0.1/name> "Helen Clark"  <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#PaulMartin> <http://xmlns.com/foaf/0.1/name> "Paul Martin"  <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#IndependentPanelForPandemicPreparednessAndResponse> <http://xmlns.com/foaf/0.1/name> "Independent Panel for Pandemic Preparedness and Response"  <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#WHO> <http://example.org/ontology#investmentInPublicHealth> <http://example.org/ontology#InsufficientHistorically> <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#G20RomeMeeting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Event> <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#Article> <http://schema.org/editorialStance> "The views expressed in this article are the authors’ own and do not necessarily reflect Al Jazeera’s editorial stance."  <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#PaulMartin> <http://xmlns.com/foaf/0.1/title> "Former Prime Minister of Canada"  <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#DrFelicityHarvey> <http://xmlns.com/foaf/0.1/name> "Dr Felicity Harvey"  <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#Article> <http://purl.org/dc/terms/creator> <http://example.org/ontology#ElhadjAsSy> <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#WHO> <http://xmlns.com/foaf/0.1/name> "World Health Organization"  <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#WHO> <http://example.org/ontology#fundingStatus> <http://example.org/ontology#NotSustainable> <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#TheElders> <http://xmlns.com/foaf/0.1/name> "The Elders"  <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#Article> <http://purl.org/dc/terms/creator> <http://example.org/ontology#EllenJohnsonSirleaf> <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#HelenClark> <http://xmlns.com/foaf/0.1/title> "Former Prime Minister of New Zealand"  <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/ontology#Article> <http://schema.org/about> <http://example.org/ontology#WHO> <WorldHealthOrganization-Al-Jazeera-2> .
+ <http://example.org/entities/WarningAboutCholeraUpsurge> <http://schema.org/result> <http://WorldHealthOrganization-Al-Jazeera-3.com/blank#n9121faafd7144705a3be43add144f889b2>  <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/Yemen> <http://www.w3.org/2000/01/rdf-schema#label> "Yemen"  <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/HadiGovernment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/FoodShortage> <http://dbpedia.org/ontology/location> <http://example.org/entities/Yemen> <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/RainSeasons> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/RainSeasons> <http://schema.org/startDate> "2023-04"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/WarningAboutCholeraUpsurge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/WarnAction> <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/WarningAboutCholeraUpsurge> <http://schema.org/object> <http://example.org/entities/CholeraEpidemicInYemen> <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/DeputyDirectorForEmergencyPreparednessAndResponse> <http://www.w3.org/2000/01/rdf-schema#label> "Deputy Director for Emergency Preparedness and Response"  <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://WorldHealthOrganization-Al-Jazeera-3.com/blank#n9121faafd7144705a3be43add144f889b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rate> <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/HouthiRebels> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/PeterSalama> <http://xmlns.com/foaf/0.1/name> "Peter Salama"  <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/HouthiRebels> <http://xmlns.com/foaf/0.1/name> "Iran-linked Houthi rebels"  <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/RainSeasons> <http://schema.org/endDate> "2023-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/PeterSalama> <http://dbpedia.org/ontology/occupation> <http://example.org/entities/DeputyDirectorForEmergencyPreparednessAndResponse> <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/YemeniCivilWar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MilitaryConflict> <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/CholeraEpidemicInYemen> <http://dbpedia.org/ontology/startDate> "2016"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/Yemen> <http://dbpedia.org/ontology/conflict> <http://example.org/entities/YemeniCivilWar> <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/GeneralPublic> <http://www.w3.org/2000/01/rdf-schema#label> "General public"  <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/DeputyDirectorForEmergencyPreparednessAndResponse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/HadiGovernment> <http://xmlns.com/foaf/0.1/name> "Internationally recognised and Saudi-backed government of Abd-Rabbu Mansour Hadi"  <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://WorldHealthOrganization-Al-Jazeera-3.com/blank#n9121faafd7144705a3be43add144f889b2> <http://schema.org/recipient> <http://example.org/entities/GeneralPublic> <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/RainSeasons> <http://www.w3.org/2000/01/rdf-schema#comment> "Rain seasons could lead to an upsurge in cholera cases."  <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://WorldHealthOrganization-Al-Jazeera-3.com/blank#n9121faafd7144705a3be43add144f889b1> <http://dbpedia.org/ontology/minimum> "0.002"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/YemeniCivilWar> <http://dbpedia.org/ontology/date> "2015-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/CholeraEpidemicInYemen> <http://www.w3.org/2000/01/rdf-schema#comment> "Expected rainfall could lead to a surge in cholera cases."  <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/UN> <http://xmlns.com/foaf/0.1/name> "United Nations"  <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://WorldHealthOrganization-Al-Jazeera-3.com/blank#n9121faafd7144705a3be43add144f889b1> <http://dbpedia.org/ontology/maximum> "0.003"^^<http://www.w3.org/2001/XMLSchema#decimal>  <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/CholeraEpidemicInYemen> <http://dbpedia.org/ontology/location> <http://example.org/entities/Yemen> <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/Yemen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/CholeraEpidemicInYemen> <http://dbpedia.org/ontology/caseCount> "1000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/RainSeasons> <http://www.w3.org/2000/01/rdf-schema#label> "Rain seasons in Yemen"  <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/DeputyDirectorForEmergencyPreparednessAndResponse> <http://dbpedia.org/ontology/organisation> <http://example.org/entities/WHO> <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/WHO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://WorldHealthOrganization-Al-Jazeera-3.com/blank#n9121faafd7144705a3be43add144f889b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CommunicateAction> <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/WHO> <http://dbpedia.org/ontology/abbreviation> "WHO"  <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://WorldHealthOrganization-Al-Jazeera-3.com/blank#n9121faafd7144705a3be43add144f889b2> <http://schema.org/about> <http://example.org/entities/RainSeasons> <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/PeterSalama> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/FoodShortage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/UN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/WHO> <http://xmlns.com/foaf/0.1/name> "World Health Organization"  <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/CholeraEpidemicInYemen> <http://dbpedia.org/ontology/disease> <http://dbpedia.org/resource/Cholera> <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/WarningAboutCholeraUpsurge> <http://www.w3.org/2000/01/rdf-schema#comment> "WHO has warned about a potential upsurge in cholera cases in Yemen."  <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/GeneralPublic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Population> <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/CholeraEpidemicInYemen> <http://dbpedia.org/ontology/fatalityRate> <http://WorldHealthOrganization-Al-Jazeera-3.com/blank#n9121faafd7144705a3be43add144f889b1>  <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/YemeniCivilWar> <http://dbpedia.org/ontology/combatant> <http://example.org/entities/HouthiRebels> <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/CholeraEpidemicInYemen> <http://dbpedia.org/ontology/fatalityCount> "2200"^^<http://www.w3.org/2001/XMLSchema#integer>  <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/YemeniCivilWar> <http://www.w3.org/2000/01/rdf-schema#label> "Yemeni Civil War"  <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/YemeniCivilWar> <http://dbpedia.org/ontology/combatant> <http://example.org/entities/HadiGovernment> <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/CholeraEpidemicInYemen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/DiseaseOutbreak> <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/UN> <http://dbpedia.org/ontology/abbreviation> "UN"  <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/FoodShortage> <http://www.w3.org/2000/01/rdf-schema#comment> "The UN has voiced concern over food shortages in Yemen."  <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/entities/WarningAboutCholeraUpsurge> <http://schema.org/agent> <http://example.org/entities/WHO> <WorldHealthOrganization-Al-Jazeera-3> .
+ <http://example.org/COVID-19> <http://schema.org/dateCreated> "late 2019"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://WorldHealthOrganization-Al-Jazeera-4.com/blank#n3d31cba0790a4a7d91b8b2009a89d815b2> <http://purl.org/dc/elements/1.1/creator> <http://example.org/MariaVanKerkhove> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://WorldHealthOrganization-Al-Jazeera-4.com/blank#n3d31cba0790a4a7d91b8b2009a89d815b2> <http://purl.org/dc/elements/1.1/description> "Response to the article's interpretation"  <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/WuhanInvestigation> <http://purl.org/dc/elements/1.1/description> "First phase of investigation into the origins of COVID-19"  <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/Wuhan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/City> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/WHO> <http://schema.org/knows> <http://example.org/LabLeakTheory> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/MariaVanKerkhove> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/NatureArticle> <http://schema.org/mentions> <http://example.org/WHO> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/COVID-19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/InfectiousDisease> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/TedrosAdhanomGhebreyesus> <http://schema.org/memberOf> <http://example.org/WHO> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/TedrosAdhanomGhebreyesus> <http://schema.org/knows> <http://example.org/LabLeakTheory> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/AnimalSpilloverTheory> <http://purl.org/dc/elements/1.1/description> "Theory that COVID-19 naturally spilled over from bats to an intermediary animal and into humans"  <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://WorldHealthOrganization-Al-Jazeera-4.com/blank#n3d31cba0790a4a7d91b8b2009a89d815b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/WHO> <http://schema.org/name> "World Health Organization"  <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/WuhanInvestigation> <http://schema.org/location> <http://example.org/Wuhan> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/MariaVanKerkhove> <http://schema.org/believes> <http://example.org/CoronavirusOriginSearch> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/CoronavirusOriginSearch> <http://schema.org/organizer> <http://example.org/WHO> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/DonaldTrump> <http://schema.org/jobTitle> "Former US President"  <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/WuhanInvestigation> <http://purl.org/dc/elements/1.1/date> "early 2021"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/WHO> <http://schema.org/follows> <http://example.org/WuhanInvestigation> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/DonaldTrump> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://WorldHealthOrganization-Al-Jazeera-4.com/blank#n3d31cba0790a4a7d91b8b2009a89d815b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Review> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/CoronavirusOriginSearch> <http://schema.org/participant> <http://example.org/SAGO> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/NatureArticle> <http://purl.org/dc/elements/1.1/creator> <http://WorldHealthOrganization-Al-Jazeera-4.com/blank#n3d31cba0790a4a7d91b8b2009a89d815b1>  <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/CoronavirusOriginSearch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/MariaVanKerkhove> <http://schema.org/jobTitle> "WHO COVID response leader"  <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/NatureArticle> <http://purl.org/dc/elements/1.1/title> "WHO had abandoned the search for the origins of COVID-19"  <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/CoronavirusOriginSearch> <http://purl.org/dc/elements/1.1/description> "Search for the origins of the COVID-19 pandemic"  <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/WuhanInvestigation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/WHO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/CoronavirusOriginSearch> <http://schema.org/location> <http://example.org/China> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/COVID-19> <http://schema.org/location> <http://example.org/China> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/COVID-19> <http://schema.org/name> "COVID-19 pandemic"  <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/MariaVanKerkhove> <http://schema.org/knows> <http://example.org/LabLeakTheory> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/CoronavirusOriginSearch> <http://schema.org/participant> <http://example.org/TedrosAdhanomGhebreyesus> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/WuhanInvestigation> <http://schema.org/about> <http://example.org/COVID-19> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/Wuhan> <http://schema.org/name> "Wuhan"  <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/WHO> <http://schema.org/believes> <http://example.org/CoronavirusOriginSearch> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/TedrosAdhanomGhebreyesus> <http://xmlns.com/foaf/0.1/name> "Tedros Adhanom Ghebreyesus"  <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/LabLeakTheory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/NatureArticle> <http://purl.org/dc/elements/1.1/description> "Article suggesting WHO had abandoned the search for the origins of COVID-19"  <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/WHO> <http://schema.org/employee> <http://example.org/MariaVanKerkhove> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/WHO> <http://schema.org/knows> <http://example.org/AnimalSpilloverTheory> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/COVID-19> <http://schema.org/possibleTreatment> <http://example.org/SAGO> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/WHO> <http://schema.org/follows> <http://example.org/SAGO> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/TedrosAdhanomGhebreyesus> <http://schema.org/knows> <http://example.org/AnimalSpilloverTheory> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/TedrosAdhanomGhebreyesus> <http://schema.org/jobTitle> "WHO chief"  <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/DonaldTrump> <http://xmlns.com/foaf/0.1/name> "Donald Trump"  <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/MariaVanKerkhove> <http://xmlns.com/foaf/0.1/name> "Maria Van Kerkhove"  <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/SAGO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/NatureArticle> <http://schema.org/isPartOf> <https://www.nature.com/> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/NatureArticle> <http://schema.org/mentions> <http://example.org/CoronavirusOriginSearch> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/NatureArticle> <http://schema.org/mentions> <http://example.org/MariaVanKerkhove> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/TedrosAdhanomGhebreyesus> <http://schema.org/knows> <http://example.org/MariaVanKerkhove> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/SAGO> <http://schema.org/name> "Scientific Advisory Group for the Origins of Novel Pathogens"  <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/CoronavirusOriginSearch> <http://schema.org/about> <http://example.org/COVID-19> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/Wuhan> <http://schema.org/containedInPlace> <http://example.org/China> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/LabLeakTheory> <http://purl.org/dc/elements/1.1/description> "Theory that COVID-19 escaped due to a lab accident"  <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/AnimalSpilloverTheory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/NatureArticle> <http://purl.org/dc/elements/1.1/date> "2023-03-28"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/NatureArticle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/TedrosAdhanomGhebreyesus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/MariaVanKerkhove> <http://schema.org/knows> <http://example.org/AnimalSpilloverTheory> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/MariaVanKerkhove> <http://schema.org/memberOf> <http://example.org/WHO> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/China> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/NatureArticle> <http://schema.org/hasPart> <http://WorldHealthOrganization-Al-Jazeera-4.com/blank#n3d31cba0790a4a7d91b8b2009a89d815b2>  <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/TedrosAdhanomGhebreyesus> <http://schema.org/believes> <http://example.org/CoronavirusOriginSearch> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/China> <http://schema.org/name> "China"  <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/CoronavirusOriginSearch> <http://schema.org/participant> <http://example.org/MariaVanKerkhove> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/WuhanInvestigation> <http://schema.org/organizer> <http://example.org/WHO> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/WHO> <http://schema.org/employee> <http://example.org/TedrosAdhanomGhebreyesus> <WorldHealthOrganization-Al-Jazeera-4> .
+ <http://example.org/ontology#HarvardMedicalSchool> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#SamuelMiriello> <http://www.w3.org/2000/01/rdf-schema#label> "Samuel Miriello"  <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#TRUMP-22> <http://www.w3.org/2000/01/rdf-schema#label> "TRUMP-22"  <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#CasesInBrazil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#Geneva> <http://www.w3.org/2000/01/rdf-schema#label> "Geneva"  <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#ResearchInDenmark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Activity> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#OPOXID-22> <http://www.w3.org/2000/01/rdf-schema#label> "OPOXID-22"  <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#NameChangeCampaign> <http://dbpedia.org/ontology/related> <http://example.org/ontology#ConsultationWebsite> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#MonkeypoxVirus> <http://dbpedia.org/ontology/discoveredBy> <http://example.org/ontology#ResearchInDenmark> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#FadelaChaib> <http://xmlns.com/foaf/0.1/title> "WHO spokeswoman"  <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#ResearchInDenmark> <http://dbpedia.org/ontology/year> "1958"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#WorldHealthOrganization> <http://xmlns.com/foaf/0.1/page> <http://example.org/ontology#ConsultationWebsite> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#CladeII> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VirusStrain> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#Monkeypox> <http://www.w3.org/2000/01/rdf-schema#label> "Monkeypox"  <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#Mpox> <http://schema.org/author> <http://example.org/ontology#SamuelMiriello> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#CasesInBrazil> <http://www.w3.org/2000/01/rdf-schema#label> "Cases of monkey attacks in Brazil"  <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#Monkeypox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Disease> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#DemocraticRepublicOfCongo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#CasesInBrazil> <http://dbpedia.org/ontology/cause> <http://example.org/ontology#Monkeypox> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#WorldHealthOrganization> <http://xmlns.com/foaf/0.1/homepage> <https://www.who.int> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#ResearchInDenmark> <http://dbpedia.org/ontology/location> <http://dbpedia.org/ontology/Denmark> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#FadelaChaib> <http://xmlns.com/foaf/0.1/page> <https://www.who.int> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#CasesInBrazil> <http://dbpedia.org/ontology/date> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#FadelaChaib> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#WorldHealthOrganization> <http://www.w3.org/2000/01/rdf-schema#label> "World Health Organization"  <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#ConsultationWebsite> <http://xmlns.com/foaf/0.1/homepage> <http://example.org/monkeypox-naming> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#MonkeypoxVirus> <http://dbpedia.org/ontology/discoveryYear> "1958"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#NameChangeCampaign> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#CasesInBrazil> <http://dbpedia.org/ontology/location> <http://example.org/ontology#Brazil> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#Montreal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/City> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#OPOXID-22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#Brazil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#REZO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#PoxyMcPoxface> <http://www.w3.org/2000/01/rdf-schema#label> "Poxy McPoxface"  <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#Montreal> <http://dbpedia.org/ontology/country> <http://dbpedia.org/ontology/Canada> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#Monkeypox> <http://dbpedia.org/ontology/icd10> "B04"  <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#MonkeypoxVirus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Virus> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#Montreal> <http://www.w3.org/2000/01/rdf-schema#label> "Montreal"  <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#Geneva> <http://dbpedia.org/ontology/country> <http://dbpedia.org/ontology/Switzerland> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#WorldHealthOrganization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#DemocraticRepublicOfCongo> <http://www.w3.org/2000/01/rdf-schema#label> "Democratic Republic of Congo"  <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#GlobalHealthEmergency> <http://dbpedia.org/ontology/startDate> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#NameChangeCampaign> <http://schema.org/organizer> <http://example.org/ontology#WorldHealthOrganization> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#TRUMP-22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#SamuelMiriello> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#CladeI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VirusStrain> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#ConsultationWebsite> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#GlobalHealthEmergency> <http://dbpedia.org/ontology/related> <http://example.org/ontology#Monkeypox> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#JeremyFaust> <http://dbpedia.org/ontology/affiliation> <http://example.org/ontology#HarvardMedicalSchool> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#REZO> <http://dbpedia.org/ontology/location> <http://dbpedia.org/ontology/Montreal> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#REZO> <http://www.w3.org/2000/01/rdf-schema#label> "RÉZO"  <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#CladeIIb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/VirusStrain> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#NameChangeCampaign> <http://schema.org/startDate> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#Mpox> <http://www.w3.org/2000/01/rdf-schema#label> "Mpox"  <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#TRUMP-22> <http://dbpedia.org/ontology/meaning> "Toxic Rash of Unrecognized Mysterious Provenance of 2022"  <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#CladeII> <http://www.w3.org/2000/01/rdf-schema#label> "Clade II"  <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#GlobalHealthEmergency> <http://www.w3.org/2000/01/rdf-schema#label> "Global health emergency"  <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#JeremyFaust> <http://dbpedia.org/ontology/occupation> <http://example.org/ontology#EmergencyPhysician> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#ConsultationWebsite> <http://www.w3.org/2000/01/rdf-schema#label> "Consultation website for Monkeypox renaming"  <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#Monkeypox> <http://dbpedia.org/ontology/cause> <http://example.org/ontology#MonkeypoxVirus> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#MonkeypoxVirus> <http://dbpedia.org/ontology/variant> <http://example.org/ontology#CladeI> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#Brazil> <http://www.w3.org/2000/01/rdf-schema#label> "Brazil"  <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#UnitedNationsHealthAgency> <http://www.w3.org/2000/01/rdf-schema#label> "United Nations health agency"  <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#AndrewYi> <http://www.w3.org/2000/01/rdf-schema#label> "Andrew Yi"  <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#OPOXID-22> <http://schema.org/author> <http://example.org/ontology#JeremyFaust> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#EmergencyPhysician> <http://www.w3.org/2000/01/rdf-schema#label> "Emergency physician"  <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#Mpox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#AndrewYi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#MonkeypoxVirus> <http://www.w3.org/2000/01/rdf-schema#label> "Monkeypox virus"  <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#GlobalHealthEmergency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#Director> <http://www.w3.org/2000/01/rdf-schema#label> "Director"  <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#JeremyFaust> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#CladeI> <http://www.w3.org/2000/01/rdf-schema#label> "Clade I"  <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#NameChangeCampaign> <http://www.w3.org/2000/01/rdf-schema#label> "Campaign to rename Monkeypox"  <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#HarvardMedicalSchool> <http://www.w3.org/2000/01/rdf-schema#label> "Harvard Medical School"  <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#PoxyMcPoxface> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#EmergencyPhysician> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#WorldHealthOrganization> <http://dbpedia.org/ontology/parentOrganization> <http://example.org/ontology#UnitedNationsHealthAgency> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#PoxyMcPoxface> <http://schema.org/author> <http://example.org/ontology#AndrewYi> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#Geneva> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/City> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#FadelaChaib> <http://xmlns.com/foaf/0.1/page> <http://example.org/ontology#ConsultationWebsite> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#CladeII> <http://dbpedia.org/ontology/subVariant> <http://example.org/ontology#CladeIIb> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#Director> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#SamuelMiriello> <http://dbpedia.org/ontology/affiliation> <http://example.org/ontology#REZO> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#FadelaChaib> <http://www.w3.org/2000/01/rdf-schema#label> "Fadela Chaib"  <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#CladeIIb> <http://www.w3.org/2000/01/rdf-schema#label> "Clade IIb"  <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#SamuelMiriello> <http://dbpedia.org/ontology/occupation> <http://example.org/ontology#Director> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#MonkeypoxVirus> <http://dbpedia.org/ontology/variant> <http://example.org/ontology#CladeII> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#JeremyFaust> <http://www.w3.org/2000/01/rdf-schema#label> "Jeremy Faust"  <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/ontology#UnitedNationsHealthAgency> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-Al-Jazeera-5> .
+ <http://example.org/CommentByUSTrump> <http://example.org/madeBy> <http://example.org/us/PresidentDonaldTrump> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/organizations/WHO> <http://example.org/abbreviation> "WHO"  <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/china/WuhanExoticAnimalMarket> <http://example.org/locatedIn> <http://example.org/china/Wuhan> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/AnimalOriginsOfPandemic> <http://example.org/relatedTo> <http://example.org/COVID19Pandemic> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/InvestigationAnimalOrigins> <http://example.org/into> <http://example.org/AnimalOriginsOfPandemic> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/organizations/WHO> <http://example.org/respondedTo> <http://example.org/CommentByUSTrump> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/RecommendationsToWHO> <http://example.org/includes> <http://example.org/UpdateTravelRecommendations> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/organizations/WHO> <http://example.org/name> "World Health Organization"  <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/PublicHealthEmergencyOfInternationalConcern> <http://example.org/date> "2020-01-30"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/RecommendationsToWHO> <http://example.org/includes> <http://example.org/IdentifyZoonoticSource> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/EvidenceVirusOriginChineseLab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Claim> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/EmergencyCommittee> <http://example.org/madeRecommendations> <http://example.org/RecommendationsToWHO> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/VirusJumpedFromAnimalsToHumans> <http://example.org/possibleLocation> <http://example.org/china/WuhanExoticAnimalMarket> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/EmergencyCommittee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Committee> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/organizations/WHO> <http://example.org/wantsParticipation> <http://example.org/InvestigationAnimalOrigins> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/InvestigationAnimalOrigins> <http://example.org/desiredParticipant> <http://example.org/organizations/WHO> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/Scientists> <http://example.org/believe> <http://example.org/VirusJumpedFromAnimalsToHumans> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/organizations/WHO> <http://example.org/maintains> <http://example.org/GlobalAlertLevel> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/PreventionPublicHealthMeasures> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/SetOfMeasures> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/us/PresidentDonaldTrump> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Person> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://WorldHealthOrganization-Al-Jazeera-6.com/blank#n37c63dae5285402eba2cd183ab255dbcb1> <http://example.org/deaths> "0"^^<http://www.w3.org/2001/XMLSchema#int>  <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/IndependentExperts> <http://example.org/count> "19"^^<http://www.w3.org/2001/XMLSchema#int>  <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/china/WuhanExoticAnimalMarket> <http://example.org/sells> <http://example.org/ExoticAnimalsForMeat> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/RecommendationsToWHO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/SetOfRecommendations> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/CommentByUSTrump> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Comment> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/EmergencyCommittee> <http://example.org/consistsOf> <http://example.org/IndependentExperts> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/Scientists> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Group> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/UnderstandingAnimalHumanSpeciesBarrier> <http://example.org/necessaryFor> <http://example.org/PreventionPublicHealthMeasures> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/PublicHealthEmergencyOfInternationalConcern> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Alert> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/china/WuhanInstituteOfVirology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Institute> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/UpdateTravelRecommendations> <http://example.org/consider> "balance between benefits and unintended consequences"  <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/VirusNaturalOrigin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Statement> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/us/PresidentDonaldTrump> <http://example.org/name> "Donald Trump"  <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/VirusJumpedFromAnimalsToHumans> <http://example.org/occurredIn> "China"  <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/china/WuhanInstituteOfVirology> <http://example.org/name> "Wuhan Institute of Virology"  <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/organizations/WHO> <http://example.org/receivedRecommendations> <http://example.org/EmergencyCommittee> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/organizations/WHO> <http://example.org/reiterated> <http://example.org/VirusNaturalOrigin> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://WorldHealthOrganization-Al-Jazeera-6.com/blank#n37c63dae5285402eba2cd183ab255dbcb1> <http://example.org/casesOutsideChina> "82"^^<http://www.w3.org/2001/XMLSchema#int>  <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/COVID19Pandemic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Pandemic> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/COVID19Pandemic> <http://example.org/timeFrame> "a matter of months"  <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/organizations/WHO> <http://example.org/stressed> <http://example.org/UnderstandingAnimalHumanSpeciesBarrier> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/IdentifyZoonoticSource> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Recommendation> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/us/PresidentDonaldTrump> <http://example.org/nationality> "United States"  <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/EvidenceVirusOriginChineseLab> <http://example.org/relatedTo> <http://example.org/china/WuhanInstituteOfVirology> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/VirusJumpedFromAnimalsToHumans> <http://example.org/time> "late last year"  <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/IdentifyZoonoticSource> <http://example.org/focus> "zoonotic source of the virus and the route of introduction to the human population"  <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/GlobalAlertLevel> <http://example.org/maintainedBy> <http://example.org/organizations/WHO> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/CommentByUSTrump> <http://example.org/claims> <http://example.org/EvidenceVirusOriginChineseLab> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/UpdateTravelRecommendations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Recommendation> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/VirusNaturalOrigin> <http://example.org/origin> "natural"  <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/china/WuhanExoticAnimalMarket> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Market> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/PublicHealthEmergencyOfInternationalConcern> <http://example.org/declaredBy> <http://example.org/organizations/WHO> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/UpdateTravelRecommendations> <http://example.org/focus> "appropriate travel measures linked to the outbreak"  <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/VirusNaturalOrigin> <http://example.org/confirmedBy> <http://example.org/Scientists> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/AnimalOriginsOfPandemic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Topic> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/GlobalAlertLevel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/AlertLevel> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/us/PresidentDonaldTrump> <http://example.org/claimed> <http://example.org/EvidenceVirusOriginChineseLab> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/china/WuhanInstituteOfVirology> <http://example.org/locatedIn> <http://example.org/china/Wuhan> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/organizations/WHO> <http://example.org/declared> <http://example.org/PublicHealthEmergencyOfInternationalConcern> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/COVID19Pandemic> <http://example.org/killed> "230000"^^<http://www.w3.org/2001/XMLSchema#int>  <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/IndependentExperts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Group> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/UnderstandingAnimalHumanSpeciesBarrier> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Goal> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/VirusNaturalOrigin> <http://example.org/assertedBy> <http://example.org/organizations/WHO> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/VirusJumpedFromAnimalsToHumans> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Event> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/organizations/WHO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Organization> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/us/PresidentDonaldTrump> <http://example.org/position> "President of the United States"  <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/EvidenceVirusOriginChineseLab> <http://example.org/claimedBy> <http://example.org/us/PresidentDonaldTrump> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/InvestigationAnimalOrigins> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Investigation> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/PreventionPublicHealthMeasures> <http://example.org/purpose> "to prevent future breaches of animal-human species barrier"  <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/PublicHealthEmergencyOfInternationalConcern> <http://example.org/context> <http://WorldHealthOrganization-Al-Jazeera-6.com/blank#n37c63dae5285402eba2cd183ab255dbcb1>  <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/us/PresidentDonaldTrump> <http://example.org/refusedToGive> <http://example.org/Details> <WorldHealthOrganization-Al-Jazeera-6> .
+ <http://example.org/who/WorldHealthOrganization> <http://example.org/hasDirectorGeneral> <http://example.org/who/TedrosAdhanomGhebreyesus> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/ExternalAuditorReport2021> <http://example.org/indicatesIncreasingTrend> <http://example.org/True> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/countries/Canada> <http://example.org/hasAmbassador> <http://example.org/countries/LeslieNorton> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/JointStatement> <http://example.org/wants> <http://example.org/CredibleOutcomes> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/un/InternationalOrganizationForMigration> <http://example.org/name> "International Organization for Migration"  <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/ManagementKnowledgeOfAbuseClaims> <http://example.org/relatedTo> <http://example.org/SexualAbuseByWHOWorkers> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/WorldHealthOrganization> <http://example.org/facingPressureFrom> <http://example.org/Donors> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/countries/Canada> <http://example.org/name> "Canada"  <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/JointStatement> <http://example.org/on> <http://example.org/TacklingSexualAbuseIssue> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/ExternalAuditorReport2021> <http://example.org/mentions> <http://example.org/SexualMisconductCases> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/SexualAbuseByWHOWorkers> <http://example.org/involved> <http://example.org/un/InternationalOrganizationForMigration> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/ExecutiveBoardMeeting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Meeting> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/countries/EuropeanUnion> <http://example.org/name> "European Union"  <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/InvestigativeFirm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Organization> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/WorldHealthOrganization> <http://example.org/hasExternalAuditorReport> <http://example.org/who/ExternalAuditorReport2021> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/IndependentInvestigation> <http://example.org/hired> <http://example.org/InvestigativeFirm> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/SexualAbuseByWHOWorkers> <http://example.org/occurredIn> <http://example.org/drc/DemocraticRepublicOfTheCongo> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/un/UnitedNationsChildrensFund> <http://example.org/name> "United Nations Children's Fund"  <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/AnnualMinisterialSession2021> <http://example.org/attendedBy> <http://example.org/who/TedrosAdhanomGhebreyesus> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/ManagementKnowledgeOfAbuseClaims> <http://example.org/occurredIn> "2019"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/countries/Japan> <http://example.org/name> "Japan"  <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/InvestigativeFirm> <http://example.org/engagedBy> <http://example.org/who/IndependentInvestigation> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/WorldHealthOrganization> <http://example.org/hasAnnualMinisterialSession> <http://example.org/who/AnnualMinisterialSession2021> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/GroupOfCountries> <http://example.org/includes> <http://example.org/countries/Australia> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/IndependentInvestigation> <http://example.org/shouldIssueFindingsBy> "2021-08-31"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/countries/UnitedKingdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Country> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/GroupOfCountries> <http://example.org/includes> <http://example.org/countries/Japan> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/ExecutiveBoardMeeting> <http://example.org/name> "WHO executive board's programme, budget and administration committee meeting"  <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/countries/EuropeanUnion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Organization> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/drc/DemocraticRepublicOfTheCongo> <http://example.org/hasRegion> <http://example.org/drc/NorthKivu> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/WorldHealthOrganization> <http://example.org/hasIndependentInvestigation> <http://example.org/who/IndependentInvestigation> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/SexualAbuseByWHOWorkers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Incident> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/ManagementKnowledgeOfAbuseClaims> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Incident> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/countries/Japan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Country> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/AllegationsOfSexualAbuse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Allegation> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/Donors> <http://example.org/includes> <http://example.org/countries/UnitedStates> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/GroupOfCountries> <http://example.org/includes> <http://example.org/countries/Switzerland> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/IndependentInvestigation> <http://example.org/beganFieldInvestigationsOn> "2021-05-01"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/countries/Canada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Country> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/SexualAbuseByWHOWorkers> <http://example.org/involved> <http://example.org/un/UnitedNationsChildrensFund> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/GroupOfCountries> <http://example.org/includes> <http://example.org/countries/Uruguay> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/ExternalAuditorReport2021> <http://example.org/presentedOn> "2021-05-21"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/countries/UnitedStates> <http://example.org/name> "United States"  <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/Donors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Group> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/GroupOfCountries> <http://example.org/includes> <http://example.org/countries/EuropeanUnion> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/GroupOfCountries> <http://example.org/includes> <http://example.org/countries/Canada> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/drc/NorthKivu> <http://example.org/hasSecurityChallenges> <http://example.org/True> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/TedrosAdhanomGhebreyesus> <http://example.org/addressed> <http://example.org/who/AnnualMinisterialSession2021> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/IndependentInvestigation> <http://example.org/establishedBaseIn> <http://example.org/drc/Goma> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/drc/NorthKivu> <http://example.org/name> "North Kivu"  <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/drc/DemocraticRepublicOfTheCongo> <http://example.org/abbreviation> "DRC"  <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/countries/LeslieNorton> <http://example.org/position> "Canadian Ambassador"  <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/JointStatement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Statement> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/countries/LeslieNorton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Person> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/MediaSuggestions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Claim> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/TedrosAdhanomGhebreyesus> <http://example.org/stated> <http://example.org/InvestigationTeamDoingBest> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/GroupOfCountries> <http://example.org/includes> <http://example.org/countries/Israel> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/GroupOfCountries> <http://example.org/includes> <http://example.org/countries/Indonesia> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/IndependentInvestigation> <http://example.org/in> <http://example.org/drc/DemocraticRepublicOfTheCongo> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/TedrosAdhanomGhebreyesus> <http://example.org/position> "Director-General of WHO"  <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/WorldHealthOrganization> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Organization> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/countries/LeslieNorton> <http://example.org/name> "Leslie Norton"  <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/un/UnitedNationsChildrensFund> <http://example.org/abbreviation> "UNICEF"  <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/Donors> <http://example.org/includes> <http://example.org/countries/Japan> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/ExternalAuditorReport2021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Report> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/JointStatement> <http://example.org/on> <http://example.org/PreventingSexualAbuse> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/ExternalAuditorReport2021> <http://example.org/includes> <http://example.org/drc/DRC_Case> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/JointStatement> <http://example.org/expressedAlarmAt> <http://example.org/MediaSuggestions> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/ExecutiveBoardMeeting> <http://example.org/manner> <http://example.org/RobustAndTransparent> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/WorldHealthOrganization> <http://example.org/name> "World Health Organization"  <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/un/InternationalOrganizationForMigration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Organization> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/JointStatement> <http://example.org/demands> <http://example.org/StrongAndExemplaryLeadership> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/WorldHealthOrganization> <http://example.org/abbreviation> "WHO"  <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/IndependentInvestigation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Investigation> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/drc/DemocraticRepublicOfTheCongo> <http://example.org/name> "Democratic Republic of the Congo"  <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/un/UnitedNationsChildrensFund> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Organization> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/AnnualMinisterialSession2021> <http://example.org/date> "2021-05-21"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/drc/DemocraticRepublicOfTheCongo> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Country> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/countries/UnitedKingdom> <http://example.org/name> "United Kingdom"  <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/Donors> <http://example.org/includes> <http://example.org/countries/EuropeanUnion> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/GroupOfCountries> <http://example.org/includes> <http://example.org/countries/Mexico> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/drc/NorthKivu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Region> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/GroupOfCountries> <http://example.org/includes> <http://example.org/countries/Brazil> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/JointStatement> <http://example.org/voicedBy> <http://example.org/GroupOfCountries> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/Donors> <http://example.org/includes> <http://example.org/countries/UnitedKingdom> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/AnnualMinisterialSession2021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Event> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/IndependentInvestigation> <http://example.org/by> <http://example.org/WHOWorkers> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/drc/NorthKivu> <http://example.org/experiencedVolcanicEruptions> <http://example.org/True> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/MediaSuggestions> <http://example.org/suggested> <http://example.org/who/ManagementKnowledgeOfAbuseClaims> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/ManagementKnowledgeOfAbuseClaims> <http://example.org/involved> <http://example.org/who/WorldHealthOrganization> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/GroupOfCountries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Group> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/IndependentInvestigation> <http://example.org/into> <http://example.org/AllegationsOfSexualAbuse> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/un/InternationalOrganizationForMigration> <http://example.org/abbreviation> "IOM"  <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/AllegationsOfSexualAbuse> <http://example.org/relatedTo> <http://example.org/SexualAbuseByWHOWorkers> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/countries/UnitedStates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Country> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/countries/LeslieNorton> <http://example.org/delivered> <http://example.org/JointStatement> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/GroupOfCountries> <http://example.org/includes> <http://example.org/countries/UnitedStates> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/TedrosAdhanomGhebreyesus> <http://example.org/name> "Tedros Adhanom Ghebreyesus"  <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/JointStatement> <http://example.org/about> <http://example.org/who/ManagementKnowledgeOfAbuseClaims> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/ExternalAuditorReport2021> <http://example.org/comparedWithPreviousYear> "2019"^^<http://www.w3.org/2001/XMLSchema#gYear>  <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/JointStatement> <http://example.org/discussedAt> <http://example.org/who/ExecutiveBoardMeeting> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/GroupOfCountries> <http://example.org/includes> <http://example.org/countries/UnitedKingdom> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/ExecutiveBoardMeeting> <http://example.org/discussed> <http://example.org/SexualAbuseAllegations> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/AnnualMinisterialSession2021> <http://example.org/name> "WHO's annual ministerial session"  <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/SexualAbuseByWHOWorkers> <http://example.org/involved> <http://example.org/who/WorldHealthOrganization> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/who/TedrosAdhanomGhebreyesus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Person> <WorldHealthOrganization-Al-Jazeera-7> .
+ <http://example.org/COVID-19> <http://dbpedia.org/ontology/date> "2020-03-25"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/Dr_Mike_Ryan> <http://dbpedia.org/ontology/abstract> "Dr Mike Ryan is the executive director of the World Health Organization’s Health Emergencies Programme."@en  <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/COVID-19> <http://dbpedia.org/ontology/numberOfDeaths> "thousands"^^<http://www.w3.org/2001/XMLSchema#string>  <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/SARS-CoV-2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Virus> <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/Dr_Mike_Ryan> <http://xmlns.com/foaf/0.1/name> "Dr Mike Ryan"  <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/Stay_Place_Order> <http://dbpedia.org/ontology/abstract> "The restrictions put in place to ease the effects of the pandemic mean we have to stay where we are."@en  <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/dbr:Wuhan> <http://dbpedia.org/ontology/abstract> "Cases of an unusual pneumonia were reported in Wuhan in December 2019."@en  <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/WHO_Pandemic_Declaration> <http://dbpedia.org/ontology/abstract> "On March 11, the WHO declared the outbreak a pandemic."@en  <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/Huanan_Seafood_Market> <http://dbpedia.org/ontology/abstract> "Most of those affected by the unknown virus were working at the Huanan Seafood Market."@en  <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/WHO_Emergencies_Programme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/Dr_Mike_Ryan> <http://xmlns.com/foaf/0.1/title> "Executive Director"  <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/Global_Response> <http://dbpedia.org/ontology/abstract> "The global response to COVID-19 involves various measures by governments worldwide."@en  <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/SARS-CoV-2> <http://xmlns.com/foaf/0.1/name> "SARS-CoV-2"  <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/WHO_Pandemic_Declaration> <http://schema.org/name> "WHO Pandemic Declaration"  <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/Huanan_Seafood_Market> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Wuhan> <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/dbr:Wuhan> <http://dbpedia.org/ontology/population> "affected by the unknown virus"^^<http://www.w3.org/2001/XMLSchema#string>  <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/Dr_Mike_Ryan> <http://dbpedia.org/ontology/occupation> <http://example.org/WHO_Emergencies_Programme> <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/SARS-CoV-2> <http://dbpedia.org/ontology/wikiPageExternalLink> <https://www.who.int/emergencies/diseases/novel-coronavirus-2019> <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/COVID-19> <http://dbpedia.org/ontology/numberOfCases> "at least 400000"^^<http://www.w3.org/2001/XMLSchema#string>  <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/WHO_Emergencies_Programme> <http://xmlns.com/foaf/0.1/name> "World Health Organization’s Health Emergencies Programme"  <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/WHO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/Global_Response> <http://schema.org/name> "Global response to COVID-19"  <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/Huanan_Seafood_Market> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Location> <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/COVID-19> <http://dbpedia.org/ontology/abstract> "COVID-19 has infected at least 400,000 people worldwide as of March 25, 2020, and killed thousands."@en  <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/WHO_Pandemic_Declaration> <http://dbpedia.org/ontology/date> "2020-03-11"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/Stay_Place_Order> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/Stay_Place_Order> <http://schema.org/name> "Stay where we are order"  <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/WHO_Emergencies_Programme> <http://dbpedia.org/ontology/parentOrganization> <http://example.org/WHO> <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/WHO_Pandemic_Declaration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/School_Closures> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/Border_Closures> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/Al_Jazeera> <http://xmlns.com/foaf/0.1/name> "Al Jazeera"  <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/WHO> <http://xmlns.com/foaf/0.1/name> "World Health Organization"  <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/Dr_Mike_Ryan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/COVID-19> <http://dbpedia.org/ontology/cause> <http://example.org/SARS-CoV-2> <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/Al_Jazeera> <http://dbpedia.org/ontology/abstract> "Dr Mike Ryan talks to Al Jazeera about the global response to COVID-19."@en  <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/WHO> <http://dbpedia.org/ontology/abstract> "The World Health Organization announced the identification of the new virus on January 7, 2020."@en  <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/Al_Jazeera> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Broadcaster> <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/School_Closures> <http://schema.org/name> "School closures due to COVID-19"  <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/COVID-19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Disease> <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/School_Closures> <http://dbpedia.org/ontology/abstract> "COVID-19 has led to school closures around the world."@en  <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/Global_Response> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/Border_Closures> <http://schema.org/name> "Closing borders due to COVID-19"  <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/Border_Closures> <http://dbpedia.org/ontology/abstract> "The restrictions put in place due to the pandemic include closing borders."@en  <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/COVID-19> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Worldwide> <WorldHealthOrganization-Al-Jazeera-8> .
+ <http://example.org/PakistanCOVID19Statistics> <http://schema.org/value> "24"^^<http://www.w3.org/2001/XMLSchema#percent>  <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/IntermittentLockdown> <http://schema.org/name> "Intermittent lockdown targeting localities with high coronavirus spread"  <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/ChairmanPPP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/ImranKhan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/WHOPakistan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/ImranKhan> <http://xmlns.com/foaf/0.1/name> "Imran Khan"  <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/EidAlFitr> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Eid_al-Fitr> <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/COVID19CaseIncrease> <http://schema.org/datePosted> "2023-06-09"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/ChiefMinistersOfPakistan> <http://dbpedia.org/ontology/occupationLocation> <http://dbpedia.org/resource/Pakistan> <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/COVID19CaseIncrease> <http://schema.org/signOrSymptom> <http://example.org/LiftingLockdown> <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/PalithaMahipala> <http://xmlns.com/foaf/0.1/title> "WHO Pakistan chief"  <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/DigitalCorrespondent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/PakistanCOVID19Statistics> <http://schema.org/variableMeasured> "COVID-19 positive rate"  <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/AsadHashim> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/ImranKhan> <http://dbpedia.org/ontology/office> "Prime Minister of Pakistan"  <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/NationalCoordinationCommittee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/LiftingLockdown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/LiftingLockdown> <http://schema.org/endDate> "2023-05-31"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/PakistanCOVID19Statistics> <http://schema.org/value> "113702"^^<http://www.w3.org/2001/XMLSchema#integer>  <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/WHORecommendation> <http://schema.org/author> <http://example.org/WHOPakistan> <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/WHOPakistan> <http://xmlns.com/foaf/0.1/name> "World Health Organization Pakistan"  <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/IntermittentLockdown> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalTherapy> <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/COVID19CaseIncrease> <http://schema.org/name> "Exponential increase in COVID-19 cases"  <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/PakistanCOVID19Statistics> <http://schema.org/variableMeasured> "COVID-19 tests conducted"  <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/ChiefMinistersOfPakistan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/VirtualMeeting> <http://schema.org/startDate> "2023-06-09"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/ProvincialChiefMinisters> <http://dbpedia.org/ontology/member> <http://example.org/ChiefMinistersOfPakistan> <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/WHORecommendation> <http://schema.org/guidelineDate> "2023-06-09"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/PakistanGovernment> <http://dbpedia.org/ontology/leader> <http://example.org/ImranKhan> <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/WHORecommendation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalGuideline> <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/AsadHashim> <http://xmlns.com/foaf/0.1/name> "Asad Hashim"  <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/EidAlFitr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Festival> <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/PalithaMahipala> <http://xmlns.com/foaf/0.1/name> "Palitha Mahipala"  <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/PakistanCOVID19Statistics> <http://schema.org/value> "23799"^^<http://www.w3.org/2001/XMLSchema#integer>  <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/VirtualMeeting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/PakistanCOVID19Statistics> <http://schema.org/value> "2312"^^<http://www.w3.org/2001/XMLSchema#integer>  <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/AsadHashim> <http://xmlns.com/foaf/0.1/accountName> "@AsadHashim"  <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/PakistanGovernment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Government> <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/BilawalBhuttoZardari> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/VirtualMeeting> <http://schema.org/attendee> <http://example.org/ProvincialChiefMinisters> <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/PakistanCOVID19Statistics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Dataset> <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/COVID19CaseIncrease> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalCondition> <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/WHOPakistan> <http://dbpedia.org/ontology/leader> <http://example.org/PalithaMahipala> <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/LiftingLockdown> <http://schema.org/name> "Lifting of lockdown restrictions"  <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/IntermittentLockdown> <http://schema.org/frequency> "Two-weeks-on and two-weeks-off cycle"  <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/PakistanCOVID19Statistics> <http://schema.org/variableMeasured> "COVID-19 deaths"  <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/PalithaMahipala> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/ChairmanPPP> <http://dbpedia.org/ontology/organisation> <http://dbpedia.org/resource/Pakistan_Peoples_Party> <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/VirtualMeeting> <http://schema.org/organizer> <http://example.org/NationalCoordinationCommittee> <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/PakistanCOVID19Statistics> <http://schema.org/variableMeasured> "COVID-19 cases"  <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/WHORecommendation> <http://schema.org/recommendation> <http://example.org/IntermittentLockdown> <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/BilawalBhuttoZardari> <http://xmlns.com/foaf/0.1/name> "Bilawal Bhutto Zardari"  <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/NationalCoordinationCommittee> <http://dbpedia.org/ontology/purpose> "Coronavirus response"  <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/PakistanCOVID19Statistics> <http://schema.org/measurementTechnique> "COVID-19 testing"  <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/WHORecommendation> <http://schema.org/guidelineSubject> <http://example.org/COVID19CaseIncrease> <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/LiftingLockdown> <http://schema.org/startDate> "2023-05-31"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/AsadHashim> <http://dbpedia.org/ontology/occupation> <http://example.org/DigitalCorrespondent> <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/ProvincialChiefMinisters> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Group> <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/LiftingLockdown> <http://schema.org/location> <http://dbpedia.org/resource/Islamabad> <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/PakistanCOVID19Statistics> <http://schema.org/dateModified> "2023-06-09"^^<http://www.w3.org/2001/XMLSchema#date>  <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/DigitalCorrespondent> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/Al_Jazeera> <WorldHealthOrganization-Al-Jazeera-9> .
+ <http://example.org/BilawalBhuttoZardari> <http://dbpedia.org/ontology/position> <http://example.org/ChairmanPPP> <WorldHealthOrganization-Al-Jazeera-9> .

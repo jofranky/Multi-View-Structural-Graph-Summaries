@@ -1,0 +1,740 @@
+ <http://example.org/ontology#LittleCigarsWithTippingPaperAndTubes> <http://example.org/ontology#deadline> "2025-04-30"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#CigaretteWarningLabelRequirement> <http://example.org/ontology#requires> <http://example.org/ontology#WarningLabelOnCigarettes> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#PictureWarningsOnCigarettePackages2001> <http://example.org/ontology#firstToRequire> <http://example.org/ontology#PictureWarningsOnCigarettePackages> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#Canada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Country> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#Canada> <http://example.org/ontology#hasTobaccoUseStatistic> <http://example.org/ontology#TobaccoUseStatisticCanada> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#TobaccoUseReductionGoal2035> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Goal> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#RobCunningham> <http://www.w3.org/2000/01/rdf-schema#label> "Rob Cunningham, senior policy analyst at the Canadian Cancer Society"  <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#Canada> <http://example.org/ontology#hasGovernment> <http://example.org/ontology#CanadianGovernment> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#CigaretteWarningLabelRequirement> <http://example.org/ontology#covers> <http://example.org/ontology#LittleCigarsWithTippingPaperAndTubes> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#CanadaWillHaveBestTobaccoHealthWarningSystem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Belief> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#MeasureWillReduceSmokingAndAppealOfCigarettes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Belief> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#KingSizeCigarettes> <http://example.org/ontology#deadline> "2023-08-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#TobaccoControlStrategyCanada> <http://example.org/ontology#goal> <http://example.org/ontology#TobaccoUseReductionGoal2035> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#CigaretteWarningLabelRequirement> <http://example.org/ontology#covers> <http://example.org/ontology#KingSizeCigarettes> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#HealthCanadaAndPHAC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#TwitterAccount> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#RegularSizeCigarettes> <http://example.org/ontology#deadline> "2024-07-31"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#TobaccoAdvertisingBanCanada> <http://example.org/ontology#on> <http://example.org/ontology#TobaccoAdvertisingPromotionAndSponsorship> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#TobaccoAdvertisingBanCanada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Ban> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#WorldNoTobaccoDayAnnouncement> <http://example.org/ontology#source> <https://t.co/BP3mtmF9s1> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#KingSizeCigarettes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#CigaretteType> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#PictureWarningsOnCigarettePackages> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#WarningType> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#Canada> <http://example.org/ontology#hasTobaccoControlStrategy> <http://example.org/ontology#TobaccoControlStrategyCanada> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#TobaccoControlStrategyCanada> <http://example.org/ontology#includes> <http://example.org/ontology#UpdatedGraphicImagesOnPackages> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#CanadianGovernment> <http://www.w3.org/2000/01/rdf-schema#label> "Government of Canada"  <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#WorldNoTobaccoDayAnnouncement> <http://example.org/ontology#about> <http://example.org/ontology#WorldNoTobaccoDay> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#HealthCanadaAndPHAC> <http://www.w3.org/2000/01/rdf-schema#label> "@GovCanHealth"  <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#HealthCanada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#HealthDepartment> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#RegularSizeCigarettes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#CigaretteType> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#TobaccoUseReductionGoal2035> <http://example.org/ontology#targetPercentage> "5"^^<http://www.w3.org/2001/XMLSchema#integer>  <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#PictureWarningsOnCigarettePackages> <http://example.org/ontology#on> <http://example.org/ontology#CigarettePackages> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#Canada> <http://example.org/ontology#hasCigarettePackWarningHistory> <http://example.org/ontology#CigarettePackWarningHistoryCanada> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#KingSizeCigarettes> <http://example.org/ontology#size> "King-size"  <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#WarningLabelOnCigarettes> <http://example.org/ontology#text> "poison in every puff"  <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#TobaccoUseStatisticCanada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Statistic> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#CigarettePackWarningHistoryCanada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#History> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#TobaccoAdvertisingBanCanada> <http://example.org/ontology#since> "1972-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#HealthCanada> <http://example.org/ontology#announced> <http://example.org/ontology#CigaretteWarningLabelRequirement> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#WorldNoTobaccoDayAnnouncement> <http://example.org/ontology#tweetID> "kMOB5VOcsN"  <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#TobaccoUseStatisticCanada> <http://example.org/ontology#deathsPerYear> "48000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#RegularSizeCigarettes> <http://example.org/ontology#size> "Regular-size"  <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#Canada> <http://example.org/ontology#hasHealthDepartment> <http://example.org/ontology#HealthCanada> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#HeartAndStroke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Charity> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#HealthCanada> <http://example.org/ontology#aimsToReduceTobaccoUse> <http://example.org/ontology#TobaccoUseReductionGoal2035> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#WorldNoTobaccoDay> <http://example.org/ontology#date> "2023-05-31"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#WorldNoTobaccoDay> <http://example.org/ontology#recognizedBy> <http://example.org/ontology#Canada> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#DougRoth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#CEO> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#RobCunningham> <http://example.org/ontology#believes> <http://example.org/ontology#CanadaWillHaveBestTobaccoHealthWarningSystem> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#WorldNoTobaccoDayAnnouncement> <http://example.org/ontology#date> "2023-05-31"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#CarolynBennett> <http://www.w3.org/2000/01/rdf-schema#label> "Mental Health and Addictions Minister Carolyn Bennett"  <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#HeartAndStroke> <http://example.org/ontology#hasCEO> <http://example.org/ontology#DougRoth> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#WarningLabelOnCigarettes> <http://example.org/ontology#language> "English"  <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#WarningLabelOnCigarettes> <http://example.org/ontology#language> "French"  <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#WarningLabelOnCigarettes> <http://example.org/ontology#text> "cigarettes cause impotence"  <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#PictureWarningsOnCigarettePackages2001> <http://example.org/ontology#occurred> "2001-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#CigaretteWarningLabelRequirement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Regulation> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#CigaretteWarningLabelRequirement> <http://example.org/ontology#covers> <http://example.org/ontology#RegularSizeCigarettes> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#CigarettePackWarningHistoryCanada> <http://example.org/ontology#hasEvent> <http://example.org/ontology#PictureWarningsOnCigarettePackages2001> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#HealthCanada> <http://www.w3.org/2000/01/rdf-schema#label> "Health Canada"  <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#PictureWarningsOnCigarettePackages2001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Event> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#MeasureWillReduceSmokingAndAppealOfCigarettes> <http://example.org/ontology#consequence> <http://example.org/ontology#PreventionOfCancerAndOtherDiseases> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#WorldNoTobaccoDayAnnouncement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Announcement> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#Canada> <http://example.org/ontology#hasTobaccoAdvertisingBan> <http://example.org/ontology#TobaccoAdvertisingBanCanada> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#CarolynBennett> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Minister> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#CanadaWillHaveBestTobaccoHealthWarningSystem> <http://example.org/ontology#about> <http://example.org/ontology#TobaccoHealthWarningSystem> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#DougRoth> <http://www.w3.org/2000/01/rdf-schema#label> "Doug Roth, chief executive of the Heart & Stroke"  <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#RobCunningham> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#SeniorPolicyAnalyst> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#CarolynBennett> <http://example.org/ontology#spokeOn> "2023-05-31"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#TobaccoHealthWarningSystem> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#System> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#CanadianCancerSociety> <http://example.org/ontology#believes> <http://example.org/ontology#MeasureWillReduceSmokingAndAppealOfCigarettes> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#TobaccoHealthWarningSystem> <http://example.org/ontology#considered> "best"  <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#TobaccoHealthWarningSystem> <http://example.org/ontology#in> <http://example.org/ontology#World> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#CigaretteWarningLabelRequirement> <http://example.org/ontology#takesEffect> "2023-08-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#TobaccoControlStrategyCanada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Strategy> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#HealthCanadaAndPHAC> <http://example.org/ontology#tweeted> <http://example.org/ontology#WorldNoTobaccoDayAnnouncement> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#WorldNoTobaccoDayAnnouncement> <http://example.org/ontology#content> "Canada became the first in the world to require health warnings printed directly on individual cigarettes."  <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#CanadianGovernment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Government> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#WarningLabelOnCigarettes> <http://example.org/ontology#text> "tobacco smoke harms children"  <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#PictureWarningsOnCigarettePackages2001> <http://example.org/ontology#country> <http://example.org/ontology#Canada> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#WarningLabelOnCigarettes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#WarningLabel> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#LittleCigarsWithTippingPaperAndTubes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#TobaccoProductType> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#Canada> <http://example.org/ontology#hasMentalHealthAndAddictionsMinister> <http://example.org/ontology#CarolynBennett> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#CanadianCancerSociety> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Organization> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#TobaccoUseReductionGoal2035> <http://example.org/ontology#targetYear> "2035"^^<http://www.w3.org/2001/XMLSchema#integer>  <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#WorldNoTobaccoDay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Event> <Cigarettes-Al-Jazeera-0> .
+ <http://example.org/ontology#ThaiGovernment> <http://example.org/ontology#owns> <http://example.org/ontology#TobaccoMonopoly> <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#PrakitVathesatogkit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Person> <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#SalesDownturn> <http://example.org/ontology#hasImpactOn> <http://example.org/ontology#CigaretteSales> <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#OtherBrands> <http://example.org/ontology#equivalentUSDRange> "1.34-3.64"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#Line7_1> <http://example.org/ontology#currency> "baht"  <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#ThaiHealthPromotionFoundation> <http://example.org/ontology#providesEstimate> <http://example.org/ontology#SmokerStatistics> <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#Line7_1> <http://example.org/ontology#equivalentUSD> "1.12"^^<http://www.w3.org/2001/XMLSchema#float>  <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#SalesDownturn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#EconomicEffect> <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#AntiSmokingCampaigners> <http://example.org/ontology#criticize> <http://example.org/ontology#TobaccoMonopoly> <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#TaxIncrease> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#TaxPolicy> <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#PrakitVathesatogkit> <http://example.org/ontology#affiliation> <http://example.org/ontology#ActionOnSmokingAndHealthFoundation> <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#OtherBrands> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#CigaretteBrand> <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#TaxIncrease> <http://example.org/ontology#hasEffect> <http://example.org/ontology#SalesDownturn> <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#AntiSmokingCampaigners> <http://example.org/ontology#claim> <http://example.org/ontology#FinancialMotivesNotHealth> <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#SmokerStatistics> <http://example.org/ontology#timeframe> "past 30 years"  <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#TobaccoMonopoly> <http://example.org/ontology#introduced> <http://example.org/ontology#Line7_1> <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#TobaccoMonopoly> <http://example.org/ontology#aimsTo> <http://example.org/ontology#ProtectHealthOfLowIncomeSmokers> <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#Line7_1> <http://example.org/ontology#cost> "40.0"^^<http://www.w3.org/2001/XMLSchema#float>  <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#ThaiHealthPromotionFoundation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Organization> <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#PriceIncrease> <http://example.org/ontology#currency> "cents"  <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#TobaccoMonopoly> <http://example.org/ontology#respondedTo> <http://example.org/ontology#TaxIncrease> <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#PrakitVathesatogkit> <http://example.org/ontology#statement> "All cigarettes are the same, the expensive one, the cheaper one, the hand roll; no difference, they are all tobacco."  <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#SalesDownturn> <http://example.org/ontology#percentageChange> "-15"^^<http://www.w3.org/2001/XMLSchema#integer>  <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#OtherBrands> <http://example.org/ontology#priceRange> "48-130"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#SmokerStatistics> <http://example.org/ontology#currentSmokers> "12 million"^^<http://www.w3.org/2001/XMLSchema#integer>  <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#Thailand> <http://example.org/ontology#hasGovernment> <http://example.org/ontology#ThaiGovernment> <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#TaxIncrease> <http://example.org/ontology#hasEffect> <http://example.org/ontology#PriceIncrease> <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#ThaiGovernment> <http://example.org/ontology#introduced> <http://example.org/ontology#TaxIncrease> <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#PriceIncrease> <http://example.org/ontology#hasImpactOn> <http://example.org/ontology#CigarettePrices> <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#PriceIncrease> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#EconomicEffect> <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#TobaccoMonopoly> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#StateOwnedCompany> <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#TaxIncrease> <http://example.org/ontology#percentage> "3"^^<http://www.w3.org/2001/XMLSchema#integer>  <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#OtherBrands> <http://example.org/ontology#currency> "baht"  <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#SmokerStatistics> <http://example.org/ontology#smokerReduction> "7 million"^^<http://www.w3.org/2001/XMLSchema#integer>  <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#SmokerStatistics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#DemographicData> <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#Line7_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#CigaretteBrand> <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#PriceIncrease> <http://example.org/ontology#priceChangeRange> "30-76"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#SmokerStatistics> <http://example.org/ontology#populationReference> "67 million"^^<http://www.w3.org/2001/XMLSchema#integer>  <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/ontology#Line7_1> <http://example.org/ontology#isSmallerDiameterThan> <http://example.org/ontology#StandardBrands> <Cigarettes-Al-Jazeera-1> .
+ <http://example.org/CVSHealth> <http://schema.org/name> "CVS Health"  <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/WalmartCigaretteDecisionAnnouncement> <http://schema.org/articleBody> "Decisions about removing cigarettes at Walmart will be made on a store-by-store basis, the retail giant said on Monday. Walmart will no longer sell cigarettes in some of its stores although tobacco sales can be a significant revenue generator."  <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/CVSHealthCigaretteSalesEndAnnouncement> <http://schema.org/datePublished> "2014-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/WalmartCigaretteDecisionAnnouncement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NewsArticle> <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/SamWalton> <http://schema.org/name> "Sam Walton"  <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/WalmartInc> <http://schema.org/name> "Walmart Inc"  <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/WallStreetJournal> <http://schema.org/name> "Wall Street Journal"  <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/WalmartCigaretteSalesReport> <http://schema.org/datePublished> "2023-03-27"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/BentonvilleArkansas> <http://schema.org/name> "Bentonville, Arkansas"  <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/CVSHealth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/Target> <http://schema.org/announcement> <http://example.org/TargetCigaretteSalesEndAnnouncement> <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/WallStreetJournal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/TargetCigaretteSalesEndAnnouncement> <http://schema.org/datePublished> "1996-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/CVSHealth> <http://schema.org/announcement> <http://example.org/CVSHealthCigaretteSalesEndAnnouncement> <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/Walmart> <http://schema.org/name> "Walmart"  <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/Walmart> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/Walmart> <http://schema.org/founder> <http://example.org/SamWalton> <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/WalmartInc> <http://schema.org/announcement> <http://example.org/WalmartVapingBusinessExitAnnouncement> <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/TargetCigaretteSalesEndAnnouncement> <http://schema.org/publisher> <http://example.org/Target> <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/CVSHealthCigaretteSalesEndAnnouncement> <http://schema.org/publisher> <http://example.org/CVSHealth> <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/Walmart> <http://schema.org/parentOrganization> <http://example.org/WalmartInc> <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/Target> <http://schema.org/name> "Target"  <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/WalmartCigaretteSalesReport> <http://schema.org/articleBody> "Wall Street Journal was the first to report the development Monday. It noted some stores in California, Florida, Arkansas and New Mexico were on the list, citing anonymous sources and store visits."  <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/SamsClubs> <http://schema.org/name> "Sam's Clubs"  <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/CVSHealthCigaretteSalesEndAnnouncement> <http://schema.org/articleBody> "The chemist chain CVS Health did the same in 2014."  <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/WalmartVapingBusinessExitAnnouncement> <http://schema.org/publisher> <http://example.org/WalmartInc> <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/Walmart> <http://schema.org/owns> <http://example.org/SamsClubs> <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/WalmartCigaretteSalesReport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NewsArticle> <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/CVSHealthCigaretteSalesEndAnnouncement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NewsArticle> <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/AetnaAcquisitionAnnouncement> <http://schema.org/publisher> <http://example.org/CVSHealth> <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/WalmartInc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/WalmartVapingBusinessExitAnnouncement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NewsArticle> <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/Walmart> <http://schema.org/location> <http://example.org/BentonvilleArkansas> <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/WalmartCigaretteDecisionAnnouncement> <http://schema.org/datePublished> "2023-03-27"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/WalmartCigaretteSalesReport> <http://schema.org/publisher> <http://example.org/WallStreetJournal> <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/WallStreetJournal> <http://schema.org/report> <http://example.org/WalmartCigaretteSalesReport> <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/AetnaAcquisitionAnnouncement> <http://schema.org/articleBody> "CVS Health bought the health insurer Aetna in 2017."  <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/WalmartCigaretteDecisionAnnouncement> <http://schema.org/publisher> <http://example.org/Walmart> <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/WalmartInc> <http://schema.org/location> <http://example.org/BentonvilleArkansas> <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/AetnaAcquisitionAnnouncement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NewsArticle> <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/BentonvilleArkansas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/TargetCigaretteSalesEndAnnouncement> <http://schema.org/articleBody> "Target ended cigarette sales in 1996."  <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/SamWalton> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/WalmartVapingBusinessExitAnnouncement> <http://schema.org/datePublished> "2019-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/SamsClubs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Store> <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/WalmartVapingBusinessExitAnnouncement> <http://schema.org/articleBody> "Walmart Inc, based in Bentonville, Arkansas, announced in 2019 that it was getting out of the vaping business and would stop selling electronic cigarettes at its stores and also at Sam’s Clubs. It said at the time the decision was based on 'growing federal, state and local regulatory complexity'."  <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/CVSHealth> <http://schema.org/acquisition> <http://example.org/AetnaAcquisitionAnnouncement> <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/Target> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/TargetCigaretteSalesEndAnnouncement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NewsArticle> <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/Walmart> <http://schema.org/announcement> <http://example.org/WalmartCigaretteDecisionAnnouncement> <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/AetnaAcquisitionAnnouncement> <http://schema.org/datePublished> "2017-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-Al-Jazeera-2> .
+ <http://example.org/ontology#MentholCigarettesBanProposal> <http://schema.org/about> <http://example.org/ontology#MentholCigarettes> <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#SmokingRatesInUS> <http://schema.org/author> <http://example.org/ontology#USFoodAndDrugAdministration> <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#MentholCigarettesBanProposal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Legislation> <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#BigTobacco> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Industry> <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#USFoodAndDrugAdministration> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/United_States> <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#BidenAdministration> <http://dbpedia.org/ontology/leader> <http://dbpedia.org/resource/Joe_Biden> <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#PublicCommentPeriod> <http://schema.org/isPartOf> <http://example.org/ontology#MentholCigarettesBanProposal> <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#BidenAdministration> <http://xmlns.com/foaf/0.1/name> "Biden administration"  <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#USFoodAndDrugAdministration> <http://schema.org/eventDate> "2023-04-27"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#BigTobacco> <http://xmlns.com/foaf/0.1/name> "Big Tobacco"  <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#AltriaGroupInc> <http://xmlns.com/foaf/0.1/name> "Altria Group Inc"  <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#AntiSmokingAdvocates> <http://xmlns.com/foaf/0.1/name> "Anti-smoking advocates"  <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#MentholCigarettesBanProposal> <http://schema.org/isPartOf> <http://example.org/ontology#USFoodAndDrugAdministration> <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#JoeBiden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#USFoodAndDrugAdministration> <http://xmlns.com/foaf/0.1/name> "United States Food and Drug Administration"  <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#Jefferies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#BritishAmericaTobaccoPlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#PublicCommentPeriod> <http://schema.org/eventStatus> "OpenForComments"  <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#DerrickJohnson> <http://xmlns.com/foaf/0.1/name> "Derrick Johnson"  <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#FlavouredCigars> <http://schema.org/category> "Cigars"  <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#EquityJusticeAndPublicHealthConcerns> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#JoeBiden> <http://xmlns.com/foaf/0.1/name> "Joe Biden"  <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#DerrickJohnson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#TradingStatusOfTobaccoCompanies> <http://schema.org/about> <http://example.org/ontology#AltriaGroupInc> <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#NationalAssociationForTheAdvancementOfColoredPeople> <http://dbpedia.org/ontology/abbreviation> "NAACP"  <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#AntiSmokingAdvocates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#DerrickJohnson> <http://schema.org/memberOf> <http://example.org/ontology#NationalAssociationForTheAdvancementOfColoredPeople> <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#NationalAssociationForTheAdvancementOfColoredPeople> <http://dbpedia.org/ontology/leader> <http://example.org/ontology#DerrickJohnson> <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#BidenAdministration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#USFoodAndDrugAdministration> <http://schema.org/actionStatus> "ProposalIssued"  <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#TradingStatusOfTobaccoCompanies> <http://schema.org/about> <http://example.org/ontology#BritishAmericaTobaccoPlc> <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#SmokingRatesInUS> <http://schema.org/result> "More than 18.5 million menthol cigarette smokers ages 12 and older in 2019."  <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#AmericanCivilLibertiesUnion> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#USFoodAndDrugAdministration> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/GovernmentAgency> <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#ImperialBrandsPlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#PublicCommentPeriod> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#PublicCommentPeriod> <http://schema.org/startDate> "2023-05-05"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#TradingStatusOfTobaccoCompanies> <http://schema.org/eventDate> "2023-04-27"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#MentholCigarettes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#AltriaGroupInc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#MentholCigarettesBanProposal> <http://schema.org/legislationType> "Ban"  <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#BritishAmericaTobaccoPlc> <http://dbpedia.org/ontology/abbreviation> "BAT"  <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#ModelingStudies> <http://schema.org/result> "Estimated 15 percent reduction in smoking within 40 years if menthol cigarettes were banned."  <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#DerrickJohnson> <http://schema.org/jobTitle> "President"  <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#USFoodAndDrugAdministration> <http://dbpedia.org/ontology/abbreviation> "FDA"  <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#ModelingStudies> <http://schema.org/author> <http://example.org/ontology#USFoodAndDrugAdministration> <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#EquityJusticeAndPublicHealthConcerns> <http://xmlns.com/foaf/0.1/name> "Equity, justice, and public health concerns"  <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#NationalAssociationForTheAdvancementOfColoredPeople> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#Jefferies> <http://xmlns.com/foaf/0.1/name> "Jefferies"  <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#SmokingRatesInUS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Statistic> <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#MentholCigarettesBanProposal> <http://dbpedia.org/ontology/abstract> "A proposal to ban menthol cigarettes and flavoured cigars in the US."  <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#FlavouredCigars> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#SmokingRatesInUS> <http://schema.org/about> <http://example.org/ontology#MentholCigarettes> <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#NationalAssociationForTheAdvancementOfColoredPeople> <http://xmlns.com/foaf/0.1/name> "National Association for the Advancement of Colored People"  <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#ImperialBrandsPlc> <http://xmlns.com/foaf/0.1/name> "Imperial Brands Plc"  <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#TradingStatusOfTobaccoCompanies> <http://schema.org/result> "Shares were mixed in afternoon trading."  <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#AmericanCivilLibertiesUnion> <http://xmlns.com/foaf/0.1/name> "American Civil Liberties Union"  <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#ModelingStudies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#AmericanCivilLibertiesUnion> <http://dbpedia.org/ontology/abbreviation> "ACLU"  <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#MentholCigarettesBanProposal> <http://schema.org/status> "Proposal"  <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#ModelingStudies> <http://schema.org/about> <http://example.org/ontology#MentholCigarettes> <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#BritishAmericaTobaccoPlc> <http://xmlns.com/foaf/0.1/name> "British America Tobacco Plc"  <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#TradingStatusOfTobaccoCompanies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#PublicCommentPeriod> <http://schema.org/endDate> "2023-07-05"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#JoeBiden> <http://schema.org/jobTitle> "US President"  <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#USFoodAndDrugAdministration> <http://schema.org/organizer> <http://example.org/ontology#BidenAdministration> <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#MentholCigarettes> <http://schema.org/isRelatedTo> <http://example.org/ontology#FlavouredCigars> <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#MentholCigarettes> <http://dbpedia.org/ontology/marketShare> "More than a third of the industry's overall market share in the US"  <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#MentholCigarettes> <http://schema.org/category> "Cigarettes"  <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#TradingStatusOfTobaccoCompanies> <http://schema.org/about> <http://example.org/ontology#ImperialBrandsPlc> <Cigarettes-Al-Jazeera-3> .
+ <http://example.org/ontology#ImportantRegionForGrowth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#BusinessImportance> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#ImperialBrandsPlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Company> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#RussianProfitShare> <http://schema.org/description> "Russia makes up about 5% of the company’s profit"  <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#RussianInvasionOfUkraine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Event> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#IQOS> <http://schema.org/name> "IQOS"  <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#OwenBennett> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Person> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#OwenBennett> <http://example.org/ontology#role> <http://example.org/ontology#AnalystAtJefferies> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#RussianMarketRevenueShare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FinancialMetric> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#FullYearForecast> <http://schema.org/description> "Full-year forecast"  <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#MultinationalsScalingBackInRussia> <http://schema.org/description> "Multinationals scaling back operations in Russia"  <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#SolidarityWithUkrainians> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Statement> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#RussianIQOSConsumptionShare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FinancialMetric> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#FullYearForecast> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FinancialForecast> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#PhilipMorrisDilemma> <http://example.org/ontology#iqosConsumptionShare> <http://example.org/ontology#RussianIQOSConsumptionShare> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#EmployeeCountInRussia> <http://schema.org/value> "3200"^^<http://www.w3.org/2001/XMLSchema#integer>  <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#RussianMarketRevenueShare> <http://schema.org/description> "Generated 6% of total revenue last year"  <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#JacekOlczak> <http://example.org/ontology#role> <http://example.org/ontology#ChiefExecutiveOfficer> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#JacekOlczak> <http://example.org/ontology#expressed> <http://example.org/ontology#SolidarityWithUkrainians> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#AnalystAtJefferies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#JobTitle> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#LeavingRussianMarket> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#BusinessDecision> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#RussianMarketRevenueShare> <http://schema.org/value> "6%"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#ComplexBusinessEnvironment> <http://schema.org/description> "Too complex to do business"  <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#PhilipMorrisInternationalInc> <http://schema.org/name> "Philip Morris International Inc."  <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#PhilipMorrisDilemma> <http://example.org/ontology#profitShare> <http://example.org/ontology#RussianProfitShare> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#OwenBennett> <http://schema.org/name> "Owen Bennett"  <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#PhilipMorrisDilemma> <http://schema.org/description> "Facing the dilemma of limiting the damage to its reputation or staying and continuing to benefit from its second-largest IQOS market"  <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#SolidarityWithUkrainians> <http://schema.org/description> "We stand in solidarity with the innocent men, women and children who are suffering"  <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#PhilipMorrisInternationalInc> <http://example.org/ontology#joined> <http://example.org/ontology#MultinationalsScalingBackInRussia> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#PhilipMorrisInternationalInc> <http://example.org/ontology#shareValueChange> <http://example.org/ontology#SharesFell1Percent> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#ImportantRegionForGrowth> <http://schema.org/description> "Important region for growth of the company’s IQOS cigarette alternative"  <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#PhilipMorrisInternationalInc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Company> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#ChiefExecutiveOfficer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#JobTitle> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#TransferToLocalRussianPartners> <http://schema.org/description> "Plan to transfer their local businesses to Russian partners"  <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#PhilipMorrisInternationalInc> <http://example.org/ontology#hasEmployeeCount> <http://example.org/ontology#EmployeeCountInRussia> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#OrderlyExit> <http://schema.org/description> "Considering ways to leave in an orderly fashion"  <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#JacekOlczak> <http://schema.org/name> "Jacek Olczak"  <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#PhilipMorrisDilemma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#BusinessDilemma> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#FirstQuarterResults> <http://schema.org/date> "2023-04-21"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#SharesFell1Percent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#StockMarketEvent> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#Marlboro> <http://schema.org/name> "Marlboro"  <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#ImperialBrandsPlc> <http://example.org/ontology#plans> <http://example.org/ontology#TransferToLocalRussianPartners> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#BritishAmericanTobaccoPlc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Company> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#FirstQuarterResults> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FinancialReport> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#IQOS> <http://example.org/ontology#marketPosition> <http://example.org/ontology#FourthLargestCigaretteMarket> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#LeavingRussianMarket> <http://example.org/ontology#inResponseTo> <http://example.org/ontology#RussianInvasionOfUkraine> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#SharesFell1Percent> <http://schema.org/description> "Philip Morris shares fell 1% in premarket trading"  <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#LeavingRussianMarket> <http://schema.org/description> "Working on options to leave the Russian market"  <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#EmployeeCountInRussia> <http://schema.org/description> "More than 3,200 employees in Russia"  <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#BritishAmericanTobaccoPlc> <http://schema.org/name> "British American Tobacco Plc"  <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#RussianIQOSConsumptionShare> <http://schema.org/description> "Consumes almost a fifth of Philip Morris’s IQOS production"  <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#PhilipMorrisInternationalInc> <http://example.org/ontology#statedIntent> <http://example.org/ontology#LeavingRussianMarket> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#TransferToLocalRussianPartners> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#BusinessDecision> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#LeavingRussianMarket> <http://example.org/ontology#dueTo> <http://example.org/ontology#ComplexBusinessEnvironment> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#FourthLargestCigaretteMarket> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#MarketPosition> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#OrderlyExit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Strategy> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#PhilipMorrisInternationalInc> <http://example.org/ontology#hasRevenueShare> <http://example.org/ontology#RussianMarketRevenueShare> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#LeavingRussianMarket> <http://example.org/ontology#considering> <http://example.org/ontology#OrderlyExit> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#FourthLargestCigaretteMarket> <http://schema.org/description> "World's fourth-largest cigarette market by volume"  <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#RussianInvasionOfUkraine> <http://schema.org/description> "Invasion of Ukraine"  <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#RussianProfitShare> <http://schema.org/value> "5%"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#RussianProfitShare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FinancialMetric> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#Marlboro> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#CigaretteBrand> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#ComplexBusinessEnvironment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#BusinessCondition> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#ChiefExecutiveOfficer> <http://schema.org/name> "Chief Executive Officer"  <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#OwenBennett> <http://example.org/ontology#commentedOn> <http://example.org/ontology#PhilipMorrisDilemma> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#RussianIQOSConsumptionShare> <http://schema.org/value> "20%"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#MultinationalsScalingBackInRussia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Event> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#SharesFell1Percent> <http://schema.org/value> "-1%"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#IQOS> <http://example.org/ontology#importanceForGrowth> <http://example.org/ontology#ImportantRegionForGrowth> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#JacekOlczak> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Person> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#AnalystAtJefferies> <http://schema.org/name> "Analyst at Jefferies"  <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#BritishAmericanTobaccoPlc> <http://example.org/ontology#plans> <http://example.org/ontology#TransferToLocalRussianPartners> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#EmployeeCountInRussia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#EmployeeMetric> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#IQOS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#CigaretteAlternative> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#FirstQuarterResults> <http://example.org/ontology#willUpdate> <http://example.org/ontology#FullYearForecast> <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#ImperialBrandsPlc> <http://schema.org/name> "Imperial Brands Plc"  <Cigarettes-Al-Jazeera-4> .
+ <http://example.org/ontology#JuulLabs> <http://example.org/ontology#investor> <http://example.org/ontology#AltriaGroup> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#IQOS> <http://example.org/ontology#marketedBy> <http://example.org/ontology#PhilipMorrisInternational> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#PhilipMorrisInternational> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Company> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#PhilipMorrisInternational> <http://example.org/ontology#revenuePercentage> "25"^^<http://www.w3.org/2001/XMLSchema#percent>  <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#DecliningTrend> <http://example.org/ontology#observationPeriod> "last decades"  <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#SmokingAlternatives> <http://example.org/ontology#includes> <http://example.org/ontology#HeatedTobaccoDevices> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/citi/SmokingTrendAnalysis> <http://example.org/ontology#publicationDate> "2023-03-28"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#JuulLabs> <http://example.org/ontology#product> <http://example.org/ontology#VapeTechnology> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#DecliningTrend> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Trend> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#IQOS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#HeatedTobaccoDevice> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#PhilipMorrisInternational> <http://example.org/ontology#product> <http://example.org/ontology#IQOS> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#DecliningTrend> <http://example.org/ontology#declineIn> <http://example.org/ontology#CigaretteUse> <Cigarettes-Al-Jazeera-5> .
+ <http://Cigarettes-Al-Jazeera-5.com/blank#n2cb6d8de89f34ef89005377bcbc07ae8b2> <http://example.org/ontology#region> <http://example.org/ontology#Europe> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/citi/SmokingTrendAnalysis> <http://example.org/ontology#observedDecline> "previous decades"  <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#ZeroCigaretteUse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Outcome> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#Russia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Country> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#ChildrenSmokingStatistics> <http://example.org/ontology#subject> <http://example.org/ontology#Children> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#CigaretteVolumes> <http://example.org/ontology#timeframe> "decades"  <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#NoSmoking> <http://example.org/ontology#implies> <http://example.org/ontology#ZeroCigaretteUse> <Cigarettes-Al-Jazeera-5> .
+ <http://Cigarettes-Al-Jazeera-5.com/blank#n2cb6d8de89f34ef89005377bcbc07ae8b4> <http://example.org/ontology#region> <http://example.org/ontology#LatinAmerica> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#TobaccoUseAmongMen> <http://example.org/ontology#record> <http://example.org/ontology#FirstDeclineOnRecord> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#SmokingAlternatives> <http://example.org/ontology#includes> <http://example.org/ontology#OralNicotinePouches> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#SmokingDisappearanceBy2050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Prediction> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/citi/AdamSpielman> <http://example.org/ontology#wrote> <http://example.org/citi/SmokingTrendAnalysis> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#France> <http://example.org/ontology#expectation> <http://example.org/ontology#CommonSmokingBy2050> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/citi/SmokingTrendAnalysis> <http://example.org/ontology#predictionYear> "2050"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#PhilipMorrisInternational> <http://example.org/ontology#revenueSource> <http://example.org/ontology#NonCombustibleProducts> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#SmokingDisappearanceBy2050> <http://example.org/ontology#basedOnTrend> <http://example.org/ontology#DecliningTrend> <Cigarettes-Al-Jazeera-5> .
+ <http://Cigarettes-Al-Jazeera-5.com/blank#n2cb6d8de89f34ef89005377bcbc07ae8b1> <http://example.org/ontology#region> <http://example.org/ontology#UnitedStates> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#ChildrenSmokingStatistics> <http://example.org/ontology#magnitude> "almost three-quarters"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/citi/SmokingTrendAnalysis> <http://example.org/ontology#focusArea> <http://Cigarettes-Al-Jazeera-5.com/blank#n2cb6d8de89f34ef89005377bcbc07ae8b4>  <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#BritishAmericanTobacco> <http://example.org/ontology#competitionWith> <http://example.org/ontology#PhilipMorrisInternational> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#SmokingStillCommon> <http://example.org/ontology#inCountries> <http://example.org/ontology#China> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#BritishAmericanTobacco> <http://example.org/ontology#product> <http://example.org/ontology#VapingProducts> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/citi/SmokingTrendAnalysis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Report> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#ZeroCigaretteUse> <http://example.org/ontology#resultOf> <http://example.org/ontology#SmokingDisappearanceBy2050> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#SmokingStillCommon> <http://example.org/ontology#inCountries> <http://example.org/ontology#Russia> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#AltriaGroup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Company> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/citi/AdamSpielman> <http://example.org/ontology#affiliation> <http://example.org/ontology#Citigroup> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#JuulLabs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Company> <Cigarettes-Al-Jazeera-5> .
+ <http://Cigarettes-Al-Jazeera-5.com/blank#n2cb6d8de89f34ef89005377bcbc07ae8b3> <http://example.org/ontology#region> <http://example.org/ontology#Australia> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/citi/SmokingTrendAnalysis> <http://example.org/ontology#focusArea> <http://Cigarettes-Al-Jazeera-5.com/blank#n2cb6d8de89f34ef89005377bcbc07ae8b2>  <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#AltriaGroup> <http://example.org/ontology#cigaretteBusinessPercentage> "82"^^<http://www.w3.org/2001/XMLSchema#percent>  <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/citi/SmokingTrendAnalysis> <http://example.org/ontology#topic> <http://example.org/ontology#SmokingTrend> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#SmokingAlternatives> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#ProductCategory> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#BritishAmericanTobacco> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Company> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#China> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Country> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#China> <http://example.org/ontology#expectation> <http://example.org/ontology#CommonSmokingBy2050> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#OralNicotinePouches> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#SmokingAlternative> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#PhilipMorrisInternational> <http://example.org/ontology#brand> <http://example.org/ontology#Marlboro> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/citi/AdamSpielman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Analyst> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#SmokingStillCommon> <http://example.org/ontology#inCountries> <http://example.org/ontology#France> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/citi/SmokingTrendAnalysis> <http://example.org/ontology#author> <http://example.org/citi/AdamSpielman> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#SmokingDisappearanceBy2050> <http://example.org/ontology#predictedYear> "2050"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#AltriaGroup> <http://example.org/ontology#describedBy> <http://example.org/citi/AdamSpielman> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#NoSmoking> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Status> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#France> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Country> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#CommonSmokingBy2050> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Expectation> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/citi/SmokingTrendAnalysis> <http://example.org/ontology#focusArea> <http://Cigarettes-Al-Jazeera-5.com/blank#n2cb6d8de89f34ef89005377bcbc07ae8b3>  <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#VapingProducts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#SmokingAlternative> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#AltriaGroup> <http://example.org/ontology#investment> <http://example.org/ontology#JuulLabs> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#SmokingAlternatives> <http://example.org/ontology#includes> <http://example.org/ontology#VapingProducts> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#TobaccoUseAmongMen> <http://example.org/ontology#subject> <http://example.org/ontology#Men> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#HeatedTobaccoDevices> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#SmokingAlternative> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#CommonSmokingBy2050> <http://example.org/ontology#predictedYear> "2050"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#ChildrenSmokingStatistics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Statistic> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#AltriaGroup> <http://example.org/ontology#businessComposition> <http://example.org/ontology#Cigarettes> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#PhilipMorrisInternational> <http://example.org/ontology#brand> <http://example.org/ontology#Chesterfield> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#ChildrenSmokingStatistics> <http://example.org/ontology#timeframe> "last 20 years"  <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#SmokingStillCommon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Status> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#AltriaGroup> <http://example.org/ontology#investment> <http://example.org/ontology#IQOSMarketing> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#CigaretteVolumes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Statistic> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#SmokingDisappearanceBy2050> <http://example.org/ontology#predictedOutcome> <http://example.org/ontology#NoSmoking> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#Russia> <http://example.org/ontology#expectation> <http://example.org/ontology#CommonSmokingBy2050> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/citi/SmokingTrendAnalysis> <http://example.org/ontology#focusArea> <http://Cigarettes-Al-Jazeera-5.com/blank#n2cb6d8de89f34ef89005377bcbc07ae8b1>  <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#CommonSmokingBy2050> <http://example.org/ontology#predictedOutcome> <http://example.org/ontology#SmokingStillCommon> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/citi/SmokingTrendAnalysis> <http://example.org/ontology#conclusion> <http://example.org/ontology#SmokingDisappearanceBy2050> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#ChildrenSmokingStatistics> <http://example.org/ontology#change> <http://example.org/ontology#Plunge> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#TobaccoUseAmongMen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Statistic> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#BritishAmericanTobacco> <http://example.org/ontology#product> <http://example.org/ontology#OralNicotinePouches> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#CigaretteVolumes> <http://example.org/ontology#trend> <http://example.org/ontology#StraightLineDecline> <Cigarettes-Al-Jazeera-5> .
+ <http://example.org/ontology#AwniMotee> <http://example.org/ontology#allegedRole> <http://example.org/ontology#MainSuspect> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#MainSuspect> <http://example.org/ontology#associatedWith> <http://example.org/ontology#AwniMotee> <Cigarettes-Al-Jazeera-6> .
+ <http://Cigarettes-Al-Jazeera-6.com/blank#n4da04111a61f4e5b945eaa1167c4b015b2> <http://example.org/ontology#caseType> <http://example.org/ontology#TerrorismCases> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#JumanaGhunaimat> <http://example.org/ontology#announced> <http://example.org/ontology#Arrests> <Cigarettes-Al-Jazeera-6> .
+ <http://Cigarettes-Al-Jazeera-6.com/blank#n4da04111a61f4e5b945eaa1167c4b015b1> <http://example.org/ontology#product> <http://example.org/ontology#FakeBrandCigarettes> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#CriminalRing> <http://example.org/ontology#rumouredTies> <http://example.org/ontology#PoliticalFigures> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#MuslihAlTarawneh> <http://example.org/ontology#demand> <http://example.org/ontology#UncoverCorruption> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#GovernmentOfJordan> <http://example.org/ontology#investigates> <http://example.org/ontology#CigarettesScandal> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#Arrests> <http://example.org/ontology#relatedTo> <http://example.org/ontology#CigarettesScandal> <Cigarettes-Al-Jazeera-6> .
+ <http://Cigarettes-Al-Jazeera-6.com/blank#n4da04111a61f4e5b945eaa1167c4b015b3> <http://example.org/ontology#about> <http://example.org/ontology#AlRazzaz> <Cigarettes-Al-Jazeera-6> .
+ <http://Cigarettes-Al-Jazeera-6.com/blank#n4da04111a61f4e5b945eaa1167c4b015b4> <http://example.org/ontology#department> <http://example.org/ontology#IntelligenceDepartment> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#CigarettesScandal> <http://example.org/ontology#involves> <http://example.org/ontology#CriminalRing> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#AliYounes> <http://xmlns.com/foaf/0.1/name> "Ali Younes"  <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#AwniMotee> <http://example.org/ontology#deniedInvolvement> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#CigarettesScandal> <http://example.org/ontology#broughtToLightBy> <http://example.org/ontology#MembersOfParliament> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#PoliticalFigures> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Group> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#AlJazeera> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#NewsOrganization> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#UncoverCorruption> <http://example.org/ontology#allegation> <http://example.org/ontology#AidingCriminalSyndicate> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#OmarAlRazzaz> <http://xmlns.com/foaf/0.1/name> "Omar al-Razzaz"  <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#FakeBrandCigarettes> <http://example.org/ontology#brand> "Winston"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#GovernmentOfJordan> <http://example.org/ontology#established> <http://example.org/ontology#TaskForce> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#JumanaGhunaimat> <http://example.org/ontology#position> <http://example.org/ontology#MinisterOfStateForMediaAffairs> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#MembersOfParliament> <http://example.org/ontology#callFor> <http://example.org/ontology#Investigation> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#AliYounes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Cigarettes-Al-Jazeera-6> .
+ <http://Cigarettes-Al-Jazeera-6.com/blank#n4da04111a61f4e5b945eaa1167c4b015b3> <http://example.org/ontology#stance> "serious about fighting corruption"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-Al-Jazeera-6> .
+ <http://Cigarettes-Al-Jazeera-6.com/blank#n4da04111a61f4e5b945eaa1167c4b015b4> <http://example.org/ontology#department> <http://example.org/ontology#MinistryOfTradeAndIndustry> <Cigarettes-Al-Jazeera-6> .
+ <http://Cigarettes-Al-Jazeera-6.com/blank#n4da04111a61f4e5b945eaa1167c4b015b4> <http://example.org/ontology#department> <http://example.org/ontology#Police> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#StateSecurityCourt> <http://example.org/ontology#handles> <http://Cigarettes-Al-Jazeera-6.com/blank#n4da04111a61f4e5b945eaa1167c4b015b2>  <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#AwniMotee> <http://example.org/ontology#leftJordan> "2018-07-11"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#TaskForce> <http://example.org/ontology#establishedBy> <http://example.org/ontology#GovernmentOfJordan> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#MohamadHejouj> <http://example.org/ontology#opinion> <http://Cigarettes-Al-Jazeera-6.com/blank#n4da04111a61f4e5b945eaa1167c4b015b3>  <Cigarettes-Al-Jazeera-6> .
+ <http://Cigarettes-Al-Jazeera-6.com/blank#n4da04111a61f4e5b945eaa1167c4b015b1> <http://example.org/ontology#activityType> <http://example.org/ontology#IllegalProduction> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#MohamadHejouj> <http://example.org/ontology#position> <http://example.org/ontology#FormerMemberOfParliament> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#PoliticalFigures> <http://example.org/ontology#allegation> <http://example.org/ontology#CorruptionTies> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#AliYounes> <http://example.org/ontology#onTwitter> "@Ali_reports"  <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#JumanaGhunaimat> <http://xmlns.com/foaf/0.1/name> "Jumana Ghunaimat"  <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#JumanaGhunaimat> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#OmarAlRazzaz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#Jordan> <http://example.org/ontology#publicDiscussion> <http://example.org/ontology#CigarettesScandal> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#OmarAlRazzaz> <http://example.org/ontology#position> <http://example.org/ontology#PrimeMinisterOfJordan> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#CriminalRing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Organization> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#PrimeMinisterOfJordan> <http://example.org/ontology#heldBy> <http://example.org/ontology#OmarAlRazzaz> <Cigarettes-Al-Jazeera-6> .
+ <http://Cigarettes-Al-Jazeera-6.com/blank#n4da04111a61f4e5b945eaa1167c4b015b4> <http://example.org/ontology#department> <http://example.org/ontology#JordanianCustoms> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#CigarettesScandal> <http://example.org/ontology#referredTo> <http://example.org/ontology#StateSecurityCourt> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#CigarettesScandal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Case> <Cigarettes-Al-Jazeera-6> .
+ <http://Cigarettes-Al-Jazeera-6.com/blank#n4da04111a61f4e5b945eaa1167c4b015b4> <http://example.org/ontology#department> <http://example.org/ontology#MinistryOfFinance> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#CigarettesScandal> <http://example.org/ontology#hashtag> "#CigarettesScandal"  <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#MohamadHejouj> <http://xmlns.com/foaf/0.1/name> "Mohamad Hejouj"  <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#AwniMotee> <http://xmlns.com/foaf/0.1/name> "Awni Motee"  <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#AwniMotee> <http://example.org/ontology#basedIn> "Lebanon"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#MainSuspect> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Role> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#TaskForce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Group> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#OmarAlRazzaz> <http://example.org/ontology#stanceOnCorruption> "do-or-die"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#CriminalRing> <http://example.org/ontology#allegedActivity> <http://Cigarettes-Al-Jazeera-6.com/blank#n4da04111a61f4e5b945eaa1167c4b015b1>  <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#GovernmentOfJordan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Government> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#FakeBrandCigarettes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Product> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#FakeBrandCigarettes> <http://example.org/ontology#popularity> <http://example.org/ontology#HighInJordan> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#TaskForce> <http://example.org/ontology#comprisedOf> <http://Cigarettes-Al-Jazeera-6.com/blank#n4da04111a61f4e5b945eaa1167c4b015b4>  <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#Arrests> <http://example.org/ontology#numberOfSuspects> "30"^^<http://www.w3.org/2001/XMLSchema#integer>  <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#OmarAlRazzaz> <http://example.org/ontology#announcedReferral> <http://example.org/ontology#CigarettesScandal> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#CigarettesScandal> <http://purl.org/dc/elements/1.1/title> "the cigarettes scandal"  <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#AwniMotee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#CigarettesScandal> <http://example.org/ontology#dominating> <http://example.org/ontology#publicDiscussion> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#UncoverCorruption> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Action> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#MuslihAlTarawneh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#CigarettesScandal> <http://example.org/ontology#status> <http://example.org/ontology#OngoingInvestigation> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#Arrests> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Event> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#Jordan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Country> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#StateSecurityCourt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Court> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#CigarettesScandal> <http://example.org/ontology#value> "millions of dollars"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#AlJazeera> <http://example.org/ontology#reportsOn> <http://example.org/ontology#CigarettesScandal> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#UncoverCorruption> <http://example.org/ontology#target> <http://example.org/ontology#SeniorGovernmentOfficials> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#MohamadHejouj> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Cigarettes-Al-Jazeera-6> .
+ <http://Cigarettes-Al-Jazeera-6.com/blank#n4da04111a61f4e5b945eaa1167c4b015b1> <http://example.org/ontology#activityType> <http://example.org/ontology#Smuggling> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#PrimeMinisterOfJordan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Position> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#MuslihAlTarawneh> <http://example.org/ontology#position> <http://example.org/ontology#MemberOfParliament> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#MembersOfParliament> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Group> <Cigarettes-Al-Jazeera-6> .
+ <http://Cigarettes-Al-Jazeera-6.com/blank#n4da04111a61f4e5b945eaa1167c4b015b2> <http://example.org/ontology#caseType> <http://example.org/ontology#SeriousCriminalCases> <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/ontology#MuslihAlTarawneh> <http://xmlns.com/foaf/0.1/name> "Muslih al-Tarawneh"  <Cigarettes-Al-Jazeera-6> .
+ <http://example.org/NirmalaSitharaman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/JuulLabs> <http://dbpedia.org/ontology/plannedActivity> <http://example.org/LaunchInIndia> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/NirmalaSitharaman> <http://xmlns.com/foaf/0.1/title> "Finance Minister"  <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/ImportOfECigarettes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Activity> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/Reuters> <http://xmlns.com/foaf/0.1/name> "Reuters"  <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/NirmalaSitharaman> <http://schema.org/spokeAt> <http://example.org/PressConferenceRegardingECigaretteBan> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/PhilipMorrisInternational> <http://dbpedia.org/ontology/product> <http://example.org/HeatNotBurnSmokingDevice> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/ECigaretteLiquid> <http://dbpedia.org/ontology/containsChemical> <http://example.org/Nicotine> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/TobaccoRelatedIllnesses> <http://dbpedia.org/ontology/deathCause> "More than 900000 people die each year in India"  <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/ECigaretteLiquid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ChemicalSubstance> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/E-CigaretteBan> <http://dbpedia.org/ontology/reason> "Public health decision to prevent an epidemic among children and young adults"  <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/JuulIndia> <http://xmlns.com/foaf/0.1/name> "Juul India"  <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/IndianHealthMinistry> <http://xmlns.com/foaf/0.1/name> "Ministry of Health and Family Welfare"  <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/ECigarettes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/VapourInhalation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Activity> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/CombustibleCigarettes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/Nicotine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ChemicalSubstance> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/PressConferenceRegardingECigaretteBan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/India> <http://dbpedia.org/ontology/law> <http://example.org/E-CigaretteBan> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/IndianHealthMinistry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/GovernmentAgency> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/FirstOffence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Penalty> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/ECigarettes> <http://dbpedia.org/ontology/productFeature> <http://example.org/ECigaretteLiquid> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/Nicotine> <http://schema.org/description> "Chemical commonly found in tobacco, also used in e-cigarette liquid"  <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/ProductionOfECigarettes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Activity> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/E-CigaretteBan> <http://dbpedia.org/ontology/enactedBy> <http://example.org/IndianGovernment> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/E-CigaretteBan> <http://dbpedia.org/ontology/announcementDate> "2019-09-11"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/JuulIndiaSpokeswoman> <http://schema.org/affiliation> <http://example.org/JuulIndia> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/E-CigaretteBan> <http://dbpedia.org/ontology/isImplementedBy> <http://example.org/ExecutiveOrder> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/JuulIndiaSpokeswoman> <http://schema.org/spokeTo> <http://example.org/Reuters> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/E-CigaretteBan> <http://dbpedia.org/ontology/prohibits> <http://example.org/ProductionOfECigarettes> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/ExecutiveOrder> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/LegislativeAct> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/Reuters> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/NewsAgency> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/ECigarettes> <http://dbpedia.org/ontology/productFeature> <http://example.org/VapourInhalation> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/NirmalaSitharaman> <http://xmlns.com/foaf/0.1/name> "Nirmala Sitharaman"  <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/ExecutiveOrder> <http://dbpedia.org/ontology/responsibleBody> <http://example.org/IndianHealthMinistry> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/E-CigaretteBan> <http://dbpedia.org/ontology/prohibits> <http://example.org/SaleOfECigarettes> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/JuulECigarettes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/JuulLabs> <http://dbpedia.org/ontology/industry> "Electronic Cigarettes"  <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/ExecutiveOrder> <http://schema.org/about> <http://example.org/E-CigaretteBan> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/PressConferenceRegardingECigaretteBan> <http://dbpedia.org/ontology/participant> <http://example.org/NirmalaSitharaman> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/JuulECigarettes> <http://schema.org/description> "Sleek vaping devices that resemble USB flash drives"  <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/CombustibleCigarettes> <http://schema.org/description> "Traditional cigarettes that are burned to produce smoke"  <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/India> <http://dbpedia.org/ontology/population> "106000000"^^<http://www.w3.org/2001/XMLSchema#int>  <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/SaleOfECigarettes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Activity> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/TobaccoRelatedIllnesses> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Disease> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/PhilipMorrisInternational> <http://dbpedia.org/ontology/plannedActivity> <http://example.org/LaunchInIndia> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/IndianGovernment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/JuulIndia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/ECigarettes> <http://dbpedia.org/ontology/alternativeTo> <http://example.org/CombustibleCigarettes> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/ProductionOfECigarettes> <http://schema.org/name> "Production of electronic cigarettes"  <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/E-CigaretteBan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Legislation> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/FirstOffence> <http://dbpedia.org/ontology/penalty> "Up to one year imprisonment or a fine up to 100000 INR or both"  <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/E-CigaretteBan> <http://dbpedia.org/ontology/prohibits> <http://example.org/ImportOfECigarettes> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/India> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/PhilipMorrisInternational> <http://dbpedia.org/ontology/industry> "Tobacco"  <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/VapourInhalation> <http://schema.org/description> "Inhaling vapour from heated liquid in e-cigarettes"  <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/JuulLabs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/PhilipMorrisInternational> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/HeatNotBurnSmokingDevice> <http://dbpedia.org/ontology/manufacturer> <http://example.org/PhilipMorrisInternational> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/SubsequentOffence> <http://dbpedia.org/ontology/penalty> "Up to three years imprisonment and a fine up to 500000 INR"  <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/JuulLabs> <http://dbpedia.org/ontology/product> <http://example.org/JuulECigarettes> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/SubsequentOffence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Penalty> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/NirmalaSitharaman> <http://schema.org/memberOf> <http://example.org/IndianGovernment> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/JuulIndiaSpokeswoman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/ImportOfECigarettes> <http://schema.org/name> "Import of electronic cigarettes"  <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/E-CigaretteBan> <http://dbpedia.org/ontology/hasPenalty> <http://example.org/SubsequentOffence> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/SaleOfECigarettes> <http://schema.org/name> "Sale of electronic cigarettes"  <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/HeatNotBurnSmokingDevice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/JuulLabs> <http://dbpedia.org/ontology/hasSubsidiary> <http://example.org/JuulIndia> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/E-CigaretteBan> <http://dbpedia.org/ontology/hasPenalty> <http://example.org/FirstOffence> <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/IndianGovernment> <http://xmlns.com/foaf/0.1/name> "Government of India"  <Cigarettes-Al-Jazeera-7> .
+ <http://example.org/AulionGlobalTrading> <http://dbpedia.org/ontology/industry> <http://example.org/GoldTrading> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/HowardBaker> <http://dbpedia.org/ontology/occupation> <http://example.org/Businessman> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/PeterBowen> <http://xmlns.com/foaf/0.1/name> "Peter Bowen"  <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/MohamedKhan> <http://dbpedia.org/ontology/owner> <http://example.org/PKSA> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/AulionGlobalTrading> <http://dbpedia.org/ontology/associatedWith> <http://example.org/SimonRudland> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/PKSA> <http://dbpedia.org/ontology/industry> <http://example.org/FinancialServices> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/PeterBowen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/GoldKid> <http://dbpedia.org/ontology/industry> <http://example.org/GoldTrading> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/GoldKid> <http://dbpedia.org/ontology/name> "Gold Kid"  <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/SimonRudland> <http://dbpedia.org/ontology/accusation> <http://example.org/MoneyLaundering> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/AndriesGreyvensteyn> <http://dbpedia.org/ontology/denial> <http://example.org/NoKnowledgeOfMoneyLaundering> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/SimonRudland> <http://dbpedia.org/ontology/netWorth> <http://example.org/High> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/FidelityPrintersAndRefiners> <http://dbpedia.org/ontology/denial> <http://example.org/NoWrongdoing> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/SimonRudland> <http://dbpedia.org/ontology/allegation> <http://example.org/SmearCampaignDenial> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/HowardBaker> <http://dbpedia.org/ontology/owner> <http://example.org/RappaRefinery> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/aljazeera/Part1> <http://schema.org/about> <http://example.org/aljazeera/TheGoldMafia> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/GoldKid> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/LibertyGold> <http://dbpedia.org/ontology/location> <http://example.org/UnitedStates> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/PatrickKeith> <http://xmlns.com/foaf/0.1/name> "Patrick Keith"  <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/aljazeera/Part1> <http://schema.org/name> "Who are the Gold Mafia? Part 1"  <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/GoldLeafTobacco> <http://dbpedia.org/ontology/name> "Gold Leaf Tobacco"  <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/JohannesSwanSr> <http://xmlns.com/foaf/0.1/name> "Johannes Swan Sr"  <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/GoldLeafTobacco> <http://dbpedia.org/ontology/denial> <http://example.org/NoInvolvementInIllicitCigaretteTrade> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/AulionGlobalTrading> <http://dbpedia.org/ontology/location> <http://example.org/Dubai> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/SimonRudland> <http://dbpedia.org/ontology/owner> <http://example.org/GoldLeafTobacco> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/FidelityPrintersAndRefiners> <http://dbpedia.org/ontology/industry> <http://example.org/GoldRefining> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/RappaRefinery> <http://dbpedia.org/ontology/name> "Rappa Refinery"  <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/FidelityPrintersAndRefiners> <http://dbpedia.org/ontology/name> "Fidelity Printers and Refiners"  <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/SimonRudland> <http://dbpedia.org/ontology/affiliation> <http://example.org/HighRankingOfficialsZimbabwe> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/PKSA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/SimonRudland> <http://dbpedia.org/ontology/associatedWith> <http://example.org/ZimbabweGovernment> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/aljazeera/Part2> <http://schema.org/name> "Who are the Gold Mafia? Part 2"  <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/TheCouriers> <http://dbpedia.org/ontology/member> <http://example.org/JohannesSwanSr> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/TheCouriers> <http://dbpedia.org/ontology/member> <http://example.org/JohannesSwanJr> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/LibertyGold> <http://dbpedia.org/ontology/name> "Liberty Gold"  <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/MohamedKhan> <http://dbpedia.org/ontology/accusation> <http://example.org/Bribery> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/aljazeera/Part1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/aljazeera/TheGoldMafia> <http://dbpedia.org/ontology/abstract> "Al Jazeera’s investigation into the crimes of the Gold Mafia in Southern Africa."  <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/LibertyGold> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/PatrickKeith> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/GoldKid> <http://dbpedia.org/ontology/associatedWith> <http://example.org/GoldLeafTobacco> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/GoldLeafTobacco> <http://dbpedia.org/ontology/location> <http://example.org/SouthAfrica> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/HowardBaker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/SALTAssetManagement> <http://dbpedia.org/ontology/name> "SALT Asset Management"  <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/MohamedKhan> <http://dbpedia.org/ontology/denial> <http://example.org/NoBribery> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/SimonRudland> <http://dbpedia.org/ontology/allegation> <http://example.org/DealingWithMoneyLaundererDenial> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/SimonRudland> <http://dbpedia.org/ontology/accusation> <http://example.org/GoldSmuggling> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/SimonRudland> <http://dbpedia.org/ontology/allegation> <http://example.org/NoInvolvementInIllicitActivities> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/FidelityPrintersAndRefiners> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/AndriesGreyvensteyn> <http://dbpedia.org/ontology/partner> <http://example.org/AulionGlobalTrading> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/JohannesSwanJr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/SimonRudland> <http://dbpedia.org/ontology/survivorOf> <http://example.org/AssassinationAttempt2019> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/AndriesGreyvensteyn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/MohamedKhan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/SALTAssetManagement> <http://dbpedia.org/ontology/location> <http://example.org/SouthAfrica> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/AndriesGreyvensteyn> <http://dbpedia.org/ontology/owner> <http://example.org/LibertyGold> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/SALTAssetManagement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/PKSA> <http://dbpedia.org/ontology/location> <http://example.org/SouthAfrica> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/TheCouriers> <http://dbpedia.org/ontology/member> <http://example.org/PatrickKeith> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/SimonRudland> <http://dbpedia.org/ontology/associatedWith> <http://example.org/Aulion> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/MohamedKhan> <http://dbpedia.org/ontology/owner> <http://example.org/SALTAssetManagement> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/AndriesGreyvensteyn> <http://dbpedia.org/ontology/occupation> <http://example.org/Businessman> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/AulionGlobalTrading> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/MohamedKhan> <http://dbpedia.org/ontology/occupation> <http://example.org/Businessman> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/SALTAssetManagement> <http://dbpedia.org/ontology/industry> <http://example.org/FinancialServices> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/SimonRudland> <http://dbpedia.org/ontology/allegation> <http://example.org/NoKnowledgeOfAulion> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/SimonRudland> <http://dbpedia.org/ontology/associatedWith> <http://example.org/FidelityPrintersAndRefiners> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/RappaRefinery> <http://dbpedia.org/ontology/location> <http://example.org/SouthAfrica> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/aljazeera/Part1> <http://schema.org/datePublished> "Last week"  <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/GoldLeafTobacco> <http://dbpedia.org/ontology/industry> <http://example.org/TobaccoManufacturing> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/RappaRefinery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/aljazeera/Part2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/PKSA> <http://dbpedia.org/ontology/name> "PKSA"  <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/GoldLeafTobacco> <http://dbpedia.org/ontology/accusation> <http://example.org/TaxEvasion> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/SimonRudland> <http://dbpedia.org/ontology/accusation> <http://example.org/TaxEvasion> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/MohamedKhan> <http://dbpedia.org/ontology/denial> <http://example.org/NoInvolvementInCriminalActivity> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/GoldLeafTobacco> <http://dbpedia.org/ontology/accusation> <http://example.org/SellingIllicitCigarettes> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/SimonRudland> <http://dbpedia.org/ontology/accusation> <http://example.org/SellingIllicitCigarettes> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/AulionGlobalTrading> <http://dbpedia.org/ontology/name> "Aulion Global Trading"  <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/SimonRudland> <http://dbpedia.org/ontology/associatedWith> <http://example.org/MohamedKhan> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/FidelityPrintersAndRefiners> <http://dbpedia.org/ontology/location> <http://example.org/Zimbabwe> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/GoldKid> <http://dbpedia.org/ontology/location> <http://example.org/SouthAfrica> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/JohannesSwanSr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/SimonRudland> <http://xmlns.com/foaf/0.1/name> "Simon Rudland"  <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/SimonRudland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/TheCouriers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/GoldLeafTobacco> <http://dbpedia.org/ontology/denial> <http://example.org/NoInvolvementInIllegalGoldTrade> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/TheCouriers> <http://dbpedia.org/ontology/member> <http://example.org/PeterBowen> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/GoldLeafTobacco> <http://dbpedia.org/ontology/denial> <http://example.org/NoInvolvementInMoneyLaundering> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/JohannesSwanJr> <http://xmlns.com/foaf/0.1/name> "Johannes Swan Jr"  <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/SimonRudland> <http://dbpedia.org/ontology/occupation> <http://example.org/Businessman> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/MohamedKhan> <http://dbpedia.org/ontology/accusation> <http://example.org/MoneyLaundering> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/LibertyGold> <http://dbpedia.org/ontology/industry> <http://example.org/GoldTrading> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/MohamedKhan> <http://dbpedia.org/ontology/nickname> "Mo Dollars"  <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/AndriesGreyvensteyn> <http://dbpedia.org/ontology/director> <http://example.org/GoldKid> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/AulionGlobalTrading> <http://dbpedia.org/ontology/associatedWith> <http://example.org/GoldLeafTobacco> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/MohamedKhan> <http://xmlns.com/foaf/0.1/name> "Mohamed Khan"  <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/RappaRefinery> <http://dbpedia.org/ontology/industry> <http://example.org/GoldRefining> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/HowardBaker> <http://xmlns.com/foaf/0.1/name> "Howard 'Howie' Baker"  <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/GoldLeafTobacco> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/TheCouriers> <http://dbpedia.org/ontology/description> "Operatives who move gold and money between different countries, particularly between Zimbabwe and Dubai."  <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/aljazeera/TheGoldMafia> <http://dbpedia.org/ontology/title> "The Gold Mafia"  <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/AulionGlobalTrading> <http://dbpedia.org/ontology/associatedWith> <http://example.org/MohamedKhan> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/AndriesGreyvensteyn> <http://xmlns.com/foaf/0.1/name> "Andries Greyvensteyn"  <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/aljazeera/TheGoldMafia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Investigation> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/HowardBaker> <http://dbpedia.org/ontology/owner> <http://example.org/AulionGlobalTrading> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/LibertyGold> <http://dbpedia.org/ontology/denial> <http://example.org/NoKnowledgeOfReportedMatters> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/aljazeera/Part2> <http://schema.org/about> <http://example.org/aljazeera/TheGoldMafia> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/GoldKid> <http://dbpedia.org/ontology/associatedWith> <http://example.org/MohamedKhan> <Cigarettes-Al-Jazeera-8> .
+ <http://example.org/E-cigarettes> <http://dbpedia.org/ontology/industry> <http://example.org/VapingIndustry> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/Philippines> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/RodrigoDuterte> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/India> <http://dbpedia.org/ontology/ban> <http://example.org/E-cigaretteBanIndia> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/E-cigaretteBanIndia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Legislation> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/Malaysia> <http://dbpedia.org/ontology/healthMinistry> <http://example.org/MalaysiaHealthMinistry> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/VapingIndustry> <http://dbpedia.org/ontology/criticism> "Public backlash over youth use"  <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/RodrigoDuterte> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/DepartmentOfHealth> <http://xmlns.com/foaf/0.1/name> "Department of Health"  <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/MalaysiaE-cigaretteLawIntention> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Plan> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/RodrigoDuterte> <http://xmlns.com/foaf/0.1/name> "Rodrigo Duterte"  <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/US_PublicHealthOfficials> <http://dbpedia.org/ontology/recommendation> <http://example.org/E-cigaretteNonUsageRecommendation> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/MalaysiaHealthMinistry> <http://xmlns.com/foaf/0.1/name> "Malaysia's health ministry"  <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/JuulLabs> <http://dbpedia.org/ontology/expansionPlans> <http://example.org/JuulLabsExpansionPlans> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/MalaysiaHealthMinistry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/E-cigaretteBanAnnouncement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/MalaysiaE-cigaretteLawIntention> <http://schema.org/about> <http://example.org/TobaccoProducts> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/RodrigoDuterte> <http://dbpedia.org/ontology/disease> <http://dbpedia.org/resource/Buerger's_disease> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/MalaysiaHealthMinistry> <http://dbpedia.org/ontology/intention> <http://example.org/MalaysiaE-cigaretteLawIntention> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/E-cigaretteNonUsageRecommendation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Recommendation> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/JuulLabs> <http://dbpedia.org/ontology/market> <http://example.org/InternationalMarkets> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/MalaysiaE-cigaretteLawIntention> <http://dbpedia.org/ontology/prohibition> "Promotion, advertising, public usage, and use by minors"  <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/E-cigaretteBanAnnouncement> <http://dbpedia.org/ontology/relatedTo> <http://example.org/DepartmentOfHealthReport> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/CarlosDominguez> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/Finance_Secretary_of_the_Philippines> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/CarlosDominguezStatement> <http://dbpedia.org/ontology/date> "last month"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/VapingIndustry> <http://dbpedia.org/ontology/projectedMarketValue> "40bn"^^<http://www.w3.org/2001/XMLSchema#float>  <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/VapingRelatedLungDiseaseCase> <http://dbpedia.org/ontology/location> <http://example.org/Philippines> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/Malaysia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/E-cigarettes> <http://dbpedia.org/ontology/associatedWith> <http://example.org/Deaths> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/E-cigaretteNonUsageRecommendation> <http://dbpedia.org/ontology/reason> "Deaths and illnesses linked to e-cigarette use"  <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/E-cigaretteBanAnnouncement> <http://dbpedia.org/ontology/announcer> <http://example.org/RodrigoDuterte> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/VapingRelatedLungDiseaseCase> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Disease> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/VapingIndustry> <http://dbpedia.org/ontology/marketValue> "15.7bn"^^<http://www.w3.org/2001/XMLSchema#float>  <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/JuulLabs> <http://xmlns.com/foaf/0.1/name> "Juul Labs"  <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/E-cigaretteTaxation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Concept> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/E-cigaretteBan> <http://dbpedia.org/ontology/cause> <http://example.org/VapingRelatedLungDiseaseCase> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/JuulLabsExpansionPlans> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Plan> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/CarlosDominguezStatement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statement> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/E-cigaretteBan> <http://schema.org/about> <http://example.org/E-cigarettes> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/E-cigaretteBan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Legislation> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/E-cigarettes> <http://dbpedia.org/ontology/associatedWith> <http://example.org/Addiction> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/JuulLabs> <http://dbpedia.org/ontology/product> <http://example.org/E-cigarettes> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/JuulLabsExpansionPlans> <http://dbpedia.org/ontology/country> <http://example.org/Philippines> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/CarlosDominguezStatement> <http://dbpedia.org/ontology/relatedTo> <http://example.org/E-cigaretteTaxation> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/E-cigaretteBanIndia> <http://dbpedia.org/ontology/country> <http://example.org/India> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/CarlosDominguez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/MalaysiaE-cigaretteLawIntention> <http://schema.org/about> <http://example.org/E-cigarettes> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/CarlosDominguez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/RodrigoDuterte> <http://dbpedia.org/ontology/announcement> <http://example.org/E-cigaretteBanAnnouncement> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/RodrigoDuterte> <http://dbpedia.org/ontology/age> "74"^^<http://www.w3.org/2001/XMLSchema#int>  <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/India> <http://dbpedia.org/ontology/reason> "Vaping epidemic among young people"  <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/CarlosDominguez> <http://xmlns.com/foaf/0.1/name> "Carlos Dominguez"  <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/CarlosDominguezStatement> <http://dbpedia.org/ontology/content> "Ban on e-cigarettes is unlikely"  <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/US_PublicHealthOfficials> <http://xmlns.com/foaf/0.1/name> "Public health officials in the US"  <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/E-cigaretteBan> <http://dbpedia.org/ontology/enforcement> "Arrest for public vaping"  <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/DepartmentOfHealthReport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Document> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/MalaysiaE-cigaretteLawIntention> <http://schema.org/about> <http://example.org/Vaporisers> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/India> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/Philippines> <http://dbpedia.org/ontology/law> <http://example.org/E-cigaretteBan> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/JuulLabsExpansionPlans> <http://dbpedia.org/ontology/relatedTo> <http://example.org/E-cigaretteBan> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/RodrigoDuterte> <http://dbpedia.org/ontology/position> <http://dbpedia.org/resource/President_of_the_Philippines> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/DepartmentOfHealthReport> <http://dbpedia.org/ontology/author> <http://example.org/DepartmentOfHealth> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/US_PublicHealthOfficials> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/Philippines> <http://dbpedia.org/ontology/leader> <http://example.org/RodrigoDuterte> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/JuulLabs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/VapingIndustry> <http://dbpedia.org/ontology/projectedMarketValueYear> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/E-cigaretteBan> <http://dbpedia.org/ontology/prohibition> "Use and importation of e-cigarettes"  <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/VapingIndustry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Industry> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/E-cigaretteBanAnnouncement> <http://dbpedia.org/ontology/date> "Tuesday"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/E-cigaretteNonUsageRecommendation> <http://schema.org/about> <http://example.org/E-cigarettes> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/CarlosDominguez> <http://dbpedia.org/ontology/statement> <http://example.org/CarlosDominguezStatement> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/E-cigaretteTaxation> <http://schema.org/description> "Higher taxes on e-cigarettes"  <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/VapingIndustry> <http://dbpedia.org/ontology/marketValueYear> "2018"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/E-cigaretteBanIndia> <http://dbpedia.org/ontology/date> "September"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/E-cigaretteBan> <http://dbpedia.org/ontology/country> <http://example.org/Philippines> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/E-cigarettes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/DepartmentOfHealth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/VapingRelatedLungDiseaseCase> <http://schema.org/name> "country’s first case of lung disease linked to vaping"  <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/DepartmentOfHealthReport> <http://schema.org/about> <http://example.org/VapingRelatedLungDiseaseCase> <Cigarettes-Al-Jazeera-9> .
+ <http://example.org/E-cigaretteBanIndia> <http://schema.org/about> <http://example.org/E-cigarettes> <Cigarettes-Al-Jazeera-9> .

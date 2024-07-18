@@ -1,0 +1,551 @@
+ <http://example.org/ontology#SlowVideoPlayerLoading> <http://example.org/ontology#description> "Video player was slow to load content"^^<http://www.w3.org/2001/XMLSchema#string>  <TikTok-CNN-0> .
+ <http://example.org/ontology#VideoContentNotStartAfterAd> <http://example.org/ontology#description> "Video content did not start after ad"^^<http://www.w3.org/2001/XMLSchema#string>  <TikTok-CNN-0> .
+ <http://example.org/ontology#AdRelevanceFeedback> <http://example.org/ontology#hasIssue> <http://example.org/ontology#OtherIssues> <TikTok-CNN-0> .
+ <http://example.org/ontology#AdRelevanceFeedback> <http://example.org/ontology#hasIssue> <http://example.org/ontology#VideoContentNeverLoaded> <TikTok-CNN-0> .
+ <http://example.org/ontology#AdRelevanceFeedback> <http://example.org/ontology#hasIssue> <http://example.org/ontology#LoudAudioOnAd> <TikTok-CNN-0> .
+ <http://example.org/ontology#AdFrozeOrNotFinishedLoading> <http://example.org/ontology#description> "Ad froze or did not finish loading"^^<http://www.w3.org/2001/XMLSchema#string>  <TikTok-CNN-0> .
+ <http://example.org/ontology#AdRelevanceFeedback> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FeedbackCategory> <TikTok-CNN-0> .
+ <http://example.org/ontology#AdRelevanceFeedback> <http://example.org/ontology#hasIssue> <http://example.org/ontology#VideoContentNotStartAfterAd> <TikTok-CNN-0> .
+ <http://example.org/ontology#AdRelevanceFeedback> <http://example.org/ontology#hasIssue> <http://example.org/ontology#AdFrozeOrNotFinishedLoading> <TikTok-CNN-0> .
+ <http://example.org/ontology#OtherIssues> <http://example.org/ontology#description> "Other issues"^^<http://www.w3.org/2001/XMLSchema#string>  <TikTok-CNN-0> .
+ <http://example.org/ontology#SlowVideoPlayerLoading> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FeedbackIssue> <TikTok-CNN-0> .
+ <http://example.org/ontology#VideoContentNeverLoaded> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FeedbackIssue> <TikTok-CNN-0> .
+ <http://example.org/ontology#VideoContentNeverLoaded> <http://example.org/ontology#description> "Video content never loaded"^^<http://www.w3.org/2001/XMLSchema#string>  <TikTok-CNN-0> .
+ <http://example.org/ontology#OtherIssues> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FeedbackIssue> <TikTok-CNN-0> .
+ <http://example.org/ontology#VideoContentNotStartAfterAd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FeedbackIssue> <TikTok-CNN-0> .
+ <http://example.org/ontology#AdRelevanceFeedback> <http://example.org/ontology#hasIssue> <http://example.org/ontology#SlowVideoPlayerLoading> <TikTok-CNN-0> .
+ <http://example.org/ontology#LoudAudioOnAd> <http://example.org/ontology#description> "Audio on ad was too loud"^^<http://www.w3.org/2001/XMLSchema#string>  <TikTok-CNN-0> .
+ <http://example.org/ontology#AdFrozeOrNotFinishedLoading> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FeedbackIssue> <TikTok-CNN-0> .
+ <http://example.org/ontology#LoudAudioOnAd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#FeedbackIssue> <TikTok-CNN-0> .
+ <http://socialmedia.com/YouTube> <http://socialmedia.com/introducedFeature> <http://socialmedia.com/Shorts> <TikTok-CNN-1> .
+ <http://cnn.com/thisArticle> <http://cnn.com/mentions> <http://company.com/Snap> <TikTok-CNN-1> .
+ <http://cnn.com/thisArticle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://cnn.com/NewsArticle> <TikTok-CNN-1> .
+ <http://cnn.com/thisArticle> <http://cnn.com/publicationDate> "2023-03-23"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-CNN-1> .
+ <http://company.com/LianJyeSu> <http://company.com/statement> "Most users will flock to where the content creators go next"  <TikTok-CNN-1> .
+ <http://company.com/Dubsmach> <http://company.com/owner> <http://company.com/Reddit> <TikTok-CNN-1> .
+ <http://cnn.com/thisArticle> <http://cnn.com/mentions> <http://socialmedia.com/YouTube> <TikTok-CNN-1> .
+ <http://tiktok.com/TikTok> <http://tiktok.com/CEO> <http://tiktok.com/ShouZiChew> <TikTok-CNN-1> .
+ <http://cnn.com/thisArticle> <http://cnn.com/mentions> <http://company.com/Clash> <TikTok-CNN-1> .
+ <http://socialmedia.com/Instagram> <http://socialmedia.com/featureIntroducedDate> "2020"^^<http://www.w3.org/2001/XMLSchema#gYear>  <TikTok-CNN-1> .
+ <http://cnn.com/thisArticle> <http://cnn.com/mentions> <http://socialmedia.com/Instagram> <TikTok-CNN-1> .
+ <http://cnn.com/thisArticle> <http://cnn.com/mentions> <http://tiktok.com/TikTok> <TikTok-CNN-1> .
+ <http://company.com/ByteDance> <http://company.com/location> "Beijing"  <TikTok-CNN-1> .
+ <http://cnn.com/thisArticle> <http://cnn.com/mentions> <http://socialmedia.com/Spotify> <TikTok-CNN-1> .
+ <http://usgovernment.org/SecretaryOfState> <http://usgovernment.org/name> "Antony Blinken"  <TikTok-CNN-1> .
+ <http://company.com/Morningstar> <http://company.com/analyst> <http://company.com/AliMogharabi> <TikTok-CNN-1> .
+ <http://company.com/LianJyeSu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://company.com/Analyst> <TikTok-CNN-1> .
+ <http://tiktok.com/ShouZiChew> <http://tiktok.com/testified> <http://usgovernment.org/HouseEnergyAndCommerceCommittee> <TikTok-CNN-1> .
+ <http://usgovernment.org/RajaKrishnamoorthi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://usgovernment.org/Representative> <TikTok-CNN-1> .
+ <http://company.com/Snap> <http://company.com/stockChange> "rose"  <TikTok-CNN-1> .
+ <http://usgovernment.org/HouseEnergyAndCommerceCommittee> <http://usgovernment.org/chair> <http://usgovernment.org/CathyMcMorrisRodgers> <TikTok-CNN-1> .
+ <http://company.com/Clash> <http://company.com/videoLength> "21"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-CNN-1> .
+ <http://usgovernment.org/HouseSpeaker> <http://usgovernment.org/name> "Kevin McCarthy"  <TikTok-CNN-1> .
+ <http://company.com/AliMogharabi> <http://company.com/statement> "This uncertainty could push some TikTok content creators to focus more on, and possibly begin, pushing their audiences to other social network platforms"  <TikTok-CNN-1> .
+ <http://usgovernment.org/CathyMcMorrisRodgers> <http://usgovernment.org/party> "Republican"  <TikTok-CNN-1> .
+ <http://company.com/AliMogharabi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://company.com/Analyst> <TikTok-CNN-1> .
+ <http://socialmedia.com/Spotify> <http://socialmedia.com/introducedFeature> <http://socialmedia.com/TikTokLikeVideoFeed> <TikTok-CNN-1> .
+ <http://cnn.com/thisArticle> <http://cnn.com/mentions> <http://company.com/Triller> <TikTok-CNN-1> .
+ <http://cnn.com/thisArticle> <http://cnn.com/mentions> <http://socialmedia.com/Snapchat> <TikTok-CNN-1> .
+ <http://socialmedia.com/Instagram> <http://socialmedia.com/introducedFeature> <http://socialmedia.com/Reels> <TikTok-CNN-1> .
+ <http://usgovernment.org/CathyMcMorrisRodgers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://usgovernment.org/Representative> <TikTok-CNN-1> .
+ <http://cnn.com/thisArticle> <http://cnn.com/mentions> <http://company.com/Dubsmach> <TikTok-CNN-1> .
+ <http://usgovernment.org/RajaKrishnamoorthi> <http://usgovernment.org/statement> "I strongly doubt this app will go dark"  <TikTok-CNN-1> .
+ <http://company.com/ABIResearch> <http://company.com/analyst> <http://company.com/LianJyeSu> <TikTok-CNN-1> .
+ <http://socialmedia.com/Snapchat> <http://socialmedia.com/introducedFeature> <http://socialmedia.com/Spotlight> <TikTok-CNN-1> .
+ <http://cnn.com/thisArticle> <http://cnn.com/mentions> <http://company.com/ByteDance> <TikTok-CNN-1> .
+ <http://company.com/Dubsmach> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://company.com/ShortVideoPlatform> <TikTok-CNN-1> .
+ <http://tiktok.com/TikTok> <http://tiktok.com/parentCompany> <http://company.com/ByteDance> <TikTok-CNN-1> .
+ <http://cnn.com/thisArticle> <http://cnn.com/mentions> <http://usgovernment.org/Congress> <TikTok-CNN-1> .
+ <http://tiktok.com/TikTok> <http://tiktok.com/monthlyActiveUsers> "150000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-CNN-1> .
+ <http://company.com/Triller> <http://tiktok.com/monthlyActiveUsers> "450000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-CNN-1> .
+ <http://tiktok.com/ShouZiChew> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://tiktok.com/CEO> <TikTok-CNN-1> .
+ <http://tiktok.com/ShouZiChew> <http://tiktok.com/testimonyDate> "2023-03-23"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-CNN-1> .
+ <http://company.com/Snap> <http://company.com/stockChangeDate> "2023-03-23"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-CNN-1> .
+ <http://tiktok.com/TikTok> <http://tiktok.com/feature> <http://tiktok.com/ShortFormVideo> <TikTok-CNN-1> .
+ <http://company.com/AliMogharabi> <http://company.com/statement> "Obviously, if a ban is approved and enforced, the content, user count and engagement, and likely ad dollars for Snap, Instagram, and YouTube will increase"  <TikTok-CNN-1> .
+ <http://usgovernment.org/CathyMcMorrisRodgers> <http://usgovernment.org/state> "Washington"  <TikTok-CNN-1> .
+ <http://cnn.com/entities/TouristTrainTour> <http://schema.org/priceCurrency> "EUR"  <TikTok-CNN-2> .
+ <http://cnn.com/entities/TouristTrainTour> <http://schema.org/description> "A 45-minute journey around Costa Adeje in a vehicle styled like a train."  <TikTok-CNN-2> .
+ <http://cnn.com/entities/Carbonara> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MenuItem> <TikTok-CNN-2> .
+ <http://tiktok.com/entities/TravelTok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Hard_Rock_Café_Tenerife> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MusicVenue> <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Papagayo_Beach_Club> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Playa_de_Las_Américas> <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Siam_Park> <http://schema.org/event> <http://dbpedia.org/resource/Siam_Park_Night_Event> <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Costa_Adeje> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Adeje> <TikTok-CNN-2> .
+ <http://cnn.com/entities/PinkSangria> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MenuItem> <TikTok-CNN-2> .
+ <http://cnn.com/entities/Luuma> <http://schema.org/servesCuisine> "Spanish"  <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Hard_Rock_Café_Tenerife> <http://schema.org/menuItem> <http://cnn.com/entities/BrownieMilkshake> <TikTok-CNN-2> .
+ <http://tiktok.com/entities/TravelTikTok> <http://tiktok.com/entities/views> "39300000000"^^<http://www.w3.org/2001/XMLSchema#long>  <TikTok-CNN-2> .
+ <http://cnn.com/entities/Fiore> <http://schema.org/servesCuisine> "Italian"  <TikTok-CNN-2> .
+ <http://tiktok.com/entities/TikTok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <TikTok-CNN-2> .
+ <http://cnn.com/entities/Luuma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Restaurant> <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Siam_Park_Night_Event> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Masca> <http://schema.org/name> "Masca"  <TikTok-CNN-2> .
+ <http://tiktok.com/entities/TravelTikTok> <http://schema.org/name> "#TravelTikTok"  <TikTok-CNN-2> .
+ <http://cnn.com/entities/CNN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-CNN-2> .
+ <http://cnn.com/entities/VegetarianPaella> <http://schema.org/name> "Vegetarian paella"  <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Papagayo_Beach_Club> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/NightClub> <TikTok-CNN-2> .
+ <http://cnn.com/entities/Fiore> <http://schema.org/name> "Fiore"  <TikTok-CNN-2> .
+ <http://cnn.com/entities/Fiore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Restaurant> <TikTok-CNN-2> .
+ <http://cnn.com/entities/BrownieMilkshake> <http://schema.org/name> "Milkshake topped with a brownie and whipped cream"  <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Siam_Park> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AmusementPark> <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Siam_Park_Night_Event> <http://schema.org/dayOfWeek> <http://schema.org/Thursday> <TikTok-CNN-2> .
+ <http://cnn.com/entities/TouristTrainTour> <http://schema.org/price> "9 euros"  <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Siam_Park> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Costa_Adeje> <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Hard_Rock_Café_Tenerife> <http://schema.org/name> "Hard Rock Café Tenerife"  <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Playa_de_Las_Américas> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Tenerife> <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Siam_Park_Night_Event> <http://schema.org/name> "Siam Park Night Event"  <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Tenerife> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Mount_Teide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <TikTok-CNN-2> .
+ <http://cnn.com/entities/PinkSangria> <http://schema.org/priceCurrency> "EUR"  <TikTok-CNN-2> .
+ <http://cnn.com/entities/Luuma> <http://schema.org/menuItem> <http://cnn.com/entities/PinkSangria> <TikTok-CNN-2> .
+ <http://tiktok.com/entities/TravelTok> <http://tiktok.com/entities/views> "11400000000"^^<http://www.w3.org/2001/XMLSchema#long>  <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Tenerife> <http://dbpedia.org/ontology/highestPlace> <http://dbpedia.org/resource/Mount_Teide> <TikTok-CNN-2> .
+ <http://cnn.com/entities/DolphinAndWhaleWatchingCruise> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Mount_Teide> <http://schema.org/height> "12,200 feet"@en  <TikTok-CNN-2> .
+ <http://cnn.com/entities/CanarianPotatoes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MenuItem> <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Playa_de_Las_Américas> <http://schema.org/name> "Playa de Las Américas"  <TikTok-CNN-2> .
+ <http://cnn.com/entities/PinkSangria> <http://schema.org/name> "Pink sangria with grapefruit"  <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Hard_Rock_Café_Tenerife> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Restaurant> <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Playa_Amarilla> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Beach> <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Masca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <TikTok-CNN-2> .
+ <http://cnn.com/entities/CanarianPotatoes> <http://schema.org/name> "Canarian potatoes with garlicky mojo sauce"  <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Playa_Amarilla> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Tenerife> <TikTok-CNN-2> .
+ <http://cnn.com/entities/Luuma> <http://schema.org/location> <http://dbpedia.org/resource/Costa_Adeje> <TikTok-CNN-2> .
+ <http://cnn.com/entities/DolphinAndWhaleWatchingCruise> <http://schema.org/priceCurrency> "EUR"  <TikTok-CNN-2> .
+ <http://cnn.com/entities/AmarachiOrie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <TikTok-CNN-2> .
+ <http://tiktok.com/entities/TravelTok> <http://schema.org/name> "#TravelTok"  <TikTok-CNN-2> .
+ <http://cnn.com/entities/Carbonara> <http://schema.org/name> "Carbonara"  <TikTok-CNN-2> .
+ <http://cnn.com/entities/TouristTrainTour> <http://schema.org/name> "Tourist train tour of Costa Adeje"  <TikTok-CNN-2> .
+ <http://cnn.com/entities/CNN> <http://schema.org/name> "CNN"  <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Siam_Park_Night_Event> <http://schema.org/dayOfWeek> <http://schema.org/Saturday> <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Siam_Park_Night_Event> <http://schema.org/startDate> "Summer"  <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Tenerife> <http://dbpedia.org/ontology/islandOf> <http://dbpedia.org/resource/Canary_Islands> <TikTok-CNN-2> .
+ <http://cnn.com/entities/DolphinAndWhaleWatchingCruise> <http://schema.org/departurePoint> <http://dbpedia.org/resource/Los_Cristianos> <TikTok-CNN-2> .
+ <http://cnn.com/entities/Luuma> <http://schema.org/menuItem> <http://cnn.com/entities/CanarianPotatoes> <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Mount_Teide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Volcano> <TikTok-CNN-2> .
+ <http://cnn.com/entities/DolphinAndWhaleWatchingCruise> <http://schema.org/name> "Dolphin and whale-watching cruise"  <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Mount_Teide> <http://dbpedia.org/ontology/elevation> "3718"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-CNN-2> .
+ <http://cnn.com/entities/PinkSangria> <http://schema.org/price> "3.75 euros"  <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Masca> <http://schema.org/description> "Advertised on TikTok as a 'lost pirate village'."  <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Papagayo_Beach_Club> <http://schema.org/name> "Papagayo Beach Club"  <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Mount_Teide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Mountain> <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Tenerife> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Spain> <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Playa_Amarilla> <http://schema.org/name> "Playa Amarilla"  <TikTok-CNN-2> .
+ <http://tiktok.com/entities/TravelTikTok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Intangible> <TikTok-CNN-2> .
+ <http://cnn.com/entities/VegetarianPaella> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MenuItem> <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Tenerife> <http://dbpedia.org/ontology/locatedInArea> <http://dbpedia.org/resource/Canary_Islands> <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Tenerife> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Island> <TikTok-CNN-2> .
+ <http://cnn.com/entities/TouristTrainTour> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <TikTok-CNN-2> .
+ <http://cnn.com/entities/Luuma> <http://schema.org/name> "Luuma"  <TikTok-CNN-2> .
+ <http://cnn.com/entities/Fiore> <http://schema.org/location> <http://dbpedia.org/resource/Tenerife> <TikTok-CNN-2> .
+ <http://cnn.com/entities/Luuma> <http://schema.org/menuItem> <http://cnn.com/entities/VegetarianPaella> <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Hard_Rock_Café_Tenerife> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Tenerife> <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Masca> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Tenerife> <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Costa_Adeje> <http://schema.org/name> "Costa Adeje"  <TikTok-CNN-2> .
+ <http://cnn.com/entities/DolphinAndWhaleWatchingCruise> <http://schema.org/price> "13 euros"  <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Siam_Park_Night_Event> <http://schema.org/dayOfWeek> <http://schema.org/Friday> <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Costa_Adeje> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <TikTok-CNN-2> .
+ <http://cnn.com/entities/AmarachiOrie> <http://schema.org/name> "Amarachi Orie"  <TikTok-CNN-2> .
+ <http://tiktok.com/entities/TikTok> <http://schema.org/name> "TikTok"  <TikTok-CNN-2> .
+ <http://cnn.com/entities/AmarachiOrie> <http://schema.org/affiliation> <http://cnn.com/entities/CNN> <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Playa_de_Las_Américas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <TikTok-CNN-2> .
+ <http://cnn.com/entities/Fiore> <http://schema.org/menuItem> <http://cnn.com/entities/Carbonara> <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Siam_Park> <http://schema.org/name> "Siam Park"  <TikTok-CNN-2> .
+ <http://dbpedia.org/resource/Tenerife> <http://schema.org/name> "Tenerife"  <TikTok-CNN-2> .
+ <http://cnn.com/entities/BrownieMilkshake> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MenuItem> <TikTok-CNN-2> .
+ <http://example.org/Douyin> <http://dbpedia.org/ontology/revenueSource> <http://example.org/inAppTipping> <TikTok-CNN-3> .
+ <http://example.org/oneHourDailyScreenTimeLimitForUnder18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareFeature> <TikTok-CNN-3> .
+ <http://example.org/musical.ly> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MobileApplication> <TikTok-CNN-3> .
+ <http://example.org/Tiananmen1989> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Tiananmen_Square> <TikTok-CNN-3> .
+ <http://example.org/ByteDance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <TikTok-CNN-3> .
+ <http://example.org/TikTok> <http://dbpedia.org/ontology/numberOfUsers> "1000000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-CNN-3> .
+ <http://example.org/Douyin> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MobileApplication> <TikTok-CNN-3> .
+ <http://example.org/ByteDance> <http://dbpedia.org/ontology/foundingYear> "2012"^^<http://www.w3.org/2001/XMLSchema#gYear>  <TikTok-CNN-3> .
+ <http://example.org/musical.ly> <http://schema.org/isPartOf> <http://example.org/TikTok> <TikTok-CNN-3> .
+ <http://example.org/Temu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MobileApplication> <TikTok-CNN-3> .
+ <http://example.org/Tiananmen1989> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <TikTok-CNN-3> .
+ <http://example.org/DouyinCensorship> <http://dbpedia.org/ontology/information> <http://example.org/Tiananmen1989> <TikTok-CNN-3> .
+ <http://example.org/inAppTipping> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MonetaryAmount> <TikTok-CNN-3> .
+ <http://example.org/ByteDance> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Beijing> <TikTok-CNN-3> .
+ <http://example.org/automaticBeautyFilter> <http://schema.org/description> "An automatic beauty filter that smooths out skin and changes the shape of a person's face."  <TikTok-CNN-3> .
+ <http://example.org/livestreaming> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Activity> <TikTok-CNN-3> .
+ <http://example.org/Douyin> <http://schema.org/isPartOf> <http://example.org/ByteDance> <TikTok-CNN-3> .
+ <http://example.org/beautyFilters> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareFeature> <TikTok-CNN-3> .
+ <http://example.org/JinriToutiao> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MobileApplication> <TikTok-CNN-3> .
+ <http://example.org/Douyin> <http://dbpedia.org/ontology/numberOfUsers> "600000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-CNN-3> .
+ <http://example.org/livestreamingECommerce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareFeature> <TikTok-CNN-3> .
+ <http://example.org/TikTok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MobileApplication> <TikTok-CNN-3> .
+ <http://example.org/Shein> <http://dbpedia.org/ontology/developer> <http://example.org/ChineseTechnology> <TikTok-CNN-3> .
+ <http://example.org/Douyin> <http://dbpedia.org/ontology/launchDate> "2016"^^<http://www.w3.org/2001/XMLSchema#gYear>  <TikTok-CNN-3> .
+ <http://example.org/beautyFilters> <http://schema.org/description> "Beauty filters that users can select when filming."  <TikTok-CNN-3> .
+ <http://example.org/CapCut> <http://dbpedia.org/ontology/developer> <http://example.org/ByteDance> <TikTok-CNN-3> .
+ <http://example.org/CapCut> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MobileApplication> <TikTok-CNN-3> .
+ <http://example.org/TikTok> <http://schema.org/isPartOf> <http://example.org/ByteDance> <TikTok-CNN-3> .
+ <http://example.org/ByteDance> <http://xmlns.com/foaf/0.1/homepage> <https://bytedance.com/> <TikTok-CNN-3> .
+ <http://example.org/JinriToutiao> <http://schema.org/softwareVersion> "Today’s Headlines"  <TikTok-CNN-3> .
+ <http://example.org/Douyin> <http://dbpedia.org/ontology/feature> <http://example.org/childSafeContent> <TikTok-CNN-3> .
+ <http://example.org/ZhangYiming> <http://xmlns.com/foaf/0.1/name> "Zhang Yiming"  <TikTok-CNN-3> .
+ <http://example.org/musical.ly> <http://dbpedia.org/ontology/acquisitionYear> "2018"^^<http://www.w3.org/2001/XMLSchema#gYear>  <TikTok-CNN-3> .
+ <http://example.org/CapCut> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/United_States> <TikTok-CNN-3> .
+ <http://example.org/ByteDance> <http://dbpedia.org/ontology/product> <http://example.org/Douyin> <TikTok-CNN-3> .
+ <http://example.org/TikTok> <http://dbpedia.org/ontology/feature> <http://example.org/beautyFilters> <TikTok-CNN-3> .
+ <http://example.org/automaticBeautyFilter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareFeature> <TikTok-CNN-3> .
+ <http://example.org/TikTok> <http://dbpedia.org/ontology/subsidiary> <http://example.org/musical.ly> <TikTok-CNN-3> .
+ <http://example.org/DouyinCensorship> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Censorship> <TikTok-CNN-3> .
+ <http://example.org/timeRestrictionsForUnder14> <http://schema.org/description> "Restrictions for users under 14 years old to use the app for just 40 minutes a day and not between 10 p.m. to 6 a.m."  <TikTok-CNN-3> .
+ <http://example.org/livestreamingECommerce> <http://schema.org/description> "Livestreaming sales of products, a multibillion-dollar industry in mainland China."  <TikTok-CNN-3> .
+ <http://example.org/ByteDance> <http://dbpedia.org/ontology/founder> <http://example.org/ZhangYiming> <TikTok-CNN-3> .
+ <http://example.org/inAppTipping> <http://schema.org/currency> "CNY"  <TikTok-CNN-3> .
+ <http://example.org/Douyin> <http://dbpedia.org/ontology/feature> <http://example.org/livestreamingECommerce> <TikTok-CNN-3> .
+ <http://example.org/oneHourDailyScreenTimeLimitForUnder18> <http://schema.org/description> "A one-hour daily screen time limit for users under 18 on TikTok."  <TikTok-CNN-3> .
+ <http://example.org/ZhangYiming> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-CNN-3> .
+ <http://example.org/TikTok> <http://dbpedia.org/ontology/feature> <http://example.org/oneHourDailyScreenTimeLimitForUnder18> <TikTok-CNN-3> .
+ <http://example.org/childSafeContent> <http://schema.org/description> "Content that is safe for children."  <TikTok-CNN-3> .
+ <http://example.org/childSafeContent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareFeature> <TikTok-CNN-3> .
+ <http://example.org/Douyin> <http://dbpedia.org/ontology/feature> <http://example.org/automaticBeautyFilter> <TikTok-CNN-3> .
+ <http://example.org/DouyinCensorship> <http://dbpedia.org/ontology/subject> <http://example.org/Douyin> <TikTok-CNN-3> .
+ <http://example.org/Temu> <http://dbpedia.org/ontology/developer> <http://example.org/ChineseTechnology> <TikTok-CNN-3> .
+ <http://example.org/Tiananmen1989> <http://dbpedia.org/ontology/result> "censored in Douyin"  <TikTok-CNN-3> .
+ <http://example.org/ByteDance> <http://dbpedia.org/ontology/subsidiary> <http://example.org/musical.ly> <TikTok-CNN-3> .
+ <http://example.org/ZhangYiming> <http://dbpedia.org/ontology/birthPlace> <http://dbpedia.org/resource/Palo_Alto_California> <TikTok-CNN-3> .
+ <http://example.org/timeRestrictionsForUnder14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareFeature> <TikTok-CNN-3> .
+ <http://example.org/TikTok> <http://dbpedia.org/ontology/launchDate> "2017"^^<http://www.w3.org/2001/XMLSchema#gYear>  <TikTok-CNN-3> .
+ <http://example.org/Douyin> <http://dbpedia.org/ontology/revenueSource> <http://example.org/livestreaming> <TikTok-CNN-3> .
+ <http://example.org/JinriToutiao> <http://dbpedia.org/ontology/launchDate> "2012"^^<http://www.w3.org/2001/XMLSchema#gYear>  <TikTok-CNN-3> .
+ <http://example.org/ByteDance> <http://dbpedia.org/ontology/product> <http://example.org/JinriToutiao> <TikTok-CNN-3> .
+ <http://example.org/Tiananmen1989> <http://dbpedia.org/ontology/date> "1989"^^<http://www.w3.org/2001/XMLSchema#gYear>  <TikTok-CNN-3> .
+ <http://example.org/Shein> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MobileApplication> <TikTok-CNN-3> .
+ <http://example.org/ZhangYiming> <http://dbpedia.org/ontology/birthDate> "2020-03"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <TikTok-CNN-3> .
+ <http://example.org/ZhangYiming> <http://dbpedia.org/ontology/employer> <http://example.org/Microsoft> <TikTok-CNN-3> .
+ <http://example.org/Douyin> <http://dbpedia.org/ontology/feature> <http://example.org/timeRestrictionsForUnder14> <TikTok-CNN-3> .
+ <http://example.org/ChineseTechnology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Technology> <TikTok-CNN-3> .
+ <http://example.org/DouyinCensorship> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/China> <TikTok-CNN-3> .
+ <http://example.org/ByteDance> <http://dbpedia.org/ontology/product> <http://example.org/TikTok> <TikTok-CNN-3> .
+ <http://example.org/GabbyBeckford> <http://xmlns.com/foaf/0.1/age> "27"^^<http://www.w3.org/2001/XMLSchema#int>  <TikTok-CNN-4> .
+ <http://example.org/KhamyraSykes> <http://dbpedia.org/ontology/occupation> <http://example.org/ContentCreator> <TikTok-CNN-4> .
+ <http://example.org/TaccaraAndYinkaLawanson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> <TikTok-CNN-4> .
+ <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/State> <TikTok-CNN-4> .
+ <http://example.org/PhillipCalvert> <http://example.org/platformFollowers> <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab13>  <TikTok-CNN-4> .
+ <http://example.org/SamanMovassaghiGonzalez> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Attorney> <TikTok-CNN-4> .
+ <http://example.org/TikTokAsSearchEngine> <http://dbpedia.org/ontology/users> <http://example.org/SamanMovassaghiGonzalez> <TikTok-CNN-4> .
+ <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab11> <http://example.org/platform> "TikTok"  <TikTok-CNN-4> .
+ <http://example.org/GabbyBeckford> <http://example.org/usesPlatform> <http://example.org/TikTokAsSearchEngine> <TikTok-CNN-4> .
+ <http://example.org/GabbyBeckford> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-CNN-4> .
+ <http://example.org/TikTokAsSearchEngine> <http://dbpedia.org/ontology/users> <http://example.org/PhillipCalvert> <TikTok-CNN-4> .
+ <http://example.org/SamanMovassaghiGonzalez> <http://xmlns.com/foaf/0.1/name> "Saman Movassaghi Gonzalez"  <TikTok-CNN-4> .
+ <http://example.org/MikeGallagher> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Congressman> <TikTok-CNN-4> .
+ <http://example.org/KhamyraSykes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-CNN-4> .
+ <http://example.org/KhamyraSykes> <http://example.org/platformFollowers> <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab9>  <TikTok-CNN-4> .
+ <http://example.org/TikTokAsSearchEngine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <TikTok-CNN-4> .
+ <http://example.org/GabbyBeckford> <http://xmlns.com/foaf/0.1/name> "Gabby Beckford"  <TikTok-CNN-4> .
+ <http://example.org/SamanMovassaghiGonzalez> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-CNN-4> .
+ <http://example.org/TikTokAsSearchEngine> <http://dbpedia.org/ontology/subject> <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab3>  <TikTok-CNN-4> .
+ <http://example.org/TaccaraAndYinkaLawanson> <http://example.org/platformFollowers> <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab11>  <TikTok-CNN-4> .
+ <http://example.org/TikTokAsSearchEngine> <http://dbpedia.org/ontology/subject> <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab5>  <TikTok-CNN-4> .
+ <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab11> <http://example.org/followerCount> "3700000"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-CNN-4> .
+ <http://example.org/KhamyraSykes> <http://xmlns.com/foaf/0.1/name> "Khamyra Sykes"  <TikTok-CNN-4> .
+ <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab2> <http://xmlns.com/foaf/0.1/name> "Washington, DC"  <TikTok-CNN-4> .
+ <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/City> <TikTok-CNN-4> .
+ <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab9> <http://example.org/followerCount> "1500000"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-CNN-4> .
+ <http://example.org/MikeGallagher> <http://dbpedia.org/ontology/residence> <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab14>  <TikTok-CNN-4> .
+ <http://example.org/usesPlatform> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Property> <TikTok-CNN-4> .
+ <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab10> <http://example.org/followerCount> "83000"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-CNN-4> .
+ <http://example.org/PhillipCalvert> <http://xmlns.com/foaf/0.1/name> "Phillip Calvert"  <TikTok-CNN-4> .
+ <http://example.org/TikTokAsSearchEngine> <http://dbpedia.org/ontology/subject> <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab7>  <TikTok-CNN-4> .
+ <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab4> <http://xmlns.com/foaf/0.1/name> "Product reviews"  <TikTok-CNN-4> .
+ <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab10> <http://example.org/platform> "TikTok"  <TikTok-CNN-4> .
+ <http://example.org/TikTokAsSearchEngine> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> <TikTok-CNN-4> .
+ <http://example.org/followerCount> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Property> <TikTok-CNN-4> .
+ <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Topic> <TikTok-CNN-4> .
+ <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab14> <http://xmlns.com/foaf/0.1/name> "Wisconsin"  <TikTok-CNN-4> .
+ <http://example.org/TikTokAsSearchEngine> <http://dbpedia.org/ontology/subject> <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab6>  <TikTok-CNN-4> .
+ <http://example.org/MikeGallagher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-CNN-4> .
+ <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab7> <http://xmlns.com/foaf/0.1/name> "Business marketing"  <TikTok-CNN-4> .
+ <http://example.org/PhillipCalvert> <http://dbpedia.org/ontology/alias> "PhilWaukee"  <TikTok-CNN-4> .
+ <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/City> <TikTok-CNN-4> .
+ <http://example.org/PhillipCalvert> <http://dbpedia.org/ontology/residence> <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab12>  <TikTok-CNN-4> .
+ <http://example.org/GabbyBeckford> <http://dbpedia.org/ontology/occupation> <http://example.org/TravelContentCreator> <TikTok-CNN-4> .
+ <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Topic> <TikTok-CNN-4> .
+ <http://example.org/TikTokAsSearchEngine> <http://dbpedia.org/ontology/users> <http://example.org/TaccaraAndYinkaLawanson> <TikTok-CNN-4> .
+ <http://example.org/TikTokAsSearchEngine> <http://dbpedia.org/ontology/launchYear> "2017"^^<http://www.w3.org/2001/XMLSchema#gYear>  <TikTok-CNN-4> .
+ <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab13> <http://example.org/platform> "TikTok"  <TikTok-CNN-4> .
+ <http://example.org/TikTokAsSearchEngine> <http://dbpedia.org/ontology/developer> <http://dbpedia.org/resource/TikTok> <TikTok-CNN-4> .
+ <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab5> <http://xmlns.com/foaf/0.1/name> "Travel"  <TikTok-CNN-4> .
+ <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Topic> <TikTok-CNN-4> .
+ <http://example.org/KhamyraSykes> <http://example.org/platformFollowers> <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab8>  <TikTok-CNN-4> .
+ <http://example.org/SamanMovassaghiGonzalez> <http://example.org/platformFollowers> <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab10>  <TikTok-CNN-4> .
+ <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab9> <http://example.org/platform> "Instagram"  <TikTok-CNN-4> .
+ <http://example.org/PhillipCalvert> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-CNN-4> .
+ <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab3> <http://xmlns.com/foaf/0.1/name> "Mental health advice"  <TikTok-CNN-4> .
+ <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/City> <TikTok-CNN-4> .
+ <http://example.org/TikTokAsSearchEngine> <http://dbpedia.org/ontology/numberOfUsers> "1 billion"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-CNN-4> .
+ <http://example.org/TikTokAsSearchEngine> <http://dbpedia.org/ontology/subject> <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab4>  <TikTok-CNN-4> .
+ <http://example.org/KhamyraSykes> <http://xmlns.com/foaf/0.1/age> "16"^^<http://www.w3.org/2001/XMLSchema#int>  <TikTok-CNN-4> .
+ <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab8> <http://example.org/platform> "TikTok"  <TikTok-CNN-4> .
+ <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab6> <http://xmlns.com/foaf/0.1/name> "Fashion"  <TikTok-CNN-4> .
+ <http://example.org/MikeGallagher> <http://xmlns.com/foaf/0.1/name> "Mike Gallagher"  <TikTok-CNN-4> .
+ <http://example.org/TaccaraAndYinkaLawanson> <http://xmlns.com/foaf/0.1/name> "Ling and Lamb"  <TikTok-CNN-4> .
+ <http://example.org/SamanMovassaghiGonzalez> <http://dbpedia.org/ontology/fieldOfWork> <http://dbpedia.org/resource/Immigration_law> <TikTok-CNN-4> .
+ <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Topic> <TikTok-CNN-4> .
+ <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab13> <http://example.org/followerCount> "unknown"  <TikTok-CNN-4> .
+ <http://example.org/TikTokAsSearchEngine> <http://dbpedia.org/ontology/users> <http://example.org/KhamyraSykes> <TikTok-CNN-4> .
+ <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Topic> <TikTok-CNN-4> .
+ <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab1> <http://xmlns.com/foaf/0.1/name> "Seattle"  <TikTok-CNN-4> .
+ <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab8> <http://example.org/followerCount> "560000"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-CNN-4> .
+ <http://example.org/GabbyBeckford> <http://dbpedia.org/ontology/residence> <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab2>  <TikTok-CNN-4> .
+ <http://example.org/TikTokAsSearchEngine> <http://dbpedia.org/ontology/users> <http://example.org/GabbyBeckford> <TikTok-CNN-4> .
+ <http://example.org/GabbyBeckford> <http://dbpedia.org/ontology/residence> <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab1>  <TikTok-CNN-4> .
+ <http://TikTok-CNN-4.com/blank#n21347d3256844703896090dff1317e0ab12> <http://xmlns.com/foaf/0.1/name> "Milwaukee"  <TikTok-CNN-4> .
+ <http://example.org/platform> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Class> <TikTok-CNN-4> .
+ <http://example.org/Lemon8> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Social_media> <TikTok-CNN-5> .
+ <http://example.org/Lemon8> <http://dbpedia.org/ontology/feature> <http://example.org/SixCategories> <TikTok-CNN-5> .
+ <http://example.org/Lemon8ForYouFeed> <http://schema.org/text> "For you feed where users can scroll through content"  <TikTok-CNN-5> .
+ <http://example.org/SixCategories> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <TikTok-CNN-5> .
+ <http://example.org/ByteDance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <TikTok-CNN-5> .
+ <http://example.org/Lemon8BanPossibility> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <TikTok-CNN-5> .
+ <http://example.org/ByteDance> <http://xmlns.com/foaf/0.1/homepage> <https://www.bytedance.com/> <TikTok-CNN-5> .
+ <http://example.org/Lemon8ForYouFeed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <TikTok-CNN-5> .
+ <http://example.org/ByteDance> <http://dbpedia.org/ontology/subsidiary> <http://example.org/Lemon8> <TikTok-CNN-5> .
+ <http://example.org/Lemon8JobPosting> <http://schema.org/datePosted> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <TikTok-CNN-5> .
+ <http://example.org/Lemon8ForYouFeed> <http://schema.org/about> <http://example.org/Lemon8> <TikTok-CNN-5> .
+ <http://example.org/Lemon8Algorithm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <TikTok-CNN-5> .
+ <http://example.org/SimilarToXiaohongshu> <http://schema.org/name> "Similar to Xiaohongshu"  <TikTok-CNN-5> .
+ <http://example.org/Lemon8> <http://dbpedia.org/ontology/feature> <http://example.org/BeautyAndLifestyleContent> <TikTok-CNN-5> .
+ <http://example.org/TikTokCEO> <http://dbpedia.org/ontology/position> <http://example.org/CEO> <TikTok-CNN-5> .
+ <http://example.org/MelanieCruz> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/resource/Vlogger> <TikTok-CNN-5> .
+ <http://example.org/TikTokCEO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <TikTok-CNN-5> .
+ <http://example.org/LacksMessagingAndTaggingFeatures> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <TikTok-CNN-5> .
+ <http://example.org/Lemon8JobPosting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> <TikTok-CNN-5> .
+ <http://example.org/Lemon8> <http://dbpedia.org/ontology/feature> <http://example.org/LacksMessagingAndTaggingFeatures> <TikTok-CNN-5> .
+ <http://example.org/Lemon8Algorithm> <http://dbpedia.org/ontology/creator> <http://example.org/ByteDance> <TikTok-CNN-5> .
+ <http://example.org/CanAhtam> <http://schema.org/jobTitle> "Professional Photographer"  <TikTok-CNN-5> .
+ <http://example.org/MelanieCruz> <http://schema.org/jobTitle> "Content Creator"  <TikTok-CNN-5> .
+ <http://example.org/TikTok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <TikTok-CNN-5> .
+ <http://example.org/ForYouFeed> <http://schema.org/name> "For you feed"  <TikTok-CNN-5> .
+ <http://example.org/Lemon8> <http://dbpedia.org/ontology/launchYear> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <TikTok-CNN-5> .
+ <http://example.org/MelanieCruz> <http://dbpedia.org/ontology/activeYearsStartYear> "2018"^^<http://www.w3.org/2001/XMLSchema#gYear>  <TikTok-CNN-5> .
+ <http://example.org/LengthyCaptions> <http://schema.org/name> "Lengthy captions"  <TikTok-CNN-5> .
+ <http://example.org/LengthyCaptions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <TikTok-CNN-5> .
+ <http://example.org/TextOverlays> <http://schema.org/name> "Text overlays"  <TikTok-CNN-5> .
+ <http://example.org/TikTokCEO> <http://dbpedia.org/ontology/employer> <http://example.org/TikTok> <TikTok-CNN-5> .
+ <http://example.org/Lemon8BanPossibility> <http://schema.org/description> "Potential ban of Lemon8 if TikTok is banned due to ByteDance being a Chinese company"  <TikTok-CNN-5> .
+ <http://example.org/SimilarToXiaohongshu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <TikTok-CNN-5> .
+ <http://example.org/TikTokBanConcern> <http://schema.org/description> "Concerns over national security and personal information collection by ByteDance"  <TikTok-CNN-5> .
+ <http://example.org/ForYouFeed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <TikTok-CNN-5> .
+ <http://example.org/Lemon8> <http://dbpedia.org/ontology/feature> <http://example.org/TextOverlays> <TikTok-CNN-5> .
+ <http://example.org/CenterForStrategicAndInternationalStudies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <TikTok-CNN-5> .
+ <http://example.org/Lemon8MarketingEfforts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <TikTok-CNN-5> .
+ <http://example.org/PhotoHeavyFocus> <http://schema.org/name> "Photo-heavy focus"  <TikTok-CNN-5> .
+ <http://example.org/BeautyAndLifestyleContent> <http://schema.org/name> "Beauty and lifestyle content"  <TikTok-CNN-5> .
+ <http://example.org/Lemon8JobPosting> <http://schema.org/hiringOrganization> <http://example.org/ByteDance> <TikTok-CNN-5> .
+ <http://example.org/TikTok> <http://xmlns.com/foaf/0.1/homepage> <https://www.tiktok.com/> <TikTok-CNN-5> .
+ <http://example.org/MadisonBravenec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <TikTok-CNN-5> .
+ <http://example.org/TikTok> <http://dbpedia.org/ontology/developer> <http://example.org/ByteDance> <TikTok-CNN-5> .
+ <http://example.org/LacksMessagingAndTaggingFeatures> <http://schema.org/name> "Lacks messaging and tagging features"  <TikTok-CNN-5> .
+ <http://example.org/TikTokCEO> <http://schema.org/jobTitle> "CEO of TikTok"  <TikTok-CNN-5> .
+ <http://example.org/Lemon8Partner> <http://schema.org/programName> "Lemon8 Partner"  <TikTok-CNN-5> .
+ <http://example.org/Lemon8Partner> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ProgramMembership> <TikTok-CNN-5> .
+ <http://example.org/MelanieCruz> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <TikTok-CNN-5> .
+ <http://example.org/JamesLewis> <http://schema.org/jobTitle> "Director of the Strategic Technologies Program"  <TikTok-CNN-5> .
+ <http://example.org/Lemon8MarketingEfforts> <http://schema.org/about> <http://example.org/Lemon8> <TikTok-CNN-5> .
+ <http://example.org/Lemon8> <http://dbpedia.org/ontology/developer> <http://example.org/ByteDance> <TikTok-CNN-5> .
+ <http://example.org/Lemon8> <http://dbpedia.org/ontology/feature> <http://example.org/LengthyCaptions> <TikTok-CNN-5> .
+ <http://example.org/TextOverlays> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <TikTok-CNN-5> .
+ <http://example.org/JamesLewis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <TikTok-CNN-5> .
+ <http://example.org/Lemon8> <http://schema.org/monthlyActiveUsers> "500000"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-CNN-5> .
+ <http://example.org/Lemon8Algorithm> <http://schema.org/description> "Content recommendation algorithm similar to TikTok's"  <TikTok-CNN-5> .
+ <http://example.org/Lemon8> <http://dbpedia.org/ontology/feature> <http://example.org/PhotoHeavyFocus> <TikTok-CNN-5> .
+ <http://example.org/Lemon8MarketingEfforts> <http://schema.org/startDate> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <TikTok-CNN-5> .
+ <http://example.org/CanAhtam> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <TikTok-CNN-5> .
+ <http://example.org/Lemon8> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> <TikTok-CNN-5> .
+ <http://example.org/TikTokBanConcern> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <TikTok-CNN-5> .
+ <http://example.org/MadisonBravenec> <http://schema.org/jobTitle> "Health Coach, Content Creator"  <TikTok-CNN-5> .
+ <http://example.org/Lemon8MarketingEfforts> <http://schema.org/organizer> <http://example.org/ByteDance> <TikTok-CNN-5> .
+ <http://example.org/CenterForStrategicAndInternationalStudies> <http://xmlns.com/foaf/0.1/homepage> <https://www.csis.org/> <TikTok-CNN-5> .
+ <http://example.org/Lemon8> <http://dbpedia.org/ontology/feature> <http://example.org/SimilarToXiaohongshu> <TikTok-CNN-5> .
+ <http://example.org/JamesLewis> <http://dbpedia.org/ontology/employer> <http://example.org/CenterForStrategicAndInternationalStudies> <TikTok-CNN-5> .
+ <http://example.org/TikTok> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Social_media> <TikTok-CNN-5> .
+ <http://example.org/Lemon8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Software> <TikTok-CNN-5> .
+ <http://example.org/Lemon8> <http://xmlns.com/foaf/0.1/homepage> <https://www.lemon8.app/> <TikTok-CNN-5> .
+ <http://example.org/SixCategories> <http://schema.org/name> "Six categories including fashion, home, and travel"  <TikTok-CNN-5> .
+ <http://example.org/Lemon8> <http://dbpedia.org/ontology/feature> <http://example.org/ForYouFeed> <TikTok-CNN-5> .
+ <http://example.org/Lemon8Partner> <http://schema.org/hostingOrganization> <http://example.org/ByteDance> <TikTok-CNN-5> .
+ <http://example.org/BeautyAndLifestyleContent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <TikTok-CNN-5> .
+ <http://example.org/Lemon8> <http://schema.org/numberOfDownloads> "1000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-CNN-5> .
+ <http://example.org/Lemon8Algorithm> <http://schema.org/about> <http://example.org/Lemon8> <TikTok-CNN-5> .
+ <http://example.org/PhotoHeavyFocus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <TikTok-CNN-5> .
+ <http://example.org/CanAhtam> <http://xmlns.com/foaf/0.1/accountName> "Can Ahtam"  <TikTok-CNN-5> .
+ <http://example.org/Lemon8JobPosting> <http://schema.org/jobTitle> "Lemon8 Creator Partnerships Role"  <TikTok-CNN-5> .
+ <http://example.org/ByteDance> <http://dbpedia.org/ontology/product> <http://example.org/TikTok> <TikTok-CNN-5> .
+ <http://example.org/YouTube> <http://schema.org/name> "YouTube"  <TikTok-CNN-6> .
+ <http://example.org/CustomTimeLimitOption> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <TikTok-CNN-6> .
+ <http://example.org/DigitalWellbeingPrompts> <http://schema.org/name> "Digital Well-being Prompts"  <TikTok-CNN-6> .
+ <http://example.org/DigitalWellbeingPrompts> <http://schema.org/description> "Issues reminders for users aged 13 to 17 after more than 100 minutes of app usage in a single day."  <TikTok-CNN-6> .
+ <http://example.org/TikTok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-CNN-6> .
+ <http://example.org/SocialMediaPressure> <http://schema.org/description> "Months of pressure on social media companies to address excessive social media usage and its impact on users' well-being."  <TikTok-CNN-6> .
+ <http://example.org/SenateHearing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <TikTok-CNN-6> .
+ <http://example.org/SenateHearing> <http://schema.org/description> "Executives from TikTok, YouTube, and Snap were questioned by Senators about the steps their platforms were taking to protect teens."  <TikTok-CNN-6> .
+ <http://example.org/SocialMediaPressure> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <TikTok-CNN-6> .
+ <http://example.org/TikTokBlogPost> <http://schema.org/datePublished> "2023-03-30"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-CNN-6> .
+ <http://example.org/SocialMediaPressure> <http://schema.org/name> "Public pressure on social media companies"  <TikTok-CNN-6> .
+ <http://example.org/JordanFurlong> <http://schema.org/name> "Jordan Furlong"  <TikTok-CNN-6> .
+ <http://example.org/JordanFurlong> <http://schema.org/worksFor> <http://example.org/TikTok> <TikTok-CNN-6> .
+ <http://example.org/TikTokBlogPost> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/BlogPosting> <TikTok-CNN-6> .
+ <http://example.org/YouTube> <http://schema.org/description> "A platform for sharing and viewing videos"  <TikTok-CNN-6> .
+ <http://example.org/Instagram> <http://schema.org/name> "Instagram"  <TikTok-CNN-6> .
+ <http://example.org/DigitalWellbeingPrompts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <TikTok-CNN-6> .
+ <http://example.org/TikTok> <http://schema.org/description> "A platform for short-form videos"  <TikTok-CNN-6> .
+ <http://example.org/TikTok> <http://schema.org/name> "TikTok"  <TikTok-CNN-6> .
+ <http://example.org/CustomTimeLimitOption> <http://schema.org/name> "Custom Time Limit Option"  <TikTok-CNN-6> .
+ <http://example.org/Snap> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-CNN-6> .
+ <http://example.org/ScreenTimeDashboard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <TikTok-CNN-6> .
+ <http://example.org/Snap> <http://schema.org/name> "Snap"  <TikTok-CNN-6> .
+ <http://example.org/Instagram> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-CNN-6> .
+ <http://example.org/Snap> <http://schema.org/description> "A social media company known for its app Snapchat"  <TikTok-CNN-6> .
+ <http://example.org/TakeABreakTool> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <TikTok-CNN-6> .
+ <http://example.org/TakeABreakTool> <http://schema.org/provider> <http://example.org/Instagram> <TikTok-CNN-6> .
+ <http://example.org/YouTube> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-CNN-6> .
+ <http://example.org/TakeABreakTool> <http://schema.org/name> "Take a Break"  <TikTok-CNN-6> .
+ <http://example.org/CustomTimeLimitOption> <http://schema.org/description> "Allows users to set custom time limits for uninterrupted app usage before getting a reminder to take a break."  <TikTok-CNN-6> .
+ <http://example.org/TikTokBlogPost> <http://schema.org/author> <http://example.org/JordanFurlong> <TikTok-CNN-6> .
+ <http://example.org/ScreenTimeDashboard> <http://schema.org/name> "Screen Time Dashboard"  <TikTok-CNN-6> .
+ <http://example.org/ScreenTimeDashboard> <http://schema.org/description> "Provides users with data about their time spent on TikTok, including daily summaries, app open count, and daytime/nighttime usage breakdown."  <TikTok-CNN-6> .
+ <http://example.org/SenateHearing> <http://schema.org/date> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <TikTok-CNN-6> .
+ <http://example.org/JordanFurlong> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <TikTok-CNN-6> .
+ <http://example.org/TikTokBlogPost> <http://schema.org/articleBody> "TikTok said in a blog post Thursday that it will introduce a new option in the coming weeks for users to set custom time limits for how much uninterrupted time they want to spend using the app, before getting a reminder to take a break."  <TikTok-CNN-6> .
+ <http://example.org/SenateHearing> <http://schema.org/name> "Senate hearing on social media and teen mental health"  <TikTok-CNN-6> .
+ <http://example.org/Instagram> <http://schema.org/description> "A social media platform for sharing photos and videos"  <TikTok-CNN-6> .
+ <http://example.org/TakeABreakTool> <http://schema.org/description> "A tool launched by Instagram to encourage users to take breaks from the app."  <TikTok-CNN-6> .
+ <http://example.org/JordanFurlong> <http://schema.org/jobTitle> "Product Manager of Digital Well-being"  <TikTok-CNN-6> .
+ <http://example.org/TakeABreakTool> <http://schema.org/datePublished> "2022-12"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <TikTok-CNN-6> .
+ <http://example.org/issues/slowLoading> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Issue> <TikTok-CNN-7> .
+ <http://example.org/ad/12345> <http://example.org/ontology/hasIssue> <http://example.org/issues/neverLoaded> <TikTok-CNN-7> .
+ <http://example.org/issues/loudAudio> <http://example.org/ontology/description> "Audio on ad was too loud"  <TikTok-CNN-7> .
+ <http://example.org/ad/12345> <http://example.org/ontology/hasIssue> <http://example.org/issues/slowLoading> <TikTok-CNN-7> .
+ <http://example.org/issues/otherIssues> <http://example.org/ontology/description> "Other issues"  <TikTok-CNN-7> .
+ <http://example.org/issues/slowLoading> <http://example.org/ontology/description> "Video player was slow to load content"  <TikTok-CNN-7> .
+ <http://example.org/issues/contentDidNotStart> <http://example.org/ontology/description> "Video content did not start after ad"  <TikTok-CNN-7> .
+ <http://example.org/ad/12345> <http://example.org/ontology/hasIssue> <http://example.org/issues/otherIssues> <TikTok-CNN-7> .
+ <http://example.org/issues/otherIssues> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Issue> <TikTok-CNN-7> .
+ <http://example.org/issues/frozeOrIncomplete> <http://example.org/ontology/description> "Ad froze or did not finish loading"  <TikTok-CNN-7> .
+ <http://example.org/issues/contentDidNotStart> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Issue> <TikTok-CNN-7> .
+ <http://example.org/ad/12345> <http://example.org/ontology/hasIssue> <http://example.org/issues/frozeOrIncomplete> <TikTok-CNN-7> .
+ <http://example.org/issues/neverLoaded> <http://example.org/ontology/description> "Video content never loaded"  <TikTok-CNN-7> .
+ <http://example.org/ad/12345> <http://example.org/ontology/hasIssue> <http://example.org/issues/loudAudio> <TikTok-CNN-7> .
+ <http://example.org/ad/12345> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Advertisement> <TikTok-CNN-7> .
+ <http://example.org/issues/neverLoaded> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Issue> <TikTok-CNN-7> .
+ <http://example.org/ad/12345> <http://example.org/ontology/hasIssue> <http://example.org/issues/contentDidNotStart> <TikTok-CNN-7> .
+ <http://example.org/issues/loudAudio> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Issue> <TikTok-CNN-7> .
+ <http://example.org/issues/frozeOrIncomplete> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology/Issue> <TikTok-CNN-7> .
+ <http://example.org/ad/12345> <http://example.org/ontology/relevanceFeedback> <http://example.org/ontology/RelevanceFeedback> <TikTok-CNN-7> .
+ <http://example.org/ReliableSources> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/TVSeries> <TikTok-CNN-8> .
+ <http://example.org/US_UserData> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Dataset> <TikTok-CNN-8> .
+ <http://example.org/FCC_CommissionerStatement> <http://schema.org/author> <http://example.org/BrendanCarr> <TikTok-CNN-8> .
+ <http://example.org/BrendanCarr> <http://xmlns.com/foaf/0.1/name> "Brendan Carr"  <TikTok-CNN-8> .
+ <http://example.org/ChineseCommunistParty> <http://schema.org/name> "Chinese Communist Party"  <TikTok-CNN-8> .
+ <http://example.org/BrendanCarr> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-CNN-8> .
+ <http://example.org/FCC> <http://schema.org/name> "Federal Communications Commission"  <TikTok-CNN-8> .
+ <http://example.org/TikTok> <http://schema.org/timeRequired> "PT46M"^^<http://www.w3.org/2001/XMLSchema#duration>  <TikTok-CNN-8> .
+ <http://example.org/FCC_CommissionerStatement> <http://schema.org/datePublished> "2023-07-08"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-CNN-8> .
+ <http://example.org/WSJ_Investigations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <TikTok-CNN-8> .
+ <http://example.org/US_UserData> <http://schema.org/creator> <http://example.org/ByteDance> <TikTok-CNN-8> .
+ <http://example.org/TikTok> <http://schema.org/downloadCount> "3500000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <TikTok-CNN-8> .
+ <http://example.org/TikTokExecutiveInterview> <http://schema.org/datePublished> "2023-07-09"^^<http://www.w3.org/2001/XMLSchema#date>  <TikTok-CNN-8> .
+ <http://example.org/EntertainmentContent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <TikTok-CNN-8> .
+ <http://example.org/MichaelBeckerman> <http://xmlns.com/foaf/0.1/name> "Michael Beckerman"  <TikTok-CNN-8> .
+ <http://example.org/ChineseGovernment> <http://schema.org/name> "Chinese government"  <TikTok-CNN-8> .
+ <http://example.org/ByteDance> <http://schema.org/name> "ByteDance"  <TikTok-CNN-8> .
+ <http://example.org/ChineseCommunistParty> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-CNN-8> .
+ <http://example.org/Google> <http://schema.org/name> "Google"  <TikTok-CNN-8> .
+ <http://example.org/BrianStelter> <http://schema.org/jobTitle> "CNN’s chief media correspondent"  <TikTok-CNN-8> .
+ <http://example.org/TikTokExecutiveInterview> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <TikTok-CNN-8> .
+ <http://example.org/EntertainmentContent> <http://schema.org/about> "dance videos, cooking tutorials"  <TikTok-CNN-8> .
+ <http://example.org/NewYork> <http://schema.org/name> "New York"  <TikTok-CNN-8> .
+ <http://example.org/ReliableSources> <http://schema.org/name> "Reliable Sources"  <TikTok-CNN-8> .
+ <http://example.org/TikTok> <http://schema.org/mentions> <http://example.org/TikTokExecutiveInterview> <TikTok-CNN-8> .
+ <http://example.org/US> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <TikTok-CNN-8> .
+ <http://example.org/ReliableSources> <http://schema.org/broadcastOn> <http://example.org/CNN> <TikTok-CNN-8> .
+ <http://example.org/TikTok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SoftwareApplication> <TikTok-CNN-8> .
+ <http://example.org/NewYork> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/City> <TikTok-CNN-8> .
+ <http://example.org/BuzzfeedNewsReport> <http://schema.org/name> "Buzzfeed News report"  <TikTok-CNN-8> .
+ <http://example.org/BrendanCarr> <http://schema.org/jobTitle> "FCC Commissioner"  <TikTok-CNN-8> .
+ <http://example.org/FCC_CommissionerStatement> <http://schema.org/publisher> <http://example.org/FCC> <TikTok-CNN-8> .
+ <http://example.org/MichaelBeckerman> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-CNN-8> .
+ <http://example.org/MichaelBeckerman> <http://schema.org/jobTitle> "Head of Public Policy, Americas at TikTok"  <TikTok-CNN-8> .
+ <http://example.org/BrianStelter> <http://xmlns.com/foaf/0.1/name> "Brian Stelter"  <TikTok-CNN-8> .
+ <http://example.org/Google> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-CNN-8> .
+ <http://example.org/TikTokExecutiveInterview> <http://schema.org/author> <http://example.org/MichaelBeckerman> <TikTok-CNN-8> .
+ <http://example.org/TheWallStreetJournal> <http://schema.org/name> "The Wall Street Journal"  <TikTok-CNN-8> .
+ <http://example.org/BuzzfeedNewsReport> <http://purl.org/dc/terms/issued> "2023-06-24T00:00:00+00:00"^^<http://www.w3.org/2001/XMLSchema#dateTime>  <TikTok-CNN-8> .
+ <http://example.org/US_UserData> <http://schema.org/location> "United States"  <TikTok-CNN-8> .
+ <http://example.org/Beijing> <http://schema.org/name> "Beijing"  <TikTok-CNN-8> .
+ <http://example.org/ChineseGovernment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GovernmentOrganization> <TikTok-CNN-8> .
+ <http://example.org/CNN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-CNN-8> .
+ <http://example.org/TikTok> <http://schema.org/offers> <http://example.org/EntertainmentContent> <TikTok-CNN-8> .
+ <http://example.org/WSJ_Investigations> <http://schema.org/author> <http://example.org/TheWallStreetJournal> <TikTok-CNN-8> .
+ <http://example.org/CNN> <http://schema.org/name> "CNN"  <TikTok-CNN-8> .
+ <http://example.org/BuzzfeedNewsReport> <http://schema.org/publisher> "Buzzfeed News"  <TikTok-CNN-8> .
+ <http://example.org/WSJ_Investigations> <http://schema.org/about> "rabbit holes on topics like eating disorders"  <TikTok-CNN-8> .
+ <http://example.org/TikTok> <http://schema.org/name> "TikTok"  <TikTok-CNN-8> .
+ <http://example.org/TikTok> <http://schema.org/mentions> <http://example.org/BuzzfeedNewsReport> <TikTok-CNN-8> .
+ <http://example.org/TikTok> <http://schema.org/operatingSystem> "iOS, Android"  <TikTok-CNN-8> .
+ <http://example.org/Apple> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-CNN-8> .
+ <http://example.org/BrianStelter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <TikTok-CNN-8> .
+ <http://example.org/FCC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-CNN-8> .
+ <http://example.org/CNN> <http://schema.org/location> <http://example.org/NewYork> <TikTok-CNN-8> .
+ <http://example.org/US> <http://schema.org/name> "United States"  <TikTok-CNN-8> .
+ <http://example.org/TikTok> <http://schema.org/mentions> <http://example.org/FCC_CommissionerStatement> <TikTok-CNN-8> .
+ <http://example.org/TheWallStreetJournal> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-CNN-8> .
+ <http://example.org/Beijing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/City> <TikTok-CNN-8> .
+ <http://example.org/BuzzfeedNewsReport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> <TikTok-CNN-8> .
+ <http://example.org/TikTok> <http://schema.org/owner> <http://example.org/ByteDance> <TikTok-CNN-8> .
+ <http://example.org/China> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Country> <TikTok-CNN-8> .
+ <http://example.org/ByteDance> <http://schema.org/location> <http://example.org/Beijing> <TikTok-CNN-8> .
+ <http://example.org/ChineseGovernment> <http://schema.org/location> <http://example.org/China> <TikTok-CNN-8> .
+ <http://example.org/FCC_CommissionerStatement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <TikTok-CNN-8> .
+ <http://example.org/TikTokExecutiveInterview> <http://schema.org/publisher> <http://example.org/CNN> <TikTok-CNN-8> .
+ <http://example.org/TikTok> <http://schema.org/applicationCategory> "short-form video app"  <TikTok-CNN-8> .
+ <http://example.org/China> <http://schema.org/name> "China"  <TikTok-CNN-8> .
+ <http://example.org/ByteDance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-CNN-8> .
+ <http://example.org/Apple> <http://schema.org/name> "Apple"  <TikTok-CNN-8> .
+ <http://example.org/TikTokShopCatalog> <http://schema.org/availableAtOrFrom> <http://example.org/UnitedKingdom> <TikTok-CNN-9> .
+ <http://example.org/TikTokSpokesperson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <TikTok-CNN-9> .
+ <http://example.org/TikTokECommerceLogistics> <http://schema.org/purpose> "create a new logistics and warehousing network"  <TikTok-CNN-9> .
+ <http://example.org/AmazonFirstCorporateHeadquarters> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <TikTok-CNN-9> .
+ <http://example.org/TikTokShopifyPartnership> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Partnership> <TikTok-CNN-9> .
+ <http://example.org/Amazon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-CNN-9> .
+ <http://example.org/AmazonLogisticsNetwork> <http://schema.org/name> "Amazon's logistics and delivery network"  <TikTok-CNN-9> .
+ <http://example.org/JobPosting> <http://schema.org/title> "Fulfillment Service Business Developer"  <TikTok-CNN-9> .
+ <http://example.org/TikTokSpokespersonStatement> <http://schema.org/author> <http://example.org/TikTokSpokesperson> <TikTok-CNN-9> .
+ <http://example.org/TikTok> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-CNN-9> .
+ <http://example.org/TikTokECommerceLogistics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-CNN-9> .
+ <http://example.org/TikTokECommerceLogistics> <http://schema.org/location> <http://example.org/UnitedStates> <TikTok-CNN-9> .
+ <http://example.org/TikTokShopCatalog> <http://schema.org/name> "TikTok Shop"  <TikTok-CNN-9> .
+ <http://example.org/TikTok> <http://schema.org/location> <http://example.org/UnitedStates> <TikTok-CNN-9> .
+ <http://example.org/TikTok> <http://schema.org/hasPart> <http://example.org/TikTokShopifyPartnership> <TikTok-CNN-9> .
+ <http://example.org/JobPosting> <http://schema.org/responsibilities> "responsible for the business development of fulfillment service of TikTok e-commerce logistics in US"  <TikTok-CNN-9> .
+ <http://example.org/TikTokShopCatalog> <http://schema.org/availableAtOrFrom> <http://example.org/Indonesia> <TikTok-CNN-9> .
+ <http://example.org/TikTokSpokespersonStatement> <http://schema.org/dateCreated> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <TikTok-CNN-9> .
+ <http://example.org/CNN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-CNN-9> .
+ <http://example.org/TikTok> <http://schema.org/hasOfferCatalog> <http://example.org/TikTokShopCatalog> <TikTok-CNN-9> .
+ <http://example.org/TikTokSpokesperson> <http://schema.org/worksFor> <http://example.org/TikTok> <TikTok-CNN-9> .
+ <http://example.org/Amazon> <http://schema.org/name> "Amazon"  <TikTok-CNN-9> .
+ <http://example.org/TikTokSpokespersonStatement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Statement> <TikTok-CNN-9> .
+ <http://example.org/TikTokShopifyPartnership> <http://schema.org/purpose> "enable shopping on the platform"  <TikTok-CNN-9> .
+ <http://example.org/JobPosting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/JobPosting> <TikTok-CNN-9> .
+ <http://example.org/TikTok> <http://schema.org/name> "TikTok"  <TikTok-CNN-9> .
+ <http://example.org/TikTok> <http://schema.org/hasPart> <http://example.org/TikTokECommerceLogistics> <TikTok-CNN-9> .
+ <http://example.org/Amazon> <http://schema.org/owns> <http://example.org/AmazonLogisticsNetwork> <TikTok-CNN-9> .
+ <http://example.org/JobPosting> <http://schema.org/description> "build the new fulfillment service from scratch"  <TikTok-CNN-9> .
+ <http://example.org/AmazonFirstCorporateHeadquarters> <http://schema.org/name> "Amazon's first corporate headquarters"  <TikTok-CNN-9> .
+ <http://example.org/JobPosting> <http://schema.org/jobLocation> <http://example.org/Seattle> <TikTok-CNN-9> .
+ <http://example.org/TikTokSpokespersonStatement> <http://schema.org/text> "focused on providing a valuable shopping experience in countries where TikTok Shop is currently offered across Southeast Asia and the UK, which includes providing merchants with a range of product features and delivery options."  <TikTok-CNN-9> .
+ <http://example.org/TikTokShopifyPartnership> <http://schema.org/partner> <http://example.org/Shopify> <TikTok-CNN-9> .
+ <http://example.org/Seattle> <http://schema.org/name> "Seattle"  <TikTok-CNN-9> .
+ <http://example.org/TikTokShopCatalog> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/OfferCatalog> <TikTok-CNN-9> .
+ <http://example.org/Seattle> <http://schema.org/contains> <http://example.org/AmazonFirstCorporateHeadquarters> <TikTok-CNN-9> .
+ <http://example.org/JobPosting> <http://schema.org/hiringOrganization> <http://example.org/TikTok> <TikTok-CNN-9> .
+ <http://example.org/AmazonLogisticsNetwork> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <TikTok-CNN-9> .
+ <http://example.org/TikTokSpokesperson> <http://schema.org/contactPoint> <http://example.org/TikTokSpokespersonStatement> <TikTok-CNN-9> .
+ <http://example.org/Seattle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <TikTok-CNN-9> .

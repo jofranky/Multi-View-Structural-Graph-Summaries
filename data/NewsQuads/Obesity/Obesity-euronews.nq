@@ -1,0 +1,669 @@
+ <http://example.org/ontology#InactiveSerialNumbers> <http://schema.org/name> "Inactive serial numbers"  <Obesity-euronews-0> .
+ <http://example.org/ontology#WeightLoss> <http://schema.org/name> "Weight loss"  <Obesity-euronews-0> .
+ <http://example.org/ontology#ObesityTreatment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MedicalTherapy> <Obesity-euronews-0> .
+ <http://example.org/ontology#German> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Language> <Obesity-euronews-0> .
+ <http://example.org/ontology#German> <http://schema.org/name> "German"  <Obesity-euronews-0> .
+ <http://example.org/ontology#CounterfeitOzempicPenUS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Obesity-euronews-0> .
+ <http://example.org/ontology#FalsifiedOzempicPen> <http://dbpedia.org/ontology/language> <http://example.org/ontology#German> <Obesity-euronews-0> .
+ <http://example.org/ontology#BfArM> <http://dbpedia.org/ontology/warned> <http://example.org/ontology#FalsifiedOzempicPen> <Obesity-euronews-0> .
+ <http://example.org/ontology#Ozempic> <http://schema.org/name> "Ozempic"  <Obesity-euronews-0> .
+ <http://example.org/ontology#RecalledAndAccountedForInUK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Action> <Obesity-euronews-0> .
+ <http://example.org/ontology#LargestInEurope> <http://schema.org/name> "Europe's largest company by market capitalisation"  <Obesity-euronews-0> .
+ <http://example.org/ontology#ProductionLimitations> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BusinessOperation> <Obesity-euronews-0> .
+ <http://example.org/ontology#HighDemand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MarketCondition> <Obesity-euronews-0> .
+ <http://Obesity-euronews-0.com/blank#nfe6c6e0b72924760b35c065a3090274db1> <http://dbpedia.org/ontology/referencePeriod> "first half of 2023"^^<http://www.w3.org/2001/XMLSchema#string>  <Obesity-euronews-0> .
+ <http://example.org/ontology#BfArM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Obesity-euronews-0> .
+ <http://example.org/ontology#FalsifiedOzempicPen> <http://dbpedia.org/ontology/identifiedBy> <http://example.org/ontology#BfArM> <Obesity-euronews-0> .
+ <http://example.org/ontology#FalsifiedOzempicPen> <http://dbpedia.org/ontology/source> <http://example.org/ontology#WholesalersInAustriaAndGermany> <Obesity-euronews-0> .
+ <http://example.org/ontology#ConstantExchangeRates> <http://schema.org/name> "constant exchange rates"  <Obesity-euronews-0> .
+ <http://example.org/ontology#FalsifiedOzempicPen> <http://dbpedia.org/ontology/identifiedBy> <http://example.org/ontology#EMA> <Obesity-euronews-0> .
+ <http://example.org/ontology#RecalledAndAccountedForInUK> <http://schema.org/name> "All affected pens have been recalled and accounted for"  <Obesity-euronews-0> .
+ <http://example.org/ontology#FalsifiedOzempicPen> <http://dbpedia.org/ontology/status> <http://example.org/ontology#RecalledAndAccountedForInUK> <Obesity-euronews-0> .
+ <http://example.org/ontology#Ozempic> <http://dbpedia.org/ontology/manufacturer> <http://dbpedia.org/resource/Novo_Nordisk> <Obesity-euronews-0> .
+ <http://example.org/ontology#ProductionLimitations> <http://schema.org/name> "Production limitations"  <Obesity-euronews-0> .
+ <http://example.org/ontology#WholesalersInAustriaAndGermany> <http://schema.org/name> "Wholesalers in Austria and Germany"  <Obesity-euronews-0> .
+ <http://example.org/ontology#CounterfeitOzempicPenUS> <http://dbpedia.org/ontology/contains> <http://example.org/ontology#DifferentDiabetesMedication> <Obesity-euronews-0> .
+ <http://Obesity-euronews-0.com/blank#nfe6c6e0b72924760b35c065a3090274db2> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_Kingdom> <Obesity-euronews-0> .
+ <http://example.org/ontology#ShortageOfOzempic> <http://dbpedia.org/ontology/cause> <http://example.org/ontology#HighDemand> <Obesity-euronews-0> .
+ <http://example.org/ontology#Semiglutide> <http://dbpedia.org/ontology/usedFor> <http://example.org/ontology#ObesityTreatment> <Obesity-euronews-0> .
+ <http://example.org/ontology#Novo_Nordisk> <http://schema.org/name> "Novo Nordisk"  <Obesity-euronews-0> .
+ <http://example.org/ontology#WholesalersInAustriaAndGermany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Obesity-euronews-0> .
+ <http://example.org/ontology#Type2Diabetes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Disease> <Obesity-euronews-0> .
+ <http://example.org/ontology#MHRA> <http://schema.org/name> "Medicines and Healthcare products Regulatory Agency"  <Obesity-euronews-0> .
+ <http://example.org/ontology#InactiveSerialNumbers> <http://dbpedia.org/ontology/isFeatureOf> <http://example.org/ontology#FalsifiedOzempicPen> <Obesity-euronews-0> .
+ <http://example.org/ontology#Ozempic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Drug> <Obesity-euronews-0> .
+ <http://Obesity-euronews-0.com/blank#nfe6c6e0b72924760b35c065a3090274db1> <http://dbpedia.org/ontology/percentage> "32.0"^^<http://www.w3.org/2001/XMLSchema#float>  <Obesity-euronews-0> .
+ <http://example.org/ontology#BfArM> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Germany> <Obesity-euronews-0> .
+ <http://example.org/ontology#DifferentDiabetesMedication> <http://schema.org/name> "Different diabetes medication"  <Obesity-euronews-0> .
+ <http://example.org/ontology#Type2Diabetes> <http://schema.org/name> "Type 2 diabetes"  <Obesity-euronews-0> .
+ <http://example.org/ontology#EMA> <http://schema.org/name> "European Medicines Agency"  <Obesity-euronews-0> .
+ <http://example.org/ontology#Novo_Nordisk> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Denmark> <Obesity-euronews-0> .
+ <http://example.org/ontology#CounterfeitOzempicPenUS> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/United_States> <Obesity-euronews-0> .
+ <http://example.org/ontology#DifferentDiabetesMedication> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Drug> <Obesity-euronews-0> .
+ <http://example.org/ontology#ShortageOfOzempic> <http://dbpedia.org/ontology/resultingFrom> <http://example.org/ontology#ProductionLimitations> <Obesity-euronews-0> .
+ <http://example.org/ontology#LargestInEurope> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Rank> <Obesity-euronews-0> .
+ <http://example.org/ontology#FalsifiedOzempicPen> <http://schema.org/name> "Falsified Ozempic pen"  <Obesity-euronews-0> .
+ <http://example.org/ontology#Semiglutide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ChemicalSubstance> <Obesity-euronews-0> .
+ <http://example.org/ontology#MHRA> <http://dbpedia.org/ontology/warned> <http://example.org/ontology#FalsifiedOzempicPen> <Obesity-euronews-0> .
+ <http://example.org/ontology#UniqueSerialNumbers> <http://schema.org/name> "Unique serial numbers"  <Obesity-euronews-0> .
+ <http://example.org/ontology#MHRA> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/United_Kingdom> <Obesity-euronews-0> .
+ <http://example.org/ontology#CounterfeitOzempicPenUS> <http://schema.org/name> "Counterfeit Ozempic pen in the US"  <Obesity-euronews-0> .
+ <http://example.org/ontology#WeightLoss> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/MedicalCondition> <Obesity-euronews-0> .
+ <http://example.org/ontology#InactiveSerialNumbers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ProductFeature> <Obesity-euronews-0> .
+ <http://example.org/ontology#MHRA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Obesity-euronews-0> .
+ <http://example.org/ontology#CounterfeitPensDistributionChainGermany> <http://schema.org/name> "in the distribution chain in Germany"  <Obesity-euronews-0> .
+ <http://example.org/ontology#Ozempic> <http://dbpedia.org/ontology/activeIngredient> <http://example.org/ontology#Semiglutide> <Obesity-euronews-0> .
+ <http://example.org/ontology#BfArM> <http://schema.org/name> "Federal Institute for Drugs and Medical Devices"  <Obesity-euronews-0> .
+ <http://example.org/ontology#FalsifiedOzempicPen> <http://dbpedia.org/ontology/identifiedBy> <http://example.org/ontology#MHRA> <Obesity-euronews-0> .
+ <http://example.org/ontology#Ozempic> <http://dbpedia.org/ontology/indication> <http://example.org/ontology#Type2Diabetes> <Obesity-euronews-0> .
+ <http://example.org/ontology#FalsifiedOzempicPen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Obesity-euronews-0> .
+ <http://example.org/ontology#Ozempic> <http://dbpedia.org/ontology/demand> "high"  <Obesity-euronews-0> .
+ <http://example.org/ontology#ShortageOfOzempic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Obesity-euronews-0> .
+ <http://example.org/ontology#CounterfeitPensDistributionChainGermany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/DistributionNetwork> <Obesity-euronews-0> .
+ <http://example.org/ontology#Novo_Nordisk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Obesity-euronews-0> .
+ <http://example.org/ontology#Wegovy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Drug> <Obesity-euronews-0> .
+ <http://example.org/ontology#Semiglutide> <http://dbpedia.org/ontology/isPartOf> <http://example.org/ontology#Wegovy> <Obesity-euronews-0> .
+ <http://example.org/ontology#Novo_Nordisk> <http://dbpedia.org/ontology/marketCapitalisation> <http://example.org/ontology#LargestInEurope> <Obesity-euronews-0> .
+ <http://example.org/ontology#UniqueSerialNumbers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ProductFeature> <Obesity-euronews-0> .
+ <http://example.org/ontology#UniqueSerialNumbers> <http://dbpedia.org/ontology/isFeatureOf> <http://example.org/ontology#Ozempic> <Obesity-euronews-0> .
+ <http://example.org/ontology#CounterfeitPensDistributionChainGermany> <http://dbpedia.org/ontology/potentialRisk> <http://example.org/ontology#FalsifiedOzempicPen> <Obesity-euronews-0> .
+ <http://example.org/ontology#ConstantExchangeRates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/CurrencyExchangeRate> <Obesity-euronews-0> .
+ <http://example.org/ontology#EMA> <http://dbpedia.org/ontology/warned> <http://example.org/ontology#FalsifiedOzempicPen> <Obesity-euronews-0> .
+ <http://example.org/ontology#Semiglutide> <http://schema.org/name> "Semiglutide"  <Obesity-euronews-0> .
+ <http://example.org/ontology#Wegovy> <http://schema.org/name> "Wegovy"  <Obesity-euronews-0> .
+ <http://example.org/ontology#HighDemand> <http://schema.org/name> "High demand"  <Obesity-euronews-0> .
+ <http://example.org/ontology#CounterfeitOzempicPenUS> <http://dbpedia.org/ontology/identifiedBy> <http://dbpedia.org/resource/Novo_Nordisk> <Obesity-euronews-0> .
+ <http://example.org/ontology#Ozempic> <http://dbpedia.org/ontology/associatedWith> <http://example.org/ontology#WeightLoss> <Obesity-euronews-0> .
+ <http://example.org/ontology#EMA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Obesity-euronews-0> .
+ <http://example.org/ontology#ShortageOfOzempic> <http://schema.org/name> "Shortage of Ozempic"  <Obesity-euronews-0> .
+ <http://example.org/ontology#Wegovy> <http://dbpedia.org/ontology/indication> <http://example.org/ontology#Obesity> <Obesity-euronews-0> .
+ <http://example.org/ontology#ObesityTreatment> <http://schema.org/name> "Obesity treatment"  <Obesity-euronews-0> .
+ <http://Obesity-euronews-0.com/blank#nfe6c6e0b72924760b35c065a3090274db2> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/European_Union> <Obesity-euronews-0> .
+ <http://Obesity-euronews-0.com/blank#nfe6c6e0b72924760b35c065a3090274db1> <http://dbpedia.org/ontology/atRate> <http://example.org/ontology#ConstantExchangeRates> <Obesity-euronews-0> .
+ <http://example.org/ontology#Novo_Nordisk> <http://dbpedia.org/ontology/operatingProfitIncrease> <http://Obesity-euronews-0.com/blank#nfe6c6e0b72924760b35c065a3090274db1>  <Obesity-euronews-0> .
+ <http://example.org/ontology#FalsifiedOzempicPen> <http://dbpedia.org/ontology/origin> <http://Obesity-euronews-0.com/blank#nfe6c6e0b72924760b35c065a3090274db2>  <Obesity-euronews-0> .
+ <http://example.org/ontology#RecalledAndAccountedForInUK> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/United_Kingdom> <Obesity-euronews-0> .
+ <http://example.org/ontology#Wegovy> <http://dbpedia.org/ontology/activeIngredient> <http://example.org/ontology#Semiglutide> <Obesity-euronews-0> .
+ <http://example.org/PhysicalActivity> <http://dbpedia.org/ontology/benefits> "diabetes management"  <Obesity-euronews-1> .
+ <http://example.org/ExerciseMimetics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/DrugClass> <Obesity-euronews-1> .
+ <http://example.org/ProfessorOfPharmacy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <Obesity-euronews-1> .
+ <http://example.org/UniversityOfFlorida> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/United_States> <Obesity-euronews-1> .
+ <http://example.org/NewDrug> <http://dbpedia.org/ontology/trialPeriod> "28 days"^^<http://www.w3.org/2001/XMLSchema#string>  <Obesity-euronews-1> .
+ <http://example.org/NHS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Obesity-euronews-1> .
+ <http://example.org/ThomasBurris> <http://dbpedia.org/ontology/affiliation> <http://example.org/UniversityOfFlorida> <Obesity-euronews-1> .
+ <http://example.org/ThomasBurris> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Obesity-euronews-1> .
+ <http://example.org/PhysicalActivity> <http://dbpedia.org/ontology/benefits> "brain health"  <Obesity-euronews-1> .
+ <http://example.org/SLU-PP-332> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Molecule> <Obesity-euronews-1> .
+ <http://example.org/NewDrug> <http://dbpedia.org/ontology/activeIngredient> <http://example.org/SLU-PP-332> <Obesity-euronews-1> .
+ <http://example.org/NewDrug> <http://dbpedia.org/ontology/researcher> <http://example.org/ThomasBurris> <Obesity-euronews-1> .
+ <http://example.org/ObeseMice> <http://dbpedia.org/ontology/condition> <http://example.org/Obesity> <Obesity-euronews-1> .
+ <http://example.org/NewDrug> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Drug> <Obesity-euronews-1> .
+ <http://example.org/ObeseMice> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organism> <Obesity-euronews-1> .
+ <http://example.org/UniversityOfFlorida> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/University> <Obesity-euronews-1> .
+ <http://example.org/PhysicalActivity> <http://dbpedia.org/ontology/benefits> "depression prevention"  <Obesity-euronews-1> .
+ <http://example.org/WHO> <http://dbpedia.org/ontology/recommendation> "2.5 to 5 hours per week of moderately intense activity"^^<http://www.w3.org/2001/XMLSchema#string>  <Obesity-euronews-1> .
+ <http://example.org/WHO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Obesity-euronews-1> .
+ <http://example.org/ThomasBurris> <http://dbpedia.org/ontology/occupation> <http://example.org/ProfessorOfPharmacy> <Obesity-euronews-1> .
+ <http://example.org/PhysicalActivity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Activity> <Obesity-euronews-1> .
+ <http://example.org/UniversityOfFlorida> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Florida> <Obesity-euronews-1> .
+ <http://example.org/NHS> <http://dbpedia.org/ontology/topic> <http://example.org/PhysicalActivity> <Obesity-euronews-1> .
+ <http://example.org/SLU-PP-332> <http://dbpedia.org/ontology/isPartOf> <http://example.org/NewDrug> <Obesity-euronews-1> .
+ <http://example.org/ProfessorOfPharmacy> <http://www.w3.org/2000/01/rdf-schema#label> "professor of pharmacy"  <Obesity-euronews-1> .
+ <http://example.org/NewDrug> <http://dbpedia.org/ontology/physiologicalEffect> "increased muscle gain"  <Obesity-euronews-1> .
+ <http://example.org/Diabetes> <http://www.w3.org/2000/01/rdf-schema#label> "diabetes"  <Obesity-euronews-1> .
+ <http://example.org/ExerciseMimetics> <http://www.w3.org/2000/01/rdf-schema#label> "exercise mimetics"  <Obesity-euronews-1> .
+ <http://example.org/Obesity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Disease> <Obesity-euronews-1> .
+ <http://example.org/PhysicalActivity> <http://dbpedia.org/ontology/benefits> "cardiovascular health"  <Obesity-euronews-1> .
+ <http://example.org/NewDrug> <http://dbpedia.org/ontology/physiologicalEffect> "weight loss"  <Obesity-euronews-1> .
+ <http://example.org/Obesity> <http://www.w3.org/2000/01/rdf-schema#label> "obesity"  <Obesity-euronews-1> .
+ <http://example.org/NHS> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_Kingdom> <Obesity-euronews-1> .
+ <http://example.org/ERRs> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/BiologicalProcess> <Obesity-euronews-1> .
+ <http://example.org/NewDrug> <http://dbpedia.org/ontology/drugClass> <http://example.org/ExerciseMimetics> <Obesity-euronews-1> .
+ <http://example.org/NewDrug> <http://dbpedia.org/ontology/testedOn> <http://example.org/ObeseMice> <Obesity-euronews-1> .
+ <http://example.org/Diabetes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Disease> <Obesity-euronews-1> .
+ <http://example.org/SLU-PP-332> <http://dbpedia.org/ontology/mechanismOfAction> "mimics physiological adaptations associated with physical activities"  <Obesity-euronews-1> .
+ <http://example.org/PhysicalActivity> <http://dbpedia.org/ontology/benefits> "cancer prevention"  <Obesity-euronews-1> .
+ <http://example.org/NewDrug> <http://dbpedia.org/ontology/physiologicalEffect> "boosted metabolism"  <Obesity-euronews-1> .
+ <http://example.org/PhysicalActivity> <http://dbpedia.org/ontology/benefits> "dementia prevention"  <Obesity-euronews-1> .
+ <http://example.org/ERRs> <http://dbpedia.org/ontology/location> "muscles, heart, liver"^^<http://www.w3.org/2001/XMLSchema#string>  <Obesity-euronews-1> .
+ <http://example.org/JournalOfPharmacologyAndExperimentalTherapeutics> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AcademicJournal> <Obesity-euronews-1> .
+ <http://example.org/PhysicalActivity> <http://dbpedia.org/ontology/benefits> "stress reduction"  <Obesity-euronews-1> .
+ <http://example.org/NewDrug> <http://dbpedia.org/ontology/affiliation> <http://example.org/UniversityOfFlorida> <Obesity-euronews-1> .
+ <http://example.org/ERRs> <http://dbpedia.org/ontology/relatedTo> <http://example.org/PhysicalActivity> <Obesity-euronews-1> .
+ <http://example.org/NewDrug> <http://dbpedia.org/ontology/publication> <http://example.org/JournalOfPharmacologyAndExperimentalTherapeutics> <Obesity-euronews-1> .
+ <http://example.org/study#CHUdeQuebecUniversityLavalResearchCenter> <http://dbpedia.org/ontology/location> <http://example.org/study#QuebecCanada> <Obesity-euronews-2> .
+ <http://example.org/study#EuropeanHeartNetwork> <http://dbpedia.org/ontology/location> <http://example.org/study#Europe> <Obesity-euronews-2> .
+ <http://example.org/study#Study> <http://dbpedia.org/ontology/subject> <http://example.org/study#HeartDisease> <Obesity-euronews-2> .
+ <http://example.org/study#HeartDisease> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Disease> <Obesity-euronews-2> .
+ <http://example.org/study#UniversityLaval> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <Obesity-euronews-2> .
+ <http://example.org/study#Study> <http://dbpedia.org/ontology/abstract> "A study found working in a stressful job for insufficient reward had similar ill-effects on heart health to obesity."@en  <Obesity-euronews-2> .
+ <http://example.org/study#MathildeLavigneRobichaud> <http://schema.org/jobTitle> "Lead Study Author"  <Obesity-euronews-2> .
+ <http://example.org/study#Study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AcademicJournalArticle> <Obesity-euronews-2> .
+ <http://example.org/study#MaleWorkers> <http://dbpedia.org/ontology/numberOfPeople> "3118"^^<http://www.w3.org/2001/XMLSchema#int>  <Obesity-euronews-2> .
+ <http://example.org/study#HeartDisease> <http://www.w3.org/2000/01/rdf-schema#label> "Heart disease"  <Obesity-euronews-2> .
+ <http://example.org/study#AmericanHeartAssociation> <http://dbpedia.org/ontology/location> <http://example.org/study#UnitedStates> <Obesity-euronews-2> .
+ <http://example.org/study#Study> <http://dbpedia.org/ontology/subject> <http://example.org/study#WorkStress> <Obesity-euronews-2> .
+ <http://example.org/study#StudyPeriod> <http://dbpedia.org/ontology/endDate> "2018-12-31"^^<http://www.w3.org/2001/XMLSchema#date>  <Obesity-euronews-2> .
+ <http://example.org/study#QuebecCanada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <Obesity-euronews-2> .
+ <http://example.org/study#MathildeLavigneRobichaud> <http://dbpedia.org/ontology/affiliation> <http://example.org/study#CHUdeQuebecUniversityLavalResearchCenter> <Obesity-euronews-2> .
+ <http://example.org/study#Study> <http://dbpedia.org/ontology/author> <http://example.org/study#MathildeLavigneRobichaud> <Obesity-euronews-2> .
+ <http://example.org/study#Obesity> <http://www.w3.org/2000/01/rdf-schema#label> "Obesity"  <Obesity-euronews-2> .
+ <http://example.org/study#WhiteCollarWorkers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <Obesity-euronews-2> .
+ <http://example.org/study#MathildeLavigneRobichaud> <http://dbpedia.org/ontology/thesisTitle> "Work Stressors and Cardiovascular Health"  <Obesity-euronews-2> .
+ <http://example.org/study#MathildeLavigneRobichaud> <http://xmlns.com/foaf/0.1/name> "Mathilde Lavigne-Robichaud"  <Obesity-euronews-2> .
+ <http://example.org/study#WorkStress> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Disease> <Obesity-euronews-2> .
+ <http://example.org/study#EffortRewardImbalance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/RiskFactor> <Obesity-euronews-2> .
+ <http://example.org/study#Study> <http://dbpedia.org/ontology/subject> <http://example.org/study#Obesity> <Obesity-euronews-2> .
+ <http://example.org/study#Study> <http://dbpedia.org/ontology/publishedIn> <http://www.ahajournals.org/journal/circCirculationCardiovascularQualityAndOutcomes> <Obesity-euronews-2> .
+ <http://www.ahajournals.org/journal/circCirculationCardiovascularQualityAndOutcomes> <http://dbpedia.org/ontology/isPartOf> <http://example.org/study#AmericanHeartAssociation> <Obesity-euronews-2> .
+ <http://example.org/study#WhiteCollarWorkers> <http://www.w3.org/2000/01/rdf-schema#label> "White-collar workers"  <Obesity-euronews-2> .
+ <http://example.org/study#MaleWorkers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Population> <Obesity-euronews-2> .
+ <http://example.org/study#Canada> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <Obesity-euronews-2> .
+ <http://example.org/study#WorkStress> <http://www.w3.org/2000/01/rdf-schema#label> "Work-related stress"  <Obesity-euronews-2> .
+ <http://example.org/study#StudyPeriod> <http://dbpedia.org/ontology/startDate> "2000-01-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Obesity-euronews-2> .
+ <http://example.org/study#EffortRewardImbalance> <http://www.w3.org/2000/01/rdf-schema#label> "Effort-reward imbalance"  <Obesity-euronews-2> .
+ <http://example.org/study#EuropeanHeartNetwork> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Obesity-euronews-2> .
+ <http://example.org/study#MathildeLavigneRobichaud> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-euronews-2> .
+ <http://example.org/study#FemaleWorkers> <http://dbpedia.org/ontology/numberOfPeople> "3347"^^<http://www.w3.org/2001/XMLSchema#int>  <Obesity-euronews-2> .
+ <http://example.org/study#AmericanHeartAssociation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Obesity-euronews-2> .
+ <http://example.org/study#UniversityLaval> <http://dbpedia.org/ontology/location> <http://example.org/study#QuebecCanada> <Obesity-euronews-2> .
+ <http://www.ahajournals.org/journal/circCirculationCardiovascularQualityAndOutcomes> <http://www.w3.org/2000/01/rdf-schema#label> "Circulation: Cardiovascular Quality and Outcomes"  <Obesity-euronews-2> .
+ <http://example.org/study#StudyPeriod> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/TimeInterval> <Obesity-euronews-2> .
+ <http://example.org/study#MathildeLavigneRobichaud> <http://schema.org/alumniOf> <http://example.org/study#UniversityLaval> <Obesity-euronews-2> .
+ <http://example.org/study#JobStrain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/RiskFactor> <Obesity-euronews-2> .
+ <http://example.org/study#StudyPopulation> <http://dbpedia.org/ontology/demographics> <http://example.org/study#WhiteCollarWorkers> <Obesity-euronews-2> .
+ <http://example.org/study#QuebecCanada> <http://dbpedia.org/ontology/country> <http://example.org/study#Canada> <Obesity-euronews-2> .
+ <http://example.org/study#StudyPopulation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Population> <Obesity-euronews-2> .
+ <http://example.org/study#FemaleWorkers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Population> <Obesity-euronews-2> .
+ <http://example.org/study#JobStrain> <http://www.w3.org/2000/01/rdf-schema#label> "Job strain"  <Obesity-euronews-2> .
+ <http://example.org/study#CHUdeQuebecUniversityLavalResearchCenter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Obesity-euronews-2> .
+ <http://example.org/study#StudyPopulation> <http://dbpedia.org/ontology/numberOfPeople> "6495"^^<http://www.w3.org/2001/XMLSchema#int>  <Obesity-euronews-2> .
+ <http://example.org/study#Obesity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Disease> <Obesity-euronews-2> .
+ <http://www.ahajournals.org/journal/circCirculationCardiovascularQualityAndOutcomes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AcademicJournal> <Obesity-euronews-2> .
+ <http://example.org/study#Europe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <Obesity-euronews-2> .
+ <http://example.org/study#UnitedStates> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <Obesity-euronews-2> .
+ <http://example.org/ontology#Obesity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Disease> <Obesity-euronews-3> .
+ <http://example.org/ontology#SnackingHabits> <http://dbpedia.org/ontology/average> <http://example.org/ontology#AverageSnacksPerDay> <Obesity-euronews-3> .
+ <http://example.org/ontology#HealthyMeals> <http://dbpedia.org/ontology/benefit> <http://example.org/ontology#HealthBenefits> <Obesity-euronews-3> .
+ <http://example.org/ontology#Fruit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Food> <Obesity-euronews-3> .
+ <http://example.org/ontology#DecreasedHungerLevels> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/HealthIndicator> <Obesity-euronews-3> .
+ <http://example.org/ontology#UnhealthySnacks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Food> <Obesity-euronews-3> .
+ <http://example.org/ontology#UnhealthySnacks> <http://dbpedia.org/ontology/includes> <http://example.org/ontology#Cookies> <Obesity-euronews-3> .
+ <http://example.org/ontology#HealthySnacks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Food> <Obesity-euronews-3> .
+ <http://example.org/ontology#DrSarahBerry> <http://dbpedia.org/ontology/role> <http://example.org/ontology#ChiefScientistAtZOE> <Obesity-euronews-3> .
+ <http://example.org/ontology#IncreasedRiskOfDiseases> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Risk> <Obesity-euronews-3> .
+ <http://example.org/ontology#HigherBMI> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/HealthIndicator> <Obesity-euronews-3> .
+ <http://example.org/ontology#HealthySnacks> <http://dbpedia.org/ontology/includes> <http://example.org/ontology#Fruit> <Obesity-euronews-3> .
+ <http://example.org/ontology#DrSarahBerry> <http://dbpedia.org/ontology/affiliation> <http://example.org/ontology#KingsCollegeLondon> <Obesity-euronews-3> .
+ <http://example.org/ontology#ResearchFindings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Research> <Obesity-euronews-3> .
+ <http://example.org/ontology#DrKateBermingham> <http://dbpedia.org/ontology/role> <http://example.org/ontology#SeniorScientistAtZOE> <Obesity-euronews-3> .
+ <http://example.org/ontology#IncreasedRiskOfDiseases> <http://dbpedia.org/ontology/associatedWith> <http://example.org/ontology#Stroke> <Obesity-euronews-3> .
+ <http://example.org/ontology#CerealBars> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Food> <Obesity-euronews-3> .
+ <http://example.org/ontology#UnhealthySnacks> <http://dbpedia.org/ontology/associatedWith> <http://example.org/ontology#HigherBMI> <Obesity-euronews-3> .
+ <http://example.org/ontology#SnackingTiming> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Factor> <Obesity-euronews-3> .
+ <http://example.org/ontology#Cheese> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Food> <Obesity-euronews-3> .
+ <http://example.org/ontology#AverageSnacksPerDay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Statistic> <Obesity-euronews-3> .
+ <http://example.org/ontology#SnackingTiming> <http://dbpedia.org/ontology/influence> <http://example.org/ontology#BloodMarkerLevels> <Obesity-euronews-3> .
+ <http://example.org/ontology#ResearchFindings> <http://dbpedia.org/ontology/subject> <http://example.org/ontology#SnackingHabits> <Obesity-euronews-3> .
+ <http://example.org/ontology#Seeds> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Food> <Obesity-euronews-3> .
+ <http://example.org/ontology#UndoingHealthyMealBenefits> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Outcome> <Obesity-euronews-3> .
+ <http://example.org/ontology#HealthyMeals> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Food> <Obesity-euronews-3> .
+ <http://example.org/ontology#SnackingHabits> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Activity> <Obesity-euronews-3> .
+ <http://example.org/ontology#DrKateBermingham> <http://dbpedia.org/ontology/affiliation> <http://example.org/ontology#KingsCollegeLondon> <Obesity-euronews-3> .
+ <http://example.org/ontology#HigherFatLevels> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/HealthIndicator> <Obesity-euronews-3> .
+ <http://example.org/ontology#DrSarahBerry> <http://dbpedia.org/ontology/title> "Dr"  <Obesity-euronews-3> .
+ <http://example.org/ontology#AverageSnacksPerDay> <http://dbpedia.org/ontology/value> "2.28"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-euronews-3> .
+ <http://example.org/ontology#UnhealthySnacking> <http://dbpedia.org/ontology/consequence> <http://example.org/ontology#UndoingHealthyMealBenefits> <Obesity-euronews-3> .
+ <http://example.org/ontology#IncreasedRiskOfDiseases> <http://dbpedia.org/ontology/associatedWith> <http://example.org/ontology#CardiovascularDisease> <Obesity-euronews-3> .
+ <http://example.org/ontology#EuropeanJournalOfNutrition> <http://dbpedia.org/ontology/publishes> <http://example.org/ontology#ResearchFindings> <Obesity-euronews-3> .
+ <http://example.org/ontology#Pies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Food> <Obesity-euronews-3> .
+ <http://example.org/ontology#ZOE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Obesity-euronews-3> .
+ <http://example.org/ontology#CardiovascularDisease> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Disease> <Obesity-euronews-3> .
+ <http://example.org/ontology#HealthyWeight> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/HealthIndicator> <Obesity-euronews-3> .
+ <http://example.org/ontology#DrSarahBerry> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-euronews-3> .
+ <http://example.org/ontology#Granola> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Food> <Obesity-euronews-3> .
+ <http://example.org/ontology#UnhealthySnacks> <http://dbpedia.org/ontology/associatedWith> <http://example.org/ontology#HigherFatLevels> <Obesity-euronews-3> .
+ <http://example.org/ontology#HealthySnacks> <http://dbpedia.org/ontology/associatedWith> <http://example.org/ontology#HealthyWeight> <Obesity-euronews-3> .
+ <http://example.org/ontology#HealthySnacks> <http://dbpedia.org/ontology/associatedWith> <http://example.org/ontology#DecreasedHungerLevels> <Obesity-euronews-3> .
+ <http://example.org/ontology#BloodMarkerLevels> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/HealthIndicator> <Obesity-euronews-3> .
+ <http://example.org/ontology#ResearchFindings> <http://dbpedia.org/ontology/conclusion> <http://example.org/ontology#NegativeHealthEffects> <Obesity-euronews-3> .
+ <http://example.org/ontology#SchoolOfLifeCoursePopulationSciences> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Obesity-euronews-3> .
+ <http://example.org/ontology#UnhealthySnacking> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Activity> <Obesity-euronews-3> .
+ <http://example.org/ontology#Stroke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Disease> <Obesity-euronews-3> .
+ <http://example.org/ontology#KingsCollegeLondon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EducationalInstitution> <Obesity-euronews-3> .
+ <http://example.org/ontology#DrKateBermingham> <http://dbpedia.org/ontology/title> "Dr"  <Obesity-euronews-3> .
+ <http://example.org/ontology#Nuts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Food> <Obesity-euronews-3> .
+ <http://example.org/ontology#HealthySnacks> <http://dbpedia.org/ontology/includes> <http://example.org/ontology#Nuts> <Obesity-euronews-3> .
+ <http://example.org/ontology#UndoingHealthyMealBenefits> <http://dbpedia.org/ontology/effect> <http://example.org/ontology#IncreasedRiskOfDiseases> <Obesity-euronews-3> .
+ <http://example.org/ontology#EuropeanJournalOfNutrition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> <Obesity-euronews-3> .
+ <http://example.org/ontology#ChiefScientistAtZOE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <Obesity-euronews-3> .
+ <http://example.org/ontology#UnhealthySnacks> <http://dbpedia.org/ontology/includes> <http://example.org/ontology#Cakes> <Obesity-euronews-3> .
+ <http://example.org/ontology#Cookies> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Food> <Obesity-euronews-3> .
+ <http://example.org/ontology#MetabolicHealth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/HealthIndicator> <Obesity-euronews-3> .
+ <http://example.org/ontology#SeniorScientistAtZOE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Position> <Obesity-euronews-3> .
+ <http://example.org/ontology#DrKateBermingham> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-euronews-3> .
+ <http://example.org/ontology#HealthySnacks> <http://dbpedia.org/ontology/associatedWith> <http://example.org/ontology#MetabolicHealth> <Obesity-euronews-3> .
+ <http://example.org/ontology#Cakes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Food> <Obesity-euronews-3> .
+ <http://example.org/ontology#SnackingHabits> <http://dbpedia.org/ontology/participantCount> "854"^^<http://www.w3.org/2001/XMLSchema#integer>  <Obesity-euronews-3> .
+ <http://example.org/NovoNordiskAntiObesityDrugSalesIncrease> <http://schema.org/propertyID> "Anti-obesity drug sales increase"  <Obesity-euronews-4> .
+ <http://example.org/StatisticsDenmark> <http://xmlns.com/foaf/0.1/name> "Statistics Denmark"  <Obesity-euronews-4> .
+ <http://example.org/dbr:Novo_Nordisk> <http://dbpedia.org/ontology/year> "2023"  <Obesity-euronews-4> .
+ <http://example.org/dbr:Wegovy> <http://schema.org/manufacturer> <http://example.org/dbr:Novo_Nordisk> <Obesity-euronews-4> .
+ <http://example.org/dbr:Novo_Nordisk> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Pharmaceutical_industry> <Obesity-euronews-4> .
+ <http://example.org/dbr:Danske_Bank> <http://xmlns.com/foaf/0.1/name> "Danske Bank"  <Obesity-euronews-4> .
+ <http://example.org/JonasPetersen> <http://dbpedia.org/ontology/occupation> "Analyst"  <Obesity-euronews-4> .
+ <http://example.org/DenmarkGDP2022> <http://schema.org/propertyID> "Denmark GDP 2022"  <Obesity-euronews-4> .
+ <http://example.org/NovoNordiskSalesForecast2023> <http://schema.org/propertyID> "Novo Nordisk Sales Forecast 2023"  <Obesity-euronews-4> .
+ <http://example.org/NovoNordiskEuropeBiggestMarketCap> <http://schema.org/propertyID> "Europe's biggest market capitalisation"  <Obesity-euronews-4> .
+ <http://example.org/dbr:Novo_Nordisk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Obesity-euronews-4> .
+ <http://example.org/dbr:Wegovy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Drug> <Obesity-euronews-4> .
+ <http://example.org/DanishGDPWithoutPharma> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Denmark> <Obesity-euronews-4> .
+ <http://example.org/NovoNordiskSalesIncreaseForecast2023> <http://schema.org/unitCode> "P1Y"  <Obesity-euronews-4> .
+ <http://example.org/LasOlsen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-euronews-4> .
+ <http://example.org/DanishGDPDecreaseWithoutPharma> <http://schema.org/propertyID> "GDP decrease without pharmaceutical industry"  <Obesity-euronews-4> .
+ <http://example.org/LasOlsen> <http://schema.org/familyName> "Olsen"  <Obesity-euronews-4> .
+ <http://example.org/DanishGDPIncreasePharma> <http://schema.org/propertyID> "GDP increase with pharmaceutical industry"  <Obesity-euronews-4> .
+ <http://example.org/NovoNordiskSalesIncreaseForecast2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> <Obesity-euronews-4> .
+ <http://example.org/LVMHEuropeMarketCapPosition> <http://schema.org/endDate> "2023-08-31"^^<http://www.w3.org/2001/XMLSchema#date>  <Obesity-euronews-4> .
+ <http://example.org/LVMHEuropeMarketCapPosition> <http://schema.org/value> "LVMH"  <Obesity-euronews-4> .
+ <http://example.org/NovoNordiskAntiObesityDrugSalesIncrease> <http://schema.org/unitCode> "P1Y"  <Obesity-euronews-4> .
+ <http://example.org/dbr:Wegovy> <http://schema.org/indication> <http://dbpedia.org/resource/Obesity> <Obesity-euronews-4> .
+ <http://example.org/DanishGDPWithoutPharma> <http://dbpedia.org/ontology/year> "year-on-year"  <Obesity-euronews-4> .
+ <http://example.org/NovoNordiskEuropeBiggestMarketCap> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> <Obesity-euronews-4> .
+ <http://example.org/DanishGDPIncreasePharma> <http://schema.org/value> "1.7"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-euronews-4> .
+ <http://example.org/DanishGDPWithoutPharma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/GrossDomesticProduct> <Obesity-euronews-4> .
+ <http://example.org/dbr:Ozempic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Drug> <Obesity-euronews-4> .
+ <http://example.org/DanishGDPDecreaseWithoutPharma> <http://schema.org/unitCode> "P1Y"  <Obesity-euronews-4> .
+ <http://example.org/NykreditBank> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bank> <Obesity-euronews-4> .
+ <http://example.org/DenmarkGDP2022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> <Obesity-euronews-4> .
+ <http://example.org/PalleSorensen> <http://dbpedia.org/ontology/employer> <http://example.org/NykreditBank> <Obesity-euronews-4> .
+ <http://example.org/DanishGDPWithoutPharma> <http://dbpedia.org/ontology/timePeriod> "first six months of the year"  <Obesity-euronews-4> .
+ <http://example.org/DanishGDPDecreaseWithoutPharma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> <Obesity-euronews-4> .
+ <http://example.org/JonasPetersen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-euronews-4> .
+ <http://example.org/DanishGDPDecreaseWithoutPharma> <http://schema.org/value> "-0.3"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-euronews-4> .
+ <http://example.org/dbr:Novo_Nordisk> <http://dbpedia.org/ontology/revenue> "176950000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-euronews-4> .
+ <http://example.org/DanishGDPIncreasePharma> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> <Obesity-euronews-4> .
+ <http://example.org/LasOlsen> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/Danske_Bank> <Obesity-euronews-4> .
+ <http://example.org/dbr:Novo_Nordisk> <http://schema.org/drug> <http://dbpedia.org/resource/Ozempic> <Obesity-euronews-4> .
+ <http://example.org/DanishGDP> <http://dbpedia.org/ontology/timePeriod> "first six months of the year"  <Obesity-euronews-4> .
+ <http://example.org/dbr:Novo_Nordisk> <http://dbpedia.org/ontology/revenueIncreasePercentage> "30"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-euronews-4> .
+ <http://example.org/DanishGDP> <http://dbpedia.org/ontology/year> "year-on-year"  <Obesity-euronews-4> .
+ <http://example.org/NykreditBank> <http://xmlns.com/foaf/0.1/name> "Nykredit bank"  <Obesity-euronews-4> .
+ <http://example.org/DanishGDP> <http://dbpedia.org/ontology/increase> "1.7"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-euronews-4> .
+ <http://example.org/dbr:Novo_Nordisk> <http://xmlns.com/foaf/0.1/name> "Novo Nordisk"  <Obesity-euronews-4> .
+ <http://example.org/dbr:Danske_Bank> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Bank> <Obesity-euronews-4> .
+ <http://example.org/DanishGDP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/GrossDomesticProduct> <Obesity-euronews-4> .
+ <http://example.org/DenmarkGDP2022> <http://schema.org/value> "2832000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-euronews-4> .
+ <http://example.org/NovoNordiskSalesIncreaseForecast2023> <http://schema.org/value> "30"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-euronews-4> .
+ <http://example.org/NovoNordiskEuropeBiggestMarketCap> <http://schema.org/value> "Novo Nordisk"  <Obesity-euronews-4> .
+ <http://example.org/NovoNordiskMarketCap2023> <http://schema.org/unitCode> "MONETARY"  <Obesity-euronews-4> .
+ <http://example.org/LVMHEuropeMarketCapPosition> <http://schema.org/startDate> "2020-03-01"^^<http://www.w3.org/2001/XMLSchema#date>  <Obesity-euronews-4> .
+ <http://example.org/NovoNordiskSalesForecast2023> <http://schema.org/value> "176950000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-euronews-4> .
+ <http://example.org/PalleSorensen> <http://dbpedia.org/ontology/occupation> "Chief Economist"  <Obesity-euronews-4> .
+ <http://example.org/LasOlsen> <http://schema.org/givenName> "Las"  <Obesity-euronews-4> .
+ <http://example.org/JonasPetersen> <http://dbpedia.org/ontology/employer> <http://example.org/StatisticsDenmark> <Obesity-euronews-4> .
+ <http://example.org/NovoNordiskMarketCap2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> <Obesity-euronews-4> .
+ <http://example.org/NovoNordiskAntiObesityDrugSalesIncrease> <http://schema.org/value> "157"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-euronews-4> .
+ <http://example.org/NovoNordiskMarketCap2023> <http://schema.org/propertyID> "Novo Nordisk Market Capitalisation 2023"  <Obesity-euronews-4> .
+ <http://example.org/dbr:LVMH> <http://xmlns.com/foaf/0.1/name> "LVMH"  <Obesity-euronews-4> .
+ <http://example.org/NovoNordiskMarketCap2023> <http://schema.org/value> "2984000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-euronews-4> .
+ <http://example.org/LVMHEuropeMarketCapPosition> <http://schema.org/propertyID> "Europe Market Capitalisation Position"  <Obesity-euronews-4> .
+ <http://example.org/LasOlsen> <http://dbpedia.org/ontology/occupation> "Chief Economist"  <Obesity-euronews-4> .
+ <http://example.org/NovoNordiskSalesForecast2023> <http://schema.org/unitCode> "MONETARY"  <Obesity-euronews-4> .
+ <http://example.org/PalleSorensen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-euronews-4> .
+ <http://example.org/NovoNordiskSalesForecast2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> <Obesity-euronews-4> .
+ <http://example.org/DanishGDP> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Denmark> <Obesity-euronews-4> .
+ <http://example.org/dbr:LVMH> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Obesity-euronews-4> .
+ <http://example.org/dbr:Ozempic> <http://schema.org/manufacturer> <http://example.org/dbr:Novo_Nordisk> <Obesity-euronews-4> .
+ <http://example.org/DenmarkGDP2022> <http://schema.org/unitCode> "MONETARY"  <Obesity-euronews-4> .
+ <http://example.org/dbr:Novo_Nordisk> <http://schema.org/drug> <http://dbpedia.org/resource/Wegovy> <Obesity-euronews-4> .
+ <http://example.org/LasOlsen> <http://xmlns.com/foaf/0.1/name> "Las Olsen"  <Obesity-euronews-4> .
+ <http://example.org/DanishGDPIncreasePharma> <http://schema.org/unitCode> "P1Y"  <Obesity-euronews-4> .
+ <http://example.org/JonasPetersen> <http://xmlns.com/foaf/0.1/name> "Jonas Petersen"  <Obesity-euronews-4> .
+ <http://example.org/DanishGDPWithoutPharma> <http://dbpedia.org/ontology/decrease> "0.3"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-euronews-4> .
+ <http://example.org/NovoNordiskSalesIncreaseForecast2023> <http://schema.org/propertyID> "Novo Nordisk Sales Increase Forecast 2023"  <Obesity-euronews-4> .
+ <http://example.org/dbr:Novo_Nordisk> <http://dbpedia.org/ontology/marketCapitalisation> "2984000000000"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-euronews-4> .
+ <http://example.org/StatisticsDenmark> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Obesity-euronews-4> .
+ <http://example.org/dbr:Ozempic> <http://schema.org/indication> <http://dbpedia.org/resource/Diabetes> <Obesity-euronews-4> .
+ <http://example.org/NovoNordiskAntiObesityDrugSalesIncrease> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> <Obesity-euronews-4> .
+ <http://example.org/LVMHEuropeMarketCapPosition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> <Obesity-euronews-4> .
+ <http://example.org/PalleSorensen> <http://xmlns.com/foaf/0.1/name> "Palle Sørensen"  <Obesity-euronews-4> .
+ <http://example.org/dbr:Novo_Nordisk> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Denmark> <Obesity-euronews-4> .
+ <http://example.org/ontology#DrugShortage> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Obesity-euronews-5> .
+ <http://example.org/ontology#Wegovy> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/National_Health_Service> <Obesity-euronews-5> .
+ <http://example.org/ontology#DrugShortage> <http://dbpedia.org/ontology/cause> <http://example.org/ontology#PrescriptionSurge> <Obesity-euronews-5> .
+ <http://example.org/ontology#MedicationSuspensionBeforeSurgery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Recommendation> <Obesity-euronews-5> .
+ <http://example.org/ontology#Wegovy> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Dietary_plan> <Obesity-euronews-5> .
+ <http://example.org/ontology#UKGovernment> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/National_health_guidelines> <Obesity-euronews-5> .
+ <http://example.org/ontology#Wegovy> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/General_anaesthesia> <Obesity-euronews-5> .
+ <http://example.org/ontology#DrugShortage> <http://dbpedia.org/ontology/effect> <http://example.org/ontology#InsulinPrescriptionIncrease> <Obesity-euronews-5> .
+ <http://example.org/ontology#MedicationSuspensionBeforeSurgery> <http://dbpedia.org/ontology/concern> <http://example.org/ontology#RegurgitationRisk> <Obesity-euronews-5> .
+ <http://example.org/ontology#NovoNordisk> <http://dbpedia.org/ontology/product> <http://example.org/ontology#Wegovy> <Obesity-euronews-5> .
+ <http://example.org/ontology#Wegovy> <http://dbpedia.org/ontology/sideEffect> <http://example.org/ontology#Diarrhoea> <Obesity-euronews-5> .
+ <http://example.org/ontology#Wegovy> <http://schema.org/isAvailableIn> <http://example.org/ontology#UnitedKingdom> <Obesity-euronews-5> .
+ <http://example.org/ontology#Semaglutide> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ChemicalSubstance> <Obesity-euronews-5> .
+ <http://example.org/ontology#NICE> <http://dbpedia.org/ontology/approval> <http://example.org/ontology#Semaglutide> <Obesity-euronews-5> .
+ <http://example.org/ontology#Ozempic> <http://dbpedia.org/ontology/approval> <http://example.org/ontology#NHS> <Obesity-euronews-5> .
+ <http://example.org/ontology#DepartmentOfHealth> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Obesity> <Obesity-euronews-5> .
+ <http://example.org/ontology#Wegovy> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/United_States> <Obesity-euronews-5> .
+ <http://example.org/ontology#DiabetesUK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Charity> <Obesity-euronews-5> .
+ <http://example.org/ontology#Wegovy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Drug> <Obesity-euronews-5> .
+ <http://example.org/ontology#Wegovy> <http://dbpedia.org/ontology/activeIngredient> <http://example.org/ontology#Semaglutide> <Obesity-euronews-5> .
+ <http://example.org/ontology#DiabetesUK> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Type_2_diabetes> <Obesity-euronews-5> .
+ <http://example.org/ontology#DepartmentOfHealth> <http://dbpedia.org/ontology/programme> <http://example.org/ontology#WeightLossPilotProgramme> <Obesity-euronews-5> .
+ <http://example.org/ontology#Ozempic> <http://dbpedia.org/ontology/activeIngredient> <http://example.org/ontology#Semaglutide> <Obesity-euronews-5> .
+ <http://example.org/ontology#NHS> <http://dbpedia.org/ontology/approval> <http://example.org/ontology#Ozempic> <Obesity-euronews-5> .
+ <http://example.org/ontology#MedicationSuspensionBeforeSurgery> <http://dbpedia.org/ontology/dueTo> <http://example.org/ontology#AnecdotalReports> <Obesity-euronews-5> .
+ <http://example.org/ontology#Wegovy> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Stomach_paralysis> <Obesity-euronews-5> .
+ <http://example.org/ontology#NHS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Obesity-euronews-5> .
+ <http://example.org/ontology#DepartmentOfHealth> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/GovernmentOrganization> <Obesity-euronews-5> .
+ <http://example.org/ontology#UnitedKingdom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Country> <Obesity-euronews-5> .
+ <http://example.org/ontology#NHS> <http://schema.org/location> <http://example.org/ontology#UnitedKingdom> <Obesity-euronews-5> .
+ <http://example.org/ontology#DiabetesUK> <http://dbpedia.org/ontology/concern> <http://example.org/ontology#DrugShortage> <Obesity-euronews-5> .
+ <http://example.org/ontology#UKGovernment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/GovernmentOrganization> <Obesity-euronews-5> .
+ <http://example.org/ontology#DrugShortage> <http://dbpedia.org/ontology/effect> <http://example.org/ontology#Uncertainty> <Obesity-euronews-5> .
+ <http://example.org/ontology#NovoNordisk> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Pharmaceutical_industry> <Obesity-euronews-5> .
+ <http://example.org/ontology#DrugShortage> <http://dbpedia.org/ontology/effect> <http://example.org/ontology#Stress> <Obesity-euronews-5> .
+ <http://example.org/ontology#MedicationSuspensionBeforeSurgery> <http://dbpedia.org/ontology/concern> <http://example.org/ontology#AspirationRisk> <Obesity-euronews-5> .
+ <http://example.org/ontology#WeightLossPilotProgramme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Project> <Obesity-euronews-5> .
+ <http://example.org/ontology#Wegovy> <http://dbpedia.org/ontology/sideEffect> <http://example.org/ontology#Vomiting> <Obesity-euronews-5> .
+ <http://example.org/ontology#Ozempic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Drug> <Obesity-euronews-5> .
+ <http://example.org/ontology#Wegovy> <http://dbpedia.org/ontology/sideEffect> <http://example.org/ontology#Constipation> <Obesity-euronews-5> .
+ <http://example.org/ontology#Wegovy> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Canada> <Obesity-euronews-5> .
+ <http://example.org/ontology#NovoNordisk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Obesity-euronews-5> .
+ <http://example.org/ontology#Semaglutide> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Antidiabetic_drug> <Obesity-euronews-5> .
+ <http://example.org/ontology#Wegovy> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Weight_loss_drug> <Obesity-euronews-5> .
+ <http://example.org/ontology#Wegovy> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Exercise> <Obesity-euronews-5> .
+ <http://example.org/ontology#WeightLossPilotProgramme> <http://dbpedia.org/ontology/duration> "2 years"^^<http://www.w3.org/2001/XMLSchema#string>  <Obesity-euronews-5> .
+ <http://example.org/ontology#Wegovy> <http://dbpedia.org/ontology/sideEffect> <http://example.org/ontology#Nausea> <Obesity-euronews-5> .
+ <http://example.org/ontology#AmericanSocietyOfAnesthesiologists> <http://dbpedia.org/ontology/suggestion> <http://example.org/ontology#MedicationSuspensionBeforeSurgery> <Obesity-euronews-5> .
+ <http://example.org/ontology#Wegovy> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Deep_sedation> <Obesity-euronews-5> .
+ <http://example.org/ontology#Wegovy> <http://dbpedia.org/ontology/manufacturer> <http://example.org/ontology#NovoNordisk> <Obesity-euronews-5> .
+ <http://example.org/ontology#NICE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Obesity-euronews-5> .
+ <http://example.org/ontology#NovoNordisk> <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/Denmark> <Obesity-euronews-5> .
+ <http://example.org/ontology#Wegovy> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Private_healthcare> <Obesity-euronews-5> .
+ <http://example.org/ontology#AmericanSocietyOfAnesthesiologists> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Obesity-euronews-5> .
+ <http://example.org/ontology#GLP1Drugs> <http://example.org/ontology#association> <http://example.org/americanPharmacistsAssociation#association> <Obesity-euronews-6> .
+ <http://example.org/ontology#GLP1Drugs> <http://example.org/ontology#longTermMonitoringNeeded> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <Obesity-euronews-6> .
+ <http://example.org/euronews#article> <http://example.org/ontology#mentions> <http://example.org/eliLilly#company> <Obesity-euronews-6> .
+ <http://Obesity-euronews-6.com/blank#n20c49c1ca9a54ac08026bb1c2bbbf198b6> <http://example.org/ontology#condition> <http://example.org/ontology#CardiovascularAccidents> <Obesity-euronews-6> .
+ <http://example.org/ontology#Obesity> <http://example.org/ontology#causes> <http://example.org/ontology#Lifestyle> <Obesity-euronews-6> .
+ <http://Obesity-euronews-6.com/blank#n20c49c1ca9a54ac08026bb1c2bbbf198b3> <http://example.org/ontology#amount> "4"^^<http://www.w3.org/2001/XMLSchema#trillion>  <Obesity-euronews-6> .
+ <http://Obesity-euronews-6.com/blank#n20c49c1ca9a54ac08026bb1c2bbbf198b4> <http://example.org/ontology#timeframe> <http://example.org/ontology#SecondQuarter> <Obesity-euronews-6> .
+ <http://example.org/ontology#NewClassOfDrugs> <http://example.org/ontology#effectiveAgainst> <http://example.org/ontology#Diabetes> <Obesity-euronews-6> .
+ <http://example.org/euronews#article> <http://example.org/ontology#topic> <http://example.org/ontology#ObesityTreatment> <Obesity-euronews-6> .
+ <http://Obesity-euronews-6.com/blank#n20c49c1ca9a54ac08026bb1c2bbbf198b1> <http://example.org/ontology#condition> <http://Obesity-euronews-6.com/blank#n20c49c1ca9a54ac08026bb1c2bbbf198b2>  <Obesity-euronews-6> .
+ <http://example.org/euronews#article> <http://example.org/ontology#mentions> <http://example.org/americanPharmacistsAssociation#association> <Obesity-euronews-6> .
+ <http://example.org/ontology#MounjaroDrug> <http://example.org/ontology#marketedAs> <http://example.org/ontology#AntiDiabetesDrug> <Obesity-euronews-6> .
+ <http://example.org/euronews#article> <http://example.org/ontology#mentions> <http://example.org/novoNordisk#company> <Obesity-euronews-6> .
+ <http://example.org/ontology#MounjaroDrug> <http://example.org/ontology#alsoHelps> <http://example.org/ontology#WeightLoss> <Obesity-euronews-6> .
+ <http://Obesity-euronews-6.com/blank#n20c49c1ca9a54ac08026bb1c2bbbf198b8> <http://example.org/ontology#byYear> "2030"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Obesity-euronews-6> .
+ <http://example.org/novoNordisk#company> <http://example.org/ontology#develops> <http://example.org/ontology#WegovyDrug> <Obesity-euronews-6> .
+ <http://example.org/novoNordisk#company> <http://example.org/ontology#hasSalesIncrease> <http://example.org/ontology#Quadrupled> <Obesity-euronews-6> .
+ <http://example.org/ontology#WegovyDrug> <http://example.org/ontology#reducesRisk> <http://Obesity-euronews-6.com/blank#n20c49c1ca9a54ac08026bb1c2bbbf198b6>  <Obesity-euronews-6> .
+ <http://example.org/ontology#Obesity> <http://example.org/ontology#causes> <http://example.org/ontology#Genetics> <Obesity-euronews-6> .
+ <http://Obesity-euronews-6.com/blank#n20c49c1ca9a54ac08026bb1c2bbbf198b3> <http://example.org/ontology#frequency> <http://example.org/ontology#PerYear> <Obesity-euronews-6> .
+ <http://example.org/eliLilly#company> <http://example.org/ontology#hasSales> <http://Obesity-euronews-6.com/blank#n20c49c1ca9a54ac08026bb1c2bbbf198b4>  <Obesity-euronews-6> .
+ <http://example.org/ontology#NewClassOfDrugs> <http://example.org/ontology#fewerSevereSideEffects> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <Obesity-euronews-6> .
+ <http://Obesity-euronews-6.com/blank#n20c49c1ca9a54ac08026bb1c2bbbf198b4> <http://example.org/ontology#amount> "1"^^<http://www.w3.org/2001/XMLSchema#billion>  <Obesity-euronews-6> .
+ <http://example.org/eliLilly#company> <http://example.org/ontology#develops> <http://example.org/ontology#MounjaroDrug> <Obesity-euronews-6> .
+ <http://example.org/novoNordisk#company> <http://example.org/ontology#timeframe> <http://example.org/ontology#SecondQuarter> <Obesity-euronews-6> .
+ <http://example.org/ontology#AntiObesityDrugs> <http://example.org/ontology#secretedBy> <http://example.org/ontology#Intestines> <Obesity-euronews-6> .
+ <http://example.org/ontology#MounjaroDrug> <http://example.org/ontology#equivalentTo> <http://example.org/ontology#BariatricSurgery> <Obesity-euronews-6> .
+ <http://Obesity-euronews-6.com/blank#n20c49c1ca9a54ac08026bb1c2bbbf198b2> <http://example.org/ontology#healthStatus> <http://example.org/ontology#OverweightOrObese> <Obesity-euronews-6> .
+ <http://Obesity-euronews-6.com/blank#n20c49c1ca9a54ac08026bb1c2bbbf198b5> <http://example.org/ontology#adultObesityPercentage> "40"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-euronews-6> .
+ <http://example.org/ontology#AntiObesityDrugs> <http://example.org/ontology#mimicHormone> <http://example.org/ontology#GLP1> <Obesity-euronews-6> .
+ <http://example.org/novoNordisk#company> <http://example.org/ontology#clinicalTrials> <http://example.org/ontology#OralPillFormulation> <Obesity-euronews-6> .
+ <http://example.org/worldobesityfederation#organization> <http://example.org/ontology#predicts> <http://Obesity-euronews-6.com/blank#n20c49c1ca9a54ac08026bb1c2bbbf198b1>  <Obesity-euronews-6> .
+ <http://example.org/ontology#NewClassOfDrugs> <http://example.org/ontology#designedToTreat> <http://example.org/ontology#Obesity> <Obesity-euronews-6> .
+ <http://example.org/ontology#MounjaroDrug> <http://example.org/ontology#analyst> <http://example.org/ontology#AkashPatel> <Obesity-euronews-6> .
+ <http://example.org/morganStanley#company> <http://example.org/ontology#estimates> <http://Obesity-euronews-6.com/blank#n20c49c1ca9a54ac08026bb1c2bbbf198b7>  <Obesity-euronews-6> .
+ <http://example.org/euronews#article> <http://example.org/ontology#mentions> <http://example.org/worldobesityfederation#organization> <Obesity-euronews-6> .
+ <http://example.org/ontology#NewClassOfDrugs> <http://example.org/ontology#leadsTo> <http://example.org/ontology#SignificantWeightLoss> <Obesity-euronews-6> .
+ <http://Obesity-euronews-6.com/blank#n20c49c1ca9a54ac08026bb1c2bbbf198b1> <http://example.org/ontology#byYear> "2035"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Obesity-euronews-6> .
+ <http://Obesity-euronews-6.com/blank#n20c49c1ca9a54ac08026bb1c2bbbf198b8> <http://example.org/ontology#currency> <http://example.org/ontology#EUR> <Obesity-euronews-6> .
+ <http://example.org/ontology#GLP1Drugs> <http://example.org/ontology#barrier> <http://example.org/ontology#Cost> <Obesity-euronews-6> .
+ <http://Obesity-euronews-6.com/blank#n20c49c1ca9a54ac08026bb1c2bbbf198b3> <http://example.org/ontology#currency> <http://example.org/ontology#USD> <Obesity-euronews-6> .
+ <http://Obesity-euronews-6.com/blank#n20c49c1ca9a54ac08026bb1c2bbbf198b7> <http://example.org/ontology#marketValue> <http://Obesity-euronews-6.com/blank#n20c49c1ca9a54ac08026bb1c2bbbf198b8>  <Obesity-euronews-6> .
+ <http://example.org/ontology#Obesity> <http://example.org/ontology#isRiskFactorFor> <http://example.org/ontology#CertainCancers> <Obesity-euronews-6> .
+ <http://example.org/ontology#NewClassOfDrugs> <http://example.org/ontology#potentialReductionRisk> <http://example.org/ontology#CardiovascularDisease> <Obesity-euronews-6> .
+ <http://example.org/ontology#Obesity> <http://example.org/ontology#isRiskFactorFor> <http://example.org/ontology#Diabetes> <Obesity-euronews-6> .
+ <http://example.org/euronews#article> <http://example.org/ontology#topic> <http://example.org/ontology#InvestmentOpportunity> <Obesity-euronews-6> .
+ <http://Obesity-euronews-6.com/blank#n20c49c1ca9a54ac08026bb1c2bbbf198b1> <http://example.org/ontology#economicImpact> <http://Obesity-euronews-6.com/blank#n20c49c1ca9a54ac08026bb1c2bbbf198b3>  <Obesity-euronews-6> .
+ <http://example.org/euronews#article> <http://example.org/ontology#mentions> <http://example.org/morganStanley#company> <Obesity-euronews-6> .
+ <http://example.org/ontology#Obesity> <http://example.org/ontology#isRiskFactorFor> <http://example.org/ontology#CardiovascularDisease> <Obesity-euronews-6> .
+ <http://example.org/ontology#Obesity> <http://example.org/ontology#costlyFor> <http://example.org/ontology#HealthcareSystems> <Obesity-euronews-6> .
+ <http://example.org/ontology#AntiObesityDrugs> <http://example.org/ontology#signal> <http://example.org/ontology#FeelingFull> <Obesity-euronews-6> .
+ <http://example.org/euronews#article> <http://example.org/ontology#source> <http://example.org/afp#agency> <Obesity-euronews-6> .
+ <http://Obesity-euronews-6.com/blank#n20c49c1ca9a54ac08026bb1c2bbbf198b2> <http://example.org/ontology#populationPercentage> "50"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-euronews-6> .
+ <http://Obesity-euronews-6.com/blank#n20c49c1ca9a54ac08026bb1c2bbbf198b4> <http://example.org/ontology#currency> <http://example.org/ontology#USD> <Obesity-euronews-6> .
+ <http://example.org/ontology#Obesity> <http://example.org/ontology#difficultToTreat> "true"^^<http://www.w3.org/2001/XMLSchema#boolean>  <Obesity-euronews-6> .
+ <http://example.org/euronews#article> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#NewsArticle> <Obesity-euronews-6> .
+ <http://Obesity-euronews-6.com/blank#n20c49c1ca9a54ac08026bb1c2bbbf198b8> <http://example.org/ontology#amount> "49"^^<http://www.w3.org/2001/XMLSchema#billion>  <Obesity-euronews-6> .
+ <http://example.org/eliLilly#company> <http://example.org/ontology#potentialMarket> <http://Obesity-euronews-6.com/blank#n20c49c1ca9a54ac08026bb1c2bbbf198b5>  <Obesity-euronews-6> .
+ <http://Obesity-euronews-6.com/blank#n20c49c1ca9a54ac08026bb1c2bbbf198b6> <http://example.org/ontology#percentage> "20"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Obesity-euronews-6> .
+ <http://Obesity-euronews-6.com/blank#n20c49c1ca9a54ac08026bb1c2bbbf198b5> <http://example.org/ontology#location> <http://example.org/ontology#UnitedStates> <Obesity-euronews-6> .
+ <http://example.org/ontology#HumanBrain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AnatomicalStructure> <Obesity-euronews-7> .
+ <http://example.org/ontology#DecreasedSWS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalSignOrSymptom> <Obesity-euronews-7> .
+ <http://example.org/ontology#PostdoctoralResearchScientist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <Obesity-euronews-7> .
+ <http://example.org/ontology#Neurologist> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <Obesity-euronews-7> .
+ <http://example.org/ontology#MilenaPavlova> <http://dbpedia.org/ontology/occupation> <http://example.org/ontology#Neurologist> <Obesity-euronews-7> .
+ <http://example.org/ontology#JournalOfSleepResearch> <http://xmlns.com/foaf/0.1/name> "Journal of Sleep Research"  <Obesity-euronews-7> .
+ <http://example.org/ontology#DecreasedREM> <http://schema.org/name> "Decreased Rapid Eye Movement (REM) Sleep"  <Obesity-euronews-7> .
+ <http://example.org/ontology#KeltonMinor> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-euronews-7> .
+ <http://example.org/ontology#ClimateChangeImpactOnSleep> <http://dbpedia.org/ontology/temperatureIncrease> <http://example.org/ontology#GlobalSurfaceAirTemperatureRecord> <Obesity-euronews-7> .
+ <http://example.org/ontology#EuronewsNext> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Obesity-euronews-7> .
+ <http://example.org/ontology#MilenaPavlova> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/Harvard_University> <Obesity-euronews-7> .
+ <http://example.org/ontology#SleepDuringHeatwaves> <http://schema.org/associatedAnatomy> <http://example.org/ontology#HumanBrain> <Obesity-euronews-7> .
+ <http://example.org/ontology#AssociateProfessorOfNeurology> <http://schema.org/name> "Associate Professor of Neurology"  <Obesity-euronews-7> .
+ <http://example.org/ontology#JournalOfSleepResearch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AcademicJournal> <Obesity-euronews-7> .
+ <http://example.org/ontology#SleepDuringHeatwaves> <http://schema.org/signOrSymptom> <http://example.org/ontology#ImpairedTemperatureRegulationDuringSleep> <Obesity-euronews-7> .
+ <http://example.org/ontology#SleepDuringHeatwaves> <http://schema.org/signOrSymptom> <http://example.org/ontology#DecreasedSWS> <Obesity-euronews-7> .
+ <http://example.org/ontology#Heatwave> <http://schema.org/unitCode> "CEL"  <Obesity-euronews-7> .
+ <http://example.org/ontology#MilenaPavlova> <http://xmlns.com/foaf/0.1/name> "Milena Pavlova"  <Obesity-euronews-7> .
+ <http://example.org/ontology#Neurologist> <http://schema.org/name> "Neurologist"  <Obesity-euronews-7> .
+ <http://example.org/ontology#HeatwaveImpactOnSleep> <http://schema.org/author> <http://example.org/ontology#KeltonMinor> <Obesity-euronews-7> .
+ <http://example.org/ontology#GlobalSurfaceAirTemperatureRecord> <http://schema.org/description> "Highest global surface air temperature on record for any month"  <Obesity-euronews-7> .
+ <http://example.org/ontology#HeatwaveImpactOnSleep> <http://schema.org/publisher> <http://example.org/ontology#EuronewsNext> <Obesity-euronews-7> .
+ <http://example.org/ontology#ClimateChangeImpactOnSleep> <http://schema.org/name> "Climate Change Impact on Sleep"  <Obesity-euronews-7> .
+ <http://example.org/ontology#AssociateProfessorOfNeurology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Occupation> <Obesity-euronews-7> .
+ <http://example.org/ontology#ImpairedTemperatureRegulationDuringSleep> <http://schema.org/name> "Impaired Body Temperature Regulation During Sleep"  <Obesity-euronews-7> .
+ <http://example.org/ontology#HeatwaveImpactOnSleep> <http://schema.org/about> <http://example.org/ontology#SleepDuringHeatwaves> <Obesity-euronews-7> .
+ <http://example.org/ontology#EuronewsNext> <http://xmlns.com/foaf/0.1/name> "Euronews Next"  <Obesity-euronews-7> .
+ <http://example.org/ontology#SleepHygieneTips> <http://schema.org/datePublished> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Obesity-euronews-7> .
+ <http://example.org/ontology#Heatwave> <http://schema.org/name> "Heatwave"  <Obesity-euronews-7> .
+ <http://example.org/ontology#GlobalSurfaceAirTemperatureRecord> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Record> <Obesity-euronews-7> .
+ <http://example.org/ontology#Copernicus> <http://dbpedia.org/ontology/operator> <http://dbpedia.org/resource/European_Union> <Obesity-euronews-7> .
+ <http://example.org/ontology#ReducedSleepQuality> <http://schema.org/name> "Reduced Sleep Quality"  <Obesity-euronews-7> .
+ <http://example.org/ontology#Heatwave> <http://dbpedia.org/ontology/temperature> "25.0"^^<http://www.w3.org/2001/XMLSchema#float>  <Obesity-euronews-7> .
+ <http://example.org/ontology#ImpairedTemperatureRegulationDuringSleep> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalSignOrSymptom> <Obesity-euronews-7> .
+ <http://example.org/ontology#DecreasedREM> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalSignOrSymptom> <Obesity-euronews-7> .
+ <http://example.org/ontology#SleepDuringHeatwaves> <http://schema.org/signOrSymptom> <http://example.org/ontology#IncreasedWakefulness> <Obesity-euronews-7> .
+ <http://example.org/ontology#SleepDuringHeatwaves> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalCondition> <Obesity-euronews-7> .
+ <http://example.org/ontology#JournalOfSleepResearchAuthors> <http://xmlns.com/foaf/0.1/name> "Authors of the Journal of Sleep Research"  <Obesity-euronews-7> .
+ <http://example.org/ontology#SleepHygieneTips> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Obesity-euronews-7> .
+ <http://example.org/ontology#SleepHygieneTips> <http://schema.org/publisher> <http://example.org/ontology#JournalOfSleepResearch> <Obesity-euronews-7> .
+ <http://example.org/ontology#KeltonMinor> <http://dbpedia.org/ontology/occupation> <http://example.org/ontology#PostdoctoralResearchScientist> <Obesity-euronews-7> .
+ <http://example.org/ontology#RecommendedSleepingTemperature> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Temperature> <Obesity-euronews-7> .
+ <http://example.org/ontology#ClimateChangeImpactOnSleep> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Obesity-euronews-7> .
+ <http://example.org/ontology#Heatwave> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Event> <Obesity-euronews-7> .
+ <http://example.org/ontology#KeltonMinor> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/Columbia_University> <Obesity-euronews-7> .
+ <http://example.org/ontology#RecommendedSleepingTemperature> <http://dbpedia.org/ontology/maxTemperature> "20.0"^^<http://www.w3.org/2001/XMLSchema#float>  <Obesity-euronews-7> .
+ <http://example.org/ontology#SleepDuringHeatwaves> <http://schema.org/signOrSymptom> <http://example.org/ontology#DecreasedREM> <Obesity-euronews-7> .
+ <http://example.org/ontology#IncreasedWakefulness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalSignOrSymptom> <Obesity-euronews-7> .
+ <http://example.org/ontology#HeatwaveImpactOnSleep> <http://schema.org/author> <http://example.org/ontology#MilenaPavlova> <Obesity-euronews-7> .
+ <http://example.org/ontology#MilenaPavlova> <http://dbpedia.org/ontology/occupation> <http://example.org/ontology#AssociateProfessorOfNeurology> <Obesity-euronews-7> .
+ <http://example.org/ontology#HeatwaveImpactOnSleep> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> <Obesity-euronews-7> .
+ <http://example.org/ontology#ReducedSleepQuality> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalSignOrSymptom> <Obesity-euronews-7> .
+ <http://example.org/ontology#MilenaPavlova> <http://dbpedia.org/ontology/employer> <http://dbpedia.org/resource/Brigham_and_Women's_Hospital> <Obesity-euronews-7> .
+ <http://example.org/ontology#MilenaPavlova> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-euronews-7> .
+ <http://example.org/ontology#HeatwaveImpactOnSleep> <http://schema.org/datePublished> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Obesity-euronews-7> .
+ <http://example.org/ontology#Copernicus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Project> <Obesity-euronews-7> .
+ <http://example.org/ontology#RecommendedSleepingTemperature> <http://schema.org/unitCode> "CEL"  <Obesity-euronews-7> .
+ <http://example.org/ontology#DecreasedSWS> <http://schema.org/name> "Decreased Slow Wave Sleep (SWS)"  <Obesity-euronews-7> .
+ <http://example.org/ontology#SleepDuringHeatwaves> <http://schema.org/cause> <http://example.org/ontology#Heatwave> <Obesity-euronews-7> .
+ <http://example.org/ontology#KeltonMinor> <http://xmlns.com/foaf/0.1/title> "Dr."  <Obesity-euronews-7> .
+ <http://example.org/ontology#MilenaPavlova> <http://xmlns.com/foaf/0.1/title> "Dr."  <Obesity-euronews-7> .
+ <http://example.org/ontology#SleepDuringHeatwaves> <http://schema.org/signOrSymptom> <http://example.org/ontology#ReducedSleepQuality> <Obesity-euronews-7> .
+ <http://example.org/ontology#HumanBrain> <http://schema.org/name> "Human Brain"  <Obesity-euronews-7> .
+ <http://example.org/ontology#IncreasedWakefulness> <http://schema.org/name> "Increased Wakefulness"  <Obesity-euronews-7> .
+ <http://example.org/ontology#RecommendedSleepingTemperature> <http://dbpedia.org/ontology/minTemperature> "15.0"^^<http://www.w3.org/2001/XMLSchema#float>  <Obesity-euronews-7> .
+ <http://example.org/ontology#JournalOfSleepResearchAuthors> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> <Obesity-euronews-7> .
+ <http://example.org/ontology#Copernicus> <http://xmlns.com/foaf/0.1/name> "Copernicus"  <Obesity-euronews-7> .
+ <http://example.org/ontology#PostdoctoralResearchScientist> <http://schema.org/name> "Postdoctoral Research Scientist"  <Obesity-euronews-7> .
+ <http://example.org/ontology#GlobalSurfaceAirTemperatureRecord> <http://schema.org/startDate> "2023-07"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Obesity-euronews-7> .
+ <http://example.org/ontology#KeltonMinor> <http://xmlns.com/foaf/0.1/name> "Kelton Minor"  <Obesity-euronews-7> .
+ <http://example.org/ontology#SleepHygieneTips> <http://schema.org/author> <http://example.org/ontology#JournalOfSleepResearchAuthors> <Obesity-euronews-7> .
+ <http://Obesity-euronews-8.com/blank#n74e338f38cfc4ab0bd220b32fb1ee7e0b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Result> <Obesity-euronews-8> .
+ <http://Obesity-euronews-8.com/blank#n74e338f38cfc4ab0bd220b32fb1ee7e0b2> <http://dbpedia.org/ontology/title> "American Society of Clinical Oncology guidelines on exercise during cancer treatment"  <Obesity-euronews-8> .
+ <http://Obesity-euronews-8.com/blank#n74e338f38cfc4ab0bd220b32fb1ee7e0b5> <http://dbpedia.org/ontology/testType> "Height, Weight, Blood Pressure, Muscular Strength, Cardiorespiratory Fitness"  <Obesity-euronews-8> .
+ <http://Obesity-euronews-8.com/blank#n74e338f38cfc4ab0bd220b32fb1ee7e0b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Contraindication> <Obesity-euronews-8> .
+ <http://example.org/ontology#CardiorespiratoryFitness> <http://www.w3.org/2000/01/rdf-schema#comment> "Ability to do aerobic exercise such as running, cycling and swimming for extended periods of time due to healthy heart and lung capacity."  <Obesity-euronews-8> .
+ <http://example.org/ontology#AssociationBetweenFitnessAndCancer> <http://dbpedia.org/ontology/numberOfCases> "84117"^^<http://www.w3.org/2001/XMLSchema#integer>  <Obesity-euronews-8> .
+ <http://example.org/ontology#ModerateCardiorespiratoryFitness> <http://www.w3.org/2000/01/rdf-schema#label> "Moderate level of cardiorespiratory fitness"  <Obesity-euronews-8> .
+ <http://example.org/ontology#AssociationBetweenFitnessAndCancer> <http://dbpedia.org/ontology/result> <http://Obesity-euronews-8.com/blank#n74e338f38cfc4ab0bd220b32fb1ee7e0b6>  <Obesity-euronews-8> .
+ <http://Obesity-euronews-8.com/blank#n74e338f38cfc4ab0bd220b32fb1ee7e0b1> <http://xmlns.com/foaf/0.1/name> "Unnamed Researchers"  <Obesity-euronews-8> .
+ <http://Obesity-euronews-8.com/blank#n74e338f38cfc4ab0bd220b32fb1ee7e0b8> <http://dbpedia.org/ontology/associatedWith> "31 per cent higher risk of skin cancer"^^<http://www.w3.org/2001/XMLSchema#string>  <Obesity-euronews-8> .
+ <http://example.org/ontology#CardiorespiratoryFitness> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Aerobic_exercise> <Obesity-euronews-8> .
+ <http://Obesity-euronews-8.com/blank#n74e338f38cfc4ab0bd220b32fb1ee7e0b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Test> <Obesity-euronews-8> .
+ <http://Obesity-euronews-8.com/blank#n74e338f38cfc4ab0bd220b32fb1ee7e0b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Test> <Obesity-euronews-8> .
+ <http://example.org/ontology#ModerateCardiorespiratoryFitness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Trait> <Obesity-euronews-8> .
+ <http://example.org/ontology#CancerRiskReduction> <http://www.w3.org/2000/01/rdf-schema#label> "Lower risk of developing specific types of cancer"  <Obesity-euronews-8> .
+ <http://example.org/ontology#Study> <http://dbpedia.org/ontology/journal> <http://dbpedia.org/resource/British_Journal_of_Sports_Medicine> <Obesity-euronews-8> .
+ <http://example.org/ontology#CancerRisk> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Disease> <Obesity-euronews-8> .
+ <http://example.org/ontology#Study> <http://dbpedia.org/ontology/issueDate> "2023-03-28"^^<http://www.w3.org/2001/XMLSchema#date>  <Obesity-euronews-8> .
+ <http://example.org/ontology#CardiorespiratoryFitness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Trait> <Obesity-euronews-8> .
+ <http://example.org/ontology#ModerateFitnessGroup> <http://dbpedia.org/ontology/numberOfParticipants> "519652"^^<http://www.w3.org/2001/XMLSchema#integer>  <Obesity-euronews-8> .
+ <http://example.org/ontology#PublicHealthPolicy> <http://www.w3.org/2000/01/rdf-schema#label> "Public health policymaking"  <Obesity-euronews-8> .
+ <http://example.org/ontology#CancerRisk> <http://www.w3.org/2000/01/rdf-schema#label> "Risk of developing cancer"  <Obesity-euronews-8> .
+ <http://example.org/ontology#Study> <http://dbpedia.org/ontology/title> "Association between cardiorespiratory fitness and cancer risk"  <Obesity-euronews-8> .
+ <http://example.org/ontology#CancerRiskReduction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Disease> <Obesity-euronews-8> .
+ <http://example.org/ontology#LowFitnessGroup> <http://dbpedia.org/ontology/characteristic> <http://example.org/ontology#LowCardiorespiratoryFitness> <Obesity-euronews-8> .
+ <http://Obesity-euronews-8.com/blank#n74e338f38cfc4ab0bd220b32fb1ee7e0b3> <http://dbpedia.org/ontology/ageGroup> "16-25"^^<http://www.w3.org/2001/XMLSchema#string>  <Obesity-euronews-8> .
+ <http://example.org/ontology#AssociationBetweenFitnessAndCancer> <http://dbpedia.org/ontology/analysisOf> <http://example.org/ontology#SwedishMilitaryConscripts> <Obesity-euronews-8> .
+ <http://example.org/ontology#CardiorespiratoryFitness> <http://www.w3.org/2000/01/rdf-schema#label> "Good cardiorespiratory fitness"  <Obesity-euronews-8> .
+ <http://example.org/ontology#CancerRiskReduction> <http://dbpedia.org/ontology/contraindication> <http://Obesity-euronews-8.com/blank#n74e338f38cfc4ab0bd220b32fb1ee7e0b8>  <Obesity-euronews-8> .
+ <http://example.org/ontology#Study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/AcademicJournalArticle> <Obesity-euronews-8> .
+ <http://example.org/ontology#CardiorespiratoryFitnessTestResults> <http://dbpedia.org/ontology/includesTest> <http://Obesity-euronews-8.com/blank#n74e338f38cfc4ab0bd220b32fb1ee7e0b5>  <Obesity-euronews-8> .
+ <http://example.org/ontology#HighCardiorespiratoryFitness> <http://www.w3.org/2000/01/rdf-schema#label> "High level of cardiorespiratory fitness"  <Obesity-euronews-8> .
+ <http://example.org/ontology#CancerRisk> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Cancer> <Obesity-euronews-8> .
+ <http://example.org/ontology#ModerateFitnessGroup> <http://dbpedia.org/ontology/characteristic> <http://example.org/ontology#ModerateCardiorespiratoryFitness> <Obesity-euronews-8> .
+ <http://example.org/ontology#SwedishMilitaryConscripts> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Population> <Obesity-euronews-8> .
+ <http://example.org/ontology#SwedishMilitaryConscripts> <http://dbpedia.org/ontology/demographics> <http://Obesity-euronews-8.com/blank#n74e338f38cfc4ab0bd220b32fb1ee7e0b3>  <Obesity-euronews-8> .
+ <http://example.org/ontology#PublicHealthPolicy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Concept> <Obesity-euronews-8> .
+ <http://example.org/ontology#SwedishMilitaryConscripts> <http://dbpedia.org/ontology/test> <http://Obesity-euronews-8.com/blank#n74e338f38cfc4ab0bd220b32fb1ee7e0b4>  <Obesity-euronews-8> .
+ <http://example.org/ontology#SwedishMilitaryConscripts> <http://dbpedia.org/ontology/numberOfParticipants> "1007800"^^<http://www.w3.org/2001/XMLSchema#integer>  <Obesity-euronews-8> .
+ <http://example.org/ontology#CardiorespiratoryFitnessTestResults> <http://dbpedia.org/ontology/measurementTechnique> "Standard physical tests"  <Obesity-euronews-8> .
+ <http://example.org/ontology#AssociationBetweenFitnessAndCancer> <http://dbpedia.org/ontology/analysisOf> <http://example.org/ontology#CardiorespiratoryFitness> <Obesity-euronews-8> .
+ <http://Obesity-euronews-8.com/blank#n74e338f38cfc4ab0bd220b32fb1ee7e0b3> <http://dbpedia.org/ontology/gender> <http://dbpedia.org/resource/Male> <Obesity-euronews-8> .
+ <http://example.org/ontology#HighCardiorespiratoryFitness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Trait> <Obesity-euronews-8> .
+ <http://Obesity-euronews-8.com/blank#n74e338f38cfc4ab0bd220b32fb1ee7e0b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Incidence> <Obesity-euronews-8> .
+ <http://example.org/ontology#HighFitnessGroup> <http://dbpedia.org/ontology/characteristic> <http://example.org/ontology#HighCardiorespiratoryFitness> <Obesity-euronews-8> .
+ <http://example.org/ontology#CancerRiskReduction> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Cancer_prevention> <Obesity-euronews-8> .
+ <http://Obesity-euronews-8.com/blank#n74e338f38cfc4ab0bd220b32fb1ee7e0b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Obesity-euronews-8> .
+ <http://example.org/ontology#SwedishMilitaryConscripts> <http://dbpedia.org/ontology/period> "1968-2005"^^<http://www.w3.org/2001/XMLSchema#string>  <Obesity-euronews-8> .
+ <http://Obesity-euronews-8.com/blank#n74e338f38cfc4ab0bd220b32fb1ee7e0b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/ScientificLiterature> <Obesity-euronews-8> .
+ <http://example.org/ontology#HighFitnessGroup> <http://dbpedia.org/ontology/numberOfParticipants> "340952"^^<http://www.w3.org/2001/XMLSchema#integer>  <Obesity-euronews-8> .
+ <http://example.org/ontology#Study> <http://dbpedia.org/ontology/subject> <http://example.org/ontology#CardiorespiratoryFitness> <Obesity-euronews-8> .
+ <http://example.org/ontology#CancerRiskReduction> <http://dbpedia.org/ontology/incidence> <http://Obesity-euronews-8.com/blank#n74e338f38cfc4ab0bd220b32fb1ee7e0b7>  <Obesity-euronews-8> .
+ <http://Obesity-euronews-8.com/blank#n74e338f38cfc4ab0bd220b32fb1ee7e0b4> <http://dbpedia.org/ontology/outcome> <http://example.org/ontology#CardiorespiratoryFitnessTestResults> <Obesity-euronews-8> .
+ <http://example.org/ontology#HighCardiorespiratoryFitness> <http://dbpedia.org/ontology/associatedDisease> <http://example.org/ontology#CancerRiskReduction> <Obesity-euronews-8> .
+ <http://example.org/ontology#CardiorespiratoryFitnessTestResults> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Result> <Obesity-euronews-8> .
+ <http://Obesity-euronews-8.com/blank#n74e338f38cfc4ab0bd220b32fb1ee7e0b6> <http://dbpedia.org/ontology/outcome> "Higher cardiorespiratory fitness linearly associated with lower risk of developing specific types of cancer."  <Obesity-euronews-8> .
+ <http://example.org/ontology#PublicHealthPolicy> <http://dbpedia.org/ontology/wikiPageWikiLink> <http://dbpedia.org/resource/Public_health> <Obesity-euronews-8> .
+ <http://example.org/ontology#ModerateFitnessGroup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Group> <Obesity-euronews-8> .
+ <http://example.org/ontology#LowCardiorespiratoryFitness> <http://www.w3.org/2000/01/rdf-schema#label> "Low level of cardiorespiratory fitness"  <Obesity-euronews-8> .
+ <http://example.org/ontology#AssociationBetweenFitnessAndCancer> <http://dbpedia.org/ontology/averageMonitoringPeriod> "33"^^<http://www.w3.org/2001/XMLSchema#integer>  <Obesity-euronews-8> .
+ <http://example.org/ontology#Study> <http://dbpedia.org/ontology/author> <http://Obesity-euronews-8.com/blank#n74e338f38cfc4ab0bd220b32fb1ee7e0b1>  <Obesity-euronews-8> .
+ <http://example.org/ontology#LowFitnessGroup> <http://dbpedia.org/ontology/numberOfParticipants> "365874"^^<http://www.w3.org/2001/XMLSchema#integer>  <Obesity-euronews-8> .
+ <http://example.org/ontology#Study> <http://dbpedia.org/ontology/abstract> "Analysis of data from more than a million men revealed a strong association between good cardiorespiratory fitness and lower risk of developing cancer."  <Obesity-euronews-8> .
+ <http://example.org/ontology#AssociationBetweenFitnessAndCancer> <http://dbpedia.org/ontology/analysisOf> <http://example.org/ontology#CancerRisk> <Obesity-euronews-8> .
+ <http://example.org/ontology#Study> <http://dbpedia.org/ontology/citation> <http://Obesity-euronews-8.com/blank#n74e338f38cfc4ab0bd220b32fb1ee7e0b2>  <Obesity-euronews-8> .
+ <http://example.org/ontology#HighFitnessGroup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Group> <Obesity-euronews-8> .
+ <http://example.org/ontology#LowFitnessGroup> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Group> <Obesity-euronews-8> .
+ <http://example.org/ontology#Study> <http://dbpedia.org/ontology/subject> <http://example.org/ontology#CancerRisk> <Obesity-euronews-8> .
+ <http://example.org/ontology#LowCardiorespiratoryFitness> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Trait> <Obesity-euronews-8> .
+ <http://Obesity-euronews-8.com/blank#n74e338f38cfc4ab0bd220b32fb1ee7e0b7> <http://dbpedia.org/ontology/rate> "39 per cent lower risk of oesophagus cancer, 40 per cent lower risk of liver cancer, 42 per cent lower risk of lung cancer"^^<http://www.w3.org/2001/XMLSchema#string>  <Obesity-euronews-8> .
+ <http://example.org/ontology#AssociationBetweenFitnessAndCancer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/StatisticalAnalysis> <Obesity-euronews-8> .
+ <http://example.org/AllianceToEndPlasticWaste> <http://dbpedia.org/ontology/member> <http://example.org/Shell> <Obesity-euronews-9> .
+ <http://example.org/BP> <http://dbpedia.org/ontology/accusation> <http://example.org/Greenshifting> <Obesity-euronews-9> .
+ <http://example.org/GlobalOrganicTextileStandard> <http://www.w3.org/2000/01/rdf-schema#comment> "A trusted eco label for textiles that have proven their climate-friendly credentials."  <Obesity-euronews-9> .
+ <http://example.org/NordicSwanEcolabel> <http://www.w3.org/2000/01/rdf-schema#comment> "The Nordic eco label for products that have proven their climate-friendly credentials."  <Obesity-euronews-9> .
+ <http://example.org/BlueAngel> <http://www.w3.org/2000/01/rdf-schema#comment> "The German eco label for products that have proven their climate-friendly credentials."  <Obesity-euronews-9> .
+ <http://example.org/Greenlabelling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Concept> <Obesity-euronews-9> .
+ <http://example.org/Ryanair> <http://dbpedia.org/ontology/accusation> <http://example.org/Greenwashing> <Obesity-euronews-9> .
+ <http://example.org/Greenshifting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Concept> <Obesity-euronews-9> .
+ <http://example.org/BlueAngel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Brand> <Obesity-euronews-9> .
+ <http://example.org/Greenlighting> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Concept> <Obesity-euronews-9> .
+ <http://example.org/Toyota> <http://dbpedia.org/ontology/accusation> <http://example.org/Greenlighting> <Obesity-euronews-9> .
+ <http://example.org/BP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> <Obesity-euronews-9> .
+ <http://example.org/CocaCola> <http://dbpedia.org/ontology/accusation> <http://example.org/Greenrinsing> <Obesity-euronews-9> .
+ <http://example.org/AustrianEcolabel> <http://www.w3.org/2000/01/rdf-schema#comment> "The Austrian eco label for products that have proven their climate-friendly credentials."  <Obesity-euronews-9> .
+ <http://example.org/EU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Obesity-euronews-9> .
+ <http://example.org/NordicSwanEcolabel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Brand> <Obesity-euronews-9> .
+ <http://example.org/EUEcolabel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Brand> <Obesity-euronews-9> .
+ <http://example.org/Greenlighting> <http://www.w3.org/2000/01/rdf-schema#comment> "Greenlighting is when a company spotlights a particularly green feature of its operations or products to draw attention away from environmentally damaging activities being conducted elsewhere."  <Obesity-euronews-9> .
+ <http://example.org/FairTrade> <http://www.w3.org/2000/01/rdf-schema#comment> "A trusted eco label that can only be used on products that have proven their climate-friendly credentials."  <Obesity-euronews-9> .
+ <http://example.org/EUEcolabel> <http://www.w3.org/2000/01/rdf-schema#comment> "A trusted eco label that can only be used on products that have proven their climate-friendly credentials within the EU."  <Obesity-euronews-9> .
+ <http://example.org/Ryanair> <http://purl.org/goodrelations/v1#legalName> "Ryanair DAC"  <Obesity-euronews-9> .
+ <http://example.org/PlanetTracker> <http://xmlns.com/foaf/0.1/name> "Planet Tracker"  <Obesity-euronews-9> .
+ <http://example.org/Greenrinsing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Concept> <Obesity-euronews-9> .
+ <http://example.org/AllianceToEndPlasticWaste> <http://dbpedia.org/ontology/member> <http://example.org/ExxonMobil> <Obesity-euronews-9> .
+ <http://example.org/GlobalOrganicTextileStandard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Brand> <Obesity-euronews-9> .
+ <http://example.org/Shell> <http://dbpedia.org/ontology/accusation> <http://example.org/Greenwashing> <Obesity-euronews-9> .
+ <http://example.org/Shell> <http://purl.org/goodrelations/v1#legalName> "Royal Dutch Shell plc"  <Obesity-euronews-9> .
+ <http://example.org/CocaCola> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> <Obesity-euronews-9> .
+ <http://example.org/Shell> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/ontology/PetroleumIndustry> <Obesity-euronews-9> .
+ <http://example.org/Greenlabelling> <http://www.w3.org/2000/01/rdf-schema#label> "Greenlabelling"  <Obesity-euronews-9> .
+ <http://example.org/BlueAngel> <http://www.w3.org/2000/01/rdf-schema#label> "Blue Angel"  <Obesity-euronews-9> .
+ <http://example.org/Toyota> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> <Obesity-euronews-9> .
+ <http://example.org/HSBC> <http://dbpedia.org/ontology/accusation> <http://example.org/Greenhushing> <Obesity-euronews-9> .
+ <http://example.org/Persil> <http://dbpedia.org/ontology/accusation> <http://example.org/Greenlabelling> <Obesity-euronews-9> .
+ <http://example.org/AllianceToEndPlasticWaste> <http://dbpedia.org/ontology/member> <http://example.org/SealedAir> <Obesity-euronews-9> .
+ <http://example.org/EU_LawAgainstMisleadingGreenClaims> <http://dbpedia.org/ontology/aim> "To address the problem of greenwashing and protect consumers."  <Obesity-euronews-9> .
+ <http://example.org/Greencrowding> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Concept> <Obesity-euronews-9> .
+ <http://example.org/NordicSwanEcolabel> <http://www.w3.org/2000/01/rdf-schema#label> "Nordic Swan Ecolabel"  <Obesity-euronews-9> .
+ <http://example.org/Toyota> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/ontology/AutomobileIndustry> <Obesity-euronews-9> .
+ <http://example.org/AllianceToEndPlasticWaste> <http://dbpedia.org/ontology/member> <http://example.org/PepsiCo> <Obesity-euronews-9> .
+ <http://example.org/Greenhushing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Concept> <Obesity-euronews-9> .
+ <http://example.org/HSBC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> <Obesity-euronews-9> .
+ <http://example.org/Greenlabelling> <http://www.w3.org/2000/01/rdf-schema#comment> "Greenlabelling is a practice where marketers call something green or sustainable, but closer examination reveals this to be misleading."  <Obesity-euronews-9> .
+ <http://example.org/AllianceToEndPlasticWaste> <http://xmlns.com/foaf/0.1/name> "Alliance to End Plastic Waste"  <Obesity-euronews-9> .
+ <http://example.org/PlanetTracker> <http://dbpedia.org/ontology/product> <http://example.org/GreenwashingVocabulary> <Obesity-euronews-9> .
+ <http://example.org/Toyota> <http://purl.org/goodrelations/v1#legalName> "Toyota Motor Corporation"  <Obesity-euronews-9> .
+ <http://example.org/Greencrowding> <http://www.w3.org/2000/01/rdf-schema#label> "Greencrowding"  <Obesity-euronews-9> .
+ <http://example.org/EU_LawAgainstMisleadingGreenClaims> <http://www.w3.org/2000/01/rdf-schema#label> "EU law against misleading or unverified green claims"  <Obesity-euronews-9> .
+ <http://example.org/PlanetTracker> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Obesity-euronews-9> .
+ <http://example.org/Greenhushing> <http://www.w3.org/2000/01/rdf-schema#comment> "Greenhushing is when organisations deliberately choose to under-report or hide their green or ESG credentials from public view to evade scrutiny."  <Obesity-euronews-9> .
+ <http://example.org/AllianceToEndPlasticWaste> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Obesity-euronews-9> .
+ <http://example.org/AllianceToEndPlasticWaste> <http://dbpedia.org/ontology/accusation> <http://example.org/Greencrowding> <Obesity-euronews-9> .
+ <http://example.org/FairTrade> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Brand> <Obesity-euronews-9> .
+ <http://example.org/GlobalOrganicTextileStandard> <http://www.w3.org/2000/01/rdf-schema#label> "Global Organic Textile Standard"  <Obesity-euronews-9> .
+ <http://example.org/EUEcolabel> <http://www.w3.org/2000/01/rdf-schema#label> "EU Ecolabel"  <Obesity-euronews-9> .
+ <http://example.org/HSBC> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/ontology/Banking> <Obesity-euronews-9> .
+ <http://example.org/Shell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> <Obesity-euronews-9> .
+ <http://example.org/Greenhushing> <http://www.w3.org/2000/01/rdf-schema#label> "Greenhushing"  <Obesity-euronews-9> .
+ <http://example.org/Greenrinsing> <http://www.w3.org/2000/01/rdf-schema#label> "Greenrinsing"  <Obesity-euronews-9> .
+ <http://example.org/AustrianEcolabel> <http://www.w3.org/2000/01/rdf-schema#label> "Austrian Ecolabel"  <Obesity-euronews-9> .
+ <http://example.org/Persil> <http://dbpedia.org/ontology/manufacturer> <http://example.org/Unilever> <Obesity-euronews-9> .
+ <http://example.org/Greenwashing> <http://www.w3.org/2000/01/rdf-schema#comment> "Greenwashing is getting harder to spot. It involves companies making misleading claims about their environmental credentials."  <Obesity-euronews-9> .
+ <http://example.org/EU> <http://dbpedia.org/ontology/legislation> <http://example.org/EU_LawAgainstMisleadingGreenClaims> <Obesity-euronews-9> .
+ <http://example.org/Greenwashing> <http://www.w3.org/2000/01/rdf-schema#label> "Greenwashing"  <Obesity-euronews-9> .
+ <http://example.org/Greenlighting> <http://www.w3.org/2000/01/rdf-schema#label> "Greenlighting"  <Obesity-euronews-9> .
+ <http://example.org/BP> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/ontology/PetroleumIndustry> <Obesity-euronews-9> .
+ <http://example.org/Ryanair> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/goodrelations/v1#BusinessEntity> <Obesity-euronews-9> .
+ <http://example.org/Ryanair> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/ontology/Airline> <Obesity-euronews-9> .
+ <http://example.org/EU_LawAgainstMisleadingGreenClaims> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Legislation> <Obesity-euronews-9> .
+ <http://example.org/Greenrinsing> <http://www.w3.org/2000/01/rdf-schema#comment> "Greenrinsing refers to a company regularly changing its ESG targets before they are achieved."  <Obesity-euronews-9> .
+ <http://example.org/CocaCola> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/ontology/FoodAndBeverage> <Obesity-euronews-9> .
+ <http://example.org/BP> <http://purl.org/goodrelations/v1#legalName> "BP p.l.c."  <Obesity-euronews-9> .
+ <http://example.org/Greenwashing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Concept> <Obesity-euronews-9> .
+ <http://example.org/Greencrowding> <http://www.w3.org/2000/01/rdf-schema#comment> "Greencrowding involves hiding in a group and moving at the speed of the slowest adopter of sustainability policies."  <Obesity-euronews-9> .
+ <http://example.org/Greenshifting> <http://www.w3.org/2000/01/rdf-schema#label> "Greenshifting"  <Obesity-euronews-9> .
+ <http://example.org/AustrianEcolabel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Brand> <Obesity-euronews-9> .
+ <http://example.org/Persil> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Obesity-euronews-9> .
+ <http://example.org/HSBC> <http://purl.org/goodrelations/v1#legalName> "HSBC Holdings plc"  <Obesity-euronews-9> .
+ <http://example.org/PlanetTracker> <http://dbpedia.org/ontology/industry> <http://example.org/FinancialThinkTank> <Obesity-euronews-9> .
+ <http://example.org/FairTrade> <http://www.w3.org/2000/01/rdf-schema#label> "FairTrade"  <Obesity-euronews-9> .
+ <http://example.org/Greenshifting> <http://www.w3.org/2000/01/rdf-schema#comment> "Greenshifting is when companies imply that the consumer is at fault and shift the blame on to them."  <Obesity-euronews-9> .
+ <http://example.org/CocaCola> <http://purl.org/goodrelations/v1#legalName> "The Coca-Cola Company"  <Obesity-euronews-9> .

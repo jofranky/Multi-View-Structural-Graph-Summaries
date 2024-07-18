@@ -1,0 +1,720 @@
+ <http://example.org/OyvindSolsta> <http://schema.org/age> "56"^^<http://www.w3.org/2001/XMLSchema#integer>  <Cigarettes-euronews-0> .
+ <http://example.org/OyvindSolsta> <http://schema.org/jobTitle> "Communications adviser for a railways company"  <Cigarettes-euronews-0> .
+ <http://example.org/TallinnPublicTransport> <http://schema.org/description> "Ten years after making public transport free, Tallinn's politicians are reinventing the city's roads to better serve residents and the environment."  <Cigarettes-euronews-0> .
+ <http://example.org/StockholmCarBan> <http://schema.org/name> "Stockholm petrol and diesel car ban"  <Cigarettes-euronews-0> .
+ <http://example.org/AtomoCoffee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <Cigarettes-euronews-0> .
+ <http://example.org/SveaMine> <http://schema.org/description> "An Arctic mining site in Norway is being returned to nature in one of the country’s biggest-ever natural restoration projects."  <Cigarettes-euronews-0> .
+ <http://example.org/BLEnglandGeneratingStation> <http://schema.org/name> "BL England Generating Station"  <Cigarettes-euronews-0> .
+ <http://example.org/IEA> <http://schema.org/name> "International Energy Agency (IEA)"  <Cigarettes-euronews-0> .
+ <http://example.org/OyvindSolsta> <http://schema.org/owns> <http://example.org/HeatPump> <Cigarettes-euronews-0> .
+ <http://example.org/FranceFootballTeams> <http://schema.org/name> "France’s football teams"  <Cigarettes-euronews-0> .
+ <http://example.org/EnvironmentalExistentialDread> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Cigarettes-euronews-0> .
+ <http://example.org/IUCN> <http://schema.org/name> "International Union for Conservation of Nature (IUCN)"  <Cigarettes-euronews-0> .
+ <http://example.org/TallinnGreenCapital> <http://schema.org/name> "Tallinn European Green Capital"  <Cigarettes-euronews-0> .
+ <http://example.org/OyvindSolsta> <http://dbpedia.org/ontology/residence> <http://example.org/Oslo> <Cigarettes-euronews-0> .
+ <http://example.org/FranceFootballTeams> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/SportsTeam> <Cigarettes-euronews-0> .
+ <http://example.org/PositiveEnvironmentalNews> <http://schema.org/about> <http://example.org/EcoAnxiety> <Cigarettes-euronews-0> .
+ <http://example.org/PositiveEnvironmentalNews> <http://schema.org/author> <http://example.org/EuronewsGreen> <Cigarettes-euronews-0> .
+ <http://example.org/SwedishResearchers> <http://schema.org/name> "Swedish researchers"  <Cigarettes-euronews-0> .
+ <http://example.org/OyvindSolsta> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Cigarettes-euronews-0> .
+ <http://example.org/DevilsCanyonBrewery> <http://schema.org/name> "Devil’s Canyon brewery"  <Cigarettes-euronews-0> .
+ <http://example.org/Wales> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/resource/Wales> <Cigarettes-euronews-0> .
+ <http://example.org/PositiveEnvironmentalNews> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> <Cigarettes-euronews-0> .
+ <http://example.org/GatesheadMineWaterHeatNetwork> <http://schema.org/name> "Gateshead’s mine water heat network"  <Cigarettes-euronews-0> .
+ <http://example.org/TallinnPublicTransport> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Cigarettes-euronews-0> .
+ <http://example.org/FranceFootballTeams> <http://schema.org/description> "France’s football teams will travel to all matches under three hours away by train instead of plane in a bid to cut carbon emissions."  <Cigarettes-euronews-0> .
+ <http://example.org/EuronewsGreen> <http://schema.org/description> "Euronews Green regularly updates a page with good news about the planet to combat climate anxiety."  <Cigarettes-euronews-0> .
+ <http://example.org/DoggerBankWindFarm> <http://schema.org/name> "Dogger Bank wind farm"  <Cigarettes-euronews-0> .
+ <http://example.org/HeatPump> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Product> <Cigarettes-euronews-0> .
+ <http://example.org/ClimateDoom> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Cigarettes-euronews-0> .
+ <http://example.org/PositiveEnvironmentalNews> <http://schema.org/text> "Euronews Green kept track of all the positive environmental news throughout the year - racking up over 100 stories of eco-innovation, green breakthroughs and climate wins."  <Cigarettes-euronews-0> .
+ <http://example.org/SveaMine> <http://schema.org/name> "Svea mine"  <Cigarettes-euronews-0> .
+ <http://example.org/DevilsCanyonBrewery> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Cigarettes-euronews-0> .
+ <http://example.org/EcoAnxiety> <http://schema.org/name> "Eco-anxiety"  <Cigarettes-euronews-0> .
+ <http://example.org/TallinnGreenCapital> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Cigarettes-euronews-0> .
+ <http://example.org/EnglandPlasticBan> <http://schema.org/name> "England single-use plastic ban"  <Cigarettes-euronews-0> .
+ <http://example.org/SpaceSolar> <http://schema.org/description> "A solar space farm designed to orbit above the Earth could be operational by 2035."  <Cigarettes-euronews-0> .
+ <http://example.org/SwedishResearchers> <http://schema.org/description> "Swedish researchers say they have developed a new, more efficient way of recycling electric car batteries."  <Cigarettes-euronews-0> .
+ <http://example.org/IUCN> <http://schema.org/description> "IUCN has launched an ambitious new initiative to protect the world’s oceans focusing on marine conservation, ocean renewable energy, shipping, aquatic food, and coastal tourism."  <Cigarettes-euronews-0> .
+ <http://example.org/PositiveEnvironmentalNews> <http://schema.org/about> <http://example.org/EnvironmentalExistentialDread> <Cigarettes-euronews-0> .
+ <http://example.org/BLEnglandGeneratingStation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <Cigarettes-euronews-0> .
+ <http://example.org/EnglandPlasticBan> <http://schema.org/description> "A ban on some single-use plastic items has just been introduced across England."  <Cigarettes-euronews-0> .
+ <http://example.org/DevilsCanyonBrewery> <http://schema.org/description> "Devil’s Canyon brewery has created a beer made using water from the showers, laundry and bathroom sinks of a San Francisco apartment block."  <Cigarettes-euronews-0> .
+ <http://example.org/IEA> <http://schema.org/description> "Global demand for all fossil fuels could peak before the end of the decade, according to the IEA."  <Cigarettes-euronews-0> .
+ <http://example.org/PositiveEnvironmentalNews> <http://schema.org/datePublished> "2022"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-euronews-0> .
+ <http://example.org/EnvironmentalExistentialDread> <http://schema.org/name> "Environmental existential dread"  <Cigarettes-euronews-0> .
+ <http://example.org/PositiveEnvironmentalNews> <http://schema.org/about> <http://example.org/ClimateDoom> <Cigarettes-euronews-0> .
+ <http://example.org/Wales> <http://schema.org/description> "Wales is one country making moves on climate action, challenging Westminster on net-zero and switching its coal mines for community-owned renewable energy."  <Cigarettes-euronews-0> .
+ <http://example.org/OyvindSolsta> <http://schema.org/name> "Oyvind Solsta"  <Cigarettes-euronews-0> .
+ <http://example.org/WildlifePhotographerOfTheYear2023> <http://schema.org/name> "Wildlife Photographer of the Year 2023"  <Cigarettes-euronews-0> .
+ <http://example.org/SpaceSolar> <http://schema.org/name> "Space Solar"  <Cigarettes-euronews-0> .
+ <http://example.org/ClimateProtocols> <http://schema.org/name> "Climate protocols"  <Cigarettes-euronews-0> .
+ <http://example.org/Norway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/resource/Norway> <Cigarettes-euronews-0> .
+ <http://example.org/IEA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Cigarettes-euronews-0> .
+ <http://example.org/AtomoCoffee> <http://schema.org/description> "A Seattle-based startup has launched the world's first 'beanless coffee'."  <Cigarettes-euronews-0> .
+ <http://example.org/WildlifePhotographerOfTheYear2023> <http://schema.org/description> "A photo of a horseshoe crab by French marine biologist Laurent Ballesta won the top prize in the Wildlife Photographer of the Year competition."  <Cigarettes-euronews-0> .
+ <http://example.org/HeatPump> <http://schema.org/description> "Heat pump that produces far exceeds the amount of electricity that goes in, installed by Oyvind Solsta in his house in the hills of Oslo."  <Cigarettes-euronews-0> .
+ <http://example.org/EuronewsGreen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Cigarettes-euronews-0> .
+ <http://example.org/StockholmCarBan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Cigarettes-euronews-0> .
+ <http://example.org/TallinnGreenCapital> <http://schema.org/description> "Tallinn’s Town Hall square was transformed into a temporary park as part of city-wide projects during Tallinn’s year as European Green Capital."  <Cigarettes-euronews-0> .
+ <http://example.org/RenewablePower> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/EnergyResource> <Cigarettes-euronews-0> .
+ <http://example.org/SpaceSolar> <http://schema.org/location> <http://example.org/Oxfordshire> <Cigarettes-euronews-0> .
+ <http://example.org/HeatPump> <http://schema.org/name> "Heat pump"  <Cigarettes-euronews-0> .
+ <http://example.org/GatesheadMineWaterHeatNetwork> <http://schema.org/description> "The UK’s first large-scale mine water heat network is delivering hot water and heat to hundreds of homes and businesses."  <Cigarettes-euronews-0> .
+ <http://example.org/SwedishResearchers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Cigarettes-euronews-0> .
+ <http://example.org/DoggerBankWindFarm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <Cigarettes-euronews-0> .
+ <http://example.org/AtomoCoffee> <http://schema.org/name> "Atomo Coffee"  <Cigarettes-euronews-0> .
+ <http://example.org/DoggerBankWindFarm> <http://schema.org/description> "The world’s largest offshore wind farm under construction has produced its first power."  <Cigarettes-euronews-0> .
+ <http://example.org/SpaceSolar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Cigarettes-euronews-0> .
+ <http://example.org/EuronewsGreen> <http://schema.org/name> "Euronews Green"  <Cigarettes-euronews-0> .
+ <http://example.org/TallinnPublicTransport> <http://schema.org/name> "Tallinn public transport reinvention"  <Cigarettes-euronews-0> .
+ <http://example.org/EnglandPlasticBan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Cigarettes-euronews-0> .
+ <http://example.org/StockholmCarBan> <http://schema.org/description> "Stockholm is introducing a petrol and diesel car ban in its city centre to slash emissions."  <Cigarettes-euronews-0> .
+ <http://example.org/WildlifePhotographerOfTheYear2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Event> <Cigarettes-euronews-0> .
+ <http://example.org/RenewablePower> <http://schema.org/name> "Renewable power"  <Cigarettes-euronews-0> .
+ <http://example.org/ClimateDoom> <http://schema.org/name> "Climate doom"  <Cigarettes-euronews-0> .
+ <http://example.org/GatesheadMineWaterHeatNetwork> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <Cigarettes-euronews-0> .
+ <http://example.org/SveaMine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <Cigarettes-euronews-0> .
+ <http://example.org/VulnerableEcosystems> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Cigarettes-euronews-0> .
+ <http://example.org/ClimateProtocols> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Thing> <Cigarettes-euronews-0> .
+ <http://example.org/EcoAnxiety> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalCondition> <Cigarettes-euronews-0> .
+ <http://example.org/BLEnglandGeneratingStation> <http://schema.org/description> "The oil and coal-burning smoke stack was toppled by 350 pounds (160kg) of explosives to clear the way for offshore wind farms."  <Cigarettes-euronews-0> .
+ <http://example.org/VulnerableEcosystems> <http://schema.org/name> "Vulnerable ecosystems"  <Cigarettes-euronews-0> .
+ <http://example.org/IUCN> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Cigarettes-euronews-0> .
+ <http://example.org/Norway> <http://schema.org/description> "Norway is among the countries with the most heat pumps per capita, along with neighbouring Finland and Sweden."  <Cigarettes-euronews-0> .
+ <http://example.org/ontology#EuropeanCommission> <http://example.org/ontology#reviewType> "urgent review"  <Cigarettes-euronews-1> .
+ <http://example.org/ontology#EuropeanCommission> <http://example.org/ontology#reviewPeriod> "past three years"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/Hamas> <http://example.org/ontology#investmentCountries> <http://dbpedia.org/resource/Sudan> <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/Hamas> <http://example.org/ontology#taxRevenueRange> "12-15 million USD"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/Hamas> <http://example.org/ontology#investmentValue> "500 million USD"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-euronews-1> .
+ <http://example.org/ontology#EU> <http://xmlns.com/foaf/0.1/name> "European Union"  <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/HamasAttack> <http://example.org/ontology#methodsUsed> <http://example.org/ontology#Drones> <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/HamasAttack> <http://example.org/ontology#comparisonPeriod> "11 days"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/Hamas> <http://example.org/ontology#supportCountries> <http://dbpedia.org/resource/Qatar> <Cigarettes-euronews-1> .
+ <http://example.org/ontology#ReliefFundForTheAfflictedAndNeedy> <http://example.org/ontology#timePeriod> "2005-2009"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-euronews-1> .
+ <http://example.org/ontology#Gaza> <http://example.org/ontology#dateReported> "July 2022"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Cigarettes-euronews-1> .
+ <http://example.org/ontology#BitOK> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Cigarettes-euronews-1> .
+ <http://example.org/ontology#BitOK> <http://example.org/ontology#reportPeriod> "past two years"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/HamasAttack> <http://example.org/ontology#target> <http://dbpedia.org/resource/Israel> <Cigarettes-euronews-1> .
+ <http://example.org/ontology#Binance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/Hamas> <http://dbpedia.org/ontology/revenueYear> "2014"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/Hamas> <http://example.org/ontology#annualSupportFromIran> "100 million USD"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/Hamas> <http://dbpedia.org/ontology/revenue> "1 billion USD"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/Hamas> <http://example.org/ontology#taxedGoods> <http://example.org/ontology#Fuel> <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/Hamas> <http://example.org/ontology#investmentCountries> <http://dbpedia.org/resource/Algeria> <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/PalestinianIslamicJihad> <http://xmlns.com/foaf/0.1/name> "Palestinian Islamic Jihad"  <Cigarettes-euronews-1> .
+ <http://example.org/ontology#EU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/Hamas> <http://example.org/ontology#fundraisingLocations> <http://example.org/ontology#GulfCountries> <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/Hamas> <http://example.org/ontology#taxedGoods> <http://example.org/ontology#Cigarettes> <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/Hamas> <http://example.org/ontology#sanctionedBy> <http://example.org/ontology#EU> <Cigarettes-euronews-1> .
+ <http://example.org/ontology#ReliefFundForTheAfflictedAndNeedy> <http://example.org/ontology#location> <http://dbpedia.org/resource/Ottawa> <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/Hamas> <http://example.org/ontology#investmentSectors> <http://example.org/ontology#RealEstate> <Cigarettes-euronews-1> .
+ <http://example.org/ontology#Gaza> <http://dbpedia.org/ontology/population> "unemployment rate: 45%, humanitarian assistance need: 60%"  <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/HamasAttack> <http://example.org/ontology#description> "Hamas' attack on Israel was highly expensive"  <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/HamasAttack> <http://example.org/ontology#involvedEntities> <http://euronews.com/entities/PalestinianIslamicJihad> <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/HamasAttack> <http://example.org/ontology#involvedEntities> <http://euronews.com/entities/Hamas> <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/Hamas> <http://example.org/ontology#investmentCountries> <http://dbpedia.org/resource/Turkey> <Cigarettes-euronews-1> .
+ <http://example.org/ontology#Elliptic> <http://xmlns.com/foaf/0.1/name> "Elliptic"  <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/Hamas> <http://example.org/ontology#fundraisingLocations> <http://example.org/ontology#NorthAmerica> <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/HamasAttack> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Event> <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/Hamas> <http://example.org/ontology#investmentCountries> <http://dbpedia.org/resource/Saudi_Arabia> <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/Hamas> <http://example.org/ontology#revenueSource> <http://example.org/ontology#TaxesAndFees> <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/Hamas> <http://example.org/ontology#revenueSource> <http://example.org/ontology#FinancialAid> <Cigarettes-euronews-1> .
+ <http://example.org/ontology#BitOK> <http://xmlns.com/foaf/0.1/name> "BitOK"  <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/Hamas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Cigarettes-euronews-1> .
+ <http://example.org/ontology#EU> <http://example.org/ontology#suspendedAidTo> <http://dbpedia.org/resource/Palestine> <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/Hamas> <http://example.org/ontology#supportCountries> <http://dbpedia.org/resource/Turkey> <Cigarettes-euronews-1> .
+ <http://example.org/ontology#EuropeanCommission> <http://example.org/ontology#aidYear> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/Hamas> <http://example.org/ontology#designation> "terrorist group"  <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/HamasAttack> <http://example.org/ontology#comparisonDate> "2 years ago"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-euronews-1> .
+ <http://example.org/ontology#EuropeanCommission> <http://example.org/ontology#committedAid> "27.9 million EUR"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-euronews-1> .
+ <http://example.org/ontology#EuropeanCommission> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Cigarettes-euronews-1> .
+ <http://example.org/ontology#Gaza> <http://dbpedia.org/ontology/povertyRate> "65%"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/Hamas> <http://example.org/ontology#investmentSectors> <http://example.org/ontology#Construction> <Cigarettes-euronews-1> .
+ <http://example.org/ontology#ReliefFundForTheAfflictedAndNeedy> <http://example.org/ontology#fundsFunnelled> "14.6 million USD"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-euronews-1> .
+ <http://example.org/ontology#ReliefFundForTheAfflictedAndNeedy> <http://xmlns.com/foaf/0.1/name> "Relief Fund for the Afflicted and Needy"  <Cigarettes-euronews-1> .
+ <http://example.org/ontology#Elliptic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Company> <Cigarettes-euronews-1> .
+ <http://example.org/ontology#Elliptic> <http://example.org/ontology#reportPeriod> "past two years"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-euronews-1> .
+ <http://example.org/ontology#Gaza> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place> <Cigarettes-euronews-1> .
+ <http://example.org/ontology#Gaza> <http://dbpedia.org/ontology/foodInsecurityRate> "65%"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/HamasAttack> <http://example.org/ontology#methodsUsed> <http://example.org/ontology#Cyberattacks> <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/Hamas> <http://example.org/ontology#taxedGoods> <http://example.org/ontology#ConstructionMaterials> <Cigarettes-euronews-1> .
+ <http://example.org/ontology#BitOK> <http://example.org/ontology#reportedCryptoReceived> "41 million USD"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-euronews-1> .
+ <http://example.org/ontology#Elliptic> <http://example.org/ontology#reportedCryptoReceived> "93 million USD"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-euronews-1> .
+ <http://example.org/ontology#EuropeanCommission> <http://example.org/ontology#assistanceValue> "681 million EUR"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-euronews-1> .
+ <http://example.org/ontology#ReliefFundForTheAfflictedAndNeedy> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Cigarettes-euronews-1> .
+ <http://example.org/ontology#ReliefFundForTheAfflictedAndNeedy> <http://example.org/ontology#affiliation> <http://euronews.com/entities/Hamas> <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/Hamas> <http://example.org/ontology#fundraisingLocations> <http://example.org/ontology#WesternEurope> <Cigarettes-euronews-1> .
+ <http://example.org/ontology#EuropeanCommission> <http://xmlns.com/foaf/0.1/name> "European Commission"  <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/PalestinianIslamicJihad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Cigarettes-euronews-1> .
+ <http://example.org/ontology#BitOK> <http://example.org/ontology#affectedEntity> <http://euronews.com/entities/Hamas> <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/HamasAttack> <http://example.org/ontology#date> "2023-10-11"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-euronews-1> .
+ <http://example.org/ontology#Binance> <http://xmlns.com/foaf/0.1/name> "Binance"  <Cigarettes-euronews-1> .
+ <http://example.org/ontology#Binance> <http://example.org/ontology#affectedEntity> <http://euronews.com/entities/Hamas> <Cigarettes-euronews-1> .
+ <http://example.org/ontology#EuropeanCommission> <http://example.org/ontology#reviewSubject> <http://example.org/ontology#DevelopmentAssistance> <Cigarettes-euronews-1> .
+ <http://example.org/ontology#Elliptic> <http://example.org/ontology#affectedEntity> <http://euronews.com/entities/PalestinianIslamicJihad> <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/HamasAttack> <http://example.org/ontology#methodsUsed> <http://example.org/ontology#RocketFire> <Cigarettes-euronews-1> .
+ <http://example.org/ontology#EuropeanCommission> <http://example.org/ontology#aidDestination> <http://example.org/ontology#Gaza> <Cigarettes-euronews-1> .
+ <http://example.org/ontology#Binance> <http://example.org/ontology#actionTaken> <http://example.org/ontology#AccountFreeze> <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/Hamas> <http://xmlns.com/foaf/0.1/name> "Hamas"  <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/Hamas> <http://example.org/ontology#revenueSource> <http://example.org/ontology#Donations> <Cigarettes-euronews-1> .
+ <http://euronews.com/entities/HamasAttack> <http://example.org/ontology#rocketCount> "2500-5000"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-euronews-1> .
+ <http://example.org/person/MichaelJackson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/person/Person> <Cigarettes-euronews-2> .
+ <http://example.org/item/MartyMcFlyHoverboard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/auction/Prop> <Cigarettes-euronews-2> .
+ <http://example.org/item/JohnLennonBeltBuckle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/auction/Memorabilia> <Cigarettes-euronews-2> .
+ <http://example.org/item/PhotoWithWendellThompson> <http://example.org/auction/depicts> <http://example.org/person/WendellThompson> <Cigarettes-euronews-2> .
+ <http://example.org/item/JohnLennonBeltBuckle> <http://example.org/auction/context> "From John Lennon's 'Lost Weekend' period"  <Cigarettes-euronews-2> .
+ <http://example.org/item/IndianaJonesWhip> <http://example.org/auction/featuredIn> "Indiana Jones’ The Temple of Doom"  <Cigarettes-euronews-2> .
+ <http://example.org/auction/Auction2023> <http://example.org/auction/includes> <http://example.org/item/AmyWinehouseHairpiece> <Cigarettes-euronews-2> .
+ <http://example.org/propstore/Propstore> <http://example.org/auction/hosts> <http://example.org/auction/Auction2023> <Cigarettes-euronews-2> .
+ <http://example.org/auction/Auction2023> <http://example.org/auction/includes> <http://example.org/item/JohnLennonBeltBuckle> <Cigarettes-euronews-2> .
+ <http://Cigarettes-euronews-2.com/blank#n647834e726424993845888a77dd04d71b2> <http://example.org/currency/EUR> "5700-11500"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-euronews-2> .
+ <http://example.org/person/MichaelJFox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/person/Person> <Cigarettes-euronews-2> .
+ <http://example.org/item/DavidBowieSingle> <http://example.org/auction/performedAs> "Tom Jones"  <Cigarettes-euronews-2> .
+ <http://example.org/item/IndianaJonesWhip> <http://example.org/auction/estimatedValue> <http://Cigarettes-euronews-2.com/blank#n647834e726424993845888a77dd04d71b6>  <Cigarettes-euronews-2> .
+ <http://Cigarettes-euronews-2.com/blank#n647834e726424993845888a77dd04d71b4> <http://example.org/currency/GBP> "30000-60000"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-euronews-2> .
+ <http://Cigarettes-euronews-2.com/blank#n647834e726424993845888a77dd04d71b6> <http://example.org/currency/EUR> "115000-231000"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-euronews-2> .
+ <http://example.org/item/AmyWinehouseHairpiece> <http://example.org/auction/associatedWith> <http://example.org/person/AmyWinehouse> <Cigarettes-euronews-2> .
+ <http://example.org/item/DavidBowieSingle> <http://example.org/auction/describedAs> "Original 'Liza Jane' single test pressing"  <Cigarettes-euronews-2> .
+ <http://Cigarettes-euronews-2.com/blank#n647834e726424993845888a77dd04d71b5> <http://example.org/currency/EUR> "40500"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-euronews-2> .
+ <http://example.org/item/IndianaJonesWhip> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/auction/Prop> <Cigarettes-euronews-2> .
+ <http://example.org/item/MichaelJacksonJacket> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/auction/Memorabilia> <Cigarettes-euronews-2> .
+ <http://example.org/item/DavidBowieSingle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/auction/Memorabilia> <Cigarettes-euronews-2> .
+ <http://example.org/item/JohnLennonBeltBuckle> <http://example.org/auction/estimatedValue> <http://Cigarettes-euronews-2.com/blank#n647834e726424993845888a77dd04d71b4>  <Cigarettes-euronews-2> .
+ <http://example.org/item/DavidBowieSingle> <http://example.org/auction/estimatedValue> <http://Cigarettes-euronews-2.com/blank#n647834e726424993845888a77dd04d71b2>  <Cigarettes-euronews-2> .
+ <http://example.org/item/MichaelJacksonJacket> <http://example.org/auction/associatedWith> <http://example.org/person/MichaelJackson> <Cigarettes-euronews-2> .
+ <http://example.org/person/WendellThompson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/person/Person> <Cigarettes-euronews-2> .
+ <http://Cigarettes-euronews-2.com/blank#n647834e726424993845888a77dd04d71b6> <http://example.org/currency/GBP> "100000-200000"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-euronews-2> .
+ <http://example.org/item/PhotoWithWendellThompson> <http://example.org/auction/context> "Michael Jackson gifted the jacket to Wendell Thompson in December 1983"  <Cigarettes-euronews-2> .
+ <http://example.org/item/MartyMcFlyHoverboard> <http://example.org/auction/associatedWith> <http://example.org/person/MichaelJFox> <Cigarettes-euronews-2> .
+ <http://example.org/item/MartyMcFlyHoverboard> <http://example.org/auction/estimatedValue> <http://Cigarettes-euronews-2.com/blank#n647834e726424993845888a77dd04d71b5>  <Cigarettes-euronews-2> .
+ <http://example.org/item/MichaelJacksonJacket> <http://example.org/auction/describedAs> "Black-and-white leather jacket"  <Cigarettes-euronews-2> .
+ <http://example.org/auction/Auction2023> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/auction/AuctionEvent> <Cigarettes-euronews-2> .
+ <http://example.org/item/MichaelJacksonJacket> <http://example.org/auction/includes> <http://example.org/item/PhotoWithWendellThompson> <Cigarettes-euronews-2> .
+ <http://example.org/item/AmyWinehouseHairpiece> <http://example.org/auction/describedAs> "Trademark beehive hairpiece"  <Cigarettes-euronews-2> .
+ <http://example.org/auction/Auction2023> <http://example.org/auction/includes> <http://example.org/item/OasisCigarettesAndAlcoholVinyl> <Cigarettes-euronews-2> .
+ <http://example.org/auction/Auction2023> <http://example.org/auction/includes> <http://example.org/item/OasisShakermakerVinyl> <Cigarettes-euronews-2> .
+ <http://example.org/item/MartyMcFlyHoverboard> <http://example.org/auction/describedAs> "Mattel Hoverboard"  <Cigarettes-euronews-2> .
+ <http://example.org/item/AmyWinehouseHairpiece> <http://example.org/auction/featuredIn> "You Know I'm No Good music video"  <Cigarettes-euronews-2> .
+ <http://example.org/propstore/Propstore> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/auction/Vendor> <Cigarettes-euronews-2> .
+ <http://example.org/item/AmyWinehouseHairpiece> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/auction/Memorabilia> <Cigarettes-euronews-2> .
+ <http://Cigarettes-euronews-2.com/blank#n647834e726424993845888a77dd04d71b3> <http://example.org/currency/GBP> "15000-30000"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-euronews-2> .
+ <http://example.org/person/DavidBowie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/person/Person> <Cigarettes-euronews-2> .
+ <http://example.org/auction/Auction2023> <http://example.org/auction/includes> <http://example.org/item/IndianaJonesWhip> <Cigarettes-euronews-2> .
+ <http://example.org/item/DavidBowieSingle> <http://example.org/auction/associatedWith> <http://example.org/person/DavidBowie> <Cigarettes-euronews-2> .
+ <http://example.org/item/MartyMcFlyHoverboard> <http://example.org/auction/featuredIn> "Back To The Future"  <Cigarettes-euronews-2> .
+ <http://example.org/auction/Auction2023> <http://example.org/auction/includes> <http://example.org/item/JimiHendrixPrint> <Cigarettes-euronews-2> .
+ <http://example.org/auction/Auction2023> <http://example.org/auction/location> "BAFTA 195 Piccadilly, London"  <Cigarettes-euronews-2> .
+ <http://example.org/auction/Auction2023> <http://example.org/auction/includes> <http://example.org/item/DavidBowieSingle> <Cigarettes-euronews-2> .
+ <http://Cigarettes-euronews-2.com/blank#n647834e726424993845888a77dd04d71b2> <http://example.org/currency/GBP> "5000-10000"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-euronews-2> .
+ <http://example.org/person/AmyWinehouse> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/person/Person> <Cigarettes-euronews-2> .
+ <http://Cigarettes-euronews-2.com/blank#n647834e726424993845888a77dd04d71b1> <http://example.org/currency/EUR> "231000-463000"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-euronews-2> .
+ <http://example.org/auction/Auction2023> <http://example.org/auction/includes> <http://example.org/item/BrianWilsonPrint> <Cigarettes-euronews-2> .
+ <http://example.org/auction/Auction2023> <http://example.org/auction/includes> <http://example.org/item/RadioheadKarmaPoliceSingle> <Cigarettes-euronews-2> .
+ <http://example.org/auction/Auction2023> <http://example.org/auction/startDate> "2023-11-09"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-euronews-2> .
+ <http://example.org/item/MichaelJacksonJacket> <http://example.org/auction/estimatedValue> <http://Cigarettes-euronews-2.com/blank#n647834e726424993845888a77dd04d71b1>  <Cigarettes-euronews-2> .
+ <http://Cigarettes-euronews-2.com/blank#n647834e726424993845888a77dd04d71b3> <http://example.org/currency/EUR> "17300-34700"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-euronews-2> .
+ <http://example.org/item/PhotoWithWendellThompson> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/auction/Photograph> <Cigarettes-euronews-2> .
+ <http://example.org/item/AmyWinehouseHairpiece> <http://example.org/auction/estimatedValue> <http://Cigarettes-euronews-2.com/blank#n647834e726424993845888a77dd04d71b3>  <Cigarettes-euronews-2> .
+ <http://Cigarettes-euronews-2.com/blank#n647834e726424993845888a77dd04d71b5> <http://example.org/currency/GBP> "35000"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-euronews-2> .
+ <http://example.org/auction/Auction2023> <http://example.org/auction/includes> <http://example.org/item/MichaelJacksonJacket> <Cigarettes-euronews-2> .
+ <http://example.org/auction/Auction2023> <http://example.org/auction/endDate> "2023-11-12"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-euronews-2> .
+ <http://example.org/person/JohnLennon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/person/Person> <Cigarettes-euronews-2> .
+ <http://Cigarettes-euronews-2.com/blank#n647834e726424993845888a77dd04d71b4> <http://example.org/currency/EUR> "34700-69000"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-euronews-2> .
+ <http://example.org/auction/Auction2023> <http://example.org/auction/includes> <http://example.org/item/MartyMcFlyHoverboard> <Cigarettes-euronews-2> .
+ <http://example.org/item/PhotoWithWendellThompson> <http://example.org/auction/depicts> <http://example.org/person/MichaelJackson> <Cigarettes-euronews-2> .
+ <http://example.org/item/MichaelJacksonJacket> <http://example.org/auction/featuredIn> "Michael Jackson's 1984 Pepsi commercial"  <Cigarettes-euronews-2> .
+ <http://example.org/item/JohnLennonBeltBuckle> <http://example.org/auction/associatedWith> <http://example.org/person/JohnLennon> <Cigarettes-euronews-2> .
+ <http://Cigarettes-euronews-2.com/blank#n647834e726424993845888a77dd04d71b1> <http://example.org/currency/GBP> "200000-400000"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-euronews-2> .
+ <http://example.org/EuropeanGreenCapitalAward> <http://example.org/criteria> "cities with over 100,000 residents that are actively transitioning towards a more sustainable future"  <Cigarettes-euronews-3> .
+ <http://example.org/Vilnius> <http://www.w3.org/2000/01/rdf-schema#label> "Vilnius"  <Cigarettes-euronews-3> .
+ <http://Cigarettes-euronews-3.com/blank#n85a5892651a746f583865cb72cef68fab2> <http://example.org/features> <http://example.org/Saplings> <Cigarettes-euronews-3> .
+ <http://example.org/GreenTracks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Project> <Cigarettes-euronews-3> .
+ <http://example.org/PollinatorHighway> <http://example.org/features> <http://example.org/CommunityAllotmentGarden> <Cigarettes-euronews-3> .
+ <http://example.org/EuropeanGreenCapitalAward> <http://example.org/awardAmount> "€600,000"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-euronews-3> .
+ <http://example.org/EuropeanGreenCapitalAward> <http://example.org/awardedTo> <http://example.org/Tallinn> <Cigarettes-euronews-3> .
+ <http://example.org/KaidiPõldoja> <http://xmlns.com/foaf/0.1/name> "Kaidi Põldoja"  <Cigarettes-euronews-3> .
+ <http://example.org/VladimirSvet> <http://example.org/position> "deputy mayor of Tallinn"  <Cigarettes-euronews-3> .
+ <http://example.org/VladimirSvet> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Cigarettes-euronews-3> .
+ <http://Cigarettes-euronews-3.com/blank#n85a5892651a746f583865cb72cef68fab1> <http://example.org/hasHead> <http://example.org/KaidiPõldoja> <Cigarettes-euronews-3> .
+ <http://example.org/TallinnTownHallSquare> <http://example.org/hasMakeover> <http://Cigarettes-euronews-3.com/blank#n85a5892651a746f583865cb72cef68fab2>  <Cigarettes-euronews-3> .
+ <http://example.org/Tallinn> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/City> <Cigarettes-euronews-3> .
+ <http://example.org/Tallinn> <http://example.org/hasProjects> <http://example.org/GreenTracks> <Cigarettes-euronews-3> .
+ <http://example.org/EuropeanCommission> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Organization> <Cigarettes-euronews-3> .
+ <http://example.org/EuropeanCommission> <http://www.w3.org/2000/01/rdf-schema#label> "European Commission"  <Cigarettes-euronews-3> .
+ <http://example.org/TallinnCitizensAssembly> <http://example.org/involves> "60 people from across society"  <Cigarettes-euronews-3> .
+ <http://example.org/Valencia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/City> <Cigarettes-euronews-3> .
+ <http://example.org/TallinnParticipationHub> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Place> <Cigarettes-euronews-3> .
+ <http://example.org/Tallinn> <http://example.org/hasUrbanPlanningDepartment> <http://Cigarettes-euronews-3.com/blank#n85a5892651a746f583865cb72cef68fab1>  <Cigarettes-euronews-3> .
+ <http://example.org/PollinatorHighway> <http://example.org/features> <http://example.org/MeadowGrass> <Cigarettes-euronews-3> .
+ <http://example.org/TallinnTownHallSquare> <http://example.org/hasEvent> <http://example.org/FarmersMarkets> <Cigarettes-euronews-3> .
+ <http://example.org/PollinatorHighway> <http://example.org/connectsDistricts> "six of Tallinn's eight districts"  <Cigarettes-euronews-3> .
+ <http://Cigarettes-euronews-3.com/blank#n85a5892651a746f583865cb72cef68fab2> <http://example.org/features> <http://example.org/FreeLibrary> <Cigarettes-euronews-3> .
+ <http://example.org/EuropeanGreenCapitalAward> <http://example.org/originPlace> <http://example.org/Tallinn> <Cigarettes-euronews-3> .
+ <http://example.org/Tallinn> <http://example.org/hasCitizensAssembly> <http://example.org/TallinnCitizensAssembly> <Cigarettes-euronews-3> .
+ <http://example.org/Vilnius> <http://example.org/willBeGreenCapitalYear> "2025"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-euronews-3> .
+ <http://example.org/KaidiPõldoja> <http://example.org/position> "head of Tallinn's urban planning department"  <Cigarettes-euronews-3> .
+ <http://example.org/EuropeanGreenCapitalAward> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Award> <Cigarettes-euronews-3> .
+ <http://example.org/PollinatorHighway> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Project> <Cigarettes-euronews-3> .
+ <http://Cigarettes-euronews-3.com/blank#n85a5892651a746f583865cb72cef68fab2> <http://purl.org/dc/elements/1.1/date> "Summer 2023"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-euronews-3> .
+ <http://example.org/EuropeanGreenCapitalAward> <http://example.org/awardedTo> <http://example.org/Valencia> <Cigarettes-euronews-3> .
+ <http://example.org/KaidiPõldoja> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Cigarettes-euronews-3> .
+ <http://example.org/EuropeanGreenCapitalAward> <http://example.org/originYear> "2006"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-euronews-3> .
+ <http://example.org/PollinatorHighway> <http://example.org/length> "14-kilometre"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-euronews-3> .
+ <http://example.org/GreenTracks> <http://www.w3.org/2000/01/rdf-schema#label> "Green Tracks"  <Cigarettes-euronews-3> .
+ <http://Cigarettes-euronews-3.com/blank#n85a5892651a746f583865cb72cef68fab2> <http://example.org/features> <http://example.org/Flowers> <Cigarettes-euronews-3> .
+ <http://example.org/TallinnTownHallSquare> <http://example.org/hasEvent> <http://example.org/CriminalTrials> <Cigarettes-euronews-3> .
+ <http://example.org/EuropeanGreenCapitalAward> <http://example.org/awardedTo> <http://example.org/Vilnius> <Cigarettes-euronews-3> .
+ <http://example.org/Tallinn> <http://example.org/hasDeputyMayor> <http://example.org/VladimirSvet> <Cigarettes-euronews-3> .
+ <http://example.org/Tallinn> <http://example.org/hasPopulation> "461000"^^<http://www.w3.org/2001/XMLSchema#int>  <Cigarettes-euronews-3> .
+ <http://example.org/Tallinn> <http://example.org/hasGreenCapitalYear> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-euronews-3> .
+ <http://example.org/Tallinn> <http://example.org/hasProjects> <http://example.org/PollinatorHighway> <Cigarettes-euronews-3> .
+ <http://example.org/GreenTracks> <http://example.org/aims> "introducing greenery into urban spaces all over Tallinn"  <Cigarettes-euronews-3> .
+ <http://example.org/Tallinn> <http://www.w3.org/2000/01/rdf-schema#label> "Tallinn"  <Cigarettes-euronews-3> .
+ <http://example.org/TallinnTownHallSquare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Square> <Cigarettes-euronews-3> .
+ <http://example.org/EuropeanGreenCapitalAward> <http://www.w3.org/2000/01/rdf-schema#label> "European Green Capital"  <Cigarettes-euronews-3> .
+ <http://example.org/Vilnius> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/City> <Cigarettes-euronews-3> .
+ <http://example.org/TallinnCitizensAssembly> <http://www.w3.org/2000/01/rdf-schema#label> "Tallinn's first Citizens Assembly"  <Cigarettes-euronews-3> .
+ <http://example.org/Tallinn> <http://example.org/isCapitalOf> <http://example.org/Estonia> <Cigarettes-euronews-3> .
+ <http://Cigarettes-euronews-3.com/blank#n85a5892651a746f583865cb72cef68fab2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Makeover> <Cigarettes-euronews-3> .
+ <http://example.org/EuropeanGreenCapitalAward> <http://example.org/runBy> <http://example.org/EuropeanCommission> <Cigarettes-euronews-3> .
+ <http://example.org/TallinnParticipationHub> <http://example.org/location> "next to Tallinn City Office"  <Cigarettes-euronews-3> .
+ <http://example.org/TallinnTownHallSquare> <http://www.w3.org/2000/01/rdf-schema#label> "Tallinn's Town Hall square"  <Cigarettes-euronews-3> .
+ <http://example.org/Valencia> <http://www.w3.org/2000/01/rdf-schema#label> "Valencia"  <Cigarettes-euronews-3> .
+ <http://example.org/Tallinn> <http://example.org/hasGreenCapitalAward> <http://example.org/EuropeanGreenCapitalAward> <Cigarettes-euronews-3> .
+ <http://example.org/VladimirSvet> <http://xmlns.com/foaf/0.1/name> "Vladimir Svet"  <Cigarettes-euronews-3> .
+ <http://Cigarettes-euronews-3.com/blank#n85a5892651a746f583865cb72cef68fab2> <http://example.org/features> <http://example.org/WoodenSeating> <Cigarettes-euronews-3> .
+ <http://example.org/TallinnCitizensAssembly> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Event> <Cigarettes-euronews-3> .
+ <http://example.org/TallinnTownHallSquare> <http://example.org/hasEvent> <http://example.org/ChristmasCelebrations> <Cigarettes-euronews-3> .
+ <http://example.org/Tallinn> <http://example.org/hasTownHallSquare> <http://example.org/TallinnTownHallSquare> <Cigarettes-euronews-3> .
+ <http://Cigarettes-euronews-3.com/blank#n85a5892651a746f583865cb72cef68fab1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Department> <Cigarettes-euronews-3> .
+ <http://example.org/Tallinn> <http://example.org/hasParticipationHub> <http://example.org/TallinnParticipationHub> <Cigarettes-euronews-3> .
+ <http://example.org/TallinnCitizensAssembly> <http://example.org/discusses> "How can we link Tallinn's green spaces into an inviting urban whole?"  <Cigarettes-euronews-3> .
+ <http://example.org/PollinatorHighway> <http://www.w3.org/2000/01/rdf-schema#label> "Pollinator Highway"  <Cigarettes-euronews-3> .
+ <http://example.org/TallinnParticipationHub> <http://www.w3.org/2000/01/rdf-schema#label> "participation hub"  <Cigarettes-euronews-3> .
+ <http://example.org/ontology#Fatigue> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalSignOrSymptom> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#WeightLoss> <http://schema.org/name> "Weight loss"  <Cigarettes-euronews-4> .
+ <http://example.org/ontology#UKLungCancerCoalition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#ScreeningProgramme> <http://schema.org/healthCondition> <http://example.org/ontology#LungCancer> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#PLOSMedicine> <http://schema.org/name> "PLOS Medicine"  <Cigarettes-euronews-4> .
+ <http://example.org/ontology#ScreeningProgramme> <http://schema.org/name> "National lung cancer screening programme"  <Cigarettes-euronews-4> .
+ <http://example.org/ontology#RecurrentLungInfections> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalSignOrSymptom> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#SmokersAged55To74> <http://schema.org/requiredMaxAge> "74"^^<http://www.w3.org/2001/XMLSchema#integer>  <Cigarettes-euronews-4> .
+ <http://example.org/ontology#CigarettesPerDay> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalRiskFactor> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#Study> <http://schema.org/publishedIn> <http://example.org/ontology#PLOSMedicine> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#Lung> <http://schema.org/name> "Lung"  <Cigarettes-euronews-4> .
+ <http://example.org/ontology#UKGovernment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GovernmentOrganization> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#LungCancer> <http://schema.org/possibleTreatment> <http://example.org/ontology#EarlyStageTreatment> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#LungCancer> <http://schema.org/signOrSymptom> <http://example.org/ontology#PersistentCough> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#Researchers_UCL> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#CoughingBlood> <http://schema.org/name> "Coughing up blood"  <Cigarettes-euronews-4> .
+ <http://example.org/ontology#LungCancer> <http://schema.org/signOrSymptom> <http://example.org/ontology#CoughingBlood> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#LungCancer> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalCondition> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#Researchers_Cambridge> <http://schema.org/location> "UK"  <Cigarettes-euronews-4> .
+ <http://example.org/ontology#ChestPain> <http://schema.org/name> "Chest pain"  <Cigarettes-euronews-4> .
+ <http://example.org/ontology#MihaelaVanDerSchaar> <http://xmlns.com/foaf/0.1/affiliation> <http://example.org/ontology#Researchers_Cambridge> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#Fatigue> <http://schema.org/name> "Fatigue"  <Cigarettes-euronews-4> .
+ <http://example.org/ontology#WHO> <http://schema.org/name> "World Health Organization"  <Cigarettes-euronews-4> .
+ <http://example.org/ontology#Researchers_Cambridge> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#MihaelaVanDerSchaar> <http://xmlns.com/foaf/0.1/name> "Mihaela van der Schaar"  <Cigarettes-euronews-4> .
+ <http://example.org/ontology#UK_Biobank> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#LungCancer> <http://schema.org/signOrSymptom> <http://example.org/ontology#ChestPain> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#PersistentCough> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalSignOrSymptom> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#Lung> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/AnatomicalStructure> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#LungCancerRiskPrediction> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalRiskFactor> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#LungCancerRiskPrediction> <http://schema.org/hasRiskFactor> <http://example.org/ontology#CigarettesPerDay> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#LungCancer> <http://schema.org/signOrSymptom> <http://example.org/ontology#RecurrentLungInfections> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#UKLungCancerCoalition> <http://schema.org/name> "UK Lung Cancer Coalition"  <Cigarettes-euronews-4> .
+ <http://example.org/ontology#UK_Biobank> <http://schema.org/name> "UK Biobank"  <Cigarettes-euronews-4> .
+ <http://example.org/ontology#PLOSMedicine> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Periodical> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#Study> <http://schema.org/author> <http://example.org/ontology#Researchers_UCL> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#EU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GovernmentOrganization> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#EU> <http://schema.org/name> "European Union"  <Cigarettes-euronews-4> .
+ <http://example.org/ontology#Researchers_UCL> <http://schema.org/name> "University College London"  <Cigarettes-euronews-4> .
+ <http://example.org/ontology#Age> <http://schema.org/name> "Age"  <Cigarettes-euronews-4> .
+ <http://example.org/ontology#TomCallender> <http://xmlns.com/foaf/0.1/affiliation> <http://example.org/ontology#Researchers_UCL> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#PersistentCough> <http://schema.org/name> "A cough that doesn't go away"  <Cigarettes-euronews-4> .
+ <http://example.org/ontology#SmokersAged55To74> <http://schema.org/healthCondition> <http://example.org/ontology#SmokingHistory> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#Article> <http://schema.org/isBasedOn> <http://example.org/ontology#Study> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#WHO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#Article> <http://purl.org/dc/elements/1.1/title> "Artificial intelligence models were able to predict lung cancer risk based on three variables."  <Cigarettes-euronews-4> .
+ <http://example.org/ontology#TomCallender> <http://schema.org/authorOf> <http://example.org/ontology#Study> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#TomCallender> <http://xmlns.com/foaf/0.1/name> "Dr Tom Callender"  <Cigarettes-euronews-4> .
+ <http://example.org/ontology#ShortnessOfBreath> <http://schema.org/name> "Shortness of breath"  <Cigarettes-euronews-4> .
+ <http://example.org/ontology#MihaelaVanDerSchaar> <http://schema.org/authorOf> <http://example.org/ontology#Study> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#SmokersAged55To74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PeopleAudience> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#SmokingYears> <http://schema.org/name> "Years of smoking"  <Cigarettes-euronews-4> .
+ <http://example.org/ontology#WeightLoss> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalSignOrSymptom> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#Researchers_Cambridge> <http://schema.org/name> "University of Cambridge"  <Cigarettes-euronews-4> .
+ <http://example.org/ontology#Smoking> <http://schema.org/name> "Smoking"  <Cigarettes-euronews-4> .
+ <http://example.org/ontology#UKGovernment> <http://schema.org/name> "UK government"  <Cigarettes-euronews-4> .
+ <http://example.org/ontology#ShortnessOfBreath> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalSignOrSymptom> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#ScreeningProgramme> <http://schema.org/participant> <http://example.org/ontology#SmokersAged55To74> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#Researchers_UCL> <http://schema.org/location> "UK"  <Cigarettes-euronews-4> .
+ <http://example.org/ontology#Study> <http://schema.org/studyLocation> <http://example.org/ontology#UK_Biobank> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#SmokingYears> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalRiskFactor> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#Study> <http://schema.org/datePublished> "2023-04-04"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-euronews-4> .
+ <http://example.org/ontology#LungCancer> <http://schema.org/signOrSymptom> <http://example.org/ontology#Fatigue> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#LungCancer> <http://schema.org/name> "Lung Cancer"  <Cigarettes-euronews-4> .
+ <http://example.org/ontology#Study> <http://schema.org/studySubject> <http://example.org/ontology#LungCancerRiskPrediction> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#LungCancer> <http://schema.org/associatedAnatomy> <http://example.org/ontology#Lung> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#Age> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalRiskFactor> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#LungCancerRiskPrediction> <http://schema.org/hasRiskFactor> <http://example.org/ontology#Age> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#Smoking> <http://schema.org/relatedTo> <http://example.org/ontology#LungCancer> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#EarlyStageTreatment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalTherapy> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#Study> <http://schema.org/author> <http://example.org/ontology#Researchers_Cambridge> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#Study> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalStudy> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#CigarettesPerDay> <http://schema.org/name> "Average number of cigarettes smoked per day"  <Cigarettes-euronews-4> .
+ <http://example.org/ontology#LungCancer> <http://schema.org/signOrSymptom> <http://example.org/ontology#ShortnessOfBreath> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#Article> <http://purl.org/dc/elements/1.1/creator> <http://example.org/ontology#Euronews> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#Smoking> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/LifestyleModification> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#EarlyStageTreatment> <http://schema.org/name> "Treatment for early stages of lung cancer"  <Cigarettes-euronews-4> .
+ <http://example.org/ontology#SmokingHistory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalConditionStage> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#SmokingHistory> <http://schema.org/name> "History of smoking"  <Cigarettes-euronews-4> .
+ <http://example.org/ontology#ScreeningProgramme> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalProcedure> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#Article> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ScholarlyArticle> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#LungCancer> <http://schema.org/cause> <http://example.org/ontology#Smoking> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#US_National_Lung_Screening_Trial> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Organization> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#LungCancer> <http://schema.org/signOrSymptom> <http://example.org/ontology#WeightLoss> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#LungCancerRiskPrediction> <http://schema.org/hasRiskFactor> <http://example.org/ontology#SmokingYears> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#SmokersAged55To74> <http://schema.org/requiredMinAge> "55"^^<http://www.w3.org/2001/XMLSchema#integer>  <Cigarettes-euronews-4> .
+ <http://example.org/ontology#Study> <http://schema.org/studyLocation> <http://example.org/ontology#US_National_Lung_Screening_Trial> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#TomCallender> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#MihaelaVanDerSchaar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#Article> <http://purl.org/dc/elements/1.1/date> "2023-04-04"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-euronews-4> .
+ <http://example.org/ontology#US_National_Lung_Screening_Trial> <http://schema.org/name> "US National Lung Screening Trial"  <Cigarettes-euronews-4> .
+ <http://example.org/ontology#CoughingBlood> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalSignOrSymptom> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#ChestPain> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MedicalSignOrSymptom> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#LungCancerRiskPrediction> <http://schema.org/estimatesRiskFor> <http://example.org/ontology#LungCancer> <Cigarettes-euronews-4> .
+ <http://example.org/ontology#RecurrentLungInfections> <http://schema.org/name> "Recurrent lung infections"  <Cigarettes-euronews-4> .
+ <http://example.org/AnthonyWallacePhoto> <http://schema.org/dateCreated> "2023-09-13"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-euronews-5> .
+ <http://example.org/EmptyLabourBook> <http://schema.org/author> <http://example.org/RolandPaulsen> <Cigarettes-euronews-5> .
+ <http://example.org/Cyberloafing> <http://schema.org/description> "Using the Internet to waste time instead of work."  <Cigarettes-euronews-5> .
+ <http://example.org/RolandPaulsen> <http://xmlns.com/foaf/0.1/affiliation> <http://example.org/LundUniversity> <Cigarettes-euronews-5> .
+ <http://example.org/Cyberloafing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ItemList> <Cigarettes-euronews-5> .
+ <http://example.org/ManagementConsultantsSwitzerland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <Cigarettes-euronews-5> .
+ <http://example.org/SophieRauch> <http://xmlns.com/foaf/0.1/name> "Sophie Rauch"  <Cigarettes-euronews-5> .
+ <http://example.org/ESCPBusinessSchool> <http://schema.org/name> "ESCP Business School"  <Cigarettes-euronews-5> .
+ <http://example.org/WorkplaceDistractions> <http://schema.org/itemListElement> "Social media"  <Cigarettes-euronews-5> .
+ <http://example.org/WorkplaceDistractions> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ItemList> <Cigarettes-euronews-5> .
+ <http://example.org/WorkplaceDistractions> <http://schema.org/itemListElement> "Office noises"  <Cigarettes-euronews-5> .
+ <http://example.org/DiagnoseBoreoutBook> <http://schema.org/datePublished> "2007"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-euronews-5> .
+ <http://example.org/DiagnoseBoreoutBook> <http://schema.org/name> "Diagnose Boreout"  <Cigarettes-euronews-5> .
+ <http://example.org/SophieRauch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Cigarettes-euronews-5> .
+ <http://example.org/DiagnoseBoreoutBook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> <Cigarettes-euronews-5> .
+ <http://example.org/SophieRauch> <http://xmlns.com/foaf/0.1/topic_interest> <http://example.org/NonWorkActivities> <Cigarettes-euronews-5> .
+ <http://example.org/AnthonyWallacePhoto> <http://schema.org/author> <http://example.org/AnthonyWallace> <Cigarettes-euronews-5> .
+ <http://example.org/ManagementConsultantsSwitzerland> <http://xmlns.com/foaf/0.1/name> "Management Consultants in Switzerland"  <Cigarettes-euronews-5> .
+ <http://example.org/Seoul> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <Cigarettes-euronews-5> .
+ <http://example.org/ESCPBusinessSchool> <http://schema.org/location> "Paris"  <Cigarettes-euronews-5> .
+ <http://example.org/LundUniversity> <http://schema.org/name> "Lund University"  <Cigarettes-euronews-5> .
+ <http://example.org/WorkplaceDistractions> <http://schema.org/itemListElement> "Chatty coworkers"  <Cigarettes-euronews-5> .
+ <http://example.org/ESCPBusinessSchool> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EducationalOrganization> <Cigarettes-euronews-5> .
+ <http://example.org/AnthonyWallace> <http://xmlns.com/foaf/0.1/name> "ANTHONY WALLACE"  <Cigarettes-euronews-5> .
+ <http://example.org/NonWorkResearch> <http://schema.org/sponsor> <http://example.org/ESCPBusinessSchool> <Cigarettes-euronews-5> .
+ <http://example.org/SophieRauch> <http://xmlns.com/foaf/0.1/affiliation> <http://example.org/ESCPBusinessSchool> <Cigarettes-euronews-5> .
+ <http://example.org/UdemySurvey2018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/DataFeedItem> <Cigarettes-euronews-5> .
+ <http://example.org/EmptyLabour> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Concept> <Cigarettes-euronews-5> .
+ <http://example.org/NonWorkResearch> <http://schema.org/about> <http://example.org/NonWorkActivities> <Cigarettes-euronews-5> .
+ <http://example.org/LundUniversity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/EducationalOrganization> <Cigarettes-euronews-5> .
+ <http://example.org/RolandPaulsen> <http://xmlns.com/foaf/0.1/name> "Roland Paulsen"  <Cigarettes-euronews-5> .
+ <http://example.org/AnthonyWallacePhoto> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Photograph> <Cigarettes-euronews-5> .
+ <http://example.org/RolandPaulsen> <http://xmlns.com/foaf/0.1/title> "Associate Professor"  <Cigarettes-euronews-5> .
+ <http://example.org/AnthonyWallace> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Cigarettes-euronews-5> .
+ <http://example.org/EmptyLabour> <http://schema.org/description> "Private activities that people engage in at work."  <Cigarettes-euronews-5> .
+ <http://example.org/WorkplaceDistractions> <http://schema.org/itemListElement> "Feeling overwhelmed by work"  <Cigarettes-euronews-5> .
+ <http://example.org/RolandPaulsen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Cigarettes-euronews-5> .
+ <http://example.org/GoogleChicagoHeadquarters> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> <Cigarettes-euronews-5> .
+ <http://example.org/Seoul> <http://schema.org/name> "Seoul"  <Cigarettes-euronews-5> .
+ <http://example.org/EmptyLabourBook> <http://schema.org/datePublished> "2014"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-euronews-5> .
+ <http://example.org/SophieRauch> <http://schema.org/inspiredBy> <http://example.org/TheOfficeTVSeries> <Cigarettes-euronews-5> .
+ <http://example.org/DiagnoseBoreoutBook> <http://schema.org/author> <http://example.org/ManagementConsultantsSwitzerland> <Cigarettes-euronews-5> .
+ <http://example.org/NonWorkActivities> <http://schema.org/description> "Activities that are not directly useful to the company or work."  <Cigarettes-euronews-5> .
+ <http://example.org/AnthonyWallacePhoto> <http://schema.org/contentLocation> <http://example.org/Seoul> <Cigarettes-euronews-5> .
+ <http://example.org/NonWorkActivities> <http://schema.org/numberOfItems> "38"^^<http://www.w3.org/2001/XMLSchema#int>  <Cigarettes-euronews-5> .
+ <http://example.org/NonWorkResearch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ResearchProject> <Cigarettes-euronews-5> .
+ <http://example.org/EmptyLabourBook> <http://schema.org/name> "Empty Labour"  <Cigarettes-euronews-5> .
+ <http://example.org/UdemySurvey2018> <http://schema.org/about> <http://example.org/WorkplaceDistractions> <Cigarettes-euronews-5> .
+ <http://example.org/GoogleChicagoHeadquarters> <http://purl.org/dc/terms/created> "2015"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-euronews-5> .
+ <http://example.org/TheOfficeTVSeries> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/TVSeries> <Cigarettes-euronews-5> .
+ <http://example.org/RolandPaulsen> <http://schema.org/authorOf> <http://example.org/EmptyLabourBook> <Cigarettes-euronews-5> .
+ <http://example.org/RolandPaulsen> <http://schema.org/researchArea> <http://example.org/EmptyLabour> <Cigarettes-euronews-5> .
+ <http://example.org/LundUniversity> <http://schema.org/location> "Sweden"  <Cigarettes-euronews-5> .
+ <http://example.org/NonWorkResearch> <http://schema.org/researcher> <http://example.org/SophieRauch> <Cigarettes-euronews-5> .
+ <http://example.org/EmptyLabourBook> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Book> <Cigarettes-euronews-5> .
+ <http://example.org/GoogleChicagoHeadquarters> <http://schema.org/name> "Google Chicago headquarters"  <Cigarettes-euronews-5> .
+ <http://example.org/UdemySurvey2018> <http://schema.org/dateCreated> "2018"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-euronews-5> .
+ <http://example.org/NonWorkActivities> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ItemList> <Cigarettes-euronews-5> .
+ <http://example.org/TheOfficeTVSeries> <http://schema.org/name> "The Office"  <Cigarettes-euronews-5> .
+ <http://example.org/ontology#TheWonderfulStoryOfHenrySugar> <http://dbpedia.org/ontology/releaseDate> "2023-09-27"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-euronews-6> .
+ <http://example.org/ontology#TheRatCatcher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <Cigarettes-euronews-6> .
+ <http://dbpedia.org/resource/Wes_Anderson> <http://dbpedia.org/ontology/adaptationOf> <http://dbpedia.org/resource/Roald_Dahl> <Cigarettes-euronews-6> .
+ <http://example.org/ontology#TheWonderfulStoryOfHenrySugar> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Richard_Ayoade> <Cigarettes-euronews-6> .
+ <http://example.org/ontology#Poison> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Wes_Anderson> <Cigarettes-euronews-6> .
+ <http://dbpedia.org/resource/Roald_Dahl> <http://dbpedia.org/ontology/residence> <http://Cigarettes-euronews-6.com/blank#neb630cc48f6e48dd8bc06eb2359baadbb1>  <Cigarettes-euronews-6> .
+ <http://example.org/ontology#Swan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <Cigarettes-euronews-6> .
+ <http://dbpedia.org/resource/Benedict_Cumberbatch> <http://dbpedia.org/ontology/portrayal> <http://example.org/ontology#HenrySugar> <Cigarettes-euronews-6> .
+ <http://example.org/ontology#Poison> <http://dbpedia.org/ontology/releaseDate> "2023-09-30"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-euronews-6> .
+ <http://example.org/ontology#TheWonderfulStoryOfHenrySugar> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Dev_Patel> <Cigarettes-euronews-6> .
+ <http://example.org/ontology#AsteroidCity> <http://dbpedia.org/ontology/festivalPremiere> <http://dbpedia.org/resource/Cannes_Film_Festival> <Cigarettes-euronews-6> .
+ <http://dbpedia.org/resource/Ralph_Fiennes> <http://dbpedia.org/ontology/portrayal> <http://dbpedia.org/resource/Roald_Dahl> <Cigarettes-euronews-6> .
+ <http://example.org/ontology#TheGrandBudapestHotel> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Wes_Anderson> <Cigarettes-euronews-6> .
+ <http://example.org/ontology#CharlieAndTheGreatGlassElevator> <http://dbpedia.org/ontology/basedOn> <http://dbpedia.org/resource/Charlie_and_the_Great_Glass_Elevator> <Cigarettes-euronews-6> .
+ <http://example.org/ontology#TheTwits> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <Cigarettes-euronews-6> .
+ <http://dbpedia.org/resource/Ben_Kingsley> <http://dbpedia.org/ontology/portrayal> <http://example.org/ontology#ImdadKhan> <Cigarettes-euronews-6> .
+ <http://example.org/ontology#ImdadKhan> <http://dbpedia.org/ontology/ability> "read the reverse sides of playing cards"  <Cigarettes-euronews-6> .
+ <http://example.org/ontology#FantasticMrFox> <http://dbpedia.org/ontology/releaseYear> "2009"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-euronews-6> .
+ <http://example.org/ontology#TheWonderfulStoryOfHenrySugar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <Cigarettes-euronews-6> .
+ <http://example.org/ontology#AsteroidCity> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <Cigarettes-euronews-6> .
+ <http://example.org/ontology#Swan> <http://dbpedia.org/ontology/runtime> "17"^^<http://www.w3.org/2001/XMLSchema#integer>  <Cigarettes-euronews-6> .
+ <http://example.org/ontology#TheRatCatcher> <http://dbpedia.org/ontology/runtime> "17"^^<http://www.w3.org/2001/XMLSchema#integer>  <Cigarettes-euronews-6> .
+ <http://example.org/ontology#TheRatCatcher> <http://dbpedia.org/ontology/releaseDate> "2023-09-29"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-euronews-6> .
+ <http://example.org/ontology#CharlieAndTheChocolateFactory> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <Cigarettes-euronews-6> .
+ <http://example.org/ontology#TheWonderfulStoryOfHenrySugar> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Ben_Kingsley> <Cigarettes-euronews-6> .
+ <http://example.org/ontology#HenrySugar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Character> <Cigarettes-euronews-6> .
+ <http://Cigarettes-euronews-6.com/blank#neb630cc48f6e48dd8bc06eb2359baadbb1> <http://dbpedia.org/ontology/name> "Gipsy House"  <Cigarettes-euronews-6> .
+ <http://example.org/ontology#TheGrandBudapestHotel> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <Cigarettes-euronews-6> .
+ <http://example.org/ontology#TheWonderfulStoryOfHenrySugar> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Benedict_Cumberbatch> <Cigarettes-euronews-6> .
+ <http://example.org/ontology#Poison> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <Cigarettes-euronews-6> .
+ <http://example.org/ontology#TheRatCatcher> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Wes_Anderson> <Cigarettes-euronews-6> .
+ <http://example.org/ontology#FantasticMrFox> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/resource/Stop_motion> <Cigarettes-euronews-6> .
+ <http://dbpedia.org/resource/Netflix> <http://dbpedia.org/ontology/acquisitionPrice> "686000000"^^<http://www.w3.org/2001/XMLSchema#integer>  <Cigarettes-euronews-6> .
+ <http://example.org/ontology#CharlieAndTheGreatGlassElevator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <Cigarettes-euronews-6> .
+ <http://example.org/ontology#AsteroidCity> <http://dbpedia.org/ontology/premiereYear> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-euronews-6> .
+ <http://example.org/ontology#CharlieAndTheChocolateFactory> <http://dbpedia.org/ontology/basedOn> <http://dbpedia.org/resource/Charlie_and_the_Chocolate_Factory> <Cigarettes-euronews-6> .
+ <http://example.org/ontology#Poison> <http://dbpedia.org/ontology/runtime> "17"^^<http://www.w3.org/2001/XMLSchema#integer>  <Cigarettes-euronews-6> .
+ <http://dbpedia.org/resource/Netflix> <http://dbpedia.org/ontology/acquiredRights> <http://dbpedia.org/resource/Roald_Dahl> <Cigarettes-euronews-6> .
+ <http://example.org/ontology#TheWonderfulStoryOfHenrySugar> <http://dbpedia.org/ontology/starring> <http://dbpedia.org/resource/Ralph_Fiennes> <Cigarettes-euronews-6> .
+ <http://Cigarettes-euronews-6.com/blank#neb630cc48f6e48dd8bc06eb2359baadbb1> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Buckinghamshire> <Cigarettes-euronews-6> .
+ <http://example.org/ontology#AsteroidCity> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Wes_Anderson> <Cigarettes-euronews-6> .
+ <http://example.org/ontology#ZZChatterjee> <http://dbpedia.org/ontology/occupation> <http://dbpedia.org/ontology/Doctor> <Cigarettes-euronews-6> .
+ <http://example.org/ontology#FantasticMrFox> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Wes_Anderson> <Cigarettes-euronews-6> .
+ <http://dbpedia.org/resource/Netflix> <http://dbpedia.org/ontology/acquisitionYear> "2021"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-euronews-6> .
+ <http://example.org/ontology#CharlieAndTheChocolateFactory> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Taika_Waititi> <Cigarettes-euronews-6> .
+ <http://example.org/ontology#TheWonderfulStoryOfHenrySugar> <http://dbpedia.org/ontology/festivalPremiere> <http://dbpedia.org/resource/Venice_Film_Festival> <Cigarettes-euronews-6> .
+ <http://dbpedia.org/resource/Wes_Anderson> <http://dbpedia.org/ontology/collaborationWith> <http://dbpedia.org/resource/Netflix> <Cigarettes-euronews-6> .
+ <http://example.org/ontology#TheWonderfulStoryOfHenrySugar> <http://dbpedia.org/ontology/runtime> "39"^^<http://www.w3.org/2001/XMLSchema#integer>  <Cigarettes-euronews-6> .
+ <http://example.org/ontology#FantasticMrFox> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <Cigarettes-euronews-6> .
+ <http://example.org/ontology#Swan> <http://dbpedia.org/ontology/releaseDate> "2023-09-28"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-euronews-6> .
+ <http://example.org/ontology#ZZChatterjee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Cigarettes-euronews-6> .
+ <http://example.org/ontology#TheWonderfulStoryOfHenrySugar> <http://dbpedia.org/ontology/distributor> <http://dbpedia.org/resource/Netflix> <Cigarettes-euronews-6> .
+ <http://example.org/ontology#FantasticMrFox> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/ontology/Comedy> <Cigarettes-euronews-6> .
+ <http://example.org/ontology#FantasticMrFox> <http://dbpedia.org/ontology/genre> <http://dbpedia.org/ontology/AnimatedFilm> <Cigarettes-euronews-6> .
+ <http://example.org/ontology#TheWonderfulStoryOfHenrySugar> <http://dbpedia.org/ontology/adaptationOf> <http://dbpedia.org/resource/The_Wonderful_Story_of_Henry_Sugar_and_Six_More> <Cigarettes-euronews-6> .
+ <http://example.org/ontology#CharlieAndTheGreatGlassElevator> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Taika_Waititi> <Cigarettes-euronews-6> .
+ <http://example.org/ontology#ImdadKhan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Person> <Cigarettes-euronews-6> .
+ <http://dbpedia.org/resource/Dev_Patel> <http://dbpedia.org/ontology/portrayal> <http://example.org/ontology#ZZChatterjee> <Cigarettes-euronews-6> .
+ <http://example.org/ontology#TheWonderfulStoryOfHenrySugar> <http://dbpedia.org/ontology/premiereYear> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-euronews-6> .
+ <http://example.org/ontology#TheWonderfulStoryOfHenrySugar> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Wes_Anderson> <Cigarettes-euronews-6> .
+ <http://Cigarettes-euronews-6.com/blank#neb630cc48f6e48dd8bc06eb2359baadbb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Home> <Cigarettes-euronews-6> .
+ <http://example.org/ontology#Swan> <http://dbpedia.org/ontology/director> <http://dbpedia.org/resource/Wes_Anderson> <Cigarettes-euronews-6> .
+ <http://example.org/ontology#TheEnormousCrocodile> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Film> <Cigarettes-euronews-6> .
+ <http://dbpedia.org/resource/Netflix> <http://dbpedia.org/ontology/acquisitionCurrency> "USD"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-euronews-6> .
+ <http://example.org/ontology#HenrySugar> <http://dbpedia.org/ontology/description> "privileged and selfish playboy"  <Cigarettes-euronews-6> .
+ <http://example.org/ontology#ZZChatterjee> <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/Calcutta> <Cigarettes-euronews-6> .
+ <http://example.org/study/ActinAccumulation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/study/BiologicalProcess> <Cigarettes-euronews-7> .
+ <http://example.org/study/Study1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/study/ResearchStudy> <Cigarettes-euronews-7> .
+ <http://example.org/study/Study1> <http://purl.org/dc/elements/1.1/title> "E-cigarette vapour and its impact on immune cells"  <Cigarettes-euronews-7> .
+ <http://example.org/study/Study1> <http://purl.org/dc/elements/1.1/date> "2023"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-euronews-7> .
+ <http://example.org/study/ImmuneCells> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/study/CellFunction> <Cigarettes-euronews-7> .
+ <http://example.org/study/Neutrophils> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/study/CellType> <Cigarettes-euronews-7> .
+ <http://example.org/study/E-cigarettes> <http://purl.org/dc/elements/1.1/description> "Popular among young people, associated with long-term health consequences."  <Cigarettes-euronews-7> .
+ <http://example.org/study/Study1> <http://purl.org/dc/elements/1.1/subject> "Neutrophils"  <Cigarettes-euronews-7> .
+ <http://example.org/study/Study1> <http://purl.org/dc/elements/1.1/publishedIn> <http://example.org/study/JournalOfAllergyAndClinicalImmunology> <Cigarettes-euronews-7> .
+ <http://example.org/study/JournalOfAllergyAndClinicalImmunology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/study/Journal> <Cigarettes-euronews-7> .
+ <http://example.org/study/E-cigaretteVapour> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/study/Substance> <Cigarettes-euronews-7> .
+ <http://example.org/study/DavidThickett> <http://xmlns.com/foaf/0.1/name> "David Thickett"  <Cigarettes-euronews-7> .
+ <http://example.org/study/ActinAccumulation> <http://purl.org/dc/elements/1.1/description> "Excessive accumulation of the filament F-actin inside neutrophils, observed during exposure to e-cigarette vapour."  <Cigarettes-euronews-7> .
+ <http://example.org/study/ResearchFindings> <http://purl.org/dc/elements/1.1/description> "E-cigarette vapour paralyses immune cells, impacting their mobility and protective functions."  <Cigarettes-euronews-7> .
+ <http://example.org/study/DavidThickett> <http://xmlns.com/foaf/0.1/topic_interest> "Respiratory medicine"  <Cigarettes-euronews-7> .
+ <http://example.org/study/Study1> <http://purl.org/dc/elements/1.1/contributor> <http://example.org/study/DavidThickett> <Cigarettes-euronews-7> .
+ <http://example.org/study/AaronScott> <http://xmlns.com/foaf/0.1/title> "Associate Professor"  <Cigarettes-euronews-7> .
+ <http://example.org/study/AaronScott> <http://xmlns.com/foaf/0.1/topic_interest> "Respiratory science"  <Cigarettes-euronews-7> .
+ <http://example.org/study/DavidThickett> <http://xmlns.com/foaf/0.1/workplaceHomepage> <http://www.birmingham.ac.uk> <Cigarettes-euronews-7> .
+ <http://example.org/study/VapeExposure> <http://example.org/study/exposureSubstance> <http://example.org/study/E-cigaretteVapour> <Cigarettes-euronews-7> .
+ <http://example.org/study/Study1> <http://purl.org/dc/elements/1.1/creator> <http://example.org/study/AaronScott> <Cigarettes-euronews-7> .
+ <http://example.org/study/ResearchFindings> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/study/ResearchOutput> <Cigarettes-euronews-7> .
+ <http://example.org/study/AaronScott> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Cigarettes-euronews-7> .
+ <http://example.org/study/DavidThickett> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Cigarettes-euronews-7> .
+ <http://example.org/study/E-cigarettes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/study/Product> <Cigarettes-euronews-7> .
+ <http://example.org/study/AaronScott> <http://xmlns.com/foaf/0.1/workplaceHomepage> <http://www.birmingham.ac.uk> <Cigarettes-euronews-7> .
+ <http://example.org/study/VapeExposure> <http://purl.org/dc/elements/1.1/description> "Exposure of neutrophils to 40 puffs of vape, representing low daily exposure."  <Cigarettes-euronews-7> .
+ <http://example.org/study/JournalOfAllergyAndClinicalImmunology> <http://purl.org/dc/elements/1.1/title> "Journal of Allergy and Clinical Immunology"  <Cigarettes-euronews-7> .
+ <http://example.org/study/ImmuneCells> <http://purl.org/dc/elements/1.1/description> "Cells that protect the body against threats, including neutrophils."  <Cigarettes-euronews-7> .
+ <http://example.org/study/E-cigaretteVapour> <http://purl.org/dc/elements/1.1/description> "Vapour from e-cigarettes, with or without nicotine, observed to paralyse immune cells."  <Cigarettes-euronews-7> .
+ <http://example.org/study/Study1> <http://purl.org/dc/elements/1.1/subject> "E-cigarettes"  <Cigarettes-euronews-7> .
+ <http://example.org/study/DavidThickett> <http://xmlns.com/foaf/0.1/title> "Professor"  <Cigarettes-euronews-7> .
+ <http://example.org/study/VapeExposure> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/study/ExposureEvent> <Cigarettes-euronews-7> .
+ <http://example.org/study/Vaping> <http://purl.org/dc/elements/1.1/description> "Inhaling vapour from e-cigarettes, potentially impacting immune cells."  <Cigarettes-euronews-7> .
+ <http://example.org/study/Study1> <http://purl.org/dc/elements/1.1/description> "A study indicating that e-cigarettes may paralyse the body's immune cells."  <Cigarettes-euronews-7> .
+ <http://example.org/study/AaronScott> <http://xmlns.com/foaf/0.1/name> "Aaron Scott"  <Cigarettes-euronews-7> .
+ <http://example.org/study/Neutrophils> <http://purl.org/dc/elements/1.1/description> "A type of white blood cell representing 50 to 80 per cent of all white blood cells in the human body."  <Cigarettes-euronews-7> .
+ <http://example.org/study/Vaping> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/study/Activity> <Cigarettes-euronews-7> .
+ <http://example.org/study/Study1> <http://purl.org/dc/elements/1.1/subject> "Immune cells"  <Cigarettes-euronews-7> .
+ <http://example.org/VapingTrend> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Trend> <Cigarettes-euronews-8> .
+ <http://example.org/HumzaYousaf> <http://schema.org/comment> "Called disposable vapes a threat to both public health and the environment."  <Cigarettes-euronews-8> .
+ <http://example.org/Belgium> <http://schema.org/action> "Awaiting the EU's green light to prohibit disposable e-cigarettes."  <Cigarettes-euronews-8> .
+ <http://example.org/UKGovernment> <http://xmlns.com/foaf/0.1/name> "UK Government"  <Cigarettes-euronews-8> .
+ <http://example.org/WHO> <http://schema.org/comment> "Suggested evidence that young people using e-cigarettes double their chance of starting to smoke tobacco cigarettes in later life."  <Cigarettes-euronews-8> .
+ <http://example.org/ElisabethBorne> <http://xmlns.com/foaf/0.1/name> "Elisabeth Borne"  <Cigarettes-euronews-8> .
+ <http://example.org/EU> <http://xmlns.com/foaf/0.1/name> "European Union"  <Cigarettes-euronews-8> .
+ <http://example.org/DrAyeshaVerrall> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Cigarettes-euronews-8> .
+ <http://example.org/ScottishGovernment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/GovernmentOrganization> <Cigarettes-euronews-8> .
+ <http://example.org/Drugwatch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Cigarettes-euronews-8> .
+ <http://example.org/VapingTrend> <http://schema.org/description> "Vaping has become a trend among young people, with single-use vapes being used as an accessory item."  <Cigarettes-euronews-8> .
+ <http://example.org/Ireland> <http://schema.org/action> "Seeking people's views ahead of a potential ban on disposable e-cigarettes."  <Cigarettes-euronews-8> .
+ <http://example.org/VOICEIreland> <http://schema.org/action> "Launched a petition and campaign #BanDisposableVapes on social media."  <Cigarettes-euronews-8> .
+ <http://example.org/HealthConcerns> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/HealthIssue> <Cigarettes-euronews-8> .
+ <http://example.org/NewZealand> <http://schema.org/action> "Implemented an effective ban on disposable e-cigarettes."  <Cigarettes-euronews-8> .
+ <http://example.org/VOICEIreland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Cigarettes-euronews-8> .
+ <http://example.org/ElisabethBorne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Cigarettes-euronews-8> .
+ <http://example.org/SteffiLemke> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Cigarettes-euronews-8> .
+ <http://example.org/France> <http://schema.org/action> "Announced a vape crackdown."  <Cigarettes-euronews-8> .
+ <http://example.org/DrAyeshaVerrall> <http://schema.org/comment> "Recognises the need to balance preventing young people from starting to vape and having vapes available as a cessation tool."  <Cigarettes-euronews-8> .
+ <http://example.org/Australia> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/resource/Australia> <Cigarettes-euronews-8> .
+ <http://example.org/HealthConcerns> <http://schema.org/description> "Health concerns associated with single-use vapes include addiction to nicotine and potential cardiovascular disease."  <Cigarettes-euronews-8> .
+ <http://example.org/STOP> <http://xmlns.com/foaf/0.1/name> "Tobacco industry watchdog organization STOP"  <Cigarettes-euronews-8> .
+ <http://example.org/BanOnE-cigarettes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Legislation> <Cigarettes-euronews-8> .
+ <http://example.org/HumzaYousaf> <http://xmlns.com/foaf/0.1/name> "Humza Yousaf"  <Cigarettes-euronews-8> .
+ <http://example.org/EU> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organisation> <Cigarettes-euronews-8> .
+ <http://example.org/Drugwatch> <http://schema.org/comment> "Reported side effects of daily use of single-use vapes such as coughing, shortness of breath, and heart palpitations."  <Cigarettes-euronews-8> .
+ <http://example.org/Belgium> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/resource/Belgium> <Cigarettes-euronews-8> .
+ <http://example.org/SteffiLemke> <http://xmlns.com/foaf/0.1/title> "Green federal Minister of the Environment"  <Cigarettes-euronews-8> .
+ <http://example.org/France> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/resource/France> <Cigarettes-euronews-8> .
+ <http://example.org/DrAyeshaVerrall> <http://xmlns.com/foaf/0.1/title> "New Zealand Health Minister"  <Cigarettes-euronews-8> .
+ <http://example.org/SteffiLemke> <http://schema.org/comment> "Wants to ban disposable e-cigarettes from the EU."  <Cigarettes-euronews-8> .
+ <http://example.org/WHO> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Cigarettes-euronews-8> .
+ <http://example.org/Australia> <http://schema.org/action> "Announced measures on vaping, accusing the tobacco industry of targeting teenagers."  <Cigarettes-euronews-8> .
+ <http://example.org/DisposableE-cigarettes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Product> <Cigarettes-euronews-8> .
+ <http://example.org/DisposableE-cigarettes> <http://schema.org/description> "Disposable e-cigarettes, also known as puff bars, have become popular among teens and are associated with health concerns."  <Cigarettes-euronews-8> .
+ <http://example.org/WelshGovernment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/GovernmentOrganization> <Cigarettes-euronews-8> .
+ <http://example.org/STOP> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Organization> <Cigarettes-euronews-8> .
+ <http://example.org/DrAyeshaVerrall> <http://xmlns.com/foaf/0.1/name> "Ayesha Verrall"  <Cigarettes-euronews-8> .
+ <http://example.org/SteffiLemke> <http://xmlns.com/foaf/0.1/name> "Steffi Lemke"  <Cigarettes-euronews-8> .
+ <http://example.org/ElisabethBorne> <http://xmlns.com/foaf/0.1/title> "French Prime Minister"  <Cigarettes-euronews-8> .
+ <http://example.org/ElisabethBorne> <http://schema.org/comment> "Announced the ban on disposable e-cigarettes in France."  <Cigarettes-euronews-8> .
+ <http://example.org/Drugwatch> <http://xmlns.com/foaf/0.1/name> "Drugwatch"  <Cigarettes-euronews-8> .
+ <http://example.org/WHO> <http://xmlns.com/foaf/0.1/name> "World Health Organization"  <Cigarettes-euronews-8> .
+ <http://example.org/WelshGovernment> <http://xmlns.com/foaf/0.1/name> "Welsh Government"  <Cigarettes-euronews-8> .
+ <http://example.org/Germany> <http://schema.org/action> "Intends to take action against disposable e-cigarettes."  <Cigarettes-euronews-8> .
+ <http://example.org/WelshGovernment> <http://schema.org/action> "Urging the UK government to take action against disposable e-cigarettes."  <Cigarettes-euronews-8> .
+ <http://example.org/BanOnE-cigarettes> <http://schema.org/description> "Several countries are considering banning disposable e-cigarettes to curb the phenomenon among teenagers."  <Cigarettes-euronews-8> .
+ <http://example.org/ScottishGovernment> <http://xmlns.com/foaf/0.1/name> "Scottish Government"  <Cigarettes-euronews-8> .
+ <http://example.org/Germany> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/resource/Germany> <Cigarettes-euronews-8> .
+ <http://example.org/Ireland> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/resource/Ireland> <Cigarettes-euronews-8> .
+ <http://example.org/STOP> <http://schema.org/comment> "Claims that fruity flavours, fun packages, and social media promotion target and hook a new generation of users as replacement smokers."  <Cigarettes-euronews-8> .
+ <http://example.org/HumzaYousaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Cigarettes-euronews-8> .
+ <http://example.org/HumzaYousaf> <http://xmlns.com/foaf/0.1/title> "Scottish First Minister"  <Cigarettes-euronews-8> .
+ <http://example.org/ScottishGovernment> <http://schema.org/action> "Pushing for a ban on disposable e-cigarettes, citing littering and young age of consumers."  <Cigarettes-euronews-8> .
+ <http://example.org/VOICEIreland> <http://xmlns.com/foaf/0.1/name> "VOICE Ireland"  <Cigarettes-euronews-8> .
+ <http://example.org/NewZealand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/resource/NewZealand> <Cigarettes-euronews-8> .
+ <http://example.org/UKGovernment> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/GovernmentOrganization> <Cigarettes-euronews-8> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b18> <http://example.org/ontology#description> "Mathieu is surrounded and beaten"  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#TortureEvent> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Event> <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Outcome> <Cigarettes-euronews-9> .
+ <http://example.org/ontology#YouthCourtDecision> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#LegalDecision> <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b21> <http://example.org/ontology#description> "beaten and burned with a cigarette"  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#SuicideAttempt> <http://example.org/ontology#method> "choking on a rag"  <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Injury> <Cigarettes-euronews-9> .
+ <http://example.org/ontology#Denouncement> <http://example.org/ontology#participant> <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b17>  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#PoliceArrest> <http://example.org/ontology#hiddenSubstances> <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b13>  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#Trial> <http://example.org/ontology#potentialSentence> "life imprisonment"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b6> <http://example.org/ontology#description> "parts of his body burnt with a blowtorch"  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#Mathieu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> <Cigarettes-euronews-9> .
+ <http://example.org/ontology#TortureEvent> <http://example.org/ontology#victim> <http://example.org/ontology#Mathieu> <Cigarettes-euronews-9> .
+ <http://example.org/ontology#Silence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Condition> <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Court> <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b1> <http://xmlns.com/foaf/0.1/name> "AFP"  <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b3> <http://xmlns.com/foaf/0.1/name> "Marseille"  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#PoliceArrest> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Event> <Cigarettes-euronews-9> .
+ <http://example.org/ontology#JuvenileCourtSentence> <http://example.org/ontology#sentenceDuration> "10 years"^^<http://www.w3.org/2001/XMLSchema#duration>  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#Trial> <http://example.org/ontology#date> "2019-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b15> <http://example.org/ontology#type> "Child Welfare home"  <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Placement> <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Person> <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Destination> <Cigarettes-euronews-9> .
+ <http://example.org/ontology#BasementTorture> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Event> <Cigarettes-euronews-9> .
+ <http://example.org/ontology#Mathieu> <http://example.org/ontology#occupation> "Independent drug seller"  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#DrugNetwork> <http://example.org/ontology#monopolyClaim> "monopoly over all the illicit trade in the region"  <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#TortureMethod> <Cigarettes-euronews-9> .
+ <http://example.org/ontology#Article> <http://schema.org/contributor> <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b1>  <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Location> <Cigarettes-euronews-9> .
+ <http://example.org/ontology#BasementTorture> <http://example.org/ontology#location> <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b19>  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#JuvenileCourtSentence> <http://example.org/ontology#date> "2022-11"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#Trial> <http://example.org/ontology#charges> "lynching of a young drug seller"  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#SuicideAttempt> <http://example.org/ontology#participant> <http://example.org/ontology#Mathieu> <Cigarettes-euronews-9> .
+ <http://example.org/ontology#Trial> <http://example.org/ontology#court> <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b4>  <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b20> <http://example.org/ontology#role> "drug dealing network's members"  <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b7> <http://xmlns.com/foaf/0.1/name> "Marseille"  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#DrugNetwork> <http://example.org/ontology#location> <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b7>  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#BasementTorture> <http://example.org/ontology#victim> <http://example.org/ontology#Mathieu> <Cigarettes-euronews-9> .
+ <http://example.org/ontology#PoliceArrest> <http://example.org/ontology#date> "2019"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b17> <http://example.org/ontology#role> "young watchman"  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#SuicideAttempt> <http://example.org/ontology#reason> "to escape unbearable pain"  <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b2> <http://example.org/ontology#description> "beaten, burnt, and forced to snort cocaine"  <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b14> <http://example.org/ontology#location> <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b15>  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#TortureEvent> <http://example.org/ontology#injury> <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b6>  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#PoliceArrest> <http://example.org/ontology#outcome> <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b11>  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#TortureEvent> <http://example.org/ontology#date> "2019-08"^^<http://www.w3.org/2001/XMLSchema#gYearMonth>  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#DrugSelling> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Activity> <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Outcome> <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Person> <Cigarettes-euronews-9> .
+ <http://example.org/ontology#Mathieu> <http://xmlns.com/foaf/0.1/name> "Mathieu"  <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b12> <http://example.org/ontology#quantity> "15 grams"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#Mathieu> <http://example.org/ontology#alias> "not his real name"  <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b9> <http://example.org/ontology#role> "Mathieu's torturer"  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#SuicideAttempt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Event> <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b13> <http://example.org/ontology#quantity> "10"^^<http://www.w3.org/2001/XMLSchema#int>  <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Person> <Cigarettes-euronews-9> .
+ <http://example.org/ontology#Silence> <http://example.org/ontology#imposedBy> <http://example.org/ontology#DrugNetwork> <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b19> <http://example.org/ontology#description> "abandoned basement"  <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#TortureMethod> <Cigarettes-euronews-9> .
+ <http://example.org/ontology#BasementTorture> <http://example.org/ontology#additionalDetails> "Mathieu was naked, tied to a chair with an electric cable"  <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Condition> <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b4> <http://xmlns.com/foaf/0.1/name> "Aix-en-Provence assizes"  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#YouthCourtDecision> <http://example.org/ontology#placement> <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b14>  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#Mathieu> <http://example.org/ontology#condition> <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b2>  <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b13> <http://example.org/ontology#type> "bars of hash"  <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b12> <http://example.org/ontology#type> "cocaine"  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#TortureEvent> <http://example.org/ontology#method> <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b5>  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#BasementTorture> <http://example.org/ontology#method> <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b21>  <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b10> <http://xmlns.com/foaf/0.1/name> "Le Micocouliers, Marseille"  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#DrugNetwork> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Organization> <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Location> <Cigarettes-euronews-9> .
+ <http://example.org/ontology#YouthCourtDecision> <http://example.org/ontology#participant> <http://example.org/ontology#Mathieu> <Cigarettes-euronews-9> .
+ <http://example.org/ontology#Mathieu> <http://xmlns.com/foaf/0.1/age> "16"^^<http://www.w3.org/2001/XMLSchema#int>  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#Trial> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#LegalCase> <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Location> <Cigarettes-euronews-9> .
+ <http://example.org/ontology#DrugSelling> <http://example.org/ontology#startDate> "2019"^^<http://www.w3.org/2001/XMLSchema#gYear>  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#Article> <http://schema.org/sourceName> "Euronews"  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#PoliceArrest> <http://example.org/ontology#participant> <http://example.org/ontology#Mathieu> <Cigarettes-euronews-9> .
+ <http://example.org/ontology#Trial> <http://example.org/ontology#location> <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b3>  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#DrugSelling> <http://example.org/ontology#earnings> "500"^^<http://www.w3.org/2001/XMLSchema#decimal>  <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Substance> <Cigarettes-euronews-9> .
+ <http://example.org/ontology#Denouncement> <http://example.org/ontology#outcome> <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b18>  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#JuvenileCourtSentence> <http://example.org/ontology#convicted> <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b9>  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#JuvenileCourtSentence> <http://example.org/ontology#charges> "kidnapping and sequestration accompanied by torture and barbaric acts"  <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b11> <http://example.org/ontology#description> "Mathieu hides drugs"  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#PoliceArrest> <http://example.org/ontology#hiddenSubstances> <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b12>  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#DrugSelling> <http://example.org/ontology#currency> "EUR"^^<http://www.w3.org/2001/XMLSchema#string>  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#BasementTorture> <http://example.org/ontology#participants> <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b20>  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#Article> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Article> <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#District> <Cigarettes-euronews-9> .
+ <http://example.org/ontology#DrugNetwork> <http://example.org/ontology#activity> "illicit drug trade"  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#Trial> <http://example.org/ontology#accusedCount> "4"^^<http://www.w3.org/2001/XMLSchema#int>  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#Denouncement> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Event> <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Location> <Cigarettes-euronews-9> .
+ <http://example.org/ontology#Trial> <http://example.org/ontology#verdictDate> "2023-09-15"^^<http://www.w3.org/2001/XMLSchema#date>  <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b5> <http://example.org/ontology#description> "kidnapped and tortured overnight"  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#Silence> <http://example.org/ontology#affectedArea> <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b8>  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#JuvenileCourtSentence> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#LegalDecision> <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b8> <http://xmlns.com/foaf/0.1/name> "3rd Arrondissement, Marseille"  <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Home> <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b16> <http://xmlns.com/foaf/0.1/name> "Chartres"  <Cigarettes-euronews-9> .
+ <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/ontology#Substance> <Cigarettes-euronews-9> .
+ <http://example.org/ontology#DrugSelling> <http://example.org/ontology#frequency> "daily"  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#YouthCourtDecision> <http://example.org/ontology#intendedDestination> <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b16>  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#Mathieu> <http://example.org/ontology#testimony> "They treated me worse than an animal"  <Cigarettes-euronews-9> .
+ <http://example.org/ontology#DrugSelling> <http://example.org/ontology#participant> <http://example.org/ontology#Mathieu> <Cigarettes-euronews-9> .
+ <http://example.org/ontology#DrugSelling> <http://example.org/ontology#location> <http://Cigarettes-euronews-9.com/blank#na05a2200a8fe429fa278e62ba85d9bc1b10>  <Cigarettes-euronews-9> .
