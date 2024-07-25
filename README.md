@@ -56,7 +56,7 @@ Run:
 python summarySet.py
 ```
 
-##Analyzing datasets
+## Analyzing datasets
 To get information about the different datasets, run:
 ```console
 python analyze.py
@@ -64,7 +64,7 @@ python analyze.py
 Output: Terminal output and figures.<br />
 Figures will be added to the analysis folder.
 
-# Experiment 
+# Experiments 
 ## Pairwise Merging
 The pairwise merging experiment is executed for each dataset by
 ```console
