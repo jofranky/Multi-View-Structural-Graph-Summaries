@@ -1,9 +1,9 @@
 # Multi-View Structural Graph Summaries
 
-# Structure
+## Structure
 The data folder only contains the INC 2023 dataset. CSS3V and BTC2019 must be downloaded and added by hand. The BTC2019 dataset is splitted into wikidata and the rest. 
 The code is in src.
-# Download
+## Download
 The BTC2019 data can be downloaded from https://zenodo.org/records/2634588 and has to be put into the folder data/BTC2019.
 <br />
 The wikidata data can be downloaded from [will be added] and has to be unzipped and put into the folder data/wikidata.
