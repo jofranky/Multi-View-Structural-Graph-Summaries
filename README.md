@@ -6,13 +6,13 @@ The code is in src.
 ## Download
 The BTC2019 data can be downloaded from https://zenodo.org/records/2634588 and has to be put into the folder data/BTC2019.
 <br />
-The wikidata data can be downloaded from [will be added] and has to be unzipped and put into the folder data/wikidata.
+The wikidata data can be downloaded from https://zenodo.org/records/14234154 and has to be unzipped and put into the folder data/wikidata.
 One has to unzip all files in data/wikidata:
 ```console
 gunzip -r `find . -type f -name "*.gz"
 ```
 <br />
-The CSS3V dataset can be downloaded from [will be added] and has to be unzipped and put into the folder data.
+The CSS3V dataset can be downloaded from https://zenodo.org/records/12752416 and has to be unzipped and put into the folder data.
 
 # Preprocessing 
 ## Graphs
